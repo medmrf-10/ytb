@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:5BSp-rTjFfY",
+ "vid": "5BSp-rTjFfY",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--516",
+ "n": 8,
+ "n_src": "playlist",
+ "title": "تفسير سورة الشعراء للشيخ الشعراوي - من آية 105 إلى آية 129",
+ "title_src": "youtube",
+ "sha256": "eba24c3a5951497b490472d4d2c7635cbda6cb8f3379bff97de6d74ae24df500",
+ "chars": 56311,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/516/008_5BSp-rTjFfY.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/5BSp-rTjFfY",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--516",
+ "series_slug": "sharawi--516",
+ "lesson_no": 8,
+ "yt": "5BSp-rTjFfY",
+ "transcribed": "2026-10-13 22:57:46",
+ "audio": "ytb-build/audio/sharawi--516/008.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "ne\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 62.998, \"Gemini Models / Five Hour Limit Remaining\": 38.425, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 2.573, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.143}\nchars: 56310 | words: 9815\nduplicate 8/12-gram runs: 9533\nwrote /root/workspace/ytb/sharawi/516/008_5BSp-rTjFfY.txt\n"
+}

@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:WjWwpcpXDOA",
+ "vid": "WjWwpcpXDOA",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--531",
+ "n": 11,
+ "n_src": "playlist",
+ "title": "تفسير سورة النور للشيخ الشعراوي - من آية 63 إلى آية 64",
+ "title_src": "youtube",
+ "sha256": "f6cdd81127c2b494c5ec826b395e70bc99b05e5f380f2d763b828ba31416adf6",
+ "chars": 14941,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/531/011_WjWwpcpXDOA.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/WjWwpcpXDOA",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--531",
+ "series_slug": "sharawi--531",
+ "lesson_no": 11,
+ "yt": "WjWwpcpXDOA",
+ "transcribed": "2026-10-13 21:47:11",
+ "audio": "ytb-build/audio/sharawi--531/011.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "one\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 70.86, \"Gemini Models / Five Hour Limit Remaining\": 70.487, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 94.6}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 5.153, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 1.725}\nchars: 14940 | words: 2671\nduplicate 8/12-gram runs: 2\nwrote /root/workspace/ytb/sharawi/531/011_WjWwpcpXDOA.txt\n"
+}

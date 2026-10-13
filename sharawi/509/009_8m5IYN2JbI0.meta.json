@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:8m5IYN2JbI0",
+ "vid": "8m5IYN2JbI0",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--509",
+ "n": 9,
+ "n_src": "playlist",
+ "title": "تفسير سورة الفرقان للشيخ الشعراوي - من آية 53 إلى آية 58",
+ "title_src": "youtube",
+ "sha256": "a20fe3a0d06de11bb351e34780f123995a1d1d846dbb9eb2c0ba24c1dbac7235",
+ "chars": 56368,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/509/009_8m5IYN2JbI0.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/8m5IYN2JbI0",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--509",
+ "series_slug": "sharawi--509",
+ "lesson_no": 9,
+ "yt": "8m5IYN2JbI0",
+ "transcribed": "2026-10-13 22:24:51",
+ "audio": "ytb-build/audio/sharawi--509/009.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 65.099, \"Gemini Models / Five Hour Limit Remaining\": 46.828, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 0.377, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Five Hour Limit Remaining\": 2.509, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 56367 | words: 10178\nduplicate 8/12-gram runs: 10191\nwrote /root/workspace/ytb/sharawi/509/009_8m5IYN2JbI0.txt\n"
+}

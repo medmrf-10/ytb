@@ -8,8 +8,8 @@
  "n_src": "playlist",
  "title": "تفسير سورة المؤمنون للشيخ الشعراوي - من آية 88 إلى آية 93",
  "title_src": "youtube",
- "sha256": "b98b9d0f49cea366ffdd36b100f5e1b290b1bffd939849ef563715ad1e352442",
- "chars": 28053,
+ "sha256": "ae144f5eb43afcb505ee71592dd68c69a3fdd15bba5da1b624f79e904facf8ac",
+ "chars": 27260,
  "quality": "ok",
  "winner": {
   "store": "ytb-transcribe",
@@ -27,8 +27,8 @@
  "series_slug": "sharawi--496",
  "lesson_no": 13,
  "yt": "LwM3J_MVbe4",
- "transcribed": "2026-10-13 20:25:06",
+ "transcribed": "2026-10-13 21:07:56",
  "audio": "ytb-build/audio/sharawi--496/013.mp3",
  "job": "agy+gemini عبر agy",
- "usage_tail": "e\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 77.292, \"Gemini Models / Five Hour Limit Remaining\": 99.67, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 94.6}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.509, \"Gemini Models / Five Hour Limit Remaining\": -15.98, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 28052 | words: 5271\nduplicate 8/12-gram runs: 11\nwrote /root/workspace/ytb/sharawi/496/013_LwM3J_MVbe4.txt\n"
+ "usage_tail": "e\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 75.899, \"Gemini Models / Five Hour Limit Remaining\": 90.898, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 94.6}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.147, \"Gemini Models / Five Hour Limit Remaining\": 0.595}\nchars: 27259 | words: 5169\nduplicate 8/12-gram runs: 11\nwrote /root/workspace/ytb/sharawi/496/013_LwM3J_MVbe4.txt\n"
 }

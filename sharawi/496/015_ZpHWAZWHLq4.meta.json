@@ -8,8 +8,8 @@
  "n_src": "playlist",
  "title": "تفسير سورة المؤمنون للشيخ الشعراوي - من آية 101 إلى آية 112",
  "title_src": "youtube",
- "sha256": "a206f1b7eaf5ce0e16eb2785c24f603ff49186e81b91953b5d478021a302c5b3",
- "chars": 27393,
+ "sha256": "9a31555cc16d0519fe150eef55703368dabede1a81d0e278fd8d30f4ab931aeb",
+ "chars": 27312,
  "quality": "ok",
  "winner": {
   "store": "ytb-transcribe",
@@ -27,8 +27,8 @@
  "series_slug": "sharawi--496",
  "lesson_no": 15,
  "yt": "ZpHWAZWHLq4",
- "transcribed": "2026-10-13 20:26:03",
+ "transcribed": "2026-10-13 21:08:52",
  "audio": "ytb-build/audio/sharawi--496/015.mp3",
  "job": "agy+gemini عبر agy",
- "usage_tail": "\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 77.798, \"Gemini Models / Five Hour Limit Remaining\": 99.5, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 94.6}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": -0.085, \"Gemini Models / Five Hour Limit Remaining\": -16.165, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0}\nchars: 27392 | words: 4678\nduplicate 8/12-gram runs: 17\nwrote /root/workspace/ytb/sharawi/496/015_ZpHWAZWHLq4.txt\n"
+ "usage_tail": "\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 75.867, \"Gemini Models / Five Hour Limit Remaining\": 90.769, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 94.6}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": -0.062, \"Gemini Models / Five Hour Limit Remaining\": 0.474, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0}\nchars: 27311 | words: 4665\nduplicate 8/12-gram runs: 17\nwrote /root/workspace/ytb/sharawi/496/015_ZpHWAZWHLq4.txt\n"
 }
