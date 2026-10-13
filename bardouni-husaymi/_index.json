@@ -15,6 +15,33 @@
    "transcribed": 19
   },
   {
+   "coverage": 0.0,
+   "declared_total": 105,
+   "dir": "1000/",
+   "key": "1000",
+   "row_id": null,
+   "title": null,
+   "transcribed": 0
+  },
+  {
+   "coverage": 0.0,
+   "declared_total": 1,
+   "dir": "1001/",
+   "key": "1001",
+   "row_id": null,
+   "title": null,
+   "transcribed": 0
+  },
+  {
+   "coverage": 0.0,
+   "declared_total": 44,
+   "dir": "1002/",
+   "key": "1002",
+   "row_id": null,
+   "title": null,
+   "transcribed": 0
+  },
+  {
    "coverage": 1.6825,
    "declared_total": 126,
    "dir": "1003/",
@@ -22,6 +49,15 @@
    "row_id": "bardouni-husaymi--1003",
    "title": "الشرح الثاني للرسالة",
    "transcribed": 212
+  },
+  {
+   "coverage": 0.0,
+   "declared_total": 6,
+   "dir": "1004/",
+   "key": "1004",
+   "row_id": null,
+   "title": null,
+   "transcribed": 0
   },
   {
    "coverage": 1.0,
@@ -51,6 +87,33 @@
    "transcribed": 14
   },
   {
+   "coverage": 0.0,
+   "declared_total": 15,
+   "dir": "985/",
+   "key": "985",
+   "row_id": null,
+   "title": null,
+   "transcribed": 0
+  },
+  {
+   "coverage": 0.0,
+   "declared_total": 85,
+   "dir": "986/",
+   "key": "986",
+   "row_id": null,
+   "title": null,
+   "transcribed": 0
+  },
+  {
+   "coverage": 0.0,
+   "declared_total": 55,
+   "dir": "987/",
+   "key": "987",
+   "row_id": null,
+   "title": null,
+   "transcribed": 0
+  },
+  {
    "coverage": 1.0,
    "declared_total": 12,
    "dir": "988/",
@@ -76,6 +139,15 @@
    "row_id": "bardouni-husaymi--990",
    "title": "نظم الاستعارة",
    "transcribed": 10
+  },
+  {
+   "coverage": 0.0,
+   "declared_total": 123,
+   "dir": "991/",
+   "key": "991",
+   "row_id": null,
+   "title": null,
+   "transcribed": 0
   },
   {
    "coverage": 1.0,
@@ -105,6 +177,24 @@
    "transcribed": 10
   },
   {
+   "coverage": 0.0,
+   "declared_total": 19,
+   "dir": "995/",
+   "key": "995",
+   "row_id": null,
+   "title": null,
+   "transcribed": 0
+  },
+  {
+   "coverage": 0.0,
+   "declared_total": 5,
+   "dir": "996/",
+   "key": "996",
+   "row_id": null,
+   "title": null,
+   "transcribed": 0
+  },
+  {
    "coverage": 1.0,
    "declared_total": 21,
    "dir": "997/",
@@ -112,6 +202,15 @@
    "row_id": "bardouni-husaymi--997",
    "title": "الحكم_العطائية",
    "transcribed": 21
+  },
+  {
+   "coverage": 0.0,
+   "declared_total": 23,
+   "dir": "998/",
+   "key": "998",
+   "row_id": null,
+   "title": null,
+   "transcribed": 0
   },
   {
    "coverage": 1.0,
@@ -136,7 +235,7 @@
  "totals": {
   "chars": 5856041,
   "lessons": 390,
-  "series": 14,
+  "series": 25,
   "unsorted": 0,
   "with_vid": 152
  },
