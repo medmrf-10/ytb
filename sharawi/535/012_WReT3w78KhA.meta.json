@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:WReT3w78KhA",
+ "vid": "WReT3w78KhA",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--535",
+ "n": 12,
+ "n_src": "playlist",
+ "title": "تفسير سورة القصص للشيخ الشعراوي - من آية 62 إلى آية 67",
+ "title_src": "youtube",
+ "sha256": "6d179d3e602b6270a6cc038bc3c10bb705fbdaf2a5a9aec7754a33ff05e5b446",
+ "chars": 25884,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/535/012_WReT3w78KhA.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/WReT3w78KhA",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--535",
+ "series_slug": "sharawi--535",
+ "lesson_no": 12,
+ "yt": "WReT3w78KhA",
+ "transcribed": "2026-10-14 00:24:11",
+ "audio": "ytb-build/audio/sharawi--535/012.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 59.467, \"Gemini Models / Five Hour Limit Remaining\": 23.847, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 2.386, \"Gemini Models / Weekly Limit Remaining\": 0.596}\nchars: 25883 | words: 4578\nduplicate 8/12-gram runs: 48\nwrote /root/workspace/ytb/sharawi/535/012_WReT3w78KhA.txt\n"
+}

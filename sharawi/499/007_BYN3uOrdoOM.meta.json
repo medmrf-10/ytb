@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:BYN3uOrdoOM",
+ "vid": "BYN3uOrdoOM",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--499",
+ "n": 7,
+ "n_src": "playlist",
+ "title": "تفسير سورة النمل للشيخ الشعراوي - من آية 45 إلى آية 53",
+ "title_src": "youtube",
+ "sha256": "1c96767a101ebb2ae2015f14d01a97ffab3ca9f0931d7f1c139b2d6c9f947e05",
+ "chars": 18099,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/499/007_BYN3uOrdoOM.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/BYN3uOrdoOM",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--499",
+ "series_slug": "sharawi--499",
+ "lesson_no": 7,
+ "yt": "BYN3uOrdoOM",
+ "transcribed": "2026-10-13 23:31:17",
+ "audio": "ytb-build/audio/sharawi--499/007.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": " None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 62.397, \"Gemini Models / Five Hour Limit Remaining\": 35.044, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 0.103, \"Gemini Models / Weekly Limit Remaining\": 0.026, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 18098 | words: 3059\nduplicate 8/12-gram runs: 1\nwrote /root/workspace/ytb/sharawi/499/007_BYN3uOrdoOM.txt\n"
+}

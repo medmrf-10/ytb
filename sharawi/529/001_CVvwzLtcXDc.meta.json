@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:CVvwzLtcXDc",
+ "vid": "CVvwzLtcXDc",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--529",
+ "n": 1,
+ "n_src": "playlist",
+ "title": "تفسير سورة العنكبوت للشيخ الشعراوي - من آية 1 إلى آية 6",
+ "title_src": "youtube",
+ "sha256": "a75be3d9d2b74246bfe95916988e692f0d96a60f1b4596930415560672dfb8f5",
+ "chars": 26278,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/529/001_CVvwzLtcXDc.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/CVvwzLtcXDc",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--529",
+ "series_slug": "sharawi--529",
+ "lesson_no": 1,
+ "yt": "CVvwzLtcXDc",
+ "transcribed": "2026-10-14 00:42:41",
+ "audio": "ytb-build/audio/sharawi--529/001.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": " None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 58.579, \"Gemini Models / Five Hour Limit Remaining\": 20.298, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.248, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Five Hour Limit Remaining\": 0.99}\nchars: 26277 | words: 4851\nduplicate 8/12-gram runs: 10\nwrote /root/workspace/ytb/sharawi/529/001_CVvwzLtcXDc.txt\n"
+}

@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:KDTyvU9R6e4",
+ "vid": "KDTyvU9R6e4",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--535",
+ "n": 13,
+ "n_src": "playlist",
+ "title": "تفسير سورة القصص للشيخ الشعراوي - من آية 67 إلى آية 73",
+ "title_src": "youtube",
+ "sha256": "1fa9033d525d88c604421676d237088aaec9eb4735c70907167b16f08680c519",
+ "chars": 22077,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/535/013_KDTyvU9R6e4.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/KDTyvU9R6e4",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--535",
+ "series_slug": "sharawi--535",
+ "lesson_no": 13,
+ "yt": "KDTyvU9R6e4",
+ "transcribed": "2026-10-14 00:27:00",
+ "audio": "ytb-build/audio/sharawi--535/013.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 59.266, \"Gemini Models / Five Hour Limit Remaining\": 23.045, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 0.797, \"Gemini Models / Five Hour Limit Remaining\": 3.188, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 22076 | words: 3917\nduplicate 8/12-gram runs: 19\nwrote /root/workspace/ytb/sharawi/535/013_KDTyvU9R6e4.txt\n"
+}
