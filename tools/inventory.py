@@ -122,6 +122,21 @@ def build_sheikh_map():
     sheikh_map["مكتبة المتون والشروح المفرغة"] = "maktaba"
     sheikh_map[norm("مكتبة المتون والشروح المفرغة")] = "maktaba"
 
+    # Incorporate ytb-build/registry.json if present
+    reg_path = os.path.join(W, "ytb-build", "registry.json")
+    if os.path.exists(reg_path):
+        reg = load_json(reg_path)
+        for reg_s in reg.get("sheikhs") or []:
+            r_slug = reg_s.get("slug")
+            r_name = reg_s.get("name_ar")
+            canon_slug = sheikh_map.get(norm(r_name)) if r_name else None
+            if canon_slug and r_slug:
+                sheikh_map[r_slug] = canon_slug
+                for al in reg_s.get("aliases") or []:
+                    if al:
+                        sheikh_map[al.strip()] = canon_slug
+                        sheikh_map[norm(al.strip())] = canon_slug
+
     return sheikh_map
 
 
