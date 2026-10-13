@@ -1,0 +1,42 @@
+[
+ {
+  "path_prefix": "hawshat/irth-simulation",
+  "reason": "كلام عشوائي مُولَّد (synthetic text, no real lecture video)",
+  "file_count": 379
+ },
+ {
+  "path_prefix": "hawshat/transcripts/maktaba",
+  "reason": "كتب ومتون مفرغة وبعضها ملوّث بتفكير النموذج (books/matn)",
+  "file_count": 17
+ },
+ {
+  "path_prefix": "hawshat/inbox",
+  "reason": "ملفات محاذاة فقط بلا نصوص تفريغ (align JSON only)",
+  "file_count": 94
+ },
+ {
+  "path_prefix": "des/shami",
+  "reason": "كتب الشامي (book corpus)",
+  "file_count": 295
+ },
+ {
+  "path_prefix": "des/nusus",
+  "reason": "نصوص وكتب (book corpus)",
+  "file_count": 1286
+ },
+ {
+  "path_prefix": "des/kutub",
+  "reason": "كتب (book corpus)",
+  "file_count": 1
+ },
+ {
+  "path_prefix": "des/manzuma",
+  "reason": "منظومات وشروح (book corpus)",
+  "file_count": 1331
+ },
+ {
+  "path_prefix": "des/jadid2",
+  "reason": "كوربوس إنجليزي/جديد (book corpus)",
+  "file_count": 1507
+ }
+]

@@ -1,0 +1,122 @@
+{
+ "generated": "2026-10-13T12:01:34",
+ "total_records": 9085,
+ "lecture_transcripts_count": 8595,
+ "stores": {
+  "hw-tr": {
+   "files": 1688,
+   "unique_hashes": 1526,
+   "bytes": 59834743,
+   "coverage_by_sheikh": {
+    "said-bouti": 778,
+    "ali-mahmoud-alomari": 236,
+    "bardouni-husaymi": 193,
+    "ali-gomaa": 181,
+    "habib-ali-aljifri": 62,
+    "saif-alasri": 56,
+    "aboubakr-almashhour": 39,
+    "adham-alasimi": 32,
+    "ahmed-alsayed": 23,
+    "ahmed-abdelmonem": 20,
+    "mouloud-sariri": 19,
+    "hatem-alaouni": 19,
+    "unattributed": 17,
+    "bensaib": 8,
+    "muhammad-abdelwahid-hanbali": 5
+   }
+  },
+  "hw-ls": {
+   "files": 1845,
+   "unique_hashes": 1841,
+   "bytes": 96915794,
+   "coverage_by_sheikh": {
+    "said-bouti": 669,
+    "ahmed-alsayed": 296,
+    "ali-mahmoud-alomari": 236,
+    "dhaker-alhashimi": 217,
+    "ali-gomaa": 196,
+    "fadhel-sulaiman": 89,
+    "saif-alasri": 56,
+    "muhammad-abdelwahid-hanbali": 38,
+    "ahmed-abdelmonem": 20,
+    "hatem-alaouni": 19,
+    "bensaib": 8,
+    "unattributed": 1
+   }
+  },
+  "irth": {
+   "files": 1047,
+   "unique_hashes": 1047,
+   "bytes": 50632511,
+   "coverage_by_sheikh": {
+    "said-bouti": 374,
+    "ali-mahmoud-alomari": 236,
+    "ahmed-alsayed": 215,
+    "fadhel-sulaiman": 89,
+    "saif-alasri": 56,
+    "muhammad-abdelwahid-hanbali": 38,
+    "ahmed-abdelmonem": 20,
+    "hatem-alaouni": 19
+   }
+  },
+  "des-mut": {
+   "files": 2729,
+   "unique_hashes": 2708,
+   "bytes": 86621276,
+   "coverage_by_sheikh": {
+    "said-bouti": 670,
+    "habib-omar-ibn-hafiz": 462,
+    "habib-ali-aljifri": 436,
+    "adham-alasimi": 432,
+    "bardouni-husaymi": 261,
+    "ahmed-alsayed": 231,
+    "ali-gomaa": 131,
+    "mouloud-sariri": 106
+   }
+  },
+  "des-dur": {
+   "files": 1286,
+   "unique_hashes": 1286,
+   "bytes": 38152933,
+   "coverage_by_sheikh": {
+    "said-bouti": 449,
+    "adham-alasimi": 349,
+    "bardouni-husaymi": 222,
+    "habib-ali-aljifri": 148,
+    "mouloud-sariri": 106,
+    "ahmed-alsayed": 12
+   }
+  },
+  "maktaba": {
+   "files": 17,
+   "unique_hashes": 17,
+   "bytes": 105600,
+   "coverage_by_sheikh": {
+    "unattributed": 17
+   }
+  },
+  "irth-sim": {
+   "files": 379,
+   "unique_hashes": 379,
+   "bytes": 10700045,
+   "coverage_by_sheikh": {
+    "unattributed": 379
+   }
+  },
+  "inbox": {
+   "files": 94,
+   "unique_hashes": 91,
+   "bytes": 7391006,
+   "coverage_by_sheikh": {
+    "unattributed": 94
+   }
+  }
+ },
+ "excluded_corpora": {
+  "des/shami": 295,
+  "des/nusus": 1286,
+  "des/kutub": 1,
+  "des/manzuma": 1331,
+  "des/jadid2": 1507
+ }
+}
