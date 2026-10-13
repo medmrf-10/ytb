@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:w1o6qEKii1g",
+ "vid": "w1o6qEKii1g",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--496",
+ "n": 9,
+ "n_src": "playlist",
+ "title": "تفسير سورة المؤمنون للشيخ الشعراوي - من آية 60 إلى آية 66",
+ "title_src": "youtube",
+ "sha256": "6269f98346009cd6c60bd863521bf4e1842db8632820ed69f135d9ca85ec94c9",
+ "chars": 29852,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/496/009_w1o6qEKii1g.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/w1o6qEKii1g",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--496",
+ "series_slug": "sharawi--496",
+ "lesson_no": 9,
+ "yt": "w1o6qEKii1g",
+ "transcribed": "2026-10-13 20:55:42",
+ "audio": "ytb-build/audio/sharawi--496/009.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "e\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 76.064, \"Gemini Models / Five Hour Limit Remaining\": 91.565, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 94.6}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 0.152, \"Gemini Models / Weekly Limit Remaining\": 0.038, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0}\nchars: 29851 | words: 5357\nduplicate 8/12-gram runs: 33\nwrote /root/workspace/ytb/sharawi/496/009_w1o6qEKii1g.txt\n"
+}

@@ -8,8 +8,8 @@
  "n_src": "playlist",
  "title": "تفسير سورة الحج للشيخ الشعراوي - من آية 38 إلى آية 40",
  "title_src": "youtube",
- "sha256": "db440a551346d9bcf470803f726900781f4761e657cbdf2cafe1394f6e6a9c71",
- "chars": 18686,
+ "sha256": "bdcd260b7503303067bd2f0b5827295c194fd3c88e75f4acdd54563dd372e267",
+ "chars": 37372,
  "quality": "ok",
  "winner": {
   "store": "ytb-transcribe",
@@ -27,8 +27,8 @@
  "series_slug": "sharawi--494",
  "lesson_no": 13,
  "yt": "-cSD9nlAC9U",
- "transcribed": "2026-10-13 18:12:27",
+ "transcribed": "2026-10-13 19:05:44",
  "audio": "ytb-build/audio/sharawi--494/013.mp3",
  "job": "agy+gemini عبر agy",
- "usage_tail": "\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 81.35, \"Gemini Models / Five Hour Limit Remaining\": 94.557, \"Claude and GPT models / Weekly Limit Remaining\": 59.594, \"Claude and GPT models / Five Hour Limit Remaining\": 97.743}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.042, \"Gemini Models / Five Hour Limit Remaining\": 0.165}\nchars: 18685 | words: 3224\nduplicate 8/12-gram runs: 11\nwrote /root/workspace/ytb/sharawi/494/013_-cSD9nlAC9U.txt\n"
+ "usage_tail": " after: {\"Gemini Models / Weekly Limit Remaining\": 80.971, \"Gemini Models / Five Hour Limit Remaining\": 91.949, \"Claude and GPT models / Weekly Limit Remaining\": 58.883, \"Claude and GPT models / Five Hour Limit Remaining\": 96.029}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.715, \"Claude and GPT models / Five Hour Limit Remaining\": 1.43, \"Gemini Models / Weekly Limit Remaining\": 0.347, \"Gemini Models / Five Hour Limit Remaining\": 1.388}\nchars: 37371 | words: 6448\nduplicate 8/12-gram runs: 6439\nwrote /root/workspace/ytb/sharawi/494/013_-cSD9nlAC9U.txt\n"
 }
