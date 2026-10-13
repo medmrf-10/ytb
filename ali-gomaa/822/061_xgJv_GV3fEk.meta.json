@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:xgJv_GV3fEk",
+ "vid": "xgJv_GV3fEk",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 61,
+ "n_src": "plpos",
+ "title": "والله أعلم | فضيلة الدكتور علي جمعة يتحدث عن حرمة الاعتداء على الكنائس | الحلقة الكاملة",
+ "title_src": "yt_titles",
+ "sha256": "9f13b84a3823523dd7b6d663492932224879cd9e94446c270715d168919d735b",
+ "nh": "0bb3659974359f3cfbdb12db9908009c5fbe6f2b8a6debd3f396c8146359da4a",
+ "chars": 59082,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/061_والله أعلم ｜ فضيلة الدكتور علي جمعة يتحدث عن حرمة الاعتداء على الكنائس ｜ الحلقة .txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/061_والله أعلم ｜ فضيلة الدكتور علي جمعة يتحدث عن حرمة الاعتداء على الكنائس ｜ الحلقة .txt",
+   "sha256": "9f13b84a3823523dd7b6d663492932224879cd9e94446c270715d168919d735b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/061_والله أعلم ｜ فضيلة الدكتور علي جمعة يتحدث عن حرمة الاعتداء على الكنائس ｜ الحلقة .txt",
+   "sha256": "9f13b84a3823523dd7b6d663492932224879cd9e94446c270715d168919d735b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/061.txt",
+   "sha256": "390d5072fe97322cf7121cc1782559870e4dc645ca66e910f39aaa6f5d261f9a",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

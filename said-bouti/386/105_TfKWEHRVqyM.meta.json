@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:TfKWEHRVqyM",
+ "vid": "TfKWEHRVqyM",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 105,
+ "n_src": "read",
+ "title": "الحكم العطائية للعلامة البوطي ｜ الدرس 250 - الحكمة 225",
+ "title_src": "filename",
+ "sha256": "732194a9fe16f7f84fd92a746952409069de63847a060708bc702f590f7fb47e",
+ "nh": "f55a37577934bbc7260006f674a8a4db292275ec5e7196c268034f75724c0ee2",
+ "chars": 18542,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/105_الحكم العطائية للعلامة البوطي ｜ الدرس 250 - الحكمة 225.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/105_الحكم العطائية للعلامة البوطي ｜ الدرس 250 - الحكمة 225.txt",
+   "sha256": "732194a9fe16f7f84fd92a746952409069de63847a060708bc702f590f7fb47e",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/hikam/105_الحكم العطائية للعلامة البوطي ｜ الدرس 250 - الحكمة 225.txt",
+   "sha256": "732194a9fe16f7f84fd92a746952409069de63847a060708bc702f590f7fb47e",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/105_الحكم العطائية للعلامة البوطي ｜ الدرس 250 - الحكمة 225.txt",
+   "sha256": "732194a9fe16f7f84fd92a746952409069de63847a060708bc702f590f7fb47e",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/386/247.txt",
+   "sha256": "732194a9fe16f7f84fd92a746952409069de63847a060708bc702f590f7fb47e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

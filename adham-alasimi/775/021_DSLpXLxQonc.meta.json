@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:DSLpXLxQonc",
+ "vid": "DSLpXLxQonc",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--775",
+ "n": 21,
+ "n_src": "read",
+ "title": "(21) الإدراج في السند والمتن ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم العاس",
+ "title_src": "filename",
+ "sha256": "97dee9c5a50d7628e577fef15e5721549a63f8357ddbc458b306710ce7a6578f",
+ "nh": "43958017b7e759b1011b845926c34b1429c731548170abab5440d06850d12d0c",
+ "chars": 19304,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/775/021_(21) الإدراج في السند والمتن ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم العاس.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/775/021_(21) الإدراج في السند والمتن ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم العاس.txt",
+   "sha256": "97dee9c5a50d7628e577fef15e5721549a63f8357ddbc458b306710ce7a6578f",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/775/20.txt",
+   "sha256": "97dee9c5a50d7628e577fef15e5721549a63f8357ddbc458b306710ce7a6578f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

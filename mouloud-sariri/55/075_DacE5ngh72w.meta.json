@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:DacE5ngh72w",
+ "vid": "DacE5ngh72w",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 75,
+ "n_src": "read",
+ "title": "خطب منبرية： مراقبة النفس من آفة اللسان ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "03cc3705d2023316eb6baf82a260ccf7a6664b9ec7feddfe60894a328b238f75",
+ "nh": "b346a22a4111b221dd61f165199a72c82b94b5dd425007af4241b88100cea391",
+ "chars": 8702,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/075_خطب منبرية： مراقبة النفس من آفة اللسان  ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/075_خطب منبرية： مراقبة النفس من آفة اللسان  ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "03cc3705d2023316eb6baf82a260ccf7a6664b9ec7feddfe60894a328b238f75",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/74.txt",
+   "sha256": "03cc3705d2023316eb6baf82a260ccf7a6664b9ec7feddfe60894a328b238f75",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

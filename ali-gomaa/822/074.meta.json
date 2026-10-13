@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:ali-gomaa--822:74",
+ "vid": null,
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 74,
+ "n_src": "read",
+ "title": "والله أعلم ｜ فضيله د. علي جمعه يرد على بعض الشبهات حول رحلة الإسراء والمعراج ｜ ح",
+ "title_src": "filename",
+ "sha256": "c307abe81c86d2853d897894c5680e182e93553e2b21bd9842dc09784b2a38be",
+ "nh": "f6247fba5112079cc71764d77a390bee14ff115f6654ab9e216cc436e6348456",
+ "chars": 9643,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/074_والله أعلم ｜ فضيله د. علي جمعه يرد على بعض الشبهات حول رحلة الإسراء والمعراج ｜ ح.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/074_والله أعلم ｜ فضيله د. علي جمعه يرد على بعض الشبهات حول رحلة الإسراء والمعراج ｜ ح.txt",
+   "sha256": "c307abe81c86d2853d897894c5680e182e93553e2b21bd9842dc09784b2a38be",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/074_والله أعلم ｜ فضيله د. علي جمعه يرد على بعض الشبهات حول رحلة الإسراء والمعراج ｜ ح.txt",
+   "sha256": "c307abe81c86d2853d897894c5680e182e93553e2b21bd9842dc09784b2a38be",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

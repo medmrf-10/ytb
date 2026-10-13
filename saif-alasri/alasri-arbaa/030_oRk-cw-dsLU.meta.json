@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:oRk-cw-dsLU",
+ "vid": "oRk-cw-dsLU",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 30,
+ "n_src": "trfile",
+ "title": "علم الكلام والحاجة إليه / د. سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "d5a33698a0d366307522a7c2787680e2f331c31b4d77ca1362085bfb6ea6bc2a",
+ "nh": "0a21bb514ee747738c1490b84d286d926064172761b3e1fadb4372590f67defc",
+ "chars": 18398,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-030/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-030/transcript.txt",
+   "sha256": "d5a33698a0d366307522a7c2787680e2f331c31b4d77ca1362085bfb6ea6bc2a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/030_oRk-cw-dsLU.txt",
+   "sha256": "d5a33698a0d366307522a7c2787680e2f331c31b4d77ca1362085bfb6ea6bc2a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/030.txt",
+   "sha256": "d5a33698a0d366307522a7c2787680e2f331c31b4d77ca1362085bfb6ea6bc2a",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

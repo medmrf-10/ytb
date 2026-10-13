@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:habib-ali-aljifri--101:11",
+ "vid": null,
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--101",
+ "n": 11,
+ "n_src": "read",
+ "title": "أيها المريد ｜ الحلقة 10 ｜ حقيقة الشكر ｜ علي الجفري ｜",
+ "title_src": "filename",
+ "sha256": "513ffebf9d2ecc543c23eb9dc8aeec4f0f15829fc424e366a6ad4829c5ba7417",
+ "nh": "12e3d291a2dc9b6f52b341835b93f0a99b74353bd64468b70efb2754b8767223",
+ "chars": 10581,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/101/011_أيها المريد ｜ الحلقة 10 ｜ حقيقة الشكر ｜ علي الجفري ｜ English subtitle.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/101/011_أيها المريد ｜ الحلقة 10 ｜ حقيقة الشكر ｜ علي الجفري ｜ English subtitle.txt",
+   "sha256": "513ffebf9d2ecc543c23eb9dc8aeec4f0f15829fc424e366a6ad4829c5ba7417",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/101/10.txt",
+   "sha256": "513ffebf9d2ecc543c23eb9dc8aeec4f0f15829fc424e366a6ad4829c5ba7417",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

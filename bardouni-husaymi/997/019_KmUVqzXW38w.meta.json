@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:KmUVqzXW38w",
+ "vid": "KmUVqzXW38w",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--997",
+ "n": 19,
+ "n_src": "read",
+ "title": "شرح الحكم ｜ دس19 ＂ ما أرادت همة سالك أن تقف عند ما كشف لها إلا نادته هواتف الحقي",
+ "title_src": "filename",
+ "sha256": "1c5c2cd83e1da15e3ac4e45d8cd7b1278df35138df5131c4873c2edb811ecfcd",
+ "nh": "9cc8068d67fbdf397f467dfb8724306f8dfc51730f1fd2a62bc01561d3d19585",
+ "chars": 9476,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/997/019_شرح الحكم ｜ دس19 ＂ ما أرادت همة سالك أن تقف عند ما كشف لها إلا نادته هواتف الحقي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/997/019_شرح الحكم ｜ دس19 ＂ ما أرادت همة سالك أن تقف عند ما كشف لها إلا نادته هواتف الحقي.txt",
+   "sha256": "1c5c2cd83e1da15e3ac4e45d8cd7b1278df35138df5131c4873c2edb811ecfcd",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/hikam-azhar/18.txt",
+   "sha256": "1c5c2cd83e1da15e3ac4e45d8cd7b1278df35138df5131c4873c2edb811ecfcd",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/871/18.txt",
+   "sha256": "1c5c2cd83e1da15e3ac4e45d8cd7b1278df35138df5131c4873c2edb811ecfcd",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "ali-gomaa--871",
+  "ali-gomaa--gomaa-hikam-azhar"
+ ]
+}

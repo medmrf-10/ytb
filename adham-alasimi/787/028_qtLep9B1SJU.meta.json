@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:qtLep9B1SJU",
+ "vid": "qtLep9B1SJU",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--787",
+ "n": 28,
+ "n_src": "read",
+ "title": "(28) الفاعل ونائبه ⧸ دورة النحو المستوى الثاني ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "97d73533f9066c700f9b6e4799ea2a9d836a090e6a881c6bc3b57249c3d94271",
+ "nh": "2a1e9cb7b3ff36a9cd03f2d94e869a99d7eebb3963f92aded28c30816a052b00",
+ "chars": 16767,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/787/028_(28) الفاعل ونائبه ⧸ دورة النحو المستوى الثاني ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/787/028_(28) الفاعل ونائبه ⧸ دورة النحو المستوى الثاني ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "97d73533f9066c700f9b6e4799ea2a9d836a090e6a881c6bc3b57249c3d94271",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/787/27.txt",
+   "sha256": "97d73533f9066c700f9b6e4799ea2a9d836a090e6a881c6bc3b57249c3d94271",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

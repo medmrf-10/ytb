@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:1F1U-jvqDi4",
+ "vid": "1F1U-jvqDi4",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 123,
+ "n_src": "plpos",
+ "title": "#والله_أعلم | الحلقة الكاملة 6 أغسطس 2015 | كيفية النسخ في الأحكام الشرعية",
+ "title_src": "yt_titles",
+ "sha256": "2d77af48edd0b41eb87e2408ba9471508ffca59ce9ff710c9a45211d3876a79f",
+ "nh": "cb38e17933f3529806605396e5da56ada43848554fc3d0b06a904f8dcec760cc",
+ "chars": 25999,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/gomaa/mut-822/123_#والله_أعلم ｜ الحلقة الكاملة 6 أغسطس 2015 ｜ كيفية النسخ في الأحكام الشرعية.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/123_#والله_أعلم ｜ الحلقة الكاملة 6 أغسطس 2015 ｜ كيفية النسخ في الأحكام الشرعية.txt",
+   "sha256": "2d77af48edd0b41eb87e2408ba9471508ffca59ce9ff710c9a45211d3876a79f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/123.txt",
+   "sha256": "355a2085eaaade5a446f3c13cd401bca48a84631a91e1a1e510e37a8fd365f0a",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

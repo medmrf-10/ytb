@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:paBjJwYozhU",
+ "vid": "paBjJwYozhU",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-barahin-muqtatafat",
+ "n": 9,
+ "n_src": "trfile",
+ "title": "من هو المقلد الذي كفره الإمام السنوسي",
+ "title_src": "yt_titles",
+ "sha256": "a1ccc70bac2caadfacf5ff6ca944abbdc8203d290970f134a52805d58dd93189",
+ "nh": "7603ba3e8232942948049010b536aca0a7a4a1378a84c023aed9b12ef8300113",
+ "chars": 2825,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriBarahinMuqtatafat-009/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriBarahinMuqtatafat-009/transcript.txt",
+   "sha256": "a1ccc70bac2caadfacf5ff6ca944abbdc8203d290970f134a52805d58dd93189",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/barahin-muqtatafat/barahin-muqtatafat-09_AlAmri.txt",
+   "sha256": "a1ccc70bac2caadfacf5ff6ca944abbdc8203d290970f134a52805d58dd93189",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-barahin-muqtatafat/09.txt",
+   "sha256": "a1ccc70bac2caadfacf5ff6ca944abbdc8203d290970f134a52805d58dd93189",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

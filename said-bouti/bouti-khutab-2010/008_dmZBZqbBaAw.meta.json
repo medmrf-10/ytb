@@ -1,0 +1,51 @@
+{
+ "v": 1,
+ "lid": "yt:dmZBZqbBaAw",
+ "vid": "dmZBZqbBaAw",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-khutab-2010",
+ "n": 8,
+ "n_src": "trfile",
+ "title": "خطبة الإمام البوطي | إسلامنا كما أمر القرآن لا كما تهوى أمريكا",
+ "title_src": "yt_titles",
+ "sha256": "f3344f342ca5309f80e9d2b485dfb698ac458225e7c6d16409b60604c98d8940",
+ "nh": "714ae2b4a4b4633097d47ac3af86bfaf306b091838ec47689c7ac653edc496c9",
+ "chars": 12672,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/5o6ab-008/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/5o6ab-008/transcript.txt",
+   "sha256": "f3344f342ca5309f80e9d2b485dfb698ac458225e7c6d16409b60604c98d8940",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/khutab-2010/7.txt",
+   "sha256": "a8593435e3a00488c9da22b13e6d37c99791fdb15c53a9d4bc4ce42f51ee867a",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-khutab-2012/08.txt",
+   "sha256": "f3344f342ca5309f80e9d2b485dfb698ac458225e7c6d16409b60604c98d8940",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/344/7.txt",
+   "sha256": "a8593435e3a00488c9da22b13e6d37c99791fdb15c53a9d4bc4ce42f51ee867a",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "said-bouti--bouti-khutab-2012"
+ ]
+}

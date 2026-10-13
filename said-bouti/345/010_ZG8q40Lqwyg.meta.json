@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:ZG8q40Lqwyg",
+ "vid": "ZG8q40Lqwyg",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--345",
+ "n": 10,
+ "n_src": "plpos",
+ "title": "10- مشاهد وعبر من القرآن والسنة | حنين الجذع",
+ "title_src": "yt_titles",
+ "sha256": "66bf73b77000b725bb57c91cf6bd74335e0d638af1f3d066f5ebd4ddb41013b9",
+ "nh": "f0d84ca13e06e4826424e2a60de4e6c61d8e0e731547f8895e02bdd1bb98421e",
+ "chars": 12279,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/345/010_10- مشاهد وعبر من القرآن والسنة ｜ حنين الجذع.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/345/010_10- مشاهد وعبر من القرآن والسنة ｜ حنين الجذع.txt",
+   "sha256": "66bf73b77000b725bb57c91cf6bd74335e0d638af1f3d066f5ebd4ddb41013b9",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-mashahid/10.txt",
+   "sha256": "bc9718ff2b19b37364422a286f7a81d9ba3c0b1ff275cfd980b2a4c9e5b08055",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/345/9.txt",
+   "sha256": "66bf73b77000b725bb57c91cf6bd74335e0d638af1f3d066f5ebd4ddb41013b9",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

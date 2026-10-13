@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:2ulBk-TbHXI",
+ "vid": "2ulBk-TbHXI",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--92",
+ "n": 23,
+ "n_src": "read",
+ "title": "17： الهوية الثقافية - د. علي جمعة ｜ آمنت بالله ｜ الحبيب علي الجفري",
+ "title_src": "filename",
+ "sha256": "c92d55b442ef823eb9496659c0fa20ba1c350fc7b3623aae05b417808afcd8b2",
+ "nh": "b3dfbe5f79d9bc56434be72799ccb82592a3d030d392cb7292156552393b2fae",
+ "chars": 12016,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/92/023_17： الهوية الثقافية - د. علي جمعة ｜ آمنت بالله ｜ الحبيب علي الجفري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/92/023_17： الهوية الثقافية - د. علي جمعة ｜ آمنت بالله ｜ الحبيب علي الجفري.txt",
+   "sha256": "c92d55b442ef823eb9496659c0fa20ba1c350fc7b3623aae05b417808afcd8b2",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/92/13.txt",
+   "sha256": "c92d55b442ef823eb9496659c0fa20ba1c350fc7b3623aae05b417808afcd8b2",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

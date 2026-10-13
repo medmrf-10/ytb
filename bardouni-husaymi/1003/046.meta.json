@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:46",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 46,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 80 ( باب في الحج ) ｜ الشيخ محمد البردوني",
+ "title_src": "filename",
+ "sha256": "d6c9d4d890cf5e235bb899283beedda01b8421642b0ff4d18ddcc6ca55c75dbf",
+ "nh": "bf003ba6d74444a900f535d85d221afb66fdeb9c184b05ba32d1e6fe7bd78e16",
+ "chars": 21415,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/046_شرح رسالة ابن ابي زيد ｜ الدرس 80 ( باب في الحج  ) ｜ الشيخ محمد البردوني.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/046_شرح رسالة ابن ابي زيد ｜ الدرس 80 ( باب في الحج  ) ｜ الشيخ محمد البردوني.txt",
+   "sha256": "d6c9d4d890cf5e235bb899283beedda01b8421642b0ff4d18ddcc6ca55c75dbf",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/80.txt",
+   "sha256": "d6c9d4d890cf5e235bb899283beedda01b8421642b0ff4d18ddcc6ca55c75dbf",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

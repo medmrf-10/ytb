@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:A0oXXy8pDQU",
+ "vid": "A0oXXy8pDQU",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--345",
+ "n": 23,
+ "n_src": "plpos",
+ "title": "23- مشاهد وعبر من القرآن والسنة | آيات محكمات",
+ "title_src": "yt_titles",
+ "sha256": "0c1fd01f4bdecddc6203be5c0549f9972405d447b376fe5d5546736b700824c0",
+ "nh": "5f6fe3ac928fee3ce16f840d6e72b923b04b16557f2f0dc9c12fa834bdce9f43",
+ "chars": 13267,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/345/023_23- مشاهد وعبر من القرآن والسنة ｜ آيات محكمات.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/345/023_23- مشاهد وعبر من القرآن والسنة ｜ آيات محكمات.txt",
+   "sha256": "0c1fd01f4bdecddc6203be5c0549f9972405d447b376fe5d5546736b700824c0",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-mashahid/23.txt",
+   "sha256": "9269c092982bc5cdc4bbf1f66755edd24d93749ead5b77b25ed1d52519ef6787",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/345/22.txt",
+   "sha256": "0c1fd01f4bdecddc6203be5c0549f9972405d447b376fe5d5546736b700824c0",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

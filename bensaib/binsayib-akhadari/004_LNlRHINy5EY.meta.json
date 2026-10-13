@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:LNlRHINy5EY",
+ "vid": "LNlRHINy5EY",
+ "sheikh": "bensaib",
+ "row_id": "bensaib--binsayib-akhadari",
+ "n": 4,
+ "n_src": "read",
+ "title": "الدرس [4] : فرائض الوضوء 2",
+ "title_src": "yt_titles",
+ "sha256": "99790919076d2261145a038dbe8456a570808f70212520cf6e79fcce23e0f616",
+ "nh": "dddf178e73ab06306f222d35390afa69b4d250f30607c43591ee98e94f6d5ea3",
+ "chars": 34922,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/binsayib/akhadari/NA_LNlRHINy5EY.txt",
+  "commit_ts": 1791587745,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/binsayib/akhadari/NA_LNlRHINy5EY.txt",
+   "sha256": "99790919076d2261145a038dbe8456a570808f70212520cf6e79fcce23e0f616",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/binsayib-akhadari/004.txt",
+   "sha256": "99790919076d2261145a038dbe8456a570808f70212520cf6e79fcce23e0f616",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

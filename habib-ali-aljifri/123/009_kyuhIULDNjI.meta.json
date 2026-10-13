@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:kyuhIULDNjI",
+ "vid": "kyuhIULDNjI",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--123",
+ "n": 9,
+ "n_src": "read",
+ "title": "أيها المريد ｜ الحلقة 9 ｜ عقبة العوائق- الدنيا، الزهد ج1 ｜ علي الجفري ｜ English S",
+ "title_src": "filename",
+ "sha256": "b1eebff7d258228e294e9d22f7827e1353ffb3e0b9258e0b191ae90fc88c78bd",
+ "nh": "5ad7dea716efa7179589e39561006da1f4d116c082ede64e1d206f2739f15ae5",
+ "chars": 14872,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/123/009_أيها المريد ｜ الحلقة 9 ｜ عقبة العوائق- الدنيا، الزهد ج1 ｜ علي الجفري ｜ English S.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/123/009_أيها المريد ｜ الحلقة 9 ｜ عقبة العوائق- الدنيا، الزهد ج1 ｜ علي الجفري ｜ English S.txt",
+   "sha256": "b1eebff7d258228e294e9d22f7827e1353ffb3e0b9258e0b191ae90fc88c78bd",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/mut-123/009_أيها المريد ｜ الحلقة 9 ｜ عقبة العوائق- الدنيا، الزهد ج1 ｜ علي الجفري ｜ English S.txt",
+   "sha256": "667daf7313cc2b48b3e482f71818a0b83a74b78e0f89fa3f9849668ee7cf40eb",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

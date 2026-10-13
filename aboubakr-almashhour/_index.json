@@ -1,0 +1,72 @@
+{
+ "aliases": [
+  "المشهور"
+ ],
+ "name": "أبو بكر المشهور بن أحمد بن إسماعيل",
+ "name_display": "أبو بكر المشهور",
+ "series": [
+  {
+   "coverage": 0.2667,
+   "declared_total": 30,
+   "dir": "mashhour-azma/",
+   "key": "mashhour-azma",
+   "row_id": "aboubakr-almashhour--mashhour-azma",
+   "title": "أزمة عصر",
+   "transcribed": 8
+  },
+  {
+   "coverage": 0.1224,
+   "declared_total": 49,
+   "dir": "mashhour-irtibat1/",
+   "key": "mashhour-irtibat1",
+   "row_id": "aboubakr-almashhour--mashhour-irtibat1",
+   "title": "الارتباط بالله ج1",
+   "transcribed": 6
+  },
+  {
+   "coverage": 0.2667,
+   "declared_total": 30,
+   "dir": "mashhour-kahf3/",
+   "key": "mashhour-kahf3",
+   "row_id": "aboubakr-almashhour--mashhour-kahf3",
+   "title": "الكهف ج3",
+   "transcribed": 8
+  },
+  {
+   "coverage": 0.2759,
+   "declared_total": 29,
+   "dir": "mashhour-khawatir/",
+   "key": "mashhour-khawatir",
+   "row_id": "aboubakr-almashhour--mashhour-khawatir",
+   "title": "خواطر رمضان",
+   "transcribed": 8
+  },
+  {
+   "coverage": 0.2222,
+   "declared_total": 27,
+   "dir": "mashhour-ni3ma/",
+   "key": "mashhour-ni3ma",
+   "row_id": "aboubakr-almashhour--mashhour-ni3ma",
+   "title": "وأما بنعمة ربك فحدث",
+   "transcribed": 6
+  },
+  {
+   "coverage": 0.0769,
+   "declared_total": 39,
+   "dir": "mashhour-usus/",
+   "key": "mashhour-usus",
+   "row_id": "aboubakr-almashhour--mashhour-usus",
+   "title": "الأسس والمنطلقات",
+   "transcribed": 3
+  }
+ ],
+ "slug": "aboubakr-almashhour",
+ "totals": {
+  "chars": 386548,
+  "lessons": 39,
+  "series": 6,
+  "unsorted": 0,
+  "with_vid": 39
+ },
+ "v": 1
+}

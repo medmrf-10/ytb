@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "yt:x4JN5f-peE0",
+ "vid": "x4JN5f-peE0",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--414",
+ "n": 68,
+ "n_src": "read",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 68",
+ "title_src": "filename",
+ "sha256": "5f1ec599fcce919a51ffb80c2ba0cc4be078f05c06f718d409dc8a827596e4b1",
+ "nh": "69d41d4c67389886464b7e91af627f21d771d607a2d562f33d06e1fc6348fa38",
+ "chars": 5064,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/068_تفسير القرآن الكريم للدكتور البوطي - الدرس 68.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/068_تفسير القرآن الكريم للدكتور البوطي - الدرس 68.txt",
+   "sha256": "5f1ec599fcce919a51ffb80c2ba0cc4be078f05c06f718d409dc8a827596e4b1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/068.txt",
+   "sha256": "5b8679f99ff55709e5c61f7f60b85bd60d1a73080979912df1b5eb6ef00b11b7",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/414/69.txt",
+   "sha256": "5f1ec599fcce919a51ffb80c2ba0cc4be078f05c06f718d409dc8a827596e4b1",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "said-bouti--bouti-414"
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:Vh0F1agw1vI",
+ "vid": "Vh0F1agw1vI",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--656",
+ "n": 22,
+ "n_src": "mutfile",
+ "title": "رياض الصالحين 22 ｜ باب المبادرة إلى الخيرات ｜ أنوار السنة المحمدية ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "0b1c3e1fc095b35fc1057bf885d90749673a8a6240e2e27d911daf7fe8f81b88",
+ "nh": "c56205f7d995e2f4b55b0d49a693cde3f4c814352152eeecc040328c7c231265",
+ "chars": 28178,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/656/022_رياض الصالحين 22 ｜ باب المبادرة إلى الخيرات ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/656/022_رياض الصالحين 22 ｜ باب المبادرة إلى الخيرات ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+   "sha256": "0b1c3e1fc095b35fc1057bf885d90749673a8a6240e2e27d911daf7fe8f81b88",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/riyadElsali7in-022/transcript.txt",
+   "sha256": "2503adb0037b54fef90465ca532df821919a40719f2ff637674af2d811f51325",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-656/022.txt",
+   "sha256": "2503adb0037b54fef90465ca532df821919a40719f2ff637674af2d811f51325",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:-_Jvu2tck2s",
+ "vid": "-_Jvu2tck2s",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--117",
+ "n": 29,
+ "n_src": "read",
+ "title": "حلقة 28 - الاعتذار لجاليليو - سلسلة الإنسانية قبل التدين",
+ "title_src": "filename",
+ "sha256": "845add987d04c82d8260e6db7359879d50c2f92a8bae9bcc2ea68bb2d336c94f",
+ "nh": "18e5ea1963db0a6098573969d97d4a96581c8130a05549f815a7ce2dc93cd552",
+ "chars": 1908,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/117/029_حلقة 28 - الاعتذار لجاليليو - سلسلة الإنسانية قبل التدين.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/117/029_حلقة 28 - الاعتذار لجاليليو - سلسلة الإنسانية قبل التدين.txt",
+   "sha256": "845add987d04c82d8260e6db7359879d50c2f92a8bae9bcc2ea68bb2d336c94f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/insaniyya/41.txt",
+   "sha256": "845add987d04c82d8260e6db7359879d50c2f92a8bae9bcc2ea68bb2d336c94f",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/112/41.txt",
+   "sha256": "845add987d04c82d8260e6db7359879d50c2f92a8bae9bcc2ea68bb2d336c94f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-ali-aljifri--112",
+  "k:117"
+ ]
+}

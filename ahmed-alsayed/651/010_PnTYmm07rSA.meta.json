@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:PnTYmm07rSA",
+ "vid": "PnTYmm07rSA",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--651",
+ "n": 10,
+ "n_src": "mutfile",
+ "title": "وقد أحسن بي ٠٤ ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "5796def4b32a0fc6a4b6e8b989dda3a071552e5bd5539ff3f73a0b5f7c1718ef",
+ "nh": "895b829f83cc14181ed0bd9b4645c0b828aeffd811cccc7cf07e523f6a71818a",
+ "chars": 9046,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/651/010_وقد أحسن بي ٠٤ ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/651/010_وقد أحسن بي ٠٤ ｜ أحمد السيد.txt",
+   "sha256": "5796def4b32a0fc6a4b6e8b989dda3a071552e5bd5539ff3f73a0b5f7c1718ef",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/siyarWa3ibar-010/transcript.txt",
+   "sha256": "95acfd49180c3ae83c6f69d81e15a63a5cb0083aee7633e42e44245cd93c7d7d",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-651/010.txt",
+   "sha256": "95acfd49180c3ae83c6f69d81e15a63a5cb0083aee7633e42e44245cd93c7d7d",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

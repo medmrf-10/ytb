@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:xBeRt0-lNEs",
+ "vid": "xBeRt0-lNEs",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--787",
+ "n": 26,
+ "n_src": "read",
+ "title": "(26) الممنوع من الصرف ⧸ دورة النحو المستوى الثاني ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "8e5dd24bd59d74152593a62fa106a188f71413aa2fd8c1460a36d678e370f9bd",
+ "nh": "afd4fb66c14d4a2dc96bad67248919701d5e40732eb8bc25d247fdf54c2f4d13",
+ "chars": 22331,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/787/026_(26) الممنوع من الصرف ⧸ دورة النحو المستوى الثاني ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/787/026_(26) الممنوع من الصرف ⧸ دورة النحو المستوى الثاني ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "8e5dd24bd59d74152593a62fa106a188f71413aa2fd8c1460a36d678e370f9bd",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/787/25.txt",
+   "sha256": "8e5dd24bd59d74152593a62fa106a188f71413aa2fd8c1460a36d678e370f9bd",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

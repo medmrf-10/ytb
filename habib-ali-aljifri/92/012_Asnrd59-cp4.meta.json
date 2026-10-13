@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:Asnrd59-cp4",
+ "vid": "Asnrd59-cp4",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--92",
+ "n": 12,
+ "n_src": "read",
+ "title": "حلقة 6： العلمانية ｜ آمنت بالله ｜ الحبيب علي الجفري",
+ "title_src": "filename",
+ "sha256": "4c2f71ba4c8aa866f8dc62bbeb0617416765d6ef384a767ec082c91a4328a75c",
+ "nh": "3e4071d34b3f662c8f82c1732ad6b6004aa2da6707422df6a57324ef7db5fa57",
+ "chars": 9988,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/92/012_حلقة 6： العلمانية ｜ آمنت بالله ｜  الحبيب علي الجفري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/92/012_حلقة 6： العلمانية ｜ آمنت بالله ｜  الحبيب علي الجفري.txt",
+   "sha256": "4c2f71ba4c8aa866f8dc62bbeb0617416765d6ef384a767ec082c91a4328a75c",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/92/29.txt",
+   "sha256": "4c2f71ba4c8aa866f8dc62bbeb0617416765d6ef384a767ec082c91a4328a75c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

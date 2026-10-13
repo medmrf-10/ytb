@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:6wIRTNWGI_4",
+ "vid": "6wIRTNWGI_4",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--775",
+ "n": 17,
+ "n_src": "read",
+ "title": "(17) المرسل + المعضل + المنقطع ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم الع",
+ "title_src": "filename",
+ "sha256": "2057aa3780f8c0d78806a6d8a49a3472d33407e9023a249c6902e3032517d14c",
+ "nh": "fef5e5a87a8957bfa25804f63b101c9aa260fe26421b36d2a3719279b97fda1d",
+ "chars": 19037,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/775/017_(17) المرسل + المعضل + المنقطع ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم الع.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/775/017_(17) المرسل + المعضل + المنقطع ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم الع.txt",
+   "sha256": "2057aa3780f8c0d78806a6d8a49a3472d33407e9023a249c6902e3032517d14c",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/775/16.txt",
+   "sha256": "2057aa3780f8c0d78806a6d8a49a3472d33407e9023a249c6902e3032517d14c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:tQs2fJ1tYj4",
+ "vid": "tQs2fJ1tYj4",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--365",
+ "n": 4,
+ "n_src": "mutfile",
+ "title": "3 - ضائعون هداهم القرآن فضالة بن عبيد الله - حميد بن جابر",
+ "title_src": "filename",
+ "sha256": "ed1b9c550e87084c75ee9465486777d476a8c695fafb846c91bc0b27a19fcdaf",
+ "nh": "00eaef31c2f5b1e7e8d62580758b36b42994a26101107127ae17afc9c09096f8",
+ "chars": 11716,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/365/004_3 - ضائعون هداهم القرآن  فضالة بن عبيد الله - حميد بن جابر.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/365/004_3 - ضائعون هداهم القرآن  فضالة بن عبيد الله - حميد بن جابر.txt",
+   "sha256": "ed1b9c550e87084c75ee9465486777d476a8c695fafb846c91bc0b27a19fcdaf",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tawba/004_3 - ضائعون هداهم القرآن  فضالة بن عبيد الله - حميد بن جابر.txt",
+   "sha256": "ed1b9c550e87084c75ee9465486777d476a8c695fafb846c91bc0b27a19fcdaf",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/dayoon/004_3 - ضائعون هداهم القرآن  فضالة بن عبيد الله - حميد بن جابر.txt",
+   "sha256": "ed1b9c550e87084c75ee9465486777d476a8c695fafb846c91bc0b27a19fcdaf",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-365/004.txt",
+   "sha256": "d6089d97d20d021cb2e621265ba6fb3d16e07bc672a2554b88c894a17cdc7461",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

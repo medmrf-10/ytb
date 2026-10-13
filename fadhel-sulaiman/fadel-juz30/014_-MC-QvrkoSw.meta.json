@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:-MC-QvrkoSw",
+ "vid": "-MC-QvrkoSw",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-juz30",
+ "n": 14,
+ "n_src": "trfile",
+ "title": "مقطع ٦٢٩ من مقاطع حظر التجول   تدبر سورة البروج كاملة",
+ "title_src": "yt_titles",
+ "sha256": "c33983c628716e6d2480e8b70b0595b1727641c7ff8c65ad271c70d32ba87345",
+ "nh": "c5b1e4ec8dc86dd8462ac8f3f0c606d7d17f5e3062e6347cb1f6e6ae11a00717",
+ "chars": 20169,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelJuz30-014/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelJuz30-014/transcript.txt",
+   "sha256": "c33983c628716e6d2480e8b70b0595b1727641c7ff8c65ad271c70d32ba87345",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-juz30/014.txt",
+   "sha256": "c33983c628716e6d2480e8b70b0595b1727641c7ff8c65ad271c70d32ba87345",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

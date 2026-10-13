@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:LLL9dl2Zy5s",
+ "vid": "LLL9dl2Zy5s",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-farsh",
+ "n": 12,
+ "n_src": "trfile",
+ "title": "تدبر فرش القراءات - الحلقة 12 - إِنْ جَاءَكُمْ فَاسِقٌ بِنَبَأٍ فَتَبَيَّنُوا-  #فاضل_سليمان",
+ "title_src": "yt_titles",
+ "sha256": "9973db0e4a41605d3bb5b68e682a298b14a376bdeb618501d24650469c8a1f7c",
+ "nh": "13058e58c05df591dbd81ca09fc87f5e7eb9d0eb1cf3cdc8d5413db0802cef1a",
+ "chars": 9808,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelFarsh-012/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelFarsh-012/transcript.txt",
+   "sha256": "9973db0e4a41605d3bb5b68e682a298b14a376bdeb618501d24650469c8a1f7c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-farsh/012.txt",
+   "sha256": "9973db0e4a41605d3bb5b68e682a298b14a376bdeb618501d24650469c8a1f7c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

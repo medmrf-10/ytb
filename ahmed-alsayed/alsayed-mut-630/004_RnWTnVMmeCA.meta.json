@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:RnWTnVMmeCA",
+ "vid": "RnWTnVMmeCA",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--alsayed-mut-630",
+ "n": 4,
+ "n_src": "trfile",
+ "title": "الدرس 4",
+ "title_src": "filename",
+ "sha256": "7c8fa239ede80cddf1fedd1c786ab2e73071f8c56e097603dd46d16ddfe1ebd9",
+ "nh": "0a0cbb787cb584226e111008adedef6643e9ce0c83a897a7f387236e154e3b5a",
+ "chars": 65406,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/tari5ElfikrElgharbi-004/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/tari5ElfikrElgharbi-004/transcript.txt",
+   "sha256": "7c8fa239ede80cddf1fedd1c786ab2e73071f8c56e097603dd46d16ddfe1ebd9",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-630/004.txt",
+   "sha256": "7c8fa239ede80cddf1fedd1c786ab2e73071f8c56e097603dd46d16ddfe1ebd9",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

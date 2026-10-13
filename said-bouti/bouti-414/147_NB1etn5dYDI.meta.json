@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:NB1etn5dYDI",
+ "vid": "NB1etn5dYDI",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-414",
+ "n": 147,
+ "n_src": "read",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 147",
+ "title_src": "filename",
+ "sha256": "3a28e577e6ab3d643a05ab2a92aa257d9b07dfab291cacdbbe1175261e07d42e",
+ "nh": "1dccebab536b7b1aa0d3d22f36f79ce00e573f43d5c71660aa4e5dd2e3345066",
+ "chars": 15797,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/147_تفسير القرآن الكريم للدكتور البوطي - الدرس 147.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/147_تفسير القرآن الكريم للدكتور البوطي - الدرس 147.txt",
+   "sha256": "3a28e577e6ab3d643a05ab2a92aa257d9b07dfab291cacdbbe1175261e07d42e",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/147.txt",
+   "sha256": "b75954b9d780152e138904c1703146ab62e82d40129e05998e003a13b6fa1e25",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

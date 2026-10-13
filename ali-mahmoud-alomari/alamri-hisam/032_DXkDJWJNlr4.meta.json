@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:DXkDJWJNlr4",
+ "vid": "DXkDJWJNlr4",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-hisam",
+ "n": 32,
+ "n_src": "trfile",
+ "title": "الدرس 32",
+ "title_src": "filename",
+ "sha256": "8c8f222e0fc88a8d0ed84df6eab4efa93309845e892d56b1349111c76f29b238",
+ "nh": "bfe1aaf9732ec24d76ff7f1622d04a96678516435ac58e8f8c694d9554b2f909",
+ "chars": 12305,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriHisam-032/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriHisam-032/transcript.txt",
+   "sha256": "8c8f222e0fc88a8d0ed84df6eab4efa93309845e892d56b1349111c76f29b238",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/hisam/hisam-32_AlAmri.txt",
+   "sha256": "8c8f222e0fc88a8d0ed84df6eab4efa93309845e892d56b1349111c76f29b238",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-hisam/32.txt",
+   "sha256": "8c8f222e0fc88a8d0ed84df6eab4efa93309845e892d56b1349111c76f29b238",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

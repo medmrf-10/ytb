@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:dclf-p2ziV8",
+ "vid": "dclf-p2ziV8",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 91,
+ "n_src": "plpos",
+ "title": "والله أعلم | الحلقة الكاملة 13 ديسمبر 2015 | فضيلة الدكتورعلي جمعة يرد على اتهام الصوفية بنشر التشيع",
+ "title_src": "yt_titles",
+ "sha256": "1bc5428b1e92ee05712fb17c00422c68d5b761e765b7e478f6e0a1ad7ed60db6",
+ "nh": "699d944953c0324685c2602841ebe778912cc8ead0e9b989aa2c3f12171d82a6",
+ "chars": 30295,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/091_والله أعلم ｜ الحلقة الكاملة 13 ديسمبر 2015 ｜ فضيلة الدكتورعلي جمعة يرد على اتهام.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/091_والله أعلم ｜ الحلقة الكاملة 13 ديسمبر 2015 ｜ فضيلة الدكتورعلي جمعة يرد على اتهام.txt",
+   "sha256": "1bc5428b1e92ee05712fb17c00422c68d5b761e765b7e478f6e0a1ad7ed60db6",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/091_والله أعلم ｜ الحلقة الكاملة 13 ديسمبر 2015 ｜ فضيلة الدكتورعلي جمعة يرد على اتهام.txt",
+   "sha256": "1bc5428b1e92ee05712fb17c00422c68d5b761e765b7e478f6e0a1ad7ed60db6",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/091.txt",
+   "sha256": "f39fdbaa06954782e6dddf3e592b34dcdf7f6a7e1d13f2df89f50c217846fc91",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:h6TJXYq6c08",
+ "vid": "h6TJXYq6c08",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-414",
+ "n": 191,
+ "n_src": "read",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 191",
+ "title_src": "filename",
+ "sha256": "d7f8cf9dc25a3583952eb25615cfa666ffe0d8a3729e86c8f225672fdee3e85a",
+ "nh": "5924d3c67654b6b7eb097f3eddef87c064f1d350519df258c8a972588483e1f7",
+ "chars": 20854,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/191_تفسير القرآن الكريم للدكتور البوطي - الدرس 191.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/191_تفسير القرآن الكريم للدكتور البوطي - الدرس 191.txt",
+   "sha256": "d7f8cf9dc25a3583952eb25615cfa666ffe0d8a3729e86c8f225672fdee3e85a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/191.txt",
+   "sha256": "78f17dbe220cd5e3d94f2b11a2394f8e24b198c1be8f723cde19058c350d4a28",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

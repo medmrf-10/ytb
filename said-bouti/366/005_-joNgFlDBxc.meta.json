@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:-joNgFlDBxc",
+ "vid": "-joNgFlDBxc",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--366",
+ "n": 5,
+ "n_src": "mutfile",
+ "title": "4 - محمد ﷺ في القرآن الكريم العلامة البوطي رسالة النبي محمد ﷺ",
+ "title_src": "filename",
+ "sha256": "1ae02256e05e89887d222625a9c6368f0be71c5f9f400707c4cda29f54322575",
+ "nh": "e7e8963f5d384ccbc0d49b30416bc2977752887a10986ce280b8bfdf2676ed95",
+ "chars": 14209,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/366/005_4 - محمد ﷺ في القرآن الكريم  العلامة البوطي  رسالة النبي محمد ﷺ.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/366/005_4 - محمد ﷺ في القرآن الكريم  العلامة البوطي  رسالة النبي محمد ﷺ.txt",
+   "sha256": "1ae02256e05e89887d222625a9c6368f0be71c5f9f400707c4cda29f54322575",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tawba/005_4 - محمد ﷺ في القرآن الكريم  العلامة البوطي  رسالة النبي محمد ﷺ.txt",
+   "sha256": "1ae02256e05e89887d222625a9c6368f0be71c5f9f400707c4cda29f54322575",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/muhammad/005_4 - محمد ﷺ في القرآن الكريم  العلامة البوطي  رسالة النبي محمد ﷺ.txt",
+   "sha256": "1ae02256e05e89887d222625a9c6368f0be71c5f9f400707c4cda29f54322575",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-366/005.txt",
+   "sha256": "28136d39ae5254d69271235bffa19b68c355439d1c2dad79106a106167f1cf52",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

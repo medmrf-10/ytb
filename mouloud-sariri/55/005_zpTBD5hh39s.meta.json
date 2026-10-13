@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:zpTBD5hh39s",
+ "vid": "zpTBD5hh39s",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 5,
+ "n_src": "read",
+ "title": "خطب منبرية ： الجمع بين الأسباب المادية والروحية في كسب المسببات ⧸ الشيخ العلامة",
+ "title_src": "filename",
+ "sha256": "b4f588756cc04be5a60cb5f776be86f1b8087dce953d1987916298924aa05648",
+ "nh": "b6edaa8c640796c5a4f32f3762dd71821e5af190684a8cab7bcc6cc40532051c",
+ "chars": 13717,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/005_خطب منبرية ： الجمع بين الأسباب المادية والروحية في كسب المسببات  ⧸ الشيخ العلامة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/005_خطب منبرية ： الجمع بين الأسباب المادية والروحية في كسب المسببات  ⧸ الشيخ العلامة.txt",
+   "sha256": "b4f588756cc04be5a60cb5f776be86f1b8087dce953d1987916298924aa05648",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/4.txt",
+   "sha256": "b4f588756cc04be5a60cb5f776be86f1b8087dce953d1987916298924aa05648",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

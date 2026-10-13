@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:ywJUiYhcCA4",
+ "vid": "ywJUiYhcCA4",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 73,
+ "n_src": "read",
+ "title": "خطب منبرية： بدع رمضان ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "91d02953f9b2c2d09ed47e0b972e669c275e33f39d8807704f76b0228077d398",
+ "nh": "c3381937f1ad94beefcdebec26de0c66f7ec0e30279e3e87da0ab9189833a806",
+ "chars": 8845,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/073_خطب منبرية： بدع رمضان ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/073_خطب منبرية： بدع رمضان ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "91d02953f9b2c2d09ed47e0b972e669c275e33f39d8807704f76b0228077d398",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/72.txt",
+   "sha256": "91d02953f9b2c2d09ed47e0b972e669c275e33f39d8807704f76b0228077d398",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

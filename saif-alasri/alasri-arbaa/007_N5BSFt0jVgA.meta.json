@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:N5BSFt0jVgA",
+ "vid": "N5BSFt0jVgA",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 7,
+ "n_src": "trfile",
+ "title": "الإلحاد قناعة ام مرض؟ د. سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "baead098898d3a62e6893bde49741dd6b5ecb3fc2bc60ee1d15c62409995edda",
+ "nh": "4eb2b87413902bb5633aaa187e7734c770660b034165fa35c91abee39024cac8",
+ "chars": 14120,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-007/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-007/transcript.txt",
+   "sha256": "baead098898d3a62e6893bde49741dd6b5ecb3fc2bc60ee1d15c62409995edda",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/007_N5BSFt0jVgA.txt",
+   "sha256": "baead098898d3a62e6893bde49741dd6b5ecb3fc2bc60ee1d15c62409995edda",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/007.txt",
+   "sha256": "baead098898d3a62e6893bde49741dd6b5ecb3fc2bc60ee1d15c62409995edda",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

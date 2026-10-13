@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:OsVMKRtOYaA",
+ "vid": "OsVMKRtOYaA",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+ "n": 4,
+ "n_src": "trfile",
+ "title": "الدرس الرابع شرح كتاب الاقتصاد في الاعتقاد لحجَّة الإسلام الإمام الغزالي رحمه الله تعالى",
+ "title_src": "yt_titles",
+ "sha256": "953404468fb6117519cb26beb264d3d16e48ad9ee6c7892dc9eb545df896b72d",
+ "nh": "6344da04af52a2d7f604d9bed68b9c24ccad392ec119234edd264353b1906b54",
+ "chars": 28850,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriIqtisad-004/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriIqtisad-004/transcript.txt",
+   "sha256": "953404468fb6117519cb26beb264d3d16e48ad9ee6c7892dc9eb545df896b72d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-04_AlAmri.txt",
+   "sha256": "953404468fb6117519cb26beb264d3d16e48ad9ee6c7892dc9eb545df896b72d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-iqtisad/04.txt",
+   "sha256": "953404468fb6117519cb26beb264d3d16e48ad9ee6c7892dc9eb545df896b72d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

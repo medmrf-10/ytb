@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:S0Lr3fTEJBI",
+ "vid": "S0Lr3fTEJBI",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--628",
+ "n": 2,
+ "n_src": "mutfile",
+ "title": "السيرة النبوية للمصلحين 02 ｜ إرهاصات النبوة ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "d277f0a7f6266e711b504aca11ca4601de0cc51d4b433bf489e9ff0b65ca0b5a",
+ "nh": "a78a7b6ecfb9ab5d5becabc0541aba1561e9a2180d30b818380a2788cd543498",
+ "chars": 20106,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/628/002_السيرة النبوية للمصلحين 02 ｜ إرهاصات النبوة ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/628/002_السيرة النبوية للمصلحين 02 ｜ إرهاصات النبوة ｜ أحمد السيد.txt",
+   "sha256": "d277f0a7f6266e711b504aca11ca4601de0cc51d4b433bf489e9ff0b65ca0b5a",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/elsiraLilmosli7in-002/transcript.txt",
+   "sha256": "8c37bd69be20cc0ab973e27b58b04edd75e35b938bc862ac8d5db87402ac92e6",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-628/002.txt",
+   "sha256": "8c37bd69be20cc0ab973e27b58b04edd75e35b938bc862ac8d5db87402ac92e6",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:eRN7D2HPv4A",
+ "vid": "eRN7D2HPv4A",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-414",
+ "n": 30,
+ "n_src": "trfile",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 30",
+ "title_src": "filename",
+ "sha256": "9b9c5e499d9b9925e5adcba5e1e19dc3c3846d31c7a72834dc479f566c4c72e5",
+ "nh": "e49b2b75f44c2c888e672ad3d0a94f4d97481874728d6a06202799195269eeea",
+ "chars": 19838,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/030_تفسير القرآن الكريم للدكتور البوطي - الدرس 30.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/030_تفسير القرآن الكريم للدكتور البوطي - الدرس 30.txt",
+   "sha256": "9b9c5e499d9b9925e5adcba5e1e19dc3c3846d31c7a72834dc479f566c4c72e5",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/030.txt",
+   "sha256": "8c723a11ad34cc47911f57f4c6ea66ac8927b6db78346f51909b785fa5f22f40",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:m0R5I90CZjQ",
+ "vid": "m0R5I90CZjQ",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--776",
+ "n": 9,
+ "n_src": "read",
+ "title": "(9) المبهم + المنكر ⧸ تيسير علوم الحديث ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "7cc49bd5e50bf109373f2d352385540a2b4043909635aeb16c8a860075b65267",
+ "nh": "53ab53f3eebf107e2c566dc2cfd308f873d079fd9044193831ada8f2eb039e39",
+ "chars": 29326,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/776/009_(9) المبهم + المنكر ⧸ تيسير علوم الحديث ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/776/009_(9) المبهم + المنكر ⧸ تيسير علوم الحديث ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "7cc49bd5e50bf109373f2d352385540a2b4043909635aeb16c8a860075b65267",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/776/8.txt",
+   "sha256": "7cc49bd5e50bf109373f2d352385540a2b4043909635aeb16c8a860075b65267",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

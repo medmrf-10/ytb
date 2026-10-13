@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:adQwthKNX1w",
+ "vid": "adQwthKNX1w",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--345",
+ "n": 15,
+ "n_src": "plpos",
+ "title": "15- مشاهد وعبر من القرآن والسنة | شخصية النبي صلى الله عليه وسلم",
+ "title_src": "yt_titles",
+ "sha256": "4f0b0f1a3007461dde1bc9c0b45e93e7e471871d792269cce021b097238e7a27",
+ "nh": "c866dc93f2cc1d9c7d42ac8fb86882829bde6fa02e6da2f3bf774c566bc7841c",
+ "chars": 13410,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/345/015_15- مشاهد وعبر من القرآن والسنة ｜ شخصية النبي صلى الله عليه وسلم.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/345/015_15- مشاهد وعبر من القرآن والسنة ｜ شخصية النبي صلى الله عليه وسلم.txt",
+   "sha256": "4f0b0f1a3007461dde1bc9c0b45e93e7e471871d792269cce021b097238e7a27",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-mashahid/15.txt",
+   "sha256": "7524bbb86360b4da55d4dac657747e0ca5c66b30f69cd0840b1d6b2f8e301416",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/345/14.txt",
+   "sha256": "4f0b0f1a3007461dde1bc9c0b45e93e7e471871d792269cce021b097238e7a27",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

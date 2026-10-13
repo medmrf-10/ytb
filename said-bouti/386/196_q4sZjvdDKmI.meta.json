@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:q4sZjvdDKmI",
+ "vid": "q4sZjvdDKmI",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 196,
+ "n_src": "read",
+ "title": "الحكم العطائية للإمام البوطي الدرس 87 - الحكمة 63",
+ "title_src": "filename",
+ "sha256": "8341f9aa9060bdd250415c7085db9a412a133bd1d526d5c1df79964369584fae",
+ "nh": "00edab9a180d9e29e426b1430be7c81daec9815ed8bff96e9001a1f4cd33f502",
+ "chars": 17340,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/196_الحكم العطائية للإمام البوطي  الدرس 87  - الحكمة 63.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/196_الحكم العطائية للإمام البوطي  الدرس 87  - الحكمة 63.txt",
+   "sha256": "8341f9aa9060bdd250415c7085db9a412a133bd1d526d5c1df79964369584fae",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/196_الحكم العطائية للإمام البوطي  الدرس 87  - الحكمة 63.txt",
+   "sha256": "8341f9aa9060bdd250415c7085db9a412a133bd1d526d5c1df79964369584fae",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

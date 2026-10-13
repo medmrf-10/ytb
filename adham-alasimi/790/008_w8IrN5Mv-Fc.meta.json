@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:w8IrN5Mv-Fc",
+ "vid": "w8IrN5Mv-Fc",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--790",
+ "n": 8,
+ "n_src": "read",
+ "title": "عرق يوم القيامة ⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "1d4006a9ca8e56f55d05d752b60d603b0e0132698f5ed25f4686b5bb69ad4492",
+ "nh": "49fcbf47755fe0f3930a14a60088fe2ce319f521de5bd52ff57b1adda8d63365",
+ "chars": 9548,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/790/008_عرق يوم القيامة ⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/790/008_عرق يوم القيامة ⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "1d4006a9ca8e56f55d05d752b60d603b0e0132698f5ed25f4686b5bb69ad4492",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/790/7.txt",
+   "sha256": "1d4006a9ca8e56f55d05d752b60d603b0e0132698f5ed25f4686b5bb69ad4492",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

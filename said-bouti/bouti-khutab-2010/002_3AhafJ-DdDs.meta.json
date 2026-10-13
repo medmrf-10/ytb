@@ -1,0 +1,51 @@
+{
+ "v": 1,
+ "lid": "yt:3AhafJ-DdDs",
+ "vid": "3AhafJ-DdDs",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-khutab-2010",
+ "n": 2,
+ "n_src": "trfile",
+ "title": "خطبة الإمام الشهيد : أيهما أسوأ المبالغة في حب رسول الله أم المبالغة في العصبية للذات ؟!!",
+ "title_src": "yt_titles",
+ "sha256": "13ee718ebfa06bfdcb17705811308d5c8cc39e0df0164c8993bb2745e4623fc0",
+ "nh": "61abc926051aa5d2b0ad7f45f6bd53f55629fbf66e47b4f1c9c95318e369025a",
+ "chars": 12380,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/5o6ab-002/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/5o6ab-002/transcript.txt",
+   "sha256": "13ee718ebfa06bfdcb17705811308d5c8cc39e0df0164c8993bb2745e4623fc0",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/khutab-2010/1.txt",
+   "sha256": "ff559c3528f70cdab000192fd5a0621a3e5408ad15c4a7062f8b2f7d9d4c9591",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-khutab-2012/02.txt",
+   "sha256": "13ee718ebfa06bfdcb17705811308d5c8cc39e0df0164c8993bb2745e4623fc0",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/344/1.txt",
+   "sha256": "ff559c3528f70cdab000192fd5a0621a3e5408ad15c4a7062f8b2f7d9d4c9591",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "said-bouti--bouti-khutab-2012"
+ ]
+}

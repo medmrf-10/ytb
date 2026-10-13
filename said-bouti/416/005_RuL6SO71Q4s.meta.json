@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:RuL6SO71Q4s",
+ "vid": "RuL6SO71Q4s",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--416",
+ "n": 5,
+ "n_src": "mutfile",
+ "title": "5 - العبادة والعبودية في القرآن الكريم هل يرتفع التكليف بالعبادة عمن تحقق بالعبودية ؟",
+ "title_src": "filename",
+ "sha256": "8f7844601985e12428066b25964256e88da821b72e57568a6971232bae82dc02",
+ "nh": "02ee328f9ce2393af8e87af6abf835010b75dd9f3464908f426b545a5a1126f6",
+ "chars": 11528,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/416/005_5 - العبادة والعبودية في القرآن الكريم  هل يرتفع التكليف بالعبادة عمن تحقق بالعبودية ؟.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/416/005_5 - العبادة والعبودية في القرآن الكريم  هل يرتفع التكليف بالعبادة عمن تحقق بالعبودية ؟.txt",
+   "sha256": "8f7844601985e12428066b25964256e88da821b72e57568a6971232bae82dc02",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tawba/005_5 - العبادة والعبودية في القرآن الكريم  هل يرتفع التكليف بالعبادة عمن تحقق بالعبودية ؟.txt",
+   "sha256": "8f7844601985e12428066b25964256e88da821b72e57568a6971232bae82dc02",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/ibada/005_5 - العبادة والعبودية في القرآن الكريم  هل يرتفع التكليف بالعبادة عمن تحقق بالعبودية ؟.txt",
+   "sha256": "8f7844601985e12428066b25964256e88da821b72e57568a6971232bae82dc02",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-416/005.txt",
+   "sha256": "e157c919a0d086aebf1629d6e661619430b7279090ab5aac8630aa11e3784e07",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:0HjO2WNo5eA",
+ "vid": "0HjO2WNo5eA",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--415",
+ "n": 1,
+ "n_src": "mutfile",
+ "title": "برومو برنامج التزكية في القرآن الكريم",
+ "title_src": "filename",
+ "sha256": "763199b4c56c2e877dde28c58ac936e6682cc4ca3c0bcf9198a52e99cff6e927",
+ "nh": "77227bddb11e1826a6ead4dd0f7bfd80e012eedd7c63f42bc9ff5cb4b7ff51ac",
+ "chars": 767,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/415/001_برومو برنامج التزكية في القرآن الكريم.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/415/001_برومو برنامج التزكية في القرآن الكريم.txt",
+   "sha256": "763199b4c56c2e877dde28c58ac936e6682cc4ca3c0bcf9198a52e99cff6e927",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tawba/001_برومو برنامج التزكية في القرآن الكريم.txt",
+   "sha256": "763199b4c56c2e877dde28c58ac936e6682cc4ca3c0bcf9198a52e99cff6e927",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tazkiya/001_برومو برنامج التزكية في القرآن الكريم.txt",
+   "sha256": "763199b4c56c2e877dde28c58ac936e6682cc4ca3c0bcf9198a52e99cff6e927",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-415/001.txt",
+   "sha256": "8baad4e4b521c46bb8f47dc02c62c07dc42c275a5a8c34f56781cd97730058da",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

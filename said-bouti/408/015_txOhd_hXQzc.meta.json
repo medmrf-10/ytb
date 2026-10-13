@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:txOhd_hXQzc",
+ "vid": "txOhd_hXQzc",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--408",
+ "n": 15,
+ "n_src": "read",
+ "title": "15- الجديد في إعجاز القرآن الكريم ｜ مظهر جلال الربوبية",
+ "title_src": "filename",
+ "sha256": "7712a174dcd15c115994c0cac0b8c9ea888b81417c35dcd1da60833080c0d568",
+ "nh": "d7a1a60a1d43b2f8e2a5cab3ddcaedb1be5298b55fde10017f6363ea5719f2c1",
+ "chars": 12704,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/408/015_15- الجديد في إعجاز القرآن الكريم ｜ مظهر جلال الربوبية.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/408/015_15- الجديد في إعجاز القرآن الكريم ｜ مظهر جلال الربوبية.txt",
+   "sha256": "7712a174dcd15c115994c0cac0b8c9ea888b81417c35dcd1da60833080c0d568",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/408/14.txt",
+   "sha256": "7712a174dcd15c115994c0cac0b8c9ea888b81417c35dcd1da60833080c0d568",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

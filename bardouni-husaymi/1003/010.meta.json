@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:10",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 10,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 115 ( قوله ＂ و نكاح التفويض جائز من غير خلاف ＂ ) ｜",
+ "title_src": "filename",
+ "sha256": "d7616bfcf3ef09cd28a104aa83da352640219b12459a0149ea4a2def473c62b3",
+ "nh": "1a4244576cb2850a362604b7d90e0f6e80a6455b9230c977a8060641c2f5d0fd",
+ "chars": 14122,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/010_شرح رسالة ابن ابي زيد ｜ الدرس 115 ( قوله ＂ و نكاح التفويض جائز من غير خلاف ＂ ) ｜.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/010_شرح رسالة ابن ابي زيد ｜ الدرس 115 ( قوله ＂ و نكاح التفويض جائز من غير خلاف ＂ ) ｜.txt",
+   "sha256": "d7616bfcf3ef09cd28a104aa83da352640219b12459a0149ea4a2def473c62b3",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/116.txt",
+   "sha256": "d7616bfcf3ef09cd28a104aa83da352640219b12459a0149ea4a2def473c62b3",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

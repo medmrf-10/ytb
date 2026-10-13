@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:aHT7Y6W-Xmw",
+ "vid": "aHT7Y6W-Xmw",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--993",
+ "n": 20,
+ "n_src": "read",
+ "title": "شرح حواشي اليوسي على كبرى السنوسي -19",
+ "title_src": "filename",
+ "sha256": "b9910e952c4d51a18a1b0dc2de996e8af76e8d06531040cd7affc360fefa5bae",
+ "nh": "abbbf0ae0d6a0937585959a455efe971641f85806070565181baa95a6ad127ed",
+ "chars": 5345,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/993/020_شرح حواشي اليوسي على كبرى السنوسي -19-.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/993/020_شرح حواشي اليوسي على كبرى السنوسي -19-.txt",
+   "sha256": "b9910e952c4d51a18a1b0dc2de996e8af76e8d06531040cd7affc360fefa5bae",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/993/19.txt",
+   "sha256": "b9910e952c4d51a18a1b0dc2de996e8af76e8d06531040cd7affc360fefa5bae",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:N3aD3QWzlfI",
+ "vid": "N3aD3QWzlfI",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-manhaj-iman",
+ "n": 1,
+ "n_src": "trfile",
+ "title": "الدرس 1",
+ "title_src": "filename",
+ "sha256": "8a040422c7d6b1365e5e2fd2c5b8b6eded52498380262f0fe7195d078a9c70eb",
+ "nh": "cfd3e6b7ecc5b543bfc6cc85f18e7f82f2a12fd4bad17ee4e185d433dfd596e3",
+ "chars": 36793,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriManhajIman-001/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriManhajIman-001/transcript.txt",
+   "sha256": "8a040422c7d6b1365e5e2fd2c5b8b6eded52498380262f0fe7195d078a9c70eb",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/manhaj-iman/manhaj-iman-01_AlAmri.txt",
+   "sha256": "8a040422c7d6b1365e5e2fd2c5b8b6eded52498380262f0fe7195d078a9c70eb",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-manhaj-iman/01.txt",
+   "sha256": "8a040422c7d6b1365e5e2fd2c5b8b6eded52498380262f0fe7195d078a9c70eb",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

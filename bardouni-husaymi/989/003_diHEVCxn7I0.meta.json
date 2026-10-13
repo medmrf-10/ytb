@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:diHEVCxn7I0",
+ "vid": "diHEVCxn7I0",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--989",
+ "n": 3,
+ "n_src": "read",
+ "title": "شرح فتح الوهاب بشرح الآداب ｜ الدرس 10 ( قوله ＂ الدوران ＂ ) ｜ الشيخ محمد البردون",
+ "title_src": "filename",
+ "sha256": "3faa384f76b8c54affbe559d6b1d23023e771cdf1d0cc74c62dd048855216359",
+ "nh": "51b459a9a9f1efafe094e10cccab3ef303cf9b661b92f8d64027dc0328330a5a",
+ "chars": 4482,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/989/003_شرح فتح الوهاب بشرح الآداب ｜ الدرس 10 ( قوله ＂ الدوران ＂ ) ｜  الشيخ محمد البردون.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/989/003_شرح فتح الوهاب بشرح الآداب ｜ الدرس 10 ( قوله ＂ الدوران ＂ ) ｜  الشيخ محمد البردون.txt",
+   "sha256": "3faa384f76b8c54affbe559d6b1d23023e771cdf1d0cc74c62dd048855216359",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/989/9.txt",
+   "sha256": "3faa384f76b8c54affbe559d6b1d23023e771cdf1d0cc74c62dd048855216359",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

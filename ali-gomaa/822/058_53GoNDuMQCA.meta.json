@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:53GoNDuMQCA",
+ "vid": "53GoNDuMQCA",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 58,
+ "n_src": "plpos",
+ "title": "والله أعلم | علي جمعة يوضح كيف نتعامل مع المهاجمين للأزهر والسنة النبوية | الجزء 3",
+ "title_src": "yt_titles",
+ "sha256": "b414c9abcea598f8c8998f1d20e9d04895d2b7b55a13835f5592365f2ffd1028",
+ "nh": "f440d81a8fe0cc1deda51bc809a03f245439815ac99c5eba3e29451b86201e2e",
+ "chars": 5766,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/058_والله أعلم ｜ علي جمعة يوضح كيف نتعامل مع المهاجمين للأزهر والسنة النبوية ｜ الجزء.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/058_والله أعلم ｜ علي جمعة يوضح كيف نتعامل مع المهاجمين للأزهر والسنة النبوية ｜ الجزء.txt",
+   "sha256": "b414c9abcea598f8c8998f1d20e9d04895d2b7b55a13835f5592365f2ffd1028",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/058_والله أعلم ｜ علي جمعة يوضح كيف نتعامل مع المهاجمين للأزهر والسنة النبوية ｜ الجزء.txt",
+   "sha256": "b414c9abcea598f8c8998f1d20e9d04895d2b7b55a13835f5592365f2ffd1028",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/058.txt",
+   "sha256": "43392f0e29e5a812c3e12079a00e787efc8177facfb93eb200f7ae37559ed026",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

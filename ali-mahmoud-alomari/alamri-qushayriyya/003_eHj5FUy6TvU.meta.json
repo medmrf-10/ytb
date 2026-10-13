@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:eHj5FUy6TvU",
+ "vid": "eHj5FUy6TvU",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-qushayriyya",
+ "n": 3,
+ "n_src": "trfile",
+ "title": "الدرس 3",
+ "title_src": "filename",
+ "sha256": "a91ec95ced1d3be10514a85cff483ad615b2de648bc373ccd39574dc0727fc62",
+ "nh": "244662b8647915971e30591a6ba41c85a099ec40dca0976eb1308bc9df5c0327",
+ "chars": 38354,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriQushayriyya-003/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriQushayriyya-003/transcript.txt",
+   "sha256": "a91ec95ced1d3be10514a85cff483ad615b2de648bc373ccd39574dc0727fc62",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/qushayriyya/qushayriyya-03_AlAmri.txt",
+   "sha256": "a91ec95ced1d3be10514a85cff483ad615b2de648bc373ccd39574dc0727fc62",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-qushayriyya/03.txt",
+   "sha256": "a91ec95ced1d3be10514a85cff483ad615b2de648bc373ccd39574dc0727fc62",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

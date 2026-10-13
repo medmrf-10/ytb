@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:hsuNlF5l_QU",
+ "vid": "hsuNlF5l_QU",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-nasafiyya",
+ "n": 1,
+ "n_src": "trfile",
+ "title": "الدرس 1",
+ "title_src": "filename",
+ "sha256": "d15fc0f141a9f9dc4dafd6ea6bca5f218a79cfef554f995bf28e24311a771e1d",
+ "nh": "37d8afe45d056cd371ac654fee66221a8bebeb068bfd1d14f579116c61f19f83",
+ "chars": 28449,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriNasafiyya-001/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriNasafiyya-001/transcript.txt",
+   "sha256": "d15fc0f141a9f9dc4dafd6ea6bca5f218a79cfef554f995bf28e24311a771e1d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/nasafiyya/nasafiyya-01_AlAmri.txt",
+   "sha256": "d15fc0f141a9f9dc4dafd6ea6bca5f218a79cfef554f995bf28e24311a771e1d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-nasafiyya/01.txt",
+   "sha256": "d15fc0f141a9f9dc4dafd6ea6bca5f218a79cfef554f995bf28e24311a771e1d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

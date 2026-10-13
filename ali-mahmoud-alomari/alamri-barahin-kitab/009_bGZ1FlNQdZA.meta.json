@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:bGZ1FlNQdZA",
+ "vid": "bGZ1FlNQdZA",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-barahin-kitab",
+ "n": 9,
+ "n_src": "trfile",
+ "title": "الدرس التاسع كتاب أم البراهين",
+ "title_src": "yt_titles",
+ "sha256": "3f03c7eb745ad93e68852065ded5e9dc809044a69b5dba84cfe4c465fbd54110",
+ "nh": "65d7a068451f7c0c425089d55f8c19bfcd6ba2bdc86df65ab9432071b706f25d",
+ "chars": 34118,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriBarahinKitab-009/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriBarahinKitab-009/transcript.txt",
+   "sha256": "3f03c7eb745ad93e68852065ded5e9dc809044a69b5dba84cfe4c465fbd54110",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/barahin-kitab/barahin-kitab-09_AlAmri.txt",
+   "sha256": "3f03c7eb745ad93e68852065ded5e9dc809044a69b5dba84cfe4c465fbd54110",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-barahin-kitab/09.txt",
+   "sha256": "3f03c7eb745ad93e68852065ded5e9dc809044a69b5dba84cfe4c465fbd54110",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

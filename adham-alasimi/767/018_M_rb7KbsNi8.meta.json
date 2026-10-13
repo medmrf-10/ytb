@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:M_rb7KbsNi8",
+ "vid": "M_rb7KbsNi8",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--767",
+ "n": 18,
+ "n_src": "read",
+ "title": "(18) إعراب الاسم وبناؤه ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "678f0a22a53db81fb874cb03c8759e79d9e2b4cbf298184421f2793c691168ec",
+ "nh": "c0d786b06995154e4a367e79fc7e10d25108903b8c530171a2447aa64bec565e",
+ "chars": 18200,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/767/018_(18) إعراب الاسم وبناؤه ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/767/018_(18) إعراب الاسم وبناؤه ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "678f0a22a53db81fb874cb03c8759e79d9e2b4cbf298184421f2793c691168ec",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/767/17.txt",
+   "sha256": "678f0a22a53db81fb874cb03c8759e79d9e2b4cbf298184421f2793c691168ec",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

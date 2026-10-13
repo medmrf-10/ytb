@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:RK4M-X2yB5A",
+ "vid": "RK4M-X2yB5A",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 49,
+ "n_src": "plpos",
+ "title": "والله أعلم | د علي جمعة  يتحدث عن خطورة انكار وجود الأديان وحدود الحرية الدينية | الحلقة الكاملة",
+ "title_src": "yt_titles",
+ "sha256": "b7afcdecdd0717d0033b3d7eabde52fcd8c5ee54589876c2aa512f11395444e1",
+ "nh": "99ff15b5ad65e51273765abc5ef0ee7656b14a1abf4427914952d5031ec2990c",
+ "chars": 22525,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/049_والله أعلم ｜ د علي جمعة  يتحدث عن خطورة انكار وجود الأديان وحدود الحرية الدينية .txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/049_والله أعلم ｜ د علي جمعة  يتحدث عن خطورة انكار وجود الأديان وحدود الحرية الدينية .txt",
+   "sha256": "b7afcdecdd0717d0033b3d7eabde52fcd8c5ee54589876c2aa512f11395444e1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/049_والله أعلم ｜ د علي جمعة  يتحدث عن خطورة انكار وجود الأديان وحدود الحرية الدينية .txt",
+   "sha256": "b7afcdecdd0717d0033b3d7eabde52fcd8c5ee54589876c2aa512f11395444e1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/049.txt",
+   "sha256": "f35f261a180c5f1f20315fcaf2605938a53e7a1f71bd18f7ba5bacbe031803a5",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

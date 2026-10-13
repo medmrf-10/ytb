@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:bvfIiRJm20k",
+ "vid": "bvfIiRJm20k",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--984",
+ "n": 4,
+ "n_src": "read",
+ "title": "شرح أم البراهين ｜ الدرس 34 ( معاني لا إله إلا الله-تتمة- ) ｜ الشيخ محمد البردوني",
+ "title_src": "filename",
+ "sha256": "6385ea8b594e83ee5f2b332c9c2a5e3f3a4f8b0f576910a99a521bc1009ec491",
+ "nh": "fc268a509a395a7ef512c50e34cde8d97721cb2be019a7c7fc51d2470937772e",
+ "chars": 33814,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/984/004_شرح أم البراهين ｜ الدرس 34 ( معاني لا إله إلا الله-تتمة- ) ｜ الشيخ محمد البردوني.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/984/004_شرح أم البراهين ｜ الدرس 34 ( معاني لا إله إلا الله-تتمة- ) ｜ الشيخ محمد البردوني.txt",
+   "sha256": "6385ea8b594e83ee5f2b332c9c2a5e3f3a4f8b0f576910a99a521bc1009ec491",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasimi/um-baraheen/3.txt",
+   "sha256": "6385ea8b594e83ee5f2b332c9c2a5e3f3a4f8b0f576910a99a521bc1009ec491",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/743/3.txt",
+   "sha256": "6385ea8b594e83ee5f2b332c9c2a5e3f3a4f8b0f576910a99a521bc1009ec491",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "adham-alasimi--743",
+  "adham-alasimi--alasimi-um-baraheen"
+ ]
+}

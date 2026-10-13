@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:1xGzpXE68PM",
+ "vid": "1xGzpXE68PM",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--339",
+ "n": 2,
+ "n_src": "mutfile",
+ "title": "1 - الكآبة .. أسباب وعلاج العلامة البوطي العوامل الكامنة وراء آفة الكآبة",
+ "title_src": "filename",
+ "sha256": "c685da62235cc48ac2691822c217f7a5ec442014f30f7117ba871540dcf45ca9",
+ "nh": "891cfd29b59fa32513e90df1852b75d4521f41472348d9f37db01ecc388f00bf",
+ "chars": 12875,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/339/002_1 - الكآبة .. أسباب وعلاج  العلامة البوطي  العوامل الكامنة وراء آفة الكآبة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/339/002_1 - الكآبة .. أسباب وعلاج  العلامة البوطي  العوامل الكامنة وراء آفة الكآبة.txt",
+   "sha256": "c685da62235cc48ac2691822c217f7a5ec442014f30f7117ba871540dcf45ca9",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/rihab/002_1 - الكآبة .. أسباب وعلاج  العلامة البوطي  العوامل الكامنة وراء آفة الكآبة.txt",
+   "sha256": "c685da62235cc48ac2691822c217f7a5ec442014f30f7117ba871540dcf45ca9",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-339/002.txt",
+   "sha256": "edeb3b2b7db22b035f6ba0991f70cbff0045a013085feed71019bc8a7bcb2419",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

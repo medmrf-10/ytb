@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:habib-ali-aljifri--101:20",
+ "vid": null,
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--101",
+ "n": 20,
+ "n_src": "read",
+ "title": "أيها المريد ｜ الحلقة 19 ｜ مدخل المحبه ｜ علي الجفري ｜",
+ "title_src": "filename",
+ "sha256": "1ecb9e5c0bd9b788c48d482babb9c5d06daa1e392a395cb2f974c6711753f29f",
+ "nh": "fffbd812395582ecf4e131ab5f3e81f1f6dc2b4643effea21ee0117b88f8bce7",
+ "chars": 11019,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/101/020_أيها المريد ｜ الحلقة 19 ｜ مدخل المحبه ｜ علي الجفري ｜ English subtitle.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/101/020_أيها المريد ｜ الحلقة 19 ｜ مدخل المحبه ｜ علي الجفري ｜ English subtitle.txt",
+   "sha256": "1ecb9e5c0bd9b788c48d482babb9c5d06daa1e392a395cb2f974c6711753f29f",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/101/19.txt",
+   "sha256": "1ecb9e5c0bd9b788c48d482babb9c5d06daa1e392a395cb2f974c6711753f29f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

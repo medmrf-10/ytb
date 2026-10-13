@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:-z041dLOOG8",
+ "vid": "-z041dLOOG8",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--371",
+ "n": 36,
+ "n_src": "plpos",
+ "title": "36- علوم القرآن الكريم | فلسفة القرآن الكريم عن الإنسان",
+ "title_src": "yt_titles",
+ "sha256": "d38765fcbfdf265d4eecc5c25b5be1a11c1d639d8d0d02810e6399f99cba4263",
+ "nh": "8107aae373a70d30e0bdd61ed6de276c95dedadbe03ea578e41cf72cb002c20b",
+ "chars": 20497,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/371/036_36- علوم القرآن الكريم ｜ فلسفة القرآن الكريم عن الإنسان.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/371/036_36- علوم القرآن الكريم ｜ فلسفة القرآن الكريم عن الإنسان.txt",
+   "sha256": "d38765fcbfdf265d4eecc5c25b5be1a11c1d639d8d0d02810e6399f99cba4263",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/3oloumEl9or1n-036/transcript.txt",
+   "sha256": "d82929c82aaf8acfb4eb12b514d1da458ccaf84e1e45375f31d809084226a7bc",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-ulum-quran/36.txt",
+   "sha256": "d82929c82aaf8acfb4eb12b514d1da458ccaf84e1e45375f31d809084226a7bc",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

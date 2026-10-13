@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:K_UxVvhDcAM",
+ "vid": "K_UxVvhDcAM",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-hisam",
+ "n": 23,
+ "n_src": "trfile",
+ "title": "( 5 )ج١ شرح الحسام الكاتي",
+ "title_src": "yt_titles",
+ "sha256": "5f4303146be79026d48482a3b3bcbd3f2385c2f2ccaac2ee52cc115ec933c3e1",
+ "nh": "5178598f20dbb69430029239bbf6fd04b905db0dee30d10e9ad26f75261f8dde",
+ "chars": 13214,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriHisam-023/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriHisam-023/transcript.txt",
+   "sha256": "5f4303146be79026d48482a3b3bcbd3f2385c2f2ccaac2ee52cc115ec933c3e1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/hisam/hisam-23_AlAmri.txt",
+   "sha256": "5f4303146be79026d48482a3b3bcbd3f2385c2f2ccaac2ee52cc115ec933c3e1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-hisam/23.txt",
+   "sha256": "5f4303146be79026d48482a3b3bcbd3f2385c2f2ccaac2ee52cc115ec933c3e1",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

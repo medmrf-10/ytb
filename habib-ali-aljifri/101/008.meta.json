@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:habib-ali-aljifri--101:8",
+ "vid": null,
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--101",
+ "n": 8,
+ "n_src": "read",
+ "title": "أيها المريد ｜ الحلقة 7 ｜ مفهوم الصبر ｜ علي الجفري ｜",
+ "title_src": "filename",
+ "sha256": "579990bea2a489fbcf5b60007c343d9efb6802ca01fa8b184a77138ac5313453",
+ "nh": "47b2792fae5e0351e702a894943384b3cf1e2568b470871055f22f587324eb4b",
+ "chars": 12257,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/101/008_أيها المريد ｜ الحلقة 7 ｜ مفهوم الصبر  ｜ علي الجفري ｜ English subtitle.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/101/008_أيها المريد ｜ الحلقة 7 ｜ مفهوم الصبر  ｜ علي الجفري ｜ English subtitle.txt",
+   "sha256": "579990bea2a489fbcf5b60007c343d9efb6802ca01fa8b184a77138ac5313453",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/101/7.txt",
+   "sha256": "579990bea2a489fbcf5b60007c343d9efb6802ca01fa8b184a77138ac5313453",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

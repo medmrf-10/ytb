@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:dSPmvIe1nkU",
+ "vid": "dSPmvIe1nkU",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--781",
+ "n": 5,
+ "n_src": "read",
+ "title": "(05) عبد الله الذبيح وفداؤه ⧸ السيرة النبوية ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "10034b7d17ddd14aff76ab6f909b9a894baf4f22ca1d96cbc9024aa49fc67c7b",
+ "nh": "a817681c24d17830c82e46231582cfe31d3403f29891151777f3779abe8648b5",
+ "chars": 17173,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/781/005_(05) عبد الله الذبيح وفداؤه ⧸ السيرة النبوية ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/781/005_(05) عبد الله الذبيح وفداؤه ⧸ السيرة النبوية ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "10034b7d17ddd14aff76ab6f909b9a894baf4f22ca1d96cbc9024aa49fc67c7b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/hafiz/irshad-suluk/4.txt",
+   "sha256": "10034b7d17ddd14aff76ab6f909b9a894baf4f22ca1d96cbc9024aa49fc67c7b",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/173/4.txt",
+   "sha256": "10034b7d17ddd14aff76ab6f909b9a894baf4f22ca1d96cbc9024aa49fc67c7b",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-omar-ibn-hafiz--173",
+  "habib-omar-ibn-hafiz--hafiz-irshad-suluk"
+ ]
+}

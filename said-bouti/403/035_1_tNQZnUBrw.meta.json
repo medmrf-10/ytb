@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:1_tNQZnUBrw",
+ "vid": "1_tNQZnUBrw",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--403",
+ "n": 35,
+ "n_src": "plpos",
+ "title": "33- فقه السيرة النبوية | غزوة الخندق(1)",
+ "title_src": "yt_titles",
+ "sha256": "1c09f75e61059d4bc16132705b103f99ebe5c984794208341bb35085201e8370",
+ "nh": "52342a7b0c5e382909d2b3ba0b98fcf9780a941b5709a609925eb9146f4034d6",
+ "chars": 20085,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/403/035_33- فقه السيرة النبوية ｜ غزوة الخندق(1).txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/403/035_33- فقه السيرة النبوية ｜ غزوة الخندق(1).txt",
+   "sha256": "1c09f75e61059d4bc16132705b103f99ebe5c984794208341bb35085201e8370",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fi9hElsirah-035/transcript.txt",
+   "sha256": "4b5ae8e375e37596093e4e5a97fe5e498f4b63758f607b86616e49ec3a33127e",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-sira/35.txt",
+   "sha256": "4b5ae8e375e37596093e4e5a97fe5e498f4b63758f607b86616e49ec3a33127e",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

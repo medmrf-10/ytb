@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:vDR2iGAqEw8",
+ "vid": "vDR2iGAqEw8",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-414",
+ "n": 117,
+ "n_src": "read",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 117",
+ "title_src": "filename",
+ "sha256": "1028545249a7ce81d068b96bdc4cb39e2e479063196336e8049120c34ab1662f",
+ "nh": "881d822061657ff92af01e58fc82975483689ce70b3adabad34d79af925c16ab",
+ "chars": 21069,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/117_تفسير القرآن الكريم للدكتور البوطي - الدرس 117.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/117_تفسير القرآن الكريم للدكتور البوطي - الدرس 117.txt",
+   "sha256": "1028545249a7ce81d068b96bdc4cb39e2e479063196336e8049120c34ab1662f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/117.txt",
+   "sha256": "70763bf6da2252a26ff13418d70f83eafeb7408884094a7cf04fef474e39b137",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:Rx78ruxCD3A",
+ "vid": "Rx78ruxCD3A",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-barahin-kitab",
+ "n": 4,
+ "n_src": "trfile",
+ "title": "الدرس الرابع كتاب أم البراهين",
+ "title_src": "yt_titles",
+ "sha256": "6682320c2c1f702a17d66f4b46a309d4fd1b3bd8a31a0027ece5c4b9d62bcb3b",
+ "nh": "a8065164b7b6488d6946bb9cb8d38b6023b778ea4be4dfce0e0b7a158e0be4d5",
+ "chars": 35151,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriBarahinKitab-004/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriBarahinKitab-004/transcript.txt",
+   "sha256": "6682320c2c1f702a17d66f4b46a309d4fd1b3bd8a31a0027ece5c4b9d62bcb3b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/barahin-kitab/barahin-kitab-04_AlAmri.txt",
+   "sha256": "6682320c2c1f702a17d66f4b46a309d4fd1b3bd8a31a0027ece5c4b9d62bcb3b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-barahin-kitab/04.txt",
+   "sha256": "6682320c2c1f702a17d66f4b46a309d4fd1b3bd8a31a0027ece5c4b9d62bcb3b",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

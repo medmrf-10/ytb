@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:Krd2NrMQXeQ",
+ "vid": "Krd2NrMQXeQ",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--alsayed-mut-636",
+ "n": 17,
+ "n_src": "trfile",
+ "title": "الدرس 17",
+ "title_src": "filename",
+ "sha256": "b6903793fdae995b4bd828ed13e219e04382f9a3bd4e7cfef733e41e164fc059",
+ "nh": "64ad7b0a5c6996ebdd7f3261f123e51f73bed912d5ee09c77294bbd4d2799d2a",
+ "chars": 94460,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/el6ari9IlaBaytElmaqdis-017/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/el6ari9IlaBaytElmaqdis-017/transcript.txt",
+   "sha256": "b6903793fdae995b4bd828ed13e219e04382f9a3bd4e7cfef733e41e164fc059",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-636/017.txt",
+   "sha256": "b6903793fdae995b4bd828ed13e219e04382f9a3bd4e7cfef733e41e164fc059",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

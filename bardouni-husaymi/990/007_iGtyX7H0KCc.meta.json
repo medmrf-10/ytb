@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:iGtyX7H0KCc",
+ "vid": "iGtyX7H0KCc",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--990",
+ "n": 7,
+ "n_src": "read",
+ "title": "شرح نظم الاستعارة ｜ الدرس 4 (المجاز المرسل) ｜ الشيخ محمد البردوني الحسيمي",
+ "title_src": "filename",
+ "sha256": "5f78a55bb0f2d4940b412869e4d3591f33e8226ff2f669be7ee9fb2d808c9e49",
+ "nh": "ae8f2c6b96e19795d752ccbc68598b556722a0ea8556c5e0e65a7bffe863d027",
+ "chars": 10449,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/990/007_شرح نظم الاستعارة  ｜ الدرس 4 (المجاز المرسل) ｜  الشيخ محمد البردوني الحسيمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/990/007_شرح نظم الاستعارة  ｜ الدرس 4 (المجاز المرسل) ｜  الشيخ محمد البردوني الحسيمي.txt",
+   "sha256": "5f78a55bb0f2d4940b412869e4d3591f33e8226ff2f669be7ee9fb2d808c9e49",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/sariri/istiara/6.txt",
+   "sha256": "5f78a55bb0f2d4940b412869e4d3591f33e8226ff2f669be7ee9fb2d808c9e49",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/40/6.txt",
+   "sha256": "5f78a55bb0f2d4940b412869e4d3591f33e8226ff2f669be7ee9fb2d808c9e49",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "mouloud-sariri--40",
+  "mouloud-sariri--sariri-istiara"
+ ]
+}

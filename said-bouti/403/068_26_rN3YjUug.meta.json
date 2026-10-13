@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:26_rN3YjUug",
+ "vid": "26_rN3YjUug",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--403",
+ "n": 68,
+ "n_src": "plpos",
+ "title": "66- فقه السيرة النبوية | خلافة سيدنا عمر بن الخطاب",
+ "title_src": "yt_titles",
+ "sha256": "1801da103eb2a7429d334cbe9d3972afeb31a14c42f6045549496f5bff679f13",
+ "nh": "bc5cef8c510d54d684ae184d88de8d781387b0ad864f451c8ded0d87bdfbf1a1",
+ "chars": 25062,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/403/068_66- فقه السيرة النبوية ｜ خلافة سيدنا عمر بن الخطاب.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/403/068_66- فقه السيرة النبوية ｜ خلافة سيدنا عمر بن الخطاب.txt",
+   "sha256": "1801da103eb2a7429d334cbe9d3972afeb31a14c42f6045549496f5bff679f13",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fi9hElsirah-068/transcript.txt",
+   "sha256": "b95c248d03873aae4fbd34540f485ce11b06c06b7088e6b630a72c32e22ce7bb",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-sira/68.txt",
+   "sha256": "b95c248d03873aae4fbd34540f485ce11b06c06b7088e6b630a72c32e22ce7bb",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/403/67.txt",
+   "sha256": "1801da103eb2a7429d334cbe9d3972afeb31a14c42f6045549496f5bff679f13",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

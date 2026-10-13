@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "yt:CffvWa-67Zo",
+ "vid": "CffvWa-67Zo",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--bardouni-mut-985",
+ "n": 12,
+ "n_src": "read",
+ "title": "شرح المنهج المنتخب ｜ دس 72 ( ق108 كل ما ينتقل ملكه بغير عوض يشترط فيه الحوز ) ｜",
+ "title_src": "filename",
+ "sha256": "03a23e903dbee0e7a70a76c4ee5455d089f78993c94a4e3b947c8425a80e9fac",
+ "nh": "9eb65b02a3703ced801b9a13dd8e59cdc822ccc8d7750b6be6032bec532affe8",
+ "chars": 27136,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/985/012_شرح المنهج  المنتخب ｜ دس 72 ( ق108 كل ما ينتقل ملكه بغير عوض يشترط فيه الحوز ) ｜.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/985/012_شرح المنهج  المنتخب ｜ دس 72 ( ق108 كل ما ينتقل ملكه بغير عوض يشترط فيه الحوز ) ｜.txt",
+   "sha256": "03a23e903dbee0e7a70a76c4ee5455d089f78993c94a4e3b947c8425a80e9fac",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bardouni/mut-985/012_شرح المنهج  المنتخب ｜ دس 72 ( ق108 كل ما ينتقل ملكه بغير عوض يشترط فيه الحوز ) ｜.txt",
+   "sha256": "03a23e903dbee0e7a70a76c4ee5455d089f78993c94a4e3b947c8425a80e9fac",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/37/144.txt",
+   "sha256": "03a23e903dbee0e7a70a76c4ee5455d089f78993c94a4e3b947c8425a80e9fac",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "mouloud-sariri--37"
+ ]
+}

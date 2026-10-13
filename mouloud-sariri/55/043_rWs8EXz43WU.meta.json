@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:rWs8EXz43WU",
+ "vid": "rWs8EXz43WU",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 43,
+ "n_src": "read",
+ "title": "خطب منبرية： حدود الإحسان بين الوالدين والأولاد ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "dcc4e5e783c2c7d2065a792a52d2405c272a57bd180ddc63a088ff9c4bbf96d2",
+ "nh": "59f6c5a28c9632b60db221d7c386eddd57ae2cb2117e156277e204ebf386b9e7",
+ "chars": 11460,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/043_خطب منبرية： حدود الإحسان  بين الوالدين والأولاد ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/043_خطب منبرية： حدود الإحسان  بين الوالدين والأولاد ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "dcc4e5e783c2c7d2065a792a52d2405c272a57bd180ddc63a088ff9c4bbf96d2",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/42.txt",
+   "sha256": "dcc4e5e783c2c7d2065a792a52d2405c272a57bd180ddc63a088ff9c4bbf96d2",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

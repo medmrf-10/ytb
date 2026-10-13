@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "rn:habib-ali-aljifri--101:32",
+ "vid": null,
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--101",
+ "n": 32,
+ "n_src": "read",
+ "title": "أيها المريد ｜ الحلقة 1 ｜ ثمرات الإرادة ｜ علي الجفري ｜",
+ "title_src": "filename",
+ "sha256": "c6f8be3458dbaf842890881aaccfe46a724c900baf30fac6ba90e2e2222319f6",
+ "nh": "31476ae9553351a32630a4df809c88e9722bb21fce70732c3a8381a1a0b3c461",
+ "chars": 12370,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/101/002_‏أيها المريد ｜ الحلقة 1 ｜ ثمرات الإرادة ｜ علي الجفري ｜ English subtitle.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/101/002_‏أيها المريد ｜ الحلقة 1 ｜ ثمرات الإرادة ｜ علي الجفري ｜ English subtitle.txt",
+   "sha256": "c6f8be3458dbaf842890881aaccfe46a724c900baf30fac6ba90e2e2222319f6",
+   "rel": "identical"
+  },
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/101/002_أيها المريد ｜ الحلقة 1 ｜ ثمرات الإرادة ｜ علي الجفري ｜ English subtitle.txt",
+   "sha256": "c6f8be3458dbaf842890881aaccfe46a724c900baf30fac6ba90e2e2222319f6",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/101/1.txt",
+   "sha256": "c6f8be3458dbaf842890881aaccfe46a724c900baf30fac6ba90e2e2222319f6",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

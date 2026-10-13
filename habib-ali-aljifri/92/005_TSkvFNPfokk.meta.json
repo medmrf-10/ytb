@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:TSkvFNPfokk",
+ "vid": "TSkvFNPfokk",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--92",
+ "n": 5,
+ "n_src": "read",
+ "title": "تعريف ببرنامج آمنت بالله، الحبيب علي الجفري",
+ "title_src": "filename",
+ "sha256": "08dd00be4be099bd64ab9b9e563d0a4ed8b89d2100a6257a5e4749ee977751da",
+ "nh": "6b4cc28a0a9a05d7b449081ae22a0fcb9efa6dbfb7070997b68d04930ad92f6d",
+ "chars": 599,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/92/005_تعريف ببرنامج آمنت بالله، الحبيب علي الجفري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/92/005_تعريف ببرنامج آمنت بالله، الحبيب علي الجفري.txt",
+   "sha256": "08dd00be4be099bd64ab9b9e563d0a4ed8b89d2100a6257a5e4749ee977751da",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/92/4.txt",
+   "sha256": "08dd00be4be099bd64ab9b9e563d0a4ed8b89d2100a6257a5e4749ee977751da",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

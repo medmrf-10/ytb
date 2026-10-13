@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:YOMhnplfxSA",
+ "vid": "YOMhnplfxSA",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--687",
+ "n": 5,
+ "n_src": "mutfile",
+ "title": "مقاصد السور ｜ سورة الشورى ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "afcf32395b273dcd43b4a38793dd43fbe522d49b5a01f71702b1364797eb0e74",
+ "nh": "c72005a6d49114f4d5820ca95caaf6c9111e8eaa3a59e7235a2105413f906274",
+ "chars": 16749,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/687/005_مقاصد السور ｜ سورة الشورى ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/687/005_مقاصد السور ｜ سورة الشورى ｜ أحمد السيد.txt",
+   "sha256": "afcf32395b273dcd43b4a38793dd43fbe522d49b5a01f71702b1364797eb0e74",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/ma9asidElssowar-005/transcript.txt",
+   "sha256": "ce7992864aa3bbf084d0b51f38e72831e1c0a4ae4f31e3a66574ba0bfbc8c3e1",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-687/005.txt",
+   "sha256": "ce7992864aa3bbf084d0b51f38e72831e1c0a4ae4f31e3a66574ba0bfbc8c3e1",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

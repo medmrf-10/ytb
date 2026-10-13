@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:KeSFqux-ixE",
+ "vid": "KeSFqux-ixE",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 158,
+ "n_src": "plpos",
+ "title": "#حديث_الجمعة | الفهم الخاطئ للنصوص لدى جماعات الغلو والنابتة",
+ "title_src": "yt_titles",
+ "sha256": "70d8fdb210947ad46547d40a5d94847f7722fe7a9f9dd02df48d3997bf794edf",
+ "nh": "b299f28ee38b4b045ec6461bb59cfd56e79dfba8cb278f16d242c4cd034ca544",
+ "chars": 8843,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/gomaa/mut-822/158_#حديث_الجمعة ｜ الفهم الخاطئ للنصوص لدى جماعات الغلو والنابتة.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/158_#حديث_الجمعة ｜ الفهم الخاطئ للنصوص لدى جماعات الغلو والنابتة.txt",
+   "sha256": "70d8fdb210947ad46547d40a5d94847f7722fe7a9f9dd02df48d3997bf794edf",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/158.txt",
+   "sha256": "8356ec39f36ed9b8353e6dda76c58f9ef09ab4fcfffc1fa548def41efaa89868",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

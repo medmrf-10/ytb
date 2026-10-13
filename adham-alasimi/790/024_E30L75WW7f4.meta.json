@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:E30L75WW7f4",
+ "vid": "E30L75WW7f4",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--790",
+ "n": 24,
+ "n_src": "read",
+ "title": "تلقين الميت⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "92cbf6909731642e8961bc82e90e1c6883414f9f3999d8ba212ea9bd4586277f",
+ "nh": "bc9e9b6f2435212dd7f11b782e4fd0b0aa612b4ce46f191c60c667cc72b916ec",
+ "chars": 10622,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/790/024_تلقين الميت⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/790/024_تلقين الميت⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "92cbf6909731642e8961bc82e90e1c6883414f9f3999d8ba212ea9bd4586277f",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/790/23.txt",
+   "sha256": "92cbf6909731642e8961bc82e90e1c6883414f9f3999d8ba212ea9bd4586277f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

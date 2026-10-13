@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:aGMxLoDIzmw",
+ "vid": "aGMxLoDIzmw",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-414",
+ "n": 159,
+ "n_src": "read",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 159",
+ "title_src": "filename",
+ "sha256": "ff63f8f5a2b91039beeb450468911d74751368786e97b5ab87cb6445c825ee83",
+ "nh": "c7bca2b19aa6022b92bb59bbec0d873e086c2b8477854e6e975e0905aee8071b",
+ "chars": 20322,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/159_تفسير القرآن الكريم للدكتور البوطي - الدرس 159.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/159_تفسير القرآن الكريم للدكتور البوطي - الدرس 159.txt",
+   "sha256": "ff63f8f5a2b91039beeb450468911d74751368786e97b5ab87cb6445c825ee83",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/159.txt",
+   "sha256": "c29c588f78e5753f86215e84122ab2de38947bdb0c5fe82fc2d0dddb973e850c",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

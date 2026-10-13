@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:pll4l7gt_jA",
+ "vid": "pll4l7gt_jA",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--787",
+ "n": 1,
+ "n_src": "read",
+ "title": "(01) مقدمة الكتاب ⧸ دورة النحو المستوى الثاني⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "fb9315ddb79a82898958bc6bb761497ad2348c6a7185e82af6749d346849ad99",
+ "nh": "21d87a12691322d014e59d818a841ebd5380281650759e84eb4f1bc3221d3231",
+ "chars": 22349,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/787/001_(01) مقدمة الكتاب ⧸ دورة النحو المستوى الثاني⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/787/001_(01) مقدمة الكتاب ⧸ دورة النحو المستوى الثاني⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "fb9315ddb79a82898958bc6bb761497ad2348c6a7185e82af6749d346849ad99",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/787/0.txt",
+   "sha256": "fb9315ddb79a82898958bc6bb761497ad2348c6a7185e82af6749d346849ad99",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

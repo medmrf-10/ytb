@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:ii-FN5gCTjg",
+ "vid": "ii-FN5gCTjg",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--377",
+ "n": 35,
+ "n_src": "plpos",
+ "title": "29- كبرى اليقينيات الكونية | معنى الغيبيات والمنهج العلمي في فهمها واعتقادها",
+ "title_src": "yt_titles",
+ "sha256": "b625bff2b7acbd64add64d421a99a819432dde7980b9629c91499690dc3d3b74",
+ "nh": "867194f18577cd1ffe7519fe24c6aad2f523809545ca67f5c5802c3cfed07e52",
+ "chars": 22000,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/377/035_29- كبرى اليقينيات الكونية ｜ معنى الغيبيات والمنهج العلمي في فهمها واعتقادها.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/377/035_29- كبرى اليقينيات الكونية ｜ معنى الغيبيات والمنهج العلمي في فهمها واعتقادها.txt",
+   "sha256": "b625bff2b7acbd64add64d421a99a819432dde7980b9629c91499690dc3d3b74",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/kobraElya9inyat-035/transcript.txt",
+   "sha256": "db1d2023201c78b614e5995909c75f890de87fac860b9a86cfcab69711efb26a",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/35.txt",
+   "sha256": "db1d2023201c78b614e5995909c75f890de87fac860b9a86cfcab69711efb26a",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/377/34.txt",
+   "sha256": "b625bff2b7acbd64add64d421a99a819432dde7980b9629c91499690dc3d3b74",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

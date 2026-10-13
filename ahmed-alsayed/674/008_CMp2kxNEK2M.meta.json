@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:CMp2kxNEK2M",
+ "vid": "CMp2kxNEK2M",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--674",
+ "n": 8,
+ "n_src": "mutfile",
+ "title": "سوية المؤمن 08 ｜ الصبر ｜ جلسات ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "efb8fd8c0686e3db19a872cc74a95f1549ab33280640e7334e2759564336b1eb",
+ "nh": "7e61304c31a428c95051b244c92e61e8c19def6445f4f34656f958d4b0c51cd6",
+ "chars": 29629,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/674/008_سوية المؤمن 08 ｜ الصبر ｜ جلسات ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/674/008_سوية المؤمن 08 ｜ الصبر ｜ جلسات ｜ أحمد السيد.txt",
+   "sha256": "efb8fd8c0686e3db19a872cc74a95f1549ab33280640e7334e2759564336b1eb",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-674/008.txt",
+   "sha256": "c23715e9d0296e8998c2d4a7955f6c4dd624bf205ad6f1cec2cb222ea930f15e",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

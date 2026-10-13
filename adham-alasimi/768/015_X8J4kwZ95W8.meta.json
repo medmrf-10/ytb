@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:X8J4kwZ95W8",
+ "vid": "X8J4kwZ95W8",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--768",
+ "n": 15,
+ "n_src": "read",
+ "title": "(15) تعلقات القدرة ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "f2bd57404400637655426ad19c5516947361aceb9b3f6d6f839bfa3a40e83c57",
+ "nh": "ed10580e86858ba620557b3cd32f53fd410e5766b4f280d989a0f165744ea4d9",
+ "chars": 20959,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/768/015_(15) تعلقات القدرة ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/768/015_(15) تعلقات القدرة ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "f2bd57404400637655426ad19c5516947361aceb9b3f6d6f839bfa3a40e83c57",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/768/14.txt",
+   "sha256": "f2bd57404400637655426ad19c5516947361aceb9b3f6d6f839bfa3a40e83c57",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

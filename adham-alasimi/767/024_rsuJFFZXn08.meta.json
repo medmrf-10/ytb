@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:rsuJFFZXn08",
+ "vid": "rsuJFFZXn08",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--767",
+ "n": 24,
+ "n_src": "read",
+ "title": "(24) الحال والتمييز ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "2476ad036fc881ce949c45dd0cf287d1c6297c7a34a4e91061ab74c5e35af332",
+ "nh": "e3448abbcac8016e183faa965675ba36aa837e078184323f727c60c02c79c42d",
+ "chars": 14522,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/767/024_(24) الحال والتمييز ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/767/024_(24) الحال والتمييز ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "2476ad036fc881ce949c45dd0cf287d1c6297c7a34a4e91061ab74c5e35af332",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/767/23.txt",
+   "sha256": "2476ad036fc881ce949c45dd0cf287d1c6297c7a34a4e91061ab74c5e35af332",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:F9Mlh41nMNE",
+ "vid": "F9Mlh41nMNE",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 155,
+ "n_src": "plpos",
+ "title": "#والله_أعلم | التعايش في الوطن | الجزء الثاني",
+ "title_src": "yt_titles",
+ "sha256": "fd384cb5df1eb8eb29631b9e7e9b28f8d605632ace1e7f4e30dc54beaed85572",
+ "nh": "78280e8521399c513659ea651bb944cfa511803533fc71fa59effc2c3a24cca7",
+ "chars": 8247,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/gomaa/mut-822/155_#والله_أعلم ｜ التعايش في الوطن ｜ الجزء الثاني.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/155_#والله_أعلم ｜ التعايش في الوطن ｜ الجزء الثاني.txt",
+   "sha256": "fd384cb5df1eb8eb29631b9e7e9b28f8d605632ace1e7f4e30dc54beaed85572",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/155.txt",
+   "sha256": "67ab091f797ecb0c4b651d9c8030640a40d6075d6b8b219db9f13e49508b1d0f",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

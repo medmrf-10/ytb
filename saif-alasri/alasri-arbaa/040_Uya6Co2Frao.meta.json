@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:Uya6Co2Frao",
+ "vid": "Uya6Co2Frao",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 40,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / الترك ليس حجة على المنع / الدكتور سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "ed2dfbd370914f75a7daf6ea8ce82d8c05ddd8da0d07d9eb57ecbfad08ba2e26",
+ "nh": "2a3d7fe45f6f0cdbcc49d3558375b5a6046f07a1c52c3168922a23bd4a88aea6",
+ "chars": 35111,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-040/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-040/transcript.txt",
+   "sha256": "ed2dfbd370914f75a7daf6ea8ce82d8c05ddd8da0d07d9eb57ecbfad08ba2e26",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/040_Uya6Co2Frao.txt",
+   "sha256": "ed2dfbd370914f75a7daf6ea8ce82d8c05ddd8da0d07d9eb57ecbfad08ba2e26",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/040.txt",
+   "sha256": "ed2dfbd370914f75a7daf6ea8ce82d8c05ddd8da0d07d9eb57ecbfad08ba2e26",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

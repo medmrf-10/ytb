@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:6MrN3-M8m3M",
+ "vid": "6MrN3-M8m3M",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--377",
+ "n": 52,
+ "n_src": "plpos",
+ "title": "46- كبرى اليقينيات الكونية | ما يترتب على الردة | الحاكمية (2)",
+ "title_src": "yt_titles",
+ "sha256": "4f2c77b7f75ad992e74c3fe47914dcdd563e98fdf57d72d1f7aab7b97826a77f",
+ "nh": "d1d374cb4e833381eba01445ab8c2f769537f978b4dfade930b80d3fa91adfa3",
+ "chars": 22036,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/377/052_46- كبرى اليقينيات الكونية ｜ ما يترتب على الردة ｜ الحاكمية (2).txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/377/052_46- كبرى اليقينيات الكونية ｜ ما يترتب على الردة ｜ الحاكمية (2).txt",
+   "sha256": "4f2c77b7f75ad992e74c3fe47914dcdd563e98fdf57d72d1f7aab7b97826a77f",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/kobraElya9inyat-052/transcript.txt",
+   "sha256": "7c313dc28f19e2387594947730fce4de178c1258ca2135153a7865ed15a3d774",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/52.txt",
+   "sha256": "7c313dc28f19e2387594947730fce4de178c1258ca2135153a7865ed15a3d774",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/377/1.txt",
+   "sha256": "4f2c77b7f75ad992e74c3fe47914dcdd563e98fdf57d72d1f7aab7b97826a77f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

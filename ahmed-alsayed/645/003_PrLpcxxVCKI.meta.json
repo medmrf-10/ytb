@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:PrLpcxxVCKI",
+ "vid": "PrLpcxxVCKI",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--645",
+ "n": 3,
+ "n_src": "mutfile",
+ "title": "الصعود الأول وبذور الصحوة..انبعاث الروح في الأمة ｜ التجارب الإصلاحية في العصر ال",
+ "title_src": "filename",
+ "sha256": "9d716763f5f755ad2bc2b6561419c4958e6405df28e5dfd16a875a1c7f744658",
+ "nh": "24b6ca4e9f7bf62d8660e68e4f4100f769616e55ece6c7c286de5bf4358f1bfb",
+ "chars": 52382,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/645/003_الصعود الأول وبذور الصحوة..انبعاث الروح في الأمة ｜ التجارب الإصلاحية في العصر ال.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/645/003_الصعود الأول وبذور الصحوة..انبعاث الروح في الأمة ｜ التجارب الإصلاحية في العصر ال.txt",
+   "sha256": "9d716763f5f755ad2bc2b6561419c4958e6405df28e5dfd16a875a1c7f744658",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/tajaribI9la7iya-003/transcript.txt",
+   "sha256": "11123c538096f8dde8748dbd7a29fdb6fecff68f317eb768863735a98d963488",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-645/003.txt",
+   "sha256": "11123c538096f8dde8748dbd7a29fdb6fecff68f317eb768863735a98d963488",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

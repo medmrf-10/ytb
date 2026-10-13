@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:M0a7k4Mgu9w",
+ "vid": "M0a7k4Mgu9w",
+ "sheikh": "hatem-alaouni",
+ "row_id": "hatem-alaouni--aouni-jabir",
+ "n": 7,
+ "n_src": "trfile",
+ "title": "الدرس السابع : التأكيد على أن المزمار المراد به في حديث جابر آلة المعازف | أ.د الشريف حاتم العوني",
+ "title_src": "yt_titles",
+ "sha256": "d4cb851e0f42448f81d63e2619393f27a40d7c92a8d7c34f92017954aeee9a9c",
+ "nh": "a0f54ac4f90c964a521c5b12c027c71ae0d1eea46c3782e023f305df4c51456b",
+ "chars": 8777,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/aouniJabir-007/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/aouniJabir-007/transcript.txt",
+   "sha256": "d4cb851e0f42448f81d63e2619393f27a40d7c92a8d7c34f92017954aeee9a9c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/aouni/jabir/007_M0a7k4Mgu9w.txt",
+   "sha256": "d4cb851e0f42448f81d63e2619393f27a40d7c92a8d7c34f92017954aeee9a9c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/aouni-jabir/007.txt",
+   "sha256": "d4cb851e0f42448f81d63e2619393f27a40d7c92a8d7c34f92017954aeee9a9c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

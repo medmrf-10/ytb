@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:24",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 24,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 101 ( باب في الجهاد ) ｜ الشيخ محمد البردوني",
+ "title_src": "filename",
+ "sha256": "327ff9d9f84e79c93d8bc7add879fb0d53131b38f28591a6b12c5eaf2863591e",
+ "nh": "09b05541de653059588f0081eab2fcb0e0d4dc4689f393a8b297a4075b20527d",
+ "chars": 23393,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/024_شرح رسالة ابن ابي زيد ｜ الدرس 101 ( باب في الجهاد  ) ｜ الشيخ محمد البردوني.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/024_شرح رسالة ابن ابي زيد ｜ الدرس 101 ( باب في الجهاد  ) ｜ الشيخ محمد البردوني.txt",
+   "sha256": "327ff9d9f84e79c93d8bc7add879fb0d53131b38f28591a6b12c5eaf2863591e",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/102.txt",
+   "sha256": "327ff9d9f84e79c93d8bc7add879fb0d53131b38f28591a6b12c5eaf2863591e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

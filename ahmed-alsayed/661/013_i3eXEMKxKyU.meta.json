@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:i3eXEMKxKyU",
+ "vid": "i3eXEMKxKyU",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--661",
+ "n": 13,
+ "n_src": "mutfile",
+ "title": "خير القرون 12 ｜ مدرسة عمر بن الخطاب ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "b56b3ebe9fcf01c6115d188013e829392b791a57e1037446ee68b0e94751e580",
+ "nh": "cfef6bd876736ce65f8ab906d9224bee75ae556c61e2577ca3b2e0d31d3df5cf",
+ "chars": 39806,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/661/013_خير القرون 12 ｜ مدرسة عمر بن الخطاب ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/661/013_خير القرون 12 ｜ مدرسة عمر بن الخطاب ｜ أحمد السيد.txt",
+   "sha256": "b56b3ebe9fcf01c6115d188013e829392b791a57e1037446ee68b0e94751e580",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-661/013.txt",
+   "sha256": "f6f000e0fa506b0f589924c8bbd87b7aeeaf8b16767a5a314cd3da5fb10e52a9",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

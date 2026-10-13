@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:H_Hzcefz5-o",
+ "vid": "H_Hzcefz5-o",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 68,
+ "n_src": "plpos",
+ "title": "And God knows best | Dr. Ali Gomaa speaks about people of miracles | Full episode",
+ "title_src": "yt_titles",
+ "sha256": "64125780aad18494e8e972c8de3e1696d99c13588a5f18264f98514ae3fcdb7a",
+ "nh": "485b364600c0c399db06af6cf8152222e025efd7f68a5afff2c1c26649827c72",
+ "chars": 28444,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/068_والله أعلم ｜ فضيلة الدكتور علي جمعة يتحدث عن أصحاب الكرامات ｜ الحلقة الكاملة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/068_والله أعلم ｜ فضيلة الدكتور علي جمعة يتحدث عن أصحاب الكرامات ｜ الحلقة الكاملة.txt",
+   "sha256": "64125780aad18494e8e972c8de3e1696d99c13588a5f18264f98514ae3fcdb7a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/068_والله أعلم ｜ فضيلة الدكتور علي جمعة يتحدث عن أصحاب الكرامات ｜ الحلقة الكاملة.txt",
+   "sha256": "64125780aad18494e8e972c8de3e1696d99c13588a5f18264f98514ae3fcdb7a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/068.txt",
+   "sha256": "0932701f3f1d6935ff5cd5eb79aae69c67be578d85129ebb8fce5fe4147c062f",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

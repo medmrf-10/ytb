@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:aD1fpZ78AhM",
+ "vid": "aD1fpZ78AhM",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-414",
+ "n": 22,
+ "n_src": "trfile",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 22",
+ "title_src": "filename",
+ "sha256": "018f1822ccdceb38a6843c44f9baef156563dafadfe5d90e9766c9a4f0fdd863",
+ "nh": "e6ae09017f7d548b76df2efae533eebebc259726dd3612035ac02996d6dfdf47",
+ "chars": 23930,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/022_تفسير القرآن الكريم للدكتور البوطي - الدرس 22.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/022_تفسير القرآن الكريم للدكتور البوطي - الدرس 22.txt",
+   "sha256": "018f1822ccdceb38a6843c44f9baef156563dafadfe5d90e9766c9a4f0fdd863",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/022.txt",
+   "sha256": "d6d31e5280efa24e5194d75086c6b8041feb875b68b36d54257a5d45e6e53c85",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

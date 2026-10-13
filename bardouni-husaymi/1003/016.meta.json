@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:16",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 16,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 109 ( باب النكاح ) ｜ الشيخ محمد البردوني",
+ "title_src": "filename",
+ "sha256": "1b9aa2cc16c7abb44039a7e9a7c2848f729ca2a87a0e805c596ac63fca67025c",
+ "nh": "ea6c7e98973e5fb8aeb96d520df8e97bb469ff8abb749896ec4d857fe398710f",
+ "chars": 11493,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/016_شرح رسالة ابن ابي زيد ｜ الدرس 109 (  باب النكاح  ) ｜ الشيخ محمد البردوني.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/016_شرح رسالة ابن ابي زيد ｜ الدرس 109 (  باب النكاح  ) ｜ الشيخ محمد البردوني.txt",
+   "sha256": "1b9aa2cc16c7abb44039a7e9a7c2848f729ca2a87a0e805c596ac63fca67025c",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/110.txt",
+   "sha256": "1b9aa2cc16c7abb44039a7e9a7c2848f729ca2a87a0e805c596ac63fca67025c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

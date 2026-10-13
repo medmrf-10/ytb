@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:sF8o8z51aOg",
+ "vid": "sF8o8z51aOg",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--101",
+ "n": 15,
+ "n_src": "read",
+ "title": "أيها المريد ｜ الحلقة 14 ｜ حقيقة التوكل ｜ علي الجفري ｜",
+ "title_src": "filename",
+ "sha256": "5c8a54befc046b288aad25db4ca6c8e5bdebe872aaf5fd524ac6b162f36b152c",
+ "nh": "c8190cdaed32508d7e888d01a48098e0c4f3f9634cc30e86fc8cf4e9518ca747",
+ "chars": 14048,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/101/015_أيها المريد ｜ الحلقة 14 ｜ حقيقة التوكل ｜ علي الجفري ｜ English subtitle.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/101/015_أيها المريد ｜ الحلقة 14 ｜ حقيقة التوكل ｜ علي الجفري ｜ English subtitle.txt",
+   "sha256": "5c8a54befc046b288aad25db4ca6c8e5bdebe872aaf5fd524ac6b162f36b152c",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/101/14.txt",
+   "sha256": "3cd3b53ad50039a116bfbb99500789a87d0d8e4e49b90785215e0543db8912cc",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:0_ECxP484MY",
+ "vid": "0_ECxP484MY",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--415",
+ "n": 2,
+ "n_src": "mutfile",
+ "title": "1 - التزكية في القرآن الكريم لهذا كانت التزكية قبل التقنية",
+ "title_src": "filename",
+ "sha256": "5eb20b6a371d9830a435a54baf6e7571ef64bdbb953812ab30a5adc2fd40f38b",
+ "nh": "8530013c6a1fc8a4076e3492fe7d630f75ff20b513160d0ca06519e07648fd97",
+ "chars": 11925,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/415/002_1 - التزكية في القرآن الكريم  لهذا كانت التزكية قبل التقنية.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/415/002_1 - التزكية في القرآن الكريم  لهذا كانت التزكية قبل التقنية.txt",
+   "sha256": "5eb20b6a371d9830a435a54baf6e7571ef64bdbb953812ab30a5adc2fd40f38b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tawba/002_1 - التزكية في القرآن الكريم  لهذا كانت التزكية قبل التقنية.txt",
+   "sha256": "5eb20b6a371d9830a435a54baf6e7571ef64bdbb953812ab30a5adc2fd40f38b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tazkiya/002_1 - التزكية في القرآن الكريم  لهذا كانت التزكية قبل التقنية.txt",
+   "sha256": "5eb20b6a371d9830a435a54baf6e7571ef64bdbb953812ab30a5adc2fd40f38b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-415/002.txt",
+   "sha256": "f98b9006502ff2c68179e2338564806bf84fe043acaf4b283ae0762c967f9cd9",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

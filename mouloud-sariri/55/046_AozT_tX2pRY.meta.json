@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:AozT_tX2pRY",
+ "vid": "AozT_tX2pRY",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 46,
+ "n_src": "read",
+ "title": "خلق ＂ المصارحة والمناصحة ＂ في الإسلام ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "90d58fe2746c21c1cead8bb190deb44dcc3e2b44ebbd729f140e15b3ce2640e0",
+ "nh": "e5b16d7d2ac2c66446bd36fa9f5fbbf0f5cfd9db7b437dd9dff9d5ad6635b48c",
+ "chars": 16004,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/046_خلق ＂ المصارحة والمناصحة ＂ في الإسلام  ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/046_خلق ＂ المصارحة والمناصحة ＂ في الإسلام  ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "90d58fe2746c21c1cead8bb190deb44dcc3e2b44ebbd729f140e15b3ce2640e0",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/45.txt",
+   "sha256": "90d58fe2746c21c1cead8bb190deb44dcc3e2b44ebbd729f140e15b3ce2640e0",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:Yi0AkawykHU",
+ "vid": "Yi0AkawykHU",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 76,
+ "n_src": "read",
+ "title": "خطب منبرية： تغير الأحوال ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "3c64167a56e13d5ae04ea8030054be74838160edf7cdee72f437c5c463be3d39",
+ "nh": "61c0e7744c1771f191a405ffac0ebb1291e094c4328b2dd78a318c96ae883113",
+ "chars": 7966,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/076_خطب منبرية： تغير الأحوال ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/076_خطب منبرية： تغير الأحوال ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "3c64167a56e13d5ae04ea8030054be74838160edf7cdee72f437c5c463be3d39",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/75.txt",
+   "sha256": "3c64167a56e13d5ae04ea8030054be74838160edf7cdee72f437c5c463be3d39",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

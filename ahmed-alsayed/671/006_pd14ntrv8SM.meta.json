@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:pd14ntrv8SM",
+ "vid": "pd14ntrv8SM",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--671",
+ "n": 6,
+ "n_src": "mutfile",
+ "title": "البناء التزكوي للجيل الصاعد ٠٦ ｜ خطوات التزكية： القرآن الكريم ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "0f65191b9bb6bd25a250b04a8a086e80ba9cde75f0ee214e18f097d8cc9eb7ca",
+ "nh": "ca99b9253230a07dae11c8a27435d02b69ac0fd621ff2de029160b5467df37ad",
+ "chars": 6584,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/671/006_البناء التزكوي للجيل الصاعد ٠٦ ｜ خطوات التزكية： القرآن الكريم ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/671/006_البناء التزكوي للجيل الصاعد ٠٦ ｜ خطوات التزكية： القرآن الكريم ｜ أحمد السيد.txt",
+   "sha256": "0f65191b9bb6bd25a250b04a8a086e80ba9cde75f0ee214e18f097d8cc9eb7ca",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/albina2Eltazkawi-006/transcript.txt",
+   "sha256": "26e07f763b8b761d483f26cbf62d98d23fbaf6da92c811a4d6d627039ca41b21",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-671/006.txt",
+   "sha256": "26e07f763b8b761d483f26cbf62d98d23fbaf6da92c811a4d6d627039ca41b21",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

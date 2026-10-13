@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:7s-pPq0nZqU",
+ "vid": "7s-pPq0nZqU",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--371",
+ "n": 40,
+ "n_src": "plpos",
+ "title": "40- علوم القرآن الكريم | دراسات تطبيقية في الإلهيات (إِنَّ اللَّهَ لا يُغَيِّرُ مَا بِقَوْمٍ...)",
+ "title_src": "yt_titles",
+ "sha256": "d4fa878d6cb6dd5e2e0bd7336068dcb952a61c02bd23b3b8e08769f4149d4569",
+ "nh": "47257780160b8a29ecd26d68f19be878639b5d59862618eb0274cae8c50a74a3",
+ "chars": 18241,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/371/040_40- علوم القرآن الكريم ｜ دراسات تطبيقية في الإلهيات (إِنَّ اللَّهَ لا يُغَيِّرُ .txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/371/040_40- علوم القرآن الكريم ｜ دراسات تطبيقية في الإلهيات (إِنَّ اللَّهَ لا يُغَيِّرُ .txt",
+   "sha256": "d4fa878d6cb6dd5e2e0bd7336068dcb952a61c02bd23b3b8e08769f4149d4569",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/3oloumEl9or1n-040/transcript.txt",
+   "sha256": "c804ec06b4a1cec15e622f2a3f6a2654adc051c29ff51ad4fa9ad01656079501",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-ulum-quran/40.txt",
+   "sha256": "c804ec06b4a1cec15e622f2a3f6a2654adc051c29ff51ad4fa9ad01656079501",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

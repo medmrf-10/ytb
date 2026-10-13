@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:F7hq3YL0JJM",
+ "vid": "F7hq3YL0JJM",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 2,
+ "n_src": "read",
+ "title": "الحكم العطائية للإمام البوطي ｜ الدرس 2 - الحكمة 1",
+ "title_src": "filename",
+ "sha256": "ca98f377b4380d944d28bf14d7f444a9c721a75db5a424a8b410bcb19250d36e",
+ "nh": "2b25cf18d5cfb699f244ca4047417ad62ab7685fed9385a4e10e0b425140acdb",
+ "chars": 18094,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/002_الحكم العطائية للإمام البوطي ｜ الدرس 2 - الحكمة 1.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/002_الحكم العطائية للإمام البوطي ｜ الدرس 2 - الحكمة 1.txt",
+   "sha256": "ca98f377b4380d944d28bf14d7f444a9c721a75db5a424a8b410bcb19250d36e",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/hikam/002_الحكم العطائية للإمام البوطي ｜ الدرس 2 - الحكمة 1.txt",
+   "sha256": "ca98f377b4380d944d28bf14d7f444a9c721a75db5a424a8b410bcb19250d36e",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/002_الحكم العطائية للإمام البوطي ｜ الدرس 2 - الحكمة 1.txt",
+   "sha256": "ca98f377b4380d944d28bf14d7f444a9c721a75db5a424a8b410bcb19250d36e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

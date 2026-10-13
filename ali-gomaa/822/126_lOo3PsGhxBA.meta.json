@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:lOo3PsGhxBA",
+ "vid": "lOo3PsGhxBA",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 126,
+ "n_src": "plpos",
+ "title": "#والله_أعلم | الحلقة الكاملة 31 أغسطس 2015 | حقيقة الهداية والضلال",
+ "title_src": "yt_titles",
+ "sha256": "11cfd627fd7022e317905826b238ded3d5cbb3d71fc353882bea688894603ea4",
+ "nh": "3ffd7590a7c8f142da85b91784487553ed3973dc6ecff0d894ccabfc4a300180",
+ "chars": 26129,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/gomaa/mut-822/126_#والله_أعلم ｜ الحلقة الكاملة 31 أغسطس 2015 ｜ حقيقة الهداية والضلال.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/126_#والله_أعلم ｜ الحلقة الكاملة 31 أغسطس 2015 ｜ حقيقة الهداية والضلال.txt",
+   "sha256": "11cfd627fd7022e317905826b238ded3d5cbb3d71fc353882bea688894603ea4",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/126.txt",
+   "sha256": "8bac13eba34a4267c764121cfd77d82b1767b44bba708ec8df489f20131a2e26",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

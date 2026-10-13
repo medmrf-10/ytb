@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "yt:2pDW0_AFw8A",
+ "vid": "2pDW0_AFw8A",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--bardouni-mut-985",
+ "n": 8,
+ "n_src": "read",
+ "title": "شرح المنهج المنتخب ｜ دس79 ( ق128 المعاملة بنقيض القصد) ｜ الشيخ البردوني",
+ "title_src": "filename",
+ "sha256": "2276d0046b3cb669f14f6fd186dc3aab56e2b8c3427f7c862e72d2e092fe9730",
+ "nh": "6f7317cc29934f19baf17bf2357715031efd08389354916b32485e068ecf1dae",
+ "chars": 24461,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/985/008_شرح المنهج  المنتخب ｜ دس79 ( ق128 المعاملة بنقيض القصد) ｜ الشيخ البردوني.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/985/008_شرح المنهج  المنتخب ｜ دس79 ( ق128 المعاملة بنقيض القصد) ｜ الشيخ البردوني.txt",
+   "sha256": "2276d0046b3cb669f14f6fd186dc3aab56e2b8c3427f7c862e72d2e092fe9730",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bardouni/mut-985/008_شرح المنهج  المنتخب ｜ دس79 ( ق128 المعاملة بنقيض القصد) ｜ الشيخ البردوني.txt",
+   "sha256": "2276d0046b3cb669f14f6fd186dc3aab56e2b8c3427f7c862e72d2e092fe9730",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/37/158.txt",
+   "sha256": "2276d0046b3cb669f14f6fd186dc3aab56e2b8c3427f7c862e72d2e092fe9730",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "mouloud-sariri--37"
+ ]
+}

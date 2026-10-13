@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:xSzRK1qVJtA",
+ "vid": "xSzRK1qVJtA",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--356",
+ "n": 4,
+ "n_src": "mutfile",
+ "title": "3 - التوبة في القرآن هل للتوبة ميقات؟",
+ "title_src": "filename",
+ "sha256": "f01a771963abe2a0a5ed931662a38496288205f8ce41321f054534ee5a4116b3",
+ "nh": "d8e142b5a7baeb6c5a24813f8c198c1128d7e291dc9a2b5e631f79f671d5965e",
+ "chars": 14338,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/356/004_3 - التوبة في القرآن  هل للتوبة ميقات؟.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/356/004_3 - التوبة في القرآن  هل للتوبة ميقات؟.txt",
+   "sha256": "f01a771963abe2a0a5ed931662a38496288205f8ce41321f054534ee5a4116b3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tawba/004_3 - التوبة في القرآن  هل للتوبة ميقات؟.txt",
+   "sha256": "f01a771963abe2a0a5ed931662a38496288205f8ce41321f054534ee5a4116b3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-356/004.txt",
+   "sha256": "050997186048d350da108a9046c3050453c0b133dc7d17897cb6e439ad18cda5",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,39 @@
+{
+ "v": 1,
+ "lid": "yt:vnUNfhSwrlU",
+ "vid": "vnUNfhSwrlU",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--114",
+ "n": 19,
+ "n_src": "read",
+ "title": "الإنسانية قبل التدين ｜ الحلقة 18- مفاهيم التعامل مع غير المسلمين ｜ علي الجفري ｜",
+ "title_src": "filename",
+ "sha256": "de4216e8d0a130d8aebffd98a5282861919284be05522065a55274983f14c127",
+ "nh": "071f5b975d0c50cd96b2c9e82188eca9ce59e9264f70ccd3ac80b5c7394de872",
+ "chars": 10256,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/114/019_الإنسانية قبل التدين ｜ الحلقة 18- مفاهيم التعامل مع غير المسلمين ｜ علي الجفري ｜ .txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/114/019_الإنسانية قبل التدين ｜ الحلقة 18- مفاهيم التعامل مع غير المسلمين ｜ علي الجفري ｜ .txt",
+   "sha256": "de4216e8d0a130d8aebffd98a5282861919284be05522065a55274983f14c127",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/114/18.txt",
+   "sha256": "0de8cdd1424a5dd0fa2d2779f66ec5d014d347e528d94992bb6d35d237a499a8",
+   "rel": "variant"
+  }
+ ],
+ "variants": [
+  "_variants/019_vnUNfhSwrlU.des-dur.txt"
+ ],
+ "also_in": []
+}

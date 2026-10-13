@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:OWe1X_77ggw",
+ "vid": "OWe1X_77ggw",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--767",
+ "n": 9,
+ "n_src": "read",
+ "title": "(09) الأمثلة الخمسة ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "4ca6ecbb6b892511833ba589fbcd83d69f622f62791569ae56969ca7b9f1f628",
+ "nh": "9d66154f35606f5d5120c30e97c2649193b91ac85d9fefb1849415a54bbba97a",
+ "chars": 9061,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/767/009_(09) الأمثلة الخمسة ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/767/009_(09) الأمثلة الخمسة ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "4ca6ecbb6b892511833ba589fbcd83d69f622f62791569ae56969ca7b9f1f628",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/767/8.txt",
+   "sha256": "4ca6ecbb6b892511833ba589fbcd83d69f622f62791569ae56969ca7b9f1f628",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

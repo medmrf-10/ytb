@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:QatAbCbhp3I",
+ "vid": "QatAbCbhp3I",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--346",
+ "n": 9,
+ "n_src": "plpos",
+ "title": "8 - رحلة الخلود | العلامة البوطي | الحساب",
+ "title_src": "yt_titles",
+ "sha256": "08f83328be070aa560ba5a4104a1b6b1ad2761a99865cb5645759c25e4ce56d8",
+ "nh": "a50a086414194c770ba394ae20693bfd51e8e504e0d357bec209093fd89be987",
+ "chars": 13098,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/346/009_8 - رحلة الخلود ｜ العلامة البوطي ｜ الحساب.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/346/009_8 - رحلة الخلود ｜ العلامة البوطي ｜ الحساب.txt",
+   "sha256": "08f83328be070aa560ba5a4104a1b6b1ad2761a99865cb5645759c25e4ce56d8",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/ri7latEl5oloud-009/transcript.txt",
+   "sha256": "5b2ab605a17b68546a9295a71da02035bee6bdf6e0176a054a9e8486a1dd10b8",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-rihla/09.txt",
+   "sha256": "5b2ab605a17b68546a9295a71da02035bee6bdf6e0176a054a9e8486a1dd10b8",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/346/8.txt",
+   "sha256": "08f83328be070aa560ba5a4104a1b6b1ad2761a99865cb5645759c25e4ce56d8",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:GCcMLgBNfZI",
+ "vid": "GCcMLgBNfZI",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--379",
+ "n": 2,
+ "n_src": "plpos",
+ "title": "2- تاريخ التشريع الإسلامي | أدوار التشريع الإسلامي و أقسامه",
+ "title_src": "yt_titles",
+ "sha256": "c9ee0a50fef803e694c5d50ff06ca65979c6c4f8fa4af7fa1585c31164b00141",
+ "nh": "6dd61156c8466fd9088d6745e41062a094c4048f609e658523ffe42dcfc7cedb",
+ "chars": 19992,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/379/002_2- تاريخ التشريع الإسلامي ｜ أدوار التشريع الإسلامي و أقسامه.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/379/002_2- تاريخ التشريع الإسلامي ｜ أدوار التشريع الإسلامي و أقسامه.txt",
+   "sha256": "c9ee0a50fef803e694c5d50ff06ca65979c6c4f8fa4af7fa1585c31164b00141",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/tari5Eltachri3-002/transcript.txt",
+   "sha256": "d26cd2fe12e94b470c6d1284f8e83c859a1154a15003795383e7aa5a97fd3cef",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-tarikh/02.txt",
+   "sha256": "d26cd2fe12e94b470c6d1284f8e83c859a1154a15003795383e7aa5a97fd3cef",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

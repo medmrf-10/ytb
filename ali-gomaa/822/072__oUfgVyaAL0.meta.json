@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:_oUfgVyaAL0",
+ "vid": "_oUfgVyaAL0",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 72,
+ "n_src": "plpos",
+ "title": "والله أعلم | د . علي جمعة يرد على \"منكر اليوم الأخر\"",
+ "title_src": "yt_titles",
+ "sha256": "547d5e7ae660ab7e2e815b3e1af9f5ee77a79fc843dee9d7f2871a5b52044dbb",
+ "nh": "6817529eedab14960678a6eef325e3fc98b1e8d1bc4a221895a1c3e0526d7029",
+ "chars": 1629,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/072_والله أعلم ｜ د . علي جمعة يرد على ＂منكر اليوم الأخر＂.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/072_والله أعلم ｜ د . علي جمعة يرد على ＂منكر اليوم الأخر＂.txt",
+   "sha256": "547d5e7ae660ab7e2e815b3e1af9f5ee77a79fc843dee9d7f2871a5b52044dbb",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/072_والله أعلم ｜ د . علي جمعة يرد على ＂منكر اليوم الأخر＂.txt",
+   "sha256": "547d5e7ae660ab7e2e815b3e1af9f5ee77a79fc843dee9d7f2871a5b52044dbb",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/072.txt",
+   "sha256": "1be6df3de02d4f09e01265b369cdf88c8bfe4f4f3409c3570784cd72e5bc7626",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:45",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 45,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 81 ( قوله ＂ فأما ميقات أهل الشام ＂ ) ｜ الشيخ محمد",
+ "title_src": "filename",
+ "sha256": "6edff4c1bc6b7a7346e79f554c924c0bec05833059794473581d674843ec120d",
+ "nh": "b95b9e9ef26742b905ce11053dce41e529f93df7b78e3bef001a265924b3a767",
+ "chars": 17170,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/045_شرح رسالة ابن ابي زيد ｜ الدرس 81 ( قوله ＂ فأما ميقات أهل الشام ＂  ) ｜ الشيخ محمد.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/045_شرح رسالة ابن ابي زيد ｜ الدرس 81 ( قوله ＂ فأما ميقات أهل الشام ＂  ) ｜ الشيخ محمد.txt",
+   "sha256": "6edff4c1bc6b7a7346e79f554c924c0bec05833059794473581d674843ec120d",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/81.txt",
+   "sha256": "6edff4c1bc6b7a7346e79f554c924c0bec05833059794473581d674843ec120d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:OyjWmPNQW9E",
+ "vid": "OyjWmPNQW9E",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--403",
+ "n": 4,
+ "n_src": "plpos",
+ "title": "2- فقه السيرة النبوية | زواجه من خديجة رضي الله عنها",
+ "title_src": "yt_titles",
+ "sha256": "43562ea11a3ca02fb5e51fefe052709afb394bddabd9a05a5c3ba675d64add13",
+ "nh": "cd3efbdb3b18ed309eccbf99db0337d03bc864d10ce6497864b0d31b14371732",
+ "chars": 14515,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/403/004_2- فقه السيرة النبوية ｜ زواجه من خديجة رضي الله عنها.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/403/004_2- فقه السيرة النبوية ｜ زواجه من خديجة رضي الله عنها.txt",
+   "sha256": "43562ea11a3ca02fb5e51fefe052709afb394bddabd9a05a5c3ba675d64add13",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fi9hElsirah-004/transcript.txt",
+   "sha256": "6ac517a2ad843d401cfa35438e3fcb0270978868df6f89797afbd2be4cd8f619",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-sira/04.txt",
+   "sha256": "6ac517a2ad843d401cfa35438e3fcb0270978868df6f89797afbd2be4cd8f619",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

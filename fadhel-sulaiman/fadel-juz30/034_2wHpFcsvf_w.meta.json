@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:2wHpFcsvf_w",
+ "vid": "2wHpFcsvf_w",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-juz30",
+ "n": 34,
+ "n_src": "trfile",
+ "title": "فيديو # ٦٤٩ من مقاطع حظر التجول   تدبر سورة التكاثر",
+ "title_src": "yt_titles",
+ "sha256": "23725b3505d02f696db2e107706da0aeb8db68f74e5f41167d6f2ede053a1f25",
+ "nh": "8d3029a6fb75d73ecfd0bb66db4ff4d024c45c45b52ac73983b756cf5e6b81d4",
+ "chars": 12592,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelJuz30-034/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelJuz30-034/transcript.txt",
+   "sha256": "23725b3505d02f696db2e107706da0aeb8db68f74e5f41167d6f2ede053a1f25",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-juz30/034.txt",
+   "sha256": "23725b3505d02f696db2e107706da0aeb8db68f74e5f41167d6f2ede053a1f25",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:-F95T_aiJBc",
+ "vid": "-F95T_aiJBc",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--656",
+ "n": 21,
+ "n_src": "mutfile",
+ "title": "رياض الصالحين 21 ｜ باب التفكر ｜ أنوار السنة المحمدية ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "003c733562814b8c0c7cd55ddb6ad7768e3dd6bb7e5bf739a451f56fc37653ac",
+ "nh": "786f5fe44f2e42cc15f01582e9d029ce9831f72701402f640b622e1f9473e210",
+ "chars": 37712,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/656/021_رياض الصالحين 21 ｜ باب التفكر ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/656/021_رياض الصالحين 21 ｜ باب التفكر ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+   "sha256": "003c733562814b8c0c7cd55ddb6ad7768e3dd6bb7e5bf739a451f56fc37653ac",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/riyadElsali7in-021/transcript.txt",
+   "sha256": "7752091ef705183efb5d7501cdfb639573c6a943692cb72fe367436452147aec",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-656/021.txt",
+   "sha256": "7752091ef705183efb5d7501cdfb639573c6a943692cb72fe367436452147aec",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

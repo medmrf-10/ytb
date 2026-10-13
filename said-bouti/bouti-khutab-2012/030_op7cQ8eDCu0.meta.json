@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:op7cQ8eDCu0",
+ "vid": "op7cQ8eDCu0",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-khutab-2012",
+ "n": 30,
+ "n_src": "trfile",
+ "title": "خطبة الإمام البوطي | مشكلة المزاج المسيطر على المسلمين",
+ "title_src": "yt_titles",
+ "sha256": "9d121704945b38605cb57bf7ab843dcda68f3780706445c62de1d4de191fb315",
+ "nh": "d0c20bd3a72294b1e7bdda6948d0a72278d35b2cfeb75110ff36440ff3feca27",
+ "chars": 12127,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/5o6ab-030/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/5o6ab-030/transcript.txt",
+   "sha256": "9d121704945b38605cb57bf7ab843dcda68f3780706445c62de1d4de191fb315",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-khutab-2012/30.txt",
+   "sha256": "9d121704945b38605cb57bf7ab843dcda68f3780706445c62de1d4de191fb315",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

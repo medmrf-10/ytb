@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:xkasM9yfsLU",
+ "vid": "xkasM9yfsLU",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 81,
+ "n_src": "plpos",
+ "title": "والله أعلم | فضيلة د. علي جمعة يوضح الفرق بين الأشعرية والسلفية | حلقة كاملة",
+ "title_src": "yt_titles",
+ "sha256": "3acdd9fb3210f1e64e231d0978bfefb594ed69e2ec796ac783defde0994f9508",
+ "nh": "b8323450e725850ce07caf36468dbac9ef15722b04cf9c5bdc3e2131415f56c7",
+ "chars": 30337,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/081_والله أعلم ｜ فضيلة د. علي جمعة يوضح الفرق بين الأشعرية والسلفية ｜ حلقة كاملة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/081_والله أعلم ｜ فضيلة د. علي جمعة يوضح الفرق بين الأشعرية والسلفية ｜ حلقة كاملة.txt",
+   "sha256": "3acdd9fb3210f1e64e231d0978bfefb594ed69e2ec796ac783defde0994f9508",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/081_والله أعلم ｜ فضيلة د. علي جمعة يوضح الفرق بين الأشعرية والسلفية ｜ حلقة كاملة.txt",
+   "sha256": "3acdd9fb3210f1e64e231d0978bfefb594ed69e2ec796ac783defde0994f9508",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/081.txt",
+   "sha256": "96e1d50f167ca5cbcfec97813a33bdb35ba121ff0bb9054dcdb03ec01c702c14",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

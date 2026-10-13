@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:6uHJZi9d6wA",
+ "vid": "6uHJZi9d6wA",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-414",
+ "n": 31,
+ "n_src": "trfile",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 31",
+ "title_src": "filename",
+ "sha256": "ceef0c51679a590bc616db2dc1c727ccaba5276c4a4fc7ad1c66a7d7acc116a4",
+ "nh": "2b38093204d450849b22c592ecb2b283d0d3d7e695e8bfb6d66ccfb288dfceb6",
+ "chars": 18289,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/031_تفسير القرآن الكريم للدكتور البوطي - الدرس 31.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/031_تفسير القرآن الكريم للدكتور البوطي - الدرس 31.txt",
+   "sha256": "ceef0c51679a590bc616db2dc1c727ccaba5276c4a4fc7ad1c66a7d7acc116a4",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/031.txt",
+   "sha256": "e72a220968663fb6fdb69126c03dba79c1a4ec8ae6e9518d5b633b0d4a0cef78",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:EHRCZCczjfA",
+ "vid": "EHRCZCczjfA",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 79,
+ "n_src": "plpos",
+ "title": "حلقة والله أعلم | فضيلة د. علي جمعة يوضح حقيقة المؤامرة على الإسلام والمسلمين | حلقة كاملة",
+ "title_src": "yt_titles",
+ "sha256": "0cef6dff334553877b645153597e23c0ce3ead3958bb716d885272eb08809af5",
+ "nh": "2241fab34110ccf3fa6c6dc6a7d5213362ec376f07e99d99c32654db841d2092",
+ "chars": 25697,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/079_حلقة والله أعلم ｜ فضيلة د. علي جمعة يوضح حقيقة المؤامرة على الإسلام والمسلمين ｜ .txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/079_حلقة والله أعلم ｜ فضيلة د. علي جمعة يوضح حقيقة المؤامرة على الإسلام والمسلمين ｜ .txt",
+   "sha256": "0cef6dff334553877b645153597e23c0ce3ead3958bb716d885272eb08809af5",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/079_حلقة والله أعلم ｜ فضيلة د. علي جمعة يوضح حقيقة المؤامرة على الإسلام والمسلمين ｜ .txt",
+   "sha256": "0cef6dff334553877b645153597e23c0ce3ead3958bb716d885272eb08809af5",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/079.txt",
+   "sha256": "1f4291d19162980179719da6621db02d9ac219de96b954796eea0a9e49b1706f",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

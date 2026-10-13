@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:9Hw04HTV2dE",
+ "vid": "9Hw04HTV2dE",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 63,
+ "n_src": "plpos",
+ "title": "God Knows Best | Dr. Ali Gomaa explains the causes of deviant fatwas and how to confront them | F...",
+ "title_src": "yt_titles",
+ "sha256": "003b0bd14d07dd401d0b2562af3221780351fb305dcb2fb51439c23792a3fab5",
+ "nh": "8b7e2cac10371f0d9042d814a9db87fd76ba54139e283c669fedec8726c76777",
+ "chars": 26789,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/063_والله أعلم ｜ فضيلة ‎د‫.‬علي جمعة ‎يوضح أسباب الفتاوى الشاذة وكيفية مواجهتها ｜ ال.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/063_والله أعلم ｜ فضيلة ‎د‫.‬علي جمعة ‎يوضح أسباب الفتاوى الشاذة وكيفية مواجهتها ｜ ال.txt",
+   "sha256": "003b0bd14d07dd401d0b2562af3221780351fb305dcb2fb51439c23792a3fab5",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/063_والله أعلم ｜ فضيلة ‎د‫.‬علي جمعة ‎يوضح أسباب الفتاوى الشاذة وكيفية مواجهتها ｜ ال.txt",
+   "sha256": "003b0bd14d07dd401d0b2562af3221780351fb305dcb2fb51439c23792a3fab5",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/063.txt",
+   "sha256": "aaf7132c6c949f6c509817ec531da8d0d4e5504c06ca606f8b5ba0869500fb85",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

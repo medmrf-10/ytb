@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:mVB0vEByBjo",
+ "vid": "mVB0vEByBjo",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--997",
+ "n": 7,
+ "n_src": "read",
+ "title": "شرح الحكم العطائية ｜ الدرس 7 ｜ الشيخ محمد البردوني الحسيمي",
+ "title_src": "filename",
+ "sha256": "019e70c2a52f2a3a38abfd362a25ebc86ee2f496f7520807332a200fa2120b5d",
+ "nh": "80a6a419cab3eed4720cd9e0bf6889bf96bbc0c968ab41bad8cb12063a78a691",
+ "chars": 9124,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/997/007_شرح الحكم العطائية ｜ الدرس 7 ｜ الشيخ محمد البردوني الحسيمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/997/007_شرح الحكم العطائية ｜ الدرس 7 ｜ الشيخ محمد البردوني الحسيمي.txt",
+   "sha256": "019e70c2a52f2a3a38abfd362a25ebc86ee2f496f7520807332a200fa2120b5d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/hikam-azhar/6.txt",
+   "sha256": "019e70c2a52f2a3a38abfd362a25ebc86ee2f496f7520807332a200fa2120b5d",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/871/6.txt",
+   "sha256": "019e70c2a52f2a3a38abfd362a25ebc86ee2f496f7520807332a200fa2120b5d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "ali-gomaa--871",
+  "ali-gomaa--gomaa-hikam-azhar"
+ ]
+}

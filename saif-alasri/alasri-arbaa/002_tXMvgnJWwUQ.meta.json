@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:tXMvgnJWwUQ",
+ "vid": "tXMvgnJWwUQ",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 2,
+ "n_src": "trfile",
+ "title": "هل خالف العلماء رسول الله ﷺ حين قسموا البدعة الى حسنة وسيئة/ د.سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "8f4af01f5167bcc666165013990ce5c55ac59374f4cec106e0e407f107035746",
+ "nh": "4e10babce2d165a72637776e1d4092d3b64b743cb04a066f5532efe15861b60a",
+ "chars": 19981,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-002/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-002/transcript.txt",
+   "sha256": "8f4af01f5167bcc666165013990ce5c55ac59374f4cec106e0e407f107035746",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/002_tXMvgnJWwUQ.txt",
+   "sha256": "8f4af01f5167bcc666165013990ce5c55ac59374f4cec106e0e407f107035746",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/002.txt",
+   "sha256": "8f4af01f5167bcc666165013990ce5c55ac59374f4cec106e0e407f107035746",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

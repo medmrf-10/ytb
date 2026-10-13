@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:WqslCz6GJE8",
+ "vid": "WqslCz6GJE8",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 13,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / اختلال الميزان ونتائجه المرة / د سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "5172978ce03277913eb32a6e1e8e0dd08df2361dbd871f81f5963094ecb39bbf",
+ "nh": "dcb6b3dcfcf29e52cc8eb341f0ded9b83c3ff883cbd542743131ada00c437bb2",
+ "chars": 23207,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-013/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-013/transcript.txt",
+   "sha256": "5172978ce03277913eb32a6e1e8e0dd08df2361dbd871f81f5963094ecb39bbf",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/013_WqslCz6GJE8.txt",
+   "sha256": "5172978ce03277913eb32a6e1e8e0dd08df2361dbd871f81f5963094ecb39bbf",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/013.txt",
+   "sha256": "5172978ce03277913eb32a6e1e8e0dd08df2361dbd871f81f5963094ecb39bbf",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

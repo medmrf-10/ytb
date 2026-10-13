@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:habib-ali-aljifri--92:34",
+ "vid": null,
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--92",
+ "n": 34,
+ "n_src": "read",
+ "title": "27： جمال سيدنا النبي ｜ آمنت بالله ｜ الحبيب علي الجفري",
+ "title_src": "filename",
+ "sha256": "a9a5f3dca3cae22e5381d4f1fd3f050494b6a2432c299cd6d3ea3c78862e76dc",
+ "nh": "03beb072ebccd77d69a5c032d1556bd98f3fa4e0c0f09a22c8262dd1846b7744",
+ "chars": 11998,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/92/034_27： جمال سيدنا النبي ｜ آمنت بالله ｜ الحبيب علي الجفري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/92/034_27： جمال سيدنا النبي ｜ آمنت بالله ｜ الحبيب علي الجفري.txt",
+   "sha256": "a9a5f3dca3cae22e5381d4f1fd3f050494b6a2432c299cd6d3ea3c78862e76dc",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/92/21.txt",
+   "sha256": "a9a5f3dca3cae22e5381d4f1fd3f050494b6a2432c299cd6d3ea3c78862e76dc",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

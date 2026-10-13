@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:6w92aWnYDzM",
+ "vid": "6w92aWnYDzM",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--786",
+ "n": 11,
+ "n_src": "read",
+ "title": "اسم اللطيف وأحداث سوريا وغزة ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "7d52756d0db72d27dc76e23cae723adcef39105b0b52b6eee72a75f078ae35c7",
+ "nh": "26c17734c72ecc5bcb2770bc7f31d63407189445339d3c72eb14193cc8f8aed6",
+ "chars": 13916,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/786/011_اسم اللطيف وأحداث سوريا وغزة ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/786/011_اسم اللطيف وأحداث سوريا وغزة ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "7d52756d0db72d27dc76e23cae723adcef39105b0b52b6eee72a75f078ae35c7",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/786/10.txt",
+   "sha256": "7d52756d0db72d27dc76e23cae723adcef39105b0b52b6eee72a75f078ae35c7",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

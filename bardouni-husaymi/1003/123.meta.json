@@ -1,0 +1,31 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:123",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 123,
+ "n_src": "read|renumbered",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 109 ( باب النكاح ) ｜ الشيخ محمد البردوني",
+ "title_src": "filename",
+ "sha256": "c0efdaec43335a6559eb84d2e2e530471c3a5eb7cc8b793abb1f854dcecc315d",
+ "nh": "b59467023a0c95f42e0969c8ba15afb4d9396df68c610c0762007f637971f62c",
+ "chars": 11484,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bardouni/sharh-risala-2/016_شرح رسالة ابن ابي زيد ｜ الدرس 109 (  باب النكاح  ) ｜ الشيخ محمد البردوني.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bardouni/sharh-risala-2/016_شرح رسالة ابن ابي زيد ｜ الدرس 109 (  باب النكاح  ) ｜ الشيخ محمد البردوني.txt",
+   "sha256": "c0efdaec43335a6559eb84d2e2e530471c3a5eb7cc8b793abb1f854dcecc315d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

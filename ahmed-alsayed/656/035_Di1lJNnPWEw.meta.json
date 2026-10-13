@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:Di1lJNnPWEw",
+ "vid": "Di1lJNnPWEw",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--656",
+ "n": 35,
+ "n_src": "mutfile",
+ "title": "رياض الصالحين 35 ｜ باب في الأمر بالمحافظة على السنة وآدابها ｜ أنوار السنة المحمد",
+ "title_src": "filename",
+ "sha256": "49e5f9288db2872b04a44af7f948d6c895f0af3183bbd3595e9911a6064fec99",
+ "nh": "9dff7c164747935de19e56278cf314fb31f5f886232706f9a8fe7e5ed9650b15",
+ "chars": 38176,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/656/035_رياض الصالحين 35 ｜ باب في الأمر بالمحافظة على السنة وآدابها ｜ أنوار السنة المحمد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/656/035_رياض الصالحين 35 ｜ باب في الأمر بالمحافظة على السنة وآدابها ｜ أنوار السنة المحمد.txt",
+   "sha256": "49e5f9288db2872b04a44af7f948d6c895f0af3183bbd3595e9911a6064fec99",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/riyadElsali7in-035/transcript.txt",
+   "sha256": "0038b3fe27ab574cdad41a99852ce0d19f87c9903ef20813c7bf9c55c6363358",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-656/035.txt",
+   "sha256": "0038b3fe27ab574cdad41a99852ce0d19f87c9903ef20813c7bf9c55c6363358",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

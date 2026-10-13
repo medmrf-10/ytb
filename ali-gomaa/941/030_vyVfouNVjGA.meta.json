@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:vyVfouNVjGA",
+ "vid": "vyVfouNVjGA",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--941",
+ "n": 30,
+ "n_src": "read",
+ "title": "شرح الأربعين النووية ｜ حلقة 30 ｜ سند وإجازة إلى الإمام النووي ｜ أ.د علي جمعة ｜",
+ "title_src": "filename",
+ "sha256": "d197bc5e79995fa388657722c556ce3f3da4b8aaa98dd84746096b40593e25e2",
+ "nh": "8f75f57fe56eb49d09bb6cb3739a88562d40186418cba8759d8a2a8b819b3b42",
+ "chars": 5401,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/941/030_شرح الأربعين النووية ｜ حلقة 30 ｜ سند وإجازة إلى الإمام النووي ｜ أ.د علي جمعة  ｜ .txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/941/030_شرح الأربعين النووية ｜ حلقة 30 ｜ سند وإجازة إلى الإمام النووي ｜ أ.د علي جمعة  ｜ .txt",
+   "sha256": "d197bc5e79995fa388657722c556ce3f3da4b8aaa98dd84746096b40593e25e2",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/ali-gomaa--941/030.txt",
+   "sha256": "d197bc5e79995fa388657722c556ce3f3da4b8aaa98dd84746096b40593e25e2",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

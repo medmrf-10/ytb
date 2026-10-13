@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:X7mJVnHHWlk",
+ "vid": "X7mJVnHHWlk",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--672",
+ "n": 1,
+ "n_src": "mutfile",
+ "title": "تشويقة ｜ المنهج الإصلاحي من سورتي الأنفال والتوبة",
+ "title_src": "filename",
+ "sha256": "3228206247e478d9250d0687ab891139ced8ebd65bce48a71b49022ab1ce2978",
+ "nh": "0f2b1646275ceb9775fe6019b01c412d88693978114234f7927047bf1fb3a917",
+ "chars": 3265,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/672/001_تشويقة ｜ المنهج الإصلاحي من سورتي الأنفال والتوبة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/672/001_تشويقة ｜ المنهج الإصلاحي من سورتي الأنفال والتوبة.txt",
+   "sha256": "3228206247e478d9250d0687ab891139ced8ebd65bce48a71b49022ab1ce2978",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alsayed/mut-672/001_تشويقة ｜ المنهج الإصلاحي من سورتي الأنفال والتوبة.txt",
+   "sha256": "3228206247e478d9250d0687ab891139ced8ebd65bce48a71b49022ab1ce2978",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-672/001.txt",
+   "sha256": "6229cf21952faefac73531fe911a023ce2158200c7d060c75005f9f30f09e7cb",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

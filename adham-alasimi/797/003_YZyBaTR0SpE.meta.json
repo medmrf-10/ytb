@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:YZyBaTR0SpE",
+ "vid": "YZyBaTR0SpE",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--797",
+ "n": 3,
+ "n_src": "read",
+ "title": "(1) شذور الذهب في معرفة كلام العرب ｜ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "c846f20144bb1e0661751c5be1ac5d4fe13ec805946ab460d72cde7783016812",
+ "nh": "4653606d256051cacea26d1aa2102fa9fd975c4df74c96aeb297cc84f83497b5",
+ "chars": 15601,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/797/003_(1) شذور الذهب في معرفة كلام العرب ｜ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/797/003_(1) شذور الذهب في معرفة كلام العرب ｜ الشيخ أدهم العاسمي.txt",
+   "sha256": "c846f20144bb1e0661751c5be1ac5d4fe13ec805946ab460d72cde7783016812",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/797/0.txt",
+   "sha256": "c846f20144bb1e0661751c5be1ac5d4fe13ec805946ab460d72cde7783016812",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

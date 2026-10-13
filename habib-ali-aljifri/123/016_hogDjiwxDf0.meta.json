@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:hogDjiwxDf0",
+ "vid": "hogDjiwxDf0",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--123",
+ "n": 16,
+ "n_src": "read",
+ "title": "أيها المريد ｜ الحلقة 16 ｜عقبة العوائق： الشيطان، وساوس الشيطان ｜ علي الجفري ｜ Eng",
+ "title_src": "filename",
+ "sha256": "04eb8dde357a140aa99f5b7a9c8f90b75710ae14af2900df313a4c9ceb1fdad2",
+ "nh": "8e781223a875e66b0c3f110387d1dcfbd5ea27142355a4370731e6d56a594f30",
+ "chars": 16390,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/123/016_أيها المريد ｜ الحلقة 16 ｜عقبة العوائق： الشيطان، وساوس الشيطان ｜ علي الجفري ｜ Eng.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/123/016_أيها المريد ｜ الحلقة 16 ｜عقبة العوائق： الشيطان، وساوس الشيطان ｜ علي الجفري ｜ Eng.txt",
+   "sha256": "04eb8dde357a140aa99f5b7a9c8f90b75710ae14af2900df313a4c9ceb1fdad2",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/mut-123/016_أيها المريد ｜ الحلقة 16 ｜عقبة العوائق： الشيطان، وساوس الشيطان ｜ علي الجفري ｜ Eng.txt",
+   "sha256": "8e9d8247571384e755c2e3cee402b534eb235b5a81077b010efea481364d9043",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

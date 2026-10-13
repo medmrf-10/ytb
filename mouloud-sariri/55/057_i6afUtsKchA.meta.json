@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:i6afUtsKchA",
+ "vid": "i6afUtsKchA",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 57,
+ "n_src": "read",
+ "title": "خطب منبرية： ثمرات الإيمان ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "012b5fb5e4868ea7d299cd5acea82f40b765fc0b8ceacd9b596fc791b3a3a7d4",
+ "nh": "101e2fa9f7a4b78e0bbf4e8a6d8fa9145856167764e454d093daf853f87c202a",
+ "chars": 8698,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/057_خطب منبرية： ثمرات الإيمان ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/057_خطب منبرية： ثمرات الإيمان ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "012b5fb5e4868ea7d299cd5acea82f40b765fc0b8ceacd9b596fc791b3a3a7d4",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/56.txt",
+   "sha256": "012b5fb5e4868ea7d299cd5acea82f40b765fc0b8ceacd9b596fc791b3a3a7d4",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

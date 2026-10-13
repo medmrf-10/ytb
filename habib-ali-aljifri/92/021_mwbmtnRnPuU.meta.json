@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:mwbmtnRnPuU",
+ "vid": "mwbmtnRnPuU",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--92",
+ "n": 21,
+ "n_src": "read",
+ "title": "15： الدين والسياسة - د. محمد حبيب ｜ آمنت بالله ｜ الحبيب علي الجفري",
+ "title_src": "filename",
+ "sha256": "42146aadd17731ae05df6bc77484a7693d73b2ccc370f221d2cfb15e34a9ea59",
+ "nh": "4efc791e8a1353f97c98d98fcd513c192c25c0449fdda47646ab3836191f5d13",
+ "chars": 11755,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/92/021_15： الدين والسياسة - د. محمد حبيب ｜ آمنت بالله ｜  الحبيب علي الجفري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/92/021_15： الدين والسياسة - د. محمد حبيب ｜ آمنت بالله ｜  الحبيب علي الجفري.txt",
+   "sha256": "42146aadd17731ae05df6bc77484a7693d73b2ccc370f221d2cfb15e34a9ea59",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/92/11.txt",
+   "sha256": "42146aadd17731ae05df6bc77484a7693d73b2ccc370f221d2cfb15e34a9ea59",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

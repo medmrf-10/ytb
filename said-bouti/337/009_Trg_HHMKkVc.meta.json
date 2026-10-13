@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:Trg_HHMKkVc",
+ "vid": "Trg_HHMKkVc",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--337",
+ "n": 9,
+ "n_src": "mutfile",
+ "title": "8 - في رحاب القرآن بين لسانٍ رطْبٍ ولسانٍ متخشب",
+ "title_src": "filename",
+ "sha256": "68226fb44d11948b6b6191870413166eeb3bcd169476cafb9f766c2911d9964c",
+ "nh": "56d95a06fd8d22c1e42fc286a4e30f8ce2719ccb5b79d6ae4e44d95253a39824",
+ "chars": 854,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/337/009_8 - في رحاب القرآن  بين لسانٍ رطْبٍ ولسانٍ متخشب.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/337/009_8 - في رحاب القرآن  بين لسانٍ رطْبٍ ولسانٍ متخشب.txt",
+   "sha256": "68226fb44d11948b6b6191870413166eeb3bcd169476cafb9f766c2911d9964c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/rihab/009_8 - في رحاب القرآن  بين لسانٍ رطْبٍ ولسانٍ متخشب.txt",
+   "sha256": "68226fb44d11948b6b6191870413166eeb3bcd169476cafb9f766c2911d9964c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-337/009.txt",
+   "sha256": "92d54c04fa9bece12b7d6c3a5a8a0d7aafcf3ee05d4380fbe415e2207ad03950",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

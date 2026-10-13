@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:maMATrjD7Gk",
+ "vid": "maMATrjD7Gk",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--660",
+ "n": 11,
+ "n_src": "mutfile",
+ "title": "الأمة بين احتلالين 10 ｜ سقوط القدس مرة أخرى (الخيانة) ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "2c3fac49b04b67c34b891f4db8f479562dec1ae26af1af7b7c488ba27e369cf3",
+ "nh": "d7d74f3617df9af45bc2cf51abaabe55208756e1d07ecab3b932193070a3b3fb",
+ "chars": 70033,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/660/011_الأمة بين احتلالين 10 ｜ سقوط القدس مرة أخرى (الخيانة) ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/660/011_الأمة بين احتلالين 10 ｜ سقوط القدس مرة أخرى (الخيانة) ｜ أحمد السيد.txt",
+   "sha256": "2c3fac49b04b67c34b891f4db8f479562dec1ae26af1af7b7c488ba27e369cf3",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/elommaBaynI7tilayn-011/transcript.txt",
+   "sha256": "e902617669316d47f248477935ede65e4762ad80e16b35aed207b3bf49932e38",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-660/011.txt",
+   "sha256": "e902617669316d47f248477935ede65e4762ad80e16b35aed207b3bf49932e38",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

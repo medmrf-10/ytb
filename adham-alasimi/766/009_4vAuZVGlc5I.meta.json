@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:4vAuZVGlc5I",
+ "vid": "4vAuZVGlc5I",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--766",
+ "n": 9,
+ "n_src": "read",
+ "title": "إعلان السلم المنورق ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "501543565e0c9df9a17bfbc8be6ef25c36e9578485953c9661f972431df583c4",
+ "nh": "19bc5553f0a6bf4ea8d6d9e3f12601609ed78d2281e684ab639be82e45dae9c8",
+ "chars": 1863,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/766/009_إعلان السلم المنورق ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/766/009_إعلان السلم المنورق ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "501543565e0c9df9a17bfbc8be6ef25c36e9578485953c9661f972431df583c4",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/766/8.txt",
+   "sha256": "501543565e0c9df9a17bfbc8be6ef25c36e9578485953c9661f972431df583c4",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

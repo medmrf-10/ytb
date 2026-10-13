@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:fBLZE5aami8",
+ "vid": "fBLZE5aami8",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--403",
+ "n": 31,
+ "n_src": "plpos",
+ "title": "29- فقه السيرة النبوية | إجلاء بني النضير (1)",
+ "title_src": "yt_titles",
+ "sha256": "346a680739a4f3762c9f9d05fc534043a40f6701b46ab5b12f540b30956666e1",
+ "nh": "f1644d6e60b52f67b3b90f2e15d275c70676ca94fc42ce58246cb8f8cf5859aa",
+ "chars": 24237,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/403/031_29- فقه السيرة النبوية ｜ إجلاء بني النضير (1).txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/403/031_29- فقه السيرة النبوية ｜ إجلاء بني النضير (1).txt",
+   "sha256": "346a680739a4f3762c9f9d05fc534043a40f6701b46ab5b12f540b30956666e1",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fi9hElsirah-031/transcript.txt",
+   "sha256": "0a37835879ee8e5176ce38bf56262e9044f85e4d01640a56ee219db6933447df",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-sira/31.txt",
+   "sha256": "0a37835879ee8e5176ce38bf56262e9044f85e4d01640a56ee219db6933447df",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:Y4RlTFLzkiQ",
+ "vid": "Y4RlTFLzkiQ",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 59,
+ "n_src": "plpos",
+ "title": "والله أعلم | الدكتور علي جمعة يوضح حكم الهجوم على مناهج الازهر والشيخ محمد عبده | الحلقة الكاملة",
+ "title_src": "yt_titles",
+ "sha256": "3cdf7ac1e05625a3ae66b4cbfbec51d5b8c01b68c897eaec5481c276bbc7f291",
+ "nh": "e1663f2fdb0bc35c06f13448f9eb3372bda520bbb05d06181a00b4ef23d6f8bd",
+ "chars": 24456,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/059_والله أعلم ｜ الدكتور علي جمعة يوضح حكم الهجوم على مناهج الازهر والشيخ محمد عبده .txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/059_والله أعلم ｜ الدكتور علي جمعة يوضح حكم الهجوم على مناهج الازهر والشيخ محمد عبده .txt",
+   "sha256": "3cdf7ac1e05625a3ae66b4cbfbec51d5b8c01b68c897eaec5481c276bbc7f291",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/059_والله أعلم ｜ الدكتور علي جمعة يوضح حكم الهجوم على مناهج الازهر والشيخ محمد عبده .txt",
+   "sha256": "3cdf7ac1e05625a3ae66b4cbfbec51d5b8c01b68c897eaec5481c276bbc7f291",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/059.txt",
+   "sha256": "346aa892cd038bda49c3737e2cc76db4cfdfd22a5accbb9231241609e924feed",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

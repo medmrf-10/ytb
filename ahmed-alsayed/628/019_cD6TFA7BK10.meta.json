@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:cD6TFA7BK10",
+ "vid": "cD6TFA7BK10",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--628",
+ "n": 19,
+ "n_src": "mutfile",
+ "title": "السيرة النبوية للمصلحين 19 ｜ تبعات غزوة بدر ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "c6e5c36e35c6538618261069d0602315a8b814faf5a55756ebf880fc7d2396cd",
+ "nh": "49cb8bf38d9a4bd5eaa3b6605e6784d3bc4d877a26a2a4cc74b853230554c402",
+ "chars": 31127,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/628/019_السيرة النبوية للمصلحين 19 ｜ تبعات غزوة بدر ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/628/019_السيرة النبوية للمصلحين 19 ｜ تبعات غزوة بدر ｜ أحمد السيد.txt",
+   "sha256": "c6e5c36e35c6538618261069d0602315a8b814faf5a55756ebf880fc7d2396cd",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/elsiraLilmosli7in-019/transcript.txt",
+   "sha256": "f539d111569795e5e591d8ea0378139f2a40f6b244ba1789887d1d31efbda8ad",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-628/019.txt",
+   "sha256": "f539d111569795e5e591d8ea0378139f2a40f6b244ba1789887d1d31efbda8ad",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

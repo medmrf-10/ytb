@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "yt:xVT8MNNfxlA",
+ "vid": "xVT8MNNfxlA",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--bardouni-mut-985",
+ "n": 5,
+ "n_src": "read",
+ "title": "شرح المنهج المنتخب ｜ دس78 ( ق127 إعطاء الموجود حكم المعدوم أو المعدوم حكم الموج",
+ "title_src": "filename",
+ "sha256": "ad310e5fb1f13a87f72b72b8184df02b9acf1e4ea4fe6abcec1ba89fe68b30c6",
+ "nh": "47382ec13bedf8fa5addea7c9d11b8c016ae50d990000d41aa7481c012b90506",
+ "chars": 28807,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/985/005_شرح المنهج  المنتخب ｜ دس78 ( ق127 إعطاء الموجود حكم المعدوم أو المعدوم حكم الموج.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/985/005_شرح المنهج  المنتخب ｜ دس78 ( ق127 إعطاء الموجود حكم المعدوم أو المعدوم حكم الموج.txt",
+   "sha256": "ad310e5fb1f13a87f72b72b8184df02b9acf1e4ea4fe6abcec1ba89fe68b30c6",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bardouni/mut-985/005_شرح المنهج  المنتخب ｜ دس78 ( ق127 إعطاء الموجود حكم المعدوم أو المعدوم حكم الموج.txt",
+   "sha256": "ad310e5fb1f13a87f72b72b8184df02b9acf1e4ea4fe6abcec1ba89fe68b30c6",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/37/156.txt",
+   "sha256": "ad310e5fb1f13a87f72b72b8184df02b9acf1e4ea4fe6abcec1ba89fe68b30c6",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "mouloud-sariri--37"
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:Y0M4fpBXHpk",
+ "vid": "Y0M4fpBXHpk",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1006",
+ "n": 6,
+ "n_src": "read",
+ "title": "شرح لامية العرب ｜ الدرس 5 ( الأبيات -١٣-١٤-١٥-) ｜ الشيخ محمد البردوني الحسيمي",
+ "title_src": "filename",
+ "sha256": "2c3a24487e0be6ed6939006e56b8bc94bde8b1f13f7ab7e4b17283da0c70a6eb",
+ "nh": "bd45c5515f5c0f0da5e6155f0ad7adc42c6acd56e46c484ca35822126dc2c6af",
+ "chars": 4584,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1006/006_شرح لامية العرب ｜ الدرس 5 ( الأبيات -١٣-١٤-١٥-) ｜ الشيخ محمد البردوني الحسيمي.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1006/006_شرح لامية العرب ｜ الدرس 5 ( الأبيات -١٣-١٤-١٥-) ｜ الشيخ محمد البردوني الحسيمي.txt",
+   "sha256": "2c3a24487e0be6ed6939006e56b8bc94bde8b1f13f7ab7e4b17283da0c70a6eb",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1006/4.txt",
+   "sha256": "2c3a24487e0be6ed6939006e56b8bc94bde8b1f13f7ab7e4b17283da0c70a6eb",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

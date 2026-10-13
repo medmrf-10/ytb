@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:aQ5c_v96ehI",
+ "vid": "aQ5c_v96ehI",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 18,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء  / هل يدل حديث الرهط على أن الترك دليل على المنع؟ / د سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "1c62451f6197c9bf51497ff4a2ef0741f461ff3486d96d35abe9eee1c79424ed",
+ "nh": "71eda4061050f984555e798c9ff02658d79286d5bd7feb667355fcdfc4bba29e",
+ "chars": 22149,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-018/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-018/transcript.txt",
+   "sha256": "1c62451f6197c9bf51497ff4a2ef0741f461ff3486d96d35abe9eee1c79424ed",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/018_aQ5c_v96ehI.txt",
+   "sha256": "1c62451f6197c9bf51497ff4a2ef0741f461ff3486d96d35abe9eee1c79424ed",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/018.txt",
+   "sha256": "1c62451f6197c9bf51497ff4a2ef0741f461ff3486d96d35abe9eee1c79424ed",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

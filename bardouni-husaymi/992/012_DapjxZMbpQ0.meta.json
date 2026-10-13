@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:DapjxZMbpQ0",
+ "vid": "DapjxZMbpQ0",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--992",
+ "n": 12,
+ "n_src": "read",
+ "title": "شرح الرسالة العضدية ｜ الدرس 12 (قوله ＂ فالوضع كلي و الموضوع له مشخص＂ ) ｜ الشيخ م",
+ "title_src": "filename",
+ "sha256": "ff0fcfba51f44806aea6fd57334334901236b0c1551b43aedbb066f0a7d00d4a",
+ "nh": "abde2aca1fdbddc6e9e45f1b6ba08f84b044d3ae38231b0cabc8295265bc31ff",
+ "chars": 9975,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/992/012_شرح الرسالة العضدية ｜ الدرس 12 (قوله ＂ فالوضع كلي و الموضوع له مشخص＂ ) ｜ الشيخ م.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/992/012_شرح الرسالة العضدية ｜ الدرس 12 (قوله ＂ فالوضع كلي و الموضوع له مشخص＂ ) ｜ الشيخ م.txt",
+   "sha256": "ff0fcfba51f44806aea6fd57334334901236b0c1551b43aedbb066f0a7d00d4a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/sariri/risala-adudiyya/22.txt",
+   "sha256": "ff0fcfba51f44806aea6fd57334334901236b0c1551b43aedbb066f0a7d00d4a",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/36/22.txt",
+   "sha256": "ff0fcfba51f44806aea6fd57334334901236b0c1551b43aedbb066f0a7d00d4a",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "mouloud-sariri--36",
+  "mouloud-sariri--sariri-risala-adudiyya"
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:xQDUV3VVj4g",
+ "vid": "xQDUV3VVj4g",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--365",
+ "n": 1,
+ "n_src": "read",
+ "title": "تشويقة برنامج ضائعون هداهم القرآن الإمام الشهيد البوطي",
+ "title_src": "filename",
+ "sha256": "eda066266327f506207f16bacbbf8da7b3d1486df70db4353cbf65555dccd9bf",
+ "nh": "9f1377c16567e2cf92c5b38cfb56915883b01235ab428a1d43f7e8f9838ada3b",
+ "chars": 1103,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/365/001_تشويقة برنامج ضائعون هداهم القرآن  الإمام الشهيد البوطي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/365/001_تشويقة برنامج ضائعون هداهم القرآن  الإمام الشهيد البوطي.txt",
+   "sha256": "eda066266327f506207f16bacbbf8da7b3d1486df70db4353cbf65555dccd9bf",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tawba/001_تشويقة برنامج ضائعون هداهم القرآن  الإمام الشهيد البوطي.txt",
+   "sha256": "eda066266327f506207f16bacbbf8da7b3d1486df70db4353cbf65555dccd9bf",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/dayoon/001_تشويقة برنامج ضائعون هداهم القرآن  الإمام الشهيد البوطي.txt",
+   "sha256": "eda066266327f506207f16bacbbf8da7b3d1486df70db4353cbf65555dccd9bf",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

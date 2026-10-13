@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:vLTXX_wI_18",
+ "vid": "vLTXX_wI_18",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--779",
+ "n": 17,
+ "n_src": "read",
+ "title": "(17) المجاز المرسل +الكناية ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "100df9cbf851762e195fff65aca386a175d9c8e18afd2e881c5cae68f96c05de",
+ "nh": "bd00e3d03c20c0801923bc8b50e43f70da65a9e332fda5da1925e748605dfe38",
+ "chars": 21217,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/779/017_(17) المجاز المرسل +الكناية ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/779/017_(17) المجاز المرسل +الكناية ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "100df9cbf851762e195fff65aca386a175d9c8e18afd2e881c5cae68f96c05de",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/779/16.txt",
+   "sha256": "100df9cbf851762e195fff65aca386a175d9c8e18afd2e881c5cae68f96c05de",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

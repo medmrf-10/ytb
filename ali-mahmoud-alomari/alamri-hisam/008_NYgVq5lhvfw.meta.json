@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:NYgVq5lhvfw",
+ "vid": "NYgVq5lhvfw",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-hisam",
+ "n": 8,
+ "n_src": "trfile",
+ "title": "( 11 )ج١ القياس الاستثنائي . شرح الحسام الكاتي على إيساغوجي",
+ "title_src": "yt_titles",
+ "sha256": "58a8d39f8ce4d5b2c2d91431b613db42385f0e6df8b8127e49f5c3dcdc6563da",
+ "nh": "6b569aa3d3f56e36ab81c5a6f9d164d947817c454b523e42c93a9e170cc6a9ab",
+ "chars": 9183,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriHisam-008/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriHisam-008/transcript.txt",
+   "sha256": "58a8d39f8ce4d5b2c2d91431b613db42385f0e6df8b8127e49f5c3dcdc6563da",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/hisam/hisam-08_AlAmri.txt",
+   "sha256": "58a8d39f8ce4d5b2c2d91431b613db42385f0e6df8b8127e49f5c3dcdc6563da",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-hisam/08.txt",
+   "sha256": "58a8d39f8ce4d5b2c2d91431b613db42385f0e6df8b8127e49f5c3dcdc6563da",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

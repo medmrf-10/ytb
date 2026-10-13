@@ -1,0 +1,31 @@
+{
+ "v": 1,
+ "lid": "rn:ali-mahmoud-alomari--alamri-falsafa-din:5",
+ "vid": null,
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-falsafa-din",
+ "n": 5,
+ "n_src": "assigned",
+ "title": "falsafa-din-01 AlAmri",
+ "title_src": "filename",
+ "sha256": "e612d983d63ec223e7e7e6102e030aa9f89a799650affb1040661f1728dc35d8",
+ "nh": "c2cc6c22e2ef7b19ece7205378337dce74a2d1b5159b50726e31e4cd838f8db3",
+ "chars": 43734,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/alamri/falsafa-din/falsafa-din-01_AlAmri.txt",
+  "commit_ts": 1791587745,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/falsafa-din/falsafa-din-01_AlAmri.txt",
+   "sha256": "e612d983d63ec223e7e7e6102e030aa9f89a799650affb1040661f1728dc35d8",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

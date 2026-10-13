@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:ZOFNIUa6sJE",
+ "vid": "ZOFNIUa6sJE",
+ "sheikh": "ahmed-abdelmonem",
+ "row_id": "ahmed-abdelmonem--abdelmonem-juz30",
+ "n": 2,
+ "n_src": "trfile",
+ "title": "تفسير سورة النبأ (2) | د. أحمد عبد المنعم",
+ "title_src": "yt_titles",
+ "sha256": "354fddbd087781f208b120f2201717d0511577431353c1de2b36d49e79bab9c7",
+ "nh": "24938be54996dba1b6c11ea83166741f72bb901665db07954d2d4be11408cbf5",
+ "chars": 38584,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/abdelmonemJuz30-002/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/abdelmonemJuz30-002/transcript.txt",
+   "sha256": "354fddbd087781f208b120f2201717d0511577431353c1de2b36d49e79bab9c7",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/abdelmonem/juz30/078-Naba_p2_AbdelMonem.txt",
+   "sha256": "354fddbd087781f208b120f2201717d0511577431353c1de2b36d49e79bab9c7",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/abdelmonem-juz30/02.txt",
+   "sha256": "354fddbd087781f208b120f2201717d0511577431353c1de2b36d49e79bab9c7",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:H3aNYrmPzAo",
+ "vid": "H3aNYrmPzAo",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--656",
+ "n": 53,
+ "n_src": "mutfile",
+ "title": "رياض الصالحين 53 ｜ باب تحريم الظلم والأمر برد المظالم 6 ｜ أنوار السنة المحمدية ｜",
+ "title_src": "filename",
+ "sha256": "042d66563aa4d549cf9a7e0ef3a7c641003ac1779007832a4730a7b57e31d0b7",
+ "nh": "3313fca3c8e428e66a723191c51753c0e52c75b29a3074357f6f99079fbf025a",
+ "chars": 43211,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/656/053_رياض الصالحين 53 ｜ باب تحريم الظلم والأمر برد المظالم 6 ｜ أنوار السنة المحمدية ｜.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/656/053_رياض الصالحين 53 ｜ باب تحريم الظلم والأمر برد المظالم 6 ｜ أنوار السنة المحمدية ｜.txt",
+   "sha256": "042d66563aa4d549cf9a7e0ef3a7c641003ac1779007832a4730a7b57e31d0b7",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/riyadElsali7in-053/transcript.txt",
+   "sha256": "fa03c5af1e0ec17551482718d74581eddf339ae23ea3e184f22d797dddc3bd65",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-656/053.txt",
+   "sha256": "fa03c5af1e0ec17551482718d74581eddf339ae23ea3e184f22d797dddc3bd65",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

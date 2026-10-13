@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:-LFSDJXlOuk",
+ "vid": "-LFSDJXlOuk",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 149,
+ "n_src": "plpos",
+ "title": "#حديث_الجمعة | التدبر في الأحاديث النبوية",
+ "title_src": "yt_titles",
+ "sha256": "8f61266a1731a374d64dc8ea73e92d88268be6cd6191ba28f4addce6d6cde98f",
+ "nh": "de01b9a6b7a1469ddb438000a1bc5dbaf136690f70cb5513101b96d2af323109",
+ "chars": 10915,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/gomaa/mut-822/149_#حديث_الجمعة ｜ التدبر في الأحاديث النبوية.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/149_#حديث_الجمعة ｜ التدبر في الأحاديث النبوية.txt",
+   "sha256": "8f61266a1731a374d64dc8ea73e92d88268be6cd6191ba28f4addce6d6cde98f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/149.txt",
+   "sha256": "9caf053436b7e30dc67062a71074484d7c6c33dc1ba8f5afdd2a5e8058e6a44d",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

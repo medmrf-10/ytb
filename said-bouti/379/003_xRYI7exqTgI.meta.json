@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:xRYI7exqTgI",
+ "vid": "xRYI7exqTgI",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--379",
+ "n": 3,
+ "n_src": "plpos",
+ "title": "3- تاريخ التشريع الإسلامي | الدور الأول: القسم الأول: حياة رسول الله ﷺ",
+ "title_src": "yt_titles",
+ "sha256": "990b54cbe55f1199a5e839098af76844335cd84d8d9adb7b27c4e9e63096cb8c",
+ "nh": "6bd4b2bc0509a21c9732de25866d8f3e89f51842621ed3fcb8f15ab3a2c049ec",
+ "chars": 18072,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/379/003_3- تاريخ التشريع الإسلامي ｜ الدور الأول： القسم الأول： حياة رسول الله ﷺ.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/379/003_3- تاريخ التشريع الإسلامي ｜ الدور الأول： القسم الأول： حياة رسول الله ﷺ.txt",
+   "sha256": "990b54cbe55f1199a5e839098af76844335cd84d8d9adb7b27c4e9e63096cb8c",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/tari5Eltachri3-003/transcript.txt",
+   "sha256": "c632635a306fbd208e7941803993792e2d02be89325c5e0d628ea6fa1501d523",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-tarikh/03.txt",
+   "sha256": "c632635a306fbd208e7941803993792e2d02be89325c5e0d628ea6fa1501d523",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

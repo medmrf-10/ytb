@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "yt:efUGvLsW30E",
+ "vid": "efUGvLsW30E",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--bardouni-mut-985",
+ "n": 4,
+ "n_src": "read",
+ "title": "شرح المنهج المنتخب ｜ دس80 ( ق129 بقاء ما كان على ما كان - ق130الأصل لا يجتمع مع",
+ "title_src": "filename",
+ "sha256": "68d9e02e6bebb7148953ae85aa4ebf4bf649c7bc3a12128fa55063e7d23243e8",
+ "nh": "4d1478f4f5746b14f483e278bc74eb67c382ecb2f7e82afca4df3e4fb1af19da",
+ "chars": 17633,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/985/004_شرح المنهج  المنتخب ｜ دس80 ( ق129 بقاء ما كان على ما كان - ق130الأصل لا يجتمع مع.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/985/004_شرح المنهج  المنتخب ｜ دس80 ( ق129 بقاء ما كان على ما كان - ق130الأصل لا يجتمع مع.txt",
+   "sha256": "68d9e02e6bebb7148953ae85aa4ebf4bf649c7bc3a12128fa55063e7d23243e8",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bardouni/mut-985/004_شرح المنهج  المنتخب ｜ دس80 ( ق129 بقاء ما كان على ما كان - ق130الأصل لا يجتمع مع.txt",
+   "sha256": "68d9e02e6bebb7148953ae85aa4ebf4bf649c7bc3a12128fa55063e7d23243e8",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/37/160.txt",
+   "sha256": "68d9e02e6bebb7148953ae85aa4ebf4bf649c7bc3a12128fa55063e7d23243e8",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "mouloud-sariri--37"
+ ]
+}

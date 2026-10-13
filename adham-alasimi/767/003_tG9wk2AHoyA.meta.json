@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:tG9wk2AHoyA",
+ "vid": "tG9wk2AHoyA",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--767",
+ "n": 3,
+ "n_src": "read",
+ "title": "(03) المعرب والمبني من الأفعال ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "7de1260c99bef3d7873d55a8b7790f566aaae4d466a88d4ff38242445016bfc3",
+ "nh": "85d9bb2f1db6359ceb44b6397d6099977ee5c48296eb878d7f630cc48960f2a5",
+ "chars": 19777,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/767/003_(03) المعرب والمبني من الأفعال ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/767/003_(03) المعرب والمبني من الأفعال ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "7de1260c99bef3d7873d55a8b7790f566aaae4d466a88d4ff38242445016bfc3",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/767/2.txt",
+   "sha256": "7de1260c99bef3d7873d55a8b7790f566aaae4d466a88d4ff38242445016bfc3",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

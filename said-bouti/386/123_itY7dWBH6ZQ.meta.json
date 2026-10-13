@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:itY7dWBH6ZQ",
+ "vid": "itY7dWBH6ZQ",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 123,
+ "n_src": "read",
+ "title": "الحكم العطائية للعلامة البوطي الدرس 303 - المناجاة 27",
+ "title_src": "filename",
+ "sha256": "5998fc3efd1ff5eedcabcac60dd6b47549ac2e44730083da9be4abdb03dcf195",
+ "nh": "36ed684da6c393b77d4bb4b59516136739bb895f94f695b2cdc527c52ecc2cf6",
+ "chars": 22522,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/123_الحكم العطائية للعلامة البوطي  الدرس 303 - المناجاة 27.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/123_الحكم العطائية للعلامة البوطي  الدرس 303 - المناجاة 27.txt",
+   "sha256": "5998fc3efd1ff5eedcabcac60dd6b47549ac2e44730083da9be4abdb03dcf195",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/123_الحكم العطائية للعلامة البوطي  الدرس 303 - المناجاة 27.txt",
+   "sha256": "5998fc3efd1ff5eedcabcac60dd6b47549ac2e44730083da9be4abdb03dcf195",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

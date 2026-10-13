@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:4kcx5BChNRI",
+ "vid": "4kcx5BChNRI",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 85,
+ "n_src": "plpos",
+ "title": "والله أعلم | فضيلة د. علي جمعة يرد على الشبهات المثارة حول التصوف | حلقة كاملة",
+ "title_src": "yt_titles",
+ "sha256": "9b1dc200f95a1242fa59361cdd5cbe087ee7c58e80dd3e51db0b34476db70d69",
+ "nh": "6da90ed35ef683b95294fb8d1f40b6e110d81d39c3656671134e45fd7fc26c09",
+ "chars": 27219,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/085_والله أعلم ｜ فضيلة د. علي جمعة يرد على الشبهات المثارة حول التصوف ｜ حلقة كاملة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/085_والله أعلم ｜ فضيلة د. علي جمعة يرد على الشبهات المثارة حول التصوف ｜ حلقة كاملة.txt",
+   "sha256": "9b1dc200f95a1242fa59361cdd5cbe087ee7c58e80dd3e51db0b34476db70d69",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/085_والله أعلم ｜ فضيلة د. علي جمعة يرد على الشبهات المثارة حول التصوف ｜ حلقة كاملة.txt",
+   "sha256": "9b1dc200f95a1242fa59361cdd5cbe087ee7c58e80dd3e51db0b34476db70d69",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/085.txt",
+   "sha256": "47f4818f053f6fabd7b3ce8c67e993ead9dcd3b72fca35accd4d1d2606b94060",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

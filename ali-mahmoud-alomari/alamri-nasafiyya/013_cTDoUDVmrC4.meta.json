@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:cTDoUDVmrC4",
+ "vid": "cTDoUDVmrC4",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-nasafiyya",
+ "n": 13,
+ "n_src": "trfile",
+ "title": "الدرس 13",
+ "title_src": "filename",
+ "sha256": "7ff2297bc903e0048752bb839b807c4c008e73c16cf6bad0f75f586bd2b32a81",
+ "nh": "d69c35158ab9c3fd633a423376985439d7eeb1fc61ca40963229216130e2ff9e",
+ "chars": 46626,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriNasafiyya-013/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriNasafiyya-013/transcript.txt",
+   "sha256": "7ff2297bc903e0048752bb839b807c4c008e73c16cf6bad0f75f586bd2b32a81",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/nasafiyya/nasafiyya-13_AlAmri.txt",
+   "sha256": "7ff2297bc903e0048752bb839b807c4c008e73c16cf6bad0f75f586bd2b32a81",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-nasafiyya/13.txt",
+   "sha256": "7ff2297bc903e0048752bb839b807c4c008e73c16cf6bad0f75f586bd2b32a81",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

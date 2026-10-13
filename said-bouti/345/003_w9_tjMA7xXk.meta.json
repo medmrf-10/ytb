@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:w9_tjMA7xXk",
+ "vid": "w9_tjMA7xXk",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--345",
+ "n": 3,
+ "n_src": "plpos",
+ "title": "3- مشاهد وعبر من القرآن والسنة | وإن تتولوا يسبدل قوماً غيركم ثم لا يكونوا أمثالكم",
+ "title_src": "yt_titles",
+ "sha256": "66101105ba9abd3066469dc4a19417f5a2678ab3da497a225eabe42d56bd31c1",
+ "nh": "519626df4db9416716ed85b4a861aa48ebaf4a6ac5faf89226b424fbf2a460a8",
+ "chars": 13611,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/345/003_3- مشاهد وعبر من القرآن والسنة ｜ وإن تتولوا يسبدل قوماً غيركم ثم لا يكونوا أمثال.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/345/003_3- مشاهد وعبر من القرآن والسنة ｜ وإن تتولوا يسبدل قوماً غيركم ثم لا يكونوا أمثال.txt",
+   "sha256": "66101105ba9abd3066469dc4a19417f5a2678ab3da497a225eabe42d56bd31c1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-mashahid/03.txt",
+   "sha256": "dd2a0d9cd2bddda73532d859e1940d70e72d512c0d2aff8a61ca4fc92e0592df",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/345/2.txt",
+   "sha256": "66101105ba9abd3066469dc4a19417f5a2678ab3da497a225eabe42d56bd31c1",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

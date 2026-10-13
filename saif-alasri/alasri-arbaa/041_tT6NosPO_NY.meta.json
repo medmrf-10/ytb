@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:tT6NosPO_NY",
+ "vid": "tT6NosPO_NY",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 41,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / المفكرون في ميزان الفكر / الدكتور سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "5425b690756a44c17c7eb879aea2caac4e843d2b8df217f8cb3287d40ada5c54",
+ "nh": "eb412422a36bf3577b60ad4f9dc69d564d16fc06451c8ec1f9afa2f2145bf165",
+ "chars": 16326,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-041/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-041/transcript.txt",
+   "sha256": "5425b690756a44c17c7eb879aea2caac4e843d2b8df217f8cb3287d40ada5c54",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/041_tT6NosPO_NY.txt",
+   "sha256": "5425b690756a44c17c7eb879aea2caac4e843d2b8df217f8cb3287d40ada5c54",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/041.txt",
+   "sha256": "5425b690756a44c17c7eb879aea2caac4e843d2b8df217f8cb3287d40ada5c54",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

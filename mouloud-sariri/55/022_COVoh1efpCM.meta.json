@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:COVoh1efpCM",
+ "vid": "COVoh1efpCM",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 22,
+ "n_src": "read",
+ "title": "خطب منبرية ： خصائص عباد الرحمان ⧸ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "a94f66ae3f4d411046a1afd5bd6b4ae46fa4d1ea31c8d2650ed20fbdab689fc1",
+ "nh": "490667af8d230f48c0c0b52e0e96523eba062cb71bd0106abeec26aa95b054de",
+ "chars": 12476,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/022_خطب منبرية ： خصائص عباد الرحمان ⧸ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/022_خطب منبرية ： خصائص عباد الرحمان ⧸ الشيخ العلامة مولود السريري.txt",
+   "sha256": "a94f66ae3f4d411046a1afd5bd6b4ae46fa4d1ea31c8d2650ed20fbdab689fc1",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/21.txt",
+   "sha256": "a94f66ae3f4d411046a1afd5bd6b4ae46fa4d1ea31c8d2650ed20fbdab689fc1",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

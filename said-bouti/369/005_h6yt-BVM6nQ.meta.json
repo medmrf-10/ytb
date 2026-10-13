@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:h6yt-BVM6nQ",
+ "vid": "h6yt-BVM6nQ",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--369",
+ "n": 5,
+ "n_src": "plpos",
+ "title": "5- يغالطونك إذ يقولون : العلمانية هي الحل",
+ "title_src": "yt_titles",
+ "sha256": "e3292f8a3d049241486acca909051a319a0937f43cd156171da1614b28670043",
+ "nh": "8b8d261d5ba6d6c5ac89296e62d735be237dcd2e0d1ebb9f90cb3756fca5f6a1",
+ "chars": 21267,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/369/005_5- يغالطونك إذ يقولون ： العلمانية هي الحل.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/369/005_5- يغالطونك إذ يقولون ： العلمانية هي الحل.txt",
+   "sha256": "e3292f8a3d049241486acca909051a319a0937f43cd156171da1614b28670043",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/yoghalitonak-005/transcript.txt",
+   "sha256": "003bf6e51cb413309338f2a43e0a461610ca16911ec9c3938a1ce3b177000290",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-yaghalitun/05.txt",
+   "sha256": "003bf6e51cb413309338f2a43e0a461610ca16911ec9c3938a1ce3b177000290",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/369/4.txt",
+   "sha256": "e3292f8a3d049241486acca909051a319a0937f43cd156171da1614b28670043",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

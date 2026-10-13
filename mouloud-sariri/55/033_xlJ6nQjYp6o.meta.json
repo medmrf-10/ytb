@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:xlJ6nQjYp6o",
+ "vid": "xlJ6nQjYp6o",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 33,
+ "n_src": "read",
+ "title": "خطب منبرية ： ＂ آفة الغضب ＂ ⧸ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "3c958ee3b67e624d55d3a6fbcc76f1bb41537930c4a734117767e15a01bebd68",
+ "nh": "a19f0d030fb729191a7a146b373264869204c856ef84592a688f83accbeb09ea",
+ "chars": 17905,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/033_خطب منبرية ： ＂ آفة الغضب  ＂ ⧸ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/033_خطب منبرية ： ＂ آفة الغضب  ＂ ⧸ الشيخ العلامة مولود السريري.txt",
+   "sha256": "3c958ee3b67e624d55d3a6fbcc76f1bb41537930c4a734117767e15a01bebd68",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/32.txt",
+   "sha256": "3c958ee3b67e624d55d3a6fbcc76f1bb41537930c4a734117767e15a01bebd68",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

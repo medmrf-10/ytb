@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:rr6pOctdu4o",
+ "vid": "rr6pOctdu4o",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 52,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / الشفا بتعريف حقوق المصطفى / الدكتور سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "5fe396f8d1b3fbb7f00e416bf522a3998517e49327b15f3fa5a202709187f738",
+ "nh": "9ff381fa1ab5692c95cee11aea87715819fccf7cd9bfad59aef403c0f67e33bc",
+ "chars": 29806,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-052/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-052/transcript.txt",
+   "sha256": "5fe396f8d1b3fbb7f00e416bf522a3998517e49327b15f3fa5a202709187f738",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/052_rr6pOctdu4o.txt",
+   "sha256": "5fe396f8d1b3fbb7f00e416bf522a3998517e49327b15f3fa5a202709187f738",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/052.txt",
+   "sha256": "5fe396f8d1b3fbb7f00e416bf522a3998517e49327b15f3fa5a202709187f738",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

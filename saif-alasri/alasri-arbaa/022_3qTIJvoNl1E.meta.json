@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:3qTIJvoNl1E",
+ "vid": "3qTIJvoNl1E",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 22,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء /  أعجوبة الزمان الإمام الغزالي  / د سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "29f3370aece354dbdc4ba74ebd6f3a9b3efa473fa134a41cc09ea06ca20eeb20",
+ "nh": "48f0f0b729eb74409058fc5713e4ddc5fb625469d66c9f447fc38b3c1d2a9075",
+ "chars": 23786,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-022/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-022/transcript.txt",
+   "sha256": "29f3370aece354dbdc4ba74ebd6f3a9b3efa473fa134a41cc09ea06ca20eeb20",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/022_3qTIJvoNl1E.txt",
+   "sha256": "29f3370aece354dbdc4ba74ebd6f3a9b3efa473fa134a41cc09ea06ca20eeb20",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/022.txt",
+   "sha256": "29f3370aece354dbdc4ba74ebd6f3a9b3efa473fa134a41cc09ea06ca20eeb20",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

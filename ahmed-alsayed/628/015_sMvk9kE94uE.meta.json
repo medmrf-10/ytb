@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:sMvk9kE94uE",
+ "vid": "sMvk9kE94uE",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--628",
+ "n": 15,
+ "n_src": "mutfile",
+ "title": "السيرة النبوية للمصلحين 15 ｜ الهجرة إلى المدينة ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "0281f6de1c241bcbed96169790d1e6aac371a423829af72b31775a1f8f1cc367",
+ "nh": "7eed80abdc9886b49f3e3cb9d4625d62587cf05b6820cd89874388f3937f9f7f",
+ "chars": 28368,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/628/015_السيرة النبوية للمصلحين 15 ｜ الهجرة إلى المدينة ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/628/015_السيرة النبوية للمصلحين 15 ｜ الهجرة إلى المدينة ｜ أحمد السيد.txt",
+   "sha256": "0281f6de1c241bcbed96169790d1e6aac371a423829af72b31775a1f8f1cc367",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/elsiraLilmosli7in-015/transcript.txt",
+   "sha256": "b20507e2c9ff9e7c958ad4d4029bc5e22c7406d4403125b3f8bce2b4272e1ddc",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-628/015.txt",
+   "sha256": "b20507e2c9ff9e7c958ad4d4029bc5e22c7406d4403125b3f8bce2b4272e1ddc",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

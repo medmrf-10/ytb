@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:99",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 99,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 27 ( باب في التيمم ) ｜ الشيخ محمد البردوني",
+ "title_src": "filename",
+ "sha256": "db45234890fe84632532bc24651389d64ba537313c2883bf5f8155ffa2c601b8",
+ "nh": "443d65a1866ad013b4e4c732ba7780a4d77db758b666c7694286dd0c6be197b2",
+ "chars": 21185,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/099_شرح رسالة ابن ابي زيد ｜ الدرس 27  ( باب في التيمم  ) ｜ الشيخ  محمد البردوني.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/099_شرح رسالة ابن ابي زيد ｜ الدرس 27  ( باب في التيمم  ) ｜ الشيخ  محمد البردوني.txt",
+   "sha256": "db45234890fe84632532bc24651389d64ba537313c2883bf5f8155ffa2c601b8",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/27.txt",
+   "sha256": "db45234890fe84632532bc24651389d64ba537313c2883bf5f8155ffa2c601b8",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

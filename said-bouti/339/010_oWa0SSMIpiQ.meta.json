@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:oWa0SSMIpiQ",
+ "vid": "oWa0SSMIpiQ",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--339",
+ "n": 10,
+ "n_src": "mutfile",
+ "title": "9 - الكآبة .. أسباب وعلاج العلامة البوطي العلاج من الكآبة : علاج معرفي وعلاج عملي",
+ "title_src": "filename",
+ "sha256": "0fa342e170380215da74f96ec18b42384128255be83bfed3a969ef177f23c153",
+ "nh": "df43c5839e28624c86d46e50e25a7e107344d7237674a8dda040ebae20ee8190",
+ "chars": 14159,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/339/010_9 - الكآبة .. أسباب وعلاج  العلامة البوطي  العلاج من الكآبة : علاج معرفي وعلاج عملي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/339/010_9 - الكآبة .. أسباب وعلاج  العلامة البوطي  العلاج من الكآبة : علاج معرفي وعلاج عملي.txt",
+   "sha256": "0fa342e170380215da74f96ec18b42384128255be83bfed3a969ef177f23c153",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/rihab/010_9 - الكآبة .. أسباب وعلاج  العلامة البوطي  العلاج من الكآبة : علاج معرفي وعلاج عملي.txt",
+   "sha256": "0fa342e170380215da74f96ec18b42384128255be83bfed3a969ef177f23c153",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-339/010.txt",
+   "sha256": "6f276c793560f1529a272f7094199ca74c33117394901d19040e7a8e3b556367",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

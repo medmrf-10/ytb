@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:tlwomvZbAPw",
+ "vid": "tlwomvZbAPw",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--783",
+ "n": 16,
+ "n_src": "read",
+ "title": "(16) الدرس السادس عشر ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "1a650f633e8460d86943b8f8ef0dd12fcaf2ffc2695e3acd23e349e654f68a3c",
+ "nh": "4fbd7f42c15a3cc2b3c5e7d93ca75d6ff100adf1a9e21079e3f097492060744c",
+ "chars": 12521,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/783/016_(16) الدرس السادس عشر ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/783/016_(16) الدرس السادس عشر ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "1a650f633e8460d86943b8f8ef0dd12fcaf2ffc2695e3acd23e349e654f68a3c",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/783/15.txt",
+   "sha256": "1a650f633e8460d86943b8f8ef0dd12fcaf2ffc2695e3acd23e349e654f68a3c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

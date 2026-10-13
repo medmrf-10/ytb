@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:TRnkCYV-LOY",
+ "vid": "TRnkCYV-LOY",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--661",
+ "n": 27,
+ "n_src": "mutfile",
+ "title": "خير القرون 26 ｜ المعلم المربي ｜ ابن مسعود 1 ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "2fbb00abbfc6cae7dd1623f1c07f367bcb75d073106ff402c09f945bfb36c0fe",
+ "nh": "dc042b50f43e9f4a6fbed9df5113cba0bd33d8ffb2be5162a7274e457fba9dfa",
+ "chars": 24170,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/661/027_خير القرون 26 ｜ المعلم المربي ｜ ابن مسعود 1 ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/661/027_خير القرون 26 ｜ المعلم المربي ｜ ابن مسعود 1 ｜ أحمد السيد.txt",
+   "sha256": "2fbb00abbfc6cae7dd1623f1c07f367bcb75d073106ff402c09f945bfb36c0fe",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-661/027.txt",
+   "sha256": "a76aff3909a4dabca40d36bb171a92f5cbd060e3cfb89d30c6f9b4d573eae76a",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:MMU384FDL08",
+ "vid": "MMU384FDL08",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--984",
+ "n": 10,
+ "n_src": "read",
+ "title": "شرح أم البراهين ｜ الدرس 27 ( قوله ＂ برهان وجوب الوحدانية لله سبحانه ＂ ) ｜ الشيخ",
+ "title_src": "filename",
+ "sha256": "ee834dacd56ebabc70f292dfb50275fa2fb9ba522e2f790d12dd84e52fd9f817",
+ "nh": "80fbeedaa91d8b2d748d2a8f5dbf65d37886e8ac8170c2429b2d84d9b62e72a1",
+ "chars": 31153,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/984/010_شرح أم البراهين ｜ الدرس 27 ( قوله ＂ برهان وجوب الوحدانية لله سبحانه  ＂ ) ｜ الشيخ.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/984/010_شرح أم البراهين ｜ الدرس 27 ( قوله ＂ برهان وجوب الوحدانية لله سبحانه  ＂ ) ｜ الشيخ.txt",
+   "sha256": "ee834dacd56ebabc70f292dfb50275fa2fb9ba522e2f790d12dd84e52fd9f817",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasimi/um-baraheen/9.txt",
+   "sha256": "ee834dacd56ebabc70f292dfb50275fa2fb9ba522e2f790d12dd84e52fd9f817",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/743/9.txt",
+   "sha256": "ee834dacd56ebabc70f292dfb50275fa2fb9ba522e2f790d12dd84e52fd9f817",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "adham-alasimi--743",
+  "adham-alasimi--alasimi-um-baraheen"
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:dwnpDlcnvpE",
+ "vid": "dwnpDlcnvpE",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--408",
+ "n": 5,
+ "n_src": "read",
+ "title": "5- الجديد في إعجاز القرآن الكريم ｜ (وجعل القمر فيهن نوراً وجعل الشمس سراجاً)",
+ "title_src": "filename",
+ "sha256": "020183a0eac2783f5e9f8e36c39f457adc814c652e39f7efc7c439f65cab8108",
+ "nh": "aa72e1d2863fd10b22a6e2e70aabef513449f2658ac494e78b52f790db7cf30b",
+ "chars": 12042,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/408/005_5- الجديد في إعجاز  القرآن الكريم ｜ (وجعل القمر فيهن نوراً وجعل الشمس سراجاً).txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/408/005_5- الجديد في إعجاز  القرآن الكريم ｜ (وجعل القمر فيهن نوراً وجعل الشمس سراجاً).txt",
+   "sha256": "020183a0eac2783f5e9f8e36c39f457adc814c652e39f7efc7c439f65cab8108",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/408/4.txt",
+   "sha256": "020183a0eac2783f5e9f8e36c39f457adc814c652e39f7efc7c439f65cab8108",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:g6tLh2Ucrpk",
+ "vid": "g6tLh2Ucrpk",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--92",
+ "n": 4,
+ "n_src": "read",
+ "title": "إعلان برنامج： آمنت بالله - الحبيب علي الجفري",
+ "title_src": "filename",
+ "sha256": "409523f710e5a9eb9a7c38770c91ef45bf17179a752af5e52d27e36023f38993",
+ "nh": "b7c674ac11687c0287c627060cdce583568bfea61534d42e609c45b1903444e6",
+ "chars": 1075,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/92/004_إعلان برنامج： آمنت بالله - الحبيب علي الجفري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/92/004_إعلان برنامج： آمنت بالله - الحبيب علي الجفري.txt",
+   "sha256": "409523f710e5a9eb9a7c38770c91ef45bf17179a752af5e52d27e36023f38993",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/92/3.txt",
+   "sha256": "409523f710e5a9eb9a7c38770c91ef45bf17179a752af5e52d27e36023f38993",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

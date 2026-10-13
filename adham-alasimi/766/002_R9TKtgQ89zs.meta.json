@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:R9TKtgQ89zs",
+ "vid": "R9TKtgQ89zs",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--766",
+ "n": 2,
+ "n_src": "read",
+ "title": "الدرس السابع ⧸ شرح متن السلم المنورق ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "a2a405256f8bb686b795a831cf9bb316d1223fb8423c26932518356898c23e70",
+ "nh": "26f31cdcfd4b21de344ed975e8c1a00d119661fe73af1778f6c9e85d8c9441f3",
+ "chars": 18772,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/766/002_الدرس السابع ⧸ شرح متن السلم المنورق ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/766/002_الدرس السابع ⧸ شرح متن السلم المنورق ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "a2a405256f8bb686b795a831cf9bb316d1223fb8423c26932518356898c23e70",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/766/1.txt",
+   "sha256": "a2a405256f8bb686b795a831cf9bb316d1223fb8423c26932518356898c23e70",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

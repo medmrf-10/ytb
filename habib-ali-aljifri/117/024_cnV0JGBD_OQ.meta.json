@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:cnV0JGBD_OQ",
+ "vid": "cnV0JGBD_OQ",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--117",
+ "n": 24,
+ "n_src": "read",
+ "title": "حلقة 23 - إن منكم منفرين - سلسلة الإنسانية قبل التدين",
+ "title_src": "filename",
+ "sha256": "0e2ac8c8559ce664a5edf82641a87296c65f3761ca6846181abae452ecb0cd2b",
+ "nh": "ac72ee3115ec240dc265d101bc410d8b277ebd70fb7de48b19466638b2c31a30",
+ "chars": 1460,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/117/024_حلقة 23 - إن منكم منفرين - سلسلة الإنسانية قبل التدين.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/117/024_حلقة 23 - إن منكم منفرين - سلسلة الإنسانية قبل التدين.txt",
+   "sha256": "0e2ac8c8559ce664a5edf82641a87296c65f3761ca6846181abae452ecb0cd2b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/insaniyya/36.txt",
+   "sha256": "0e2ac8c8559ce664a5edf82641a87296c65f3761ca6846181abae452ecb0cd2b",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/112/36.txt",
+   "sha256": "0e2ac8c8559ce664a5edf82641a87296c65f3761ca6846181abae452ecb0cd2b",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-ali-aljifri--112",
+  "k:117"
+ ]
+}

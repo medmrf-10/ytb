@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:Zi5NoigBdbI",
+ "vid": "Zi5NoigBdbI",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 69,
+ "n_src": "plpos",
+ "title": "And God knows best | His Eminence Dr. Ali Gomaa speaks about the righteous saints of God | Full e...",
+ "title_src": "yt_titles",
+ "sha256": "1f1320dc11768ec7d3893e400af702c71be68bbeb61d7aa77c024fc0bd11d46c",
+ "nh": "5df864fc6100434f4857cd9e7f0af349596187faa2d00577d6ac982be380778e",
+ "chars": 20257,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/069_والله أعلم ｜ فضيلة الدكتور علي جمعة يتحدث عن أولياء الله الصالحين ｜ الحلقة الكام.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/069_والله أعلم ｜ فضيلة الدكتور علي جمعة يتحدث عن أولياء الله الصالحين ｜ الحلقة الكام.txt",
+   "sha256": "1f1320dc11768ec7d3893e400af702c71be68bbeb61d7aa77c024fc0bd11d46c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/069_والله أعلم ｜ فضيلة الدكتور علي جمعة يتحدث عن أولياء الله الصالحين ｜ الحلقة الكام.txt",
+   "sha256": "1f1320dc11768ec7d3893e400af702c71be68bbeb61d7aa77c024fc0bd11d46c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/069.txt",
+   "sha256": "d16a2a40fab0d3935907c4c8b6db67337beb507dfb2f4ad4176ff55cc4e414c3",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

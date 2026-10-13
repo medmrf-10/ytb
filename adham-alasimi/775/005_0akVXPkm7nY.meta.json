@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:0akVXPkm7nY",
+ "vid": "0akVXPkm7nY",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--775",
+ "n": 5,
+ "n_src": "read",
+ "title": "(05) الغريب + حكم الآحاد ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "0b60720ef2ecc323055fa86d59b5c1c9618309a4f6b39894251e66169fdf085a",
+ "nh": "18a8941c84637da195d13b4d73cdd94e9f4deefa540f876f7bcf9751cbae82bb",
+ "chars": 20087,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/775/005_(05) الغريب + حكم الآحاد ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/775/005_(05) الغريب + حكم الآحاد ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "0b60720ef2ecc323055fa86d59b5c1c9618309a4f6b39894251e66169fdf085a",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/775/4.txt",
+   "sha256": "0b60720ef2ecc323055fa86d59b5c1c9618309a4f6b39894251e66169fdf085a",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

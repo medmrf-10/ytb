@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:kHKg-7RNAjY",
+ "vid": "kHKg-7RNAjY",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 55,
+ "n_src": "read",
+ "title": "خطب منبرية： فقه الاستنجاء ـ بدع عيد الأضحى ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "0564d8315a47e94d20a4b2c91897ce28420b85641d67fd3e48f994a90f65ab31",
+ "nh": "852be3f696e4ea9769c872b922d7fc488e32305b8780038a1d12111c56a76880",
+ "chars": 9190,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/055_خطب منبرية： فقه الاستنجاء ـ بدع عيد الأضحى ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/055_خطب منبرية： فقه الاستنجاء ـ بدع عيد الأضحى ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "0564d8315a47e94d20a4b2c91897ce28420b85641d67fd3e48f994a90f65ab31",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/54.txt",
+   "sha256": "0564d8315a47e94d20a4b2c91897ce28420b85641d67fd3e48f994a90f65ab31",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

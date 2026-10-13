@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:SVdXxxGyYVs",
+ "vid": "SVdXxxGyYVs",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--369",
+ "n": 37,
+ "n_src": "plpos",
+ "title": "37- يغالطونك إذ يقولون : وأخيراً، العولمة تعاون عالمي ندي، لا تبعية لقطب متسلط",
+ "title_src": "yt_titles",
+ "sha256": "f7cb23cbfb820861f3fc8748ebb39cad85bec529fda9a1c1393d5fa0f1713658",
+ "nh": "2bfb0e64d8a611702e067eadd14b43273573e501d54b091451a9b7e6b3df01ea",
+ "chars": 17139,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/369/037_37- يغالطونك إذ يقولون ： وأخيراً، العولمة تعاون عالمي ندي، لا تبعية لقطب متسلط.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/369/037_37- يغالطونك إذ يقولون ： وأخيراً، العولمة تعاون عالمي ندي، لا تبعية لقطب متسلط.txt",
+   "sha256": "f7cb23cbfb820861f3fc8748ebb39cad85bec529fda9a1c1393d5fa0f1713658",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/yoghalitonak-037/transcript.txt",
+   "sha256": "c03685485f9d2e9b5e7e8f07b6f2f4df3c0342878fcd1741dbb013a0ddfd0588",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-yaghalitun/37.txt",
+   "sha256": "c03685485f9d2e9b5e7e8f07b6f2f4df3c0342878fcd1741dbb013a0ddfd0588",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/369/36.txt",
+   "sha256": "f7cb23cbfb820861f3fc8748ebb39cad85bec529fda9a1c1393d5fa0f1713658",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

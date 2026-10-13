@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:HeK0TX-74uo",
+ "vid": "HeK0TX-74uo",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--408",
+ "n": 29,
+ "n_src": "read",
+ "title": "29- الجديد في إعجاز القرآن الكريم ｜ هل الحور العين للرجال فقط ؟",
+ "title_src": "filename",
+ "sha256": "27c3690ab6dd51890c5629a7c655412c02cbab0a7c2a6237d3930cbde0078d0c",
+ "nh": "8679877be36b2cbdffd013390b510ba10f96c9faf95a420411f8530e4bc4ba8a",
+ "chars": 13146,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/408/029_29- الجديد في إعجاز القرآن الكريم ｜ هل الحور العين للرجال فقط ؟.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/408/029_29- الجديد في إعجاز القرآن الكريم ｜ هل الحور العين للرجال فقط ؟.txt",
+   "sha256": "27c3690ab6dd51890c5629a7c655412c02cbab0a7c2a6237d3930cbde0078d0c",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/408/28.txt",
+   "sha256": "27c3690ab6dd51890c5629a7c655412c02cbab0a7c2a6237d3930cbde0078d0c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

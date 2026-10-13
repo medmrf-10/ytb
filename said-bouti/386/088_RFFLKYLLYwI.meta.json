@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:RFFLKYLLYwI",
+ "vid": "RFFLKYLLYwI",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 88,
+ "n_src": "read",
+ "title": "الحكم العطائية للعلامة البوطي ｜ الدرس 234 - الحكمة 211",
+ "title_src": "filename",
+ "sha256": "c2c15e5d906df3e670532b021599f1b6f785c26b48748fcd83e2ee0e743f7352",
+ "nh": "1dcfe335ef8098e8b3f0067de9e1192a429e7e930d4af174edd6f5da590f94bf",
+ "chars": 17881,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/088_الحكم العطائية للعلامة البوطي ｜ الدرس 234 - الحكمة 211.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/088_الحكم العطائية للعلامة البوطي ｜ الدرس 234 - الحكمة 211.txt",
+   "sha256": "c2c15e5d906df3e670532b021599f1b6f785c26b48748fcd83e2ee0e743f7352",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/hikam/088_الحكم العطائية للعلامة البوطي ｜ الدرس 234 - الحكمة 211.txt",
+   "sha256": "c2c15e5d906df3e670532b021599f1b6f785c26b48748fcd83e2ee0e743f7352",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/088_الحكم العطائية للعلامة البوطي ｜ الدرس 234 - الحكمة 211.txt",
+   "sha256": "c2c15e5d906df3e670532b021599f1b6f785c26b48748fcd83e2ee0e743f7352",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/386/231.txt",
+   "sha256": "c2c15e5d906df3e670532b021599f1b6f785c26b48748fcd83e2ee0e743f7352",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

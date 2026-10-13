@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:vNTM31P6dVw",
+ "vid": "vNTM31P6dVw",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--123",
+ "n": 11,
+ "n_src": "read",
+ "title": "أيها المريد ｜ الحلقة 11 ｜ عقبة العوائق – عائق الخلق ｜ علي الجفري ｜ English Subti",
+ "title_src": "filename",
+ "sha256": "cec1f474812956f7ede9b8a9b859481bd2d4bf04c7b1de7264aaddd92c732047",
+ "nh": "75f61ed63af9273dff6c2e0ce65588d0ff01ede10bb6e15d534a29276fa07bfb",
+ "chars": 13387,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/123/011_أيها المريد ｜ الحلقة 11 ｜ عقبة العوائق – عائق الخلق ｜ علي الجفري ｜ English Subti.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/123/011_أيها المريد ｜ الحلقة 11 ｜ عقبة العوائق – عائق الخلق ｜ علي الجفري ｜ English Subti.txt",
+   "sha256": "cec1f474812956f7ede9b8a9b859481bd2d4bf04c7b1de7264aaddd92c732047",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/mut-123/011_أيها المريد ｜ الحلقة 11 ｜ عقبة العوائق – عائق الخلق ｜ علي الجفري ｜ English Subti.txt",
+   "sha256": "e2bdb09e0ac8acc0b33635060db65d1bd383d2066534d8a387a89dee7b7ff5a1",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

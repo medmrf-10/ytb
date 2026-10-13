@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:76vXkPVYA-o",
+ "vid": "76vXkPVYA-o",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-mughni",
+ "n": 26,
+ "n_src": "trfile",
+ "title": "الدرس 26",
+ "title_src": "filename",
+ "sha256": "eed762998af335fa96f38af455c211ac3a31ce7db8ae7ced34891f2a25b9c2f0",
+ "nh": "7f0f584de997cd0cf50369ac219155fd61b6e1a649c7567cbd95f1b567e4f210",
+ "chars": 31382,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriMughni-026/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriMughni-026/transcript.txt",
+   "sha256": "eed762998af335fa96f38af455c211ac3a31ce7db8ae7ced34891f2a25b9c2f0",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/mughni/mughni-26_AlAmri.txt",
+   "sha256": "eed762998af335fa96f38af455c211ac3a31ce7db8ae7ced34891f2a25b9c2f0",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-mughni/26.txt",
+   "sha256": "eed762998af335fa96f38af455c211ac3a31ce7db8ae7ced34891f2a25b9c2f0",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:RWuIFSyYlKA",
+ "vid": "RWuIFSyYlKA",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--783",
+ "n": 22,
+ "n_src": "read",
+ "title": "(22) الدرس الثاني و العشرون ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "83050319683aaf8ed9eb7a05e9b796c490f8c5d0d807614ec738e931cdf97f3e",
+ "nh": "06ec45a1fe4fcd8847b13ee432b7b70b3c44970ac2dcd330e7a2d3ad9221d5cc",
+ "chars": 5385,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/783/022_(22) الدرس الثاني و العشرون ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/783/022_(22) الدرس الثاني و العشرون ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "83050319683aaf8ed9eb7a05e9b796c490f8c5d0d807614ec738e931cdf97f3e",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/783/21.txt",
+   "sha256": "83050319683aaf8ed9eb7a05e9b796c490f8c5d0d807614ec738e931cdf97f3e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

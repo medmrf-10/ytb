@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:92",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 92,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 34 ( قوله ＂ثم إذا فرغت من التسبيح من الركوع ＂) ｜",
+ "title_src": "filename",
+ "sha256": "5f3ea96660a045a53ddad528ed8c7e00a267ae4ffd4dae72ced2c4224636588c",
+ "nh": "b7fa28f82783fff18a5f44a1e8227346be26f9090fdbda1fc3276ccc0124c077",
+ "chars": 27855,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/092_شرح رسالة ابن ابي زيد ｜ الدرس 34  ( قوله ＂ثم إذا فرغت من التسبيح من الركوع ＂) ｜ .txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/092_شرح رسالة ابن ابي زيد ｜ الدرس 34  ( قوله ＂ثم إذا فرغت من التسبيح من الركوع ＂) ｜ .txt",
+   "sha256": "5f3ea96660a045a53ddad528ed8c7e00a267ae4ffd4dae72ced2c4224636588c",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/34.txt",
+   "sha256": "5f3ea96660a045a53ddad528ed8c7e00a267ae4ffd4dae72ced2c4224636588c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

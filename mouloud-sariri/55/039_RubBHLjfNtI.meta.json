@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:RubBHLjfNtI",
+ "vid": "RubBHLjfNtI",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 39,
+ "n_src": "read",
+ "title": "خطب منبرية：＂ من علامة الصالحين： زيادة الإيمان عند المحن＂ ｜ الشيخ العلامة مولود",
+ "title_src": "filename",
+ "sha256": "468ffb3246efe405ed191377eeb765e5a9ec7dc0091a0da6ecfa9fd26546e932",
+ "nh": "0aa7d09d7b6194d13b21cf6eed0ee3b70205a648c0b6a4b22b42d795b1d8722e",
+ "chars": 8998,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/039_خطب منبرية：＂ من علامة الصالحين： زيادة الإيمان عند المحن＂  ｜ الشيخ العلامة مولود .txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/039_خطب منبرية：＂ من علامة الصالحين： زيادة الإيمان عند المحن＂  ｜ الشيخ العلامة مولود .txt",
+   "sha256": "468ffb3246efe405ed191377eeb765e5a9ec7dc0091a0da6ecfa9fd26546e932",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/38.txt",
+   "sha256": "468ffb3246efe405ed191377eeb765e5a9ec7dc0091a0da6ecfa9fd26546e932",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

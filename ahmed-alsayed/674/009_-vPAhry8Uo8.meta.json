@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:-vPAhry8Uo8",
+ "vid": "-vPAhry8Uo8",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--674",
+ "n": 9,
+ "n_src": "read",
+ "title": "الدرس 9",
+ "title_src": "filename",
+ "sha256": "cecc1cbc5efb6c87cf653862620cb63c3efcfafeb5b23c739ddf3822dde8140a",
+ "nh": "f089e528181da2522d848df9fbffff80cf39b77bec6a9ba1b5eacbd0f9a2d938",
+ "chars": 27498,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/alsayed/mut-674/009.txt",
+  "commit_ts": 1791587745,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alsayed/mut-674/009.txt",
+   "sha256": "cecc1cbc5efb6c87cf653862620cb63c3efcfafeb5b23c739ddf3822dde8140a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-674/009.txt",
+   "sha256": "cecc1cbc5efb6c87cf653862620cb63c3efcfafeb5b23c739ddf3822dde8140a",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

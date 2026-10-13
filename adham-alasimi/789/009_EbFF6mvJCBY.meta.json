@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:EbFF6mvJCBY",
+ "vid": "EbFF6mvJCBY",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--789",
+ "n": 9,
+ "n_src": "read",
+ "title": "الوعي وفقه المآلات ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "5841afc03ff3a01156040d404d1e757772808357a86d8040dc3d014f74d98b57",
+ "nh": "9a2986b34b1872382aae7ca168cd7059ed688efb84ce0b5d2e886b04c0670db9",
+ "chars": 15852,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/789/009_الوعي وفقه المآلات ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/789/009_الوعي وفقه المآلات ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "5841afc03ff3a01156040d404d1e757772808357a86d8040dc3d014f74d98b57",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/789/8.txt",
+   "sha256": "5841afc03ff3a01156040d404d1e757772808357a86d8040dc3d014f74d98b57",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

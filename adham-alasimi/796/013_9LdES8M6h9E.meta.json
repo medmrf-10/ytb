@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:9LdES8M6h9E",
+ "vid": "9LdES8M6h9E",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--796",
+ "n": 13,
+ "n_src": "read",
+ "title": "(13) حالات (أن) المصدرية ⧸ قطر الندى ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "2def3b169fe90dfd5d92850b33e927db4a6772f26781ec1c5178eb0ad5bb7803",
+ "nh": "62f8773b54d27a67f03bf078837c5060ae4841aa36e5847be68006cf432fc740",
+ "chars": 18312,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/796/013_(13) حالات (أن) المصدرية ⧸ قطر الندى ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/796/013_(13) حالات (أن) المصدرية ⧸ قطر الندى ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "2def3b169fe90dfd5d92850b33e927db4a6772f26781ec1c5178eb0ad5bb7803",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/796/12.txt",
+   "sha256": "2def3b169fe90dfd5d92850b33e927db4a6772f26781ec1c5178eb0ad5bb7803",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

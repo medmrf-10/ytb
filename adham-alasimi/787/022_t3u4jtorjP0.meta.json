@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:t3u4jtorjP0",
+ "vid": "t3u4jtorjP0",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--787",
+ "n": 22,
+ "n_src": "read",
+ "title": "(22) جمع المقصور والمنقوص ⧸ دورة النحو المستوى الثاني ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "0ec49d736e42af9c218f0585a6aaa10663de19d502a5f59b6dd8d1517e3dec7d",
+ "nh": "396d4418f01bb1503eb307689b3faa69dc02e2cdbbf6d4c7ca2695d4d12841ae",
+ "chars": 20531,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/787/022_(22) جمع المقصور والمنقوص ⧸ دورة النحو المستوى الثاني ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/787/022_(22) جمع المقصور والمنقوص ⧸ دورة النحو المستوى الثاني ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "0ec49d736e42af9c218f0585a6aaa10663de19d502a5f59b6dd8d1517e3dec7d",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/787/21.txt",
+   "sha256": "0ec49d736e42af9c218f0585a6aaa10663de19d502a5f59b6dd8d1517e3dec7d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

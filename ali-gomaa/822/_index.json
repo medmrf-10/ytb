@@ -1,0 +1,1864 @@
+{
+ "coverage": 0.9635,
+ "declared_total": 192,
+ "lessons": [
+  {
+   "chars": 17103,
+   "file": "001_J1_qA5o9_yw.txt",
+   "n": 1,
+   "quality": "ok",
+   "sha256": "ff6a6dd119726ac7b7ee2d297d3a47fc894aa11c0d85ab63340b40317695a1fe",
+   "title": "المتشددون | حـ 1 | لمحة تاريخية حول النهضة وأثر الحملة الفرنسية عليها | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "J1_qA5o9_yw"
+  },
+  {
+   "chars": 15931,
+   "file": "002_ip_ybbeC_jc.txt",
+   "n": 2,
+   "quality": "ok",
+   "sha256": "78851161fe752fb89536d88bcedb64d075d128b3f81b57e0a5991bda4062642c",
+   "title": "المتشددون | حـ 2 | تابع لمحة تاريخية حول النهضة وأثر الحملة الفرنسية عليها | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "ip_ybbeC_jc"
+  },
+  {
+   "chars": 15923,
+   "file": "003_XIjSGfLacKo.txt",
+   "n": 3,
+   "quality": "ok",
+   "sha256": "7b46c7eb71eed6e00ef97d03c47543d596223cb5fb4f22ae78819933d40f8e7c",
+   "title": "المتشددون | حـ 3 | الخديوي اسماعيل والنهضة | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "XIjSGfLacKo"
+  },
+  {
+   "chars": 16845,
+   "file": "004_dHplEH8VIN8.txt",
+   "n": 4,
+   "quality": "ok",
+   "sha256": "ce33227a7d303fdef8693544071020770caa2c795a4a4a86acb14da8c8136354",
+   "title": "المتشددون | حـ 4 | التجربة المصرية في وضع قوانين حديثة منبثقة عن الشريعة الإسلامية | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "dHplEH8VIN8"
+  },
+  {
+   "chars": 16027,
+   "file": "005_afTGoc1NGnM.txt",
+   "n": 5,
+   "quality": "ok",
+   "sha256": "af12afc265fc988dbf7623a1537e8a4397294a1e26d4c4bea296bbbf0c3778ee",
+   "title": "المتشددون | حـ 5 | عبد الرزاق باشا السنهوري والنهضة | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "afTGoc1NGnM"
+  },
+  {
+   "chars": 2257,
+   "file": "006.txt",
+   "n": 6,
+   "quality": "ok",
+   "sha256": "df078c0242e90aee3c64251a597b58142b769697683c4320f1203f52af634c6c",
+   "title": "المتشددون ｜ حـ 6 ｜ رفاعة الطهطاوي والنهضة ｜ أ.د علي جمعة",
+   "variants": 0,
+   "vid": null
+  },
+  {
+   "chars": 17195,
+   "file": "007_IIlfOO1LQCY.txt",
+   "n": 7,
+   "quality": "ok",
+   "sha256": "719e230aaeaa5ba0ddc374d5b98e92905341783b19dc1544ef64b9446362b245",
+   "title": "المتشددون | حـ 7 | جمال الدين الأفغاني ومحمد عبده والنهضة | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "IIlfOO1LQCY"
+  },
+  {
+   "chars": 17609,
+   "file": "008_EJI1semjDHo.txt",
+   "n": 8,
+   "quality": "ok",
+   "sha256": "a4b2d97f9e95ffbaf79ca33056059064e901bd7c9a18fcac47561f5c8946f5c2",
+   "title": "المتشددون | حـ 8 | الشيخ أحمد زروق والنهضة من خلال سفينة النجا لمن إلى الله إلتجا | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "EJI1semjDHo"
+  },
+  {
+   "chars": 15471,
+   "file": "009_Y5-mjArnETA.txt",
+   "n": 9,
+   "quality": "ok",
+   "sha256": "16a63deb8d6d2d894b0f8b6aaa7d1b26b214a1adcfbcc7bb93a23c45d6ec5358",
+   "title": "المتشددون | حـ 9 | حسن البنا فيما أصاب وفيما أخطأ؟ جـ1 | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "Y5-mjArnETA"
+  },
+  {
+   "chars": 17076,
+   "file": "011_6GVEnBb_Ins.txt",
+   "n": 11,
+   "quality": "ok",
+   "sha256": "a93804d71809049fbae3f55649a8a469abcf2f6ebc8a53593ccdf0a4d1ab88ed",
+   "title": "المتشددون | حـ 11 | حسن البنا فيما أصاب وفيما أخطأ؟ جـ3 | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "6GVEnBb_Ins"
+  },
+  {
+   "chars": 16982,
+   "file": "012_DzfuFxNfWds.txt",
+   "n": 12,
+   "quality": "ok",
+   "sha256": "d2051af3e031f4ae8960b7c06b0fd4e7114fe68a4258d5d89b94284fb9bdf499",
+   "title": "المتشددون | حـ 12 | حسن البنا فيما أصاب وفيما أخطأ؟ جـ4 | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "DzfuFxNfWds"
+  },
+  {
+   "chars": 15314,
+   "file": "013_Rdq271Hkj2E.txt",
+   "n": 13,
+   "quality": "ok",
+   "sha256": "b5895fd5fd8641429d7617630bb6d408c596db676b12dae90c3e9e9518f52695",
+   "title": "المتشددون | حـ 13 | مفهوم نظرية الهرم المقلوب | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "Rdq271Hkj2E"
+  },
+  {
+   "chars": 9112,
+   "file": "014.txt",
+   "n": 14,
+   "quality": "ok",
+   "sha256": "4727c4833ca1a3c9987aacc1ff09cd8915a71e9434f90eb04e74c13e6e06abca",
+   "title": "المتشددون ｜ حـ 14 ｜ سيد قطب ماله وما عليه جـ 1 ｜ أ.د علي جمعة",
+   "variants": 0,
+   "vid": null
+  },
+  {
+   "chars": 16442,
+   "file": "015_qGK9EEVbOnc.txt",
+   "n": 15,
+   "quality": "ok",
+   "sha256": "bfc33ecc03f046b086ffd7761685c32e021ed2cc630bb47c7b6c6835c169c84e",
+   "title": "المتشددون | حـ 15 | سيد قطب ماله وما عليه جـ 2 | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "qGK9EEVbOnc"
+  },
+  {
+   "chars": 16163,
+   "file": "016_hTI-IB_JP9U.txt",
+   "n": 16,
+   "quality": "ok",
+   "sha256": "24ea4f49b8d2f77bc20940890b5a73a1fc2b99c7e11a0a3f97a4e2b5eeb2ce6d",
+   "title": "المتشددون | حـ 16 | سيد قطب ماله وما عليه جـ 3 | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "hTI-IB_JP9U"
+  },
+  {
+   "chars": 14272,
+   "file": "017_NFCV9p71SZY.txt",
+   "n": 17,
+   "quality": "ok",
+   "sha256": "6caa8349c73016ca7f671feda3987cf79213250c4301c187abf916da9c93e029",
+   "title": "المتشددون | حـ 17 | سيد قطب ماله وما عليه جـ 4 | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "NFCV9p71SZY"
+  },
+  {
+   "chars": 15035,
+   "file": "018_PrtYAOtu6j4.txt",
+   "n": 18,
+   "quality": "ok",
+   "sha256": "f133d62f9210c5aad36ce11634ff95aecdc4e6473d62d9ccf2c905580d729e64",
+   "title": "المتشددون | حـ 18 | سيد قطب ماله وما عليه جـ 5 | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "PrtYAOtu6j4"
+  },
+  {
+   "chars": 15231,
+   "file": "019_YqPVLdr7xZs.txt",
+   "n": 19,
+   "quality": "ok",
+   "sha256": "48227b86672452e7422d49a26148dedd3caace921a8015f5202b7dc46d705514",
+   "title": "المتشددون | حـ 19 | سيد قطب ماله وما عليه جـ 6 | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "YqPVLdr7xZs"
+  },
+  {
+   "chars": 9206,
+   "file": "020.txt",
+   "n": 20,
+   "quality": "ok",
+   "sha256": "2000485fc4be27f82f78300fe8b95503975b84bac915c882371b9f2d49415ed9",
+   "title": "المتشددون ｜ حـ 20 ｜ سيد قطب ماله وما عليه جـ 7 ｜ أ.د علي جمعة",
+   "variants": 0,
+   "vid": null
+  },
+  {
+   "chars": 16763,
+   "file": "021_oBY1vKdsXO0.txt",
+   "n": 21,
+   "quality": "ok",
+   "sha256": "c200582e9a29515e8179c7f29f077f2925f08e11b539ae63b529d27eb1039b43",
+   "title": "المتشددون | حـ 21 | سيد قطب ماله وما عليه جـ 8 | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "oBY1vKdsXO0"
+  },
+  {
+   "chars": 15601,
+   "file": "022_VJQbC8zNweE.txt",
+   "n": 22,
+   "quality": "ok",
+   "sha256": "bc9c154a1110546289f58a92ce05e6214657d51edbddeaf4c141e7660a26c08d",
+   "title": "المتشددون | حـ 22 | سيد قطب ماله وما عليه جـ 9 | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "VJQbC8zNweE"
+  },
+  {
+   "chars": 15363,
+   "file": "023_AJTk9Pe2b1U.txt",
+   "n": 23,
+   "quality": "ok",
+   "sha256": "97989d4d1705c1754a983fe730e2f6222c417cccbffd84abe8fa56c68f21c925",
+   "title": "المتشددون | حـ 23 | مفهوم الحاكمية عند سيد قطب | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "AJTk9Pe2b1U"
+  },
+  {
+   "chars": 16911,
+   "file": "025_nNL8FkYhDJs.txt",
+   "n": 25,
+   "quality": "ok",
+   "sha256": "aff14fb1a251aafe13bb97a1b9e2aa6384187f915f9cf296af3b38bdfee8e0cc",
+   "title": "المتشددون | حـ 25 | مفهوم دار الكفر ودار الإسلام | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "nNL8FkYhDJs"
+  },
+  {
+   "chars": 17021,
+   "file": "026_FXbF1Hp5GVU.txt",
+   "n": 26,
+   "quality": "ok",
+   "sha256": "61ad7f30405cb40e01a2b99904b743c2792f8c3e49584049cf25f4786c461968",
+   "title": "المتشددون | حـ 26 | مفهوم الجهاد | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "FXbF1Hp5GVU"
+  },
+  {
+   "chars": 14989,
+   "file": "027_L_iLur-QWEk.txt",
+   "n": 27,
+   "quality": "ok",
+   "sha256": "cd78538866647f6669fb16a945dfc589c59baf1599ca00d2322935f9c9d67977",
+   "title": "المتشددون | حـ 27 | مفهوم التمكين | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "L_iLur-QWEk"
+  },
+  {
+   "chars": 15462,
+   "file": "028_vZyZ-8qFto0.txt",
+   "n": 28,
+   "quality": "ok",
+   "sha256": "ce0755dc0de9ff6fc5ba86e68a634f69f6df2f26d6d259a5f7b7049707733483",
+   "title": "المتشددون | حـ 28 |  يصلح سيد قطب للقيادة الفكرية جـ1 | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "vZyZ-8qFto0"
+  },
+  {
+   "chars": 14637,
+   "file": "029_lTMtPxCSh0s.txt",
+   "n": 29,
+   "quality": "ok",
+   "sha256": "b08297ad5d3468cc83d5514466104db0c4a82c41c472c3ee98f18c7e21a2f332",
+   "title": "المتشددون | حـ 29 | يصلح سيد قطب للقيادة الفكرية جـ2 | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "lTMtPxCSh0s"
+  },
+  {
+   "chars": 16990,
+   "file": "030_bCIhEGdaXn4.txt",
+   "n": 30,
+   "quality": "ok",
+   "sha256": "a849d38c0273a13d7f4863c9b88b74380de1fdedbf17a80d3d89d1627925c1f0",
+   "title": "المتشددون | حـ 30 | يصلح سيد قطب للقيادة الفكرية جـ3 | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "bCIhEGdaXn4"
+  },
+  {
+   "chars": 16629,
+   "file": "031_EeCrhaFrimQ.txt",
+   "n": 31,
+   "quality": "ok",
+   "sha256": "fdd8e9158d961b00d6623685e7e359540a85f4af526ccca6c5f83534981a0200",
+   "title": "المتشددون | حـ 31 | يصلح سيد قطب للقيادة الفكرية جـ4 | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "EeCrhaFrimQ"
+  },
+  {
+   "chars": 18055,
+   "file": "032_p9nzsk95pSQ.txt",
+   "n": 32,
+   "quality": "ok",
+   "sha256": "b47324f9862086cc0c72230071e4d544e4b06388346b9a7cf0852de43166e172",
+   "title": "المتشددون | حـ 32 | أفكار سيد قطب وما أنتجته جـ1 | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "p9nzsk95pSQ"
+  },
+  {
+   "chars": 15878,
+   "file": "033_vJ35UuSCwv8.txt",
+   "n": 33,
+   "quality": "ok",
+   "sha256": "53a19cfe8d3531f635ac945f01797787bc817157338ee5ca36aef6e695134f61",
+   "title": "المتشددون | حـ 33 | أفكار سيد قطب وما أنتجته جـ2 | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "vJ35UuSCwv8"
+  },
+  {
+   "chars": 16145,
+   "file": "034_TvKkytX7mTk.txt",
+   "n": 34,
+   "quality": "ok",
+   "sha256": "8ab66ab2f9122d98b10994436b2b00cc30b2be08831a6dc86b3370b4aa82e752",
+   "title": "المتشددون | حـ 34 | أفكار سيد قطب وما أنتجته جـ3 | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "TvKkytX7mTk"
+  },
+  {
+   "chars": 16794,
+   "file": "035_APcq7kItR2A.txt",
+   "n": 35,
+   "quality": "ok",
+   "sha256": "88cf97e0c43e2915c8ddda3f551f80e08a638b7ca61e9142087448d03c9bc52f",
+   "title": "المتشددون | حـ 35 | الأوهام العشرة لجماعة الإخوان والتكفيريون جـ1 | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "APcq7kItR2A"
+  },
+  {
+   "chars": 15320,
+   "file": "036_5-E0AeVGa_A.txt",
+   "n": 36,
+   "quality": "ok",
+   "sha256": "3af12a1f5a4fc0d80b175e04d7691e5e918ea804bada5b10a88f7761b4724716",
+   "title": "المتشددون | حـ 36 | الأوهام العشرة لجماعة الإخوان والتكفيريون جـ2 | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "5-E0AeVGa_A"
+  },
+  {
+   "chars": 14296,
+   "file": "037_jmZF4AfmKrw.txt",
+   "n": 37,
+   "quality": "ok",
+   "sha256": "3a2ea69e51973cad036e2b00dc5855c26d27574d756931a6ec1e23cadac8f4db",
+   "title": "المتشددون | حـ 37 | الأوهام العشرة لجماعة الإخوان والتكفيريون جـ3 | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "jmZF4AfmKrw"
+  },
+  {
+   "chars": 14895,
+   "file": "038_Z7dtr_FajPk.txt",
+   "n": 38,
+   "quality": "ok",
+   "sha256": "f49b261dd2d2eede48f82bda56c4b50bd2c5de090a015ae72ab0be938f73bb12",
+   "title": "المتشددون | حـ 38 | الجماعات المتطرفة التي تولدت عن جماعة الإخوان جـ 1 | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "Z7dtr_FajPk"
+  },
+  {
+   "chars": 13254,
+   "file": "039_tQIoyp7XfsQ.txt",
+   "n": 39,
+   "quality": "ok",
+   "sha256": "183efccf0d3c2a90f2ea2d73fce3a02c84e68a9b329f101c162405b2fad8a57e",
+   "title": "المتشددون | حـ 39 | الجماعات المتطرفة التي تولدت عن جماعة الإخوان جـ 2 | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "tQIoyp7XfsQ"
+  },
+  {
+   "chars": 14367,
+   "file": "040_WPGntD6ysng.txt",
+   "n": 40,
+   "quality": "ok",
+   "sha256": "310c657aa2ebc1f150f37ad25a4ee6df7a23c8dbd9b6bc73e286631893a0d6a8",
+   "title": "المتشددون | حـ40 | الجماعات المتطرفة التي تولدت عن جماعة الإخوان جـ 3 | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "WPGntD6ysng"
+  },
+  {
+   "chars": 16847,
+   "file": "041_7kVpK2NIRNM.txt",
+   "n": 41,
+   "quality": "ok",
+   "sha256": "471006badb574ff9a231c44bebfc754cc1f88498584397a988f66adb9bbb8966",
+   "title": "المتشددون | حـ 41 | العلاقة بين فكر جماعة الإخوان والفكر النازي | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "7kVpK2NIRNM"
+  },
+  {
+   "chars": 19215,
+   "file": "042_j-IV5wc63Zw.txt",
+   "n": 42,
+   "quality": "ok",
+   "sha256": "bec516071ca2e9dfdac97106e1f77b94c826275561ee61f6dbe305e265b858ca",
+   "title": "المتشددون | حـ 42 | ختام البرنامج وملخص لأهم ما ورد فيه | أ.د علي جمعة",
+   "variants": 0,
+   "vid": "j-IV5wc63Zw"
+  },
+  {
+   "chars": 24577,
+   "file": "043_jTwmTmGcujM.txt",
+   "n": 43,
+   "quality": "ok",
+   "sha256": "370227e0be0f1f63d05a9b6cdf9bb962fc2fb4ebd8c94f1bf17e27524509a7b3",
+   "title": "والله أعلم | فضيلة الدكتورعلي جمعة يتحدث عن كيف تم حفظ السنة وهل يعد منكر السنة مرتد |الحلقة الكاملة",
+   "variants": 0,
+   "vid": "jTwmTmGcujM"
+  },
+  {
+   "chars": 24694,
+   "file": "044_qNcp9x4l92M.txt",
+   "n": 44,
+   "quality": "ok",
+   "sha256": "584d97653abc8913c762ab253dfa3d76d3e1a28ceb1595a3f14b1fc016b0cd96",
+   "title": "والله أعلم | فضيلة الدكتور علي جمعة يتحدث عن كيف تم حفظ  السنة؟  وهل يعد منكر السنة مرتد؟",
+   "variants": 0,
+   "vid": "qNcp9x4l92M"
+  },
+  {
+   "chars": 27125,
+   "file": "045_DXlMN34hiwE.txt",
+   "n": 45,
+   "quality": "ok",
+   "sha256": "d0ae39494c5d547f7152f395bbb78e28c71b917b7c50b7b42dee5178fe4103e5",
+   "title": "والله اعلم | الدكتور علي جمعة يوضح حكم إتباع \"الطرق الصوفية\" | الحلقة الكاملة",
+   "variants": 0,
+   "vid": "DXlMN34hiwE"
+  },
+  {
+   "chars": 22884,
+   "file": "046_T-tZ55_slO4.txt",
+   "n": 46,
+   "quality": "ok",
+   "sha256": "b56a6e591464e7fd98a680b9f23b1c40571a9884d5c5f49e07ddb47f3bdee044",
+   "title": "والله اعلم | فضيلة الدكتور علي جمعة يتحدث عن اسباب التطاول على الدين وكيفية مواجهته | الحلقة الكاملة",
+   "variants": 0,
+   "vid": "T-tZ55_slO4"
+  },
+  {
+   "chars": 25859,
+   "file": "047_SZnuJZxFliQ.txt",
+   "n": 47,
+   "quality": "ok",
+   "sha256": "2898ff9b3e427c997de03a057112633e174544d389d6b01fdb48605c30e1bc09",
+   "title": "والله أعلم | الدكتور علي جمعة يوضح حكم \"خلع الحجاب\" | الحلقة الكاملة",
+   "variants": 0,
+   "vid": "SZnuJZxFliQ"
+  },
+  {
+   "chars": 24720,
+   "file": "048_vpA7lAahbYY.txt",
+   "n": 48,
+   "quality": "ok",
+   "sha256": "a1d4b8d6fe9080aa4f8523d3fe07050c89ee2453a07f20c0a4021be64bdef7db",
+   "title": "والله أعلم | الدكتور علي جمعة يتحدث عن حرية الاعتقاد ومخاطر الدعوة لتوحيد الأديان | حلقة كاملة",
+   "variants": 0,
+   "vid": "vpA7lAahbYY"
+  },
+  {
+   "chars": 22525,
+   "file": "049_RK4M-X2yB5A.txt",
+   "n": 49,
+   "quality": "ok",
+   "sha256": "b7afcdecdd0717d0033b3d7eabde52fcd8c5ee54589876c2aa512f11395444e1",
+   "title": "والله أعلم | د علي جمعة  يتحدث عن خطورة انكار وجود الأديان وحدود الحرية الدينية | الحلقة الكاملة",
+   "variants": 0,
+   "vid": "RK4M-X2yB5A"
+  },
+  {
+   "chars": 24085,
+   "file": "050_A19tkg74n_8.txt",
+   "n": 50,
+   "quality": "ok",
+   "sha256": "21eca5fc9c67fe93417fba1123dbaf8ea2c3c75f5ab5f64a4dc1ef3b072dc691",
+   "title": "والله أعلم | د. علي جمعة  يوضح حقيقة  الدين في الإسلام واعترافه بالأديان الأخرى | الحلقة الكاملة",
+   "variants": 0,
+   "vid": "A19tkg74n_8"
+  },
+  {
+   "chars": 23955,
+   "file": "051_B4LDv3rRLyg.txt",
+   "n": 51,
+   "quality": "ok",
+   "sha256": "e1e4baff919c691d21aed6f97b32840fc656e37e1b9f0b26a91d2477ce0a6da5",
+   "title": "والله أعلم |  الدكتور علي جمعة يتحدث عن اضطهاد المسلمين وكيفية دعم مسلمي بورما  | الحلقة الكاملة",
+   "variants": 0,
+   "vid": "B4LDv3rRLyg"
+  },
+  {
+   "chars": 26640,
+   "file": "052_yQxd2lFdmYc.txt",
+   "n": 52,
+   "quality": "ok",
+   "sha256": "bc78d37bfbdd6baace22942748db1944fe7aae2126aa8d52db3ee06308b280e5",
+   "title": "والله أعلم | الدكتور علي جمعة يتحدث عن الحوار بين الأديان وكيفية الاستفادة منه | الحلقة الكاملة",
+   "variants": 0,
+   "vid": "yQxd2lFdmYc"
+  },
+  {
+   "chars": 25074,
+   "file": "053_xm3QMyyRnlM.txt",
+   "n": 53,
+   "quality": "ok",
+   "sha256": "0dbc53fd897f23c82f8e7394459651b09cf906cd4c07088b73d989a65783a2f1",
+   "title": "والله أعلم | فضيلة الدكتور علي جمعة  يوضح أحكام الاغتراب وحكم الخضوع لقوانين الغرب | الحلقة الكاملة",
+   "variants": 0,
+   "vid": "xm3QMyyRnlM"
+  },
+  {
+   "chars": 18786,
+   "file": "054_EUsDFNRcIcg.txt",
+   "n": 54,
+   "quality": "ok",
+   "sha256": "00bccc063a49ae1f74acb9aea59f9e1358844b16fee278a715ea12ecca7355c8",
+   "title": "والله أعلم | فضيلة الدكتور علي جمعة يتحدث عن مستقبل الوجود الإسلامي بالغرب | الحلقة الكاملة",
+   "variants": 0,
+   "vid": "EUsDFNRcIcg"
+  },
+  {
+   "chars": 24684,
+   "file": "055_AK7xKAN5RK4.txt",
+   "n": 55,
+   "quality": "ok",
+   "sha256": "2ace07e78ed86e50fc766cdd4575f9eeb1eca5981d23ab78eddb9d2d370b3a29",
+   "title": "والله أعلم | فضيلة د.على جمعة يتحدث عن حقيقة العداء للإسلام في الغرب | الحلقة الكاملة",
+   "variants": 0,
+   "vid": "AK7xKAN5RK4"
+  },
+  {
+   "chars": 25850,
+   "file": "056_HLdkjQC-ub0.txt",
+   "n": 56,
+   "quality": "ok",
+   "sha256": "3abbf3e7dcd3b37f73617e54efd491329da3f20ea3f3ec0fc9fb5f5890b3535f",
+   "title": "ؤوالله أعلم |  د.علي جمعة يتحدث عن كيفية مواجهة فتاوى المتطرفين باستهداف السائحين | الحلقة الكاملة",
+   "variants": 0,
+   "vid": "HLdkjQC-ub0"
+  },
+  {
+   "chars": 25009,
+   "file": "057_dUgVYoASonk.txt",
+   "n": 57,
+   "quality": "ok",
+   "sha256": "73bea729d40f8f44023f6dae2a1252a9efc26d7686cfb54eea6fa89550fa353f",
+   "title": "والله أعلم | الدكتور علي جمعة يوضح المعنى الحقيقي للجهاد وكيفية الرجوع لسنة النبي | الحلقة الكاملة",
+   "variants": 0,
+   "vid": "dUgVYoASonk"
+  },
+  {
+   "chars": 5766,
+   "file": "058_53GoNDuMQCA.txt",
+   "n": 58,
+   "quality": "ok",
+   "sha256": "b414c9abcea598f8c8998f1d20e9d04895d2b7b55a13835f5592365f2ffd1028",
+   "title": "والله أعلم | علي جمعة يوضح كيف نتعامل مع المهاجمين للأزهر والسنة النبوية | الجزء 3",
+   "variants": 0,
+   "vid": "53GoNDuMQCA"
+  },
+  {
+   "chars": 24456,
+   "file": "059_Y4RlTFLzkiQ.txt",
+   "n": 59,
+   "quality": "ok",
+   "sha256": "3cdf7ac1e05625a3ae66b4cbfbec51d5b8c01b68c897eaec5481c276bbc7f291",
+   "title": "والله أعلم | الدكتور علي جمعة يوضح حكم الهجوم على مناهج الازهر والشيخ محمد عبده | الحلقة الكاملة",
+   "variants": 0,
+   "vid": "Y4RlTFLzkiQ"
+  },
+  {
+   "chars": 22750,
+   "file": "060_G4Sjmdebjcg.txt",
+   "n": 60,
+   "quality": "ok",
+   "sha256": "d431e5044bccb5d0d7ee48df916611fe068e9bf048bdebb63878fb8b646bbcf2",
+   "title": "والله أعلم | فضيلة الدكتور علي جمعة يرد على منكري رحلة الإسراء والمعراج | الحلقة الكاملة",
+   "variants": 0,
+   "vid": "G4Sjmdebjcg"
+  },
+  {
+   "chars": 59082,
+   "file": "061_xgJv_GV3fEk.txt",
+   "n": 61,
+   "quality": "ok",
+   "sha256": "9f13b84a3823523dd7b6d663492932224879cd9e94446c270715d168919d735b",
+   "title": "والله أعلم | فضيلة الدكتور علي جمعة يتحدث عن حرمة الاعتداء على الكنائس | الحلقة الكاملة",
+   "variants": 0,
+   "vid": "xgJv_GV3fEk"
+  },
+  {
+   "chars": 26027,
+   "file": "062_3vtCFvPaKmI.txt",
+   "n": 62,
+   "quality": "ok",
+   "sha256": "6dd8781dab045c06b6deee4dcc9147a48eb6e332f4e0a22677fe48378190e04f",
+   "title": "And God knows best | His Eminence Dr. Ali Gomaa speaks about Egypt in the Holy Quran... and the t...",
+   "variants": 0,
+   "vid": "3vtCFvPaKmI"
+  },
+  {
+   "chars": 26789,
+   "file": "063_9Hw04HTV2dE.txt",
+   "n": 63,
+   "quality": "ok",
+   "sha256": "003b0bd14d07dd401d0b2562af3221780351fb305dcb2fb51439c23792a3fab5",
+   "title": "God Knows Best | Dr. Ali Gomaa explains the causes of deviant fatwas and how to confront them | F...",
+   "variants": 0,
+   "vid": "9Hw04HTV2dE"
+  },
+  {
+   "chars": 25542,
+   "file": "064_l6ITTsW7xdE.txt",
+   "n": 64,
+   "quality": "ok",
+   "sha256": "cd6419f703c2ac5611f514d59ca44722fbc4f30fdb0a05544fd76548b9f5943c",
+   "title": "والله أعلم | فضيلة د.علي جمعة ‎يرد على فتوى داعش بقتل علماء الدين | الحلقة الكاملة",
+   "variants": 0,
+   "vid": "l6ITTsW7xdE"
+  },
+  {
+   "chars": 25279,
+   "file": "065_l7wU1yV8Jv4.txt",
+   "n": 65,
+   "quality": "ok",
+   "sha256": "2257c77b548f46367fc2fa862e4ca3f1a9cc7b32fbbaba3734ec3dfcebd07158",
+   "title": "والله أعلم | فضيلة د. علي جمعة يتحدث عن أحكام الطلاق وحكم الطلاق الشفوي | الحلقة الكاملة",
+   "variants": 0,
+   "vid": "l7wU1yV8Jv4"
+  },
+  {
+   "chars": 26302,
+   "file": "066_nRXe68P6vNo.txt",
+   "n": 66,
+   "quality": "ok",
+   "sha256": "dc870c3a4222ff325d059945fd3446806fb2ec54ca66118651d5165fc9b77f63",
+   "title": "والله أعلم | فضيلة الدكتور علي جمعة يتحدث عن حدود استفتاء القلب | الحلقة الكاملة",
+   "variants": 0,
+   "vid": "nRXe68P6vNo"
+  },
+  {
+   "chars": 24075,
+   "file": "067_b2jzOcxfbco.txt",
+   "n": 67,
+   "quality": "ok",
+   "sha256": "37aaaaf3f916a37e4225ec79e7bffa3fee52eb3019ef9d5f3dc9fc41ba9b74e1",
+   "title": "والله أعلم | ‎فضيلة د. علي جمعة يتحدث عن المواطنة | كاملة",
+   "variants": 0,
+   "vid": "b2jzOcxfbco"
+  },
+  {
+   "chars": 28444,
+   "file": "068_H_Hzcefz5-o.txt",
+   "n": 68,
+   "quality": "ok",
+   "sha256": "64125780aad18494e8e972c8de3e1696d99c13588a5f18264f98514ae3fcdb7a",
+   "title": "And God knows best | Dr. Ali Gomaa speaks about people of miracles | Full episode",
+   "variants": 0,
+   "vid": "H_Hzcefz5-o"
+  },
+  {
+   "chars": 20257,
+   "file": "069_Zi5NoigBdbI.txt",
+   "n": 69,
+   "quality": "ok",
+   "sha256": "1f1320dc11768ec7d3893e400af702c71be68bbeb61d7aa77c024fc0bd11d46c",
+   "title": "And God knows best | His Eminence Dr. Ali Gomaa speaks about the righteous saints of God | Full e...",
+   "variants": 0,
+   "vid": "Zi5NoigBdbI"
+  },
+  {
+   "chars": 17588,
+   "file": "070_kxdsbyDlzT8.txt",
+   "n": 70,
+   "quality": "ok",
+   "sha256": "30a4ae3964ca5acb5c8c1fb8282d7d53b8d15be31496a1ee750752525a0e4078",
+   "title": "والله أعلم | ‎‫فضيلة الدكتور علي جمعة يرد على شبهات  تحويل القبلة‬ | الحلقة الكاملة",
+   "variants": 0,
+   "vid": "kxdsbyDlzT8"
+  },
+  {
+   "chars": 20595,
+   "file": "071_B3rnUG8Dl7o.txt",
+   "n": 71,
+   "quality": "ok",
+   "sha256": "ba469a3c1f17a30effd8ce8da67749e8006de7c9b018e270106b7b9303259f38",
+   "title": "والله أعلم | فضيلة الدكتور علي جمعة يتحدث عن أمانة الأوطان | الحلقة الكاملة",
+   "variants": 0,
+   "vid": "B3rnUG8Dl7o"
+  },
+  {
+   "chars": 1629,
+   "file": "072__oUfgVyaAL0.txt",
+   "n": 72,
+   "quality": "ok",
+   "sha256": "547d5e7ae660ab7e2e815b3e1af9f5ee77a79fc843dee9d7f2871a5b52044dbb",
+   "title": "والله أعلم | د . علي جمعة يرد على \"منكر اليوم الأخر\"",
+   "variants": 0,
+   "vid": "_oUfgVyaAL0"
+  },
+  {
+   "chars": 24427,
+   "file": "073_SiHYLJD6UtQ.txt",
+   "n": 73,
+   "quality": "ok",
+   "sha256": "c6630734edc9f649ff6b810298ace9dbc06ee83485f5bb40fdda5c307be7db6d",
+   "title": "والله أعلم | فضيلة الدكتور علي جمعة يرد على الشبهات حول الإسراء والمعراج | الحلقة الكاملة",
+   "variants": 0,
+   "vid": "SiHYLJD6UtQ"
+  },
+  {
+   "chars": 9643,
+   "file": "074.txt",
+   "n": 74,
+   "quality": "ok",
+   "sha256": "c307abe81c86d2853d897894c5680e182e93553e2b21bd9842dc09784b2a38be",
+   "title": "والله أعلم ｜ فضيله د. علي جمعه يرد على بعض الشبهات حول رحلة الإسراء والمعراج ｜ ح",
+   "variants": 0,
+   "vid": null
+  },
+  {
+   "chars": 26165,
+   "file": "075_41WE_WiLD2s.txt",
+   "n": 75,
+   "quality": "ok",
+   "sha256": "da833ce9a5fb470ad6380072977dc63c4f8da6bb37f39b708141d68a2b82c895",
+   "title": "والله أعلم | حرية العبادة .. وتعايش الإسلام مع الأديان | حلقة كاملة",
+   "variants": 0,
+   "vid": "41WE_WiLD2s"
+  },
+  {
+   "chars": 24303,
+   "file": "076_9Kq94zrFnd8.txt",
+   "n": 76,
+   "quality": "ok",
+   "sha256": "a5cf25fb6482a423b26eafb5fa971b4e11d282be23689981b986c76520a49ee7",
+   "title": "والله أعلم | شعب الله المختار | الحلقة الكاملة",
+   "variants": 0,
+   "vid": "9Kq94zrFnd8"
+  },
+  {
+   "chars": 26549,
+   "file": "077_tY_Y1w4aaio.txt",
+   "n": 77,
+   "quality": "ok",
+   "sha256": "a89ec303cfb2fe36a8d1ed6e626506668d37a1af412a4316dfc28f60b10bbb85",
+   "title": "والله أعلم | فضيلة د. علي جمعة يوضح كيفية تعايش الإسلام مع الأديان | حلقة كاملة",
+   "variants": 0,
+   "vid": "tY_Y1w4aaio"
+  },
+  {
+   "chars": 28259,
+   "file": "078_z5UVKpo6myM.txt",
+   "n": 78,
+   "quality": "ok",
+   "sha256": "1b79663c5e45f1960ecf08ffe31ec0b258b0d70b83b3101f0d6ffb18711330dd",
+   "title": "والله أعلم | كيف نحقق منهجية الإسلام في الإنفتاح على العالم  | حلقة كاملة",
+   "variants": 0,
+   "vid": "z5UVKpo6myM"
+  },
+  {
+   "chars": 25697,
+   "file": "079_EHRCZCczjfA.txt",
+   "n": 79,
+   "quality": "ok",
+   "sha256": "0cef6dff334553877b645153597e23c0ce3ead3958bb716d885272eb08809af5",
+   "title": "حلقة والله أعلم | فضيلة د. علي جمعة يوضح حقيقة المؤامرة على الإسلام والمسلمين | حلقة كاملة",
+   "variants": 0,
+   "vid": "EHRCZCczjfA"
+  },
+  {
+   "chars": 25466,
+   "file": "080_43IqqSSx8cI.txt",
+   "n": 80,
+   "quality": "ok",
+   "sha256": "78b91cf4f475587b1e778cdb1cd7690581eeea70f280603fb885fbead55d7f99",
+   "title": "والله أعلم | فضيلة د. علي جمعة يرد على الشبهات المثارة حول ميراث المرأة | حلقة كاملة",
+   "variants": 0,
+   "vid": "43IqqSSx8cI"
+  },
+  {
+   "chars": 30337,
+   "file": "081_xkasM9yfsLU.txt",
+   "n": 81,
+   "quality": "ok",
+   "sha256": "3acdd9fb3210f1e64e231d0978bfefb594ed69e2ec796ac783defde0994f9508",
+   "title": "والله أعلم | فضيلة د. علي جمعة يوضح الفرق بين الأشعرية والسلفية | حلقة كاملة",
+   "variants": 0,
+   "vid": "xkasM9yfsLU"
+  },
+  {
+   "chars": 27981,
+   "file": "082_2YQIvNvWFzc.txt",
+   "n": 82,
+   "quality": "ok",
+   "sha256": "4c2def07ffc8481cc5b4e3bd3917edfb0f30e6df5fc9d12c04084482bea7957b",
+   "title": "Wallahu A'lam | Dr. Ali Gomaa responds to the most prominent Salafi claims... and the ruling on o...",
+   "variants": 0,
+   "vid": "2YQIvNvWFzc"
+  },
+  {
+   "chars": 29875,
+   "file": "083_knYk2PRW3JY.txt",
+   "n": 83,
+   "quality": "ok",
+   "sha256": "878a255034f761aaf12d2f5ff37c7adaa6f9f4045ae12c1bfd5c8dd729bdf903",
+   "title": "والله أعلم | حقيقة السلفية .. وأسباب ظهور جماعات متشددة منها | حلقة كاملة",
+   "variants": 0,
+   "vid": "knYk2PRW3JY"
+  },
+  {
+   "chars": 4131,
+   "file": "084_p3GYCptGEmc.txt",
+   "n": 84,
+   "quality": "ok",
+   "sha256": "6eb348d8afe30411a9d87ccf294846424e109aa867e46a3ffc7b3d0d31a6f118",
+   "title": "And God knows best | Dr. Ali Gomaa's explanation of the reality of jizya and fighting in Islam",
+   "variants": 0,
+   "vid": "p3GYCptGEmc"
+  },
+  {
+   "chars": 27219,
+   "file": "085_4kcx5BChNRI.txt",
+   "n": 85,
+   "quality": "ok",
+   "sha256": "9b1dc200f95a1242fa59361cdd5cbe087ee7c58e80dd3e51db0b34476db70d69",
+   "title": "والله أعلم | فضيلة د. علي جمعة يرد على الشبهات المثارة حول التصوف | حلقة كاملة",
+   "variants": 0,
+   "vid": "4kcx5BChNRI"
+  },
+  {
+   "chars": 9877,
+   "file": "086_ozUd_gCqlv8.txt",
+   "n": 86,
+   "quality": "ok",
+   "sha256": "0330aa7f64e55d7c4a2c4c57506765425825f30cbca286ec561747d14c751021",
+   "title": "حديث الجمعة | كيفية التفرقة بين النص وتفسير النص وتطبيق النص",
+   "variants": 0,
+   "vid": "ozUd_gCqlv8"
+  },
+  {
+   "chars": 8759,
+   "file": "087_5wADrAQFHYw.txt",
+   "n": 87,
+   "quality": "ok",
+   "sha256": "c666089c4bb7dadea832cbe81287ce34dd98da46e7659d0b096b95dfb4367eb3",
+   "title": "حديث الجمعة | تفسير حديث \"إن الله يبعث لهذه الأمة على رأس كل مائة سنة من يجدد لها دينها\"",
+   "variants": 0,
+   "vid": "5wADrAQFHYw"
+  },
+  {
+   "chars": 8969,
+   "file": "088_kkp-AGmlkJ8.txt",
+   "n": 88,
+   "quality": "ok",
+   "sha256": "f7ceb75e8ee52aa3f18d82c87aaff31a499a722ce18f1448444f789fc9b4af5d",
+   "title": "Friday Sermon | His Eminence Imam Ali Jumaa explains how Muslims translated the sciences of the a...",
+   "variants": 0,
+   "vid": "kkp-AGmlkJ8"
+  },
+  {
+   "chars": 7635,
+   "file": "089_gqbA2lUwXzg.txt",
+   "n": 89,
+   "quality": "ok",
+   "sha256": "6a1f506407825986ac952e4c7b5b550fbfdd14b8aac5dc5c73db6b2634367ca9",
+   "title": "حديث الجمعة | فضيلة الامام علي جمعة يشرح المعنى الحقيقي لـ \"التصوف السلفي\"",
+   "variants": 0,
+   "vid": "gqbA2lUwXzg"
+  },
+  {
+   "chars": 8846,
+   "file": "090_x1x5h74UMD0.txt",
+   "n": 90,
+   "quality": "ok",
+   "sha256": "dc24bb43542d8cf9b5f5e619518e83d95cfa6e5fc3c579c5b89ebe7c2d4697a6",
+   "title": "حديث الجمعة | الحدود الشرعية في الإسلام | حلقة كاملة",
+   "variants": 0,
+   "vid": "x1x5h74UMD0"
+  },
+  {
+   "chars": 30295,
+   "file": "091_dclf-p2ziV8.txt",
+   "n": 91,
+   "quality": "ok",
+   "sha256": "1bc5428b1e92ee05712fb17c00422c68d5b761e765b7e478f6e0a1ad7ed60db6",
+   "title": "والله أعلم | الحلقة الكاملة 13 ديسمبر 2015 | فضيلة الدكتورعلي جمعة يرد على اتهام الصوفية بنشر التشيع",
+   "variants": 0,
+   "vid": "dclf-p2ziV8"
+  },
+  {
+   "chars": 29770,
+   "file": "092_6lQL7fAqnB8.txt",
+   "n": 92,
+   "quality": "ok",
+   "sha256": "65ea1cb012ecaa395f285b738a3ca85484388011cd1fc5de52d8a222343e044b",
+   "title": "#والله_أعلم | الحلقة الكاملة 12 ديسمبر 2015 | حقيقة الخلاف بين السنة والشيعة",
+   "variants": 0,
+   "vid": "6lQL7fAqnB8"
+  },
+  {
+   "chars": 32271,
+   "file": "093_R0N39FaLc-4.txt",
+   "n": 93,
+   "quality": "ok",
+   "sha256": "39089eaaeaeb73c53a4a099518c6fa62be173a6335be39a4a833d2ba06ef43a7",
+   "title": "#والله_أعلم | الحلقة الكاملة 6 ديسمبر 2015 | حقيقة الخلاف السياسي في الإسلام",
+   "variants": 0,
+   "vid": "R0N39FaLc-4"
+  },
+  {
+   "chars": 29238,
+   "file": "094_e7PfofX3bI4.txt",
+   "n": 94,
+   "quality": "ok",
+   "sha256": "c25e9c554c9ae9bf93aeea3952ce3007d48457040e336ce6770c34b1af5bfc82",
+   "title": "#والله_أعلم | الحلقة الكاملة 5 ديسمبر 2015 | الفتنة الكبرى  .. وبداية ظهور الخوارج",
+   "variants": 0,
+   "vid": "e7PfofX3bI4"
+  },
+  {
+   "chars": 8397,
+   "file": "095_XrKCn0cjKOw.txt",
+   "n": 95,
+   "quality": "ok",
+   "sha256": "6ff8aab6047b19f3881987bd323dea83659a1b4fb6273903d8b42e13a73ba34f",
+   "title": "#حديث_الجمعة | زمن الفتن .. كما تحدث عنه رسول الله",
+   "variants": 0,
+   "vid": "XrKCn0cjKOw"
+  },
+  {
+   "chars": 10665,
+   "file": "096_fseuF2SQ4A8.txt",
+   "n": 96,
+   "quality": "ok",
+   "sha256": "7a5f445b1a812f2f2b11193913d36f6d7ee3771607e0d24bc6d9f70acd100661",
+   "title": "Friday Sermon | The History and Conditions of Imamate in Islam | Full Episode",
+   "variants": 0,
+   "vid": "fseuF2SQ4A8"
+  },
+  {
+   "chars": 19035,
+   "file": "097_CAwsccbRVs8.txt",
+   "n": 97,
+   "quality": "ok",
+   "sha256": "53153523fa019aefc356c270088645c277b08aa84f18d3b49c8151c2b2672e73",
+   "title": "#والله_أعلم | الحلقة الكاملة 29 نوفمبر 2015 | من المسئول عن تصحيح صورة الإسلام في الخارج؟",
+   "variants": 0,
+   "vid": "CAwsccbRVs8"
+  },
+  {
+   "chars": 5398,
+   "file": "098.txt",
+   "n": 98,
+   "quality": "ok",
+   "sha256": "61a32c013ee444652dd21b44a402f7b16e1d3cb231a5775e99cd2ecc725e15de",
+   "title": "#والله أعلم ｜ الحلقة الكاملة 28 نوفمبر 2015 ｜ حكم نقل فتاوى داعش عبر صفحات التوا",
+   "variants": 0,
+   "vid": null
+  },
+  {
+   "chars": 23227,
+   "file": "099_vRY9OS_l5qQ.txt",
+   "n": 99,
+   "quality": "ok",
+   "sha256": "b40975d2f2d38e67a164dce3421cfa1d7639f0917458de8a1b679e6f68fa2561",
+   "title": "#والله_أعلم | الحلقة الكاملة 15 نوفمبر 2015 | كيف يحصن الإنسان نفسه من الفتنة في الدين ؟",
+   "variants": 0,
+   "vid": "vRY9OS_l5qQ"
+  },
+  {
+   "chars": 21478,
+   "file": "100_o9BClGpsxe0.txt",
+   "n": 100,
+   "quality": "ok",
+   "sha256": "69e305e144de1a94711f792376e55eb7a55504268f5defc8ad9caa899e756da8",
+   "title": "#والله_أعلم | الحلقة الكاملة 14 نوفمبر 2015 | حقيقة الوعد الإلهي",
+   "variants": 0,
+   "vid": "o9BClGpsxe0"
+  },
+  {
+   "chars": 8658,
+   "file": "101_zkNoFy6nq14.txt",
+   "n": 101,
+   "quality": "ok",
+   "sha256": "58844ad9a36bb131e439d498557642640cfb5a3fe2982a03ae1a83989e1e09f6",
+   "title": "#والله_أعلم | فضيلة د. علي جمعة يرد على شبهات المشككين في عدالة الصحابة | الجزء الثالث",
+   "variants": 0,
+   "vid": "zkNoFy6nq14"
+  },
+  {
+   "chars": 10137,
+   "file": "102_8F5-x9N2Lj4.txt",
+   "n": 102,
+   "quality": "ok",
+   "sha256": "6c217b259bbe6c277aee760fa7c8fc7184b3a36ee9df281b8c7603fe67a36369",
+   "title": "#والله_أعلم | فضيلة د. علي جمعة يرد على شبهات المشككين في عدالة الصحابة | الجزء الثاني",
+   "variants": 0,
+   "vid": "8F5-x9N2Lj4"
+  },
+  {
+   "chars": 8106,
+   "file": "103_iltbIlF2584.txt",
+   "n": 103,
+   "quality": "ok",
+   "sha256": "76141eb8043f87ea94f9ac3a3b3a0532d7a9151375156e2cbff3bdc32c990eeb",
+   "title": "#والله_أعلم | فضيلة د. علي جمعة يرد على شبهات المشككين في عدالة الصحابة | الجزء الأول",
+   "variants": 0,
+   "vid": "iltbIlF2584"
+  },
+  {
+   "chars": 6490,
+   "file": "104.txt",
+   "n": 104,
+   "quality": "ok",
+   "sha256": "6f063c3eb7f6d44b28b9dd56d08d117cb347207c0932f0474e522d831cc56ee2",
+   "title": "#حديث الجمعة ｜ صفات خوارج العصر و كيفية التعامل معهم",
+   "variants": 0,
+   "vid": null
+  },
+  {
+   "chars": 9229,
+   "file": "105_R35HqD8V5bw.txt",
+   "n": 105,
+   "quality": "ok",
+   "sha256": "84459a19973cc021c922ac4d6f63a935889907b3c48713e095a3708deb2c7f2d",
+   "title": "#حديث_الجمعة | قواعد لغة العرب أساس لفهم كتاب الله وسنة الرسول",
+   "variants": 0,
+   "vid": "R35HqD8V5bw"
+  },
+  {
+   "chars": 8359,
+   "file": "106_VJyXVSbq0zQ.txt",
+   "n": 106,
+   "quality": "ok",
+   "sha256": "c5bd8274028b59f12c8b8059b727a6730d8ed79e09ba0e4fe9b4a87e83db85ea",
+   "title": "#حديث_الجمعة | العقلية الفارقة بين المعاني والكلمات في الدين الإسلامي",
+   "variants": 0,
+   "vid": "VJyXVSbq0zQ"
+  },
+  {
+   "chars": 10074,
+   "file": "107_JRKrs9akkpE.txt",
+   "n": 107,
+   "quality": "ok",
+   "sha256": "e13e06422a0e0b3baa5852f3be15d410b7cfa56a012fd279b63c56efa05fcfce",
+   "title": "#حديث_الجمعة | أسس فهم الكتاب والسنة",
+   "variants": 0,
+   "vid": "JRKrs9akkpE"
+  },
+  {
+   "chars": 8702,
+   "file": "108_gyzIuLgvCnE.txt",
+   "n": 108,
+   "quality": "ok",
+   "sha256": "e20383c65f0134e3b7baceaa3af8de2ddbe98b6c67d8fc10ca1376dbcc1bc0c0",
+   "title": "#حديث_الجمعة | مقاصد الشريعة وفوائد معرفتها",
+   "variants": 0,
+   "vid": "gyzIuLgvCnE"
+  },
+  {
+   "chars": 9182,
+   "file": "109.txt",
+   "n": 109,
+   "quality": "ok",
+   "sha256": "97a1723b9540f806bba0127bc71f944ac77096427db10e72ca07de8c647cea16",
+   "title": "#حديث الجمعة ｜ مقاصد المكلفين فيما يتعبد به لرب العالمين",
+   "variants": 0,
+   "vid": null
+  },
+  {
+   "chars": 9705,
+   "file": "110_zPqLAZe2J8s.txt",
+   "n": 110,
+   "quality": "ok",
+   "sha256": "f39c5894ed439e133a1c836f47a1a2da44c8eb62dc8d3630abfb99f1eba2e5d1",
+   "title": "#FridayTalk | The truth about Hassan al-Banna's assassination... and how Sayyid Qutb became an id...",
+   "variants": 0,
+   "vid": "zPqLAZe2J8s"
+  },
+  {
+   "chars": 8394,
+   "file": "111_QY5DV02Lqhs.txt",
+   "n": 111,
+   "quality": "ok",
+   "sha256": "52619a327df7f5cc434f552b64be24b07970bfa76abcf9fa09633d42cf481cb0",
+   "title": "#Friday_Talk | The truth about Sayyid Qutb's atheism... and his failure to mention the Prophet Mu...",
+   "variants": 0,
+   "vid": "QY5DV02Lqhs"
+  },
+  {
+   "chars": 10328,
+   "file": "112_-KONh6wfu4M.txt",
+   "n": 112,
+   "quality": "ok",
+   "sha256": "464e52ebce4f5a8baed6f89221f1d852071a26822c804f790e7626fc7a28d669",
+   "title": "#Friday_Talk | The concept of the inverted pyramid and its implications at Al-Azhar Al-Sharif",
+   "variants": 0,
+   "vid": "-KONh6wfu4M"
+  },
+  {
+   "chars": 10057,
+   "file": "113_N7u7ouoIbFE.txt",
+   "n": 113,
+   "quality": "ok",
+   "sha256": "318c98495c4d986c0e8772a7904060a7d8ee4a990dc561f9b20f1d79645260b3",
+   "title": "#حديث_الجمعة | العقلية القارقة عند علماء الدين",
+   "variants": 0,
+   "vid": "N7u7ouoIbFE"
+  },
+  {
+   "chars": 9162,
+   "file": "114_dkfEjSklDaQ.txt",
+   "n": 114,
+   "quality": "ok",
+   "sha256": "374a51c47c7ae4a21ebcac4ae72927046627b178a7e83ce463ad1bcefc0a5ceb",
+   "title": "#حديث_الجمعة | ما أحدث في أمرنا هذا ... عند النابتة",
+   "variants": 0,
+   "vid": "dkfEjSklDaQ"
+  },
+  {
+   "chars": 24786,
+   "file": "115_HyffSJ8smY8.txt",
+   "n": 115,
+   "quality": "ok",
+   "sha256": "f03694e8279265b052f1d68cfe330322b3597a6c26d28fc025283842dcc9a1b9",
+   "title": "#والله_أعلم | الحلقة الكاملة 31 أكتوبر 2015 | حوار حول المشككين في عصمة الرسول صلى الله عليه وسلم",
+   "variants": 0,
+   "vid": "HyffSJ8smY8"
+  },
+  {
+   "chars": 26622,
+   "file": "116_7XyGtY680mA.txt",
+   "n": 116,
+   "quality": "ok",
+   "sha256": "82c0d405e36e717b2c0fa860d159a6e39d82ccbaac1ef0d2d18b086731945c0b",
+   "title": "#God_Knows_Best | Full Episode October 25, 2015 | The Infallibility of Prophets .. and the Truth ...",
+   "variants": 0,
+   "vid": "7XyGtY680mA"
+  },
+  {
+   "chars": 26891,
+   "file": "117_IR3czvq4V4s.txt",
+   "n": 117,
+   "quality": "ok",
+   "sha256": "20a593c282c7490e34e0624ce8dba1fed63ff5de6cf37cf4cdc33a456791e770",
+   "title": "#والله_أعلم | الحلقة الكاملة 24 أكتوبر 2015 | ادعاءات الجماعات المتشددة باستمرار الهجرة لنصرة الدين",
+   "variants": 0,
+   "vid": "IR3czvq4V4s"
+  },
+  {
+   "chars": 29866,
+   "file": "118_7Y1-Nm24mUY.txt",
+   "n": 118,
+   "quality": "ok",
+   "sha256": "a0bd2edcb3bafb7d4835f37b7be8bb5be8820f3504b0de3a7431e9b12b871cab",
+   "title": "#والله_أعلم | الحلقة الكاملة 17 أكتوبر 2015 | الشبهات حول فضل يوم عاشوراء",
+   "variants": 0,
+   "vid": "7Y1-Nm24mUY"
+  },
+  {
+   "chars": 28075,
+   "file": "119_b-_38PCVq3Y.txt",
+   "n": 119,
+   "quality": "ok",
+   "sha256": "db049ba25a2be988f423d2662c3230e0dd7f295d9ac426edb3fd4d45b882a565",
+   "title": "#والله_أعلم | الحلقة الكاملة 11 أكتوبر 2015 | دور الفتوى في مواجهة الفكر المتطرف",
+   "variants": 0,
+   "vid": "b-_38PCVq3Y"
+  },
+  {
+   "chars": 25566,
+   "file": "120_ZApho09i7_c.txt",
+   "n": 120,
+   "quality": "ok",
+   "sha256": "4a078bf2bcd4c7477dae32f322f872ff0bb18f9851b70f90937de37f726825f5",
+   "title": "#والله_أعلم | الحلقة الكاملة 5 أكتوبر 2015 | هل تحقيق النصر والتقدم مرتبط بالإيمان ؟",
+   "variants": 0,
+   "vid": "ZApho09i7_c"
+  },
+  {
+   "chars": 24643,
+   "file": "121_n6fQAiBfVyE.txt",
+   "n": 121,
+   "quality": "ok",
+   "sha256": "d4e8212de3e911645e1008f80ed0db84ccb359f2deb3d51e3a72070e4212331f",
+   "title": "#والله_أعلم | الحلقة الكاملة 4 أكتوبر 2015 | د. علي جمعة يرد على ادعاءات  المتشددين حول سنة التدافع",
+   "variants": 0,
+   "vid": "n6fQAiBfVyE"
+  },
+  {
+   "chars": 19786,
+   "file": "122_bn_FcVPfV2E.txt",
+   "n": 122,
+   "quality": "ok",
+   "sha256": "1963a0914d02749c0f06e98b7a3e3928823cf85a5cb66ff3ea3445df309d3841",
+   "title": "#GodKnowsBest | Full Episode September 7, 2015 | The truth about the suspension of some verses of...",
+   "variants": 0,
+   "vid": "bn_FcVPfV2E"
+  },
+  {
+   "chars": 25999,
+   "file": "123_1F1U-jvqDi4.txt",
+   "n": 123,
+   "quality": "ok",
+   "sha256": "2d77af48edd0b41eb87e2408ba9471508ffca59ce9ff710c9a45211d3876a79f",
+   "title": "#والله_أعلم | الحلقة الكاملة 6 أغسطس 2015 | كيفية النسخ في الأحكام الشرعية",
+   "variants": 0,
+   "vid": "1F1U-jvqDi4"
+  },
+  {
+   "chars": 28767,
+   "file": "124_gJEjk4PvByw.txt",
+   "n": 124,
+   "quality": "ok",
+   "sha256": "fc3117e49f9b3aafe1369ba19005fceb0dbf902c16d4c80e16fbf9232556c8bd",
+   "title": "#GodKnowsBest | Full Episode July 27, 2015 | How to Deal with Terrorists | Part Two",
+   "variants": 0,
+   "vid": "gJEjk4PvByw"
+  },
+  {
+   "chars": 29961,
+   "file": "125_otDxbMr7xxs.txt",
+   "n": 125,
+   "quality": "ok",
+   "sha256": "e35fcec016470602b1bed412a99b54e0077ed2d67b6099563c151823cb7bc620",
+   "title": "#والله_أعلم | الحلقة الكاملة 26 يوليو 2015 | حفظ الدماء .. وحكم الإبلاغ عن الإرهابيين والتعامل معهم",
+   "variants": 0,
+   "vid": "otDxbMr7xxs"
+  },
+  {
+   "chars": 26129,
+   "file": "126_lOo3PsGhxBA.txt",
+   "n": 126,
+   "quality": "ok",
+   "sha256": "11cfd627fd7022e317905826b238ded3d5cbb3d71fc353882bea688894603ea4",
+   "title": "#والله_أعلم | الحلقة الكاملة 31 أغسطس 2015 | حقيقة الهداية والضلال",
+   "variants": 0,
+   "vid": "lOo3PsGhxBA"
+  },
+  {
+   "chars": 24799,
+   "file": "128_aXi4WXS4Mvk.txt",
+   "n": 128,
+   "quality": "ok",
+   "sha256": "28583cf078d619194d45ec77bff6a6db1d2a50c2ede6ce9735812cbc5dbc0e3c",
+   "title": "#GodKnowsBest | Full Episode August 22, 2015 | The Truth About the Sanctity of Language and Its R...",
+   "variants": 0,
+   "vid": "aXi4WXS4Mvk"
+  },
+  {
+   "chars": 26119,
+   "file": "129_SMzRfK5o2JY.txt",
+   "n": 129,
+   "quality": "ok",
+   "sha256": "8459e22468f81c1bb1de41f0c52e57a88b6169784c462c852e4fba90e0549cc6",
+   "title": "#والله_أعلم | الحلقة الكاملة 17 أغسطس 2015 | مخاطر تصدي غير المتخصصين لتأويل القرآن",
+   "variants": 0,
+   "vid": "SMzRfK5o2JY"
+  },
+  {
+   "chars": 28024,
+   "file": "130_p0LreDHU51g.txt",
+   "n": 130,
+   "quality": "ok",
+   "sha256": "a5854863a8362c64d4519a1e8119a8a03d6d257dcb3086c00ef4bfc27d913a4e",
+   "title": "#والله_أعلم | الحلقة الكاملة 9 أغسطس 2015 | حقيقة الاجتهاد وحكم تصدي الأفراد والجماعات له",
+   "variants": 0,
+   "vid": "p0LreDHU51g"
+  },
+  {
+   "chars": 27250,
+   "file": "131_DQzhGqBkeNU.txt",
+   "n": 131,
+   "quality": "ok",
+   "sha256": "dec9b3e8537c0621833574e594148ae47adf5e62f8f7610044e9947d558f7f59",
+   "title": "#والله_أعلم | الحلقة الكاملة 8 أغسطس 2015 | د. علي جمعة يرد على دعاوى إقامة الخلافة الاسلامية",
+   "variants": 0,
+   "vid": "DQzhGqBkeNU"
+  },
+  {
+   "chars": 24846,
+   "file": "132_xPi7iN_3BQg.txt",
+   "n": 132,
+   "quality": "ok",
+   "sha256": "b8cf42a9a52f86c4ef2e7919a3c38727dbaa060a389d2a45eca6516355266943",
+   "title": "#والله_أعلم | الحلقة الكاملة 3 أغسطس 2015 | الحاكمية في الإسلام .. وادعاءات المتطرفين | الجزء الثاني",
+   "variants": 0,
+   "vid": "xPi7iN_3BQg"
+  },
+  {
+   "chars": 25529,
+   "file": "133_5In_RdZk1ZQ.txt",
+   "n": 133,
+   "quality": "ok",
+   "sha256": "6a98ec6f9488588089d559cf7dca8512dbf2ac9beca1a04cb963e98cc045e3b9",
+   "title": "#والله_أعلم | الحلقة الكاملة 2 أغسطس 2015 | من المسئول عن تشويه مفهوم الحاكمية ؟",
+   "variants": 0,
+   "vid": "5In_RdZk1ZQ"
+  },
+  {
+   "chars": 29513,
+   "file": "134_Vg5izP7RaS4.txt",
+   "n": 134,
+   "quality": "ok",
+   "sha256": "a983eb50edfdf0ed5a1d88b92812bab47edf38c2cc4e183650e69113ef6bcec6",
+   "title": "#والله_أعلم | الحلقة الكاملة 1 أغسطس 2015 | الحاكمية.. و ادعاءات  المتطرفين",
+   "variants": 0,
+   "vid": "Vg5izP7RaS4"
+  },
+  {
+   "chars": 20025,
+   "file": "135_2tlmL_hXzHA.txt",
+   "n": 135,
+   "quality": "ok",
+   "sha256": "f23e19be0ba27a7382c805a4498a675735e0fc41c0ab825e58733e37d12e45c7",
+   "title": "#والله_أعلم | الحلقة الكاملة 25 مايو 2015 | دعاوى انتهاء خيرية الأمة بظهور الجماعات الإرهابية",
+   "variants": 0,
+   "vid": "2tlmL_hXzHA"
+  },
+  {
+   "chars": 22840,
+   "file": "136_n9rtmHLl6H4.txt",
+   "n": 136,
+   "quality": "ok",
+   "sha256": "74f659102de3c12b448e223cabba0d0417b41d5f6905946a79fcb35c159d3702",
+   "title": "#والله_أعلم | الحلقة الكاملة 24 مايو 2015 |  كيف يمكن تحقيق خيرية الامة الاسلامية.. وحكم من ينكرها ؟",
+   "variants": 0,
+   "vid": "n9rtmHLl6H4"
+  },
+  {
+   "chars": 22572,
+   "file": "137_8NjZLvG4yIo.txt",
+   "n": 137,
+   "quality": "ok",
+   "sha256": "662e19789608bcde95a23b4b03cbebc98dd5a90a4683cf9a41d5971ea1f6feab",
+   "title": "#والله_أعلم | الحلقة الكاملة 17 مايو 2015 | د٫علي جمعة يرد على الشبهات حول رؤية الرسول لربه",
+   "variants": 0,
+   "vid": "8NjZLvG4yIo"
+  },
+  {
+   "chars": 28018,
+   "file": "138_MlKXjYn-8d8.txt",
+   "n": 138,
+   "quality": "ok",
+   "sha256": "2047e8758477f4e04b241e26935cb6e0c03ab24cfbe143c880c80735d7ea795d",
+   "title": "#والله_أعلم | الحلقة الكاملة 10 مايو 2015 | حكم الهجوم على العلماء",
+   "variants": 0,
+   "vid": "MlKXjYn-8d8"
+  },
+  {
+   "chars": 29188,
+   "file": "141_SGuNlEAWoVg.txt",
+   "n": 141,
+   "quality": "ok",
+   "sha256": "b71155ae1b6e2bb2a40196771902ea21cdf044fc98dafc33be020bb3a4e0b841",
+   "title": "#والله_أعلم | الحلقة الكاملة 3 مايو 2015 | حكم سؤال أهل الذكر .. وهل هو من الواجبات أم لا ؟",
+   "variants": 0,
+   "vid": "SGuNlEAWoVg"
+  },
+  {
+   "chars": 18915,
+   "file": "142_Kv4fWJ2oS70.txt",
+   "n": 142,
+   "quality": "ok",
+   "sha256": "4e99c07e6c9a18d31a70fe9ae97442fce9077ed330c32e06e36bc9e37529f425",
+   "title": "#والله_أعلم | الحلقة الكاملة 2 مايو 2015 | حقيقة الجهاد ومفهوم الغزوات الإسلامية",
+   "variants": 0,
+   "vid": "Kv4fWJ2oS70"
+  },
+  {
+   "chars": 8719,
+   "file": "143_5AEiz4KMYew.txt",
+   "n": 143,
+   "quality": "ok",
+   "sha256": "37baf4fe27b5378f9b4c75e57f3d823254adf1d3bf12b86f67e2d8d3d91c0af2",
+   "title": "#حديث_الجمعة | زمن الفتن .. حكم الشرع في قتل النفس بغير حق",
+   "variants": 0,
+   "vid": "5AEiz4KMYew"
+  },
+  {
+   "chars": 9518,
+   "file": "145_FFijUbItX_8.txt",
+   "n": 145,
+   "quality": "ok",
+   "sha256": "01e20cb65d09269db2dadf83deccb079fd77cb95cc4a1d68fc69d1688d36fa6b",
+   "title": "#حديث_الجمعة | المحجة البيضاء بين الإسناد وفهم الخوارج الخاطئ لها",
+   "variants": 0,
+   "vid": "FFijUbItX_8"
+  },
+  {
+   "chars": 9292,
+   "file": "146_03xL1FzkmwA.txt",
+   "n": 146,
+   "quality": "ok",
+   "sha256": "d0e078e1c381d200cd19bd84a8f0d395d0830dc56074d54de3710b733aa7c9d2",
+   "title": "#حديث_الجمعة | الــ 10 أحكام التي تغضب الأخوان من الحاكم",
+   "variants": 0,
+   "vid": "03xL1FzkmwA"
+  },
+  {
+   "chars": 10434,
+   "file": "147_oITIn6P_gbQ.txt",
+   "n": 147,
+   "quality": "ok",
+   "sha256": "c3e1234d2c19332a5726305fa5659743b9afdbac164aa4002adb3e1bb599a8a6",
+   "title": "#حديث_الجمعة | تفسير لـ أية \" بسم الله الرحمن الرحيم \"",
+   "variants": 0,
+   "vid": "oITIn6P_gbQ"
+  },
+  {
+   "chars": 10093,
+   "file": "148_V1deujKbbjM.txt",
+   "n": 148,
+   "quality": "ok",
+   "sha256": "135780373952eb935b608014f4e29aef6b84fd818ad2be1c87e32e856b6dcef4",
+   "title": "#حديث_الجمعة | الفرق بين المناهج والمسائل",
+   "variants": 0,
+   "vid": "V1deujKbbjM"
+  },
+  {
+   "chars": 10915,
+   "file": "149_-LFSDJXlOuk.txt",
+   "n": 149,
+   "quality": "ok",
+   "sha256": "8f61266a1731a374d64dc8ea73e92d88268be6cd6191ba28f4addce6d6cde98f",
+   "title": "#حديث_الجمعة | التدبر في الأحاديث النبوية",
+   "variants": 0,
+   "vid": "-LFSDJXlOuk"
+  },
+  {
+   "chars": 8460,
+   "file": "150_axK3hyksDyw.txt",
+   "n": 150,
+   "quality": "ok",
+   "sha256": "109e277bb073d100700c07f4bc4bc33019592a8cffbc632030a4c63a391b4fea",
+   "title": "#حديث_الجمعة | فوارق الكلمات ومعانيها في الإسلام",
+   "variants": 0,
+   "vid": "axK3hyksDyw"
+  },
+  {
+   "chars": 29796,
+   "file": "151_qd1viLuK4Hk.txt",
+   "n": 151,
+   "quality": "ok",
+   "sha256": "9165ddf304d4c36ed789c5405330531a061b41ca788dbf0e2ed5a443540da218",
+   "title": "#والله_أعلم | الحلقة الكاملة 27 ابريل 2015 | الرد على دعاوى إنكار المعلوم من الدين بالضرورة",
+   "variants": 0,
+   "vid": "qd1viLuK4Hk"
+  },
+  {
+   "chars": 30098,
+   "file": "152_49KY1lRlexg.txt",
+   "n": 152,
+   "quality": "ok",
+   "sha256": "d5a1817c19d642d806f56796acb320d8390a746200094bced66b72da8e89c23d",
+   "title": "#والله_أعلم | الحلقة الكاملة  26 ابريل 2015 | حكم إنكار الإجماع والقول بأنه تغييب لعقل المسلم",
+   "variants": 0,
+   "vid": "49KY1lRlexg"
+  },
+  {
+   "chars": 26028,
+   "file": "153_5qrqICa829M.txt",
+   "n": 153,
+   "quality": "ok",
+   "sha256": "7663a1e4ef6d4e7003c089b2d249c83eec9f287c757724b534b276234277daf1",
+   "title": "#والله_أعلم | الحلقة الكاملة 25 إبريل 2015 | حلقة خاصة عن دعوات خلع الحجاب",
+   "variants": 0,
+   "vid": "5qrqICa829M"
+  },
+  {
+   "chars": 8247,
+   "file": "155_F9Mlh41nMNE.txt",
+   "n": 155,
+   "quality": "ok",
+   "sha256": "fd384cb5df1eb8eb29631b9e7e9b28f8d605632ace1e7f4e30dc54beaed85572",
+   "title": "#والله_أعلم | التعايش في الوطن | الجزء الثاني",
+   "variants": 0,
+   "vid": "F9Mlh41nMNE"
+  },
+  {
+   "chars": 12929,
+   "file": "156_ih0xL0sooGY.txt",
+   "n": 156,
+   "quality": "ok",
+   "sha256": "43ac60a665aef2f6e024d99de32c1f1dbb02f03be2ff2f6c2455ee4e39370a9f",
+   "title": "#والله_أعلم | التعايش في الوطن | الجزء الأول",
+   "variants": 0,
+   "vid": "ih0xL0sooGY"
+  },
+  {
+   "chars": 23436,
+   "file": "157_rhJ1s5ydHXs.txt",
+   "n": 157,
+   "quality": "ok",
+   "sha256": "c5de7d201759926b39ae1404ed3b390f47fd315b315e72529047db8cc82af464",
+   "title": "#والله_أعلم | الحلقة الكاملة 18 إبريل 2015 | حقيقة دخول الاسلام مصر",
+   "variants": 0,
+   "vid": "rhJ1s5ydHXs"
+  },
+  {
+   "chars": 8843,
+   "file": "158_KeSFqux-ixE.txt",
+   "n": 158,
+   "quality": "ok",
+   "sha256": "70d8fdb210947ad46547d40a5d94847f7722fe7a9f9dd02df48d3997bf794edf",
+   "title": "#حديث_الجمعة | الفهم الخاطئ للنصوص لدى جماعات الغلو والنابتة",
+   "variants": 0,
+   "vid": "KeSFqux-ixE"
+  },
+  {
+   "chars": 9111,
+   "file": "160_9y2mgUPrh-E.txt",
+   "n": 160,
+   "quality": "ok",
+   "sha256": "62565fde0bdeb748f85d9c37b118002e899e64b21599ba716c267ca02b66d579",
+   "title": "#حديث_الجمعة | مهلكة التكفير .. فساد في الأرض",
+   "variants": 0,
+   "vid": "9y2mgUPrh-E"
+  },
+  {
+   "chars": 24328,
+   "file": "161__1UtEcGf32w.txt",
+   "n": 161,
+   "quality": "ok",
+   "sha256": "9f3ecf67a18359e1ec52cff49afd4544a8f1c8a8bf2a85639668a7f25f5b723b",
+   "title": "#والله_أعلم | الحلقة الكاملة 30 مارس 2015 | حقيقة دار الكفر ودار الإسلام",
+   "variants": 0,
+   "vid": "_1UtEcGf32w"
+  },
+  {
+   "chars": 25567,
+   "file": "162_vkPxUjtBajU.txt",
+   "n": 162,
+   "quality": "ok",
+   "sha256": "ef6e3e61b25765b81aade70fe4eecf268ca91acc0601d88e067a4c41bc3c81af",
+   "title": "#والله_أعلم | الحلقة الكاملة | 29 مارس 2015 | كيفية حماية الأبناء من التطرف والإلحاد",
+   "variants": 0,
+   "vid": "vkPxUjtBajU"
+  },
+  {
+   "chars": 28727,
+   "file": "163_bpDPQi221OA.txt",
+   "n": 163,
+   "quality": "ok",
+   "sha256": "2b142ab0511ec2d023d4b8a254b0c87deccbd612a29ab0e96d6a2ad5a90536ca",
+   "title": "#والله_أعلم | الحلقة الكاملة 7 مارس 2015 | حقيقة المذاهب .. وحكم انكار المذاهب",
+   "variants": 0,
+   "vid": "bpDPQi221OA"
+  },
+  {
+   "chars": 27100,
+   "file": "164_FQw2Y-DQTAI.txt",
+   "n": 164,
+   "quality": "ok",
+   "sha256": "456a242108effea5ff85cf05a8a3335935fff1af75e9b8639d1ea31be3d67275",
+   "title": "#والله_أعلم | الحلقة الكاملة 2 مارس 2015 | اتهام المذاهب الفقهية بالتشدد",
+   "variants": 0,
+   "vid": "FQw2Y-DQTAI"
+  },
+  {
+   "chars": 6663,
+   "file": "165.txt",
+   "n": 165,
+   "quality": "ok",
+   "sha256": "b5394fe8f7268ce2cd556085438ab55e7fc99269eb75679c7981eb05a8937eb5",
+   "title": "الدرس 165",
+   "variants": 0,
+   "vid": null
+  },
+  {
+   "chars": 23272,
+   "file": "167_Cdexj1z80eE.txt",
+   "n": 167,
+   "quality": "ok",
+   "sha256": "334627fe7ce0ea30034334a25d0648b9f65293327ef163b90c2845bcc2919a7d",
+   "title": "#والله_أعلم | الحلقة الكاملة | 23 فبراير 2015 | وسائل الجهاد ضد التنظيمات الإرهابية",
+   "variants": 0,
+   "vid": "Cdexj1z80eE"
+  },
+  {
+   "chars": 20641,
+   "file": "168_4ZZ68ha26Dc.txt",
+   "n": 168,
+   "quality": "ok",
+   "sha256": "ed79ce9a900c84c4c2ceaab68e6e3bd0bfd11cb53998a6c4864ee1343eb848bc",
+   "title": "#والله_أعلم | الحلقة الكاملة | 22 فبراير 2015 | علي جمعة يرد على ادعاء داعش نشر الإسلام بالسيف",
+   "variants": 0,
+   "vid": "4ZZ68ha26Dc"
+  },
+  {
+   "chars": 21845,
+   "file": "170_Xgk2cfRiwi4.txt",
+   "n": 170,
+   "quality": "ok",
+   "sha256": "450931408e63a27dff007f89fa40dd4fb39eb19d673bf00286c323b18bef01f6",
+   "title": "#والله_أعلم | الحلقة الكاملة | 15 فبراير 2015 | حقيقة المذاهب الاسلامية ومدى ارتباطها بالسنة",
+   "variants": 0,
+   "vid": "Xgk2cfRiwi4"
+  },
+  {
+   "chars": 27156,
+   "file": "171_E3VO8oB7FcE.txt",
+   "n": 171,
+   "quality": "ok",
+   "sha256": "e813b2d40273e30dc757f17e7da0f1c9182edc627694950c9f58ec53a7aa9ad1",
+   "title": "#والله_أعلم | الحلقة الكاملة | 2 فبراير 2015 | حقيقة المؤامرات على المسلمين",
+   "variants": 0,
+   "vid": "E3VO8oB7FcE"
+  },
+  {
+   "chars": 27499,
+   "file": "172_TKUk14DWoiU.txt",
+   "n": 172,
+   "quality": "ok",
+   "sha256": "c8fa419b2ae77f668ac269c6e7a8c89ba12db36666b6604aeef8a0fbaab0ba20",
+   "title": "#والله_أعلم | الحلقة الكاملة | 1 فبراير 2015 | حقيقة تفرق الأمة ومن هي الفرقة الناجية",
+   "variants": 0,
+   "vid": "TKUk14DWoiU"
+  },
+  {
+   "chars": 26226,
+   "file": "174_t1YTj9eejD4.txt",
+   "n": 174,
+   "quality": "ok",
+   "sha256": "98cd79f89afaff5b4aa0c7328327440a441bf61211ee414e1db8b66eac84e68a",
+   "title": "#والله_أعلم | الحلقة الكاملة | 26 يناير 2015 | الردعلى فتاوى تكفير أصحاب المهن",
+   "variants": 0,
+   "vid": "t1YTj9eejD4"
+  },
+  {
+   "chars": 28361,
+   "file": "175_errHuqIlhv4.txt",
+   "n": 175,
+   "quality": "ok",
+   "sha256": "260cd00fbe55a90c4cb1af71dbdfc8aa02c397ab04c7dfca8378b8dae16fde27",
+   "title": "#والله_أعلم | الحلقة الكاملة | 25 يناير 2015 | حقيقة تنقية التراث وفهم الجماعات المتطرفة له",
+   "variants": 0,
+   "vid": "errHuqIlhv4"
+  },
+  {
+   "chars": 26095,
+   "file": "177_hp1osWP6MFg.txt",
+   "n": 177,
+   "quality": "ok",
+   "sha256": "fb77c1d3c09aed1fb0816fbd437161dd6d6c5767a4f29928ddfcaad8bc5095a1",
+   "title": "#والله أعلم ｜ الحلقة الكاملة ｜ 19 ينايلر 2015 ｜ خطورة فهم المتشددين للنصوص الدين",
+   "variants": 0,
+   "vid": "hp1osWP6MFg"
+  },
+  {
+   "chars": 27186,
+   "file": "179_8sC9Vzq8ePc.txt",
+   "n": 179,
+   "quality": "ok",
+   "sha256": "c41f59ecd459237170d8b18f4dd3c03c80d05598815e1d39fb2abe97af4aa292",
+   "title": "#GodKnowsBest | Full Episode | January 17, 2015 | Responding to Fatwas Declaring the West as Infi...",
+   "variants": 0,
+   "vid": "8sC9Vzq8ePc"
+  },
+  {
+   "chars": 4134,
+   "file": "181.txt",
+   "n": 181,
+   "quality": "ok",
+   "sha256": "98455ff04d8e33553608a3fbeb91944f3e8457c5b2a1fd2ad758f8180755c048",
+   "title": "الدرس 181",
+   "variants": 0,
+   "vid": null
+  },
+  {
+   "chars": 26702,
+   "file": "182_v_YQpsbcPvA.txt",
+   "n": 182,
+   "quality": "ok",
+   "sha256": "ea5e2df09d91e24db229bf7d3b3b6e84a67dbe97861346705dfae4656e081a01",
+   "title": "#والله_أعلم | الحلقة الكاملة | 5 يناير 2014 |حكم الدين في تهنئة المسلمين للآقباط في آعيادهم",
+   "variants": 0,
+   "vid": "v_YQpsbcPvA"
+  },
+  {
+   "chars": 31282,
+   "file": "184_HHzZSIaiwQc.txt",
+   "n": 184,
+   "quality": "ok",
+   "sha256": "c907c56facd99551a37b45d39d7ecc08b788e0ca5bc51f9fc46db10fdf4e393e",
+   "title": "#والله_أعلم | الحلقة الكاملة | 8 - يونيو - 2014 | طبيعة الخلاف المذهبي بين السنة والشيعة",
+   "variants": 0,
+   "vid": "HHzZSIaiwQc"
+  },
+  {
+   "chars": 33468,
+   "file": "185_Hv_ked_7cg0.txt",
+   "n": 185,
+   "quality": "ok",
+   "sha256": "5315c0040a201c107ea9f8e49f7490a3e13eb18922c177ec2b285bc839272725",
+   "title": "#والله_أعلم | الحلقة الكاملة | 7 - يونيو - 2014 | فتاوى التكفير والتحريض على رجال الجيش والشرطة",
+   "variants": 0,
+   "vid": "Hv_ked_7cg0"
+  },
+  {
+   "chars": 6569,
+   "file": "187.txt",
+   "n": 187,
+   "quality": "ok",
+   "sha256": "d19b7a602a8ed8135d1d084ce2cd533433970560be2c880525c793ed063a21da",
+   "title": "الدرس 187",
+   "variants": 0,
+   "vid": null
+  },
+  {
+   "chars": 10035,
+   "file": "188.txt",
+   "n": 188,
+   "quality": "ok",
+   "sha256": "043e8636479daa0600820cb1305aee551f9f9bdd8bd6c7efd122c4c0fe06d8bb",
+   "title": "الدرس 188",
+   "variants": 0,
+   "vid": null
+  },
+  {
+   "chars": 48180,
+   "file": "189_0l-xS0fKXZM.txt",
+   "n": 189,
+   "quality": "ok",
+   "sha256": "36809e70f63deb53590f774356618cf733d668e16c17672712005590bb7de3f9",
+   "title": "#والله أعلم ｜ الحلقة الكاملة 25-مارس-2014 ｜ أحكام اتباع المسلمين لقوانين الأحوال",
+   "variants": 0,
+   "vid": "0l-xS0fKXZM"
+  },
+  {
+   "chars": 46162,
+   "file": "190_CGHVMBddq_o.txt",
+   "n": 190,
+   "quality": "ok",
+   "sha256": "6355a1708f3ab1d5050c156b522c4bf9411f71a785b130dc0a3981e37524a60e",
+   "title": "#والله أعلم ｜ الحلقة الكاملة ｜ 5 - مارس - 2014 ｜ هل التشدد من الإسلام ؟",
+   "variants": 0,
+   "vid": "CGHVMBddq_o"
+  },
+  {
+   "chars": 14733,
+   "file": "191_8mxWuMwRCX0.txt",
+   "n": 191,
+   "quality": "ok",
+   "sha256": "4a8d5e999abbd8e5f02d5a48c1d0aa36d6e0cc4bbc3821446a635fe6bd6e877c",
+   "title": "مناقشة علمية لأفكار سيد قطب [الحاكمية ، جاهلية المجتمعات ، التكفير] ｜ أ.د علي جم",
+   "variants": 0,
+   "vid": "8mxWuMwRCX0"
+  },
+  {
+   "chars": 29001,
+   "file": "192_xATINp1yi-o.txt",
+   "n": 192,
+   "quality": "ok",
+   "sha256": "be63af41751ff07d58afe69d3d62fbe5b3a07577e5123184692b2ec5a97064f6",
+   "title": "موالاة الكفار وتكفير المجتمعات ｜ لقاء الجمعة ｜ 2017-12-1 ｜ أ.د علي جمعة",
+   "variants": 0,
+   "vid": "xATINp1yi-o"
+  },
+  {
+   "chars": 4524,
+   "file": "193.txt",
+   "n": 193,
+   "quality": "ok",
+   "sha256": "d8cc44cb073ab999248876f58545f24bfbdf54f28f0bb91c2e785b16bf327461",
+   "title": "المتشددون ｜ حـ 6 ｜ رفاعة الطهطاوي والنهضة ｜ أ.د علي جمعة",
+   "variants": 0,
+   "vid": null
+  },
+  {
+   "chars": 9091,
+   "file": "194.txt",
+   "n": 194,
+   "quality": "ok",
+   "sha256": "ccc16f38e79f375a4d83bc36b9c414872de19dd35a5e71785c7a4df37fc07e04",
+   "title": "المتشددون ｜ حـ 7 ｜ جمال الدين الأفغاني ومحمد عبده والنهضة ｜ أ.د علي جمعة",
+   "variants": 0,
+   "vid": null
+  },
+  {
+   "chars": 31607,
+   "file": "195_mAUnjXe_sG4.txt",
+   "n": 195,
+   "quality": "ok",
+   "sha256": "db32c60d8aef5ce48c57103d977414c4929de0171d9867eb433aa80439c1d7c2",
+   "title": "#والله_أعلم | الحلقة الكاملة 28 نوفمبر 2015 | حكم نقل فتاوى داعش عبر صفحات التواصل الاجتماعي",
+   "variants": 0,
+   "vid": "mAUnjXe_sG4"
+  },
+  {
+   "chars": 9392,
+   "file": "196_K9zvZjxtz0E.txt",
+   "n": 196,
+   "quality": "ok",
+   "sha256": "36ff310a40879d9d72545f566ac42870283b6c6d9a82f9ed32a32b46f90f2124",
+   "title": "#حديث_الجمعة | صفات خوارج العصر و كيفية التعامل معهم",
+   "variants": 0,
+   "vid": "K9zvZjxtz0E"
+  },
+  {
+   "chars": 9131,
+   "file": "197_NQqj1LYO2V8.txt",
+   "n": 197,
+   "quality": "ok",
+   "sha256": "cab64fafb1c5ed1ed35327ff24a88ac1e7b7fcf03935e61b648331d466326294",
+   "title": "#حديث_الجمعة | مقاصد المكلفين فيما يتعبد به لرب العالمين",
+   "variants": 0,
+   "vid": "NQqj1LYO2V8"
+  },
+  {
+   "chars": 25927,
+   "file": "198_zwlhiPx4LTU.txt",
+   "n": 198,
+   "quality": "ok",
+   "sha256": "ccb0d5698a41ba424814fd8b9cf85025fdca23df876b6fbca4baba01f4a3a287",
+   "title": "#والله_أعلم | الحلقة الكاملة | 1 مارس 2015 | فتوى  داعش حول هدم الآثار",
+   "variants": 0,
+   "vid": "zwlhiPx4LTU"
+  },
+  {
+   "chars": 27859,
+   "file": "199_5f0CvVRd-5A.txt",
+   "n": 199,
+   "quality": "ok",
+   "sha256": "3a24ff14273b421eb26450f9bb6a14fc08b125231e09f202b2b39d276b252e6d",
+   "title": "#والله_أعلم | الحلقة الكاملة | 11 يناير 2015 | مشروعية إنشاء الجماعات  وحكم اتباعها",
+   "variants": 0,
+   "vid": "5f0CvVRd-5A"
+  },
+  {
+   "chars": 27093,
+   "file": "200_6m8ImYH4KIo.txt",
+   "n": 200,
+   "quality": "ok",
+   "sha256": "e5bf828ee8491ddf251666cbee25ccac0ff06be16f6e04cb5741629d706f21d4",
+   "title": "#والله_أعلم | الحلقة الكاملة 20-مايو-2014 | الخوف من مخالفة الشريعة",
+   "variants": 0,
+   "vid": "6m8ImYH4KIo"
+  },
+  {
+   "chars": 42571,
+   "file": "201__YnkgF9ksJc.txt",
+   "n": 201,
+   "quality": "ok",
+   "sha256": "8e2b0cebc37597f6940fee43daa31f6f2d7ebeb45edb6a64f00947f261e25183",
+   "title": "#والله_أعلم | الحلقة الكاملة 11- مايو-2014 | ماحكم الشك في ثوابت الدين ؟",
+   "variants": 0,
+   "vid": "_YnkgF9ksJc"
+  }
+ ],
+ "playlists": [
+  "PLxQnfwkf6ksgaEhXOKuzhm-dns37w6_IN"
+ ],
+ "row_id": "ali-gomaa--822",
+ "sheikh": "ali-gomaa",
+ "title": "الرد على خوارج العصر | أ.د علي جمعة",
+ "transcribed": 185,
+ "v": 1
+}

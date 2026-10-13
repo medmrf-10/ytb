@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:zPqLAZe2J8s",
+ "vid": "zPqLAZe2J8s",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 110,
+ "n_src": "plpos",
+ "title": "#FridayTalk | The truth about Hassan al-Banna's assassination... and how Sayyid Qutb became an id...",
+ "title_src": "yt_titles",
+ "sha256": "f39c5894ed439e133a1c836f47a1a2da44c8eb62dc8d3630abfb99f1eba2e5d1",
+ "nh": "71ea8a57b9a375ca0c0a5d871ca7df4dfcfa57b5d77fc53628245308cff52dfc",
+ "chars": 9705,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/110_#حديث_الجمعة ｜ حقيقة مقتل حسن البنا .. وتحويل سيد قطب إلى صنم عند النابتة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/110_#حديث_الجمعة ｜ حقيقة مقتل حسن البنا .. وتحويل سيد قطب إلى صنم عند النابتة.txt",
+   "sha256": "f39c5894ed439e133a1c836f47a1a2da44c8eb62dc8d3630abfb99f1eba2e5d1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/110_#حديث_الجمعة ｜ حقيقة مقتل حسن البنا .. وتحويل سيد قطب إلى صنم عند النابتة.txt",
+   "sha256": "f39c5894ed439e133a1c836f47a1a2da44c8eb62dc8d3630abfb99f1eba2e5d1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/110.txt",
+   "sha256": "9566babbb3be163b5087bb2ab2bbc734f9841b7555f3212d40769c5e0088b7f1",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

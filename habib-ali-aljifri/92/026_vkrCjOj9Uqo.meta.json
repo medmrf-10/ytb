@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:vkrCjOj9Uqo",
+ "vid": "vkrCjOj9Uqo",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--92",
+ "n": 26,
+ "n_src": "read",
+ "title": "حلقة 20： الخطاب الديني جزء 3 ｜ آمنت بالله ｜ الحبيب علي الجفري",
+ "title_src": "filename",
+ "sha256": "108409e238a92c62492fef285e72bd631101f468c85bcb73a20a898f6b42cd51",
+ "nh": "4ed3e578776e065c762064304225dc55dd82d46033d67bbb4f9e518a0156c326",
+ "chars": 12211,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/92/026_حلقة 20： الخطاب الديني جزء 3 ｜ آمنت بالله ｜  الحبيب علي الجفري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/92/026_حلقة 20： الخطاب الديني جزء 3 ｜ آمنت بالله ｜  الحبيب علي الجفري.txt",
+   "sha256": "108409e238a92c62492fef285e72bd631101f468c85bcb73a20a898f6b42cd51",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/92/26.txt",
+   "sha256": "108409e238a92c62492fef285e72bd631101f468c85bcb73a20a898f6b42cd51",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

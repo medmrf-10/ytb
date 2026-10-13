@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:eMGONi_Yj0k",
+ "vid": "eMGONi_Yj0k",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--371",
+ "n": 59,
+ "n_src": "plpos",
+ "title": "59- علوم القرآن الكريم | دراسات تطبيقية في القصص (قُلِ الْحَمْدُ لِلَّهِ وَسَلامٌ...)",
+ "title_src": "yt_titles",
+ "sha256": "23f98215f4775a42370cfb54b2e705e665f95e0909283c58eb1055408cc6a7f5",
+ "nh": "ea7d946970c486d2ae28021c8b10eb293a0989853197a20dedd76a346098b54d",
+ "chars": 27042,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/371/059_59- علوم القرآن الكريم ｜ دراسات تطبيقية في القصص (قُلِ الْحَمْدُ لِلَّهِ وَسَلام.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/371/059_59- علوم القرآن الكريم ｜ دراسات تطبيقية في القصص (قُلِ الْحَمْدُ لِلَّهِ وَسَلام.txt",
+   "sha256": "23f98215f4775a42370cfb54b2e705e665f95e0909283c58eb1055408cc6a7f5",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/3oloumEl9or1n-059/transcript.txt",
+   "sha256": "31e1444fa44fe9deb1d4658dcad49a12a7390897012fe4498c54fcaee82381a6",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-ulum-quran/59.txt",
+   "sha256": "31e1444fa44fe9deb1d4658dcad49a12a7390897012fe4498c54fcaee82381a6",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:yAGcBwlWx6M",
+ "vid": "yAGcBwlWx6M",
+ "sheikh": "hatem-alaouni",
+ "row_id": "hatem-alaouni--aouni-ibada",
+ "n": 5,
+ "n_src": "trfile",
+ "title": "المجلس الخامس في تحرير مفهوم العبادة (استكمال مناقشة المخالفين) | أ.د الشريف حاتم العوني",
+ "title_src": "yt_titles",
+ "sha256": "b07bc3619591d245dd07bd259882eec28060b518350f3f070867a51bf3524632",
+ "nh": "390795ce6363923315f2393dc3919397541d3880d9d2aaf0864962fa5b66b4a9",
+ "chars": 58670,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/aouniIbada-005/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/aouniIbada-005/transcript.txt",
+   "sha256": "b07bc3619591d245dd07bd259882eec28060b518350f3f070867a51bf3524632",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/aouni/ibada/005_yAGcBwlWx6M.txt",
+   "sha256": "b07bc3619591d245dd07bd259882eec28060b518350f3f070867a51bf3524632",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/aouni-ibada/005.txt",
+   "sha256": "b07bc3619591d245dd07bd259882eec28060b518350f3f070867a51bf3524632",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

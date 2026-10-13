@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:gaZCJ7_3K5w",
+ "vid": "gaZCJ7_3K5w",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--789",
+ "n": 6,
+ "n_src": "read",
+ "title": "أصحاب الفيل ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "fab90ea9eb0032e2c2ab2383fd074108753f3558204f579a8ee84fbf3f80d81f",
+ "nh": "8b9998d5568d12bf529e2dd38ccd8e4f48431fef642431be2ae1731770e68d68",
+ "chars": 16506,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/789/006_أصحاب الفيل ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/789/006_أصحاب الفيل ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "fab90ea9eb0032e2c2ab2383fd074108753f3558204f579a8ee84fbf3f80d81f",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/789/5.txt",
+   "sha256": "fab90ea9eb0032e2c2ab2383fd074108753f3558204f579a8ee84fbf3f80d81f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

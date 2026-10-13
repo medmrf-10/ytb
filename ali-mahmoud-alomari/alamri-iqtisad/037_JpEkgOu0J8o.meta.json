@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:JpEkgOu0J8o",
+ "vid": "JpEkgOu0J8o",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+ "n": 37,
+ "n_src": "trfile",
+ "title": "الدَّرس السابع والثلاثون_ القطب الثالث_ الدعوى السَّابعة",
+ "title_src": "yt_titles",
+ "sha256": "6d4ede3481ffef6fd7268dc41e0799fca7f3ea6a9a9220af70cdb472dadffbe5",
+ "nh": "0033984183e7d34f13e655a4f3b2c72823dfcba02232d9da0629c777a3b49562",
+ "chars": 34885,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriIqtisad-037/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriIqtisad-037/transcript.txt",
+   "sha256": "6d4ede3481ffef6fd7268dc41e0799fca7f3ea6a9a9220af70cdb472dadffbe5",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-37_AlAmri.txt",
+   "sha256": "6d4ede3481ffef6fd7268dc41e0799fca7f3ea6a9a9220af70cdb472dadffbe5",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-iqtisad/37.txt",
+   "sha256": "6d4ede3481ffef6fd7268dc41e0799fca7f3ea6a9a9220af70cdb472dadffbe5",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

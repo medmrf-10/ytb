@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:Ro_zvaugDXE",
+ "vid": "Ro_zvaugDXE",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--789",
+ "n": 5,
+ "n_src": "read",
+ "title": "الاهتمام بقضايا المسلمين ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "d9c553ed6f1e4cffd1d6db5d0e10d2dcab7784981ba254bb7bad6fd6cd1d5949",
+ "nh": "948e332bebdee328b6cc01cf3cc1e5339fbf7f4c235339544e1b089911db717a",
+ "chars": 16553,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/789/005_الاهتمام بقضايا المسلمين  ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/789/005_الاهتمام بقضايا المسلمين  ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "d9c553ed6f1e4cffd1d6db5d0e10d2dcab7784981ba254bb7bad6fd6cd1d5949",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/789/4.txt",
+   "sha256": "d9c553ed6f1e4cffd1d6db5d0e10d2dcab7784981ba254bb7bad6fd6cd1d5949",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

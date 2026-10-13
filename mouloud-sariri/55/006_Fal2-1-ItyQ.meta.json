@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:Fal2-1-ItyQ",
+ "vid": "Fal2-1-ItyQ",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 6,
+ "n_src": "read",
+ "title": "خطب منبرية ： بدع عاشوراء ⧸ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "f252593c31e72197e6772b3f5030a3dab4cf1fab432f6d78a0c29fc79db0c8ad",
+ "nh": "a7997c8b049b90ecb7c74b5234263c9be9a7d0ec920eb02bd4dc0a113d88a111",
+ "chars": 14454,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/006_خطب منبرية ： بدع عاشوراء ⧸ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/006_خطب منبرية ： بدع عاشوراء ⧸ الشيخ العلامة مولود السريري.txt",
+   "sha256": "f252593c31e72197e6772b3f5030a3dab4cf1fab432f6d78a0c29fc79db0c8ad",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/5.txt",
+   "sha256": "f252593c31e72197e6772b3f5030a3dab4cf1fab432f6d78a0c29fc79db0c8ad",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

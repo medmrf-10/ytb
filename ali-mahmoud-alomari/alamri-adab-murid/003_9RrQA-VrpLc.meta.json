@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:9RrQA-VrpLc",
+ "vid": "9RrQA-VrpLc",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-adab-murid",
+ "n": 3,
+ "n_src": "trfile",
+ "title": "رسالة آداب سلوك المريد_ المجلس الخامس عشر_ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي.",
+ "title_src": "yt_titles",
+ "sha256": "b4841b0880cb5997985420f275d4e6bf07ad4cb89eeaae2927896f09ceebccac",
+ "nh": "5656653ce8b5ae217e94522f546daac43407efc2f8ce23f4fce34c9100dbc388",
+ "chars": 41474,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriAdabMurid-003/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriAdabMurid-003/transcript.txt",
+   "sha256": "b4841b0880cb5997985420f275d4e6bf07ad4cb89eeaae2927896f09ceebccac",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/adab-murid/adab-murid-03_AlAmri.txt",
+   "sha256": "b4841b0880cb5997985420f275d4e6bf07ad4cb89eeaae2927896f09ceebccac",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-adab-murid/03.txt",
+   "sha256": "b4841b0880cb5997985420f275d4e6bf07ad4cb89eeaae2927896f09ceebccac",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

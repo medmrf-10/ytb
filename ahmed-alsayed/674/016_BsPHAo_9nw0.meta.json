@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:BsPHAo_9nw0",
+ "vid": "BsPHAo_9nw0",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--674",
+ "n": 16,
+ "n_src": "mutfile",
+ "title": "سوية المؤمن 16 ｜ العفو والصفح ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "a9ddbe5933aa669c2567b4ff223022e2ddcfc5780c1f10c7c0fe33e16c896d9e",
+ "nh": "dd4cba54705fcd0efa629cd084a2a8d6ec56f3ed6a4e783f9f306bf6da00b433",
+ "chars": 39028,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/674/016_سوية المؤمن 16 ｜ العفو والصفح ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/674/016_سوية المؤمن 16 ｜ العفو والصفح ｜ أحمد السيد.txt",
+   "sha256": "a9ddbe5933aa669c2567b4ff223022e2ddcfc5780c1f10c7c0fe33e16c896d9e",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-674/016.txt",
+   "sha256": "791ee23d86888c76cc8b15f834d886ad4c0a45b0917c741a2456de07a18a24fc",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

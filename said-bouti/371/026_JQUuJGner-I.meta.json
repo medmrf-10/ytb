@@ -1,0 +1,57 @@
+{
+ "v": 1,
+ "lid": "yt:JQUuJGner-I",
+ "vid": "JQUuJGner-I",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--371",
+ "n": 26,
+ "n_src": "plpos",
+ "title": "26- علوم القرآن الكريم | الأمثال في القرآن الكريم | القصة في القرآن الكريم",
+ "title_src": "yt_titles",
+ "sha256": "26c06d038fa91ae93f08ace03bb6fd236908e325b1aee7c28d16dcdfa249537c",
+ "nh": "7c6c90612d1b4a8946574d90d53411725969341e352fcd531df729d323bfdd53",
+ "chars": 25102,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/371/026_26- علوم القرآن الكريم ｜ الأمثال في القرآن الكريم ｜ القصة في القرآن الكريم.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/371/026_26- علوم القرآن الكريم ｜ الأمثال في القرآن الكريم ｜ القصة في القرآن الكريم.txt",
+   "sha256": "26c06d038fa91ae93f08ace03bb6fd236908e325b1aee7c28d16dcdfa249537c",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/3oloumEl9or1n-026/transcript.txt",
+   "sha256": "26e5af1e0d6fe61b37bfc78f5a5689599215828be1e1266ee0f4c49104cb86cc",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/muqtatafat-ulum/25.txt",
+   "sha256": "26c06d038fa91ae93f08ace03bb6fd236908e325b1aee7c28d16dcdfa249537c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-ulum-quran/26.txt",
+   "sha256": "26e5af1e0d6fe61b37bfc78f5a5689599215828be1e1266ee0f4c49104cb86cc",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/355/25.txt",
+   "sha256": "26c06d038fa91ae93f08ace03bb6fd236908e325b1aee7c28d16dcdfa249537c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "said-bouti--bouti-muqtatafat-ulum"
+ ]
+}

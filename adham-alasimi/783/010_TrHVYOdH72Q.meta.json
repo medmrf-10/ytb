@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:TrHVYOdH72Q",
+ "vid": "TrHVYOdH72Q",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--783",
+ "n": 10,
+ "n_src": "read",
+ "title": "(10) الدرس العاشر ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "b13ed7359b639fde7c44b40b540fd9b7ec55c4fe59ec576438b479fe7a995053",
+ "nh": "c6387a97a14e32f1935f68dc5e7da0c60a11aed4a45aecbd7178c7692ad9d64b",
+ "chars": 11680,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/783/010_(10) الدرس العاشر ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/783/010_(10) الدرس العاشر ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "b13ed7359b639fde7c44b40b540fd9b7ec55c4fe59ec576438b479fe7a995053",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/783/9.txt",
+   "sha256": "b13ed7359b639fde7c44b40b540fd9b7ec55c4fe59ec576438b479fe7a995053",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:EYlWd0R2lK4",
+ "vid": "EYlWd0R2lK4",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--786",
+ "n": 22,
+ "n_src": "read",
+ "title": "الهجرة أسبابها ودروسها ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "a1c1b93f1da4ae5b77e539f44773a56ade3d1ef1ed2a2e3780a50567d58ce135",
+ "nh": "11506ee8165d7387068667e62724dbe93ef2baf2416ac17654587c4142e3d4d3",
+ "chars": 14693,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/786/022_الهجرة أسبابها ودروسها ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/786/022_الهجرة أسبابها ودروسها ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "a1c1b93f1da4ae5b77e539f44773a56ade3d1ef1ed2a2e3780a50567d58ce135",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/786/21.txt",
+   "sha256": "a1c1b93f1da4ae5b77e539f44773a56ade3d1ef1ed2a2e3780a50567d58ce135",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

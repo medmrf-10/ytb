@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:c3zEDThEyLg",
+ "vid": "c3zEDThEyLg",
+ "sheikh": "hatem-alaouni",
+ "row_id": "hatem-alaouni--aouni-jabir",
+ "n": 4,
+ "n_src": "trfile",
+ "title": "الدرس الرابع : الاستمرار في التأكيد على تصحيح العلماء للحديث ، والرد على بعض شبههم في فقهه ودلالته .",
+ "title_src": "yt_titles",
+ "sha256": "3f498ca79fbdaa021bed9eec40b47a117652d3c2f03127a9fbf25d939c658f38",
+ "nh": "aa04ef43f03ffea9d23d39a29e30cf9cbf8cc05f7b5abfd54de5695accb9a216",
+ "chars": 10368,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/aouniJabir-004/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/aouniJabir-004/transcript.txt",
+   "sha256": "3f498ca79fbdaa021bed9eec40b47a117652d3c2f03127a9fbf25d939c658f38",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/aouni/jabir/004_c3zEDThEyLg.txt",
+   "sha256": "3f498ca79fbdaa021bed9eec40b47a117652d3c2f03127a9fbf25d939c658f38",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/aouni-jabir/004.txt",
+   "sha256": "3f498ca79fbdaa021bed9eec40b47a117652d3c2f03127a9fbf25d939c658f38",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

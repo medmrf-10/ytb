@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:h3yZ4h-nHaQ",
+ "vid": "h3yZ4h-nHaQ",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 46,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / التجديد بين التسديد والتبديد / الدكتور سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "f737c5b8e6f56224e327803a96d4b8e4db831503321e6712d34aefbf26656628",
+ "nh": "810f69d6348532106588adff0b4622d507f1c3969dd69292c0507beced3b8bc6",
+ "chars": 21118,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-046/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-046/transcript.txt",
+   "sha256": "f737c5b8e6f56224e327803a96d4b8e4db831503321e6712d34aefbf26656628",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/046_h3yZ4h-nHaQ.txt",
+   "sha256": "f737c5b8e6f56224e327803a96d4b8e4db831503321e6712d34aefbf26656628",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/046.txt",
+   "sha256": "f737c5b8e6f56224e327803a96d4b8e4db831503321e6712d34aefbf26656628",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

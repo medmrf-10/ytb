@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:4d9747mZ6BA",
+ "vid": "4d9747mZ6BA",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 68,
+ "n_src": "read",
+ "title": "خطب منبرية： النفس محل التغيير في الإنسان ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "a0cbccdcf8155bb8d0d8278624305e3ffdd5c9b92ed6eeb694aecafbe798efb7",
+ "nh": "1767fd4f64561ee434014d1e52b312bb3dd94e96b06d9e61ecb8ddfddb5d1e19",
+ "chars": 9603,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/068_خطب منبرية： النفس محل التغيير في الإنسان ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/068_خطب منبرية： النفس محل التغيير في الإنسان ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "a0cbccdcf8155bb8d0d8278624305e3ffdd5c9b92ed6eeb694aecafbe798efb7",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/67.txt",
+   "sha256": "a0cbccdcf8155bb8d0d8278624305e3ffdd5c9b92ed6eeb694aecafbe798efb7",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

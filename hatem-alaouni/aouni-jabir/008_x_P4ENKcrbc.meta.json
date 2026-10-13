@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:x_P4ENKcrbc",
+ "vid": "x_P4ENKcrbc",
+ "sheikh": "hatem-alaouni",
+ "row_id": "hatem-alaouni--aouni-jabir",
+ "n": 8,
+ "n_src": "trfile",
+ "title": "الدرس الثامن : الرد على من زعم نسخ حديث جابر | أ.د الشريف حاتم العوني",
+ "title_src": "yt_titles",
+ "sha256": "d1d91f9b2cd32be5e77dd1a0a1fab6b0206c717b8171117972b5b8a9b2cc27b2",
+ "nh": "9fa4dc63a6ed20d5313115854ca9b6aec0170369f5d1188b2dac10c6bf6cf43e",
+ "chars": 13266,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/aouniJabir-008/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/aouniJabir-008/transcript.txt",
+   "sha256": "d1d91f9b2cd32be5e77dd1a0a1fab6b0206c717b8171117972b5b8a9b2cc27b2",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/aouni/jabir/008_x_P4ENKcrbc.txt",
+   "sha256": "d1d91f9b2cd32be5e77dd1a0a1fab6b0206c717b8171117972b5b8a9b2cc27b2",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/aouni-jabir/008.txt",
+   "sha256": "d1d91f9b2cd32be5e77dd1a0a1fab6b0206c717b8171117972b5b8a9b2cc27b2",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

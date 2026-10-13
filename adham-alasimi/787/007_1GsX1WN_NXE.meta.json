@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:1GsX1WN_NXE",
+ "vid": "1GsX1WN_NXE",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--787",
+ "n": 7,
+ "n_src": "read",
+ "title": "(7) فعلا (نعم وبئس ) ⧸ دورة النحو المستوى الثاني⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "2aff6ce274cbb6f0195c71d238d679d4ca4fc5d6b4031467d2a609068d870e06",
+ "nh": "925c034b09fdc5ea6b43e5c264d621783373d13fa10ce16c5c482734c18fa764",
+ "chars": 19397,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/787/007_(7) فعلا (نعم وبئس ) ⧸ دورة النحو المستوى الثاني⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/787/007_(7) فعلا (نعم وبئس ) ⧸ دورة النحو المستوى الثاني⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "2aff6ce274cbb6f0195c71d238d679d4ca4fc5d6b4031467d2a609068d870e06",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/787/6.txt",
+   "sha256": "2aff6ce274cbb6f0195c71d238d679d4ca4fc5d6b4031467d2a609068d870e06",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

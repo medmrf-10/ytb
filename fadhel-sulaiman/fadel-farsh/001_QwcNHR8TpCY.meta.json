@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:QwcNHR8TpCY",
+ "vid": "QwcNHR8TpCY",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-farsh",
+ "n": 1,
+ "n_src": "trfile",
+ "title": "تدبر فرش القراءات- حلقة المقدمة",
+ "title_src": "yt_titles",
+ "sha256": "6bc921f0f791ca1f786d5eb24f4c2c4c0db3a5dace96426dec1246fbcc2b231b",
+ "nh": "0960ff7f458b6426168f8c56388c8084dfa153b89a823bb699b1c8f2044400dd",
+ "chars": 27069,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelFarsh-001/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelFarsh-001/transcript.txt",
+   "sha256": "6bc921f0f791ca1f786d5eb24f4c2c4c0db3a5dace96426dec1246fbcc2b231b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-farsh/001.txt",
+   "sha256": "6bc921f0f791ca1f786d5eb24f4c2c4c0db3a5dace96426dec1246fbcc2b231b",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

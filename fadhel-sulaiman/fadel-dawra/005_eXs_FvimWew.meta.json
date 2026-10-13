@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:eXs_FvimWew",
+ "vid": "eXs_FvimWew",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-dawra",
+ "n": 5,
+ "n_src": "trfile",
+ "title": "الدرس الخامس من دورة مفاتح التدبر | كيف تستخلص رسائل القرآن | فاضل سليمان",
+ "title_src": "yt_titles",
+ "sha256": "48b6ac04934fd120a2192b25e249b4783c534ef6d0e6cc4368e43603a2c6848d",
+ "nh": "39ffc9fd935b314cbcc07a8949eefe865287914a1b1500e8c17c1288a6891a8e",
+ "chars": 9137,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelDawra-005/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelDawra-005/transcript.txt",
+   "sha256": "48b6ac04934fd120a2192b25e249b4783c534ef6d0e6cc4368e43603a2c6848d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-dawra/005.txt",
+   "sha256": "48b6ac04934fd120a2192b25e249b4783c534ef6d0e6cc4368e43603a2c6848d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:yS5osLsPHKg",
+ "vid": "yS5osLsPHKg",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 3,
+ "n_src": "trfile",
+ "title": "ميراث المرأة في الإسلام/د. سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "770ffb30ba99ff8716038193977cd7eb93f1bd9e20b2de0d640aa14ba1677435",
+ "nh": "b59fefa549054fefedd104657d1da720bcc48c58b85b021be05c461608b937a7",
+ "chars": 7643,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-003/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-003/transcript.txt",
+   "sha256": "770ffb30ba99ff8716038193977cd7eb93f1bd9e20b2de0d640aa14ba1677435",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/003_yS5osLsPHKg.txt",
+   "sha256": "770ffb30ba99ff8716038193977cd7eb93f1bd9e20b2de0d640aa14ba1677435",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/003.txt",
+   "sha256": "770ffb30ba99ff8716038193977cd7eb93f1bd9e20b2de0d640aa14ba1677435",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

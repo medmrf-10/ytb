@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:HcPbQhMLJuI",
+ "vid": "HcPbQhMLJuI",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--789",
+ "n": 10,
+ "n_src": "read",
+ "title": "الأمن العام ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "26ef41c7fe9c200150ed38fc13baec0bec3db018adae9dbd0f10236f897cc508",
+ "nh": "b694e959849b138dd1d62f99502f7815f65afc43b6aec3861aa5e711e26ba831",
+ "chars": 12869,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/789/010_الأمن العام ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/789/010_الأمن العام ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "26ef41c7fe9c200150ed38fc13baec0bec3db018adae9dbd0f10236f897cc508",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/789/9.txt",
+   "sha256": "26ef41c7fe9c200150ed38fc13baec0bec3db018adae9dbd0f10236f897cc508",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,39 @@
+{
+ "v": 1,
+ "lid": "yt:TmLggAmX4sk",
+ "vid": "TmLggAmX4sk",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--114",
+ "n": 26,
+ "n_src": "read",
+ "title": "الإنسانية قبل التدين ｜ الحلقة 25 - الحدود والقصاص وإنسانية العفو 1 ｜ علي الجفري",
+ "title_src": "filename",
+ "sha256": "af9c0de8e393dc1cedb1d4df053bffefd6b4cba301053e0d01f3885b8e1e273a",
+ "nh": "000779f35fdc1aceea3a21c676adbff8bbb1303599365e0c4bedab9da0044502",
+ "chars": 8276,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/114/026_الإنسانية قبل التدين ｜ الحلقة 25 - الحدود والقصاص وإنسانية العفو 1 ｜ علي الجفري .txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/114/026_الإنسانية قبل التدين ｜ الحلقة 25 - الحدود والقصاص وإنسانية العفو 1 ｜ علي الجفري .txt",
+   "sha256": "af9c0de8e393dc1cedb1d4df053bffefd6b4cba301053e0d01f3885b8e1e273a",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/114/1.txt",
+   "sha256": "367c389654fab6906812bf8b2d08f9bf56fe2268c52b7386f7a53412bbe7b021",
+   "rel": "variant"
+  }
+ ],
+ "variants": [
+  "_variants/026_TmLggAmX4sk.des-dur.txt"
+ ],
+ "also_in": []
+}

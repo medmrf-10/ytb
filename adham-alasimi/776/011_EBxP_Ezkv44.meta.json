@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:EBxP_Ezkv44",
+ "vid": "EBxP_Ezkv44",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--776",
+ "n": 11,
+ "n_src": "read",
+ "title": "(11) الدرس الأخير ⧸ تيسير علوم الحديث ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "7f7678a7af49147cf44559823f3777c9115457cb7634910b35a14504b559c95c",
+ "nh": "a58eb3955798769ab61d11d36aa054d174b0269ec253a17b1ea09dd576d6459e",
+ "chars": 26325,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/776/011_(11) الدرس الأخير ⧸ تيسير علوم الحديث ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/776/011_(11) الدرس الأخير ⧸ تيسير علوم الحديث ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "7f7678a7af49147cf44559823f3777c9115457cb7634910b35a14504b559c95c",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/776/10.txt",
+   "sha256": "7f7678a7af49147cf44559823f3777c9115457cb7634910b35a14504b559c95c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

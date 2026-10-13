@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:ePLhD5Db-N0",
+ "vid": "ePLhD5Db-N0",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--92",
+ "n": 10,
+ "n_src": "read",
+ "title": "حلقة 4： حوار أتباع الأديان - الأنبا مرقس ｜ آمنت بالله ｜ الحبيب علي الجفري",
+ "title_src": "filename",
+ "sha256": "2d5756ba3f7956572bc7f986c66fcf92bcbe3a4ea668d9928bf43fb8ff2e2494",
+ "nh": "73e4db673d3313140343dcb57e3259fa6f411eb4bd562386fad9a0d810c16b40",
+ "chars": 14868,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/92/010_حلقة 4： حوار أتباع الأديان - الأنبا مرقس ｜ آمنت بالله ｜ الحبيب علي الجفري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/92/010_حلقة 4： حوار أتباع الأديان - الأنبا مرقس ｜ آمنت بالله ｜ الحبيب علي الجفري.txt",
+   "sha256": "2d5756ba3f7956572bc7f986c66fcf92bcbe3a4ea668d9928bf43fb8ff2e2494",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/92/27.txt",
+   "sha256": "2d5756ba3f7956572bc7f986c66fcf92bcbe3a4ea668d9928bf43fb8ff2e2494",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:jx0On28HYwc",
+ "vid": "jx0On28HYwc",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--779",
+ "n": 18,
+ "n_src": "read",
+ "title": "(18) المحسنات المعنوية(1) ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "e2b8ea7c890c7e6af8a6fedb1df0f01f5018d946962dc9fb29ba54499872ba59",
+ "nh": "a7ad222dbcfbe63408172bb78b9e1b4f29b8dc737edbc0ee62e18628c94eb0c8",
+ "chars": 17404,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/779/018_(18) المحسنات المعنوية(1) ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/779/018_(18) المحسنات المعنوية(1) ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "e2b8ea7c890c7e6af8a6fedb1df0f01f5018d946962dc9fb29ba54499872ba59",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/779/0.txt",
+   "sha256": "e2b8ea7c890c7e6af8a6fedb1df0f01f5018d946962dc9fb29ba54499872ba59",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:HCUJdRY73XE",
+ "vid": "HCUJdRY73XE",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--365",
+ "n": 3,
+ "n_src": "read",
+ "title": "2 - ضائعون هداهم القرآن بشر الحافي - عبد الله بن المبارك",
+ "title_src": "filename",
+ "sha256": "441d2906c3e34c268a95701b201746152c75376cb382e98d31ea369ab5fbc95a",
+ "nh": "f7bb472e98c4a1897043eb68b48abdc9cc059ff0f9e8e821928013617cf9414a",
+ "chars": 12562,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/365/003_2 - ضائعون هداهم القرآن  بشر الحافي - عبد الله بن المبارك.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/365/003_2 - ضائعون هداهم القرآن  بشر الحافي - عبد الله بن المبارك.txt",
+   "sha256": "441d2906c3e34c268a95701b201746152c75376cb382e98d31ea369ab5fbc95a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tawba/003_2 - ضائعون هداهم القرآن  بشر الحافي - عبد الله بن المبارك.txt",
+   "sha256": "441d2906c3e34c268a95701b201746152c75376cb382e98d31ea369ab5fbc95a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/dayoon/003_2 - ضائعون هداهم القرآن  بشر الحافي - عبد الله بن المبارك.txt",
+   "sha256": "441d2906c3e34c268a95701b201746152c75376cb382e98d31ea369ab5fbc95a",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--994:1",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--994",
+ "n": 1,
+ "n_src": "read",
+ "title": "＂إقبارُ الانتصار＂ مناقشة لكتاب 'الانتصار للتدمرية'(الحلقة الخامسة) ｜ الشيخ محمد",
+ "title_src": "filename",
+ "sha256": "cb62efdec3debee7f5e640e817a5db53dd7c69a4e6463840a76c631263517bad",
+ "nh": "241fe9f853a0220581dd1a34de3460bb70937cb6ca21c3b88179a60967214588",
+ "chars": 10755,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/994/001_＂إقبارُ الانتصار＂ مناقشة لكتاب 'الانتصار للتدمرية'(الحلقة الخامسة) ｜ الشيخ محمد .txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/994/001_＂إقبارُ الانتصار＂ مناقشة لكتاب 'الانتصار للتدمرية'(الحلقة الخامسة) ｜ الشيخ محمد .txt",
+   "sha256": "cb62efdec3debee7f5e640e817a5db53dd7c69a4e6463840a76c631263517bad",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/994/0.txt",
+   "sha256": "cb62efdec3debee7f5e640e817a5db53dd7c69a4e6463840a76c631263517bad",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

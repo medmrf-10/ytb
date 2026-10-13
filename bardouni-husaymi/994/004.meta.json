@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--994:4",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--994",
+ "n": 4,
+ "n_src": "read",
+ "title": "＂إقبارُ الاِنتِصار＂ مناقشة لكتاب 'الانتصار للتدمرية' (الحلقة الأولى) ｜｜ الشيخ م",
+ "title_src": "filename",
+ "sha256": "4c766428c29962f961b4b64a2d6382682432948326e4dccfba45fceaa7259948",
+ "nh": "92d63e9db49597c65613d627aa2b08b47eec5c4730066a5246eb11640ce13bfe",
+ "chars": 8951,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/994/004_＂إقبارُ الاِنتِصار＂ مناقشة لكتاب 'الانتصار للتدمرية'  (الحلقة الأولى) ｜｜ الشيخ م.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/994/004_＂إقبارُ الاِنتِصار＂ مناقشة لكتاب 'الانتصار للتدمرية'  (الحلقة الأولى) ｜｜ الشيخ م.txt",
+   "sha256": "4c766428c29962f961b4b64a2d6382682432948326e4dccfba45fceaa7259948",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/994/3.txt",
+   "sha256": "4c766428c29962f961b4b64a2d6382682432948326e4dccfba45fceaa7259948",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

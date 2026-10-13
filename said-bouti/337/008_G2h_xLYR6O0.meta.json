@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:G2h_xLYR6O0",
+ "vid": "G2h_xLYR6O0",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--337",
+ "n": 8,
+ "n_src": "mutfile",
+ "title": "7 - في رحاب القرآن واقع مؤسف",
+ "title_src": "filename",
+ "sha256": "cc064e8349fa4c5b2d0a9c44448688e20e53e925ac690656e052adad828a7165",
+ "nh": "5443fa5dfcc4c64a32f5925483ea48b8d6b513caf8b8c50d7092b72d2786b589",
+ "chars": 1729,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/337/008_7 - في رحاب القرآن  واقع مؤسف.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/337/008_7 - في رحاب القرآن  واقع مؤسف.txt",
+   "sha256": "cc064e8349fa4c5b2d0a9c44448688e20e53e925ac690656e052adad828a7165",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/rihab/008_7 - في رحاب القرآن  واقع مؤسف.txt",
+   "sha256": "cc064e8349fa4c5b2d0a9c44448688e20e53e925ac690656e052adad828a7165",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-337/008.txt",
+   "sha256": "8fcbdad05d504f3a1cb7b72e04ff0f66c822d3fc23f1d4ecf61692a9500a47eb",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

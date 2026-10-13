@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "yt:MU8jK5H9zhU",
+ "vid": "MU8jK5H9zhU",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--414",
+ "n": 36,
+ "n_src": "read",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 36",
+ "title_src": "filename",
+ "sha256": "aa674a89848c78ed78d4fd7cd8d8b5fd6ef3ac2755408264ca8a8b69f2ffac9f",
+ "nh": "2740623f8c4a84cc6cf91fa4774caa1dcdb251891d306517325dd84a130dedc9",
+ "chars": 23498,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/036_تفسير القرآن الكريم للدكتور البوطي - الدرس 36.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/036_تفسير القرآن الكريم للدكتور البوطي - الدرس 36.txt",
+   "sha256": "aa674a89848c78ed78d4fd7cd8d8b5fd6ef3ac2755408264ca8a8b69f2ffac9f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/036.txt",
+   "sha256": "923225e16f535428ad554b063eba2decbdd08a1676881aed01364f699e158fa0",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/414/17.txt",
+   "sha256": "aa674a89848c78ed78d4fd7cd8d8b5fd6ef3ac2755408264ca8a8b69f2ffac9f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "said-bouti--bouti-414"
+ ]
+}

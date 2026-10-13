@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:1oY5ScWiGjU",
+ "vid": "1oY5ScWiGjU",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 53,
+ "n_src": "read",
+ "title": "خطب منبرية： صدق الشعور عند أهل الإيمان ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "a2e34d15df441131657f0e9438f4167936fe83e996a35e5e566e3d67c300b45b",
+ "nh": "8053ed34923e2911144fed6a574d55a81fe92bd5a3ff6a7c6aabec376ff6dd7e",
+ "chars": 12343,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/053_خطب منبرية：  صدق الشعور عند أهل الإيمان ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/053_خطب منبرية：  صدق الشعور عند أهل الإيمان ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "a2e34d15df441131657f0e9438f4167936fe83e996a35e5e566e3d67c300b45b",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/52.txt",
+   "sha256": "a2e34d15df441131657f0e9438f4167936fe83e996a35e5e566e3d67c300b45b",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

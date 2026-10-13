@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:jyP-vQhNIDE",
+ "vid": "jyP-vQhNIDE",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--656",
+ "n": 47,
+ "n_src": "mutfile",
+ "title": "رياض الصالحين 47 ｜ باب الأمر بأداء الأمانة 2 ｜ أنوار السنة المحمدية ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "aac25c7e0b712f7b58f19295fc77bf012efed59e2cd38862c7c1b4d1acf9ec59",
+ "nh": "7dd83662f43904adef5e186d1379fa9a2ba0915467a073ae550588a163a40f1c",
+ "chars": 20958,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/656/047_رياض الصالحين 47 ｜ باب الأمر بأداء الأمانة 2 ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/656/047_رياض الصالحين 47 ｜ باب الأمر بأداء الأمانة 2 ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+   "sha256": "aac25c7e0b712f7b58f19295fc77bf012efed59e2cd38862c7c1b4d1acf9ec59",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/riyadElsali7in-047/transcript.txt",
+   "sha256": "a5ae8db1d5b7606fb180af6d79ee7d6590ca2bd4ef429dc6437767b4b54143b3",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-656/047.txt",
+   "sha256": "a5ae8db1d5b7606fb180af6d79ee7d6590ca2bd4ef429dc6437767b4b54143b3",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:dgSDJezN5DE",
+ "vid": "dgSDJezN5DE",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--786",
+ "n": 23,
+ "n_src": "read",
+ "title": "ماحدث في سوريا ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "d54a61bdb5bb9ea2592383060bf050779133952b9c03dff2ad43c17015f360a4",
+ "nh": "d2bf7844ee05674edec544c428431c1ceb078b0e9ed21da9053f2aead221df50",
+ "chars": 13938,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/786/023_ماحدث في سوريا ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/786/023_ماحدث في سوريا ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "d54a61bdb5bb9ea2592383060bf050779133952b9c03dff2ad43c17015f360a4",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/786/22.txt",
+   "sha256": "d54a61bdb5bb9ea2592383060bf050779133952b9c03dff2ad43c17015f360a4",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

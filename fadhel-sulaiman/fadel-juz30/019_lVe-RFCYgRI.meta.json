@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:lVe-RFCYgRI",
+ "vid": "lVe-RFCYgRI",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-juz30",
+ "n": 19,
+ "n_src": "trfile",
+ "title": "فيديو # ٦٣٤ من مقاطع حظر التجول تدبر سورة الفجر  الآيات ١-١٤",
+ "title_src": "yt_titles",
+ "sha256": "c778d7fcf4ed7fa4775dd07d75f67ce43265e79713a44bcc6677db7b44804071",
+ "nh": "3c9a4d9058b73bf93990421915bf8a0169c8fc90bdfacdac1bbaf85b1950dc6b",
+ "chars": 16720,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelJuz30-019/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelJuz30-019/transcript.txt",
+   "sha256": "c778d7fcf4ed7fa4775dd07d75f67ce43265e79713a44bcc6677db7b44804071",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-juz30/019.txt",
+   "sha256": "c778d7fcf4ed7fa4775dd07d75f67ce43265e79713a44bcc6677db7b44804071",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

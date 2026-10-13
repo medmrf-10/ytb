@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:WYX8zhPP9Ns",
+ "vid": "WYX8zhPP9Ns",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 53,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / الاحتفال بالمولد النبوي / الدكتور سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "09c8e936b963b276b0ccb46e819f48e494ab7b29d5b0c2eda24b80014abeb93c",
+ "nh": "6427c8fe4bdc5e38394be422984af274a83b0b6f5e15feb9920a6d957641802d",
+ "chars": 10927,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-053/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-053/transcript.txt",
+   "sha256": "09c8e936b963b276b0ccb46e819f48e494ab7b29d5b0c2eda24b80014abeb93c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/053_WYX8zhPP9Ns.txt",
+   "sha256": "09c8e936b963b276b0ccb46e819f48e494ab7b29d5b0c2eda24b80014abeb93c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/053.txt",
+   "sha256": "09c8e936b963b276b0ccb46e819f48e494ab7b29d5b0c2eda24b80014abeb93c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

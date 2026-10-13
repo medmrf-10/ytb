@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:XrjsXuixjNo",
+ "vid": "XrjsXuixjNo",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--992",
+ "n": 17,
+ "n_src": "read",
+ "title": "شرح الرسالة العضدية ｜ الدرس 17 ( قوله ＂ الخاتمة تشتمل على تنبيهات ＂ ) ｜ الشيخ م",
+ "title_src": "filename",
+ "sha256": "134c9287de1bb0d196c7ef4864e944688934ff667cafad84b5e97bb7e84a5461",
+ "nh": "7cab32a48daa08bdd6714352a9c90b78ceaf9fc875718d81c0ba8b0f6a596ba6",
+ "chars": 14979,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/992/017_شرح الرسالة العضدية ｜ الدرس 17 ( قوله ＂ الخاتمة تشتمل على تنبيهات ＂ ) ｜ الشيخ  م.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/992/017_شرح الرسالة العضدية ｜ الدرس 17 ( قوله ＂ الخاتمة تشتمل على تنبيهات ＂ ) ｜ الشيخ  م.txt",
+   "sha256": "134c9287de1bb0d196c7ef4864e944688934ff667cafad84b5e97bb7e84a5461",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/sariri/risala-adudiyya/32.txt",
+   "sha256": "134c9287de1bb0d196c7ef4864e944688934ff667cafad84b5e97bb7e84a5461",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/36/32.txt",
+   "sha256": "134c9287de1bb0d196c7ef4864e944688934ff667cafad84b5e97bb7e84a5461",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "mouloud-sariri--36",
+  "mouloud-sariri--sariri-risala-adudiyya"
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:5he7a0ppSpI",
+ "vid": "5he7a0ppSpI",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 4,
+ "n_src": "read",
+ "title": "خطب منبرية ： آفة الطغيان وأسبابه ⧸ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "24a544de0902b65cb9ac26d92bfc38ca3b86ce2465be019b8f681f9351fd0899",
+ "nh": "1391f36f0ca59be2dd0f5389371694d1ef86d6af88006ec20a906edfd674f19f",
+ "chars": 12697,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/004_خطب منبرية ： آفة الطغيان وأسبابه ⧸ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/004_خطب منبرية ： آفة الطغيان وأسبابه ⧸ الشيخ العلامة مولود السريري.txt",
+   "sha256": "24a544de0902b65cb9ac26d92bfc38ca3b86ce2465be019b8f681f9351fd0899",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/3.txt",
+   "sha256": "24a544de0902b65cb9ac26d92bfc38ca3b86ce2465be019b8f681f9351fd0899",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

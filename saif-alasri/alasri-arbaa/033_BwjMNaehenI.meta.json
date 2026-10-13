@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:BwjMNaehenI",
+ "vid": "BwjMNaehenI",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 33,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / ضابط الخلاف المعتبر / د. سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "67a91e60aa6531a4f62d0963bfa583b6bd2f4f29f936deef3fe6a5677f1c9f58",
+ "nh": "2f7119c4faf6b1fd00f5cf2a936b61e552385d62d1185bb7aeaf225cccbff832",
+ "chars": 24069,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-033/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-033/transcript.txt",
+   "sha256": "67a91e60aa6531a4f62d0963bfa583b6bd2f4f29f936deef3fe6a5677f1c9f58",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/033_BwjMNaehenI.txt",
+   "sha256": "67a91e60aa6531a4f62d0963bfa583b6bd2f4f29f936deef3fe6a5677f1c9f58",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/033.txt",
+   "sha256": "67a91e60aa6531a4f62d0963bfa583b6bd2f4f29f936deef3fe6a5677f1c9f58",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:zqn4QcXDUz8",
+ "vid": "zqn4QcXDUz8",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--783",
+ "n": 21,
+ "n_src": "read",
+ "title": "(21) الدرس الواحد و العشرون ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "15a9d1fba89bd803b61ad96a72aee0caf7080c0620861cdc9ab78997f119bf02",
+ "nh": "a7e448310c24a3be85d3a8e78c641543039c0c03afc9994ad934f8b5bc1f0108",
+ "chars": 12599,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/783/021_(21) الدرس الواحد و العشرون ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/783/021_(21) الدرس الواحد و العشرون ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "15a9d1fba89bd803b61ad96a72aee0caf7080c0620861cdc9ab78997f119bf02",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/783/20.txt",
+   "sha256": "15a9d1fba89bd803b61ad96a72aee0caf7080c0620861cdc9ab78997f119bf02",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

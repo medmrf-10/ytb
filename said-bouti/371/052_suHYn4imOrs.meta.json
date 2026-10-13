@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:suHYn4imOrs",
+ "vid": "suHYn4imOrs",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--371",
+ "n": 52,
+ "n_src": "plpos",
+ "title": "52- علوم القرآن الكريم | دراسات تطبيقية في المبادئ والإنسانيات (وَلَا تَقْرَبُوا الزِّنَا..)",
+ "title_src": "yt_titles",
+ "sha256": "c8ec894d4f452adf4a20ffcf5072bf258e260590c0440fb53701837349d4f088",
+ "nh": "e61ffcf762061fe9463a2fbf430c2eedadb1fb5231f8464016a4878520088614",
+ "chars": 24066,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/371/052_52- علوم القرآن الكريم ｜ دراسات تطبيقية في المبادئ والإنسانيات (وَلَا تَقْرَبُوا.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/371/052_52- علوم القرآن الكريم ｜ دراسات تطبيقية في المبادئ والإنسانيات (وَلَا تَقْرَبُوا.txt",
+   "sha256": "c8ec894d4f452adf4a20ffcf5072bf258e260590c0440fb53701837349d4f088",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/3oloumEl9or1n-052/transcript.txt",
+   "sha256": "ddb0610b09ac0499f03bb58304827eab8bd247e4c7edf25f9cfea51f781e1721",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-ulum-quran/52.txt",
+   "sha256": "ddb0610b09ac0499f03bb58304827eab8bd247e4c7edf25f9cfea51f781e1721",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:uA0mcUfIVlw",
+ "vid": "uA0mcUfIVlw",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--alsayed-mut-630",
+ "n": 7,
+ "n_src": "trfile",
+ "title": "الدرس 7",
+ "title_src": "filename",
+ "sha256": "ff42e05f2b9a259294da7ff33948910758e760acb2c4c6a62ff475305867c4b4",
+ "nh": "2c54c22077bdf6f553cdbe8df7d10e1f302a832ae1f5a7a369657b7c8efcf36c",
+ "chars": 64640,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/tari5ElfikrElgharbi-007/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/tari5ElfikrElgharbi-007/transcript.txt",
+   "sha256": "ff42e05f2b9a259294da7ff33948910758e760acb2c4c6a62ff475305867c4b4",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-630/007.txt",
+   "sha256": "ff42e05f2b9a259294da7ff33948910758e760acb2c4c6a62ff475305867c4b4",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:mHVPMMJpWQg",
+ "vid": "mHVPMMJpWQg",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--117",
+ "n": 10,
+ "n_src": "read",
+ "title": "حلقة 10- حلف الفضول وتناغم النشاز - سلسلة الإنسانية قبل التدين",
+ "title_src": "filename",
+ "sha256": "7933d211076c1730ea0146017a567c416e375b0a99b2b13744a251016b88affb",
+ "nh": "2d95c0b07bac32a768f51a0146fbd850d865ecfab0c46f16ebf4aaeddd7196a4",
+ "chars": 1711,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/117/010_حلقة 10- حلف الفضول وتناغم النشاز - سلسلة الإنسانية قبل التدين.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/117/010_حلقة 10- حلف الفضول وتناغم النشاز - سلسلة الإنسانية قبل التدين.txt",
+   "sha256": "7933d211076c1730ea0146017a567c416e375b0a99b2b13744a251016b88affb",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/insaniyya/22.txt",
+   "sha256": "7933d211076c1730ea0146017a567c416e375b0a99b2b13744a251016b88affb",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/112/22.txt",
+   "sha256": "7933d211076c1730ea0146017a567c416e375b0a99b2b13744a251016b88affb",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-ali-aljifri--112",
+  "k:117"
+ ]
+}

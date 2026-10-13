@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:XzDslE1Erh0",
+ "vid": "XzDslE1Erh0",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--123",
+ "n": 32,
+ "n_src": "read",
+ "title": "في رمضان ｜ برنامج أيها المريد ｜ الحبيب علي الجفري",
+ "title_src": "filename",
+ "sha256": "dbdc10604293a5e52ac3655fd3a7521a49cc3ac72de0502b81167f6045d4a528",
+ "nh": "0be6f980313f818fee1652fe00f29033fac73148ef11410734e960371fea4131",
+ "chars": 659,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/123/032_في رمضان ｜ برنامج  أيها المريد ｜ الحبيب علي الجفري.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/123/032_في رمضان ｜ برنامج  أيها المريد ｜ الحبيب علي الجفري.txt",
+   "sha256": "dbdc10604293a5e52ac3655fd3a7521a49cc3ac72de0502b81167f6045d4a528",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/mut-123/032_في رمضان ｜ برنامج  أيها المريد ｜ الحبيب علي الجفري.txt",
+   "sha256": "dbdc10604293a5e52ac3655fd3a7521a49cc3ac72de0502b81167f6045d4a528",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

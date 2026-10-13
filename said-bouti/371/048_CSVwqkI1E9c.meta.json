@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:CSVwqkI1E9c",
+ "vid": "CSVwqkI1E9c",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--371",
+ "n": 48,
+ "n_src": "plpos",
+ "title": "48- علوم القرآن الكريم | دراسات تطبيقية في الوصف (وَاللَّهُ يَقْضِي بِالْحَقِّ...)",
+ "title_src": "yt_titles",
+ "sha256": "0936b494da836cdd2eacd0a70dd2b16fbc140cfd2d5ae3e1035112a3950d1c2e",
+ "nh": "3e538054f2f528237bd3f44e8885b087888c9649ee1e59caa4c45de35542cfb4",
+ "chars": 20280,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/371/048_48- علوم القرآن الكريم ｜ دراسات تطبيقية في الوصف (وَاللَّهُ يَقْضِي بِالْحَقِّ...txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/371/048_48- علوم القرآن الكريم ｜ دراسات تطبيقية في الوصف (وَاللَّهُ يَقْضِي بِالْحَقِّ...txt",
+   "sha256": "0936b494da836cdd2eacd0a70dd2b16fbc140cfd2d5ae3e1035112a3950d1c2e",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/3oloumEl9or1n-048/transcript.txt",
+   "sha256": "be61850df0b26b6edbb97ea425dc5eabcf70849566fba59536894551250eebec",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-ulum-quran/48.txt",
+   "sha256": "be61850df0b26b6edbb97ea425dc5eabcf70849566fba59536894551250eebec",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:FXbF1Hp5GVU",
+ "vid": "FXbF1Hp5GVU",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 26,
+ "n_src": "plpos",
+ "title": "المتشددون | حـ 26 | مفهوم الجهاد | أ.د علي جمعة",
+ "title_src": "yt_titles",
+ "sha256": "61ad7f30405cb40e01a2b99904b743c2792f8c3e49584049cf25f4786c461968",
+ "nh": "550043d4a96e3addb4c02c03fbfd42eee039e91249d7eb3e47db2ae1efe9403b",
+ "chars": 17021,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/026_المتشددون ｜ حـ 26 ｜ مفهوم الجهاد ｜ أ.د علي جمعة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/026_المتشددون ｜ حـ 26 ｜ مفهوم الجهاد ｜ أ.د علي جمعة.txt",
+   "sha256": "61ad7f30405cb40e01a2b99904b743c2792f8c3e49584049cf25f4786c461968",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/026_المتشددون ｜ حـ 26 ｜ مفهوم الجهاد ｜ أ.د علي جمعة.txt",
+   "sha256": "61ad7f30405cb40e01a2b99904b743c2792f8c3e49584049cf25f4786c461968",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/026.txt",
+   "sha256": "bb19af4d903ae68574ef81fda95ef95d5fcde7a701ff74814f2924dba2df3811",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

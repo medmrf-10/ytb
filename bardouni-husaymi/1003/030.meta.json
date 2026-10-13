@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:30",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 30,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 95 ( باب في الضحايا-تتمة- ) ｜ الشيخ محمد البردوني",
+ "title_src": "filename",
+ "sha256": "858d3f7fd5ec3e08c7abcbe824f6b7d776ff798a27d908c3ed6d90e87e988642",
+ "nh": "ea8f75db36bb8f7ee4e73f0f94c563f236a07660f73639443b98fbd489cae3ee",
+ "chars": 9174,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/030_شرح رسالة ابن ابي زيد ｜ الدرس 95 ( باب في الضحايا-تتمة-  ) ｜ الشيخ محمد البردوني.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/030_شرح رسالة ابن ابي زيد ｜ الدرس 95 ( باب في الضحايا-تتمة-  ) ｜ الشيخ محمد البردوني.txt",
+   "sha256": "858d3f7fd5ec3e08c7abcbe824f6b7d776ff798a27d908c3ed6d90e87e988642",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/96.txt",
+   "sha256": "858d3f7fd5ec3e08c7abcbe824f6b7d776ff798a27d908c3ed6d90e87e988642",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

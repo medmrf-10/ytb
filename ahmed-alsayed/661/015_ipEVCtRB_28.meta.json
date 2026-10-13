@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:ipEVCtRB_28",
+ "vid": "ipEVCtRB_28",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--661",
+ "n": 15,
+ "n_src": "mutfile",
+ "title": "خير القرون 14 ｜ ذروة سنام الإسلام ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "d9510cacdca01baeb0b933af9c3f27b81f01087e1110a70b0597fc9e88d0b511",
+ "nh": "1bd071d6b94059ed9161928caa48c7cb53b97d2ee31a5ed8288b92742da4073b",
+ "chars": 16493,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/661/015_خير القرون 14 ｜ ذروة سنام الإسلام ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/661/015_خير القرون 14 ｜ ذروة سنام الإسلام ｜ أحمد السيد.txt",
+   "sha256": "d9510cacdca01baeb0b933af9c3f27b81f01087e1110a70b0597fc9e88d0b511",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-661/015.txt",
+   "sha256": "f5e059d23646f390aafa420ca7547c9755b78849bb9e246a6a134e702c48960c",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

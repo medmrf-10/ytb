@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:SOWZsEHMM3s",
+ "vid": "SOWZsEHMM3s",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--779",
+ "n": 16,
+ "n_src": "read",
+ "title": "(16) أقسام الاستعارة ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "ac40884c02bbd72bb66ac286c9132fc4ef115f1529d9bab471db0fe8395a6e12",
+ "nh": "e43bc2ee1b2c2030c98264bc39029d17fdb74312182321da2f074623b596b815",
+ "chars": 17098,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/779/016_(16) أقسام الاستعارة ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/779/016_(16) أقسام الاستعارة ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "ac40884c02bbd72bb66ac286c9132fc4ef115f1529d9bab471db0fe8395a6e12",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/779/15.txt",
+   "sha256": "ac40884c02bbd72bb66ac286c9132fc4ef115f1529d9bab471db0fe8395a6e12",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

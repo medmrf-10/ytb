@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:CBFzGBEVcYw",
+ "vid": "CBFzGBEVcYw",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--787",
+ "n": 9,
+ "n_src": "read",
+ "title": "(9) الصحيح والمعتل ⧸ دورة النحو المستوى الثاني⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "8c5b69aa591becf74d36a83109f4563840c0326d2ce4a5da63205c5ccf2d5fb2",
+ "nh": "78cf2b8faf6e122345f6544091add99e181ea729a58a34ab93202bf0cf317ba0",
+ "chars": 24408,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/787/009_(9) الصحيح والمعتل ⧸ دورة النحو المستوى الثاني⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/787/009_(9) الصحيح والمعتل ⧸ دورة النحو المستوى الثاني⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "8c5b69aa591becf74d36a83109f4563840c0326d2ce4a5da63205c5ccf2d5fb2",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/787/8.txt",
+   "sha256": "8c5b69aa591becf74d36a83109f4563840c0326d2ce4a5da63205c5ccf2d5fb2",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

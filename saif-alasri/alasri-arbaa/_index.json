@@ -1,0 +1,574 @@
+{
+ "coverage": 1.0,
+ "declared_total": 56,
+ "lessons": [
+  {
+   "chars": 20121,
+   "file": "001__KHu7y4YLM4.txt",
+   "n": 1,
+   "quality": "ok",
+   "sha256": "3e907039d4d14fa2e1dd3e6e22c8a7c290afdc9bfabefc88a9c723cbdc6eaaa7",
+   "title": "حديث الإفتراق -  رواية ودراية/ د. سيف العصري",
+   "variants": 0,
+   "vid": "_KHu7y4YLM4"
+  },
+  {
+   "chars": 19981,
+   "file": "002_tXMvgnJWwUQ.txt",
+   "n": 2,
+   "quality": "ok",
+   "sha256": "8f4af01f5167bcc666165013990ce5c55ac59374f4cec106e0e407f107035746",
+   "title": "هل خالف العلماء رسول الله ﷺ حين قسموا البدعة الى حسنة وسيئة/ د.سيف العصري",
+   "variants": 0,
+   "vid": "tXMvgnJWwUQ"
+  },
+  {
+   "chars": 7643,
+   "file": "003_yS5osLsPHKg.txt",
+   "n": 3,
+   "quality": "ok",
+   "sha256": "770ffb30ba99ff8716038193977cd7eb93f1bd9e20b2de0d640aa14ba1677435",
+   "title": "ميراث المرأة في الإسلام/د. سيف العصري",
+   "variants": 0,
+   "vid": "yS5osLsPHKg"
+  },
+  {
+   "chars": 17142,
+   "file": "004_IrxMj4I-dnI.txt",
+   "n": 4,
+   "quality": "ok",
+   "sha256": "7a2bb0efa0ba71d1df36b07c28b61d2c95172eb6cdae659b89b743578785075f",
+   "title": "الوقفة الثانية مع شحرور/ د.سيف العصري",
+   "variants": 0,
+   "vid": "IrxMj4I-dnI"
+  },
+  {
+   "chars": 17022,
+   "file": "005_rzDCNAh6w0E.txt",
+   "n": 5,
+   "quality": "ok",
+   "sha256": "ba2166bde9a08cf296b39acd1fa67cfcad2e4b5a794f2161916a2cb52930936f",
+   "title": "الوقفة الأولى مع شحرور/ د. سيف العصري",
+   "variants": 0,
+   "vid": "rzDCNAh6w0E"
+  },
+  {
+   "chars": 18932,
+   "file": "006_usjmuY49z_s.txt",
+   "n": 6,
+   "quality": "ok",
+   "sha256": "99bfb660a28d54ac55c6607b6dd4a0fcaeecf303fa8694e657ccbe6e79de494d",
+   "title": "تعريف العبادة بين التحقيق والمجازفة / د. سيف العصري",
+   "variants": 0,
+   "vid": "usjmuY49z_s"
+  },
+  {
+   "chars": 14120,
+   "file": "007_N5BSFt0jVgA.txt",
+   "n": 7,
+   "quality": "ok",
+   "sha256": "baead098898d3a62e6893bde49741dd6b5ecb3fc2bc60ee1d15c62409995edda",
+   "title": "الإلحاد قناعة ام مرض؟ د. سيف العصري",
+   "variants": 0,
+   "vid": "N5BSFt0jVgA"
+  },
+  {
+   "chars": 23513,
+   "file": "008_8KxNh_XGxOM.txt",
+   "n": 8,
+   "quality": "ok",
+   "sha256": "7bf19f8a8f12a189113a6aae36f41214fbedd67334faab4bd1cb5b047fdd35e3",
+   "title": "الكلام عن نسبة كتاب الرد على الجهمية والزنادقة للإمام أحمد/ د. سيف العصري",
+   "variants": 0,
+   "vid": "8KxNh_XGxOM"
+  },
+  {
+   "chars": 18625,
+   "file": "009_ao3EJ4rJ8Ig.txt",
+   "n": 9,
+   "quality": "ok",
+   "sha256": "c3cdf0e0be4de1cc1620a3735148f77d94915d94eef181ddf7bca9780b3cb9f5",
+   "title": "قواعد التصوف وشواهد التعرف/ د.سيف العصري",
+   "variants": 0,
+   "vid": "ao3EJ4rJ8Ig"
+  },
+  {
+   "chars": 21804,
+   "file": "010_z2fLSiVH54s.txt",
+   "n": 10,
+   "quality": "ok",
+   "sha256": "47957f74bd025068de30b871165109687c769090e69f48afcbdaaddf9bbddc28",
+   "title": "عقيدة الحافظ ابن عبد البر القرطبي المتوفى سنة ٤٦٣ ه‍ / د.سيف العصري",
+   "variants": 0,
+   "vid": "z2fLSiVH54s"
+  },
+  {
+   "chars": 17318,
+   "file": "011_Oz8DY56Jh0w.txt",
+   "n": 11,
+   "quality": "ok",
+   "sha256": "f52acb87d3df9786631cd7a8bfb45307f0064c3d9a2ebe45e0b062b50e72d6c7",
+   "title": "عقيدة الحافظ ابن كثير من نصوصه. د. سيف العصري",
+   "variants": 0,
+   "vid": "Oz8DY56Jh0w"
+  },
+  {
+   "chars": 16479,
+   "file": "012_n76OZ0LqxOk.txt",
+   "n": 12,
+   "quality": "ok",
+   "sha256": "39154432e5e11917cfd7aad1b5d5eec93d0a0833e9f371aef9e2a61e6824c2e3",
+   "title": "لقاء الأربعاء/ مفهوم الإيمان بين أهل السنة والمخالفين/ د. سيف العصري",
+   "variants": 0,
+   "vid": "n76OZ0LqxOk"
+  },
+  {
+   "chars": 23207,
+   "file": "013_WqslCz6GJE8.txt",
+   "n": 13,
+   "quality": "ok",
+   "sha256": "5172978ce03277913eb32a6e1e8e0dd08df2361dbd871f81f5963094ecb39bbf",
+   "title": "لقاء الأربعاء / اختلال الميزان ونتائجه المرة / د سيف العصري",
+   "variants": 0,
+   "vid": "WqslCz6GJE8"
+  },
+  {
+   "chars": 20698,
+   "file": "014_gWqllRs1g18.txt",
+   "n": 14,
+   "quality": "ok",
+   "sha256": "519458efd59bec3efba2ae7b0c170bebfd8366e6c6395303e37c598d6d67aca2",
+   "title": "لقاء الأربعاء / آل البيت بين التجريم والتعصيم / د. سيف العصري",
+   "variants": 0,
+   "vid": "gWqllRs1g18"
+  },
+  {
+   "chars": 23253,
+   "file": "015_otZYCymtf60.txt",
+   "n": 15,
+   "quality": "ok",
+   "sha256": "4498f13f7b9f7f16d5367d3396f6e08d94af8d8d9c996917be674a6dd5e48a9b",
+   "title": "لقاء الأربعاء / الاستغاثة فى ميزان الشرع / د. سيف العصري",
+   "variants": 0,
+   "vid": "otZYCymtf60"
+  },
+  {
+   "chars": 24168,
+   "file": "016_-gsBEDapebI.txt",
+   "n": 16,
+   "quality": "ok",
+   "sha256": "3d24dc3f418eb8b71dd8738212d998cfca122678000fe38c6c495d53c69afdac",
+   "title": "لقاء الأربعاء / أثر إبن مسعود فى حصب الذاكرين سندا ومتنا / د. سيف العصري",
+   "variants": 0,
+   "vid": "-gsBEDapebI"
+  },
+  {
+   "chars": 14805,
+   "file": "017_8b12sy8fGvc.txt",
+   "n": 17,
+   "quality": "ok",
+   "sha256": "6807ba070795184eb73ca831cb2ebca7f4356b67f22107880294689136645f0a",
+   "title": "لقاء الأربعاء / لماذا اختلف العلماء، وهل اختلافهم رحمة ؟ / د. سيف العصري",
+   "variants": 0,
+   "vid": "8b12sy8fGvc"
+  },
+  {
+   "chars": 22149,
+   "file": "018_aQ5c_v96ehI.txt",
+   "n": 18,
+   "quality": "ok",
+   "sha256": "1c62451f6197c9bf51497ff4a2ef0741f461ff3486d96d35abe9eee1c79424ed",
+   "title": "لقاء الأربعاء  / هل يدل حديث الرهط على أن الترك دليل على المنع؟ / د سيف العصري",
+   "variants": 0,
+   "vid": "aQ5c_v96ehI"
+  },
+  {
+   "chars": 12263,
+   "file": "019_vlgd2_fYzu4.txt",
+   "n": 19,
+   "quality": "ok",
+   "sha256": "ee2e09ea77a1f922d5f6d5891ebee8a788fe041058f450bf82ed8a6c5c7f02d9",
+   "title": "لقاء الأربعاء / هل يدخل القياس في العبادات / د. سيف العصري",
+   "variants": 0,
+   "vid": "vlgd2_fYzu4"
+  },
+  {
+   "chars": 21706,
+   "file": "020_FtfGPrrUU4E.txt",
+   "n": 20,
+   "quality": "ok",
+   "sha256": "93e6849018f5dd89ffa8754d71548b4b334b948d5d8bae64c892a3ad9fc755ad",
+   "title": "لقاء الأربعاء / مقتطفات من الشمائل المحمدية للإمام الترمذي / د. سيف العصري",
+   "variants": 0,
+   "vid": "FtfGPrrUU4E"
+  },
+  {
+   "chars": 29017,
+   "file": "021_BxjQ8OAvM5k.txt",
+   "n": 21,
+   "quality": "ok",
+   "sha256": "d307b86770be66d605ea6f7656c5afd3bdf5c15c47021946048c45ea92f0d7b1",
+   "title": "لقاء الأربعاء / اضطراب الفتاوى - نَظَرٌ فى الأسباب / د. سيف العصري",
+   "variants": 0,
+   "vid": "BxjQ8OAvM5k"
+  },
+  {
+   "chars": 23786,
+   "file": "022_3qTIJvoNl1E.txt",
+   "n": 22,
+   "quality": "ok",
+   "sha256": "29f3370aece354dbdc4ba74ebd6f3a9b3efa473fa134a41cc09ea06ca20eeb20",
+   "title": "لقاء الأربعاء /  أعجوبة الزمان الإمام الغزالي  / د سيف العصري",
+   "variants": 0,
+   "vid": "3qTIJvoNl1E"
+  },
+  {
+   "chars": 19685,
+   "file": "023_uLNtU0yM-Gg.txt",
+   "n": 23,
+   "quality": "ok",
+   "sha256": "72be024f033f30ff6a262df00bc0d88b0ed54785c19ee7126949d4a5904ddbbd",
+   "title": "لقاء الأربعاء / القرآنيون هل هم قرآنيون / د. سيف العصري",
+   "variants": 0,
+   "vid": "uLNtU0yM-Gg"
+  },
+  {
+   "chars": 25233,
+   "file": "024_INeVonpwxIM.txt",
+   "n": 24,
+   "quality": "ok",
+   "sha256": "69367d0a5c8539af2aec606199d45a2a841e25bdc209bd46e5ed03e6ad4ab742",
+   "title": "لقاء الأربعاء / صحة الحديث وضعفه وعلاقة ذلك بالعمل / د. سيف العصري",
+   "variants": 0,
+   "vid": "INeVonpwxIM"
+  },
+  {
+   "chars": 22860,
+   "file": "025_8nKL6HslGOM.txt",
+   "n": 25,
+   "quality": "ok",
+   "sha256": "8df28197df563a660f4a09127326595cbe843d5eaee215ac5ae82c66d8bde6c3",
+   "title": "لقاء الأربعاء / الإعلام بمن لبس الخرقة من الأعلام / د. سيف العصري",
+   "variants": 0,
+   "vid": "8nKL6HslGOM"
+  },
+  {
+   "chars": 19650,
+   "file": "026_mXuFK8KuAoM.txt",
+   "n": 26,
+   "quality": "ok",
+   "sha256": "aeed8b0727d652ff487a4596befbb8de551777bc1831e202dbedf90d005e3478",
+   "title": "لقاء الأربعاء / أشعرية الحافظ ابن حجر / د. سيف العصري",
+   "variants": 0,
+   "vid": "mXuFK8KuAoM"
+  },
+  {
+   "chars": 15155,
+   "file": "027_YxhMD0ttgSI.txt",
+   "n": 27,
+   "quality": "ok",
+   "sha256": "3263e81d488ffa5cb6dcd7d3868e0793a0cc6f654d6dcef3dff2bd4553185960",
+   "title": "لقاء الأربعاء / عاشوراء بين المشروع والممنوع / د. سيف العصري",
+   "variants": 0,
+   "vid": "YxhMD0ttgSI"
+  },
+  {
+   "chars": 15936,
+   "file": "028_h8Oq8ljznaM.txt",
+   "n": 28,
+   "quality": "ok",
+   "sha256": "6095b6bcc4a20fa514c0c924afa02895fe784c99879a3fbe6d6559d5a728fa32",
+   "title": "لقاء الأربعاء / هجرة الأخلاق / د. سيف العصري",
+   "variants": 0,
+   "vid": "h8Oq8ljznaM"
+  },
+  {
+   "chars": 17015,
+   "file": "029_9ydTun7AWKo.txt",
+   "n": 29,
+   "quality": "ok",
+   "sha256": "748ddeee70ac501a8fab3bfde4baec6079937f581db226a547ffd4068b042f58",
+   "title": "لقاء الأربعاء / غدير خم   (من كنت مولاه فعلي مولاه) / د. سيف العصري",
+   "variants": 0,
+   "vid": "9ydTun7AWKo"
+  },
+  {
+   "chars": 18398,
+   "file": "030_oRk-cw-dsLU.txt",
+   "n": 30,
+   "quality": "ok",
+   "sha256": "d5a33698a0d366307522a7c2787680e2f331c31b4d77ca1362085bfb6ea6bc2a",
+   "title": "علم الكلام والحاجة إليه / د. سيف العصري",
+   "variants": 0,
+   "vid": "oRk-cw-dsLU"
+  },
+  {
+   "chars": 13606,
+   "file": "031_06f_DOm8K0Y.txt",
+   "n": 31,
+   "quality": "ok",
+   "sha256": "a9ba42b018d8aa346725238e53e4af6edac33df6a05e36c496d233691eac56a3",
+   "title": "فضائل بيت المقدس / د. سيف العصري",
+   "variants": 0,
+   "vid": "06f_DOm8K0Y"
+  },
+  {
+   "chars": 18995,
+   "file": "032_Yk11NnT_aFI.txt",
+   "n": 32,
+   "quality": "ok",
+   "sha256": "5f56ee9140b2a9face471915f8f31877b2f1e6025f999eeab9361290a019d42e",
+   "title": "لقاء الأربعاء / الحجاب عادة أم عبادة (مناقشة لشبهات عدنان إبراهيم) / د. سيف العصري",
+   "variants": 0,
+   "vid": "Yk11NnT_aFI"
+  },
+  {
+   "chars": 24069,
+   "file": "033_BwjMNaehenI.txt",
+   "n": 33,
+   "quality": "ok",
+   "sha256": "67a91e60aa6531a4f62d0963bfa583b6bd2f4f29f936deef3fe6a5677f1c9f58",
+   "title": "لقاء الأربعاء / ضابط الخلاف المعتبر / د. سيف العصري",
+   "variants": 0,
+   "vid": "BwjMNaehenI"
+  },
+  {
+   "chars": 16888,
+   "file": "034_BwOGQ3jl9Ds.txt",
+   "n": 34,
+   "quality": "ok",
+   "sha256": "20792fcd401d3f22997e53d692d510634c67bffa17cbea75e8e73e7f1daf91e9",
+   "title": "لقاء الأربعاء / الإيضاح والبيان لفضيلة ليلة النصف من شعبان / د. سيف العصري",
+   "variants": 0,
+   "vid": "BwOGQ3jl9Ds"
+  },
+  {
+   "chars": 20194,
+   "file": "035_TCEZ5dttCQo.txt",
+   "n": 35,
+   "quality": "ok",
+   "sha256": "589d54225eb02ba1badea5db346d1f88565236d5f006493d658b257e924da763",
+   "title": "لقاء الأربعاء / حقيقة التواتر وحجيته / د. سيف العصري",
+   "variants": 0,
+   "vid": "TCEZ5dttCQo"
+  },
+  {
+   "chars": 17083,
+   "file": "036_GK5OkDkSFxw.txt",
+   "n": 36,
+   "quality": "ok",
+   "sha256": "8f18d4789d4478216ac67b8dc4b90cb51a08cdefbbdff68f69cfa2cd11cfe818",
+   "title": "لقاء الأربعاء / الإسراء والمعراج / د. سيف العصري",
+   "variants": 0,
+   "vid": "GK5OkDkSFxw"
+  },
+  {
+   "chars": 15047,
+   "file": "037_y1tDl4Tu0kw.txt",
+   "n": 37,
+   "quality": "ok",
+   "sha256": "b572e9f479c3a6365dcd2039e9a29e7e62a5ff173f9aecc3c1f61abf16a0a649",
+   "title": "لقاء الأربعاء / إبطال الرمس عن حديث سجود الشمس / د. سيف العصري / الرد  على د. عدنان إبراهيم",
+   "variants": 0,
+   "vid": "y1tDl4Tu0kw"
+  },
+  {
+   "chars": 26559,
+   "file": "038_y5jllOULjnc.txt",
+   "n": 38,
+   "quality": "ok",
+   "sha256": "1e98a790dc1ccac4d09a2b39dac05367e0aae00db60681e70e80fa396afa1250",
+   "title": "لقاء الأربعاء / نماذج من العبث في رد السنة / د. سيف العصري",
+   "variants": 0,
+   "vid": "y5jllOULjnc"
+  },
+  {
+   "chars": 24029,
+   "file": "039_b1kTxfFgu2Y.txt",
+   "n": 39,
+   "quality": "ok",
+   "sha256": "8f1a9f9b7b38efe5369d4df5c03c99b01b35a45b51f822510411957ad048b5e0",
+   "title": "لقاء الأربعاء / الأدب في رجب / د. سيف العصري",
+   "variants": 0,
+   "vid": "b1kTxfFgu2Y"
+  },
+  {
+   "chars": 35111,
+   "file": "040_Uya6Co2Frao.txt",
+   "n": 40,
+   "quality": "ok",
+   "sha256": "ed2dfbd370914f75a7daf6ea8ce82d8c05ddd8da0d07d9eb57ecbfad08ba2e26",
+   "title": "لقاء الأربعاء / الترك ليس حجة على المنع / الدكتور سيف العصري",
+   "variants": 0,
+   "vid": "Uya6Co2Frao"
+  },
+  {
+   "chars": 16326,
+   "file": "041_tT6NosPO_NY.txt",
+   "n": 41,
+   "quality": "ok",
+   "sha256": "5425b690756a44c17c7eb879aea2caac4e843d2b8df217f8cb3287d40ada5c54",
+   "title": "لقاء الأربعاء / المفكرون في ميزان الفكر / الدكتور سيف العصري",
+   "variants": 0,
+   "vid": "tT6NosPO_NY"
+  },
+  {
+   "chars": 20828,
+   "file": "042_0s4SeYCK_YU.txt",
+   "n": 42,
+   "quality": "ok",
+   "sha256": "eaa76ad27f28d2ea4e617ae0b4594365e0478c4cd64cfe91a549b9095e166641",
+   "title": "لقاء الأربعاء / براءة الأشعرية من الإرجاء / الدكتور سيف العصري",
+   "variants": 0,
+   "vid": "0s4SeYCK_YU"
+  },
+  {
+   "chars": 21706,
+   "file": "043_vg907SUDnHM.txt",
+   "n": 43,
+   "quality": "ok",
+   "sha256": "5ccd44f8eb9f744975016f9a9746de2f64c767ef22eff2a2cc562226af2e918d",
+   "title": "لقاء الأربعاء / براءة الأشعرية من الجهمية / الدكتور سيف العصري",
+   "variants": 0,
+   "vid": "vg907SUDnHM"
+  },
+  {
+   "chars": 18058,
+   "file": "044_Xuf18-oYYGk.txt",
+   "n": 44,
+   "quality": "ok",
+   "sha256": "47f8ab93b538167f705c3ad9525b3e56dd153b885d17f79f171eac34dfb8d073",
+   "title": "لقاء الأربعاء / الانتماء والتحزب / الدكتور سيف العصري",
+   "variants": 0,
+   "vid": "Xuf18-oYYGk"
+  },
+  {
+   "chars": 29761,
+   "file": "045_6qJC7uNdF_I.txt",
+   "n": 45,
+   "quality": "ok",
+   "sha256": "7c543309ae9bf984d04bf9d4961ec1b3181f4edfe0665238c85b3493ffe9aa37",
+   "title": "لقاء الأربعاء / رد السهام عن سنة خير الأنام / الدكتور سيف العصري",
+   "variants": 0,
+   "vid": "6qJC7uNdF_I"
+  },
+  {
+   "chars": 21118,
+   "file": "046_h3yZ4h-nHaQ.txt",
+   "n": 46,
+   "quality": "ok",
+   "sha256": "f737c5b8e6f56224e327803a96d4b8e4db831503321e6712d34aefbf26656628",
+   "title": "لقاء الأربعاء / التجديد بين التسديد والتبديد / الدكتور سيف العصري",
+   "variants": 0,
+   "vid": "h3yZ4h-nHaQ"
+  },
+  {
+   "chars": 33491,
+   "file": "047_FNyQDLH7th8.txt",
+   "n": 47,
+   "quality": "ok",
+   "sha256": "784dff9a9dbccd34d137148e16cf64f46a03849cc383381ea89bccc1831817cb",
+   "title": "لقاء الأربعاء / تفصيل الكلام في نواقض الإسلام / الدكتور سيف العصري",
+   "variants": 0,
+   "vid": "FNyQDLH7th8"
+  },
+  {
+   "chars": 23679,
+   "file": "048_orOYCNRb-Ek.txt",
+   "n": 48,
+   "quality": "ok",
+   "sha256": "64f7027a228629e7c19f3dbd1f0584360ba1086d614abca9854ed53e45c1c06b",
+   "title": "لقاء الأربعاء / عقيدة الإمام النووي/ الدكتور سيف العصري",
+   "variants": 0,
+   "vid": "orOYCNRb-Ek"
+  },
+  {
+   "chars": 21605,
+   "file": "049_7TaqmEYJ69s.txt",
+   "n": 49,
+   "quality": "ok",
+   "sha256": "14c3b564d97bbe7a2ee5c34b30f5a05944d12cc2302568fa9ececf98aaba37ab",
+   "title": "لقاء الأربعاء / اللا مذهبية هي الفوضى / الدكتور سيف العصري",
+   "variants": 0,
+   "vid": "7TaqmEYJ69s"
+  },
+  {
+   "chars": 14419,
+   "file": "050_gladUh9dnzQ.txt",
+   "n": 50,
+   "quality": "ok",
+   "sha256": "4c80021cea6204cdc675e7533ce1687f9b447769fac7fdb625454221893fe7cd",
+   "title": "لقاء الأربعاء / الخوارج خطرهم وصفاتهم / الدكتور سيف العصري",
+   "variants": 0,
+   "vid": "gladUh9dnzQ"
+  },
+  {
+   "chars": 26624,
+   "file": "051_FSmJsaC_5dg.txt",
+   "n": 51,
+   "quality": "ok",
+   "sha256": "3adadb72a090332e651da089af9065ac7c2d87856f8f8ead1396f3af54619ec1",
+   "title": "حكم الاحتفال بمولد النبي الكريم / الدكتور سيف العصري",
+   "variants": 0,
+   "vid": "FSmJsaC_5dg"
+  },
+  {
+   "chars": 29806,
+   "file": "052_rr6pOctdu4o.txt",
+   "n": 52,
+   "quality": "ok",
+   "sha256": "5fe396f8d1b3fbb7f00e416bf522a3998517e49327b15f3fa5a202709187f738",
+   "title": "لقاء الأربعاء / الشفا بتعريف حقوق المصطفى / الدكتور سيف العصري",
+   "variants": 0,
+   "vid": "rr6pOctdu4o"
+  },
+  {
+   "chars": 10927,
+   "file": "053_WYX8zhPP9Ns.txt",
+   "n": 53,
+   "quality": "ok",
+   "sha256": "09c8e936b963b276b0ccb46e819f48e494ab7b29d5b0c2eda24b80014abeb93c",
+   "title": "لقاء الأربعاء / الاحتفال بالمولد النبوي / الدكتور سيف العصري",
+   "variants": 0,
+   "vid": "WYX8zhPP9Ns"
+  },
+  {
+   "chars": 17723,
+   "file": "054_nGwosV1Ilmk.txt",
+   "n": 54,
+   "quality": "ok",
+   "sha256": "bdd2f98aa79122560e03316a812b33d6ebd83557973821cfc9fadf14489d822a",
+   "title": "لقاء الأربعاء / موقف السلف والخلف من نصوص الصفات / الدكتور سيف العصري",
+   "variants": 0,
+   "vid": "nGwosV1Ilmk"
+  },
+  {
+   "chars": 30709,
+   "file": "055_91QOssB3Gzo.txt",
+   "n": 55,
+   "quality": "ok",
+   "sha256": "6103fe5a9fd978001218fbc5b6273ccfb0b742e82ff0ae29dc2477bcfa0992fb",
+   "title": "لقاء الأربعاء / أهل السنة والجماعة / الدكتور سيف العصري",
+   "variants": 0,
+   "vid": "91QOssB3Gzo"
+  },
+  {
+   "chars": 16418,
+   "file": "056_ktlWUNoef2s.txt",
+   "n": 56,
+   "quality": "ok",
+   "sha256": "737c326bd18e368861f573988e0440dbf82553e8956ef859a6c12ee64df67716",
+   "title": "لقاء الأربعاء / التصوف / الدكتور سيف العصري / مسجد قلب الشيشان",
+   "variants": 0,
+   "vid": "ktlWUNoef2s"
+  }
+ ],
+ "playlists": [
+  "PLrFX79-Rmrfoc78mxwufZ6n30Hix-p6zo"
+ ],
+ "row_id": "saif-alasri--alasri-arbaa",
+ "sheikh": "saif-alasri",
+ "title": "لقاء الأربعاء",
+ "transcribed": 56,
+ "v": 1
+}

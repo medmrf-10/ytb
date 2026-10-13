@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:Dqhlk0QyRnA",
+ "vid": "Dqhlk0QyRnA",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--403",
+ "n": 43,
+ "n_src": "plpos",
+ "title": "41 - فقه السيرة النبوية | غزوة خيبر (1)",
+ "title_src": "yt_titles",
+ "sha256": "f20d0ce94ef7784aa59976541f5b0550d1f3a79e00471b92e736c5635db96c68",
+ "nh": "5e85c6533ebe8bfb2f12267d2a015d8e6c0dd1c6fb6da1b26c6160eeabce5fce",
+ "chars": 21208,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/403/043_41 - فقه السيرة النبوية ｜ غزوة خيبر (1).txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/403/043_41 - فقه السيرة النبوية ｜ غزوة خيبر (1).txt",
+   "sha256": "f20d0ce94ef7784aa59976541f5b0550d1f3a79e00471b92e736c5635db96c68",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fi9hElsirah-043/transcript.txt",
+   "sha256": "d9757f2a31ed7d0979303e19130a56b4e0b4e192ec96b3684b32e184353e890c",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-sira/43.txt",
+   "sha256": "d9757f2a31ed7d0979303e19130a56b4e0b4e192ec96b3684b32e184353e890c",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

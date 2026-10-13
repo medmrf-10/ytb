@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:kVLqJvthHPk",
+ "vid": "kVLqJvthHPk",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--408",
+ "n": 7,
+ "n_src": "read",
+ "title": "7- الجديد في إعجاز القرآن ｜ استخدم القرآن التعابير (المشارق - المشرقين - المشرق)",
+ "title_src": "filename",
+ "sha256": "329d823352ae07626dcbd4288962adb1e673f192de931ece813852be8e913264",
+ "nh": "f4507aa3698bf67dc93975f0d4586a22e9630a042c146b034ce466e734c99e37",
+ "chars": 12274,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/408/007_7- الجديد في إعجاز القرآن ｜ استخدم القرآن التعابير (المشارق - المشرقين - المشرق).txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/408/007_7- الجديد في إعجاز القرآن ｜ استخدم القرآن التعابير (المشارق - المشرقين - المشرق).txt",
+   "sha256": "329d823352ae07626dcbd4288962adb1e673f192de931ece813852be8e913264",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/408/6.txt",
+   "sha256": "329d823352ae07626dcbd4288962adb1e673f192de931ece813852be8e913264",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,55 @@
+{
+ "v": 1,
+ "lid": "yt:kxdsbyDlzT8",
+ "vid": "kxdsbyDlzT8",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 70,
+ "n_src": "mutfile",
+ "title": "والله أعلم | ‎‫فضيلة الدكتور علي جمعة يرد على شبهات  تحويل القبلة‬ | الحلقة الكاملة",
+ "title_src": "yt_titles",
+ "sha256": "30a4ae3964ca5acb5c8c1fb8282d7d53b8d15be31496a1ee750752525a0e4078",
+ "nh": "65bad023563900d27c7384b84e75295c01aab62a89dfad94c0b8c47c20b67710",
+ "chars": 17588,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/070_والله أعلم ｜ فضيلة الدكتور علي جمعة يرد على شبهات  تحويل القبلة ｜ الحلقة الكا.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/070_والله أعلم ｜ فضيلة الدكتور علي جمعة يرد على شبهات  تحويل القبلة ｜ الحلقة الكا.txt",
+   "sha256": "30a4ae3964ca5acb5c8c1fb8282d7d53b8d15be31496a1ee750752525a0e4078",
+   "rel": "identical"
+  },
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/070_والله أعلم ｜ ‎‫فضيلة الدكتور علي جمعة يرد على شبهات  تحويل القبلة‬ ｜ الحلقة الكا.txt",
+   "sha256": "b4af23063a33915bfcb72c90c37cbf95f7c07a73732bdbf149c6ae7fd51a44a5",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/070_والله أعلم ｜ فضيلة الدكتور علي جمعة يرد على شبهات  تحويل القبلة ｜ الحلقة الكا.txt",
+   "sha256": "30a4ae3964ca5acb5c8c1fb8282d7d53b8d15be31496a1ee750752525a0e4078",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/070_والله أعلم ｜ ‎‫فضيلة الدكتور علي جمعة يرد على شبهات  تحويل القبلة‬ ｜ الحلقة الكا.txt",
+   "sha256": "b4af23063a33915bfcb72c90c37cbf95f7c07a73732bdbf149c6ae7fd51a44a5",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/070.txt",
+   "sha256": "30a4ae3964ca5acb5c8c1fb8282d7d53b8d15be31496a1ee750752525a0e4078",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

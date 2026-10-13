@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:D6_Q8gVXwYY",
+ "vid": "D6_Q8gVXwYY",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--661",
+ "n": 40,
+ "n_src": "mutfile",
+ "title": "خير القرون 39 ｜ فتنة مقتل عثمان رضي الله عنه ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "b5e2f69b8ac34451f3e265b0179c638e4a608ae03b8f361e79456e1946b1be1b",
+ "nh": "501a602cccd211bee18a923dbba216a64204b89cfb34d1285977824182d52d69",
+ "chars": 53464,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/661/040_خير القرون 39 ｜ فتنة مقتل عثمان رضي الله عنه ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/661/040_خير القرون 39 ｜ فتنة مقتل عثمان رضي الله عنه ｜ أحمد السيد.txt",
+   "sha256": "b5e2f69b8ac34451f3e265b0179c638e4a608ae03b8f361e79456e1946b1be1b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-661/040.txt",
+   "sha256": "439870a87824ad752aaca5217c11ffdbd080377fb838c9df2c6b06f1b8266c3a",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:wECIpOEINLc",
+ "vid": "wECIpOEINLc",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--660",
+ "n": 13,
+ "n_src": "mutfile",
+ "title": "الأمة بين احتلالين 12 ｜ تفريط الأيوبيين بعد صلاح الدين ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "da4c980ad5e580ca43fcd192c460f1763cf7fb7017f52593961d43077be2c9f2",
+ "nh": "b83c7f7ede8932cf454a9fa609125cc8d9e8c568342451ab040fb7c609a1e70a",
+ "chars": 69043,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/660/013_الأمة بين احتلالين 12 ｜ تفريط الأيوبيين بعد صلاح الدين ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/660/013_الأمة بين احتلالين 12 ｜ تفريط الأيوبيين بعد صلاح الدين ｜ أحمد السيد.txt",
+   "sha256": "da4c980ad5e580ca43fcd192c460f1763cf7fb7017f52593961d43077be2c9f2",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/elommaBaynI7tilayn-013/transcript.txt",
+   "sha256": "1b0343e033f67d68fb6fb9829eb5afb0224621b74cdf60e2b7e3bbff9b67bee0",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-660/013.txt",
+   "sha256": "1b0343e033f67d68fb6fb9829eb5afb0224621b74cdf60e2b7e3bbff9b67bee0",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

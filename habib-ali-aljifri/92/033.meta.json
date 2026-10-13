@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:habib-ali-aljifri--92:33",
+ "vid": null,
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--92",
+ "n": 33,
+ "n_src": "read",
+ "title": "دعاء ليلة القدر - الحبيب علي الجفري",
+ "title_src": "filename",
+ "sha256": "a0a692a73c534f9bbb7c628810025d27177bc10a75b0a74bc1a09b2ec6e29297",
+ "nh": "441c8effc01f78e17e74193ff95756cdc7fe7c36c2c0550847c42749c51d595c",
+ "chars": 3213,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/92/033_دعاء ليلة القدر - الحبيب علي الجفري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/92/033_دعاء ليلة القدر - الحبيب علي الجفري.txt",
+   "sha256": "a0a692a73c534f9bbb7c628810025d27177bc10a75b0a74bc1a09b2ec6e29297",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/92/32.txt",
+   "sha256": "a0a692a73c534f9bbb7c628810025d27177bc10a75b0a74bc1a09b2ec6e29297",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

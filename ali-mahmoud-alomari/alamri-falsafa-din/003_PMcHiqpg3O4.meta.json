@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:PMcHiqpg3O4",
+ "vid": "PMcHiqpg3O4",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-falsafa-din",
+ "n": 3,
+ "n_src": "trfile",
+ "title": "الدرس 3",
+ "title_src": "filename",
+ "sha256": "daf973aeb038b86488c7f7ce92dde9fd3ffbcdc74d4efa277cdd5f4e1057be24",
+ "nh": "e7a4044bc781ba5389ac9c65b898c03c756ab77221112b68f6a4969b57cdda5d",
+ "chars": 44791,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriFalsafaDin-003/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriFalsafaDin-003/transcript.txt",
+   "sha256": "daf973aeb038b86488c7f7ce92dde9fd3ffbcdc74d4efa277cdd5f4e1057be24",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/falsafa-din/falsafa-din-03_AlAmri.txt",
+   "sha256": "daf973aeb038b86488c7f7ce92dde9fd3ffbcdc74d4efa277cdd5f4e1057be24",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-falsafa-din/03.txt",
+   "sha256": "daf973aeb038b86488c7f7ce92dde9fd3ffbcdc74d4efa277cdd5f4e1057be24",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

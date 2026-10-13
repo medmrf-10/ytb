@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:a0M54CBocu0",
+ "vid": "a0M54CBocu0",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+ "n": 12,
+ "n_src": "trfile",
+ "title": "الدَّرس الثَّاني عشر _ القطب الأول_ الدَّعوة الثَّامنة",
+ "title_src": "yt_titles",
+ "sha256": "2a5c421ab74eb9fa14dcf68510ab36c23b699a97cd902f7d5dbb7fc7987b2367",
+ "nh": "57a942ecaf7deaf02430cbcaf1e93d95b6bd319d86ac14f5730c5b5efaf3ec2c",
+ "chars": 41997,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriIqtisad-012/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriIqtisad-012/transcript.txt",
+   "sha256": "2a5c421ab74eb9fa14dcf68510ab36c23b699a97cd902f7d5dbb7fc7987b2367",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-12_AlAmri.txt",
+   "sha256": "2a5c421ab74eb9fa14dcf68510ab36c23b699a97cd902f7d5dbb7fc7987b2367",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-iqtisad/12.txt",
+   "sha256": "2a5c421ab74eb9fa14dcf68510ab36c23b699a97cd902f7d5dbb7fc7987b2367",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

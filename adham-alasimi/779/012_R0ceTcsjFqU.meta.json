@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:R0ceTcsjFqU",
+ "vid": "R0ceTcsjFqU",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--779",
+ "n": 12,
+ "n_src": "read",
+ "title": "(12) المساوة والإيجاز والإطناب ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "04e13b2aaf82d7635628ea927174857149afa444d56199fb76f29617e3860133",
+ "nh": "96c089df5b7e4765f3435edd7a6fa92948bd1e51f82edd23c66140b8aebc60e0",
+ "chars": 24358,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/779/012_(12) المساوة والإيجاز والإطناب ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/779/012_(12) المساوة والإيجاز والإطناب ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "04e13b2aaf82d7635628ea927174857149afa444d56199fb76f29617e3860133",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/779/11.txt",
+   "sha256": "04e13b2aaf82d7635628ea927174857149afa444d56199fb76f29617e3860133",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

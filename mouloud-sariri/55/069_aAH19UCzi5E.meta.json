@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:aAH19UCzi5E",
+ "vid": "aAH19UCzi5E",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 69,
+ "n_src": "read",
+ "title": "خطب منبرية： فروق بين صفات ظاهرها التماثل ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "ff310d2db8b37d61624d326651afa77393657e16647ac784774ffe8294193ddb",
+ "nh": "df8efdf8139a688119f88dfcfb2e3e6c902a0551985aa429bb4b9cd4021f9e87",
+ "chars": 10689,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/069_خطب منبرية： فروق بين صفات ظاهرها التماثل ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/069_خطب منبرية： فروق بين صفات ظاهرها التماثل ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "ff310d2db8b37d61624d326651afa77393657e16647ac784774ffe8294193ddb",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/68.txt",
+   "sha256": "ff310d2db8b37d61624d326651afa77393657e16647ac784774ffe8294193ddb",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

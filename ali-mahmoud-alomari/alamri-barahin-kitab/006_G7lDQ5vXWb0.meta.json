@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:G7lDQ5vXWb0",
+ "vid": "G7lDQ5vXWb0",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-barahin-kitab",
+ "n": 6,
+ "n_src": "trfile",
+ "title": "الدرس السادس كتاب أم البراهين",
+ "title_src": "yt_titles",
+ "sha256": "3546362838b5679e2769994b35b2f788ca47573434a70f73d92950018769f360",
+ "nh": "b68ea4baf4ff5a1b4ca4f30c33c5c1da21dee6d62e53c565520310943ddd1249",
+ "chars": 41853,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriBarahinKitab-006/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriBarahinKitab-006/transcript.txt",
+   "sha256": "3546362838b5679e2769994b35b2f788ca47573434a70f73d92950018769f360",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/barahin-kitab/barahin-kitab-06_AlAmri.txt",
+   "sha256": "3546362838b5679e2769994b35b2f788ca47573434a70f73d92950018769f360",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-barahin-kitab/06.txt",
+   "sha256": "3546362838b5679e2769994b35b2f788ca47573434a70f73d92950018769f360",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

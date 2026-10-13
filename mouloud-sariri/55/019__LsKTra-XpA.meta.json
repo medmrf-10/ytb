@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:_LsKTra-XpA",
+ "vid": "_LsKTra-XpA",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 19,
+ "n_src": "read",
+ "title": "خطب منبرية ： المشاركة في المعصية ( الجزء الثاني ) ⧸ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "17f816c27f3db399ab87046e2bd8f0e3573049acb0e8180b97c65056f439e818",
+ "nh": "07a271643c23c96bd17064e577da232ffc59bc9ea7e618fa756b985c93abe939",
+ "chars": 9351,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/019_خطب منبرية ： المشاركة في المعصية ( الجزء الثاني ) ⧸ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/019_خطب منبرية ： المشاركة في المعصية ( الجزء الثاني ) ⧸ الشيخ العلامة مولود السريري.txt",
+   "sha256": "17f816c27f3db399ab87046e2bd8f0e3573049acb0e8180b97c65056f439e818",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/18.txt",
+   "sha256": "17f816c27f3db399ab87046e2bd8f0e3573049acb0e8180b97c65056f439e818",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

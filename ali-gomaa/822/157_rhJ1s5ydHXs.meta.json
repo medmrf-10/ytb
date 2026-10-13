@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:rhJ1s5ydHXs",
+ "vid": "rhJ1s5ydHXs",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 157,
+ "n_src": "plpos",
+ "title": "#والله_أعلم | الحلقة الكاملة 18 إبريل 2015 | حقيقة دخول الاسلام مصر",
+ "title_src": "yt_titles",
+ "sha256": "c5de7d201759926b39ae1404ed3b390f47fd315b315e72529047db8cc82af464",
+ "nh": "ac2ac0bf253276dcfcc87e0010733a406da6010d6efdf3df251869c79be9c923",
+ "chars": 23436,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/gomaa/mut-822/157_#والله_أعلم ｜ الحلقة الكاملة 18 إبريل 2015 ｜ حقيقة دخول الاسلام مصر.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/157_#والله_أعلم ｜ الحلقة الكاملة 18 إبريل 2015 ｜ حقيقة دخول الاسلام مصر.txt",
+   "sha256": "c5de7d201759926b39ae1404ed3b390f47fd315b315e72529047db8cc82af464",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/157.txt",
+   "sha256": "1fa183f1ac8bf4e3574a5610fbc0408e5bf70459a4f7e1e4ec1412fcb911a0ff",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

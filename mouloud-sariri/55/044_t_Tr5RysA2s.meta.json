@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:t_Tr5RysA2s",
+ "vid": "t_Tr5RysA2s",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 44,
+ "n_src": "read",
+ "title": "أركان الحكمة في التعامل ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "7e7e28eb0e9b6d64e50c5dcd5b7622c314c3171a999fa77359787fd5a92c918e",
+ "nh": "ad15197d153de5837d7d703893e43400a1b991445374a4c791f51a5489d6cc1d",
+ "chars": 11553,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/044_أركان الحكمة في التعامل  ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/044_أركان الحكمة في التعامل  ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "7e7e28eb0e9b6d64e50c5dcd5b7622c314c3171a999fa77359787fd5a92c918e",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/43.txt",
+   "sha256": "7e7e28eb0e9b6d64e50c5dcd5b7622c314c3171a999fa77359787fd5a92c918e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

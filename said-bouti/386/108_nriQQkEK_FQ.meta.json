@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:nriQQkEK_FQ",
+ "vid": "nriQQkEK_FQ",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 108,
+ "n_src": "read",
+ "title": "الحكم العطائية للعلامة البوطي ｜ الدرس 266 - الحكمة 242",
+ "title_src": "filename",
+ "sha256": "abbe64f6f0900a6e5834ec06913a59a533faba77b6d7e2db92bf3cd23dd883d8",
+ "nh": "d1a0559e9dff900c2b1b1268926a365209214f41547406762f964b550220bafb",
+ "chars": 17230,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/108_الحكم العطائية للعلامة البوطي ｜ الدرس 266 - الحكمة 242.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/108_الحكم العطائية للعلامة البوطي ｜ الدرس 266 - الحكمة 242.txt",
+   "sha256": "abbe64f6f0900a6e5834ec06913a59a533faba77b6d7e2db92bf3cd23dd883d8",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/hikam/108_الحكم العطائية للعلامة البوطي ｜ الدرس 266 - الحكمة 242.txt",
+   "sha256": "abbe64f6f0900a6e5834ec06913a59a533faba77b6d7e2db92bf3cd23dd883d8",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/108_الحكم العطائية للعلامة البوطي ｜ الدرس 266 - الحكمة 242.txt",
+   "sha256": "abbe64f6f0900a6e5834ec06913a59a533faba77b6d7e2db92bf3cd23dd883d8",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/386/263.txt",
+   "sha256": "abbe64f6f0900a6e5834ec06913a59a533faba77b6d7e2db92bf3cd23dd883d8",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:QQxtJ-TWXxM",
+ "vid": "QQxtJ-TWXxM",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--674",
+ "n": 6,
+ "n_src": "read",
+ "title": "الدرس 6",
+ "title_src": "filename",
+ "sha256": "e69f82b87f49d29fed5ce72159376513d96f70061ee3bc6884abe49885827cbc",
+ "nh": "e05b74e566fbc65942de5ff905d129d50158f07bcbb110b52ccbc25758750bc7",
+ "chars": 38150,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/alsayed/mut-674/006.txt",
+  "commit_ts": 1791587745,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alsayed/mut-674/006.txt",
+   "sha256": "e69f82b87f49d29fed5ce72159376513d96f70061ee3bc6884abe49885827cbc",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-674/006.txt",
+   "sha256": "e69f82b87f49d29fed5ce72159376513d96f70061ee3bc6884abe49885827cbc",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

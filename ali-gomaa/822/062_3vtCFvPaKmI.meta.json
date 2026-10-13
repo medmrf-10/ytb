@@ -1,0 +1,55 @@
+{
+ "v": 1,
+ "lid": "yt:3vtCFvPaKmI",
+ "vid": "3vtCFvPaKmI",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 62,
+ "n_src": "mutfile",
+ "title": "And God knows best | His Eminence Dr. Ali Gomaa speaks about Egypt in the Holy Quran... and the t...",
+ "title_src": "yt_titles",
+ "sha256": "6dd8781dab045c06b6deee4dcc9147a48eb6e332f4e0a22677fe48378190e04f",
+ "nh": "b87eed06767ca7e228c8f41def28dc21965dab1f0938754bd36d4a68d16f6c71",
+ "chars": 26027,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/062_والله أعلم ｜ فضيلة د.علي جمعة يتحدث عن مصر في القرآن الكريم .. وحقيقة مكانت.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/062_والله أعلم ｜ فضيلة د.علي جمعة يتحدث عن مصر في القرآن الكريم .. وحقيقة مكانت.txt",
+   "sha256": "6dd8781dab045c06b6deee4dcc9147a48eb6e332f4e0a22677fe48378190e04f",
+   "rel": "identical"
+  },
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/062_والله أعلم ｜ فضيلة ‎د‫.‬علي جمعة‎ ‎يتحدث عن مصر في القرآن الكريم .. وحقيقة مكانت.txt",
+   "sha256": "0f15cb73dac369e5f867559cbf697cd026cba3e3f00c479586977763f8116717",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/062_والله أعلم ｜ فضيلة د.علي جمعة يتحدث عن مصر في القرآن الكريم .. وحقيقة مكانت.txt",
+   "sha256": "6dd8781dab045c06b6deee4dcc9147a48eb6e332f4e0a22677fe48378190e04f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/062_والله أعلم ｜ فضيلة ‎د‫.‬علي جمعة‎ ‎يتحدث عن مصر في القرآن الكريم .. وحقيقة مكانت.txt",
+   "sha256": "0f15cb73dac369e5f867559cbf697cd026cba3e3f00c479586977763f8116717",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/062.txt",
+   "sha256": "6dd8781dab045c06b6deee4dcc9147a48eb6e332f4e0a22677fe48378190e04f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

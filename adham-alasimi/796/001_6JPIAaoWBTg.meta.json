@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:6JPIAaoWBTg",
+ "vid": "6JPIAaoWBTg",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--796",
+ "n": 1,
+ "n_src": "read",
+ "title": "(01) مقدمة الكتاب وتقسيم الكلمة ⧸ قطر الندى ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "115d795bb664d18172b576da22195ddac6e4f3449798b5d3b376bcf4dfdf10f3",
+ "nh": "20f276c0b9a8b7c189fd6f2b39b10a1ea500ff896a7c642bf6bf012ea409f77a",
+ "chars": 23589,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/796/001_(01) مقدمة الكتاب وتقسيم الكلمة ⧸ قطر الندى ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/796/001_(01) مقدمة الكتاب وتقسيم الكلمة ⧸ قطر الندى ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "115d795bb664d18172b576da22195ddac6e4f3449798b5d3b376bcf4dfdf10f3",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/796/0.txt",
+   "sha256": "115d795bb664d18172b576da22195ddac6e4f3449798b5d3b376bcf4dfdf10f3",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:qqWbUN4_L0k",
+ "vid": "qqWbUN4_L0k",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--653",
+ "n": 3,
+ "n_src": "mutfile",
+ "title": "يوم الفرقان... يوم بدر العظيم 03 ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "a1ea1bc31ae477dc701404d9bf328ab6cc25b35815d6440edd8b7c10c43ffdd5",
+ "nh": "1dbb5fca861a6716f62b45b336016306e760feeabc52a5292b085c9a9ff8b281",
+ "chars": 20555,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/653/003_يوم الفرقان... يوم بدر العظيم 03 ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/653/003_يوم الفرقان... يوم بدر العظيم 03 ｜ أحمد السيد.txt",
+   "sha256": "a1ea1bc31ae477dc701404d9bf328ab6cc25b35815d6440edd8b7c10c43ffdd5",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/yawmElfur9an-003/transcript.txt",
+   "sha256": "b37783e355ed3a2cf489b35f2ef3f2349e3210e5cc65c866a15fa4a261152218",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-653/003.txt",
+   "sha256": "b37783e355ed3a2cf489b35f2ef3f2349e3210e5cc65c866a15fa4a261152218",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/653/2.txt",
+   "sha256": "a1ea1bc31ae477dc701404d9bf328ab6cc25b35815d6440edd8b7c10c43ffdd5",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

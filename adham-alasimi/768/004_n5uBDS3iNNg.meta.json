@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:n5uBDS3iNNg",
+ "vid": "n5uBDS3iNNg",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--768",
+ "n": 4,
+ "n_src": "read",
+ "title": "(4) المذاهب في الحكم العادي ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "634c989ae78263a8f7ad0876bc831106c76a0231cbbbfe8b35646865580b18ef",
+ "nh": "483534b5e16857cfd530291978db6d10379da43b0b2f812bee95e9f6e6e63ccc",
+ "chars": 25178,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/768/004_(4) المذاهب في الحكم العادي ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/768/004_(4) المذاهب في الحكم العادي ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "634c989ae78263a8f7ad0876bc831106c76a0231cbbbfe8b35646865580b18ef",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/768/3.txt",
+   "sha256": "634c989ae78263a8f7ad0876bc831106c76a0231cbbbfe8b35646865580b18ef",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:dtQ3VoaOeZk",
+ "vid": "dtQ3VoaOeZk",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-mughni",
+ "n": 4,
+ "n_src": "trfile",
+ "title": "( 3 ) مغني الطلاب شرح متن إيساغوجي",
+ "title_src": "yt_titles",
+ "sha256": "626e5a97826e2047bc75e8886b00c820d1777f670760a10ce7a95468e74aca42",
+ "nh": "4d0425919da31ff5437b974ea797210aeb7c9fb7078c2e784c19e589f6e970dc",
+ "chars": 26845,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriMughni-004/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriMughni-004/transcript.txt",
+   "sha256": "626e5a97826e2047bc75e8886b00c820d1777f670760a10ce7a95468e74aca42",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/mughni/mughni-04_AlAmri.txt",
+   "sha256": "626e5a97826e2047bc75e8886b00c820d1777f670760a10ce7a95468e74aca42",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-mughni/04.txt",
+   "sha256": "626e5a97826e2047bc75e8886b00c820d1777f670760a10ce7a95468e74aca42",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

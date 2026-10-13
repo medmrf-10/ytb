@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:tYOSgqw9WUM",
+ "vid": "tYOSgqw9WUM",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--415",
+ "n": 9,
+ "n_src": "mutfile",
+ "title": "8 - التزكية في القرآن الكريم من آثار التزكية - الأخوة الإنسانية",
+ "title_src": "filename",
+ "sha256": "0854c3db1fbccab2a4a257c14b0294971586fb94af72ecf681e032c226afcf98",
+ "nh": "ab0fd428ca258ce3a222b985be2b8861c05808bd2b56676488d4a09638868e45",
+ "chars": 14060,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/415/009_8 - التزكية في القرآن الكريم  من آثار التزكية - الأخوة الإنسانية.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/415/009_8 - التزكية في القرآن الكريم  من آثار التزكية - الأخوة الإنسانية.txt",
+   "sha256": "0854c3db1fbccab2a4a257c14b0294971586fb94af72ecf681e032c226afcf98",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tawba/009_8 - التزكية في القرآن الكريم  من آثار التزكية - الأخوة الإنسانية.txt",
+   "sha256": "0854c3db1fbccab2a4a257c14b0294971586fb94af72ecf681e032c226afcf98",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tazkiya/009_8 - التزكية في القرآن الكريم  من آثار التزكية - الأخوة الإنسانية.txt",
+   "sha256": "0854c3db1fbccab2a4a257c14b0294971586fb94af72ecf681e032c226afcf98",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-415/007.txt",
+   "sha256": "f8e1e53ff6bcdb7b43e04e1dfc9491950c8004eb0f22baf18be4a5df238af5a6",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

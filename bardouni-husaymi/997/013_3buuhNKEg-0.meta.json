@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:3buuhNKEg-0",
+ "vid": "3buuhNKEg-0",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--997",
+ "n": 13,
+ "n_src": "read",
+ "title": "شرح الحكم العطائية ｜ الدرس 13 ＂ كيف يشرق قلب صور الاكوان منطبعة في مرآته -تتمة",
+ "title_src": "filename",
+ "sha256": "310ef1465b8f5416504f4fe6d0f53a49c0bf88373ac2bc7379d8fef1d9d914ec",
+ "nh": "5a59ee8c703c1a196be8bdcb055894fd2d3ae9935927c7b46d2c6d419e533a9d",
+ "chars": 10802,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/997/013_شرح الحكم العطائية ｜ الدرس 13 ＂ كيف يشرق قلب صور الاكوان منطبعة في مرآته -تتمة- .txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/997/013_شرح الحكم العطائية ｜ الدرس 13 ＂ كيف يشرق قلب صور الاكوان منطبعة في مرآته -تتمة- .txt",
+   "sha256": "310ef1465b8f5416504f4fe6d0f53a49c0bf88373ac2bc7379d8fef1d9d914ec",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/hikam-azhar/12.txt",
+   "sha256": "310ef1465b8f5416504f4fe6d0f53a49c0bf88373ac2bc7379d8fef1d9d914ec",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/871/12.txt",
+   "sha256": "310ef1465b8f5416504f4fe6d0f53a49c0bf88373ac2bc7379d8fef1d9d914ec",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "ali-gomaa--871",
+  "ali-gomaa--gomaa-hikam-azhar"
+ ]
+}

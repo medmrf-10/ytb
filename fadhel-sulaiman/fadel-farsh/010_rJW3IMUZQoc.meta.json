@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:rJW3IMUZQoc",
+ "vid": "rJW3IMUZQoc",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-farsh",
+ "n": 10,
+ "n_src": "trfile",
+ "title": "تدبر فرش القراءات - الحلقة العاشرة - فَتَلَقَّى آدَمَ مِنْ رَبِّهِ كَلِمَاتٌ -  #فاضل_سليمان",
+ "title_src": "yt_titles",
+ "sha256": "df4bec2af129d8e82656bd9c3f42550a27bccae1dd84b1590a484b90b8d21684",
+ "nh": "7f57a1f6d1dd1b0311f86b206e5a36c320f705d334ed5039fe05a31dfa920554",
+ "chars": 13935,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelFarsh-010/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelFarsh-010/transcript.txt",
+   "sha256": "df4bec2af129d8e82656bd9c3f42550a27bccae1dd84b1590a484b90b8d21684",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-farsh/010.txt",
+   "sha256": "df4bec2af129d8e82656bd9c3f42550a27bccae1dd84b1590a484b90b8d21684",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

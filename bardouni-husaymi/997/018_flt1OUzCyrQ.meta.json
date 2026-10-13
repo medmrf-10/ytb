@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:flt1OUzCyrQ",
+ "vid": "flt1OUzCyrQ",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--997",
+ "n": 18,
+ "n_src": "read",
+ "title": "شرح الحكم ｜دس18-لا تطلب منه أن يخرجك من حالة ليستعملك فيما سواها إذ لو أرادك لاس",
+ "title_src": "filename",
+ "sha256": "b84ccff8dba1130caf97ec0dc03bdcc51d0b2ad6e2e19ac3ef1da8c38f540b86",
+ "nh": "dc92bda2bf80504676bfc6116e588daca048b89a1e6e3e0f4d56e52855e7e1cd",
+ "chars": 12935,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/997/018_شرح الحكم ｜دس18-لا تطلب منه أن يخرجك من حالة ليستعملك فيما سواها إذ لو أرادك لاس.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/997/018_شرح الحكم ｜دس18-لا تطلب منه أن يخرجك من حالة ليستعملك فيما سواها إذ لو أرادك لاس.txt",
+   "sha256": "b84ccff8dba1130caf97ec0dc03bdcc51d0b2ad6e2e19ac3ef1da8c38f540b86",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/hikam-azhar/17.txt",
+   "sha256": "b84ccff8dba1130caf97ec0dc03bdcc51d0b2ad6e2e19ac3ef1da8c38f540b86",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/871/17.txt",
+   "sha256": "b84ccff8dba1130caf97ec0dc03bdcc51d0b2ad6e2e19ac3ef1da8c38f540b86",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "ali-gomaa--871",
+  "ali-gomaa--gomaa-hikam-azhar"
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:ru41u33A5sM",
+ "vid": "ru41u33A5sM",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--418",
+ "n": 12,
+ "n_src": "plpos",
+ "title": "12- الحب في القرآن | حب الإنسان لمتاع الدنيا",
+ "title_src": "yt_titles",
+ "sha256": "6579807fe2ec921a012d339356bdce9a85c841641738c769de02805b33701161",
+ "nh": "84a025b971e4ac41e1f95ab46c799a6fc6b54686b189073560d5fa53d1ea4ada",
+ "chars": 18994,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/418/012_12- الحب في القرآن ｜ حب الإنسان لمتاع الدنيا.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/418/012_12- الحب في القرآن ｜ حب الإنسان لمتاع الدنيا.txt",
+   "sha256": "6579807fe2ec921a012d339356bdce9a85c841641738c769de02805b33701161",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/al7obFiEl9or1n-012/transcript.txt",
+   "sha256": "e11fb5fb5a1130288fc9c2fc15b6431b5cb6faf3804e5c35eb9dabca5c7923aa",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-hubb/12.txt",
+   "sha256": "e11fb5fb5a1130288fc9c2fc15b6431b5cb6faf3804e5c35eb9dabca5c7923aa",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/418/11.txt",
+   "sha256": "6579807fe2ec921a012d339356bdce9a85c841641738c769de02805b33701161",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

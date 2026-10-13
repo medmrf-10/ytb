@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:JKU6Nxv5ATA",
+ "vid": "JKU6Nxv5ATA",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--796",
+ "n": 20,
+ "n_src": "read",
+ "title": "(20) اسم الإشارة + الاسم الموصول ⧸ قطر الندى ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "235610916bb66623d89e58ddb3a9e84032e0ecc65f7f3724192601f67787c248",
+ "nh": "f6d9c6bcae923217baad9fbdcabcb466e5a2893134f628bd45fd3067253dd698",
+ "chars": 25564,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/796/020_(20) اسم الإشارة + الاسم الموصول ⧸  قطر الندى ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/796/020_(20) اسم الإشارة + الاسم الموصول ⧸  قطر الندى ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "235610916bb66623d89e58ddb3a9e84032e0ecc65f7f3724192601f67787c248",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/796/19.txt",
+   "sha256": "235610916bb66623d89e58ddb3a9e84032e0ecc65f7f3724192601f67787c248",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

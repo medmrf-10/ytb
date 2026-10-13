@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:Qaudg4_x-84",
+ "vid": "Qaudg4_x-84",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--339",
+ "n": 1,
+ "n_src": "mutfile",
+ "title": "برومو برنامج الكآبة .. أسباب وعلاج",
+ "title_src": "filename",
+ "sha256": "39536ad589590add92273cad3d3097b67868680184f182b0e532e10298167356",
+ "nh": "591be3aed3db35c34e4bd9d06bb86d7c9f86bd37913d0046736ab275ad5b1d8d",
+ "chars": 1049,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/339/001_برومو برنامج الكآبة .. أسباب وعلاج.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/339/001_برومو برنامج الكآبة .. أسباب وعلاج.txt",
+   "sha256": "39536ad589590add92273cad3d3097b67868680184f182b0e532e10298167356",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/rihab/001_برومو برنامج الكآبة .. أسباب وعلاج.txt",
+   "sha256": "39536ad589590add92273cad3d3097b67868680184f182b0e532e10298167356",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-339/001.txt",
+   "sha256": "9870902d824c79b08154d77fe716bb322a853ec1fba0a0e26c356799bef01ad7",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

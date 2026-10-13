@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:XISTE6qolmM",
+ "vid": "XISTE6qolmM",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--346",
+ "n": 8,
+ "n_src": "plpos",
+ "title": "7 - رحلة الخلود | العلامة البوطي | الناجون من هول الموقف",
+ "title_src": "yt_titles",
+ "sha256": "c6fc28b25c034512f18891a51285a616b02bd02dbef22e71d3ab521cbc26e075",
+ "nh": "1f247b509dca861a157e06bbe29c68c7b5030922b9038f09a751e2d346b3756a",
+ "chars": 14168,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/346/008_7 - رحلة الخلود ｜ العلامة البوطي ｜ الناجون من هول الموقف.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/346/008_7 - رحلة الخلود ｜ العلامة البوطي ｜ الناجون من هول الموقف.txt",
+   "sha256": "c6fc28b25c034512f18891a51285a616b02bd02dbef22e71d3ab521cbc26e075",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/ri7latEl5oloud-008/transcript.txt",
+   "sha256": "2c24c5b9b06c054b8c7565223fef93ac65f25a744fd9d73267e6e2e6a1f1dafc",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-rihla/08.txt",
+   "sha256": "2c24c5b9b06c054b8c7565223fef93ac65f25a744fd9d73267e6e2e6a1f1dafc",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/346/7.txt",
+   "sha256": "c6fc28b25c034512f18891a51285a616b02bd02dbef22e71d3ab521cbc26e075",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

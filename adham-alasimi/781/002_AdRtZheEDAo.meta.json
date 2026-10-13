@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:AdRtZheEDAo",
+ "vid": "AdRtZheEDAo",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--781",
+ "n": 2,
+ "n_src": "read",
+ "title": "(02) فوائد دراسة السيرة (2) ⧸ السيرة النبوية ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "16ef4d99fef3f35930b8af3c79b0c95780b4d58365e0568f30749a98e4916da5",
+ "nh": "4db17ccb3e83b5f062e0f0144d3b5e593083cf7e58442765220101bd82967c5b",
+ "chars": 19295,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/781/002_(02) فوائد دراسة السيرة (2) ⧸ السيرة النبوية ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/781/002_(02) فوائد دراسة السيرة (2) ⧸ السيرة النبوية ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "16ef4d99fef3f35930b8af3c79b0c95780b4d58365e0568f30749a98e4916da5",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/hafiz/irshad-suluk/1.txt",
+   "sha256": "16ef4d99fef3f35930b8af3c79b0c95780b4d58365e0568f30749a98e4916da5",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/173/1.txt",
+   "sha256": "16ef4d99fef3f35930b8af3c79b0c95780b4d58365e0568f30749a98e4916da5",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-omar-ibn-hafiz--173",
+  "habib-omar-ibn-hafiz--hafiz-irshad-suluk"
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:57",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 57,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 69 ( قوله ＂و يجمع القمح و الشعير و السلت في الزكاة",
+ "title_src": "filename",
+ "sha256": "7183fa544ad9b0a61e79d157ca51226e42cc72beaa675c729ad0833d0491be9a",
+ "nh": "9a9ecf52e3604b9a25d67b531d7844670e1a9236f69b2d1e9e8d22d4efdbe948",
+ "chars": 15928,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/057_شرح رسالة ابن ابي زيد ｜ الدرس 69 ( قوله ＂و يجمع القمح و الشعير و السلت في الزكاة.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/057_شرح رسالة ابن ابي زيد ｜ الدرس 69 ( قوله ＂و يجمع القمح و الشعير و السلت في الزكاة.txt",
+   "sha256": "7183fa544ad9b0a61e79d157ca51226e42cc72beaa675c729ad0833d0491be9a",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/69.txt",
+   "sha256": "7183fa544ad9b0a61e79d157ca51226e42cc72beaa675c729ad0833d0491be9a",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

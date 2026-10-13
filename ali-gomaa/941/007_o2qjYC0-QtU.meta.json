@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:o2qjYC0-QtU",
+ "vid": "o2qjYC0-QtU",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--941",
+ "n": 7,
+ "n_src": "read",
+ "title": "شرح الأربعين النووية ｜ حلقة 7 ｜ حديث 6 ｜ أ.د علي جمعة ｜",
+ "title_src": "filename",
+ "sha256": "b8c3282f6e4bedf99d1f51a5fcbcdf9c476c9c51bf530a127a2dcc2ae025b784",
+ "nh": "9cad67af7011a90cf622c374fbba89351778fed084d8b560c1bbd016d52f776f",
+ "chars": 3655,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/941/007_شرح الأربعين النووية ｜ حلقة 7 ｜ حديث 6 ｜ أ.د علي جمعة ｜ English Subtitle.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/941/007_شرح الأربعين النووية ｜ حلقة 7 ｜ حديث 6 ｜ أ.د علي جمعة ｜ English Subtitle.txt",
+   "sha256": "b8c3282f6e4bedf99d1f51a5fcbcdf9c476c9c51bf530a127a2dcc2ae025b784",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/ali-gomaa--941/007.txt",
+   "sha256": "b8c3282f6e4bedf99d1f51a5fcbcdf9c476c9c51bf530a127a2dcc2ae025b784",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

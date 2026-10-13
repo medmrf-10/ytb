@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:mDP084pOle8",
+ "vid": "mDP084pOle8",
+ "sheikh": "ahmed-abdelmonem",
+ "row_id": "ahmed-abdelmonem--abdelmonem-juz30",
+ "n": 1,
+ "n_src": "trfile",
+ "title": "Interpretation of Surah An-Naba (1) | Dr. Ahmed Abdel Moneim",
+ "title_src": "yt_titles",
+ "sha256": "7d5861882fac4fe8ba8677c742670e6635d551ceecef19b42953c73d1ba10056",
+ "nh": "f25d7e8d9f069bb0a738e9a7af0826b9c916d897523835b7e6b416dd8cdfbc00",
+ "chars": 9177,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/abdelmonemJuz30-001/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/abdelmonemJuz30-001/transcript.txt",
+   "sha256": "7d5861882fac4fe8ba8677c742670e6635d551ceecef19b42953c73d1ba10056",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/abdelmonem/juz30/078-Naba_p1_AbdelMonem.txt",
+   "sha256": "7d5861882fac4fe8ba8677c742670e6635d551ceecef19b42953c73d1ba10056",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/abdelmonem-juz30/01.txt",
+   "sha256": "7d5861882fac4fe8ba8677c742670e6635d551ceecef19b42953c73d1ba10056",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

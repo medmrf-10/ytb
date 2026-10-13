@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:lM88GEonHaI",
+ "vid": "lM88GEonHaI",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--379",
+ "n": 36,
+ "n_src": "plpos",
+ "title": "36- تاريخ التشريع الإسلامي | سلبيات الدور السادس (2)",
+ "title_src": "yt_titles",
+ "sha256": "e3971f2c70ae6240cbd0bc0e613204e22bf3dd959ed574121642e7a9a18c91e8",
+ "nh": "e7976179a7ebea558fea0e6864064976b2cd73459f984918bf0ea443bf0a9582",
+ "chars": 19141,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/379/036_36- تاريخ التشريع الإسلامي ｜ سلبيات الدور السادس (2).txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/379/036_36- تاريخ التشريع الإسلامي ｜ سلبيات الدور السادس (2).txt",
+   "sha256": "e3971f2c70ae6240cbd0bc0e613204e22bf3dd959ed574121642e7a9a18c91e8",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/tari5Eltachri3-036/transcript.txt",
+   "sha256": "2af1a6decd9567b3d54d6de63efaaf079fbe9e7b1dd3482fc1f5ed336e9d72c5",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-tarikh/36.txt",
+   "sha256": "2af1a6decd9567b3d54d6de63efaaf079fbe9e7b1dd3482fc1f5ed336e9d72c5",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

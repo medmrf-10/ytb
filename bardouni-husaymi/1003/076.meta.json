@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:76",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 76,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 53 ( باب صلاة العيدين ) ｜ الشيخ البردوني",
+ "title_src": "filename",
+ "sha256": "831bbf0e21342b11603f76bbf535cffaa065abfd09e7abe9d6614a385b4d55ef",
+ "nh": "4df5e8ba1ad5d1fd3541c3c3df5452d28d7421e01e931c366c76cd9016adc941",
+ "chars": 27626,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/076_شرح رسالة ابن ابي زيد ｜ الدرس 53 (  باب صلاة العيدين  ) ｜ الشيخ البردوني.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/076_شرح رسالة ابن ابي زيد ｜ الدرس 53 (  باب صلاة العيدين  ) ｜ الشيخ البردوني.txt",
+   "sha256": "831bbf0e21342b11603f76bbf535cffaa065abfd09e7abe9d6614a385b4d55ef",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/53.txt",
+   "sha256": "831bbf0e21342b11603f76bbf535cffaa065abfd09e7abe9d6614a385b4d55ef",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

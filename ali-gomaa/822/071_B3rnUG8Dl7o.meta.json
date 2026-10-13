@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:B3rnUG8Dl7o",
+ "vid": "B3rnUG8Dl7o",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 71,
+ "n_src": "plpos",
+ "title": "والله أعلم | فضيلة الدكتور علي جمعة يتحدث عن أمانة الأوطان | الحلقة الكاملة",
+ "title_src": "yt_titles",
+ "sha256": "ba469a3c1f17a30effd8ce8da67749e8006de7c9b018e270106b7b9303259f38",
+ "nh": "e8549749eb3b08819c16d791db71fbb1a3f29d61661de48817fdbd5bf49e8372",
+ "chars": 20595,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/071_والله أعلم ｜ فضيلة الدكتور علي جمعة يتحدث عن أمانة الأوطان ｜ الحلقة الكاملة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/071_والله أعلم ｜ فضيلة الدكتور علي جمعة يتحدث عن أمانة الأوطان ｜ الحلقة الكاملة.txt",
+   "sha256": "ba469a3c1f17a30effd8ce8da67749e8006de7c9b018e270106b7b9303259f38",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/071_والله أعلم ｜ فضيلة الدكتور علي جمعة يتحدث عن أمانة الأوطان ｜ الحلقة الكاملة.txt",
+   "sha256": "ba469a3c1f17a30effd8ce8da67749e8006de7c9b018e270106b7b9303259f38",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/071.txt",
+   "sha256": "ba469a3c1f17a30effd8ce8da67749e8006de7c9b018e270106b7b9303259f38",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

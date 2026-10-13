@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:ySXrfakMTbc",
+ "vid": "ySXrfakMTbc",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 28,
+ "n_src": "read",
+ "title": "خطب منبرية： ＂ سبُّ الدين ونقض العقود ＂ ⧸ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "85a4b8197d68ab856bee31d61ba192436c4c0346bd2c6414eb56931d7c4ce110",
+ "nh": "c17ee0f68c7a831fe2f528740fcfb6a611ce5d0d54953f5169e5951aca44959f",
+ "chars": 11327,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/028_خطب منبرية： ＂ سبُّ الدين ونقض العقود ＂ ⧸ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/028_خطب منبرية： ＂ سبُّ الدين ونقض العقود ＂ ⧸ الشيخ العلامة مولود السريري.txt",
+   "sha256": "85a4b8197d68ab856bee31d61ba192436c4c0346bd2c6414eb56931d7c4ce110",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/27.txt",
+   "sha256": "85a4b8197d68ab856bee31d61ba192436c4c0346bd2c6414eb56931d7c4ce110",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

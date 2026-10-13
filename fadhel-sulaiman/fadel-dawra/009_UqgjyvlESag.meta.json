@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:UqgjyvlESag",
+ "vid": "UqgjyvlESag",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-dawra",
+ "n": 9,
+ "n_src": "trfile",
+ "title": "الدرس التاسع من دورة مفاتح التدبر | علاقة الآية بالمقطع الذي وردت فيه | فاضل سليمان",
+ "title_src": "yt_titles",
+ "sha256": "86534da7f38a01048331bea8ef0ea459d7b3a248784da981f9ae727e3ac5e1e3",
+ "nh": "22495fda8acf4be9f0bd28be88214ad58cf0c81225df5cb8e9c7270ab2aef03e",
+ "chars": 5970,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelDawra-009/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelDawra-009/transcript.txt",
+   "sha256": "86534da7f38a01048331bea8ef0ea459d7b3a248784da981f9ae727e3ac5e1e3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-dawra/009.txt",
+   "sha256": "86534da7f38a01048331bea8ef0ea459d7b3a248784da981f9ae727e3ac5e1e3",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

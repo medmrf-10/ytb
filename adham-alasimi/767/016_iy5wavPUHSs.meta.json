@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:iy5wavPUHSs",
+ "vid": "iy5wavPUHSs",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--767",
+ "n": 16,
+ "n_src": "read",
+ "title": "(16) المعرف بال والمعرف بالإضافة والمعرف بالنداء والممنوع من الصرف ⧸ دورة النحو",
+ "title_src": "filename",
+ "sha256": "a6a745e063844824d654de4506a60872e00638f92e46696f5e2a47bae4546ead",
+ "nh": "3e8dba0dbe513e2f7c7dca75969717e51c1bf3a4917b656abc721f85fc4247f4",
+ "chars": 13879,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/767/016_(16) المعرف بال والمعرف بالإضافة والمعرف بالنداء والممنوع من الصرف ⧸ دورة النحو .txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/767/016_(16) المعرف بال والمعرف بالإضافة والمعرف بالنداء والممنوع من الصرف ⧸ دورة النحو .txt",
+   "sha256": "a6a745e063844824d654de4506a60872e00638f92e46696f5e2a47bae4546ead",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/767/15.txt",
+   "sha256": "a6a745e063844824d654de4506a60872e00638f92e46696f5e2a47bae4546ead",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

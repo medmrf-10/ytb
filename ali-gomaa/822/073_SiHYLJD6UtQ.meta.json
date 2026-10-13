@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:SiHYLJD6UtQ",
+ "vid": "SiHYLJD6UtQ",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 73,
+ "n_src": "plpos",
+ "title": "والله أعلم | فضيلة الدكتور علي جمعة يرد على الشبهات حول الإسراء والمعراج | الحلقة الكاملة",
+ "title_src": "yt_titles",
+ "sha256": "c6630734edc9f649ff6b810298ace9dbc06ee83485f5bb40fdda5c307be7db6d",
+ "nh": "bf779e8050e0444e5b03312b896e909ab3e090d784d8be9bc4d5f9cd64c4a777",
+ "chars": 24427,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/073_والله أعلم ｜ فضيلة الدكتور علي جمعة يرد على الشبهات حول الإسراء والمعراج ｜ الحلق.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/073_والله أعلم ｜ فضيلة الدكتور علي جمعة يرد على الشبهات حول الإسراء والمعراج ｜ الحلق.txt",
+   "sha256": "c6630734edc9f649ff6b810298ace9dbc06ee83485f5bb40fdda5c307be7db6d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/073_والله أعلم ｜ فضيلة الدكتور علي جمعة يرد على الشبهات حول الإسراء والمعراج ｜ الحلق.txt",
+   "sha256": "c6630734edc9f649ff6b810298ace9dbc06ee83485f5bb40fdda5c307be7db6d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/073.txt",
+   "sha256": "b797250b0a87775496d4b10e7c4719dc3dec93238d31e967f434e3d974565988",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:AK7xKAN5RK4",
+ "vid": "AK7xKAN5RK4",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 55,
+ "n_src": "plpos",
+ "title": "والله أعلم | فضيلة د.على جمعة يتحدث عن حقيقة العداء للإسلام في الغرب | الحلقة الكاملة",
+ "title_src": "yt_titles",
+ "sha256": "2ace07e78ed86e50fc766cdd4575f9eeb1eca5981d23ab78eddb9d2d370b3a29",
+ "nh": "7b72bb9c68bb8299e0be106aed113b360f8df7273c6669a9ab8bfc9e899f24be",
+ "chars": 24684,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/055_والله أعلم ｜ فضيلة د.على جمعة يتحدث عن حقيقة العداء للإسلام في الغرب ｜ الحلقة ال.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/055_والله أعلم ｜ فضيلة د.على جمعة يتحدث عن حقيقة العداء للإسلام في الغرب ｜ الحلقة ال.txt",
+   "sha256": "2ace07e78ed86e50fc766cdd4575f9eeb1eca5981d23ab78eddb9d2d370b3a29",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/055_والله أعلم ｜ فضيلة د.على جمعة يتحدث عن حقيقة العداء للإسلام في الغرب ｜ الحلقة ال.txt",
+   "sha256": "2ace07e78ed86e50fc766cdd4575f9eeb1eca5981d23ab78eddb9d2d370b3a29",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/055.txt",
+   "sha256": "2ace07e78ed86e50fc766cdd4575f9eeb1eca5981d23ab78eddb9d2d370b3a29",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:fFr_LqX1Jf4",
+ "vid": "fFr_LqX1Jf4",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-qawaid-tasawwuf",
+ "n": 1,
+ "n_src": "trfile",
+ "title": "الدرس 1",
+ "title_src": "filename",
+ "sha256": "5da439e77c62e680fa53a9b459a8e162a85c296bdf75454827230b56c1ee6005",
+ "nh": "2c16ad386721c272a8f67aaa627147dc555d98c6507f7e6feacc959b7b64db06",
+ "chars": 40234,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriQawaidTasawwuf-001/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriQawaidTasawwuf-001/transcript.txt",
+   "sha256": "5da439e77c62e680fa53a9b459a8e162a85c296bdf75454827230b56c1ee6005",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/qawaid-tasawwuf/qawaid-tasawwuf-01_AlAmri.txt",
+   "sha256": "5da439e77c62e680fa53a9b459a8e162a85c296bdf75454827230b56c1ee6005",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-qawaid-tasawwuf/01.txt",
+   "sha256": "5da439e77c62e680fa53a9b459a8e162a85c296bdf75454827230b56c1ee6005",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

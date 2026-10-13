@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:oBY1vKdsXO0",
+ "vid": "oBY1vKdsXO0",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 21,
+ "n_src": "plpos",
+ "title": "المتشددون | حـ 21 | سيد قطب ماله وما عليه جـ 8 | أ.د علي جمعة",
+ "title_src": "yt_titles",
+ "sha256": "c200582e9a29515e8179c7f29f077f2925f08e11b539ae63b529d27eb1039b43",
+ "nh": "95091d9e1a31e7b7ad5bbc53723ee992c9373e9786cb576621e7ff455156802d",
+ "chars": 16763,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/021_المتشددون ｜ حـ 21 ｜ سيد قطب ماله وما عليه جـ 8 ｜ أ.د علي جمعة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/021_المتشددون ｜ حـ 21 ｜ سيد قطب ماله وما عليه جـ 8 ｜ أ.د علي جمعة.txt",
+   "sha256": "c200582e9a29515e8179c7f29f077f2925f08e11b539ae63b529d27eb1039b43",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/021_المتشددون ｜ حـ 21 ｜ سيد قطب ماله وما عليه جـ 8 ｜ أ.د علي جمعة.txt",
+   "sha256": "c200582e9a29515e8179c7f29f077f2925f08e11b539ae63b529d27eb1039b43",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/021.txt",
+   "sha256": "3da2b037be480aacdd35d1c47570cc3336bbdfbb7542519705f46ec57d3b6da3",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

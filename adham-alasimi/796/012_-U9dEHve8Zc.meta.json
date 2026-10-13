@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:-U9dEHve8Zc",
+ "vid": "-U9dEHve8Zc",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--796",
+ "n": 12,
+ "n_src": "read",
+ "title": "(12) لن - كي - إذن -(أن) المفسّرة الزائدة ⧸ قطر الندى ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "d99fb47012355b9ddc11e1ca397945552400e12677d29b60c9f16551ae8573ba",
+ "nh": "52f106203d5faa6d1c4ede04f744ce936002baa970830ccf4e2b4b33a2521a16",
+ "chars": 16230,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/796/012_(12) لن - كي - إذن -(أن) المفسّرة الزائدة ⧸ قطر الندى ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/796/012_(12) لن - كي - إذن -(أن) المفسّرة الزائدة ⧸ قطر الندى ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "d99fb47012355b9ddc11e1ca397945552400e12677d29b60c9f16551ae8573ba",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/796/11.txt",
+   "sha256": "d99fb47012355b9ddc11e1ca397945552400e12677d29b60c9f16551ae8573ba",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

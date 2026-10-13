@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:41WE_WiLD2s",
+ "vid": "41WE_WiLD2s",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 75,
+ "n_src": "plpos",
+ "title": "والله أعلم | حرية العبادة .. وتعايش الإسلام مع الأديان | حلقة كاملة",
+ "title_src": "yt_titles",
+ "sha256": "da833ce9a5fb470ad6380072977dc63c4f8da6bb37f39b708141d68a2b82c895",
+ "nh": "7bb1f1afb8b3c940be2843d99c9ab2ff68884bc5370dcb0cfd384a6e0a2cc64c",
+ "chars": 26165,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/075_والله أعلم ｜ حرية العبادة .. وتعايش الإسلام مع الأديان ｜ حلقة كاملة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/075_والله أعلم ｜ حرية العبادة .. وتعايش الإسلام مع الأديان ｜ حلقة كاملة.txt",
+   "sha256": "da833ce9a5fb470ad6380072977dc63c4f8da6bb37f39b708141d68a2b82c895",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/075_والله أعلم ｜ حرية العبادة .. وتعايش الإسلام مع الأديان ｜ حلقة كاملة.txt",
+   "sha256": "da833ce9a5fb470ad6380072977dc63c4f8da6bb37f39b708141d68a2b82c895",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/075.txt",
+   "sha256": "d2b6a21479ec3f14f1082922dfa1f5b6068988ed806d9ebed6b8cf4b40fd11ae",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

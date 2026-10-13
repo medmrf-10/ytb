@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:0TTivYMt9dE",
+ "vid": "0TTivYMt9dE",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 111,
+ "n_src": "read",
+ "title": "الحكم العطائية للعلامة البوطي الدرس 300 - المناجاة 19 - 21",
+ "title_src": "filename",
+ "sha256": "f11fc38eb6e3509f3ded60d9033e28d54c442ba11fa9ab0b816e47e178422b13",
+ "nh": "e7ddf3f7c86567df5e50d776e9945aaee2d70c75b8c199b08f3b30cf972e158f",
+ "chars": 26581,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/111_الحكم العطائية للعلامة البوطي  الدرس 300 - المناجاة 19 - 21.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/111_الحكم العطائية للعلامة البوطي  الدرس 300 - المناجاة 19 - 21.txt",
+   "sha256": "f11fc38eb6e3509f3ded60d9033e28d54c442ba11fa9ab0b816e47e178422b13",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/hikam/111_الحكم العطائية للعلامة البوطي  الدرس 300 - المناجاة 19 - 21.txt",
+   "sha256": "f11fc38eb6e3509f3ded60d9033e28d54c442ba11fa9ab0b816e47e178422b13",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/111_الحكم العطائية للعلامة البوطي  الدرس 300 - المناجاة 19 - 21.txt",
+   "sha256": "f11fc38eb6e3509f3ded60d9033e28d54c442ba11fa9ab0b816e47e178422b13",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:9kb-p0v7yc0",
+ "vid": "9kb-p0v7yc0",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--403",
+ "n": 32,
+ "n_src": "plpos",
+ "title": "30- فقه السيرة النبوية | إجلاء بني النضير (2) | غزوة ذات الرقاع",
+ "title_src": "yt_titles",
+ "sha256": "1eaf4e889ba3f4bc632a872b5819fa03b56225be471303f92daa6137f2756102",
+ "nh": "4d5c54913abf1b5ad766e5294a43f24624400c9e8177b115ffba803527e59e35",
+ "chars": 22462,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/403/032_30- فقه السيرة النبوية ｜ إجلاء بني النضير (2) ｜ غزوة ذات الرقاع.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/403/032_30- فقه السيرة النبوية ｜ إجلاء بني النضير (2) ｜ غزوة ذات الرقاع.txt",
+   "sha256": "1eaf4e889ba3f4bc632a872b5819fa03b56225be471303f92daa6137f2756102",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fi9hElsirah-032/transcript.txt",
+   "sha256": "f9dbb453d3bed197464ed041d478df4438b9d2dddb8ae10bd51eb9d537418300",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-sira/32.txt",
+   "sha256": "f9dbb453d3bed197464ed041d478df4438b9d2dddb8ae10bd51eb9d537418300",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

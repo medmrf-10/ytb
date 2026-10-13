@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:TMpx98ANOj0",
+ "vid": "TMpx98ANOj0",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--387",
+ "n": 8,
+ "n_src": "mutfile",
+ "title": "7 - الصحابة في القرآن الكريم أليس هناك انتقاد لأصحاب رسول الله ﷺ في القرآن الكريم ؟",
+ "title_src": "filename",
+ "sha256": "2b440b96b6685a39726d81dd9d90a72a60966464383bc7dc4dd6735c6b40ac06",
+ "nh": "ac8fd474489dd6cce55d512a05a540cae2365cdc489ba44003a42287ee62335c",
+ "chars": 11797,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/387/008_7 - الصحابة في القرآن الكريم  أليس هناك انتقاد لأصحاب رسول الله ﷺ في القرآن الكريم ؟.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/387/008_7 - الصحابة في القرآن الكريم  أليس هناك انتقاد لأصحاب رسول الله ﷺ في القرآن الكريم ؟.txt",
+   "sha256": "2b440b96b6685a39726d81dd9d90a72a60966464383bc7dc4dd6735c6b40ac06",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tawba/008_7 - الصحابة في القرآن الكريم  أليس هناك انتقاد لأصحاب رسول الله ﷺ في القرآن الكريم ؟.txt",
+   "sha256": "2b440b96b6685a39726d81dd9d90a72a60966464383bc7dc4dd6735c6b40ac06",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/sahaba/008_7 - الصحابة في القرآن الكريم  أليس هناك انتقاد لأصحاب رسول الله ﷺ في القرآن الكريم ؟.txt",
+   "sha256": "2b440b96b6685a39726d81dd9d90a72a60966464383bc7dc4dd6735c6b40ac06",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-387/002.txt",
+   "sha256": "ec8c0d837eada09deac1f27f6d883d749d031f38fed5800963e39f9766fc7917",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

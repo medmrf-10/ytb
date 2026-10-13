@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:61",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 61,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 65 ( قوله ＂ و لا يقرب الصائم النساء ＂ ) ｜ الشيخ",
+ "title_src": "filename",
+ "sha256": "5ab9a14107e90a52ebae7eba3cfeb734660e379c85d34118a8930880e4287df0",
+ "nh": "d41ef7ff277de6106a41882821f72a08b055b6dffe29c738f2a775dc49952b3f",
+ "chars": 17999,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/061_شرح رسالة ابن ابي زيد ｜ الدرس 65 (  قوله ＂ و لا يقرب الصائم النساء ＂  ) ｜ الشيخ .txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/061_شرح رسالة ابن ابي زيد ｜ الدرس 65 (  قوله ＂ و لا يقرب الصائم النساء ＂  ) ｜ الشيخ .txt",
+   "sha256": "5ab9a14107e90a52ebae7eba3cfeb734660e379c85d34118a8930880e4287df0",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/65.txt",
+   "sha256": "5ab9a14107e90a52ebae7eba3cfeb734660e379c85d34118a8930880e4287df0",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

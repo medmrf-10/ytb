@@ -1,0 +1,55 @@
+{
+ "v": 1,
+ "lid": "yt:b2jzOcxfbco",
+ "vid": "b2jzOcxfbco",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 67,
+ "n_src": "mutfile",
+ "title": "والله أعلم | ‎فضيلة د. علي جمعة يتحدث عن المواطنة | كاملة",
+ "title_src": "yt_titles",
+ "sha256": "37aaaaf3f916a37e4225ec79e7bffa3fee52eb3019ef9d5f3dc9fc41ba9b74e1",
+ "nh": "fff1bbbb12e0378299127896b54ace802a892bcf6084df8165e89cf8371fcab4",
+ "chars": 24075,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/067_والله أعلم ｜ فضيلة د. علي جمعة يتحدث عن المواطنة ｜ كاملة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/067_والله أعلم ｜ فضيلة د. علي جمعة يتحدث عن المواطنة ｜ كاملة.txt",
+   "sha256": "37aaaaf3f916a37e4225ec79e7bffa3fee52eb3019ef9d5f3dc9fc41ba9b74e1",
+   "rel": "identical"
+  },
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/067_والله أعلم ｜ ‎فضيلة د. علي جمعة يتحدث عن المواطنة ｜ كاملة.txt",
+   "sha256": "f3cf0f761b1bbcb64b55abbe1ace670b87f0bb1ab5d9fc861aaf602377442b2e",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/067_والله أعلم ｜ فضيلة د. علي جمعة يتحدث عن المواطنة ｜ كاملة.txt",
+   "sha256": "37aaaaf3f916a37e4225ec79e7bffa3fee52eb3019ef9d5f3dc9fc41ba9b74e1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/067_والله أعلم ｜ ‎فضيلة د. علي جمعة يتحدث عن المواطنة ｜ كاملة.txt",
+   "sha256": "f3cf0f761b1bbcb64b55abbe1ace670b87f0bb1ab5d9fc861aaf602377442b2e",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/067.txt",
+   "sha256": "37aaaaf3f916a37e4225ec79e7bffa3fee52eb3019ef9d5f3dc9fc41ba9b74e1",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

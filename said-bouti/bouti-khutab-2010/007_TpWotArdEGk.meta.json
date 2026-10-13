@@ -1,0 +1,51 @@
+{
+ "v": 1,
+ "lid": "yt:TpWotArdEGk",
+ "vid": "TpWotArdEGk",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-khutab-2010",
+ "n": 7,
+ "n_src": "trfile",
+ "title": "خطبة الإمام البوطي | نصر سورية منوط بتجديد البيعة مع الله",
+ "title_src": "yt_titles",
+ "sha256": "75de52a6ee15a7ac8ed1763e90b6b549554cff57259f11706ae4eba773dda5fd",
+ "nh": "b1fe223c349de06bb624b13f439de7a60e9309eee66df6f32bf31fd080d43497",
+ "chars": 12779,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/5o6ab-007/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/5o6ab-007/transcript.txt",
+   "sha256": "75de52a6ee15a7ac8ed1763e90b6b549554cff57259f11706ae4eba773dda5fd",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/khutab-2010/6.txt",
+   "sha256": "2c4a52cd0ce699a80cf8bbba3d273f9f818aaedcd27636444845e17d081b70d4",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-khutab-2012/07.txt",
+   "sha256": "75de52a6ee15a7ac8ed1763e90b6b549554cff57259f11706ae4eba773dda5fd",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/344/6.txt",
+   "sha256": "2c4a52cd0ce699a80cf8bbba3d273f9f818aaedcd27636444845e17d081b70d4",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "said-bouti--bouti-khutab-2012"
+ ]
+}

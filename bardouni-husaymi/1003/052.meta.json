@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:52",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 52,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 74 ( قوله ＂ و في الركاز الخمس ＂ ) ｜ الشيخ البردو",
+ "title_src": "filename",
+ "sha256": "5124af65040714eba97b52ea0d76e1c47a4ef0fa58fb063f892e37f0cfce9bd0",
+ "nh": "efdbb80e7bc04252615a9d13462a85ad235372adf2e0a708d8c578bd44946c2d",
+ "chars": 13392,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/052_شرح رسالة ابن ابي زيد ｜ الدرس 74 (  قوله ＂ و في الركاز الخمس ＂  ) ｜ الشيخ البردو.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/052_شرح رسالة ابن ابي زيد ｜ الدرس 74 (  قوله ＂ و في الركاز الخمس ＂  ) ｜ الشيخ البردو.txt",
+   "sha256": "5124af65040714eba97b52ea0d76e1c47a4ef0fa58fb063f892e37f0cfce9bd0",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/74.txt",
+   "sha256": "5124af65040714eba97b52ea0d76e1c47a4ef0fa58fb063f892e37f0cfce9bd0",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:uG3Yl7PEJdo",
+ "vid": "uG3Yl7PEJdo",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--656",
+ "n": 17,
+ "n_src": "mutfile",
+ "title": "رياض الصالحين 17 ｜ باب اليقين والتوكل 1 ｜ أنوار السنة المحمدية ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "b14852b4fefc8a78f5ab3a78eaacc2b82ad0c76d429f340aa2e5785c9902378b",
+ "nh": "81005f4486618ec19684562fdead84dca29ae5bd18c22f55e1e3efcbd0f485ad",
+ "chars": 24598,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/656/017_رياض الصالحين 17 ｜ باب اليقين والتوكل 1 ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/656/017_رياض الصالحين 17 ｜ باب اليقين والتوكل 1 ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+   "sha256": "b14852b4fefc8a78f5ab3a78eaacc2b82ad0c76d429f340aa2e5785c9902378b",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/riyadElsali7in-017/transcript.txt",
+   "sha256": "001ecfbe899a577ae5c9da0b318d3f553d03758dc33f056b8bd52f1048621b59",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-656/017.txt",
+   "sha256": "001ecfbe899a577ae5c9da0b318d3f553d03758dc33f056b8bd52f1048621b59",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

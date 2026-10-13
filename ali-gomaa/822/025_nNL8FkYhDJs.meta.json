@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:nNL8FkYhDJs",
+ "vid": "nNL8FkYhDJs",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 25,
+ "n_src": "plpos",
+ "title": "المتشددون | حـ 25 | مفهوم دار الكفر ودار الإسلام | أ.د علي جمعة",
+ "title_src": "yt_titles",
+ "sha256": "aff14fb1a251aafe13bb97a1b9e2aa6384187f915f9cf296af3b38bdfee8e0cc",
+ "nh": "80f1e40a13381d1da1da89d29f96d522a3322966b84bfd6d96db8f55082f9fa1",
+ "chars": 16911,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/025_المتشددون ｜ حـ 25 ｜ مفهوم دار الكفر ودار الإسلام ｜ أ.د علي جمعة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/025_المتشددون ｜ حـ 25 ｜ مفهوم دار الكفر ودار الإسلام ｜ أ.د علي جمعة.txt",
+   "sha256": "aff14fb1a251aafe13bb97a1b9e2aa6384187f915f9cf296af3b38bdfee8e0cc",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/025_المتشددون ｜ حـ 25 ｜ مفهوم دار الكفر ودار الإسلام ｜ أ.د علي جمعة.txt",
+   "sha256": "aff14fb1a251aafe13bb97a1b9e2aa6384187f915f9cf296af3b38bdfee8e0cc",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/025.txt",
+   "sha256": "bc2c539f1039439f0a71d6f425f10a6bbc5925bdde0855c461ba2e296cad9767",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

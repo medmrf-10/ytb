@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "yt:gMJ-Qq1k6UM",
+ "vid": "gMJ-Qq1k6UM",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--414",
+ "n": 69,
+ "n_src": "read",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 69",
+ "title_src": "filename",
+ "sha256": "685e61376e29ae5b3edf3218dfc0a62f40a73c01d205d9895caafec7b8fe92aa",
+ "nh": "499c0355c35f9753d175649230e1fade5ae7da890dbc3a2842ec469c58f1e4d5",
+ "chars": 1582,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/069_تفسير القرآن الكريم للدكتور البوطي - الدرس 69.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/069_تفسير القرآن الكريم للدكتور البوطي - الدرس 69.txt",
+   "sha256": "685e61376e29ae5b3edf3218dfc0a62f40a73c01d205d9895caafec7b8fe92aa",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/069.txt",
+   "sha256": "f4d5fb401731a81e7aed1b322d3cdbc04436d8353095a0378e34d560a385cdf9",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/414/70.txt",
+   "sha256": "685e61376e29ae5b3edf3218dfc0a62f40a73c01d205d9895caafec7b8fe92aa",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "said-bouti--bouti-414"
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:ScefZGddfCg",
+ "vid": "ScefZGddfCg",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+ "n": 14,
+ "n_src": "trfile",
+ "title": "الدَّرس الرَّابع عشر _ القطب الأول_ تتمَّة  الدَّعوة العاشرة",
+ "title_src": "yt_titles",
+ "sha256": "121eb2364d0115f5831ed04e34e446932fc37e601b3fb183c65fc053939c69f1",
+ "nh": "9e166365e07ea3227d000c35b9013bdaa10086869893745feb84353f4aadf049",
+ "chars": 26465,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriIqtisad-014/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriIqtisad-014/transcript.txt",
+   "sha256": "121eb2364d0115f5831ed04e34e446932fc37e601b3fb183c65fc053939c69f1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-14_AlAmri.txt",
+   "sha256": "121eb2364d0115f5831ed04e34e446932fc37e601b3fb183c65fc053939c69f1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-iqtisad/14.txt",
+   "sha256": "121eb2364d0115f5831ed04e34e446932fc37e601b3fb183c65fc053939c69f1",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

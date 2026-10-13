@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:sNG9-U3lu0k",
+ "vid": "sNG9-U3lu0k",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--645",
+ "n": 1,
+ "n_src": "mutfile",
+ "title": "من الخلافة الراشدة إلى الاستعمار...قصة التحول ｜ التجارب الإصلاحية في العصر الحدي",
+ "title_src": "filename",
+ "sha256": "19cc6d93a7bd0d89fbe6788443cdf2e4bc3bb0d87b857f0196e8134ad9b3429c",
+ "nh": "500923e7e80c30e3fff603f5c399426b55ca08830ce2eb73f1a165433f872101",
+ "chars": 43314,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/645/001_من الخلافة الراشدة إلى الاستعمار...قصة التحول ｜ التجارب الإصلاحية في العصر الحدي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/645/001_من الخلافة الراشدة إلى الاستعمار...قصة التحول ｜ التجارب الإصلاحية في العصر الحدي.txt",
+   "sha256": "19cc6d93a7bd0d89fbe6788443cdf2e4bc3bb0d87b857f0196e8134ad9b3429c",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/tajaribI9la7iya-001/transcript.txt",
+   "sha256": "19cc6d93a7bd0d89fbe6788443cdf2e4bc3bb0d87b857f0196e8134ad9b3429c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-645/001.txt",
+   "sha256": "19cc6d93a7bd0d89fbe6788443cdf2e4bc3bb0d87b857f0196e8134ad9b3429c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

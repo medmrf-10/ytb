@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:nQeKl5Nr-IM",
+ "vid": "nQeKl5Nr-IM",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--768",
+ "n": 5,
+ "n_src": "read",
+ "title": "(5) أقسام الحكم العقلي ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "d34f0cc84fb0a20d1260530a4cf3c6616204bb6490c6f78290483cbd6cf5455d",
+ "nh": "e61858726e8d964c453478f2511a5b548058b751ea9ddc5ff77e0f312d3bf283",
+ "chars": 18350,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/768/005_(5) أقسام الحكم العقلي ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/768/005_(5) أقسام الحكم العقلي ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "d34f0cc84fb0a20d1260530a4cf3c6616204bb6490c6f78290483cbd6cf5455d",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/768/4.txt",
+   "sha256": "d34f0cc84fb0a20d1260530a4cf3c6616204bb6490c6f78290483cbd6cf5455d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

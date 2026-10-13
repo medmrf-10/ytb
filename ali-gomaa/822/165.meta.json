@@ -1,0 +1,31 @@
+{
+ "v": 1,
+ "lid": "rn:ali-gomaa--822:165",
+ "vid": null,
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 165,
+ "n_src": "read",
+ "title": "الدرس 165",
+ "title_src": "filename",
+ "sha256": "b5394fe8f7268ce2cd556085438ab55e7fc99269eb75679c7981eb05a8937eb5",
+ "nh": "d5b1dec8f42efbcc477edb56900c8b05a931610065e287f5c40ebbebf283592f",
+ "chars": 6663,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-ls",
+  "path": "hawshat/playlists/lessons/gomaa-khawarij/165.txt",
+  "commit_ts": 1791587745,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/165.txt",
+   "sha256": "b5394fe8f7268ce2cd556085438ab55e7fc99269eb75679c7981eb05a8937eb5",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

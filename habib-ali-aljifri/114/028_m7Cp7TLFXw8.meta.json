@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:m7Cp7TLFXw8",
+ "vid": "m7Cp7TLFXw8",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--114",
+ "n": 28,
+ "n_src": "read",
+ "title": "الإنسانية قبل التدين ｜ الحلقة 27- التطاول على المقدسات ｜ علي الجفري ｜ English Su",
+ "title_src": "filename",
+ "sha256": "0e1404a59525250d168a1328b7a6ea2f67cf9cd018385f746290e72de7315222",
+ "nh": "11ec4df1595cf0318345ee4d88667a52e24d30bc1e6ae3af3df30217829cc1d4",
+ "chars": 10459,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/114/028_الإنسانية قبل التدين ｜ الحلقة 27- التطاول على المقدسات ｜ علي الجفري ｜ English Su.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/114/028_الإنسانية قبل التدين ｜ الحلقة 27- التطاول على المقدسات ｜ علي الجفري ｜ English Su.txt",
+   "sha256": "0e1404a59525250d168a1328b7a6ea2f67cf9cd018385f746290e72de7315222",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/114/27.txt",
+   "sha256": "0e1404a59525250d168a1328b7a6ea2f67cf9cd018385f746290e72de7315222",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

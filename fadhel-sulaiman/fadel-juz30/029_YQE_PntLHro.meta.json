@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:YQE_PntLHro",
+ "vid": "YQE_PntLHro",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-juz30",
+ "n": 29,
+ "n_src": "trfile",
+ "title": "فيديو # ٦٤٤ من مقاطع حظر التجول  تدبر سورة القدر",
+ "title_src": "yt_titles",
+ "sha256": "1bf6b70bcf925fe664ac01119e4ab5186aa5d129b0b21622930d8aa30afe41ab",
+ "nh": "9c48bae5ad28c565d4c779f2be15ce747e2e8a32623111b35eab05d603c56e28",
+ "chars": 18639,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelJuz30-029/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelJuz30-029/transcript.txt",
+   "sha256": "1bf6b70bcf925fe664ac01119e4ab5186aa5d129b0b21622930d8aa30afe41ab",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-juz30/029.txt",
+   "sha256": "1bf6b70bcf925fe664ac01119e4ab5186aa5d129b0b21622930d8aa30afe41ab",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

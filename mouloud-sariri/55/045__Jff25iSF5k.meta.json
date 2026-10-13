@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:_Jff25iSF5k",
+ "vid": "_Jff25iSF5k",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 45,
+ "n_src": "read",
+ "title": "الأحوال عند أهل الإيمان ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "19b3b19efa2ff0c696462b159fdec71c5a81cab91f4b14b8bd12e1205735a993",
+ "nh": "a136cdb3ef36446c0e8c1cac75017a2678aab513a331094b92e4f0c3ff6b3b6b",
+ "chars": 9343,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/045_الأحوال عند أهل الإيمان ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/045_الأحوال عند أهل الإيمان ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "19b3b19efa2ff0c696462b159fdec71c5a81cab91f4b14b8bd12e1205735a993",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/44.txt",
+   "sha256": "19b3b19efa2ff0c696462b159fdec71c5a81cab91f4b14b8bd12e1205735a993",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

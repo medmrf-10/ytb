@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:XtneVd6Eh30",
+ "vid": "XtneVd6Eh30",
+ "sheikh": "hatem-alaouni",
+ "row_id": "hatem-alaouni--aouni-mousiqa",
+ "n": 2,
+ "n_src": "trfile",
+ "title": "الكلام على حديث المعازف | أ.د الشريف حاتم العوني",
+ "title_src": "yt_titles",
+ "sha256": "3397f3971f04e12620e80a41ad6b780e09620491de777040b34ca95d13b10a38",
+ "nh": "b6524b98078d0e581e5b728e0f54a9ff3e4340647ebe3a0e5225e46e2765c7c6",
+ "chars": 22130,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/aouniMousiqa-002/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/aouniMousiqa-002/transcript.txt",
+   "sha256": "3397f3971f04e12620e80a41ad6b780e09620491de777040b34ca95d13b10a38",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/aouni/mousiqa/002_XtneVd6Eh30.txt",
+   "sha256": "3397f3971f04e12620e80a41ad6b780e09620491de777040b34ca95d13b10a38",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/aouni-mousiqa/002.txt",
+   "sha256": "3397f3971f04e12620e80a41ad6b780e09620491de777040b34ca95d13b10a38",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

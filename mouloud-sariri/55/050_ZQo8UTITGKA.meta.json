@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:ZQo8UTITGKA",
+ "vid": "ZQo8UTITGKA",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 50,
+ "n_src": "read",
+ "title": "خطب منبرية： الإيمان وقوته الباطنية ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "28edd8f15bd7842870a67c6d06c704704739a47816a822a240b6512b2f41cb90",
+ "nh": "58a93fc1ae4f2087e8455c1a073709651e908f50ffd0710372df32750160f7ad",
+ "chars": 12247,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/050_خطب منبرية： الإيمان وقوته الباطنية ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/050_خطب منبرية： الإيمان وقوته الباطنية ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "28edd8f15bd7842870a67c6d06c704704739a47816a822a240b6512b2f41cb90",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/49.txt",
+   "sha256": "28edd8f15bd7842870a67c6d06c704704739a47816a822a240b6512b2f41cb90",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

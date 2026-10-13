@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:9G5kCqY-Eho",
+ "vid": "9G5kCqY-Eho",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--793",
+ "n": 10,
+ "n_src": "read",
+ "title": "(10) القيام بالنفس ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "9988976a567555b0abf2cc1874cd98dcf5e0cc3c0f8d20226dca42a8be7014b6",
+ "nh": "3650d95d73023c20b87701fc675466bdb8df2024157addd37f837bd7445c5003",
+ "chars": 24015,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/793/010_(10) القيام بالنفس ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/793/010_(10) القيام بالنفس ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "9988976a567555b0abf2cc1874cd98dcf5e0cc3c0f8d20226dca42a8be7014b6",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/793/9.txt",
+   "sha256": "9988976a567555b0abf2cc1874cd98dcf5e0cc3c0f8d20226dca42a8be7014b6",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

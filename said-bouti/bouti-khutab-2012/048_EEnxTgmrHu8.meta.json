@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:EEnxTgmrHu8",
+ "vid": "EEnxTgmrHu8",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-khutab-2012",
+ "n": 48,
+ "n_src": "trfile",
+ "title": "خطبة الإمام البوطي | منطق الحب",
+ "title_src": "yt_titles",
+ "sha256": "6b966e6cb4f2b7365eb28d3767be9d8fc07274743460cc9d2531b22a543c4ac8",
+ "nh": "5852e8d85c4a800847f79a7115e10d0bda37e7a6d6dde43d75cd269113f37cc1",
+ "chars": 12608,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/5o6ab-048/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/5o6ab-048/transcript.txt",
+   "sha256": "6b966e6cb4f2b7365eb28d3767be9d8fc07274743460cc9d2531b22a543c4ac8",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-khutab-2012/48.txt",
+   "sha256": "6b966e6cb4f2b7365eb28d3767be9d8fc07274743460cc9d2531b22a543c4ac8",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

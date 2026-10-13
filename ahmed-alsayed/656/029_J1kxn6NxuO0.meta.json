@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:J1kxn6NxuO0",
+ "vid": "J1kxn6NxuO0",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--656",
+ "n": 29,
+ "n_src": "mutfile",
+ "title": "رياض الصالحين 29 ｜ باب في بيان كثرة طرق الخير 2 ｜ أنوار السنة المحمدية ｜ أحمد ال",
+ "title_src": "filename",
+ "sha256": "144dc127b1e2253399e7513f2b1e9a1c0cd02c7a4f958de8e4294c8b97c52e4a",
+ "nh": "c30ba0a46633d1920f18112b74160cc3e42452d7cf26ba2f50dc62c0fa04b5ac",
+ "chars": 21908,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/656/029_رياض الصالحين 29 ｜ باب في بيان كثرة طرق الخير 2 ｜ أنوار السنة المحمدية ｜ أحمد ال.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/656/029_رياض الصالحين 29 ｜ باب في بيان كثرة طرق الخير 2 ｜ أنوار السنة المحمدية ｜ أحمد ال.txt",
+   "sha256": "144dc127b1e2253399e7513f2b1e9a1c0cd02c7a4f958de8e4294c8b97c52e4a",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/riyadElsali7in-029/transcript.txt",
+   "sha256": "13204e20577d3959ac94ed50788366a62ef8426e2939a96852b1fb2f1e817031",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-656/029.txt",
+   "sha256": "13204e20577d3959ac94ed50788366a62ef8426e2939a96852b1fb2f1e817031",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:Iic-ejuNzok",
+ "vid": "Iic-ejuNzok",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--101",
+ "n": 12,
+ "n_src": "read",
+ "title": "أيها المريد ｜ الحلقة 11 ｜ مفهوم الشكر ｜ علي الجفري ｜",
+ "title_src": "filename",
+ "sha256": "3304891903357db476cce709b6c11f0d5e9da63065f96e263bbaca5c1d3659e8",
+ "nh": "29be5ef1c0b6f6bf84b528932a3a9665c01cec5b78b700784bc4879bd6d40e2a",
+ "chars": 10015,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/101/012_أيها المريد ｜ الحلقة 11 ｜ مفهوم الشكر ｜ علي الجفري ｜ English subtitle.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/101/012_أيها المريد ｜ الحلقة 11 ｜ مفهوم الشكر ｜ علي الجفري ｜ English subtitle.txt",
+   "sha256": "3304891903357db476cce709b6c11f0d5e9da63065f96e263bbaca5c1d3659e8",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/101/11.txt",
+   "sha256": "155dfff07366dd002119898fb7d90a151d4996d17cc93f0621e9d841211b0d22",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:UWu_dGWC3zs",
+ "vid": "UWu_dGWC3zs",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--786",
+ "n": 8,
+ "n_src": "read",
+ "title": "التوبة وأقسام الناس فيها ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "c6d977a956ca253d884994b619a1a06788d97a6ac24dd17d26c0d71d52b8e73d",
+ "nh": "229fa9124c841ab26ed3e671305dd148b0f372cbade9d0fee4f0829ca54cc402",
+ "chars": 12957,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/786/008_التوبة وأقسام الناس فيها  ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/786/008_التوبة وأقسام الناس فيها  ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "c6d977a956ca253d884994b619a1a06788d97a6ac24dd17d26c0d71d52b8e73d",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/786/7.txt",
+   "sha256": "c6d977a956ca253d884994b619a1a06788d97a6ac24dd17d26c0d71d52b8e73d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

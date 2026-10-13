@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:iGc5wWQFzO8",
+ "vid": "iGc5wWQFzO8",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--408",
+ "n": 23,
+ "n_src": "read",
+ "title": "23- الجديد في إعجاز القرآن الكريم ｜ النزعة الإنسانية في القرآن",
+ "title_src": "filename",
+ "sha256": "5822c5f121096b4f68a53227824576567fd100df1872ba4cd604e4b16ec9428b",
+ "nh": "951a0574752a38ae5e39570bdeb64d76ee88783bdd4eae27eae99c1378695a28",
+ "chars": 11916,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/408/023_23- الجديد في إعجاز  القرآن الكريم ｜ النزعة الإنسانية في القرآن.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/408/023_23- الجديد في إعجاز  القرآن الكريم ｜ النزعة الإنسانية في القرآن.txt",
+   "sha256": "5822c5f121096b4f68a53227824576567fd100df1872ba4cd604e4b16ec9428b",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/408/22.txt",
+   "sha256": "5822c5f121096b4f68a53227824576567fd100df1872ba4cd604e4b16ec9428b",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

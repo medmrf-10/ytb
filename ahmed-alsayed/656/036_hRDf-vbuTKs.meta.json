@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:hRDf-vbuTKs",
+ "vid": "hRDf-vbuTKs",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--656",
+ "n": 36,
+ "n_src": "mutfile",
+ "title": "رياض الصالحين 36 ｜ باب في وجوب الانقياد لحكم الله ｜ أنوار السنة المحمدية ｜ أحمد",
+ "title_src": "filename",
+ "sha256": "c33c47a1330e133f5c319d9fd05fb7e986f6613d90273985180f866248903894",
+ "nh": "c4b461bef5ab8dd5385438481051f389f16bc0f0ab1fccdc8ad7ded0dd25e259",
+ "chars": 19647,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/656/036_رياض الصالحين 36 ｜ باب في وجوب الانقياد لحكم الله ｜ أنوار السنة المحمدية ｜ أحمد .txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/656/036_رياض الصالحين 36 ｜ باب في وجوب الانقياد لحكم الله ｜ أنوار السنة المحمدية ｜ أحمد .txt",
+   "sha256": "c33c47a1330e133f5c319d9fd05fb7e986f6613d90273985180f866248903894",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/riyadElsali7in-036/transcript.txt",
+   "sha256": "9cc878867b0c0e3aece0b9e1dc3aedc51de2b5bf601dd2688f2338bcaa809835",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-656/036.txt",
+   "sha256": "9cc878867b0c0e3aece0b9e1dc3aedc51de2b5bf601dd2688f2338bcaa809835",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

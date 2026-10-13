@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:z6sQ2jEYFJg",
+ "vid": "z6sQ2jEYFJg",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 26,
+ "n_src": "read",
+ "title": "خطب منبرية ： ＂ حالة الوجل عند أهل الإيمان ＂ ⧸ العلامة الشيخ مولود السريري",
+ "title_src": "filename",
+ "sha256": "ce8d249653dfd73d1591b49e8cdf94070acd2558176697a558ff70c682ea489d",
+ "nh": "b4e3e76a3534be1f5b1750fd45cdbe06ad82bc4e68b6681279d3f63363cec1f1",
+ "chars": 12208,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/026_خطب منبرية ： ＂ حالة الوجل عند أهل الإيمان ＂ ⧸ العلامة الشيخ مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/026_خطب منبرية ： ＂ حالة الوجل عند أهل الإيمان ＂ ⧸ العلامة الشيخ مولود السريري.txt",
+   "sha256": "ce8d249653dfd73d1591b49e8cdf94070acd2558176697a558ff70c682ea489d",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/25.txt",
+   "sha256": "ce8d249653dfd73d1591b49e8cdf94070acd2558176697a558ff70c682ea489d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

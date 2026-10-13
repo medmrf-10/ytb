@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:ktlWUNoef2s",
+ "vid": "ktlWUNoef2s",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 56,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / التصوف / الدكتور سيف العصري / مسجد قلب الشيشان",
+ "title_src": "yt_titles",
+ "sha256": "737c326bd18e368861f573988e0440dbf82553e8956ef859a6c12ee64df67716",
+ "nh": "889ccfe14fd3171daa90959e1e9f9994aa30ae6efd2180453ff482215b72ab1f",
+ "chars": 16418,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-056/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-056/transcript.txt",
+   "sha256": "737c326bd18e368861f573988e0440dbf82553e8956ef859a6c12ee64df67716",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/056_ktlWUNoef2s.txt",
+   "sha256": "737c326bd18e368861f573988e0440dbf82553e8956ef859a6c12ee64df67716",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/056.txt",
+   "sha256": "737c326bd18e368861f573988e0440dbf82553e8956ef859a6c12ee64df67716",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

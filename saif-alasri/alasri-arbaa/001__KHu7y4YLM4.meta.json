@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:_KHu7y4YLM4",
+ "vid": "_KHu7y4YLM4",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 1,
+ "n_src": "trfile",
+ "title": "حديث الإفتراق -  رواية ودراية/ د. سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "3e907039d4d14fa2e1dd3e6e22c8a7c290afdc9bfabefc88a9c723cbdc6eaaa7",
+ "nh": "4db9fc762e6fb98de3378213bc075d46ea55c83ad25f607dbe7bcd94b1fc634d",
+ "chars": 20121,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-001/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-001/transcript.txt",
+   "sha256": "3e907039d4d14fa2e1dd3e6e22c8a7c290afdc9bfabefc88a9c723cbdc6eaaa7",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/001__KHu7y4YLM4.txt",
+   "sha256": "3e907039d4d14fa2e1dd3e6e22c8a7c290afdc9bfabefc88a9c723cbdc6eaaa7",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/001.txt",
+   "sha256": "3e907039d4d14fa2e1dd3e6e22c8a7c290afdc9bfabefc88a9c723cbdc6eaaa7",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

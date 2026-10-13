@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:yvYXOnVOfx4",
+ "vid": "yvYXOnVOfx4",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--379",
+ "n": 7,
+ "n_src": "plpos",
+ "title": "7- تاريخ التشريع الإسلامي | الدور الثالث وخصائصه",
+ "title_src": "yt_titles",
+ "sha256": "b5ae677aee63680c8f09c36c490b04f42ea6e1ece1080cca6576a59e67dc5204",
+ "nh": "6d0087ebcef9c6fb46a6b5388af09d3ea61346b7ae8b6d0b83bab905acfec624",
+ "chars": 20159,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/379/007_7- تاريخ التشريع الإسلامي ｜ الدور الثالث وخصائصه.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/379/007_7- تاريخ التشريع الإسلامي ｜ الدور الثالث وخصائصه.txt",
+   "sha256": "b5ae677aee63680c8f09c36c490b04f42ea6e1ece1080cca6576a59e67dc5204",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/tari5Eltachri3-007/transcript.txt",
+   "sha256": "baeaaea46db94937d0838bc611d1e23a7cd6a95492ff55b06bc2fc5149c502ed",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-tarikh/07.txt",
+   "sha256": "baeaaea46db94937d0838bc611d1e23a7cd6a95492ff55b06bc2fc5149c502ed",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/379/6.txt",
+   "sha256": "b5ae677aee63680c8f09c36c490b04f42ea6e1ece1080cca6576a59e67dc5204",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,51 @@
+{
+ "v": 1,
+ "lid": "yt:bD97XhA93CE",
+ "vid": "bD97XhA93CE",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-khutab-2010",
+ "n": 20,
+ "n_src": "trfile",
+ "title": "خطبة عيد الفطر | الدعاء غاية لا وسيلة",
+ "title_src": "yt_titles",
+ "sha256": "ac35ab8ade7896cb585fea05132946a8ce76085440415278a99d613bebc62765",
+ "nh": "04023758343a4210a184591ef2eeeac67dd4a4fc656268ba8d2057c14b333b69",
+ "chars": 10927,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/5o6ab-020/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/5o6ab-020/transcript.txt",
+   "sha256": "ac35ab8ade7896cb585fea05132946a8ce76085440415278a99d613bebc62765",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/khutab-2010/19.txt",
+   "sha256": "43bce2aeb122c888db8d75c165706a214fdcef68c75941c0d16d956a518d2455",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-khutab-2012/20.txt",
+   "sha256": "ac35ab8ade7896cb585fea05132946a8ce76085440415278a99d613bebc62765",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/344/19.txt",
+   "sha256": "43bce2aeb122c888db8d75c165706a214fdcef68c75941c0d16d956a518d2455",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "said-bouti--bouti-khutab-2012"
+ ]
+}

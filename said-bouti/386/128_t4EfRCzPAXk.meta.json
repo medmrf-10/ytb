@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:t4EfRCzPAXk",
+ "vid": "t4EfRCzPAXk",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 128,
+ "n_src": "read",
+ "title": "الحكم العطائية للعلامة البوطي الدرس 274 - الحكمة 247",
+ "title_src": "filename",
+ "sha256": "e7a168ae247cdc6bcc8ebeb3f0fb2658439e9e254235701c0f4b5b4a38f1d3e3",
+ "nh": "b99dc9da35de91502d3ea7629d866f8b74a8e4af08d6cd3ca493dd70ca799301",
+ "chars": 19057,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/128_الحكم العطائية للعلامة البوطي  الدرس 274 - الحكمة 247.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/128_الحكم العطائية للعلامة البوطي  الدرس 274 - الحكمة 247.txt",
+   "sha256": "e7a168ae247cdc6bcc8ebeb3f0fb2658439e9e254235701c0f4b5b4a38f1d3e3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/128_الحكم العطائية للعلامة البوطي  الدرس 274 - الحكمة 247.txt",
+   "sha256": "e7a168ae247cdc6bcc8ebeb3f0fb2658439e9e254235701c0f4b5b4a38f1d3e3",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

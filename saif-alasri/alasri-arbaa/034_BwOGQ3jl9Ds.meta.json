@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:BwOGQ3jl9Ds",
+ "vid": "BwOGQ3jl9Ds",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 34,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / الإيضاح والبيان لفضيلة ليلة النصف من شعبان / د. سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "20792fcd401d3f22997e53d692d510634c67bffa17cbea75e8e73e7f1daf91e9",
+ "nh": "bc3745495f0506dd319d5d07f7a5c1d731a8d8af64c13e18c5dfe6f9659b9ea0",
+ "chars": 16888,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-034/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-034/transcript.txt",
+   "sha256": "20792fcd401d3f22997e53d692d510634c67bffa17cbea75e8e73e7f1daf91e9",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/034_BwOGQ3jl9Ds.txt",
+   "sha256": "20792fcd401d3f22997e53d692d510634c67bffa17cbea75e8e73e7f1daf91e9",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/034.txt",
+   "sha256": "20792fcd401d3f22997e53d692d510634c67bffa17cbea75e8e73e7f1daf91e9",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

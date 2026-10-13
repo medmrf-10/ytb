@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:NomG4k5UUfY",
+ "vid": "NomG4k5UUfY",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1006",
+ "n": 3,
+ "n_src": "read",
+ "title": "شرح لامية العرب ｜ الدرس 8 ｜ الشيخ محمد البردوني الحسيمي",
+ "title_src": "filename",
+ "sha256": "9fcc7a99774de211de6a10a9524f9dbae38d61c7dca43568931c2e1709702e0c",
+ "nh": "60a4a8a17f41aba7e1b251514723bd46ae745083853a308bd3b656753154a9cb",
+ "chars": 21882,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1006/003_شرح لامية العرب ｜ الدرس 8  ｜ الشيخ محمد البردوني الحسيمي.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1006/003_شرح لامية العرب ｜ الدرس 8  ｜ الشيخ محمد البردوني الحسيمي.txt",
+   "sha256": "9fcc7a99774de211de6a10a9524f9dbae38d61c7dca43568931c2e1709702e0c",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1006/7.txt",
+   "sha256": "9fcc7a99774de211de6a10a9524f9dbae38d61c7dca43568931c2e1709702e0c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

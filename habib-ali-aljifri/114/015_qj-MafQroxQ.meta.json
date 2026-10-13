@@ -1,0 +1,39 @@
+{
+ "v": 1,
+ "lid": "yt:qj-MafQroxQ",
+ "vid": "qj-MafQroxQ",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--114",
+ "n": 15,
+ "n_src": "read",
+ "title": "الإنسانية قبل التدين ｜ الحلقة 14- إنسانية التعامل مع المذنب ｜ علي الجفري ｜ Engl",
+ "title_src": "filename",
+ "sha256": "bab2fba3cc294f79fc0f0378955fbc9db3f9e7181d46447d2d1e0cf1d11a073e",
+ "nh": "2e5116b10a39eb848d8c68c3740e4a5fbc859e76ebd7e9d4b2011e60806c890c",
+ "chars": 10160,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/114/015_الإنسانية قبل التدين ｜ الحلقة 14- إنسانية التعامل مع المذنب  ｜ علي الجفري ｜ Engl.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/114/015_الإنسانية قبل التدين ｜ الحلقة 14- إنسانية التعامل مع المذنب  ｜ علي الجفري ｜ Engl.txt",
+   "sha256": "bab2fba3cc294f79fc0f0378955fbc9db3f9e7181d46447d2d1e0cf1d11a073e",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/114/14.txt",
+   "sha256": "c39fb0e054d8061ad9b5b4d5a52d9cc3003fa553ad04f7357944566cabc45185",
+   "rel": "variant"
+  }
+ ],
+ "variants": [
+  "_variants/015_qj-MafQroxQ.des-dur.txt"
+ ],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:8_ssQFOI0Vs",
+ "vid": "8_ssQFOI0Vs",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 1,
+ "n_src": "read",
+ "title": "خطب منبرية ： ＂ الرياء آفة النفوس ＂ ⧸ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "619c7c46aa71e0548041b5af4f7de302f06dcec9a646fff09c3498d70f08b008",
+ "nh": "4e15667754d771ea79ee41e827583a3235186c1a640549f233e799fe705b651f",
+ "chars": 14428,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/001_خطب منبرية ： ＂ الرياء آفة النفوس ＂ ⧸ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/001_خطب منبرية ： ＂ الرياء آفة النفوس ＂ ⧸ الشيخ العلامة مولود السريري.txt",
+   "sha256": "619c7c46aa71e0548041b5af4f7de302f06dcec9a646fff09c3498d70f08b008",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/0.txt",
+   "sha256": "619c7c46aa71e0548041b5af4f7de302f06dcec9a646fff09c3498d70f08b008",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

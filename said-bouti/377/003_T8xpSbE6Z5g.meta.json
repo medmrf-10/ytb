@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:T8xpSbE6Z5g",
+ "vid": "T8xpSbE6Z5g",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--377",
+ "n": 3,
+ "n_src": "plpos",
+ "title": "مقدمة -3- كبرى اليقينيات الكونية | منهج البحث عن الحقيقة عند الغربيين",
+ "title_src": "yt_titles",
+ "sha256": "640ed3c6b24becfc238b678c5f3d564fedb3792a92d0381dabffe93f027a1773",
+ "nh": "62b8894a08776b6a42254fa4bcdb39ff6bf3817e1fcbf696ded8662794dafccc",
+ "chars": 20556,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/377/003_مقدمة -3- كبرى اليقينيات الكونية ｜ منهج البحث عن الحقيقة عند الغربيين.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/377/003_مقدمة -3- كبرى اليقينيات الكونية ｜ منهج البحث عن الحقيقة عند الغربيين.txt",
+   "sha256": "640ed3c6b24becfc238b678c5f3d564fedb3792a92d0381dabffe93f027a1773",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/kobraElya9inyat-003/transcript.txt",
+   "sha256": "ff8b558ce5296191508da8b5c54d2a2829e852cc7a83c44d7b02a4620ec0151d",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/03.txt",
+   "sha256": "ff8b558ce5296191508da8b5c54d2a2829e852cc7a83c44d7b02a4620ec0151d",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

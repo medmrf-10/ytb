@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:tU_3tuhxAwY",
+ "vid": "tU_3tuhxAwY",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--652",
+ "n": 2,
+ "n_src": "mutfile",
+ "title": "السنن الإلهية 02 ｜ سنة إهلاك المكذبين والظالمين ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "a2562ad5541ff3b316df8ef53da9b98d516faaa7eb150dc4d8055a605902e3e4",
+ "nh": "a3d587412a4e54e26323bd3edcbb18966aecca83be94fd4d651b9f3a2b1a70eb",
+ "chars": 30765,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/652/002_السنن الإلهية 02 ｜ سنة إهلاك المكذبين والظالمين ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/652/002_السنن الإلهية 02 ｜ سنة إهلاك المكذبين والظالمين ｜ أحمد السيد.txt",
+   "sha256": "a2562ad5541ff3b316df8ef53da9b98d516faaa7eb150dc4d8055a605902e3e4",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/sonanIlahiya-002/transcript.txt",
+   "sha256": "86d8470fb46de28669de2a75b2063157dff9af70b47c863c8d40b179ab681542",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-652/002.txt",
+   "sha256": "86d8470fb46de28669de2a75b2063157dff9af70b47c863c8d40b179ab681542",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

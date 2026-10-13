@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:43IqqSSx8cI",
+ "vid": "43IqqSSx8cI",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 80,
+ "n_src": "plpos",
+ "title": "والله أعلم | فضيلة د. علي جمعة يرد على الشبهات المثارة حول ميراث المرأة | حلقة كاملة",
+ "title_src": "yt_titles",
+ "sha256": "78b91cf4f475587b1e778cdb1cd7690581eeea70f280603fb885fbead55d7f99",
+ "nh": "32a5b9a699e6febe1d40a3ca29767a51ee706ecc36c265a010fd93e033ca4ba8",
+ "chars": 25466,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/080_والله أعلم ｜ فضيلة د. علي جمعة يرد على الشبهات المثارة حول ميراث المرأة ｜ حلقة ك.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/080_والله أعلم ｜ فضيلة د. علي جمعة يرد على الشبهات المثارة حول ميراث المرأة ｜ حلقة ك.txt",
+   "sha256": "78b91cf4f475587b1e778cdb1cd7690581eeea70f280603fb885fbead55d7f99",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/080_والله أعلم ｜ فضيلة د. علي جمعة يرد على الشبهات المثارة حول ميراث المرأة ｜ حلقة ك.txt",
+   "sha256": "78b91cf4f475587b1e778cdb1cd7690581eeea70f280603fb885fbead55d7f99",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/080.txt",
+   "sha256": "aad21ce54e677652eed8470155d8df978c2659584e9f2f2efa1f1785969fa20b",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

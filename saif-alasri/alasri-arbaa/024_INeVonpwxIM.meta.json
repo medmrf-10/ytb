@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:INeVonpwxIM",
+ "vid": "INeVonpwxIM",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 24,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / صحة الحديث وضعفه وعلاقة ذلك بالعمل / د. سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "69367d0a5c8539af2aec606199d45a2a841e25bdc209bd46e5ed03e6ad4ab742",
+ "nh": "cdee9c2d632076a2e310513ff261f023379f4443d88f1bcb107a1028f1c77b9a",
+ "chars": 25233,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-024/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-024/transcript.txt",
+   "sha256": "69367d0a5c8539af2aec606199d45a2a841e25bdc209bd46e5ed03e6ad4ab742",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/024_INeVonpwxIM.txt",
+   "sha256": "69367d0a5c8539af2aec606199d45a2a841e25bdc209bd46e5ed03e6ad4ab742",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/024.txt",
+   "sha256": "69367d0a5c8539af2aec606199d45a2a841e25bdc209bd46e5ed03e6ad4ab742",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

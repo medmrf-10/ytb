@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:22zXhmgCJnI",
+ "vid": "22zXhmgCJnI",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-farsh",
+ "n": 17,
+ "n_src": "trfile",
+ "title": "تدبر فرش القراءات-الحلقة 17 -نَزَلَ بِهِ الرُّوحُ الأمِينُ -  #فاضل_سليمان",
+ "title_src": "yt_titles",
+ "sha256": "5bd80ad9bc81115a2a6ab41e509bce564ba1e14199fe216f4e8b803f058c6189",
+ "nh": "99e09d100bda67ccf97cef419e32be5b592f7c7d82f79cc212fbc3e053db7ce3",
+ "chars": 8642,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelFarsh-017/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelFarsh-017/transcript.txt",
+   "sha256": "5bd80ad9bc81115a2a6ab41e509bce564ba1e14199fe216f4e8b803f058c6189",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-farsh/017.txt",
+   "sha256": "5bd80ad9bc81115a2a6ab41e509bce564ba1e14199fe216f4e8b803f058c6189",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

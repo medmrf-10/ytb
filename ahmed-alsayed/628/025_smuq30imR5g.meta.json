@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:smuq30imR5g",
+ "vid": "smuq30imR5g",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--628",
+ "n": 25,
+ "n_src": "mutfile",
+ "title": "السيرة النبوية للمصلحين 25 ｜ أذى المنافقين ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "d10092249eb93fa866fc01ae01de164b58936084a6ece16fb79abf35d4cab101",
+ "nh": "0b006117d1f37ea0d5d434a6b9b1ca06af57824a3c1bb136d0a017df1382abbc",
+ "chars": 19200,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/628/025_السيرة النبوية للمصلحين 25 ｜ أذى المنافقين ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/628/025_السيرة النبوية للمصلحين 25 ｜ أذى المنافقين ｜ أحمد السيد.txt",
+   "sha256": "d10092249eb93fa866fc01ae01de164b58936084a6ece16fb79abf35d4cab101",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/elsiraLilmosli7in-025/transcript.txt",
+   "sha256": "45e26c94e10a735346413b889906f7723ee6e697ed5fcf02919847ed5ed8a0d3",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-628/025.txt",
+   "sha256": "45e26c94e10a735346413b889906f7723ee6e697ed5fcf02919847ed5ed8a0d3",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

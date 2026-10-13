@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:b1kTxfFgu2Y",
+ "vid": "b1kTxfFgu2Y",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 39,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / الأدب في رجب / د. سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "8f1a9f9b7b38efe5369d4df5c03c99b01b35a45b51f822510411957ad048b5e0",
+ "nh": "af108d692898556447cb1123a313d8cdd1c7b9137735e1bd23262188c947477c",
+ "chars": 24029,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-039/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-039/transcript.txt",
+   "sha256": "8f1a9f9b7b38efe5369d4df5c03c99b01b35a45b51f822510411957ad048b5e0",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/039_b1kTxfFgu2Y.txt",
+   "sha256": "8f1a9f9b7b38efe5369d4df5c03c99b01b35a45b51f822510411957ad048b5e0",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/039.txt",
+   "sha256": "8f1a9f9b7b38efe5369d4df5c03c99b01b35a45b51f822510411957ad048b5e0",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

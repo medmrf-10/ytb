@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:mQX7A8N7dLQ",
+ "vid": "mQX7A8N7dLQ",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--371",
+ "n": 3,
+ "n_src": "plpos",
+ "title": "3- علوم القرآن الكريم | كيفية جمع القرآن وكتابته | رسم القرآن الكريم",
+ "title_src": "yt_titles",
+ "sha256": "487d292e68c64dbec659c7d5795115a32e53c4d34c689b68d55fab0062769980",
+ "nh": "6f20d84a3b04de6ced853867f47152e4b91eabc476f49ed1ab26d890ac6eabf1",
+ "chars": 26173,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/371/003_3- علوم القرآن الكريم ｜ كيفية جمع القرآن وكتابته ｜ رسم القرآن الكريم.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/371/003_3- علوم القرآن الكريم ｜ كيفية جمع القرآن وكتابته ｜ رسم القرآن الكريم.txt",
+   "sha256": "487d292e68c64dbec659c7d5795115a32e53c4d34c689b68d55fab0062769980",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/3oloumEl9or1n-003/transcript.txt",
+   "sha256": "08cb908e4b7a36cc3cf2df65a532b4077aa932b386ce1ee01a0c2c84025dfe08",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-ulum-quran/03.txt",
+   "sha256": "08cb908e4b7a36cc3cf2df65a532b4077aa932b386ce1ee01a0c2c84025dfe08",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:6Zxj2m4WI-E",
+ "vid": "6Zxj2m4WI-E",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--418",
+ "n": 9,
+ "n_src": "plpos",
+ "title": "9- الحب في القرآن | محبة الإنسان للإنسان",
+ "title_src": "yt_titles",
+ "sha256": "835e7700d3dcc0b9e928e734d5c3eb36bc96c05656e1469922665ae62edfe723",
+ "nh": "afbd9f1140b5b03067c9ccbb969503a0e143ab5a9f863de34f29a0b24238e2f7",
+ "chars": 15529,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/418/009_9- الحب في القرآن ｜ محبة الإنسان للإنسان.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/418/009_9- الحب في القرآن ｜ محبة الإنسان للإنسان.txt",
+   "sha256": "835e7700d3dcc0b9e928e734d5c3eb36bc96c05656e1469922665ae62edfe723",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/al7obFiEl9or1n-009/transcript.txt",
+   "sha256": "9d5a9acef50a9765c88fccae4592c343281b5d57f12e36290f7bf4ef9037468e",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-hubb/09.txt",
+   "sha256": "9d5a9acef50a9765c88fccae4592c343281b5d57f12e36290f7bf4ef9037468e",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/418/8.txt",
+   "sha256": "835e7700d3dcc0b9e928e734d5c3eb36bc96c05656e1469922665ae62edfe723",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:77",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 77,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 49 ( باب الجمعة ) ｜ الشيخ البردوني",
+ "title_src": "filename",
+ "sha256": "127a6fb273dbf887c2900ab9a0f3115c3c25f3600ce2fba7b4a862c1f365b32a",
+ "nh": "2e3767cb1740bd89b2936ce3ec12aa0736311bb21d7050f30ec6895ae5b15f08",
+ "chars": 13966,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/077_شرح رسالة ابن ابي زيد ｜ الدرس 49 (  باب الجمعة ) ｜ الشيخ البردوني.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/077_شرح رسالة ابن ابي زيد ｜ الدرس 49 (  باب الجمعة ) ｜ الشيخ البردوني.txt",
+   "sha256": "127a6fb273dbf887c2900ab9a0f3115c3c25f3600ce2fba7b4a862c1f365b32a",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/49.txt",
+   "sha256": "127a6fb273dbf887c2900ab9a0f3115c3c25f3600ce2fba7b4a862c1f365b32a",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:DRc3znlhXKg",
+ "vid": "DRc3znlhXKg",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-juz30",
+ "n": 18,
+ "n_src": "trfile",
+ "title": "فيديو # ٦٣٣ من مقاطع حظر التجول  تدبر سورة الغاشية",
+ "title_src": "yt_titles",
+ "sha256": "4033e35680324da7d0c0931d34640afc344b43a85c4021aa6009de660570669b",
+ "nh": "5045e09563c3824811806ea28a584f4640d009476e8789ddd83f0c9e0d0411b9",
+ "chars": 20152,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelJuz30-018/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelJuz30-018/transcript.txt",
+   "sha256": "4033e35680324da7d0c0931d34640afc344b43a85c4021aa6009de660570669b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-juz30/018.txt",
+   "sha256": "4033e35680324da7d0c0931d34640afc344b43a85c4021aa6009de660570669b",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

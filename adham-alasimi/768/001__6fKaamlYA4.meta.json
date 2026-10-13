@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:_6fKaamlYA4",
+ "vid": "_6fKaamlYA4",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--768",
+ "n": 1,
+ "n_src": "read",
+ "title": "(1) مقدمة علم 1 ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "dca1615cb75dbdd38e6981789262d209600bf4ee28632da5aa8e12a905ba8968",
+ "nh": "5f645b2cfd5d68f388dec0ab35200157e31a629628d2bdde0a9276426cf3e7fd",
+ "chars": 28590,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/768/001_(1) مقدمة علم 1 ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/768/001_(1) مقدمة علم 1 ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "dca1615cb75dbdd38e6981789262d209600bf4ee28632da5aa8e12a905ba8968",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/768/0.txt",
+   "sha256": "dca1615cb75dbdd38e6981789262d209600bf4ee28632da5aa8e12a905ba8968",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

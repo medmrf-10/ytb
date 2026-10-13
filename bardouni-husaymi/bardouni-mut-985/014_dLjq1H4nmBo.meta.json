@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "yt:dLjq1H4nmBo",
+ "vid": "dLjq1H4nmBo",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--bardouni-mut-985",
+ "n": 14,
+ "n_src": "read",
+ "title": "شرح المنهج المنتخب ｜ دس 70 ( ق104 اشتراط ما لا يفيد هل يجب الوفاء به أم لا ) ｜",
+ "title_src": "filename",
+ "sha256": "e5f4f35ad7275ed87e253033b69673851a9074da86e301468ae89b542ec9ac20",
+ "nh": "a8e6cddf158b8b3b3b41b9719abcf1c5db975f9c89ca1bcd96452452351b2061",
+ "chars": 15506,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/985/014_شرح المنهج  المنتخب ｜ دس 70 ( ق104 اشتراط ما لا يفيد هل يجب الوفاء به أم لا  ) ｜.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/985/014_شرح المنهج  المنتخب ｜ دس 70 ( ق104 اشتراط ما لا يفيد هل يجب الوفاء به أم لا  ) ｜.txt",
+   "sha256": "e5f4f35ad7275ed87e253033b69673851a9074da86e301468ae89b542ec9ac20",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bardouni/mut-985/014_شرح المنهج  المنتخب ｜ دس 70 ( ق104 اشتراط ما لا يفيد هل يجب الوفاء به أم لا  ) ｜.txt",
+   "sha256": "e5f4f35ad7275ed87e253033b69673851a9074da86e301468ae89b542ec9ac20",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/37/140.txt",
+   "sha256": "e5f4f35ad7275ed87e253033b69673851a9074da86e301468ae89b542ec9ac20",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "mouloud-sariri--37"
+ ]
+}

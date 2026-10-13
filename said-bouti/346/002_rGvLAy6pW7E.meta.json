@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:rGvLAy6pW7E",
+ "vid": "rGvLAy6pW7E",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--346",
+ "n": 2,
+ "n_src": "plpos",
+ "title": "1 - رحلة الخلود | العلامة البوطي | الموت وحقيقته",
+ "title_src": "yt_titles",
+ "sha256": "430af1293fe4c33eebe5594730d3638f0c14d41b1a65aede0d4b9af85d85bbd9",
+ "nh": "1e2b58b214cae4178bd2740d2bb2b30759c0dcf2924df781b3158b7b3540c649",
+ "chars": 12388,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/346/002_1 - رحلة الخلود ｜ العلامة البوطي ｜ الموت وحقيقته.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/346/002_1 - رحلة الخلود ｜ العلامة البوطي ｜ الموت وحقيقته.txt",
+   "sha256": "430af1293fe4c33eebe5594730d3638f0c14d41b1a65aede0d4b9af85d85bbd9",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/ri7latEl5oloud-002/transcript.txt",
+   "sha256": "fb6f97847548ade730bc4e9d6757df062426942367fd21f7811edfe1029cdfdf",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-rihla/02.txt",
+   "sha256": "fb6f97847548ade730bc4e9d6757df062426942367fd21f7811edfe1029cdfdf",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/346/1.txt",
+   "sha256": "430af1293fe4c33eebe5594730d3638f0c14d41b1a65aede0d4b9af85d85bbd9",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

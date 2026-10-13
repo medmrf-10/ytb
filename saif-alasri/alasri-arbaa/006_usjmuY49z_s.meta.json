@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:usjmuY49z_s",
+ "vid": "usjmuY49z_s",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 6,
+ "n_src": "trfile",
+ "title": "تعريف العبادة بين التحقيق والمجازفة / د. سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "99bfb660a28d54ac55c6607b6dd4a0fcaeecf303fa8694e657ccbe6e79de494d",
+ "nh": "e2683e1129a8b66451e2b14df27a583af4219d6352156dc692432efbe1f6d42a",
+ "chars": 18932,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-006/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-006/transcript.txt",
+   "sha256": "99bfb660a28d54ac55c6607b6dd4a0fcaeecf303fa8694e657ccbe6e79de494d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/006_usjmuY49z_s.txt",
+   "sha256": "99bfb660a28d54ac55c6607b6dd4a0fcaeecf303fa8694e657ccbe6e79de494d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/006.txt",
+   "sha256": "99bfb660a28d54ac55c6607b6dd4a0fcaeecf303fa8694e657ccbe6e79de494d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

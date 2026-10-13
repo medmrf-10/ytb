@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:oXsHy-LyL90",
+ "vid": "oXsHy-LyL90",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+ "n": 44,
+ "n_src": "trfile",
+ "title": "الدَّرس الرابع والأربعون_ القطب الرَّابع_ الكلام عن أحكام الإمامة",
+ "title_src": "yt_titles",
+ "sha256": "93fa031f6c1b2a46355972cdb72debb39cff062a19540e8b39bee02102d2f678",
+ "nh": "5dd9444aad38b9695ba5ede7c76f05320a3f66291e988aba261bf935c2ee8709",
+ "chars": 41023,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriIqtisad-044/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriIqtisad-044/transcript.txt",
+   "sha256": "93fa031f6c1b2a46355972cdb72debb39cff062a19540e8b39bee02102d2f678",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-44_AlAmri.txt",
+   "sha256": "93fa031f6c1b2a46355972cdb72debb39cff062a19540e8b39bee02102d2f678",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-iqtisad/44.txt",
+   "sha256": "93fa031f6c1b2a46355972cdb72debb39cff062a19540e8b39bee02102d2f678",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

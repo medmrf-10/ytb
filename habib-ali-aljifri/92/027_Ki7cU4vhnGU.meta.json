@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:Ki7cU4vhnGU",
+ "vid": "Ki7cU4vhnGU",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--92",
+ "n": 27,
+ "n_src": "read",
+ "title": "21： حلقة خاصة ｜ #آمنت بالله ｜ #الحبيب علي الجفري",
+ "title_src": "filename",
+ "sha256": "c08db66f47e5391e3b24ae08f2b3672163f07d6620dac755065aa740c06d3c43",
+ "nh": "c3aef3e0f05a3c772ec95e34871289b5044ef79c62e314ec5d07b08fe5c5573e",
+ "chars": 16024,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/92/027_21： حلقة خاصة ｜ #آمنت_بالله ｜ #الحبيب_علي_الجفري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/92/027_21： حلقة خاصة ｜ #آمنت_بالله ｜ #الحبيب_علي_الجفري.txt",
+   "sha256": "c08db66f47e5391e3b24ae08f2b3672163f07d6620dac755065aa740c06d3c43",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/92/14.txt",
+   "sha256": "c08db66f47e5391e3b24ae08f2b3672163f07d6620dac755065aa740c06d3c43",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

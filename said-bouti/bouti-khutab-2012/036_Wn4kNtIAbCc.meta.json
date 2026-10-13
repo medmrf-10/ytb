@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:Wn4kNtIAbCc",
+ "vid": "Wn4kNtIAbCc",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-khutab-2012",
+ "n": 36,
+ "n_src": "trfile",
+ "title": "خطبة الإمام البوطي : الإخلاص هو الذي ننشده اليوم",
+ "title_src": "yt_titles",
+ "sha256": "1437e211b3079f6a3e13a62c979fb3ae89151281b2ba86f13e43e53051036ba8",
+ "nh": "f3eeb85f67739bdb4206708ec5c0e3420c2c2bb5ce3974aa79472fe7805be143",
+ "chars": 12925,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/5o6ab-036/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/5o6ab-036/transcript.txt",
+   "sha256": "1437e211b3079f6a3e13a62c979fb3ae89151281b2ba86f13e43e53051036ba8",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-khutab-2012/36.txt",
+   "sha256": "1437e211b3079f6a3e13a62c979fb3ae89151281b2ba86f13e43e53051036ba8",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

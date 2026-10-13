@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:1jkBXtAZsb4",
+ "vid": "1jkBXtAZsb4",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--102",
+ "n": 32,
+ "n_src": "read",
+ "title": "حلقة 30 علم الكلام والمنطق ｜ #آمنت بالله 3 ｜ #الحبيب علي الجفري",
+ "title_src": "filename",
+ "sha256": "a4fa0cb46da0bedd1b88d8c0f58a645672ff2911082a2b99dd14a353410c4602",
+ "nh": "d0ba59c378550d12d5532e3de61b6cf40935675e558a313202f66e2f8096baf5",
+ "chars": 17686,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/102/032_حلقة 30 علم الكلام والمنطق ｜ #آمنت_بالله 3 ｜ #الحبيب_علي_الجفري.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/102/032_حلقة 30 علم الكلام والمنطق ｜ #آمنت_بالله 3 ｜ #الحبيب_علي_الجفري.txt",
+   "sha256": "a4fa0cb46da0bedd1b88d8c0f58a645672ff2911082a2b99dd14a353410c4602",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/102/0.txt",
+   "sha256": "a4fa0cb46da0bedd1b88d8c0f58a645672ff2911082a2b99dd14a353410c4602",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

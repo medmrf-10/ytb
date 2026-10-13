@@ -1,0 +1,57 @@
+{
+ "v": 1,
+ "lid": "yt:UgRxWcEflOQ",
+ "vid": "UgRxWcEflOQ",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--672",
+ "n": 2,
+ "n_src": "mutfile",
+ "title": "تدبّر سورة الأنفال 01 ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "e378a8f9777f471821a55c98779673efbdb3bebded7de362f2cecfe0a9cec2d3",
+ "nh": "b7c1b7b2e8e5b8740bdb068b5dcc550a3eda535aaa127191efa382b6929148cf",
+ "chars": 34953,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/672/002_تدبّر سورة الأنفال 01 ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/672/002_تدبّر سورة الأنفال 01 ｜ أحمد السيد.txt",
+   "sha256": "e378a8f9777f471821a55c98779673efbdb3bebded7de362f2cecfe0a9cec2d3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alsayed/mut-672/002_تدبّر سورة الأنفال 01 ｜ أحمد السيد.txt",
+   "sha256": "e378a8f9777f471821a55c98779673efbdb3bebded7de362f2cecfe0a9cec2d3",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/tadabburElanfal-001/transcript.txt",
+   "sha256": "111270c7fb30fb6de9dfe1ec39d82f11964222a85f889b500031644a6ebb5b96",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-672/002.txt",
+   "sha256": "111270c7fb30fb6de9dfe1ec39d82f11964222a85f889b500031644a6ebb5b96",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-675/001.txt",
+   "sha256": "111270c7fb30fb6de9dfe1ec39d82f11964222a85f889b500031644a6ebb5b96",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "ahmed-alsayed--alsayed-mut-675"
+ ]
+}

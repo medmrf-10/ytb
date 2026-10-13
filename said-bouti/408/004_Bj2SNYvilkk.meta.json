@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:Bj2SNYvilkk",
+ "vid": "Bj2SNYvilkk",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--408",
+ "n": 4,
+ "n_src": "read",
+ "title": "4- الجديد في إعجاز القرآن الكريم ｜ هل يمكن استبدال بعض الكلمات في القرآن بمرادفا",
+ "title_src": "filename",
+ "sha256": "2ab0be0ba2034406592f8b86ae434769c51364fa8cefcc1ad6950474d91b8ca9",
+ "nh": "21f2c7fb2dff1e52cf4cae41ee045c7b04081edfa85ebf0a817f36f5f00ef567",
+ "chars": 12588,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/408/004_4- الجديد في إعجاز القرآن الكريم ｜ هل يمكن استبدال بعض الكلمات في القرآن بمرادفا.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/408/004_4- الجديد في إعجاز القرآن الكريم ｜ هل يمكن استبدال بعض الكلمات في القرآن بمرادفا.txt",
+   "sha256": "2ab0be0ba2034406592f8b86ae434769c51364fa8cefcc1ad6950474d91b8ca9",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/408/3.txt",
+   "sha256": "2ab0be0ba2034406592f8b86ae434769c51364fa8cefcc1ad6950474d91b8ca9",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

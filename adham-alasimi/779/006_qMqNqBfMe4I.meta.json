@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:qMqNqBfMe4I",
+ "vid": "qMqNqBfMe4I",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--779",
+ "n": 6,
+ "n_src": "read",
+ "title": "(6) الذكر والحذف +التقديم والتأخير ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "2f9967cc2226a77395283d0ebccc5a9296535f839d5dd351ac2a5e0ca4dbf01a",
+ "nh": "528e88b9d9d004c4a47219500bd011e9864450956b805d44dee677673f7e5313",
+ "chars": 33209,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/779/006_(6) الذكر والحذف +التقديم والتأخير ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/779/006_(6) الذكر والحذف +التقديم والتأخير ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "2f9967cc2226a77395283d0ebccc5a9296535f839d5dd351ac2a5e0ca4dbf01a",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/779/5.txt",
+   "sha256": "2f9967cc2226a77395283d0ebccc5a9296535f839d5dd351ac2a5e0ca4dbf01a",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:GUgp-SSxtS8",
+ "vid": "GUgp-SSxtS8",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-414",
+ "n": 182,
+ "n_src": "read",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 182",
+ "title_src": "filename",
+ "sha256": "6dd56a22c24fac31f6bc1de53c7ef074fa41a2b01c273075f1baa98564f2d9b3",
+ "nh": "f9173f4861998e3bc8a4f7055bab8bdeecaf09084613b00299cc712618f45199",
+ "chars": 22855,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/182_تفسير القرآن الكريم للدكتور البوطي - الدرس 182.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/182_تفسير القرآن الكريم للدكتور البوطي - الدرس 182.txt",
+   "sha256": "6dd56a22c24fac31f6bc1de53c7ef074fa41a2b01c273075f1baa98564f2d9b3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/182.txt",
+   "sha256": "f78daaf01483657a1b139de8b0cff00e130c35d9bb6cbbe4eef13666920bb95a",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

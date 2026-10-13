@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "yt:MrZY7-35aGU",
+ "vid": "MrZY7-35aGU",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--bardouni-mut-985",
+ "n": 3,
+ "n_src": "read",
+ "title": "شرح المنهج المنتخب ｜ دس81 ( ق132 الضرورات تبيح المحظورات) ｜ الشيخ البردوني",
+ "title_src": "filename",
+ "sha256": "ce178592064678ca6f220a7525858d632b8eb248e425854f7da57046d414c457",
+ "nh": "67a0f7277a78ee10175e795ffc712e2f8b7562a2a19f0f38dbf7e5f7da77d1a3",
+ "chars": 14575,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/985/003_شرح المنهج  المنتخب ｜ دس81 ( ق132 الضرورات تبيح المحظورات) ｜ الشيخ البردوني.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/985/003_شرح المنهج  المنتخب ｜ دس81 ( ق132 الضرورات تبيح المحظورات) ｜ الشيخ البردوني.txt",
+   "sha256": "ce178592064678ca6f220a7525858d632b8eb248e425854f7da57046d414c457",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bardouni/mut-985/003_شرح المنهج  المنتخب ｜ دس81 ( ق132 الضرورات تبيح المحظورات) ｜ الشيخ البردوني.txt",
+   "sha256": "ce178592064678ca6f220a7525858d632b8eb248e425854f7da57046d414c457",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/37/162.txt",
+   "sha256": "ce178592064678ca6f220a7525858d632b8eb248e425854f7da57046d414c457",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "mouloud-sariri--37"
+ ]
+}

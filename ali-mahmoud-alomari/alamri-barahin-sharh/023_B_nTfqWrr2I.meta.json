@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:B_nTfqWrr2I",
+ "vid": "B_nTfqWrr2I",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-barahin-sharh",
+ "n": 23,
+ "n_src": "trfile",
+ "title": "الدرس 23",
+ "title_src": "filename",
+ "sha256": "4b0c1755236b2fbf0b642c6ad31f91dbfde329a15a4a10fed7fd95b06455e3d0",
+ "nh": "b09f484759a00fb2872f979708fa7021d4ffc8813329e89fc7e8627d1cd9b173",
+ "chars": 19994,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriBarahinSharh-023/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriBarahinSharh-023/transcript.txt",
+   "sha256": "4b0c1755236b2fbf0b642c6ad31f91dbfde329a15a4a10fed7fd95b06455e3d0",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/barahin-sharh/barahin-sharh-23_AlAmri.txt",
+   "sha256": "4b0c1755236b2fbf0b642c6ad31f91dbfde329a15a4a10fed7fd95b06455e3d0",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-barahin-sharh/23.txt",
+   "sha256": "4b0c1755236b2fbf0b642c6ad31f91dbfde329a15a4a10fed7fd95b06455e3d0",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

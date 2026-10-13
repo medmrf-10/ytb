@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:ehaSqBDkhEY",
+ "vid": "ehaSqBDkhEY",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--379",
+ "n": 5,
+ "n_src": "plpos",
+ "title": "5- تاريخ التشريع الإسلامي | الدور الثاني: الجديد الذي حصل في التشريع والقرآن",
+ "title_src": "yt_titles",
+ "sha256": "9f595c7466cb825f0339462c4a5edd00d22be1c2c6f71341376fe82c27971716",
+ "nh": "6bacb4eab73da644866f988bc91ea8d1373dd124e9b083a94590411e4123bb55",
+ "chars": 19529,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/379/005_5- تاريخ التشريع الإسلامي ｜ الدور الثاني： الجديد الذي حصل في التشريع والقرآن.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/379/005_5- تاريخ التشريع الإسلامي ｜ الدور الثاني： الجديد الذي حصل في التشريع والقرآن.txt",
+   "sha256": "9f595c7466cb825f0339462c4a5edd00d22be1c2c6f71341376fe82c27971716",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/tari5Eltachri3-005/transcript.txt",
+   "sha256": "77f3daaf8b5d3766920776384f2ed14ae3987d3703f69d1aaa9952e55431c2a6",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-tarikh/05.txt",
+   "sha256": "77f3daaf8b5d3766920776384f2ed14ae3987d3703f69d1aaa9952e55431c2a6",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

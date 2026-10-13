@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:IotUuqBt-wM",
+ "vid": "IotUuqBt-wM",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 70,
+ "n_src": "read",
+ "title": "الحكم العطائية للعلامة البوطي ｜ الدرس 210 - الحكمة 187",
+ "title_src": "filename",
+ "sha256": "561698db5cc091b1706a0c1e30b0a4d6164af1a1d6dd9a66db9d12f804074129",
+ "nh": "5e49ce8e6d58305c97cb58eefb9325c3581dc9d2f7efc716ab6e9d855c489536",
+ "chars": 20780,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/070_الحكم العطائية للعلامة البوطي ｜ الدرس 210 - الحكمة 187.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/070_الحكم العطائية للعلامة البوطي ｜ الدرس 210 - الحكمة 187.txt",
+   "sha256": "561698db5cc091b1706a0c1e30b0a4d6164af1a1d6dd9a66db9d12f804074129",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/hikam/070_الحكم العطائية للعلامة البوطي ｜ الدرس 210 - الحكمة 187.txt",
+   "sha256": "561698db5cc091b1706a0c1e30b0a4d6164af1a1d6dd9a66db9d12f804074129",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/070_الحكم العطائية للعلامة البوطي ｜ الدرس 210 - الحكمة 187.txt",
+   "sha256": "561698db5cc091b1706a0c1e30b0a4d6164af1a1d6dd9a66db9d12f804074129",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/386/207.txt",
+   "sha256": "561698db5cc091b1706a0c1e30b0a4d6164af1a1d6dd9a66db9d12f804074129",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

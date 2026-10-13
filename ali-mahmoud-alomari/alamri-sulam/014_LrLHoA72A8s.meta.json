@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:LrLHoA72A8s",
+ "vid": "LrLHoA72A8s",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-sulam",
+ "n": 14,
+ "n_src": "trfile",
+ "title": "الدرس 14",
+ "title_src": "filename",
+ "sha256": "34e4d68c18e08e292a89c9d4a82576cbee166e8f2a1a0c89ee4792791b956e74",
+ "nh": "189da3c79effebf567b731354ed67ffff78e8655a5c9c9a161d11f063070aa26",
+ "chars": 63954,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriSulam-014/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriSulam-014/transcript.txt",
+   "sha256": "34e4d68c18e08e292a89c9d4a82576cbee166e8f2a1a0c89ee4792791b956e74",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/sulam/sulam-14_AlAmri.txt",
+   "sha256": "34e4d68c18e08e292a89c9d4a82576cbee166e8f2a1a0c89ee4792791b956e74",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-sulam/14.txt",
+   "sha256": "34e4d68c18e08e292a89c9d4a82576cbee166e8f2a1a0c89ee4792791b956e74",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

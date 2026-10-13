@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:r09FGhTr3zM",
+ "vid": "r09FGhTr3zM",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--787",
+ "n": 5,
+ "n_src": "read",
+ "title": "(5) الكلام على الفعل ⧸ دورة النحو المستوى الثاني⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "577ce4704ed2b3d1826c5dec78ce04d33fd294ad3e395266f71598993976e1d5",
+ "nh": "dc361fb7e38e2426a669e2d7fff0a75f365bf8c7451bb65db1cc8046a89bcbe7",
+ "chars": 21411,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/787/005_(5) الكلام على الفعل ⧸ دورة النحو المستوى الثاني⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/787/005_(5) الكلام على الفعل ⧸ دورة النحو المستوى الثاني⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "577ce4704ed2b3d1826c5dec78ce04d33fd294ad3e395266f71598993976e1d5",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/787/4.txt",
+   "sha256": "577ce4704ed2b3d1826c5dec78ce04d33fd294ad3e395266f71598993976e1d5",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

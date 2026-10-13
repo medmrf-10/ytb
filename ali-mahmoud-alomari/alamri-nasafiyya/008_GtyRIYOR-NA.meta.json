@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:GtyRIYOR-NA",
+ "vid": "GtyRIYOR-NA",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-nasafiyya",
+ "n": 8,
+ "n_src": "trfile",
+ "title": "الدرس 8",
+ "title_src": "filename",
+ "sha256": "fb0ea8fdabcd65a371c1647718549b814eb66ead174832e8f550b05d2f425177",
+ "nh": "bf46a1f6cda0857e94ba060766a2cced29a6e399e3677cfe310ea1a188cbfc44",
+ "chars": 30893,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriNasafiyya-008/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriNasafiyya-008/transcript.txt",
+   "sha256": "fb0ea8fdabcd65a371c1647718549b814eb66ead174832e8f550b05d2f425177",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/nasafiyya/nasafiyya-08_AlAmri.txt",
+   "sha256": "fb0ea8fdabcd65a371c1647718549b814eb66ead174832e8f550b05d2f425177",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-nasafiyya/08.txt",
+   "sha256": "fb0ea8fdabcd65a371c1647718549b814eb66ead174832e8f550b05d2f425177",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

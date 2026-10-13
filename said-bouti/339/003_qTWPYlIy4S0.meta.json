@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:qTWPYlIy4S0",
+ "vid": "qTWPYlIy4S0",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--339",
+ "n": 3,
+ "n_src": "mutfile",
+ "title": "2 - الكآبة .. أسباب وعلاج العلامة البوطي السبب الأول : جهل حقيقة الحياة",
+ "title_src": "filename",
+ "sha256": "f1a0b0d5819c624b6fa714620d122cfefed1e828065683e7c6d5ae9aaee54754",
+ "nh": "81b8ef07793d581cedf520693bc554f334f1ee6c288eff86dce81b159dd37380",
+ "chars": 13803,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/339/003_2 - الكآبة .. أسباب وعلاج  العلامة البوطي  السبب الأول : جهل حقيقة الحياة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/339/003_2 - الكآبة .. أسباب وعلاج  العلامة البوطي  السبب الأول : جهل حقيقة الحياة.txt",
+   "sha256": "f1a0b0d5819c624b6fa714620d122cfefed1e828065683e7c6d5ae9aaee54754",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/rihab/003_2 - الكآبة .. أسباب وعلاج  العلامة البوطي  السبب الأول : جهل حقيقة الحياة.txt",
+   "sha256": "f1a0b0d5819c624b6fa714620d122cfefed1e828065683e7c6d5ae9aaee54754",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-339/003.txt",
+   "sha256": "e87ac5cf1d1f7b92f41454567bd98f5ccd20669b4f7d74ec46212ed3b2f9f8bd",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

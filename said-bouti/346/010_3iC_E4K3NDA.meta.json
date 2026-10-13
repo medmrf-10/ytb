@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:3iC_E4K3NDA",
+ "vid": "3iC_E4K3NDA",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--346",
+ "n": 10,
+ "n_src": "plpos",
+ "title": "9 - رحلة الخلود | العلامة البوطي | الميزان و الصراط",
+ "title_src": "yt_titles",
+ "sha256": "ae52c06ab00a0896ced3082086d496d8d33f9029ad6ea641bc6540ce1ba2be36",
+ "nh": "52246752be88f47cbe1f651115a83fe5c2fb6862c787b25e36414630cb65ed50",
+ "chars": 14155,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/346/010_9 - رحلة الخلود ｜ العلامة البوطي ｜ الميزان و الصراط.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/346/010_9 - رحلة الخلود ｜ العلامة البوطي ｜ الميزان و الصراط.txt",
+   "sha256": "ae52c06ab00a0896ced3082086d496d8d33f9029ad6ea641bc6540ce1ba2be36",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/ri7latEl5oloud-010/transcript.txt",
+   "sha256": "7b0db84438c1b048f04f3d560ab17cb84f787b2742d21f6ec52d12c7454d966e",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-rihla/10.txt",
+   "sha256": "7b0db84438c1b048f04f3d560ab17cb84f787b2742d21f6ec52d12c7454d966e",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/346/9.txt",
+   "sha256": "ae52c06ab00a0896ced3082086d496d8d33f9029ad6ea641bc6540ce1ba2be36",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

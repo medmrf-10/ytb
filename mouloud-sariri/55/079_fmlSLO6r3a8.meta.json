@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:fmlSLO6r3a8",
+ "vid": "fmlSLO6r3a8",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 79,
+ "n_src": "read",
+ "title": "خطب منبرية： الدين النصيحة ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "1c7a893d84cadab15f866d5ac2410972887d41312c482d1d918cbadde6e54f49",
+ "nh": "3da73615d2ec2d7220903ada888cf264ad07d2bb09d49e169b6a99e6ae07acc4",
+ "chars": 10995,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/079_خطب منبرية： الدين النصيحة ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/079_خطب منبرية： الدين النصيحة ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "1c7a893d84cadab15f866d5ac2410972887d41312c482d1d918cbadde6e54f49",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/78.txt",
+   "sha256": "1c7a893d84cadab15f866d5ac2410972887d41312c482d1d918cbadde6e54f49",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

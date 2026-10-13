@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--10:18",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--10",
+ "n": 18,
+ "n_src": "read",
+ "title": "الدرس18｜شرح منظومة الأجهوري في أصول الدين-جمع كلمة التوحيد لجميع ما تقدم من المع",
+ "title_src": "filename",
+ "sha256": "9443c35f094519353ab6f35716d2438811c3357add3ed0c7be6ccb3dfd1c2bde",
+ "nh": "b8007d5686b8fb5ee192b888632ac65a87403e6acd1a7ee4760723cb2ed17135",
+ "chars": 13048,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/10/018_الدرس18｜شرح منظومة الأجهوري في أصول الدين-جمع كلمة التوحيد لجميع ما تقدم من المع.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/10/018_الدرس18｜شرح منظومة الأجهوري في أصول الدين-جمع كلمة التوحيد لجميع ما تقدم من المع.txt",
+   "sha256": "9443c35f094519353ab6f35716d2438811c3357add3ed0c7be6ccb3dfd1c2bde",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bardouni/ajhuri/17.txt",
+   "sha256": "9443c35f094519353ab6f35716d2438811c3357add3ed0c7be6ccb3dfd1c2bde",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/995/17.txt",
+   "sha256": "9443c35f094519353ab6f35716d2438811c3357add3ed0c7be6ccb3dfd1c2bde",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "k:10"
+ ]
+}

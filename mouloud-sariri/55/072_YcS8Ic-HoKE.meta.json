@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:YcS8Ic-HoKE",
+ "vid": "YcS8Ic-HoKE",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 72,
+ "n_src": "read",
+ "title": "خطب منبرية： مكانة المرأة في الإسلام ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "291de135ac91da5a84c11b6db291b9139928f7ac76fa6609a9e4dbf949178be9",
+ "nh": "8975eaca10fbd66b3bccea6523e5992d27eb8781a8c071162a1787b218cb1bc6",
+ "chars": 11311,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/072_خطب منبرية： مكانة المرأة في الإسلام ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/072_خطب منبرية： مكانة المرأة في الإسلام ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "291de135ac91da5a84c11b6db291b9139928f7ac76fa6609a9e4dbf949178be9",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/71.txt",
+   "sha256": "291de135ac91da5a84c11b6db291b9139928f7ac76fa6609a9e4dbf949178be9",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

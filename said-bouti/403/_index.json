@@ -1,0 +1,714 @@
+{
+ "coverage": 1.0,
+ "declared_total": 70,
+ "lessons": [
+  {
+   "chars": 21594,
+   "file": "001_RC0a2_0wgvw.txt",
+   "n": 1,
+   "quality": "ok",
+   "sha256": "cb814e9f50227be928d9328bf931baf3db627bbd85ccf8a502a8387d390cfdd4",
+   "title": "مقدمة 1- فقه السيرة النبوية | أهمية السيرة النبوية في فهم الإسلام",
+   "variants": 0,
+   "vid": "RC0a2_0wgvw"
+  },
+  {
+   "chars": 21796,
+   "file": "002_E8pCzVTXq9A.txt",
+   "n": 2,
+   "quality": "ok",
+   "sha256": "f2521dbfc199928d5c5ba20af68619877dbaf8ebcd0f45a5a9ef60e476c02e4a",
+   "title": "مقدمة 2- فقه السيرة النبوية | سر اختيار الجزيرة العربية مهداً لنشأة الإسلام",
+   "variants": 0,
+   "vid": "E8pCzVTXq9A"
+  },
+  {
+   "chars": 20708,
+   "file": "003_td8YF0pwm3Q.txt",
+   "n": 3,
+   "quality": "ok",
+   "sha256": "f7eb6b7247f6a00b23ae5216f16a9115c7afb6ef9f2f7be63447599c5468f11a",
+   "title": "1- فقه السيرة النبوية | نسبه وولادته ورضاعته | الرحلة إلى الشام | التجارة بمال خديجة والزواج منها",
+   "variants": 0,
+   "vid": "td8YF0pwm3Q"
+  },
+  {
+   "chars": 14515,
+   "file": "004_OyjWmPNQW9E.txt",
+   "n": 4,
+   "quality": "ok",
+   "sha256": "43562ea11a3ca02fb5e51fefe052709afb394bddabd9a05a5c3ba675d64add13",
+   "title": "2- فقه السيرة النبوية | زواجه من خديجة رضي الله عنها",
+   "variants": 0,
+   "vid": "OyjWmPNQW9E"
+  },
+  {
+   "chars": 22848,
+   "file": "005_YBR9ZSkolko.txt",
+   "n": 5,
+   "quality": "ok",
+   "sha256": "6352d711748a03eb4a94a053b76fb2bf1b441c4bb4e9941c37d944c72d0fdfb9",
+   "title": "3- فقه السيرة النبوية | اختلاؤه في الغار ، بدء الوحي",
+   "variants": 0,
+   "vid": "YBR9ZSkolko"
+  },
+  {
+   "chars": 25969,
+   "file": "006_o09TV1dnfRw.txt",
+   "n": 6,
+   "quality": "ok",
+   "sha256": "ac22078c4bb312007100f85bdf70a24a63b4ada275a054bbebb8e83f70d3ae5a",
+   "title": "4- فقه السيرة النبوية | بدء الوحي وقصته",
+   "variants": 0,
+   "vid": "o09TV1dnfRw"
+  },
+  {
+   "chars": 24872,
+   "file": "007_nvm2HHUfnJE.txt",
+   "n": 7,
+   "quality": "ok",
+   "sha256": "020640d249648256af1ac053202bad112ec7b1239b655f6ff727216b741d352b",
+   "title": "5- فقه السيرة النبوية | من البعثة إلى الهجرة: الدعوة سراً",
+   "variants": 0,
+   "vid": "nvm2HHUfnJE"
+  },
+  {
+   "chars": 21888,
+   "file": "008_WXGTNmkYBhE.txt",
+   "n": 8,
+   "quality": "ok",
+   "sha256": "80932031e72b30636aab3610d951b062a61acb66ec92e070291aaafcec4c39b8",
+   "title": "6- فقه السيرة النبوية | الجهر بالدعوة",
+   "variants": 0,
+   "vid": "WXGTNmkYBhE"
+  },
+  {
+   "chars": 23224,
+   "file": "009_336RK4yHB04.txt",
+   "n": 9,
+   "quality": "ok",
+   "sha256": "ab20b7fc11635a082fd364f56db560c38792fe6df5724ea44d2ad4e804eef914",
+   "title": "7- فقه السيرة النبوية | الإيذاء - سياسة المفاوضات (1)",
+   "variants": 0,
+   "vid": "336RK4yHB04"
+  },
+  {
+   "chars": 22663,
+   "file": "010_88aOI5U3Ixs.txt",
+   "n": 10,
+   "quality": "ok",
+   "sha256": "e69daab6acae261e2caed47eb135c4e4fda897aa25776c7a33ffc03c883e2338",
+   "title": "8- فقه السيرة النبوية | الإيذاء - سياسة المفاوضات(2)",
+   "variants": 0,
+   "vid": "88aOI5U3Ixs"
+  },
+  {
+   "chars": 23841,
+   "file": "011_q_NgqaT72S0.txt",
+   "n": 11,
+   "quality": "ok",
+   "sha256": "c4dd1bfca4ddb711dec7ce229dcfd0589494ed81a32acc6aca261323434bdbda",
+   "title": "9- فقه السيرة النبوية | سياسة المفاوضات(3) | الحصار الاقتصادي",
+   "variants": 0,
+   "vid": "q_NgqaT72S0"
+  },
+  {
+   "chars": 21453,
+   "file": "012_5Mgt-bLyizM.txt",
+   "n": 12,
+   "quality": "ok",
+   "sha256": "374158b4b293e70a6cff7ca90f2b0e1ca14db7f811ce283edd7b8d2f734ddc2d",
+   "title": "10- فقه السيرة النبوية | أول هجرة في الإسلام",
+   "variants": 0,
+   "vid": "5Mgt-bLyizM"
+  },
+  {
+   "chars": 22216,
+   "file": "013_9Kv3l4uk4ow.txt",
+   "n": 13,
+   "quality": "ok",
+   "sha256": "4c4f9e406f11b21bbcfd5da62f79c754dc7c96d51c30eeffe315bef6416f9656",
+   "title": "11- فقه السيرة النبوية | أول وفد إلى رسول الله",
+   "variants": 0,
+   "vid": "9Kv3l4uk4ow"
+  },
+  {
+   "chars": 19593,
+   "file": "014_N8iaavPJv8c.txt",
+   "n": 14,
+   "quality": "ok",
+   "sha256": "9baf333f74bac3b312ad957298973864c50df508778cf10c837a2793d56d8ec7",
+   "title": "12- فقه السيرة النبوية | عام الحزن",
+   "variants": 0,
+   "vid": "N8iaavPJv8c"
+  },
+  {
+   "chars": 22520,
+   "file": "015_-K7tiCUEPas.txt",
+   "n": 15,
+   "quality": "ok",
+   "sha256": "fc581df21ebb7d76b371821ec6c1e27f392ac07bdf6809a53a9b67a938dccc8d",
+   "title": "13- فقه السيرة النبوية | هجرة الرسول إلى الطائف",
+   "variants": 0,
+   "vid": "-K7tiCUEPas"
+  },
+  {
+   "chars": 20591,
+   "file": "016_bfm6dgUMnk8.txt",
+   "n": 16,
+   "quality": "ok",
+   "sha256": "a6627da552a4b2a1b0f1bff49e6bb73148f48219467fd33fa4cf885f01930cf4",
+   "title": "14- فقه السيرة النبوية | هجرة الرسول إلى الطائف | معجزة الإسراء والمعراج (1)",
+   "variants": 0,
+   "vid": "bfm6dgUMnk8"
+  },
+  {
+   "chars": 20951,
+   "file": "017_c7jaatrmGx0.txt",
+   "n": 17,
+   "quality": "ok",
+   "sha256": "23ce41e61a5a65dfb05b2ad7184f4759892a98e5ec5b0d37ced457206c9d751e",
+   "title": "15- فقه السيرة النبوية | معجزة الإسراء والمعراج.. العبر والدلالات (2)",
+   "variants": 0,
+   "vid": "c7jaatrmGx0"
+  },
+  {
+   "chars": 19562,
+   "file": "018_TJrZSImk8_A.txt",
+   "n": 18,
+   "quality": "ok",
+   "sha256": "d39ce67fd706445d72a5cd8a8ec3a30af84cc2daa174a77dad0ec2237faaaa0e",
+   "title": "16 - فقه السيرة النبوية | معجزة الإسراء والمعراج.. العبر والدلالات (3)",
+   "variants": 0,
+   "vid": "TJrZSImk8_A"
+  },
+  {
+   "chars": 22007,
+   "file": "019_kOPDZ4bUh5s.txt",
+   "n": 19,
+   "quality": "ok",
+   "sha256": "e28fefe1124d336ed2cff7de08a8c4daa156a7d3a832e27ffcc6b7c43bc31fd5",
+   "title": "17- فقه السيرة النبوية | عرض الرسول نفسه على القبائل وبدء إسلام الأنصار| بيعة العقبة الأولى",
+   "variants": 0,
+   "vid": "kOPDZ4bUh5s"
+  },
+  {
+   "chars": 22924,
+   "file": "020_ZtDGh_8O2hE.txt",
+   "n": 20,
+   "quality": "ok",
+   "sha256": "ffe37126954321ebc0d071a10bd0b64ba1c6b0e1990457666705b870d7ee7899",
+   "title": "18- فقه السيرة النبوية | بيعة العقبة الأولى | بيعة العقبة الثانية",
+   "variants": 0,
+   "vid": "ZtDGh_8O2hE"
+  },
+  {
+   "chars": 24607,
+   "file": "021_9z-PWjA268E.txt",
+   "n": 21,
+   "quality": "ok",
+   "sha256": "ab784dca77e5b6b6733dbda9b8b662ecf7ea96f4827ee01cf2b29a27cd6411a1",
+   "title": "19- فقه السيرة النبوية | إذن رسول الله لأصحابه بالهجرة إلى المدينة | هجرة الرسول",
+   "variants": 0,
+   "vid": "9z-PWjA268E"
+  },
+  {
+   "chars": 25285,
+   "file": "022_xfb3oZ05yws.txt",
+   "n": 22,
+   "quality": "ok",
+   "sha256": "94441ac2a0a0dc10a899764b10b143878491eb86d44a692888680c6d51bc4974",
+   "title": "20- فقه السيرة النبوية | هجرة الرسول للمدينة المنورة",
+   "variants": 0,
+   "vid": "xfb3oZ05yws"
+  },
+  {
+   "chars": 26052,
+   "file": "023_Xv63-v4Q-sY.txt",
+   "n": 23,
+   "quality": "ok",
+   "sha256": "a98692c97b7762ff3f0414d9070dc56f11a0a8b3ee74acfc93b6bdffae685bb3",
+   "title": "21- فقه السيرة النبوية | أسس المجتمع الجديد: بناء المسجد، الأخوة بين المسلمين",
+   "variants": 0,
+   "vid": "Xv63-v4Q-sY"
+  },
+  {
+   "chars": 28791,
+   "file": "024_fKyS9MuI8f8.txt",
+   "n": 24,
+   "quality": "ok",
+   "sha256": "4a23fe24caf3add5320f6cba246e38584e27b7204fd8c800b580aff91ceb9dc4",
+   "title": "22- فقه السيرة النبوية | أسس المجتمع الجديد: كتابة وثيقة بين المسلمين وغيرهم",
+   "variants": 0,
+   "vid": "fKyS9MuI8f8"
+  },
+  {
+   "chars": 28386,
+   "file": "025_G4E6T4dXUiU.txt",
+   "n": 25,
+   "quality": "ok",
+   "sha256": "d652282089b96548b35656185f3bbc382fbb4e79f84af90568b2ca9e92b5a8d6",
+   "title": "24- فقه السيرة النبوية | غزوة بدر | بنو قينقاع وأول خيانة يهودية للمسلمين",
+   "variants": 0,
+   "vid": "G4E6T4dXUiU"
+  },
+  {
+   "chars": 23111,
+   "file": "026_y1ekS4wU6EQ.txt",
+   "n": 26,
+   "quality": "ok",
+   "sha256": "ea9e16f6a1b8c717af7e2675ebca0439133bd67bbbe78e2129ed9f2632abd569",
+   "title": "23- فقه السيرة النبوية | مرحلة الحرب الدفاعية: غزوة بدر",
+   "variants": 0,
+   "vid": "y1ekS4wU6EQ"
+  },
+  {
+   "chars": 24858,
+   "file": "027_gfcufbjZNmw.txt",
+   "n": 27,
+   "quality": "ok",
+   "sha256": "4b42369d01ba0ba15112dd2b11c72e21822ec01b69a23e2821f09d5a56eb3aad",
+   "title": "25- فقه السيرة النبوية | بنو قينقاع وأول خيانة يهودية للمسلمين | غزوة أحد (1)",
+   "variants": 0,
+   "vid": "gfcufbjZNmw"
+  },
+  {
+   "chars": 24131,
+   "file": "028_Run4VTRZdnc.txt",
+   "n": 28,
+   "quality": "ok",
+   "sha256": "6d774a8489bb6434adceaa380f2fa0300a78f418da0e475f219aeb6b61ef90cf",
+   "title": "26- فقه السيرة النبوية | غزوة أحد وحمراء الأسد (2)",
+   "variants": 0,
+   "vid": "Run4VTRZdnc"
+  },
+  {
+   "chars": 22663,
+   "file": "029_GQ8HsexnUnk.txt",
+   "n": 29,
+   "quality": "ok",
+   "sha256": "b0928af3e9cb467354a4d279b86c8d559411d20a916c18bf969141154a5089bc",
+   "title": "27- فقه السيرة النبوية | غزوة أحد وحمراء الأسد (3)",
+   "variants": 0,
+   "vid": "GQ8HsexnUnk"
+  },
+  {
+   "chars": 23334,
+   "file": "030_GASt9QlYRgQ.txt",
+   "n": 30,
+   "quality": "ok",
+   "sha256": "9143fe4650657e3934a94aaf1b5159ecc433e17fc4d8d31c4303b043871bd952",
+   "title": "28- فقه السيرة النبوية | يوم الرجيع وبئر معونة",
+   "variants": 0,
+   "vid": "GASt9QlYRgQ"
+  },
+  {
+   "chars": 24237,
+   "file": "031_fBLZE5aami8.txt",
+   "n": 31,
+   "quality": "ok",
+   "sha256": "346a680739a4f3762c9f9d05fc534043a40f6701b46ab5b12f540b30956666e1",
+   "title": "29- فقه السيرة النبوية | إجلاء بني النضير (1)",
+   "variants": 0,
+   "vid": "fBLZE5aami8"
+  },
+  {
+   "chars": 22462,
+   "file": "032_9kb-p0v7yc0.txt",
+   "n": 32,
+   "quality": "ok",
+   "sha256": "1eaf4e889ba3f4bc632a872b5819fa03b56225be471303f92daa6137f2756102",
+   "title": "30- فقه السيرة النبوية | إجلاء بني النضير (2) | غزوة ذات الرقاع",
+   "variants": 0,
+   "vid": "9kb-p0v7yc0"
+  },
+  {
+   "chars": 22860,
+   "file": "033_3ucgceroWQk.txt",
+   "n": 33,
+   "quality": "ok",
+   "sha256": "c8ec1e376164df0c9a04e9e3a2858b9cc31da939d0adb2b326bed705888c94ef",
+   "title": "31- فقه السيرة النبوية | غزوة بني المصطلق(المريسيع) (1)",
+   "variants": 0,
+   "vid": "3ucgceroWQk"
+  },
+  {
+   "chars": 19185,
+   "file": "034_EauUqd1NMvs.txt",
+   "n": 34,
+   "quality": "ok",
+   "sha256": "610a7b0bb23e8cc026b3974eeecb477576163e4a7ca3272c0887f7d661739ed7",
+   "title": "32- فقه السيرة النبوية | غزوة بني المصطلق (المريسيع) (2) | الحديث عن حادثة الإفك",
+   "variants": 0,
+   "vid": "EauUqd1NMvs"
+  },
+  {
+   "chars": 20085,
+   "file": "035_1_tNQZnUBrw.txt",
+   "n": 35,
+   "quality": "ok",
+   "sha256": "1c09f75e61059d4bc16132705b103f99ebe5c984794208341bb35085201e8370",
+   "title": "33- فقه السيرة النبوية | غزوة الخندق(1)",
+   "variants": 0,
+   "vid": "1_tNQZnUBrw"
+  },
+  {
+   "chars": 16687,
+   "file": "036_xo5-x2jXnz0.txt",
+   "n": 36,
+   "quality": "ok",
+   "sha256": "0e611c7b592782ba173e67d40099d64d6aca4874c8d2c16754f25f78733deca9",
+   "title": "34- فقه السيرة النبوية | غزوة الخندق(2)",
+   "variants": 0,
+   "vid": "xo5-x2jXnz0"
+  },
+  {
+   "chars": 17080,
+   "file": "037_VD2Up4GNp2U.txt",
+   "n": 37,
+   "quality": "ok",
+   "sha256": "f304bbd8bd5615e166e6a0497c52bb40f4c4a9ceae8895c702c4bd520c81d97f",
+   "title": "35- فقه السيرة النبوية | غزوة الخندق(3)",
+   "variants": 0,
+   "vid": "VD2Up4GNp2U"
+  },
+  {
+   "chars": 18490,
+   "file": "038_Mm6y9E8GMoc.txt",
+   "n": 38,
+   "quality": "ok",
+   "sha256": "e9013f4fb97ecd2184ca3c4a76ad77d1b178d6c008e96c1be393818a4cc7a664",
+   "title": "36- فقه السيرة النبوية | غزوة بني قريظة (1)",
+   "variants": 0,
+   "vid": "Mm6y9E8GMoc"
+  },
+  {
+   "chars": 16540,
+   "file": "039_sUnSe6sb40c.txt",
+   "n": 39,
+   "quality": "ok",
+   "sha256": "e3d756b051064b11365d9e07c7173522bcb549d30a364ad90f42724a62ffb0b2",
+   "title": "37- فقه السيرة النبوية | غزوة بني قريظة(2)",
+   "variants": 0,
+   "vid": "sUnSe6sb40c"
+  },
+  {
+   "chars": 18571,
+   "file": "040_MCbCBxf547Q.txt",
+   "n": 40,
+   "quality": "ok",
+   "sha256": "4cd25c573f61de76f7cb5e56c93b0109b9b4aea1da828fe12fb24ef31f44a527",
+   "title": "38- فقه السيرة النبوية | صلح الحديبية (1)",
+   "variants": 0,
+   "vid": "MCbCBxf547Q"
+  },
+  {
+   "chars": 14677,
+   "file": "041_x7hB5-Vp0HE.txt",
+   "n": 41,
+   "quality": "ok",
+   "sha256": "095eba2ef9b0c36e1a6514056d12356d772e867323d1f326f084dbd78025859c",
+   "title": "39- فقه السيرة النبوية | صلح الحديبية (2)",
+   "variants": 1,
+   "vid": "x7hB5-Vp0HE"
+  },
+  {
+   "chars": 20577,
+   "file": "042_gYQkX6FAAI4.txt",
+   "n": 42,
+   "quality": "ok",
+   "sha256": "85861bf75872db9a5845a66fe53352d86d2e25b15ce7b423b66d959b8e525370",
+   "title": "40 - فقه السيرة النبوية | صلح الحديبية (3)",
+   "variants": 0,
+   "vid": "gYQkX6FAAI4"
+  },
+  {
+   "chars": 21208,
+   "file": "043_Dqhlk0QyRnA.txt",
+   "n": 43,
+   "quality": "ok",
+   "sha256": "f20d0ce94ef7784aa59976541f5b0550d1f3a79e00471b92e736c5635db96c68",
+   "title": "41 - فقه السيرة النبوية | غزوة خيبر (1)",
+   "variants": 0,
+   "vid": "Dqhlk0QyRnA"
+  },
+  {
+   "chars": 20115,
+   "file": "044_BfjTurKoepw.txt",
+   "n": 44,
+   "quality": "ok",
+   "sha256": "24312cb354f852cda56f28b8b194d91522fd5c5e16a087c86c8876e177577d10",
+   "title": "42 - فقه السيرة النبوية | غزوة خيبر (2) | سرايا إلى القبائل وكتب إلى الملوك (1)",
+   "variants": 0,
+   "vid": "BfjTurKoepw"
+  },
+  {
+   "chars": 22654,
+   "file": "045_gwQFgedw_2w.txt",
+   "n": 45,
+   "quality": "ok",
+   "sha256": "47845a259fe76922cd42fe0e2570b20091a633a31d2023c35dd33a73c6c972c4",
+   "title": "43- فقه السيرة النبوية | سرايا إلى القبائل وكتب إلى الملوك (2)",
+   "variants": 0,
+   "vid": "gwQFgedw_2w"
+  },
+  {
+   "chars": 21173,
+   "file": "046_tFgtqnBdVJg.txt",
+   "n": 46,
+   "quality": "ok",
+   "sha256": "4913d012f28648a1e7e1d5a52c62796f729570c2415eb3951c1fca078fc01788",
+   "title": "44- فقه السيرة النبوية | عمرة القضاء | غزوة مؤتة (1)",
+   "variants": 0,
+   "vid": "tFgtqnBdVJg"
+  },
+  {
+   "chars": 23221,
+   "file": "047_XjMnaezHNMg.txt",
+   "n": 47,
+   "quality": "ok",
+   "sha256": "0203288cff82ab26f76b16ba15a0b309d84ffe2e61ef8e87868b7799661a7340",
+   "title": "45- فقه السيرة النبوية | غزوة مؤتة (2) | فتح مكة (1)",
+   "variants": 0,
+   "vid": "XjMnaezHNMg"
+  },
+  {
+   "chars": 22120,
+   "file": "048_niQIQ1s1Vys.txt",
+   "n": 48,
+   "quality": "ok",
+   "sha256": "436726e5bbdd0ff203f1a7f922e2e2643b1b685ddb99bc338ffd04ee1c3b1f3b",
+   "title": "46 - فقه السيرة النبوية | فتح مكة (2)",
+   "variants": 0,
+   "vid": "niQIQ1s1Vys"
+  },
+  {
+   "chars": 21726,
+   "file": "049_78PE5XRI69I.txt",
+   "n": 49,
+   "quality": "ok",
+   "sha256": "3cd9f606a72c18378e0f3dd715ef1e0af4624f3819475e3bdc1c50a9001033f4",
+   "title": "47- فقه السيرة النبوية | فتح مكة (3) | حاطب بن أبي بلتعة وما يتعلق بعمله",
+   "variants": 0,
+   "vid": "78PE5XRI69I"
+  },
+  {
+   "chars": 21467,
+   "file": "050_LKiknPQlRfE.txt",
+   "n": 50,
+   "quality": "ok",
+   "sha256": "61a56710343804f8c95f36ee2fef8c7ac0af8ab4c086e61f5030a52c24de8078",
+   "title": "48 - فقه السيرة النبوية | فتح مكة (4)",
+   "variants": 0,
+   "vid": "LKiknPQlRfE"
+  },
+  {
+   "chars": 22374,
+   "file": "051_4kaViTAdxLU.txt",
+   "n": 51,
+   "quality": "ok",
+   "sha256": "ef7279f1338c944f9629c01d4afad9ff7ffc3d0441c23ef854ce49bcac579ed8",
+   "title": "49 - فقه السيرة النبوية | فتح مكة (5)",
+   "variants": 0,
+   "vid": "4kaViTAdxLU"
+  },
+  {
+   "chars": 20935,
+   "file": "052_e1nlzYD4gHw.txt",
+   "n": 52,
+   "quality": "ok",
+   "sha256": "ba28e849ceadb0e73880d88a0384b20577396357ff73a384ca67b6a19ce76bb2",
+   "title": "50 - فقه السيرة النبوية | غزوة حنين (1)",
+   "variants": 0,
+   "vid": "e1nlzYD4gHw"
+  },
+  {
+   "chars": 21033,
+   "file": "053_6FX-2GvFpU4.txt",
+   "n": 53,
+   "quality": "ok",
+   "sha256": "f4026f95dded723f29caca68b91926d6b70cefe4213aea425de2594f9e326155",
+   "title": "51 - فقه السيرة النبوية | غزوة حنين (2)",
+   "variants": 0,
+   "vid": "6FX-2GvFpU4"
+  },
+  {
+   "chars": 22468,
+   "file": "054_W0FzTNY6VT4.txt",
+   "n": 54,
+   "quality": "ok",
+   "sha256": "9a7aad6b1817f3bc0d8b7be3a28b23c7f715678a7fc813e119ddd43fa96be622",
+   "title": "52 - فقه السيرة النبوية | غزوة حنين (3) | غزوة تبوك (1)",
+   "variants": 0,
+   "vid": "W0FzTNY6VT4"
+  },
+  {
+   "chars": 21618,
+   "file": "055_pnI1J2qbABk.txt",
+   "n": 55,
+   "quality": "ok",
+   "sha256": "427d90d22bdf31f8d88024d945395704c52de827fb33555ee4cad179d2aeece3",
+   "title": "53 - فقه السيرة النبوية | غزوة تبوك (2)",
+   "variants": 0,
+   "vid": "pnI1J2qbABk"
+  },
+  {
+   "chars": 17116,
+   "file": "056_JkbbLlwWzbw.txt",
+   "n": 56,
+   "quality": "ok",
+   "sha256": "98f8a8365f4c2695c773672f06150f73161a702ae90b65a758213fcc22701534",
+   "title": "54 - فقه السيرة النبوية | غزوة تبوك (3) | حج أبي بكر (1)",
+   "variants": 0,
+   "vid": "JkbbLlwWzbw"
+  },
+  {
+   "chars": 22548,
+   "file": "057_e-VpMA53P34.txt",
+   "n": 57,
+   "quality": "ok",
+   "sha256": "9e09248da770eced4e13e1c2d9a153de6a8b47807bb29e58270fee8374cbbdac",
+   "title": "55 - فقه السيرة النبوية | حج أبي بكر (2)",
+   "variants": 0,
+   "vid": "e-VpMA53P34"
+  },
+  {
+   "chars": 19237,
+   "file": "058_PX0gG9fNnVg.txt",
+   "n": 58,
+   "quality": "ok",
+   "sha256": "4e6f92d838e7441b044864dab3cf7d50fcec3d051cd040381d9d144fd2c0cf2d",
+   "title": "56- فقه السيرة النبوية | مسجد الضرار | وفد ثقيف ودخولهم في الإسلام (1)",
+   "variants": 0,
+   "vid": "PX0gG9fNnVg"
+  },
+  {
+   "chars": 21312,
+   "file": "059_-U_of9V-HDg.txt",
+   "n": 59,
+   "quality": "ok",
+   "sha256": "cb7e6b3e8eece5e7847c8f74c58a3f9037e6f4f4e80b0aa7db96f4964250ccef",
+   "title": "57- فقه السيرة النبوية |  تتابع وفود العرب ودخولهم في دين الله",
+   "variants": 0,
+   "vid": "-U_of9V-HDg"
+  },
+  {
+   "chars": 21653,
+   "file": "060_imqA8n0pou0.txt",
+   "n": 60,
+   "quality": "ok",
+   "sha256": "59b2524877bcffb74e9805cd9856dba9c4ece5105c3b3af9ef6eb32f9c6f4658",
+   "title": "58- فقه السيرة النبوية | خبر إسلام عَدِيّ بن حاتم | بعوث رسول الله إلى الناس لتعليمهم",
+   "variants": 0,
+   "vid": "imqA8n0pou0"
+  },
+  {
+   "chars": 21653,
+   "file": "061_y8ub9LWUWg0.txt",
+   "n": 61,
+   "quality": "ok",
+   "sha256": "462a72b286ce81fcb457c8afd48bfcee7f55bc2fb67d95bb7c68a51cff9bd5e4",
+   "title": "59- فقه السيرة النبوية | حجة الوداع وخطبتها",
+   "variants": 0,
+   "vid": "y8ub9LWUWg0"
+  },
+  {
+   "chars": 22262,
+   "file": "062_afppam793CY.txt",
+   "n": 62,
+   "quality": "ok",
+   "sha256": "12765eff5668ece58b0df31fc32e1299dadc80dd7ebd378f3dcd7a2080cec061",
+   "title": "60 - فقه السيرة النبوية | حجة الوداع وخطبتها (2)",
+   "variants": 0,
+   "vid": "afppam793CY"
+  },
+  {
+   "chars": 23474,
+   "file": "063_gzeJnDVK1Rg.txt",
+   "n": 63,
+   "quality": "ok",
+   "sha256": "33e57840ce0785cb80d4994946a9da0e67902dfc542cb3a45323296aa727dd29",
+   "title": "61 - فقه السيرة النبوية | حجة الوداع وخطبتها (3)",
+   "variants": 0,
+   "vid": "gzeJnDVK1Rg"
+  },
+  {
+   "chars": 23691,
+   "file": "064_BCuiHmHiyZ4.txt",
+   "n": 64,
+   "quality": "ok",
+   "sha256": "4ab60b26f4c12badc8d99c17ea208be6cec82d8ad1580aa0156a047aaccab605",
+   "title": "62- فقه السيرة النبوية | شكوى رسول الله ولحاقه بالرفيق الأعلى (1)",
+   "variants": 0,
+   "vid": "BCuiHmHiyZ4"
+  },
+  {
+   "chars": 24147,
+   "file": "065_VWYNWnCweCo.txt",
+   "n": 65,
+   "quality": "ok",
+   "sha256": "27f5c2e71e469364d2572c6dab5192f2779de054d55e8322c3a6186496b1159e",
+   "title": "63 - فقه السيرة النبوية | شكوى رسول الله ولحاقه بالرفيق الأعلى (2)",
+   "variants": 0,
+   "vid": "VWYNWnCweCo"
+  },
+  {
+   "chars": 25771,
+   "file": "066_Sj_TG1GzYVg.txt",
+   "n": 66,
+   "quality": "ok",
+   "sha256": "f806eab005de814edc771ce0a1e2bf4b80b26c06690155dce501b468b2fa597d",
+   "title": "64 - فقه السيرة النبوية | خاتمة في بعض صفاته ﷺ وفضل زيارة مسجده وقبره",
+   "variants": 0,
+   "vid": "Sj_TG1GzYVg"
+  },
+  {
+   "chars": 23728,
+   "file": "067_5xpj5Zc2dKE.txt",
+   "n": 67,
+   "quality": "ok",
+   "sha256": "30d1e767b78aa558cf6ada99e78a2a49a27f1de0d07eede3df83d7628550e1d5",
+   "title": "65- فقه السيرة النبوية | خلافة سيدنا أبي بكر الصديق",
+   "variants": 0,
+   "vid": "5xpj5Zc2dKE"
+  },
+  {
+   "chars": 25062,
+   "file": "068_26_rN3YjUug.txt",
+   "n": 68,
+   "quality": "ok",
+   "sha256": "1801da103eb2a7429d334cbe9d3972afeb31a14c42f6045549496f5bff679f13",
+   "title": "66- فقه السيرة النبوية | خلافة سيدنا عمر بن الخطاب",
+   "variants": 0,
+   "vid": "26_rN3YjUug"
+  },
+  {
+   "chars": 24444,
+   "file": "069_4Tw56D1Z2sA.txt",
+   "n": 69,
+   "quality": "ok",
+   "sha256": "d762c776cbf6003a24229cd8669954db8c115f2b2ac03617a44db717b7a465de",
+   "title": "67 - فقه السيرة النبوية | خلافة سيدنا عثمان بن عفان",
+   "variants": 0,
+   "vid": "4Tw56D1Z2sA"
+  },
+  {
+   "chars": 25596,
+   "file": "070_Ou-gQ4pF218.txt",
+   "n": 70,
+   "quality": "ok",
+   "sha256": "3ea8da1e77ab520dbe11d28962f164837db83b94708db1dd0230ab8f9eced187",
+   "title": "68 - الأخير - فقه السيرة النبوية | خلافة سيدنا علي بن أبي طالب",
+   "variants": 0,
+   "vid": "Ou-gQ4pF218"
+  }
+ ],
+ "playlists": [
+  "PL01kYZIehH-qxUD5MiDAZUzOTsNKYE9zN"
+ ],
+ "row_id": "said-bouti--403",
+ "sheikh": "said-bouti",
+ "title": "فقه السيرة النبوية",
+ "transcribed": 70,
+ "v": 1
+}

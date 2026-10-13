@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:M7Ditt5KNok",
+ "vid": "M7Ditt5KNok",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-khutab-2012",
+ "n": 46,
+ "n_src": "trfile",
+ "title": "خطبة الإمام البوطي | ولينصرن الله من ينصره",
+ "title_src": "yt_titles",
+ "sha256": "ae6ecda76ea82829d22b6c5143cdc9217c5ff94e701dfb002642c66af13e9ec8",
+ "nh": "6901e12f6ae4c835937dd6bf4a899b15881809b3afb0a8539e23d40e6e40d0f8",
+ "chars": 12577,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/5o6ab-046/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/5o6ab-046/transcript.txt",
+   "sha256": "ae6ecda76ea82829d22b6c5143cdc9217c5ff94e701dfb002642c66af13e9ec8",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-khutab-2012/46.txt",
+   "sha256": "ae6ecda76ea82829d22b6c5143cdc9217c5ff94e701dfb002642c66af13e9ec8",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

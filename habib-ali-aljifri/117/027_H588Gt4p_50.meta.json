@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:H588Gt4p_50",
+ "vid": "H588Gt4p_50",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--117",
+ "n": 27,
+ "n_src": "read",
+ "title": "حلقة 26 - كن صادقا - سلسلة الإنسانية قبل التدين",
+ "title_src": "filename",
+ "sha256": "1dbb83379b1618e178c9ef7c4f20377b9d3795ca1fbcbd5bdc638f2ad24374a5",
+ "nh": "cdbc842868ab213015bd2d93894253fc251ddb3bd10fdb5fd080581c5e197f1f",
+ "chars": 1207,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/117/027_حلقة 26 - كن صادقا - سلسلة الإنسانية قبل التدين.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/117/027_حلقة 26 - كن صادقا - سلسلة الإنسانية قبل التدين.txt",
+   "sha256": "1dbb83379b1618e178c9ef7c4f20377b9d3795ca1fbcbd5bdc638f2ad24374a5",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/insaniyya/39.txt",
+   "sha256": "1dbb83379b1618e178c9ef7c4f20377b9d3795ca1fbcbd5bdc638f2ad24374a5",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/112/39.txt",
+   "sha256": "1dbb83379b1618e178c9ef7c4f20377b9d3795ca1fbcbd5bdc638f2ad24374a5",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-ali-aljifri--112",
+  "k:117"
+ ]
+}

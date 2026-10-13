@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:INUKXHhCOnw",
+ "vid": "INUKXHhCOnw",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--661",
+ "n": 9,
+ "n_src": "mutfile",
+ "title": "خير القرون 08 ｜ انفتاح الأموال زمن عمر بن الخطاب رضي الله عنه ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "e15e4dc20d9c82a95894020ea8a74d02830c8c293b74144b2333fc5719b21e15",
+ "nh": "7e80b986f6c1fbe75b4e3c1f78fd02e5c0f626efb4e989836c8233aa4de9de15",
+ "chars": 44827,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/661/009_خير القرون 08 ｜ انفتاح الأموال زمن عمر بن الخطاب رضي الله عنه ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/661/009_خير القرون 08 ｜ انفتاح الأموال زمن عمر بن الخطاب رضي الله عنه ｜ أحمد السيد.txt",
+   "sha256": "e15e4dc20d9c82a95894020ea8a74d02830c8c293b74144b2333fc5719b21e15",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-661/009.txt",
+   "sha256": "432e02671f3d5b9791bb61688906edcd04ab71be592a1acb13e9606e776641f2",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

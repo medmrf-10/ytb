@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:7liFAtwz0iI",
+ "vid": "7liFAtwz0iI",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--379",
+ "n": 37,
+ "n_src": "plpos",
+ "title": "37- تاريخ التشريع الإسلامي | إيجابيات الدور السادس (1)",
+ "title_src": "yt_titles",
+ "sha256": "e55ac8c19c4c325139bc484deca70d5a03791393c1024e0dae6e9e5f31ac9699",
+ "nh": "3bcd042cc751dafb08e533999db83488cbc482e1a8de3e4373e737829ed1b823",
+ "chars": 18662,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/379/037_37- تاريخ التشريع الإسلامي ｜ إيجابيات الدور السادس (1).txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/379/037_37- تاريخ التشريع الإسلامي ｜ إيجابيات الدور السادس (1).txt",
+   "sha256": "e55ac8c19c4c325139bc484deca70d5a03791393c1024e0dae6e9e5f31ac9699",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/tari5Eltachri3-037/transcript.txt",
+   "sha256": "3e3cfc728988badb301de65aa9d4477ba4b0e705058e0b4d491bae7f981664ba",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-tarikh/37.txt",
+   "sha256": "3e3cfc728988badb301de65aa9d4477ba4b0e705058e0b4d491bae7f981664ba",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/379/0.txt",
+   "sha256": "e55ac8c19c4c325139bc484deca70d5a03791393c1024e0dae6e9e5f31ac9699",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

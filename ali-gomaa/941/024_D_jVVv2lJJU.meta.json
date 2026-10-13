@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:D_jVVv2lJJU",
+ "vid": "D_jVVv2lJJU",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--941",
+ "n": 24,
+ "n_src": "read",
+ "title": "شرح الأربعين النووية ｜ حلقة 24 ｜ حديث 29 ｜ أ.د علي جمعة ｜",
+ "title_src": "filename",
+ "sha256": "72f458a4e823c75d7661c104cb64a1071193c2b8f9036438bfbd40bf7491facb",
+ "nh": "b9b1055a318611b70459ecdfad6552e7d0eebd69db59359f805e1d89acca87a1",
+ "chars": 4342,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/941/024_شرح الأربعين النووية ｜ حلقة 24 ｜ حديث 29 ｜ أ.د علي جمعة ｜ English Subtitle.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/941/024_شرح الأربعين النووية ｜ حلقة 24 ｜ حديث 29 ｜ أ.د علي جمعة ｜ English Subtitle.txt",
+   "sha256": "72f458a4e823c75d7661c104cb64a1071193c2b8f9036438bfbd40bf7491facb",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/ali-gomaa--941/024.txt",
+   "sha256": "72f458a4e823c75d7661c104cb64a1071193c2b8f9036438bfbd40bf7491facb",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

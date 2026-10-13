@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:j-IV5wc63Zw",
+ "vid": "j-IV5wc63Zw",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 42,
+ "n_src": "plpos",
+ "title": "المتشددون | حـ 42 | ختام البرنامج وملخص لأهم ما ورد فيه | أ.د علي جمعة",
+ "title_src": "yt_titles",
+ "sha256": "bec516071ca2e9dfdac97106e1f77b94c826275561ee61f6dbe305e265b858ca",
+ "nh": "9ed5a20b29c16fc0dddd32d44294c811b9189b586acf84cce85b60b6f319f180",
+ "chars": 19215,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/gomaa/mut-822/042_المتشددون ｜ حـ 42 ｜ ختام البرنامج وملخص لأهم ما ورد فيه ｜ أ.د علي جمعة.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/042_المتشددون ｜ حـ 42 ｜ ختام البرنامج وملخص لأهم ما ورد فيه ｜ أ.د علي جمعة.txt",
+   "sha256": "bec516071ca2e9dfdac97106e1f77b94c826275561ee61f6dbe305e265b858ca",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/042.txt",
+   "sha256": "69badbb79a96e13c0e45b9eb6c8a7eb595bab20072a749dcf043928da2ced8a3",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

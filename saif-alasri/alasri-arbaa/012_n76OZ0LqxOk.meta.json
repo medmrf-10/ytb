@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:n76OZ0LqxOk",
+ "vid": "n76OZ0LqxOk",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 12,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء/ مفهوم الإيمان بين أهل السنة والمخالفين/ د. سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "39154432e5e11917cfd7aad1b5d5eec93d0a0833e9f371aef9e2a61e6824c2e3",
+ "nh": "e583e95a48dacd05fbd3ee2cb141863f1abbfeb31a84a9c4da8e8998ff193b37",
+ "chars": 16479,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-012/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-012/transcript.txt",
+   "sha256": "39154432e5e11917cfd7aad1b5d5eec93d0a0833e9f371aef9e2a61e6824c2e3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/012_n76OZ0LqxOk.txt",
+   "sha256": "39154432e5e11917cfd7aad1b5d5eec93d0a0833e9f371aef9e2a61e6824c2e3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/012.txt",
+   "sha256": "39154432e5e11917cfd7aad1b5d5eec93d0a0833e9f371aef9e2a61e6824c2e3",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

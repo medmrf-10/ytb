@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:6IvAtp4ryjk",
+ "vid": "6IvAtp4ryjk",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--781",
+ "n": 4,
+ "n_src": "read",
+ "title": "(04) قبل المبعث ⧸ الجزيرة العربية ⧸ السيرة النبوية ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "d1932fb0c566fc5cc987389ab082bb1f5d1e67574ddb0d0971899ef65f7bd0b4",
+ "nh": "2c42674669fca0f1ac7339f32fdc18db944a86eafa9365382e5872ce61b15cd3",
+ "chars": 17466,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/781/004_(04) قبل المبعث ⧸ الجزيرة العربية ⧸ السيرة النبوية ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/781/004_(04) قبل المبعث ⧸ الجزيرة العربية ⧸ السيرة النبوية ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "d1932fb0c566fc5cc987389ab082bb1f5d1e67574ddb0d0971899ef65f7bd0b4",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/hafiz/irshad-suluk/3.txt",
+   "sha256": "d1932fb0c566fc5cc987389ab082bb1f5d1e67574ddb0d0971899ef65f7bd0b4",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/173/3.txt",
+   "sha256": "d1932fb0c566fc5cc987389ab082bb1f5d1e67574ddb0d0971899ef65f7bd0b4",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-omar-ibn-hafiz--173",
+  "habib-omar-ibn-hafiz--hafiz-irshad-suluk"
+ ]
+}

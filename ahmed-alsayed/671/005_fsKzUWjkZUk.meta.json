@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:fsKzUWjkZUk",
+ "vid": "fsKzUWjkZUk",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--671",
+ "n": 5,
+ "n_src": "mutfile",
+ "title": "البناء التزكوي للجيل الصاعد ٠٥ ｜ خطوات التزكية： الذكر ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "e5d4933d291cdbb5b7ae55e3f6cb8ab0b1a0019a6d93452c9f9faefe8fe0503e",
+ "nh": "7b1efcdd961aac71b028edbb47728194b468473d5753c01f97a0e9622857e479",
+ "chars": 6150,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/671/005_البناء التزكوي للجيل الصاعد ٠٥ ｜ خطوات التزكية： الذكر ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/671/005_البناء التزكوي للجيل الصاعد ٠٥ ｜ خطوات التزكية： الذكر ｜ أحمد السيد.txt",
+   "sha256": "e5d4933d291cdbb5b7ae55e3f6cb8ab0b1a0019a6d93452c9f9faefe8fe0503e",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/albina2Eltazkawi-005/transcript.txt",
+   "sha256": "f554ed7f085565e6c1c1a8edd3e6a1d9d162c00bfceb0c7e9803555d682f4f90",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-671/005.txt",
+   "sha256": "f554ed7f085565e6c1c1a8edd3e6a1d9d162c00bfceb0c7e9803555d682f4f90",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

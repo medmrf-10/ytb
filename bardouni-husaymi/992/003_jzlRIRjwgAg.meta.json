@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:jzlRIRjwgAg",
+ "vid": "jzlRIRjwgAg",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--992",
+ "n": 3,
+ "n_src": "read",
+ "title": "شرح الرسالة العضدية ｜ الدرس 3 (المقدمة-تتمة-) ｜ الشيخ محمد البردوني",
+ "title_src": "filename",
+ "sha256": "69452a62b359e724e8fd0616f69ba30aa13743d24f0b0a4db24ea9263a66abc2",
+ "nh": "58018ed6ebfdc63116f4e507b8053b215b5aeecd17a5d41e9ec36d89c7dee925",
+ "chars": 10853,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/992/003_شرح الرسالة العضدية ｜ الدرس 3 (المقدمة-تتمة-) ｜ الشيخ محمد البردوني.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/992/003_شرح الرسالة العضدية ｜ الدرس 3 (المقدمة-تتمة-) ｜ الشيخ محمد البردوني.txt",
+   "sha256": "69452a62b359e724e8fd0616f69ba30aa13743d24f0b0a4db24ea9263a66abc2",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/sariri/risala-adudiyya/4.txt",
+   "sha256": "69452a62b359e724e8fd0616f69ba30aa13743d24f0b0a4db24ea9263a66abc2",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/36/4.txt",
+   "sha256": "69452a62b359e724e8fd0616f69ba30aa13743d24f0b0a4db24ea9263a66abc2",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "mouloud-sariri--36",
+  "mouloud-sariri--sariri-risala-adudiyya"
+ ]
+}

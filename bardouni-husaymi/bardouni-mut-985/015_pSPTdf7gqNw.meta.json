@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "yt:pSPTdf7gqNw",
+ "vid": "pSPTdf7gqNw",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--bardouni-mut-985",
+ "n": 15,
+ "n_src": "read",
+ "title": "شرح المنهج المنتخب ｜ دس 69 ( ق102 اشتراط ما يوجب الحكم خلافه هل يعتبر أم لا ) ｜",
+ "title_src": "filename",
+ "sha256": "374d51fa13f5bb2724b99bfc80be7ca18b491827b0e25ebe410167207bc0a9ce",
+ "nh": "8022f7c1d6b0b4016ee5f1430d583abb1ea67ebcf8af567683db3a117bf503ed",
+ "chars": 21672,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/985/015_شرح المنهج  المنتخب ｜ دس 69 ( ق102 اشتراط ما يوجب الحكم خلافه هل يعتبر أم لا ) ｜.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/985/015_شرح المنهج  المنتخب ｜ دس 69 ( ق102 اشتراط ما يوجب الحكم خلافه هل يعتبر أم لا ) ｜.txt",
+   "sha256": "374d51fa13f5bb2724b99bfc80be7ca18b491827b0e25ebe410167207bc0a9ce",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bardouni/mut-985/015_شرح المنهج  المنتخب ｜ دس 69 ( ق102 اشتراط ما يوجب الحكم خلافه هل يعتبر أم لا ) ｜.txt",
+   "sha256": "374d51fa13f5bb2724b99bfc80be7ca18b491827b0e25ebe410167207bc0a9ce",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/37/138.txt",
+   "sha256": "374d51fa13f5bb2724b99bfc80be7ca18b491827b0e25ebe410167207bc0a9ce",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "mouloud-sariri--37"
+ ]
+}

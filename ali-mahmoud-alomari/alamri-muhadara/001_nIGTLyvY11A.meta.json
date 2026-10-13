@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:nIGTLyvY11A",
+ "vid": "nIGTLyvY11A",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-muhadara",
+ "n": 1,
+ "n_src": "trfile",
+ "title": "الدرس 1",
+ "title_src": "filename",
+ "sha256": "6d203d38c1130ac434c7b4416314f79a408c5167cd9d3cfc6af7a6b1514571f2",
+ "nh": "33ada18c17529476ec362ef21d0e904e03d7a391a1a6b728a44b84c51a017131",
+ "chars": 19962,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriMuhadara-001/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriMuhadara-001/transcript.txt",
+   "sha256": "6d203d38c1130ac434c7b4416314f79a408c5167cd9d3cfc6af7a6b1514571f2",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/muhadara/muhadara-01_AlAmri.txt",
+   "sha256": "6d203d38c1130ac434c7b4416314f79a408c5167cd9d3cfc6af7a6b1514571f2",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-muhadara/01.txt",
+   "sha256": "6d203d38c1130ac434c7b4416314f79a408c5167cd9d3cfc6af7a6b1514571f2",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

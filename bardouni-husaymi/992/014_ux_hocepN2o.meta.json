@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:ux_hocepN2o",
+ "vid": "ux_hocepN2o",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--992",
+ "n": 14,
+ "n_src": "read",
+ "title": "شرح الرسالة العضدية ｜ الدرس 14 (قوله ＂ اللفظ مدلوله إما كلي أو جزئي＂ ) ｜ الشيخ م",
+ "title_src": "filename",
+ "sha256": "5b9f1313c412a57adb433edfea46380114ce1eaddeca6c9a672929a97674ec64",
+ "nh": "a7c562cc42db39ef72cd3ea5555cc7da5b88612fd2e882bbdc3c8aeadf43c982",
+ "chars": 7878,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/992/014_شرح الرسالة العضدية ｜ الدرس 14 (قوله ＂ اللفظ مدلوله إما كلي أو جزئي＂ ) ｜ الشيخ م.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/992/014_شرح الرسالة العضدية ｜ الدرس 14 (قوله ＂ اللفظ مدلوله إما كلي أو جزئي＂ ) ｜ الشيخ م.txt",
+   "sha256": "5b9f1313c412a57adb433edfea46380114ce1eaddeca6c9a672929a97674ec64",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/sariri/risala-adudiyya/26.txt",
+   "sha256": "5b9f1313c412a57adb433edfea46380114ce1eaddeca6c9a672929a97674ec64",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/36/26.txt",
+   "sha256": "5b9f1313c412a57adb433edfea46380114ce1eaddeca6c9a672929a97674ec64",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "mouloud-sariri--36",
+  "mouloud-sariri--sariri-risala-adudiyya"
+ ]
+}

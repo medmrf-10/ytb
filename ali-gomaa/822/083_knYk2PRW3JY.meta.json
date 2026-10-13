@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:knYk2PRW3JY",
+ "vid": "knYk2PRW3JY",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 83,
+ "n_src": "plpos",
+ "title": "والله أعلم | حقيقة السلفية .. وأسباب ظهور جماعات متشددة منها | حلقة كاملة",
+ "title_src": "yt_titles",
+ "sha256": "878a255034f761aaf12d2f5ff37c7adaa6f9f4045ae12c1bfd5c8dd729bdf903",
+ "nh": "157d07abf9f8bfebcf604878c38613c007e432700b09391778f21107a6988753",
+ "chars": 29875,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/083_والله أعلم ｜ حقيقة السلفية .. وأسباب ظهور جماعات متشددة منها ｜ حلقة كاملة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/083_والله أعلم ｜ حقيقة السلفية .. وأسباب ظهور جماعات متشددة منها ｜ حلقة كاملة.txt",
+   "sha256": "878a255034f761aaf12d2f5ff37c7adaa6f9f4045ae12c1bfd5c8dd729bdf903",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/083_والله أعلم ｜ حقيقة السلفية .. وأسباب ظهور جماعات متشددة منها ｜ حلقة كاملة.txt",
+   "sha256": "878a255034f761aaf12d2f5ff37c7adaa6f9f4045ae12c1bfd5c8dd729bdf903",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/083.txt",
+   "sha256": "808f03e5abdbb28b03c59a9a43abaa2fe5a9696cae9d35ca158ae560c683a3dd",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

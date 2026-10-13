@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:e70rby6DcHM",
+ "vid": "e70rby6DcHM",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--992",
+ "n": 9,
+ "n_src": "read",
+ "title": "شرح الرسالة العضدية ｜ الدرس 9 (المقدمة-تتمة-) ｜ الشيخ محمد البردوني",
+ "title_src": "filename",
+ "sha256": "17bac6fcd0ba3e37324b2bdcce7123780aad284e2e61a9a833fccfbc25ff5c4f",
+ "nh": "97f229d4636189bee1aa850ebf887f9a7b722052b52584516f826ed2ac4e81ab",
+ "chars": 12254,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/992/009_شرح الرسالة العضدية ｜ الدرس 9 (المقدمة-تتمة-) ｜ الشيخ محمد البردوني.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/992/009_شرح الرسالة العضدية ｜ الدرس 9 (المقدمة-تتمة-) ｜ الشيخ محمد البردوني.txt",
+   "sha256": "17bac6fcd0ba3e37324b2bdcce7123780aad284e2e61a9a833fccfbc25ff5c4f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/sariri/risala-adudiyya/16.txt",
+   "sha256": "17bac6fcd0ba3e37324b2bdcce7123780aad284e2e61a9a833fccfbc25ff5c4f",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/36/16.txt",
+   "sha256": "17bac6fcd0ba3e37324b2bdcce7123780aad284e2e61a9a833fccfbc25ff5c4f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "mouloud-sariri--36",
+  "mouloud-sariri--sariri-risala-adudiyya"
+ ]
+}

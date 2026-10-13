@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:c22FV_UzEtw",
+ "vid": "c22FV_UzEtw",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 56,
+ "n_src": "read",
+ "title": "خطب منبرية： تأثير الوهم على سلوك الفرد والمجتمع ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "13b2857d2eb5457d1df4f6408f2ca398f7036af61ce1066fe2ed993a878c5a09",
+ "nh": "f58307b97efb4bfd774ea4e3358a2de8ccd1f3732c4e7a5ccac2fb15b3c2da17",
+ "chars": 9548,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/056_خطب منبرية： تأثير الوهم على سلوك الفرد والمجتمع  ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/056_خطب منبرية： تأثير الوهم على سلوك الفرد والمجتمع  ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "13b2857d2eb5457d1df4f6408f2ca398f7036af61ce1066fe2ed993a878c5a09",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/55.txt",
+   "sha256": "13b2857d2eb5457d1df4f6408f2ca398f7036af61ce1066fe2ed993a878c5a09",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

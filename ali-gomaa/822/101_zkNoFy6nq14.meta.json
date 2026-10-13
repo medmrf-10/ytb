@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:zkNoFy6nq14",
+ "vid": "zkNoFy6nq14",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 101,
+ "n_src": "plpos",
+ "title": "#والله_أعلم | فضيلة د. علي جمعة يرد على شبهات المشككين في عدالة الصحابة | الجزء الثالث",
+ "title_src": "yt_titles",
+ "sha256": "58844ad9a36bb131e439d498557642640cfb5a3fe2982a03ae1a83989e1e09f6",
+ "nh": "e347b1522b43b63333b1e1307184ff4dcecf5fc190d801dd57d24dfbd1398f18",
+ "chars": 8658,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/101_#والله_أعلم ｜ فضيلة د. علي جمعة يرد على شبهات المشككين في عدالة الصحابة ｜ الجزء .txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/101_#والله_أعلم ｜ فضيلة د. علي جمعة يرد على شبهات المشككين في عدالة الصحابة ｜ الجزء .txt",
+   "sha256": "58844ad9a36bb131e439d498557642640cfb5a3fe2982a03ae1a83989e1e09f6",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/101_#والله_أعلم ｜ فضيلة د. علي جمعة يرد على شبهات المشككين في عدالة الصحابة ｜ الجزء .txt",
+   "sha256": "58844ad9a36bb131e439d498557642640cfb5a3fe2982a03ae1a83989e1e09f6",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/101.txt",
+   "sha256": "c7c31f625c213b776a6552617922b7127d284d59fb4ac493c13d3551c955c618",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

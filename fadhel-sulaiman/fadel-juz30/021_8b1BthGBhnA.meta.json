@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:8b1BthGBhnA",
+ "vid": "8b1BthGBhnA",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-juz30",
+ "n": 21,
+ "n_src": "trfile",
+ "title": "فيديو # ٦٣٦ من مقاطع حظر التجول   تدبر سورة البلد",
+ "title_src": "yt_titles",
+ "sha256": "8a3d32008eedaa9de6229c3569248aaa3731685ba9c6581764248359b594f030",
+ "nh": "c77ce127a4c62bf17ceeb7b7b38a8320c749e2dbcaa4c2588e69c1905fd23830",
+ "chars": 21454,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelJuz30-021/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelJuz30-021/transcript.txt",
+   "sha256": "8a3d32008eedaa9de6229c3569248aaa3731685ba9c6581764248359b594f030",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-juz30/021.txt",
+   "sha256": "8a3d32008eedaa9de6229c3569248aaa3731685ba9c6581764248359b594f030",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

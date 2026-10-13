@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:MHennA-yD7g",
+ "vid": "MHennA-yD7g",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--768",
+ "n": 16,
+ "n_src": "read",
+ "title": "(16) صفة العلم ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "a33530b80ea6856591ab0c81d98393b3528938701f87ca567196c85f69250153",
+ "nh": "487c2ba9644d47ba572f6ef238811773219c9c37a5a9c845f21da2edbb7d915b",
+ "chars": 26680,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/768/016_(16) صفة العلم ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/768/016_(16) صفة العلم ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "a33530b80ea6856591ab0c81d98393b3528938701f87ca567196c85f69250153",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/768/15.txt",
+   "sha256": "a33530b80ea6856591ab0c81d98393b3528938701f87ca567196c85f69250153",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

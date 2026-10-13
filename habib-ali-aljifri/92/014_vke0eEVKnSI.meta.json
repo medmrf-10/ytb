@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:vke0eEVKnSI",
+ "vid": "vke0eEVKnSI",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--92",
+ "n": 14,
+ "n_src": "read",
+ "title": "حلقة 8： الحرية ｜ آمنت بالله ｜ الحبيب علي الجفري",
+ "title_src": "filename",
+ "sha256": "0d25d101582ec915a6dedf15f9ee024fdd95b5dbd340d598f356db563dc8c339",
+ "nh": "d31ecb31d26bb8312bf055411995b8df6a5c5b5ced51728a6c4e95aab0bdc37f",
+ "chars": 13776,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/92/014_حلقة 8： الحرية ｜ آمنت بالله ｜  الحبيب علي الجفري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/92/014_حلقة 8： الحرية ｜ آمنت بالله ｜  الحبيب علي الجفري.txt",
+   "sha256": "0d25d101582ec915a6dedf15f9ee024fdd95b5dbd340d598f356db563dc8c339",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/92/31.txt",
+   "sha256": "0d25d101582ec915a6dedf15f9ee024fdd95b5dbd340d598f356db563dc8c339",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

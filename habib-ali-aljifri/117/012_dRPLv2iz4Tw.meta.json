@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:dRPLv2iz4Tw",
+ "vid": "dRPLv2iz4Tw",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--117",
+ "n": 12,
+ "n_src": "read",
+ "title": "حلقة 12- النبي والثروة - سلسلة الإنسانية قبل التدين",
+ "title_src": "filename",
+ "sha256": "5bc028922d0c8663aeddef3da91cda5e1b51d435b4e1072b6440ca2b56e6c238",
+ "nh": "1ea04e1896660e33e7f360aba42e8ef4904802b5ce50167324fca319ebf4d14f",
+ "chars": 1645,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/117/012_حلقة 12- النبي والثروة - سلسلة الإنسانية قبل التدين.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/117/012_حلقة 12- النبي والثروة - سلسلة الإنسانية قبل التدين.txt",
+   "sha256": "5bc028922d0c8663aeddef3da91cda5e1b51d435b4e1072b6440ca2b56e6c238",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/insaniyya/24.txt",
+   "sha256": "5bc028922d0c8663aeddef3da91cda5e1b51d435b4e1072b6440ca2b56e6c238",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/112/24.txt",
+   "sha256": "5bc028922d0c8663aeddef3da91cda5e1b51d435b4e1072b6440ca2b56e6c238",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-ali-aljifri--112",
+  "k:117"
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:V-igSsh_9z8",
+ "vid": "V-igSsh_9z8",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--418",
+ "n": 19,
+ "n_src": "plpos",
+ "title": "19- الحب في القرآن | آفة الاعتماد على العقل وحده (3)",
+ "title_src": "yt_titles",
+ "sha256": "3f92784049aaa99571d408653ae10f6efb9bd292dd1d11cbd4122f2e87686a78",
+ "nh": "d14962e0b867ce792cdb32386b5dfda5fba5ae7eab7f936e2b1574d3890334a7",
+ "chars": 17138,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/418/019_19- الحب في القرآن ｜ آفة الاعتماد على العقل وحده (3).txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/418/019_19- الحب في القرآن ｜ آفة الاعتماد على العقل وحده (3).txt",
+   "sha256": "3f92784049aaa99571d408653ae10f6efb9bd292dd1d11cbd4122f2e87686a78",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/al7obFiEl9or1n-019/transcript.txt",
+   "sha256": "5875f7d591a23b70878f5a0d6371b1dc715a5f23f70982f159888e882c5c4628",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-hubb/19.txt",
+   "sha256": "5875f7d591a23b70878f5a0d6371b1dc715a5f23f70982f159888e882c5c4628",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

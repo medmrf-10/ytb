@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:FQP-lGAkSYs",
+ "vid": "FQP-lGAkSYs",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--997",
+ "n": 14,
+ "n_src": "read",
+ "title": "شرح الحكم العطائية ｜ الدرس 14 ＂ الكون كله ظلمة و إنما أناره ظهور الحق فيه ＂ ｜ ال",
+ "title_src": "filename",
+ "sha256": "08acbc053ab69ce7cf7f500edbc2a6321afe5e6e751febcfc098d0bbe453ecda",
+ "nh": "7a4a204820d84a4589a3c9c424be1b0a4b14fe19132bb56e693016c3bb8048cb",
+ "chars": 10180,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/997/014_شرح الحكم العطائية ｜ الدرس 14 ＂ الكون كله ظلمة و إنما أناره ظهور الحق فيه ＂ ｜ ال.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/997/014_شرح الحكم العطائية ｜ الدرس 14 ＂ الكون كله ظلمة و إنما أناره ظهور الحق فيه ＂ ｜ ال.txt",
+   "sha256": "08acbc053ab69ce7cf7f500edbc2a6321afe5e6e751febcfc098d0bbe453ecda",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/hikam-azhar/13.txt",
+   "sha256": "08acbc053ab69ce7cf7f500edbc2a6321afe5e6e751febcfc098d0bbe453ecda",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/871/13.txt",
+   "sha256": "08acbc053ab69ce7cf7f500edbc2a6321afe5e6e751febcfc098d0bbe453ecda",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "ali-gomaa--871",
+  "ali-gomaa--gomaa-hikam-azhar"
+ ]
+}

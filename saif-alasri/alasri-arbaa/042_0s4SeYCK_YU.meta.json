@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:0s4SeYCK_YU",
+ "vid": "0s4SeYCK_YU",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 42,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / براءة الأشعرية من الإرجاء / الدكتور سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "eaa76ad27f28d2ea4e617ae0b4594365e0478c4cd64cfe91a549b9095e166641",
+ "nh": "22bc4863c08f934505ad8cb13e9ed9b2ca45b92bf1301acead31dfb49cdd239c",
+ "chars": 20828,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-042/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-042/transcript.txt",
+   "sha256": "eaa76ad27f28d2ea4e617ae0b4594365e0478c4cd64cfe91a549b9095e166641",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/042_0s4SeYCK_YU.txt",
+   "sha256": "eaa76ad27f28d2ea4e617ae0b4594365e0478c4cd64cfe91a549b9095e166641",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/042.txt",
+   "sha256": "eaa76ad27f28d2ea4e617ae0b4594365e0478c4cd64cfe91a549b9095e166641",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

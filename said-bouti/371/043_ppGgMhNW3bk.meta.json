@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:ppGgMhNW3bk",
+ "vid": "ppGgMhNW3bk",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--371",
+ "n": 43,
+ "n_src": "plpos",
+ "title": "43- علوم القرآن الكريم | دراسات تطبيقية في الوصف (إِنَّ الَّذِينَ كَفَرُوا يُنَادَوْنَ لَمَقْت..)",
+ "title_src": "yt_titles",
+ "sha256": "ee45a373609877c6b9e86dabf57255d02a649058edc1702e105dc546f16f8567",
+ "nh": "38d72e905198cc656f84957dbc8ddcb37a076061366078d7c23b1d2ea543a873",
+ "chars": 19383,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/371/043_43- علوم القرآن الكريم ｜ دراسات تطبيقية في الوصف (إِنَّ الَّذِينَ كَفَرُوا يُنَا.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/371/043_43- علوم القرآن الكريم ｜ دراسات تطبيقية في الوصف (إِنَّ الَّذِينَ كَفَرُوا يُنَا.txt",
+   "sha256": "ee45a373609877c6b9e86dabf57255d02a649058edc1702e105dc546f16f8567",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/3oloumEl9or1n-043/transcript.txt",
+   "sha256": "6cf6ee9ad45b1e0891a0d7fe57c6e40edc4c2e4dd7e188e39510fd7d4da8695d",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-ulum-quran/43.txt",
+   "sha256": "6cf6ee9ad45b1e0891a0d7fe57c6e40edc4c2e4dd7e188e39510fd7d4da8695d",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

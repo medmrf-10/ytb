@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:vV1Eq-lb4-8",
+ "vid": "vV1Eq-lb4-8",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--783",
+ "n": 3,
+ "n_src": "read",
+ "title": "(3) الدرس الثالث ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "2d960cc0c0db9634377113e91c962e4daf3e0138422d4ae4c376470665fe8cd7",
+ "nh": "f1122f81d2c305b6d1d00939207990f4d4b18ced530460d5bf697cb8b3726303",
+ "chars": 10596,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/783/003_(3) الدرس الثالث ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/783/003_(3) الدرس الثالث ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "2d960cc0c0db9634377113e91c962e4daf3e0138422d4ae4c376470665fe8cd7",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/783/2.txt",
+   "sha256": "2d960cc0c0db9634377113e91c962e4daf3e0138422d4ae4c376470665fe8cd7",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

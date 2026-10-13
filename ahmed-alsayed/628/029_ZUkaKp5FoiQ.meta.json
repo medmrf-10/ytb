@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:ZUkaKp5FoiQ",
+ "vid": "ZUkaKp5FoiQ",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--628",
+ "n": 29,
+ "n_src": "mutfile",
+ "title": "السيرة النبوية للمصلحين 29 ｜ عودة مهاجري الحبشة ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "439c7a38c08d247ae279979dbb269fcaf92805be6fe0d3915360d6ac9b437407",
+ "nh": "08b26a056b983bf462e4caeac2f3108a940d2cdbe44ef9f99049ba1337cb115c",
+ "chars": 17843,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/628/029_السيرة النبوية للمصلحين 29 ｜ عودة مهاجري الحبشة ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/628/029_السيرة النبوية للمصلحين 29 ｜ عودة مهاجري الحبشة ｜ أحمد السيد.txt",
+   "sha256": "439c7a38c08d247ae279979dbb269fcaf92805be6fe0d3915360d6ac9b437407",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/elsiraLilmosli7in-029/transcript.txt",
+   "sha256": "6681411b5ff8618abc8b8e93967675aca14652400d010e56b4ff0121c4da0f06",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-628/029.txt",
+   "sha256": "6681411b5ff8618abc8b8e93967675aca14652400d010e56b4ff0121c4da0f06",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

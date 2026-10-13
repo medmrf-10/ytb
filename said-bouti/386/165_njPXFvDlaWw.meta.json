@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:njPXFvDlaWw",
+ "vid": "njPXFvDlaWw",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 165,
+ "n_src": "read",
+ "title": "الحكم العطائية للإمام البوطي الدرس 56 - الحكمة 37",
+ "title_src": "filename",
+ "sha256": "8ba887b203834501dda9fd21c412ef135878ba18f144038cc3d4425b92034e25",
+ "nh": "30923dfc4276bbe1b80cf5066798e25f3143597190d3076cc55bd1c417a930e2",
+ "chars": 20226,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/165_الحكم العطائية للإمام البوطي  الدرس 56  - الحكمة 37.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/165_الحكم العطائية للإمام البوطي  الدرس 56  - الحكمة 37.txt",
+   "sha256": "8ba887b203834501dda9fd21c412ef135878ba18f144038cc3d4425b92034e25",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/165_الحكم العطائية للإمام البوطي  الدرس 56  - الحكمة 37.txt",
+   "sha256": "8ba887b203834501dda9fd21c412ef135878ba18f144038cc3d4425b92034e25",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

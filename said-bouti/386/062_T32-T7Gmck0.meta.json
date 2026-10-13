@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:T32-T7Gmck0",
+ "vid": "T32-T7Gmck0",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 62,
+ "n_src": "read",
+ "title": "الحكم العطائية للعلامة البوطي ｜ الدرس 205 - الحكمة 182",
+ "title_src": "filename",
+ "sha256": "53f49d43af60643f54bc47c9917b6ace55522aa9802335c32726476480efd9ce",
+ "nh": "a911b8a1c953d73d53d6f9f8b5f90e05faf29d8c49e6393e1e626e20bc71d7fa",
+ "chars": 14966,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/062_الحكم العطائية للعلامة البوطي ｜ الدرس 205 - الحكمة 182.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/062_الحكم العطائية للعلامة البوطي ｜ الدرس 205 - الحكمة 182.txt",
+   "sha256": "53f49d43af60643f54bc47c9917b6ace55522aa9802335c32726476480efd9ce",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/hikam/062_الحكم العطائية للعلامة البوطي ｜ الدرس 205 - الحكمة 182.txt",
+   "sha256": "53f49d43af60643f54bc47c9917b6ace55522aa9802335c32726476480efd9ce",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/062_الحكم العطائية للعلامة البوطي ｜ الدرس 205 - الحكمة 182.txt",
+   "sha256": "53f49d43af60643f54bc47c9917b6ace55522aa9802335c32726476480efd9ce",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/386/202.txt",
+   "sha256": "53f49d43af60643f54bc47c9917b6ace55522aa9802335c32726476480efd9ce",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

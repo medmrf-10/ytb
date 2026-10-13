@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:a69czl-2R_w",
+ "vid": "a69czl-2R_w",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--117",
+ "n": 11,
+ "n_src": "read",
+ "title": "حلقة 11- حرب الفِجار - سلسلة الإنسانية قبل التدين",
+ "title_src": "filename",
+ "sha256": "be6eca6ffedeb27e6c082d3ec2843b2ed8ab14dba0ace93f53c5eb2be74a7dec",
+ "nh": "3a542fa151378f341aeabbb22d01bd2721eafc5f9708d85f29e6a1ac65b8aac9",
+ "chars": 1683,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/117/011_حلقة 11- حرب الفِجار - سلسلة الإنسانية قبل التدين.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/117/011_حلقة 11- حرب الفِجار - سلسلة الإنسانية قبل التدين.txt",
+   "sha256": "be6eca6ffedeb27e6c082d3ec2843b2ed8ab14dba0ace93f53c5eb2be74a7dec",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/insaniyya/23.txt",
+   "sha256": "be6eca6ffedeb27e6c082d3ec2843b2ed8ab14dba0ace93f53c5eb2be74a7dec",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/112/23.txt",
+   "sha256": "be6eca6ffedeb27e6c082d3ec2843b2ed8ab14dba0ace93f53c5eb2be74a7dec",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-ali-aljifri--112",
+  "k:117"
+ ]
+}

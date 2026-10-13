@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:-sSzRIJL1Bs",
+ "vid": "-sSzRIJL1Bs",
+ "sheikh": "ahmed-abdelmonem",
+ "row_id": "ahmed-abdelmonem--abdelmonem-juz30",
+ "n": 14,
+ "n_src": "trfile",
+ "title": "تفسير سورة الأعلى (1) | د. أحمد عبد المنعم",
+ "title_src": "yt_titles",
+ "sha256": "5b6a9b95ccc8d5cf7b9c3923e54ff7c2a3fa991534c006197e97675338e94641",
+ "nh": "d7aedd7ef7b2a4aeed1f96d2546c6b640e7048b601951cf518c773757724e968",
+ "chars": 12468,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/abdelmonemJuz30-014/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/abdelmonemJuz30-014/transcript.txt",
+   "sha256": "5b6a9b95ccc8d5cf7b9c3923e54ff7c2a3fa991534c006197e97675338e94641",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/abdelmonem/juz30/087-Ala_p1_AbdelMonem.txt",
+   "sha256": "5b6a9b95ccc8d5cf7b9c3923e54ff7c2a3fa991534c006197e97675338e94641",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/abdelmonem-juz30/14.txt",
+   "sha256": "5b6a9b95ccc8d5cf7b9c3923e54ff7c2a3fa991534c006197e97675338e94641",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

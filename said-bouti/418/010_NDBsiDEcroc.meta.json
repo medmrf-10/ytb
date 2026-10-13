@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:NDBsiDEcroc",
+ "vid": "NDBsiDEcroc",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--418",
+ "n": 10,
+ "n_src": "plpos",
+ "title": "10- الحب في القرآن | حب الإنسان لأخيه الإنسان ثمرة لحب الله (1)",
+ "title_src": "yt_titles",
+ "sha256": "8e34c5afcfb70972ad069670863645e5e8b7dfa3547f6885d13a1eec4ac95987",
+ "nh": "8ab7c0dd4509f66890eee516bf4eb5dce558e0d0a58bb0a59f16c13c1bb02bd5",
+ "chars": 14875,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/418/010_10- الحب في القرآن ｜ حب الإنسان لأخيه الإنسان ثمرة لحب الله (1).txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/418/010_10- الحب في القرآن ｜ حب الإنسان لأخيه الإنسان ثمرة لحب الله (1).txt",
+   "sha256": "8e34c5afcfb70972ad069670863645e5e8b7dfa3547f6885d13a1eec4ac95987",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/al7obFiEl9or1n-010/transcript.txt",
+   "sha256": "41e2cb26a6f9340f7d29a9d49ef14a2ad93801f4aadb47dbd346eafa62693935",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-hubb/10.txt",
+   "sha256": "41e2cb26a6f9340f7d29a9d49ef14a2ad93801f4aadb47dbd346eafa62693935",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

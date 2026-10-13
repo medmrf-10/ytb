@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:MzUx2H3mrEk",
+ "vid": "MzUx2H3mrEk",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--796",
+ "n": 16,
+ "n_src": "read",
+ "title": "(16) الجزم بجواب الطلب ⧸ قطر الندى ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "262f991099846b1064c3bc9c1251573efb3bd92f23052613aafbe1207e56f2ca",
+ "nh": "5492c0bd4103bd1f98b0936dba598f916880d69efc27a3a85474796d551413c2",
+ "chars": 22344,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/796/016_(16) الجزم بجواب الطلب ⧸ قطر الندى ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/796/016_(16) الجزم بجواب الطلب ⧸ قطر الندى ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "262f991099846b1064c3bc9c1251573efb3bd92f23052613aafbe1207e56f2ca",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/796/15.txt",
+   "sha256": "262f991099846b1064c3bc9c1251573efb3bd92f23052613aafbe1207e56f2ca",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

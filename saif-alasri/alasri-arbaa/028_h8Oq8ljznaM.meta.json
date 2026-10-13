@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:h8Oq8ljznaM",
+ "vid": "h8Oq8ljznaM",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 28,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / هجرة الأخلاق / د. سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "6095b6bcc4a20fa514c0c924afa02895fe784c99879a3fbe6d6559d5a728fa32",
+ "nh": "a7664c89f8b78c73e937467f63d5fc3cb4028078e5133de8ae0783d6f8521ca0",
+ "chars": 15936,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-028/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-028/transcript.txt",
+   "sha256": "6095b6bcc4a20fa514c0c924afa02895fe784c99879a3fbe6d6559d5a728fa32",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/028_h8Oq8ljznaM.txt",
+   "sha256": "6095b6bcc4a20fa514c0c924afa02895fe784c99879a3fbe6d6559d5a728fa32",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/028.txt",
+   "sha256": "6095b6bcc4a20fa514c0c924afa02895fe784c99879a3fbe6d6559d5a728fa32",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

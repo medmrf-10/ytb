@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:JmLThqZETsg",
+ "vid": "JmLThqZETsg",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--999",
+ "n": 1,
+ "n_src": "read",
+ "title": "شرح البناني على السلم ｜ الدرس 18 ( الكليات-تتمة- ) ｜ الشيخ محمد البردوني الحسيم",
+ "title_src": "filename",
+ "sha256": "80bb9151db28be2109b2d0ec593b643b8a5c2f289ae5b15bc6e38645e5f0a3d6",
+ "nh": "6120e5c1e9167343417961f56a55c491e9b47a2511ee959b583d44c13be6769e",
+ "chars": 25354,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/999/001_شرح البناني على السلم  ｜ الدرس 18 ( الكليات-تتمة- ) ｜ الشيخ محمد البردوني الحسيم.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/999/001_شرح البناني على السلم  ｜ الدرس 18 ( الكليات-تتمة- ) ｜ الشيخ محمد البردوني الحسيم.txt",
+   "sha256": "80bb9151db28be2109b2d0ec593b643b8a5c2f289ae5b15bc6e38645e5f0a3d6",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/999/17.txt",
+   "sha256": "80bb9151db28be2109b2d0ec593b643b8a5c2f289ae5b15bc6e38645e5f0a3d6",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

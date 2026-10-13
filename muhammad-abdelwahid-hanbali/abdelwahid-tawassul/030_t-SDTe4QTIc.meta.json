@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:t-SDTe4QTIc",
+ "vid": "t-SDTe4QTIc",
+ "sheikh": "muhammad-abdelwahid-hanbali",
+ "row_id": "muhammad-abdelwahid-hanbali--abdelwahid-tawassul",
+ "n": 30,
+ "n_src": "trfile",
+ "title": "24 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين",
+ "title_src": "yt_titles",
+ "sha256": "3a12d5e7f9a8fc53cb84f1d8e6db85fc94c25e26867d9746042d17e901374372",
+ "nh": "ee22949a13415b4f11928027d4d2995ba5ab30630b559f728e327a9cef0ac659",
+ "chars": 43216,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/abdelwahidTawassul-030/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/abdelwahidTawassul-030/transcript.txt",
+   "sha256": "3a12d5e7f9a8fc53cb84f1d8e6db85fc94c25e26867d9746042d17e901374372",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/abdelwahid-tawassul/030.txt",
+   "sha256": "3a12d5e7f9a8fc53cb84f1d8e6db85fc94c25e26867d9746042d17e901374372",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

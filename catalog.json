@@ -1,0 +1,476 @@
+{
+ "aliases_index": {
+  "abdelkaderalhussein": "abdelkader-alhussein",
+  "aboubakralmashhour": "aboubakr-almashhour",
+  "adhamalasimi": "adham-alasimi",
+  "ahmedabdelmonem": "ahmed-abdelmonem",
+  "ahmedalsayed": "ahmed-alsayed",
+  "aligomaa": "ali-gomaa",
+  "alimahmoudalomari": "ali-mahmoud-alomari",
+  "awnalqudoumi": "awn-alqudoumi",
+  "aymanabdelrahim": "ayman-abdelrahim",
+  "bardounihusaymi": "bardouni-husaymi",
+  "bensaib": "bensaib",
+  "daddo": "daddo",
+  "dhakeralhashimi": "dhaker-alhashimi",
+  "fadel": "fadhel-sulaiman",
+  "fadhelsamarrai": "fadhel-samarrai",
+  "fadhelsulaiman": "fadhel-sulaiman",
+  "fathisafi": "fathi-safi",
+  "habibalialjifri": "habib-ali-aljifri",
+  "habibomaribnhafiz": "habib-omar-ibn-hafiz",
+  "hamzabelkacem": "hamza-belkacem",
+  "hatemalaouni": "hatem-alaouni",
+  "maathhawa": "maath-hawa",
+  "maktaba": "maktaba",
+  "mouloudsariri": "mouloud-sariri",
+  "muhammadabdelwahidhanbali": "muhammad-abdelwahid-hanbali",
+  "osamaalazhari": "osama-alazhari",
+  "saidbouti": "said-bouti",
+  "saidkamali": "said-kamali",
+  "saifalasri": "saif-alasri",
+  "sharawi": "sharawi",
+  "unattributed": "unattributed",
+  "ابن حفيظ": "habib-omar-ibn-hafiz",
+  "ابن سايب": "bensaib",
+  "ابو بكر المشهور": "aboubakr-almashhour",
+  "ابو بكر المشهور بن احمد بن اسماعيل": "aboubakr-almashhour",
+  "احمد السيد": "ahmed-alsayed",
+  "احمد عبد المنعم": "ahmed-abdelmonem",
+  "اد علي جمعه": "ali-gomaa",
+  "ادهم العاسمي": "adham-alasimi",
+  "اسامه الازهري": "osama-alazhari",
+  "الازهري": "osama-alazhari",
+  "البردوني": "bardouni-husaymi",
+  "البوطي": "said-bouti",
+  "الحبيب علي الجفري": "habib-ali-aljifri",
+  "الحبيب عمر بن حفيظ": "habib-omar-ibn-hafiz",
+  "الحنبلي": "muhammad-abdelwahid-hanbali",
+  "الددو": "daddo",
+  "السامرايي": "fadhel-samarrai",
+  "السريري": "mouloud-sariri",
+  "السيد": "ahmed-alsayed",
+  "الشعراوي": "sharawi",
+  "الشيخ احمد عبد المنعم": "ahmed-abdelmonem",
+  "العاسمي": "adham-alasimi",
+  "العصري": "saif-alasri",
+  "العمري": "ali-mahmoud-alomari",
+  "العوني": "hatem-alaouni",
+  "الكملي": "said-kamali",
+  "المشهور": "aboubakr-almashhour",
+  "المكتبه": "maktaba",
+  "الهاشمي": "dhaker-alhashimi",
+  "ايمن عبد الرحيم": "ayman-abdelrahim",
+  "بن سايب": "bensaib",
+  "حاتم العوني": "hatem-alaouni",
+  "حمزه بلقاسم": "hamza-belkacem",
+  "دروس غير منسوبه": "unattributed",
+  "ذاكر الهاشمي": "dhaker-alhashimi",
+  "سعيد الكملي": "said-kamali",
+  "سعيد رمضان البوطي": "said-bouti",
+  "سيف العصري": "saif-alasri",
+  "عبد القادر الحسين": "abdelkader-alhussein",
+  "علي الجفري": "habib-ali-aljifri",
+  "علي جمعه": "ali-gomaa",
+  "علي محمود العمري": "ali-mahmoud-alomari",
+  "عون القدومي": "awn-alqudoumi",
+  "غير منسوب": "unattributed",
+  "فاضل السامرايي": "fadhel-samarrai",
+  "فاضل سليمان": "fadhel-sulaiman",
+  "فاضل صالح السامرايي": "fadhel-samarrai",
+  "فتحي صافي": "fathi-safi",
+  "متولي الشعراوي": "sharawi",
+  "محمد البردوني الحسيمي": "bardouni-husaymi",
+  "محمد الحسن ولد الددو": "daddo",
+  "محمد سعيد رمضان البوطي": "said-bouti",
+  "محمد عبد الواحد الازهري الحنبلي": "muhammad-abdelwahid-hanbali",
+  "محمد متولي الشعراوي": "sharawi",
+  "معاذ حوي": "maath-hawa",
+  "معاذ سعيد حوي": "maath-hawa",
+  "مكتبه المتون والشروح المفرغه": "maktaba",
+  "مولود السريري": "mouloud-sariri",
+  "ولد الددو": "daddo"
+ },
+ "sheikhs": [
+  {
+   "aliases": [
+    "البوطي"
+   ],
+   "chars": 18374654,
+   "lessons": 1012,
+   "name": "محمد سعيد رمضان البوطي",
+   "name_display": "سعيد رمضان البوطي",
+   "path": "said-bouti/",
+   "series": 26,
+   "slug": "said-bouti"
+  },
+  {
+   "aliases": [
+    "العاسمي"
+   ],
+   "chars": 8060307,
+   "lessons": 452,
+   "name": "أدهم العاسمي",
+   "name_display": "أدهم العاسمي",
+   "path": "adham-alasimi/",
+   "series": 23,
+   "slug": "adham-alasimi"
+  },
+  {
+   "aliases": [
+    "ابن حفيظ"
+   ],
+   "chars": 7539068,
+   "lessons": 444,
+   "name": "الحبيب عمر بن حفيظ",
+   "name_display": "الحبيب عمر بن حفيظ",
+   "path": "habib-omar-ibn-hafiz/",
+   "series": 11,
+   "slug": "habib-omar-ibn-hafiz"
+  },
+  {
+   "aliases": [
+    "علي الجفري"
+   ],
+   "chars": 5940554,
+   "lessons": 442,
+   "name": "الحبيب علي الجفري",
+   "name_display": "الحبيب علي الجفري",
+   "path": "habib-ali-aljifri/",
+   "series": 14,
+   "slug": "habib-ali-aljifri"
+  },
+  {
+   "aliases": [
+    "البردوني"
+   ],
+   "chars": 5856041,
+   "lessons": 390,
+   "name": "محمد البردوني الحسيمي",
+   "name_display": "محمد البردوني الحسيمي",
+   "path": "bardouni-husaymi/",
+   "series": 14,
+   "slug": "bardouni-husaymi"
+  },
+  {
+   "aliases": [
+    "أحمد السيد",
+    "السيد"
+   ],
+   "chars": 10087426,
+   "lessons": 284,
+   "name": "أحمد السيد",
+   "name_display": "أحمد السيد",
+   "path": "ahmed-alsayed/",
+   "series": 17,
+   "slug": "ahmed-alsayed"
+  },
+  {
+   "aliases": [
+    "العمري"
+   ],
+   "chars": 6924360,
+   "lessons": 236,
+   "name": "علي محمود العمري",
+   "name_display": "علي محمود العمري",
+   "path": "ali-mahmoud-alomari/",
+   "series": 19,
+   "slug": "ali-mahmoud-alomari"
+  },
+  {
+   "aliases": [
+    "الهاشمي"
+   ],
+   "chars": 14465886,
+   "lessons": 217,
+   "name": "ذاكر الهاشمي",
+   "name_display": "ذاكر الهاشمي",
+   "path": "dhaker-alhashimi/",
+   "series": 3,
+   "slug": "dhaker-alhashimi"
+  },
+  {
+   "aliases": [
+    "علي جمعة",
+    "أ.د علي جمعة"
+   ],
+   "chars": 3793556,
+   "lessons": 215,
+   "name": "علي جمعة",
+   "name_display": "علي جمعة",
+   "path": "ali-gomaa/",
+   "series": 2,
+   "slug": "ali-gomaa"
+  },
+  {
+   "aliases": [
+    "فاضل سليمان",
+    "fadel"
+   ],
+   "chars": 1305075,
+   "lessons": 89,
+   "name": "فاضل سليمان",
+   "name_display": "فاضل سليمان",
+   "path": "fadhel-sulaiman/",
+   "series": 3,
+   "slug": "fadhel-sulaiman"
+  },
+  {
+   "aliases": [
+    "مولود السريري",
+    "السريري"
+   ],
+   "chars": 1011779,
+   "lessons": 87,
+   "name": "مولود السريري",
+   "name_display": "مولود السريري",
+   "path": "mouloud-sariri/",
+   "series": 1,
+   "slug": "mouloud-sariri"
+  },
+  {
+   "aliases": [
+    "العصري"
+   ],
+   "chars": 1146463,
+   "lessons": 56,
+   "name": "سيف العصري",
+   "name_display": "سيف العصري",
+   "path": "saif-alasri/",
+   "series": 1,
+   "slug": "saif-alasri"
+  },
+  {
+   "aliases": [
+    "المشهور"
+   ],
+   "chars": 386548,
+   "lessons": 39,
+   "name": "أبو بكر المشهور بن أحمد بن إسماعيل",
+   "name_display": "أبو بكر المشهور",
+   "path": "aboubakr-almashhour/",
+   "series": 6,
+   "slug": "aboubakr-almashhour"
+  },
+  {
+   "aliases": [
+    "الحنبلي"
+   ],
+   "chars": 2504511,
+   "lessons": 38,
+   "name": "محمد عبد الواحد الازهري الحنبلي",
+   "name_display": "محمد عبد الواحد الازهري الحنبلي",
+   "path": "muhammad-abdelwahid-hanbali/",
+   "series": 1,
+   "slug": "muhammad-abdelwahid-hanbali"
+  },
+  {
+   "aliases": [
+    "الشيخ أحمد عبد المنعم",
+    "أحمد عبد المنعم"
+   ],
+   "chars": 699445,
+   "lessons": 20,
+   "name": "أحمد عبد المنعم",
+   "name_display": "أحمد عبد المنعم",
+   "path": "ahmed-abdelmonem/",
+   "series": 1,
+   "slug": "ahmed-abdelmonem"
+  },
+  {
+   "aliases": [
+    "العوني"
+   ],
+   "chars": 597705,
+   "lessons": 19,
+   "name": "حاتم العوني",
+   "name_display": "حاتم العوني",
+   "path": "hatem-alaouni/",
+   "series": 3,
+   "slug": "hatem-alaouni"
+  },
+  {
+   "aliases": [
+    "ابن سايب"
+   ],
+   "chars": 211370,
+   "lessons": 8,
+   "name": "بن سايب",
+   "name_display": "بن سايب",
+   "path": "bensaib/",
+   "series": 1,
+   "slug": "bensaib"
+  },
+  {
+   "aliases": [
+    "غير منسوب",
+    "unattributed"
+   ],
+   "chars": 10105,
+   "lessons": 1,
+   "name": "غير منسوب",
+   "name_display": "دروس غير منسوبة",
+   "path": "unattributed/",
+   "series": 1,
+   "slug": "unattributed"
+  },
+  {
+   "aliases": [
+    "عبد القادر الحسين"
+   ],
+   "chars": 0,
+   "lessons": 0,
+   "name": "عبد القادر الحسين",
+   "name_display": "عبد القادر الحسين",
+   "path": null,
+   "series": 0,
+   "slug": "abdelkader-alhussein"
+  },
+  {
+   "aliases": [
+    "عون القدومي"
+   ],
+   "chars": 0,
+   "lessons": 0,
+   "name": "عون القدومي",
+   "name_display": "عون القدومي",
+   "path": null,
+   "series": 0,
+   "slug": "awn-alqudoumi"
+  },
+  {
+   "aliases": [
+    "أيمن عبد الرحيم"
+   ],
+   "chars": 0,
+   "lessons": 0,
+   "name": "أيمن عبد الرحيم",
+   "name_display": "أيمن عبد الرحيم",
+   "path": null,
+   "series": 0,
+   "slug": "ayman-abdelrahim"
+  },
+  {
+   "aliases": [
+    "ولد الددو",
+    "الددو"
+   ],
+   "chars": 0,
+   "lessons": 0,
+   "name": "محمد الحسن ولد الددو",
+   "name_display": "الددو",
+   "path": null,
+   "series": 0,
+   "slug": "daddo"
+  },
+  {
+   "aliases": [
+    "السامرائي"
+   ],
+   "chars": 0,
+   "lessons": 0,
+   "name": "فاضل صالح السامرائي",
+   "name_display": "فاضل السامرائي",
+   "path": null,
+   "series": 0,
+   "slug": "fadhel-samarrai"
+  },
+  {
+   "aliases": [
+    "فتحي صافي"
+   ],
+   "chars": 0,
+   "lessons": 0,
+   "name": "فتحي صافي",
+   "name_display": "فتحي صافي",
+   "path": null,
+   "series": 0,
+   "slug": "fathi-safi"
+  },
+  {
+   "aliases": [
+    "حمزة بلقاسم"
+   ],
+   "chars": 0,
+   "lessons": 0,
+   "name": "حمزة بلقاسم",
+   "name_display": "حمزة بلقاسم",
+   "path": null,
+   "series": 0,
+   "slug": "hamza-belkacem"
+  },
+  {
+   "aliases": [
+    "معاذ حوى"
+   ],
+   "chars": 0,
+   "lessons": 0,
+   "name": "معاذ سعيد حوى",
+   "name_display": "معاذ سعيد حوى",
+   "path": null,
+   "series": 0,
+   "slug": "maath-hawa"
+  },
+  {
+   "aliases": [
+    "المكتبة",
+    "مكتبة المتون والشروح المفرغة"
+   ],
+   "chars": 0,
+   "lessons": 0,
+   "name": "مكتبة المتون والشروح المفرغة",
+   "name_display": "المكتبة",
+   "path": null,
+   "series": 0,
+   "slug": "maktaba"
+  },
+  {
+   "aliases": [
+    "الأزهري"
+   ],
+   "chars": 0,
+   "lessons": 0,
+   "name": "أسامة الأزهري",
+   "name_display": "أسامة الأزهري",
+   "path": null,
+   "series": 0,
+   "slug": "osama-alazhari"
+  },
+  {
+   "aliases": [
+    "الكملي"
+   ],
+   "chars": 0,
+   "lessons": 0,
+   "name": "سعيد الكملي",
+   "name_display": "سعيد الكملي",
+   "path": null,
+   "series": 0,
+   "slug": "said-kamali"
+  },
+  {
+   "aliases": [
+    "متولي الشعراوي"
+   ],
+   "chars": 0,
+   "lessons": 0,
+   "name": "محمد متولي الشعراوي",
+   "name_display": "الشعراوي",
+   "path": null,
+   "series": 0,
+   "slug": "sharawi"
+  }
+ ],
+ "source_heads": {
+  "des": "d659a83",
+  "hawshat": "8a8b2812",
+  "irth": "e35ede5"
+ },
+ "totals": {
+  "chars": 88914853,
+  "lessons": 4049,
+  "series": 147,
+  "sheikhs_with_content": 18
+ },
+ "v": 1
+}

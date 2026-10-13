@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:HLdkjQC-ub0",
+ "vid": "HLdkjQC-ub0",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 56,
+ "n_src": "plpos",
+ "title": "ؤوالله أعلم |  د.علي جمعة يتحدث عن كيفية مواجهة فتاوى المتطرفين باستهداف السائحين | الحلقة الكاملة",
+ "title_src": "yt_titles",
+ "sha256": "3abbf3e7dcd3b37f73617e54efd491329da3f20ea3f3ec0fc9fb5f5890b3535f",
+ "nh": "ce955100121d8134a0c38286aab98b0e11cc021d3fd24136dcdc3f7065173f15",
+ "chars": 25850,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/056_ؤوالله أعلم ｜  د.علي جمعة يتحدث عن كيفية مواجهة فتاوى المتطرفين باستهداف السائحي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/056_ؤوالله أعلم ｜  د.علي جمعة يتحدث عن كيفية مواجهة فتاوى المتطرفين باستهداف السائحي.txt",
+   "sha256": "3abbf3e7dcd3b37f73617e54efd491329da3f20ea3f3ec0fc9fb5f5890b3535f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/056_ؤوالله أعلم ｜  د.علي جمعة يتحدث عن كيفية مواجهة فتاوى المتطرفين باستهداف السائحي.txt",
+   "sha256": "3abbf3e7dcd3b37f73617e54efd491329da3f20ea3f3ec0fc9fb5f5890b3535f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/056.txt",
+   "sha256": "1b83d60532bb13e1513b02ca5941a9a82e2a7473ad7320a9c0bc95560ceebebf",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

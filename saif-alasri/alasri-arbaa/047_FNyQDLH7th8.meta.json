@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:FNyQDLH7th8",
+ "vid": "FNyQDLH7th8",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 47,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / تفصيل الكلام في نواقض الإسلام / الدكتور سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "784dff9a9dbccd34d137148e16cf64f46a03849cc383381ea89bccc1831817cb",
+ "nh": "d625b2fbe39a218d6086e60c14395f73451b64f77433cbdccb53c180acb6b92b",
+ "chars": 33491,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-047/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-047/transcript.txt",
+   "sha256": "784dff9a9dbccd34d137148e16cf64f46a03849cc383381ea89bccc1831817cb",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/047_FNyQDLH7th8.txt",
+   "sha256": "784dff9a9dbccd34d137148e16cf64f46a03849cc383381ea89bccc1831817cb",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/047.txt",
+   "sha256": "784dff9a9dbccd34d137148e16cf64f46a03849cc383381ea89bccc1831817cb",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

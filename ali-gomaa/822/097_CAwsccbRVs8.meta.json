@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:CAwsccbRVs8",
+ "vid": "CAwsccbRVs8",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 97,
+ "n_src": "plpos",
+ "title": "#والله_أعلم | الحلقة الكاملة 29 نوفمبر 2015 | من المسئول عن تصحيح صورة الإسلام في الخارج؟",
+ "title_src": "yt_titles",
+ "sha256": "53153523fa019aefc356c270088645c277b08aa84f18d3b49c8151c2b2672e73",
+ "nh": "3a4d6762e4159a4c682190808df3f16e1e7aa7d914cbf4fc0c47fa4d4d8ff0d1",
+ "chars": 19035,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/097_#والله_أعلم ｜ الحلقة الكاملة 29 نوفمبر 2015 ｜ من المسئول عن تصحيح صورة الإسلام ف.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/097_#والله_أعلم ｜ الحلقة الكاملة 29 نوفمبر 2015 ｜ من المسئول عن تصحيح صورة الإسلام ف.txt",
+   "sha256": "53153523fa019aefc356c270088645c277b08aa84f18d3b49c8151c2b2672e73",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/097_#والله_أعلم ｜ الحلقة الكاملة 29 نوفمبر 2015 ｜ من المسئول عن تصحيح صورة الإسلام ف.txt",
+   "sha256": "53153523fa019aefc356c270088645c277b08aa84f18d3b49c8151c2b2672e73",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/097.txt",
+   "sha256": "8285398a53a09c16e2b5afed66e861caf2377549c2ec804fd1e4ea27c3fd9615",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

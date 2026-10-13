@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "yt:0PSwq0gzE8s",
+ "vid": "0PSwq0gzE8s",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--10",
+ "n": 1,
+ "n_src": "read",
+ "title": "الدرس 1｜ شرح منظومة الأجهوري في أصول الدين ｜ الشيخ محمد البردوني الحسيمي",
+ "title_src": "filename",
+ "sha256": "e0c05b8b53056b0d8bf013f81019ce143d13992f73ae416969d53bfb40a8be2a",
+ "nh": "65b38451d88874ba527623aaa1cda85c4fdb275099f83bc1c9ea9b26b4820a92",
+ "chars": 7145,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/10/001_الدرس 1｜ شرح منظومة الأجهوري في أصول الدين ｜ الشيخ محمد البردوني الحسيمي.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/10/001_الدرس 1｜ شرح منظومة الأجهوري في أصول الدين ｜ الشيخ محمد البردوني الحسيمي.txt",
+   "sha256": "e0c05b8b53056b0d8bf013f81019ce143d13992f73ae416969d53bfb40a8be2a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bardouni/ajhuri/0.txt",
+   "sha256": "e0c05b8b53056b0d8bf013f81019ce143d13992f73ae416969d53bfb40a8be2a",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/995/0.txt",
+   "sha256": "e0c05b8b53056b0d8bf013f81019ce143d13992f73ae416969d53bfb40a8be2a",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "k:10"
+ ]
+}

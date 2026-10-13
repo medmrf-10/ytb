@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:HuY68i9Y5hk",
+ "vid": "HuY68i9Y5hk",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--767",
+ "n": 10,
+ "n_src": "read",
+ "title": "(10) حالات إضمار ( أن ) ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "7b7234be1743c107610b10553df2668301734b203fda7d4d825f38de91072921",
+ "nh": "ce7e64d430bec59808f7891744a808f96c0c64251af42ba5cdeb54d2f0fc4b58",
+ "chars": 15581,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/767/010_(10) حالات إضمار ( أن ) ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/767/010_(10) حالات إضمار ( أن ) ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "7b7234be1743c107610b10553df2668301734b203fda7d4d825f38de91072921",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/767/9.txt",
+   "sha256": "7b7234be1743c107610b10553df2668301734b203fda7d4d825f38de91072921",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

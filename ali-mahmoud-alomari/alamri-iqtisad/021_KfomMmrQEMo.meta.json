@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:KfomMmrQEMo",
+ "vid": "KfomMmrQEMo",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+ "n": 21,
+ "n_src": "trfile",
+ "title": "الدَّرس الواحد و العشرون_ القطب الثَّاني _ مناقشة الأقوال المتعلقة بصفة الإرادة وبيان الحق فيها",
+ "title_src": "yt_titles",
+ "sha256": "0b7c65586e8f2369a6043f5d74c137d1f777dfc7149aae14e1b1e6b9ec43eed0",
+ "nh": "f3365817a55d0ea90debe81fba4d5e61b105eb3dfc9a43b1cc2e3fea0e991b03",
+ "chars": 33818,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriIqtisad-021/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriIqtisad-021/transcript.txt",
+   "sha256": "0b7c65586e8f2369a6043f5d74c137d1f777dfc7149aae14e1b1e6b9ec43eed0",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-21_AlAmri.txt",
+   "sha256": "0b7c65586e8f2369a6043f5d74c137d1f777dfc7149aae14e1b1e6b9ec43eed0",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-iqtisad/21.txt",
+   "sha256": "0b7c65586e8f2369a6043f5d74c137d1f777dfc7149aae14e1b1e6b9ec43eed0",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

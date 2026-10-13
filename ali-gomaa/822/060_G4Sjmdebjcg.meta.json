@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:G4Sjmdebjcg",
+ "vid": "G4Sjmdebjcg",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 60,
+ "n_src": "plpos",
+ "title": "والله أعلم | فضيلة الدكتور علي جمعة يرد على منكري رحلة الإسراء والمعراج | الحلقة الكاملة",
+ "title_src": "yt_titles",
+ "sha256": "d431e5044bccb5d0d7ee48df916611fe068e9bf048bdebb63878fb8b646bbcf2",
+ "nh": "33219a0e39fd893ccd4fc06c045348ab6da30f70cb64ea7f0822906743df6deb",
+ "chars": 22750,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/060_والله أعلم ｜ فضيلة الدكتور علي جمعة يرد على منكري رحلة الإسراء والمعراج ｜ الحلقة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/060_والله أعلم ｜ فضيلة الدكتور علي جمعة يرد على منكري رحلة الإسراء والمعراج ｜ الحلقة.txt",
+   "sha256": "d431e5044bccb5d0d7ee48df916611fe068e9bf048bdebb63878fb8b646bbcf2",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/060_والله أعلم ｜ فضيلة الدكتور علي جمعة يرد على منكري رحلة الإسراء والمعراج ｜ الحلقة.txt",
+   "sha256": "d431e5044bccb5d0d7ee48df916611fe068e9bf048bdebb63878fb8b646bbcf2",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/060.txt",
+   "sha256": "d431e5044bccb5d0d7ee48df916611fe068e9bf048bdebb63878fb8b646bbcf2",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

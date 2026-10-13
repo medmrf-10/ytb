@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:N7BCfZlKFBU",
+ "vid": "N7BCfZlKFBU",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--661",
+ "n": 24,
+ "n_src": "mutfile",
+ "title": "خير القرون 23 ｜ فضائل عثمان ومعالم خلافته ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "87df50f480b697bd124d34c0707dc57538932277bfdaa974fd3f68d8bae24425",
+ "nh": "9fc20ba4cdb660b54b6ff4f40cbfecb3f5cd86f80a130d13889c4afed0c86b23",
+ "chars": 25330,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/661/024_خير القرون 23 ｜ فضائل عثمان ومعالم خلافته ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/661/024_خير القرون 23 ｜ فضائل عثمان ومعالم خلافته ｜ أحمد السيد.txt",
+   "sha256": "87df50f480b697bd124d34c0707dc57538932277bfdaa974fd3f68d8bae24425",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-661/024.txt",
+   "sha256": "4f5f258befa5c5d47bebbeca34b8d2d79ab138519e0849e09915a4076d120249",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:bBEIeEn4osE",
+ "vid": "bBEIeEn4osE",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--418",
+ "n": 24,
+ "n_src": "plpos",
+ "title": "24- الحب في القرآن | آثار يحققها الحب في مسلك الدعوة إلى الله (3)",
+ "title_src": "yt_titles",
+ "sha256": "f17be9a972a0181f23cb8a2d534990b472d82e418d097242fc43503609fc7dbd",
+ "nh": "b575c595b7b2e855db2b103e924864e36bf3c2e1d513b80372c71275bed959fd",
+ "chars": 20732,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/418/024_24- الحب في القرآن ｜ آثار يحققها الحب في مسلك الدعوة إلى الله (3).txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/418/024_24- الحب في القرآن ｜ آثار يحققها الحب في مسلك الدعوة إلى الله (3).txt",
+   "sha256": "f17be9a972a0181f23cb8a2d534990b472d82e418d097242fc43503609fc7dbd",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/al7obFiEl9or1n-024/transcript.txt",
+   "sha256": "e0bcfb34c37b7ea58f5d58a3b3516a3a1de260290acd1b1c2a29de2d84af3b4f",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-hubb/24.txt",
+   "sha256": "e0bcfb34c37b7ea58f5d58a3b3516a3a1de260290acd1b1c2a29de2d84af3b4f",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/418/2.txt",
+   "sha256": "f17be9a972a0181f23cb8a2d534990b472d82e418d097242fc43503609fc7dbd",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

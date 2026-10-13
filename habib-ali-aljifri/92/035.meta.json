@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:habib-ali-aljifri--92:35",
+ "vid": null,
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--92",
+ "n": 35,
+ "n_src": "read",
+ "title": "28： محبة سيدنا النبي ｜ آمنت بالله ｜ الحبيب علي الجفري",
+ "title_src": "filename",
+ "sha256": "01d83fe32770000d8e141a7b085d767a420da0843a0345491c69516b2b7b0e84",
+ "nh": "46e32eddebc43452d8aac4e6d939fcae7df6adbcc42537773593987d124258ba",
+ "chars": 14954,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/92/035_28： محبة سيدنا النبي ｜ آمنت بالله ｜ الحبيب علي الجفري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/92/035_28： محبة سيدنا النبي ｜ آمنت بالله ｜ الحبيب علي الجفري.txt",
+   "sha256": "01d83fe32770000d8e141a7b085d767a420da0843a0345491c69516b2b7b0e84",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/92/22.txt",
+   "sha256": "01d83fe32770000d8e141a7b085d767a420da0843a0345491c69516b2b7b0e84",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

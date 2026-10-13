@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:C-pEciYSUPM",
+ "vid": "C-pEciYSUPM",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-khutab-2012",
+ "n": 42,
+ "n_src": "trfile",
+ "title": "خطبة الإمام البوطي | محور شرائع الإسلام إقامة العدالة التامة",
+ "title_src": "yt_titles",
+ "sha256": "77668bac70f8be94a6d142b012694c8534959907d6645bd0f3be96177bebe0d1",
+ "nh": "a2ae983c1fdefd2dd1869e2885cbafd9845ab9dbf52256a03357aa750ed0a109",
+ "chars": 9268,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/5o6ab-042/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/5o6ab-042/transcript.txt",
+   "sha256": "77668bac70f8be94a6d142b012694c8534959907d6645bd0f3be96177bebe0d1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-khutab-2012/42.txt",
+   "sha256": "77668bac70f8be94a6d142b012694c8534959907d6645bd0f3be96177bebe0d1",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

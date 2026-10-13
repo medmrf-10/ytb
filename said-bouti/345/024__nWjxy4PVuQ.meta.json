@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:_nWjxy4PVuQ",
+ "vid": "_nWjxy4PVuQ",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--345",
+ "n": 24,
+ "n_src": "plpos",
+ "title": "24- مشاهد وعبر من القرآن والسنة | حبب إلي من دنياكم ثلاث",
+ "title_src": "yt_titles",
+ "sha256": "592c9eb1482a91d2f557222f030380a905eb3b63ad0e843f63a097325791d8dc",
+ "nh": "884831b7878b9918ac934322134a07d44515b54757b1f02416c547ed186724e0",
+ "chars": 13462,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/345/024_24- مشاهد وعبر من القرآن والسنة ｜ حبب إلي من دنياكم ثلاث.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/345/024_24- مشاهد وعبر من القرآن والسنة ｜ حبب إلي من دنياكم ثلاث.txt",
+   "sha256": "592c9eb1482a91d2f557222f030380a905eb3b63ad0e843f63a097325791d8dc",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-mashahid/24.txt",
+   "sha256": "50c6497da3ced87864c1732c5c4f7ed57e60896be32423c94c689c514836f95f",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/345/23.txt",
+   "sha256": "592c9eb1482a91d2f557222f030380a905eb3b63ad0e843f63a097325791d8dc",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

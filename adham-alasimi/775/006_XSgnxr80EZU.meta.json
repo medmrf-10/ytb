@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:XSgnxr80EZU",
+ "vid": "XSgnxr80EZU",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--775",
+ "n": 6,
+ "n_src": "read",
+ "title": "(06) القرائن المحتفّة بخبر الواحد ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم",
+ "title_src": "filename",
+ "sha256": "213af7d154762e839de040eb935c2938a35f7d925cbc032038325806ea3bab08",
+ "nh": "4f4985121c17633b946c9c91a9e81df906beafc708cffb89c2a201b50bc32f29",
+ "chars": 25139,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/775/006_(06) القرائن المحتفّة بخبر الواحد ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم .txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/775/006_(06) القرائن المحتفّة بخبر الواحد ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم .txt",
+   "sha256": "213af7d154762e839de040eb935c2938a35f7d925cbc032038325806ea3bab08",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/775/5.txt",
+   "sha256": "213af7d154762e839de040eb935c2938a35f7d925cbc032038325806ea3bab08",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

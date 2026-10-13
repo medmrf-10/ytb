@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:e8hBCdavdaY",
+ "vid": "e8hBCdavdaY",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-sulam",
+ "n": 6,
+ "n_src": "trfile",
+ "title": "الدرس 6",
+ "title_src": "filename",
+ "sha256": "48fc091574249c5829b00d09d3b9b36b1b8a45aa082be377c6a4e0ee1388688e",
+ "nh": "4590e2114349fdf9a73a5570b7327b07eddd273e861ac42b345c023b75765aba",
+ "chars": 42183,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriSulam-006/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriSulam-006/transcript.txt",
+   "sha256": "48fc091574249c5829b00d09d3b9b36b1b8a45aa082be377c6a4e0ee1388688e",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/sulam/sulam-06_AlAmri.txt",
+   "sha256": "48fc091574249c5829b00d09d3b9b36b1b8a45aa082be377c6a4e0ee1388688e",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-sulam/06.txt",
+   "sha256": "48fc091574249c5829b00d09d3b9b36b1b8a45aa082be377c6a4e0ee1388688e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

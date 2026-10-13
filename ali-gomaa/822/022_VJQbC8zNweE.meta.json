@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:VJQbC8zNweE",
+ "vid": "VJQbC8zNweE",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 22,
+ "n_src": "trfile",
+ "title": "المتشددون | حـ 22 | سيد قطب ماله وما عليه جـ 9 | أ.د علي جمعة",
+ "title_src": "yt_titles",
+ "sha256": "bc9c154a1110546289f58a92ce05e6214657d51edbddeaf4c141e7660a26c08d",
+ "nh": "b5c5926c8214fc82eac7d47a4e7ea38b7f0c85cd3814e7ca2112e66a8649a6dc",
+ "chars": 15601,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/gomaa/mut-822/022_المتشددون ｜ حـ 22 ｜ سيد قطب ماله وما عليه جـ 9 ｜ أ.د علي جمعة.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/022_المتشددون ｜ حـ 22 ｜ سيد قطب ماله وما عليه جـ 9 ｜ أ.د علي جمعة.txt",
+   "sha256": "bc9c154a1110546289f58a92ce05e6214657d51edbddeaf4c141e7660a26c08d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/022.txt",
+   "sha256": "bc9c154a1110546289f58a92ce05e6214657d51edbddeaf4c141e7660a26c08d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

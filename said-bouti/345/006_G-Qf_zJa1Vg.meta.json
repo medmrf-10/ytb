@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:G-Qf_zJa1Vg",
+ "vid": "G-Qf_zJa1Vg",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--345",
+ "n": 6,
+ "n_src": "plpos",
+ "title": "6- مشاهد وعبر من القرآن والسنة | رحلة النبي إلى الطائف",
+ "title_src": "yt_titles",
+ "sha256": "a1b0814be5a6935651aaf40ff7a3b26257c11be4ca45d90ed7ac6c0b3d3d1016",
+ "nh": "46dc3a79175fc67fc63eead910396f7d02eca7337fad1c7199ee29be6f6971e6",
+ "chars": 12997,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/345/006_6- مشاهد وعبر من القرآن والسنة ｜ رحلة النبي إلى الطائف.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/345/006_6- مشاهد وعبر من القرآن والسنة ｜ رحلة النبي إلى الطائف.txt",
+   "sha256": "a1b0814be5a6935651aaf40ff7a3b26257c11be4ca45d90ed7ac6c0b3d3d1016",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-mashahid/06.txt",
+   "sha256": "4cf3f1e7ab841cbb01fb367d2662e0dbef94ff9daadfc8121f297816b892c01c",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/345/5.txt",
+   "sha256": "a1b0814be5a6935651aaf40ff7a3b26257c11be4ca45d90ed7ac6c0b3d3d1016",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

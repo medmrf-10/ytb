@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:vRY9OS_l5qQ",
+ "vid": "vRY9OS_l5qQ",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 99,
+ "n_src": "mutfile",
+ "title": "#والله_أعلم | الحلقة الكاملة 15 نوفمبر 2015 | كيف يحصن الإنسان نفسه من الفتنة في الدين ؟",
+ "title_src": "yt_titles",
+ "sha256": "b40975d2f2d38e67a164dce3421cfa1d7639f0917458de8a1b679e6f68fa2561",
+ "nh": "362d1b1c6beb29c9895baec7985ea5026b24f9ad7efd63b00a12a8aff0828366",
+ "chars": 23227,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/099_#والله_أعلم ｜ الحلقة الكاملة 15 نوفمبر 2015 ｜ كيف يحصن الإنسان نفسه من الفتنة في.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/099_#والله_أعلم ｜ الحلقة الكاملة 15 نوفمبر 2015 ｜ كيف يحصن الإنسان نفسه من الفتنة في.txt",
+   "sha256": "b40975d2f2d38e67a164dce3421cfa1d7639f0917458de8a1b679e6f68fa2561",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/099_#والله_أعلم ｜ الحلقة الكاملة 15 نوفمبر 2015 ｜ كيف يحصن الإنسان نفسه من الفتنة في.txt",
+   "sha256": "e44f06db807614dc7d3f6ec4e330d36fbbbed8ff36010eb178dec72ceab2945f",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/099.txt",
+   "sha256": "b40975d2f2d38e67a164dce3421cfa1d7639f0917458de8a1b679e6f68fa2561",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

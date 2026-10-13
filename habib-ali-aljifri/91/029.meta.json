@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:habib-ali-aljifri--91:29",
+ "vid": null,
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--91",
+ "n": 29,
+ "n_src": "read",
+ "title": "حلقة 28： تساؤلات： تدوين الحديث ｜ #آمنت بالله 2 ｜ #الحبيب علي الجفري",
+ "title_src": "filename",
+ "sha256": "724aefafb922ddf913c45b3f6cca4266839280a651c5759384def65b8e5255f6",
+ "nh": "db81c7661ef0a21785187ab7be72540356b7b170dac987ad53c566a6924aac54",
+ "chars": 13811,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/91/029_حلقة 28： تساؤلات： تدوين الحديث ｜ #آمنت_بالله 2 ｜ #الحبيب_علي_الجفري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/91/029_حلقة 28： تساؤلات： تدوين الحديث ｜ #آمنت_بالله 2 ｜ #الحبيب_علي_الجفري.txt",
+   "sha256": "724aefafb922ddf913c45b3f6cca4266839280a651c5759384def65b8e5255f6",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/91/0.txt",
+   "sha256": "724aefafb922ddf913c45b3f6cca4266839280a651c5759384def65b8e5255f6",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

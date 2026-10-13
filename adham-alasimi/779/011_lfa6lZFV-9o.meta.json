@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:lfa6lZFV-9o",
+ "vid": "lfa6lZFV-9o",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--779",
+ "n": 11,
+ "n_src": "read",
+ "title": "(11) الوصل والفصل ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "d81e87d0ac6b5831a0b8c99066c03aea6ccf9fca372667574b5f1d950fe6373f",
+ "nh": "ec528468b1a57482d6af804b89d1b945d13c64a7eb78182ce029556e75e2b232",
+ "chars": 19742,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/779/011_(11) الوصل والفصل ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/779/011_(11) الوصل والفصل ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "d81e87d0ac6b5831a0b8c99066c03aea6ccf9fca372667574b5f1d950fe6373f",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/779/10.txt",
+   "sha256": "d81e87d0ac6b5831a0b8c99066c03aea6ccf9fca372667574b5f1d950fe6373f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

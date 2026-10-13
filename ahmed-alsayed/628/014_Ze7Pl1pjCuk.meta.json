@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:Ze7Pl1pjCuk",
+ "vid": "Ze7Pl1pjCuk",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--628",
+ "n": 14,
+ "n_src": "mutfile",
+ "title": "السيرة النبوية للمصلحين 14 ｜ فضل الأنصار ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "07b3cf228b08d33a9a8158d6e87ac56d422033030f43304e20ee9a277a64fc49",
+ "nh": "b352fdb44ada0b815e59888a12cd37f8a1a06247b504a2f46258e7dc8d4828d7",
+ "chars": 29411,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/628/014_السيرة النبوية للمصلحين 14 ｜ فضل الأنصار ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/628/014_السيرة النبوية للمصلحين 14 ｜ فضل الأنصار ｜ أحمد السيد.txt",
+   "sha256": "07b3cf228b08d33a9a8158d6e87ac56d422033030f43304e20ee9a277a64fc49",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/elsiraLilmosli7in-014/transcript.txt",
+   "sha256": "2a77b74c8c4384e00ae872a5c0062f3f2a8b8049598cf9451f10367137e1e986",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-628/014.txt",
+   "sha256": "2a77b74c8c4384e00ae872a5c0062f3f2a8b8049598cf9451f10367137e1e986",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:lGA9YxOehJY",
+ "vid": "lGA9YxOehJY",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-barahin-kitab",
+ "n": 2,
+ "n_src": "trfile",
+ "title": "الدرس الثاني كتاب أم البراهين",
+ "title_src": "yt_titles",
+ "sha256": "81361b5c1113f0a2b79a5341866bba439951a32048b56454c79b802f1670d455",
+ "nh": "a4ddad2fde5a9b34873627685c4f42c0cbc37ba2559148590280d94321edd573",
+ "chars": 26869,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriBarahinKitab-002/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriBarahinKitab-002/transcript.txt",
+   "sha256": "81361b5c1113f0a2b79a5341866bba439951a32048b56454c79b802f1670d455",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/barahin-kitab/barahin-kitab-02_AlAmri.txt",
+   "sha256": "81361b5c1113f0a2b79a5341866bba439951a32048b56454c79b802f1670d455",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-barahin-kitab/02.txt",
+   "sha256": "81361b5c1113f0a2b79a5341866bba439951a32048b56454c79b802f1670d455",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:_NAYoxm2yJU",
+ "vid": "_NAYoxm2yJU",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--379",
+ "n": 29,
+ "n_src": "plpos",
+ "title": "29- تاريخ التشريع الإسلامي | الاختلافات الفقهية | آفات لحقت بالمذاهب الأربعة",
+ "title_src": "yt_titles",
+ "sha256": "deb85493d5e06459a9c44133532a28811d42c18dcf851fffac012b99863f017e",
+ "nh": "099d5c286e7c693005379587cfd07539b9a291f02680cfd7c723a16780632d83",
+ "chars": 20176,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/379/029_29- تاريخ التشريع الإسلامي ｜ الاختلافات الفقهية ｜ آفات لحقت بالمذاهب الأربعة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/379/029_29- تاريخ التشريع الإسلامي ｜ الاختلافات الفقهية ｜ آفات لحقت بالمذاهب الأربعة.txt",
+   "sha256": "deb85493d5e06459a9c44133532a28811d42c18dcf851fffac012b99863f017e",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/tari5Eltachri3-029/transcript.txt",
+   "sha256": "07c8501ebaa9bb9516bff5d1ab25d3ba0f55d84152e03f3bbd905448511c18bd",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-tarikh/29.txt",
+   "sha256": "07c8501ebaa9bb9516bff5d1ab25d3ba0f55d84152e03f3bbd905448511c18bd",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/379/28.txt",
+   "sha256": "deb85493d5e06459a9c44133532a28811d42c18dcf851fffac012b99863f017e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

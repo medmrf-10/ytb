@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:oGqlXDrXb-k",
+ "vid": "oGqlXDrXb-k",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--656",
+ "n": 54,
+ "n_src": "mutfile",
+ "title": "رياض الصالحين 54 ｜ باب تعظيم حرمات المسلمين وبيان حقوقهم 1 ｜ أنوار السنة المحمدي",
+ "title_src": "filename",
+ "sha256": "e640a145f2d1625ae5e743b4b876c80e6880941bbaabae8f333e5c33f5326e68",
+ "nh": "312d17e7998ea2ce76090c4e557bd6a89baadbe37084f84df2ad209ab6778c00",
+ "chars": 38758,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/656/054_رياض الصالحين 54 ｜ باب تعظيم حرمات المسلمين وبيان حقوقهم 1 ｜ أنوار السنة المحمدي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/656/054_رياض الصالحين 54 ｜ باب تعظيم حرمات المسلمين وبيان حقوقهم 1 ｜ أنوار السنة المحمدي.txt",
+   "sha256": "e640a145f2d1625ae5e743b4b876c80e6880941bbaabae8f333e5c33f5326e68",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/riyadElsali7in-054/transcript.txt",
+   "sha256": "713dbc0da0a72c312d81afd2467b3aeb71f9b371a15a921e5070b08812c85aaf",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-656/054.txt",
+   "sha256": "713dbc0da0a72c312d81afd2467b3aeb71f9b371a15a921e5070b08812c85aaf",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

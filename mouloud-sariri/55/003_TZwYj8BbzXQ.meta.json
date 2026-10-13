@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:TZwYj8BbzXQ",
+ "vid": "TZwYj8BbzXQ",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 3,
+ "n_src": "read",
+ "title": "خطب منبرية ： إرادة العلو والفساد من موانع دخول الجنة ⧸ الشيخ العلامة مولود السري",
+ "title_src": "filename",
+ "sha256": "81a503cc9c86717494a359a830ecb71f12279800c0557f613659f1394ba03c8e",
+ "nh": "9b3ca5602ce0eb73071f7e12f64079578db9932ecb7b0da754cc8d4920981878",
+ "chars": 14066,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/003_خطب منبرية ： إرادة العلو والفساد من موانع دخول الجنة ⧸ الشيخ العلامة مولود السري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/003_خطب منبرية ： إرادة العلو والفساد من موانع دخول الجنة ⧸ الشيخ العلامة مولود السري.txt",
+   "sha256": "81a503cc9c86717494a359a830ecb71f12279800c0557f613659f1394ba03c8e",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/2.txt",
+   "sha256": "81a503cc9c86717494a359a830ecb71f12279800c0557f613659f1394ba03c8e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

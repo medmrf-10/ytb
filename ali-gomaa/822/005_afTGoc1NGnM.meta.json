@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:afTGoc1NGnM",
+ "vid": "afTGoc1NGnM",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 5,
+ "n_src": "plpos",
+ "title": "المتشددون | حـ 5 | عبد الرزاق باشا السنهوري والنهضة | أ.د علي جمعة",
+ "title_src": "yt_titles",
+ "sha256": "af12afc265fc988dbf7623a1537e8a4397294a1e26d4c4bea296bbbf0c3778ee",
+ "nh": "9c7814780173e73a3047cf3e1cf07230b9254248f8b1f9cd33a25c2444e23fcb",
+ "chars": 16027,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/005_المتشددون ｜ حـ 5 ｜ عبد الرزاق باشا السنهوري والنهضة ｜ أ.د علي جمعة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/005_المتشددون ｜ حـ 5 ｜ عبد الرزاق باشا السنهوري والنهضة ｜ أ.د علي جمعة.txt",
+   "sha256": "af12afc265fc988dbf7623a1537e8a4397294a1e26d4c4bea296bbbf0c3778ee",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/005_المتشددون ｜ حـ 5 ｜ عبد الرزاق باشا السنهوري والنهضة ｜ أ.د علي جمعة.txt",
+   "sha256": "af12afc265fc988dbf7623a1537e8a4397294a1e26d4c4bea296bbbf0c3778ee",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/005.txt",
+   "sha256": "66d20c8ed3159a8fbb72c26d465d8932a35575469b8fd1abed9edd026d006e2c",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:a0owcSs_5OU",
+ "vid": "a0owcSs_5OU",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--656",
+ "n": 63,
+ "n_src": "mutfile",
+ "title": "رياض الصالحين 63 ｜ باب فضل ضعفة المسلمين 1 ｜ أنوار السنة المحمدية ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "7c5c841ff2c2ca85dae2ab228ca6818e99e028b9ec7899cd7c9b25f76daeacde",
+ "nh": "514d450172be8d3bbb6dff2686859aeb81f75419626d1569c9dbb84207414ed2",
+ "chars": 37286,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/656/063_رياض الصالحين 63 ｜ باب فضل ضعفة المسلمين 1 ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/656/063_رياض الصالحين 63 ｜ باب فضل ضعفة المسلمين 1 ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+   "sha256": "7c5c841ff2c2ca85dae2ab228ca6818e99e028b9ec7899cd7c9b25f76daeacde",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/riyadElsali7in-063/transcript.txt",
+   "sha256": "22db51d04caa6ff0a910e906e6b382bc0d0e8b2ac439b23efec71b775747430c",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-656/063.txt",
+   "sha256": "22db51d04caa6ff0a910e906e6b382bc0d0e8b2ac439b23efec71b775747430c",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

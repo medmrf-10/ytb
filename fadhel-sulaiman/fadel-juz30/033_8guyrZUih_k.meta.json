@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:8guyrZUih_k",
+ "vid": "8guyrZUih_k",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-juz30",
+ "n": 33,
+ "n_src": "trfile",
+ "title": "فيديو # ٦٤٨ من مقاطع حظر التجول   تدبر سورة القارعة",
+ "title_src": "yt_titles",
+ "sha256": "2f22d836fe116faa1aa987f1caa27e8cc7879e1a61014f153040235b71d2018d",
+ "nh": "1812714a620e501622d9d0bfac1401d48db26afc77627283cbe5acb82e60ae55",
+ "chars": 13281,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelJuz30-033/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelJuz30-033/transcript.txt",
+   "sha256": "2f22d836fe116faa1aa987f1caa27e8cc7879e1a61014f153040235b71d2018d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-juz30/033.txt",
+   "sha256": "2f22d836fe116faa1aa987f1caa27e8cc7879e1a61014f153040235b71d2018d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

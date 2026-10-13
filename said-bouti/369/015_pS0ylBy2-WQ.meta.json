@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:pS0ylBy2-WQ",
+ "vid": "pS0ylBy2-WQ",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--369",
+ "n": 15,
+ "n_src": "plpos",
+ "title": "15 - يغالطونك إذ يقولون | ساحة العلم لا تتسع للغيبيات",
+ "title_src": "yt_titles",
+ "sha256": "f969938342656f69fabfba84d21d244ea52caf2745edd7ea9b7c3cc4a1b35a7e",
+ "nh": "888bf81126e7a12dd6e1505841e0019dba8c436b6a4e70077c03a71c3dc7df7b",
+ "chars": 27224,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/369/015_15 - يغالطونك إذ يقولون ｜ ساحة العلم لا تتسع للغيبيات.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/369/015_15 - يغالطونك إذ يقولون ｜ ساحة العلم لا تتسع للغيبيات.txt",
+   "sha256": "f969938342656f69fabfba84d21d244ea52caf2745edd7ea9b7c3cc4a1b35a7e",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/yoghalitonak-015/transcript.txt",
+   "sha256": "594b5a381337ba1d50acc19cdcf957c67e88459d940be354bea6b3cdcda376b1",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-yaghalitun/15.txt",
+   "sha256": "594b5a381337ba1d50acc19cdcf957c67e88459d940be354bea6b3cdcda376b1",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/369/14.txt",
+   "sha256": "f969938342656f69fabfba84d21d244ea52caf2745edd7ea9b7c3cc4a1b35a7e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

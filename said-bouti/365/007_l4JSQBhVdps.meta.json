@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:l4JSQBhVdps",
+ "vid": "l4JSQBhVdps",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--365",
+ "n": 7,
+ "n_src": "read",
+ "title": "6 - ضائعون هداهم القرآن عبد الرحمن القس",
+ "title_src": "filename",
+ "sha256": "0495d2a4be234c1c04608260212445eb7f6cdd713b4b7e8510dae3e69940483a",
+ "nh": "cb0fd616b2ec282c96e58aa7ed76a1a0f767daac58907dd62b48e7a154d67e53",
+ "chars": 11515,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/365/007_6 - ضائعون هداهم القرآن  عبد الرحمن القس.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/365/007_6 - ضائعون هداهم القرآن  عبد الرحمن القس.txt",
+   "sha256": "0495d2a4be234c1c04608260212445eb7f6cdd713b4b7e8510dae3e69940483a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tawba/007_6 - ضائعون هداهم القرآن  عبد الرحمن القس.txt",
+   "sha256": "0495d2a4be234c1c04608260212445eb7f6cdd713b4b7e8510dae3e69940483a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/dayoon/007_6 - ضائعون هداهم القرآن  عبد الرحمن القس.txt",
+   "sha256": "0495d2a4be234c1c04608260212445eb7f6cdd713b4b7e8510dae3e69940483a",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

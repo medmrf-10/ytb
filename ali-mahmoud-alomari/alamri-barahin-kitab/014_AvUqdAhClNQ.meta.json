@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:AvUqdAhClNQ",
+ "vid": "AvUqdAhClNQ",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-barahin-kitab",
+ "n": 14,
+ "n_src": "trfile",
+ "title": "الدرس الرابع عشر كتاب أم البراهين",
+ "title_src": "yt_titles",
+ "sha256": "6852c941ed42ef7ef0e4207a0d2030e29599fa97b3567122c736261a84745a37",
+ "nh": "3e069237b7b97c077fb6b5ccd117b14640d6600070adb4eae2e6d975601eb8ca",
+ "chars": 46187,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriBarahinKitab-014/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriBarahinKitab-014/transcript.txt",
+   "sha256": "6852c941ed42ef7ef0e4207a0d2030e29599fa97b3567122c736261a84745a37",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/barahin-kitab/barahin-kitab-14_AlAmri.txt",
+   "sha256": "6852c941ed42ef7ef0e4207a0d2030e29599fa97b3567122c736261a84745a37",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-barahin-kitab/14.txt",
+   "sha256": "6852c941ed42ef7ef0e4207a0d2030e29599fa97b3567122c736261a84745a37",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

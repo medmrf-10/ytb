@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:51",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 51,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 75 ( باب في زكاة الماشية ) ｜ الشيخ البردوني",
+ "title_src": "filename",
+ "sha256": "6d7ee1482d0d103cc43217917a43b2228eb05355772d7dbae4f6f1baada961e3",
+ "nh": "e29daa83ffd9073d227e4540be5f2fd22aaccd9e844d6e21229c5021362bdb35",
+ "chars": 11334,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/051_شرح رسالة ابن ابي زيد ｜ الدرس 75 (  باب في زكاة الماشية  ) ｜ الشيخ البردوني.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/051_شرح رسالة ابن ابي زيد ｜ الدرس 75 (  باب في زكاة الماشية  ) ｜ الشيخ البردوني.txt",
+   "sha256": "6d7ee1482d0d103cc43217917a43b2228eb05355772d7dbae4f6f1baada961e3",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/75.txt",
+   "sha256": "6d7ee1482d0d103cc43217917a43b2228eb05355772d7dbae4f6f1baada961e3",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

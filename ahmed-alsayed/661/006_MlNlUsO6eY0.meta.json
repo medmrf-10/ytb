@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:MlNlUsO6eY0",
+ "vid": "MlNlUsO6eY0",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--661",
+ "n": 6,
+ "n_src": "mutfile",
+ "title": "خير القرون 05 ｜ مقتل القراء وحفظ الدين ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "de772bb81a9a39cf57ae96e0971fb9b96199d58f57b54bff8434746175cd0183",
+ "nh": "9a7e1d0e34c067cabd8689fe38153761f7c8aea0c8cccb85d85329e33f9c1e60",
+ "chars": 31405,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/661/006_خير القرون 05 ｜ مقتل القراء وحفظ الدين ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/661/006_خير القرون 05 ｜ مقتل القراء وحفظ الدين ｜ أحمد السيد.txt",
+   "sha256": "de772bb81a9a39cf57ae96e0971fb9b96199d58f57b54bff8434746175cd0183",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-661/006.txt",
+   "sha256": "dcde2de2914261abc5f8a6b18ab0605d6b5d4861d1f70567916993e864ee9e6c",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

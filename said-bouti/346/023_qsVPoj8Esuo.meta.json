@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:qsVPoj8Esuo",
+ "vid": "qsVPoj8Esuo",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--346",
+ "n": 23,
+ "n_src": "plpos",
+ "title": "22 - الأخيرة - رحلة الخلود | العلامة البوطي | الجنة ونعيمها",
+ "title_src": "yt_titles",
+ "sha256": "08a3369d6b08d80c5fd3f4db95110393557833a2427d9d11839beb7a74766f2c",
+ "nh": "ad8fa3bae04f93db7a72ec70fdcf79a1c6c8e0b2e62964687e33b849ac71eeba",
+ "chars": 11787,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/346/023_22 - الأخيرة - رحلة الخلود ｜ العلامة البوطي ｜ الجنة ونعيمها.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/346/023_22 - الأخيرة - رحلة الخلود ｜ العلامة البوطي ｜ الجنة ونعيمها.txt",
+   "sha256": "08a3369d6b08d80c5fd3f4db95110393557833a2427d9d11839beb7a74766f2c",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/ri7latEl5oloud-023/transcript.txt",
+   "sha256": "54d80ee11497e8df64c854341988a5e74985b8882596aa95a7923ba5eaaa35ad",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-rihla/23.txt",
+   "sha256": "54d80ee11497e8df64c854341988a5e74985b8882596aa95a7923ba5eaaa35ad",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/346/22.txt",
+   "sha256": "08a3369d6b08d80c5fd3f4db95110393557833a2427d9d11839beb7a74766f2c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

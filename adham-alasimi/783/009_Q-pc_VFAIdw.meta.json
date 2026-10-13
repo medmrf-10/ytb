@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:Q-pc_VFAIdw",
+ "vid": "Q-pc_VFAIdw",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--783",
+ "n": 9,
+ "n_src": "read",
+ "title": "(9) الدرس التاسع ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "d78987205a58022556a04120e73e3d43087eaf13d37e09fc4d8307f21c94daff",
+ "nh": "988a49f41016aa5941b9b36d7a3223715d4baba2f1bfe820dd2b0e2c290b02b8",
+ "chars": 10921,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/783/009_(9) الدرس التاسع ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/783/009_(9) الدرس التاسع ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "d78987205a58022556a04120e73e3d43087eaf13d37e09fc4d8307f21c94daff",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/783/8.txt",
+   "sha256": "d78987205a58022556a04120e73e3d43087eaf13d37e09fc4d8307f21c94daff",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

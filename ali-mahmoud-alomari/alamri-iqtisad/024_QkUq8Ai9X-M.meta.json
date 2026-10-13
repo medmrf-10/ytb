@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:QkUq8Ai9X-M",
+ "vid": "QkUq8Ai9X-M",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+ "n": 24,
+ "n_src": "trfile",
+ "title": "الدَّرس الرابع والعشرون_ القطب الثاني_  بيان معنى صفة الكلام عند أهل السنة",
+ "title_src": "yt_titles",
+ "sha256": "81d1e3dde56acbd9e7f043d466da33fa482ee0cc3152b5ca4f17dc187786dca1",
+ "nh": "fb152ba6f96ca0da7a08bb72f78b084624f14c3db3d8cac95829652448875b88",
+ "chars": 28595,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriIqtisad-024/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriIqtisad-024/transcript.txt",
+   "sha256": "81d1e3dde56acbd9e7f043d466da33fa482ee0cc3152b5ca4f17dc187786dca1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-24_AlAmri.txt",
+   "sha256": "81d1e3dde56acbd9e7f043d466da33fa482ee0cc3152b5ca4f17dc187786dca1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-iqtisad/24.txt",
+   "sha256": "81d1e3dde56acbd9e7f043d466da33fa482ee0cc3152b5ca4f17dc187786dca1",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

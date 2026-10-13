@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:orOYCNRb-Ek",
+ "vid": "orOYCNRb-Ek",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 48,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / عقيدة الإمام النووي/ الدكتور سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "64f7027a228629e7c19f3dbd1f0584360ba1086d614abca9854ed53e45c1c06b",
+ "nh": "83f8f03f06e1c1367282870e670c7f63ee96d14fe9b60df1cb8ba73d3e27fc20",
+ "chars": 23679,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-048/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-048/transcript.txt",
+   "sha256": "64f7027a228629e7c19f3dbd1f0584360ba1086d614abca9854ed53e45c1c06b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/048_orOYCNRb-Ek.txt",
+   "sha256": "64f7027a228629e7c19f3dbd1f0584360ba1086d614abca9854ed53e45c1c06b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/048.txt",
+   "sha256": "64f7027a228629e7c19f3dbd1f0584360ba1086d614abca9854ed53e45c1c06b",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

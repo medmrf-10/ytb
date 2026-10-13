@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:szT7LDF-Zo0",
+ "vid": "szT7LDF-Zo0",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--793",
+ "n": 5,
+ "n_src": "read",
+ "title": "(5) أقسام الحكم ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "632f93a0f9a779b6ca452d170934abf7091e2416652cb2e5ed604e390d5ed8a3",
+ "nh": "aa2b6d32b98bf4557fdaa3a7b5f2a411ce07dc7e57304620539958066a47eedc",
+ "chars": 29670,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/793/005_(5) أقسام الحكم ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/793/005_(5) أقسام الحكم ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "632f93a0f9a779b6ca452d170934abf7091e2416652cb2e5ed604e390d5ed8a3",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/793/4.txt",
+   "sha256": "632f93a0f9a779b6ca452d170934abf7091e2416652cb2e5ed604e390d5ed8a3",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

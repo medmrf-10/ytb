@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:zL2JVAGsooM",
+ "vid": "zL2JVAGsooM",
+ "sheikh": "hatem-alaouni",
+ "row_id": "hatem-alaouni--aouni-jabir",
+ "n": 2,
+ "n_src": "trfile",
+ "title": "الدرس الثاني : في إثبات أن الحافظ أبا الفضل أحمد بن سلمة النيسابوري وأبا عوانة قد صححا حديث جابر",
+ "title_src": "yt_titles",
+ "sha256": "1aab5a958cb539d8c9106dc8d7a8fd878caf8182175ebeaccde96772d7326d26",
+ "nh": "8d51f1b3d4f7244440ddca4287a1e02b82dfe09af028ca1a578fe8bb2886236b",
+ "chars": 13301,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/aouniJabir-002/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/aouniJabir-002/transcript.txt",
+   "sha256": "1aab5a958cb539d8c9106dc8d7a8fd878caf8182175ebeaccde96772d7326d26",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/aouni/jabir/002_zL2JVAGsooM.txt",
+   "sha256": "1aab5a958cb539d8c9106dc8d7a8fd878caf8182175ebeaccde96772d7326d26",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/aouni-jabir/002.txt",
+   "sha256": "1aab5a958cb539d8c9106dc8d7a8fd878caf8182175ebeaccde96772d7326d26",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

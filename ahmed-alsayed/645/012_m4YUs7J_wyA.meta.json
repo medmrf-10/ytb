@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:m4YUs7J_wyA",
+ "vid": "m4YUs7J_wyA",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--645",
+ "n": 12,
+ "n_src": "mutfile",
+ "title": "أسئلة الواقع وتحديات الصعود القادم ｜ التجارب الإصلاحية في العصر الحديث 12",
+ "title_src": "filename",
+ "sha256": "0fee26914d59077513d0d1453fb1a2187b8de8612554aaa9e750c2a9624da8de",
+ "nh": "c293d2dc473e651dd40367bc01b3813daa2167e89fd0475a5d208775d7c82f35",
+ "chars": 36241,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/645/012_أسئلة الواقع وتحديات الصعود القادم ｜ التجارب الإصلاحية في العصر الحديث 12.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/645/012_أسئلة الواقع وتحديات الصعود القادم ｜ التجارب الإصلاحية في العصر الحديث 12.txt",
+   "sha256": "0fee26914d59077513d0d1453fb1a2187b8de8612554aaa9e750c2a9624da8de",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/tajaribI9la7iya-012/transcript.txt",
+   "sha256": "532deb9553b53f39a996716ab74e138feb6c41331539219b6c57fec880ff3d74",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-645/012.txt",
+   "sha256": "532deb9553b53f39a996716ab74e138feb6c41331539219b6c57fec880ff3d74",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

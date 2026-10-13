@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:RcmlKSl6_w8",
+ "vid": "RcmlKSl6_w8",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--782",
+ "n": 11,
+ "n_src": "read",
+ "title": "(11) نون الوقاية + العلم ⧸ شرح ابن عقيل ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "f7648327f59edea05919d1aa42e9dc0971bd33cee90985f0cc00d528b072a088",
+ "nh": "ee09ba02df2317b59b4621a11e0966056a31c852d950799be520c1bcd6941cc2",
+ "chars": 15263,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/782/011_(11) نون الوقاية + العلم ⧸ شرح ابن عقيل ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/782/011_(11) نون الوقاية + العلم ⧸ شرح ابن عقيل ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "f7648327f59edea05919d1aa42e9dc0971bd33cee90985f0cc00d528b072a088",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/782/10.txt",
+   "sha256": "f7648327f59edea05919d1aa42e9dc0971bd33cee90985f0cc00d528b072a088",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

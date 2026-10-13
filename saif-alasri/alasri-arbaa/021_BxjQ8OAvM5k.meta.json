@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:BxjQ8OAvM5k",
+ "vid": "BxjQ8OAvM5k",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 21,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / اضطراب الفتاوى - نَظَرٌ فى الأسباب / د. سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "d307b86770be66d605ea6f7656c5afd3bdf5c15c47021946048c45ea92f0d7b1",
+ "nh": "5040c23ef7f04a6c5617567cbcb3d47948d5ad62dde6365e8ee73e642364c1bc",
+ "chars": 29017,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-021/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-021/transcript.txt",
+   "sha256": "d307b86770be66d605ea6f7656c5afd3bdf5c15c47021946048c45ea92f0d7b1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/021_BxjQ8OAvM5k.txt",
+   "sha256": "d307b86770be66d605ea6f7656c5afd3bdf5c15c47021946048c45ea92f0d7b1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/021.txt",
+   "sha256": "d307b86770be66d605ea6f7656c5afd3bdf5c15c47021946048c45ea92f0d7b1",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

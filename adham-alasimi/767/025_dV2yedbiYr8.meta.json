@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:dV2yedbiYr8",
+ "vid": "dV2yedbiYr8",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--767",
+ "n": 25,
+ "n_src": "read",
+ "title": "(25) المنادى ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "5f463463a463a1842866f40fbf12e5c904cb068ed2d53c9760352a5758aeffcd",
+ "nh": "d3195b9b6ea20cf3e283ef17fd129f35b58529f3c1853bda8622c0057ce46802",
+ "chars": 15819,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/767/025_(25) المنادى ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/767/025_(25) المنادى ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "5f463463a463a1842866f40fbf12e5c904cb068ed2d53c9760352a5758aeffcd",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/767/24.txt",
+   "sha256": "5f463463a463a1842866f40fbf12e5c904cb068ed2d53c9760352a5758aeffcd",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

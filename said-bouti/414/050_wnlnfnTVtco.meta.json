@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "yt:wnlnfnTVtco",
+ "vid": "wnlnfnTVtco",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--414",
+ "n": 50,
+ "n_src": "read",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 50",
+ "title_src": "filename",
+ "sha256": "4018d919e498c28d6c00ced1afae740319639892c9f5a749b6f3215dcb51d02d",
+ "nh": "cac9bbf9b8d13f9d66860ea40f32ea3faa9fe1634da2eba6f071367d0b683c06",
+ "chars": 13290,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/050_تفسير القرآن الكريم للدكتور البوطي - الدرس 50.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/050_تفسير القرآن الكريم للدكتور البوطي - الدرس 50.txt",
+   "sha256": "4018d919e498c28d6c00ced1afae740319639892c9f5a749b6f3215dcb51d02d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/050.txt",
+   "sha256": "0430f8e0bd68c727b025bab4a9f3aebfb65e868b243827d1ede02ff4063434b3",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/414/23.txt",
+   "sha256": "4018d919e498c28d6c00ced1afae740319639892c9f5a749b6f3215dcb51d02d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "said-bouti--bouti-414"
+ ]
+}

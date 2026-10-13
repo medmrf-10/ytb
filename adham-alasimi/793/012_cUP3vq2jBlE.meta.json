@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:cUP3vq2jBlE",
+ "vid": "cUP3vq2jBlE",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--793",
+ "n": 12,
+ "n_src": "read",
+ "title": "(12) القدرة والإرادة ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "3d331cdde55cc4d21325bb18d424f071d0a681e6454c8d9073b31f3d040c303c",
+ "nh": "4c6c4d108f38ef6679fac1555704862895e602177d3a7a0061609e84777b4bca",
+ "chars": 24485,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/793/012_(12) القدرة والإرادة ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/793/012_(12) القدرة والإرادة ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "3d331cdde55cc4d21325bb18d424f071d0a681e6454c8d9073b31f3d040c303c",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/793/11.txt",
+   "sha256": "3d331cdde55cc4d21325bb18d424f071d0a681e6454c8d9073b31f3d040c303c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

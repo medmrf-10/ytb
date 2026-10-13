@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:dUgVYoASonk",
+ "vid": "dUgVYoASonk",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 57,
+ "n_src": "plpos",
+ "title": "والله أعلم | الدكتور علي جمعة يوضح المعنى الحقيقي للجهاد وكيفية الرجوع لسنة النبي | الحلقة الكاملة",
+ "title_src": "yt_titles",
+ "sha256": "73bea729d40f8f44023f6dae2a1252a9efc26d7686cfb54eea6fa89550fa353f",
+ "nh": "2843a85bb2113cf31046786fe9c633a5bd3d6efa8aed82369c53da91bb58587f",
+ "chars": 25009,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/057_والله أعلم ｜ الدكتور علي جمعة يوضح المعنى الحقيقي للجهاد وكيفية الرجوع لسنة النب.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/057_والله أعلم ｜ الدكتور علي جمعة يوضح المعنى الحقيقي للجهاد وكيفية الرجوع لسنة النب.txt",
+   "sha256": "73bea729d40f8f44023f6dae2a1252a9efc26d7686cfb54eea6fa89550fa353f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/057_والله أعلم ｜ الدكتور علي جمعة يوضح المعنى الحقيقي للجهاد وكيفية الرجوع لسنة النب.txt",
+   "sha256": "73bea729d40f8f44023f6dae2a1252a9efc26d7686cfb54eea6fa89550fa353f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/057.txt",
+   "sha256": "f3a64528df957e7010b5b62f33d48678f777b87b54bd88a1c6691453e6a9643d",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "yt:q3xeK8QlmD4",
+ "vid": "q3xeK8QlmD4",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--bardouni-mut-985",
+ "n": 2,
+ "n_src": "read",
+ "title": "شرح المنهج المنتخب ｜ دس82 ( ق135كل ما أدى ثبوته إلى نفيه فنفيه أولى) ｜ الشيخ ال",
+ "title_src": "filename",
+ "sha256": "d848337130af4811487b24a2c7b4e08fbf0d0b131182079a096836eb1499ba71",
+ "nh": "59c40716aca93d972c09be33ffa54fb60cc9f2d68ae08fc07f42cf42284c47f3",
+ "chars": 9799,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/985/002_شرح المنهج  المنتخب ｜ دس82 ( ق135كل ما أدى ثبوته إلى نفيه فنفيه أولى) ｜ الشيخ ال.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/985/002_شرح المنهج  المنتخب ｜ دس82 ( ق135كل ما أدى ثبوته إلى نفيه فنفيه أولى) ｜ الشيخ ال.txt",
+   "sha256": "d848337130af4811487b24a2c7b4e08fbf0d0b131182079a096836eb1499ba71",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bardouni/mut-985/002_شرح المنهج  المنتخب ｜ دس82 ( ق135كل ما أدى ثبوته إلى نفيه فنفيه أولى) ｜ الشيخ ال.txt",
+   "sha256": "d848337130af4811487b24a2c7b4e08fbf0d0b131182079a096836eb1499ba71",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/37/164.txt",
+   "sha256": "d848337130af4811487b24a2c7b4e08fbf0d0b131182079a096836eb1499ba71",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "mouloud-sariri--37"
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:UDknaZekSLU",
+ "vid": "UDknaZekSLU",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--345",
+ "n": 18,
+ "n_src": "plpos",
+ "title": "18- مشاهد وعبر من القرآن والسنة | مفاتح الغيب",
+ "title_src": "yt_titles",
+ "sha256": "7d77ed1bcfae68979779d31bf9d67653ec73e2a11c41af0024e36540995b8b9f",
+ "nh": "d052140567c1bbe5da8636c8bcc95eaf7f2fd911fa985537d7e67b88ea6fb8cf",
+ "chars": 14471,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/345/018_18- مشاهد وعبر من القرآن والسنة ｜ مفاتح الغيب.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/345/018_18- مشاهد وعبر من القرآن والسنة ｜ مفاتح الغيب.txt",
+   "sha256": "7d77ed1bcfae68979779d31bf9d67653ec73e2a11c41af0024e36540995b8b9f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-mashahid/18.txt",
+   "sha256": "838504e2550e0fbdb0f3ab01e74c398b693c3dc53afc23ec41662207bc96b62a",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/345/17.txt",
+   "sha256": "7d77ed1bcfae68979779d31bf9d67653ec73e2a11c41af0024e36540995b8b9f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

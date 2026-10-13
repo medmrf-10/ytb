@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:hWBm5kdBRFY",
+ "vid": "hWBm5kdBRFY",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 84,
+ "n_src": "read",
+ "title": "خطب منبرية ： ＂ حقوق المسجد ＂ ⧸ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "cf5a43bf1b68c4ab3fff92f2e65ffeb87c4e803e1a300e06a21fe5eecd33a093",
+ "nh": "0e7e0d7dca580d806f1703911e4c06b308d84290b68c7e5a0feb3ce902d10056",
+ "chars": 8949,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/084_خطب منبرية ： ＂ حقوق المسجد ＂ ⧸ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/084_خطب منبرية ： ＂ حقوق المسجد ＂ ⧸ الشيخ العلامة مولود السريري.txt",
+   "sha256": "cf5a43bf1b68c4ab3fff92f2e65ffeb87c4e803e1a300e06a21fe5eecd33a093",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/83.txt",
+   "sha256": "cf5a43bf1b68c4ab3fff92f2e65ffeb87c4e803e1a300e06a21fe5eecd33a093",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

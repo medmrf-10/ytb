@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:t6eoBPh3J4U",
+ "vid": "t6eoBPh3J4U",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 29,
+ "n_src": "read",
+ "title": "شرح مختصر خليل： العلامة الفقيه مولود السريري⧸المحاضرة 139 (الأفعال المغتفرة في ا",
+ "title_src": "filename",
+ "sha256": "ac738977079c445960b237758cf9c6a1e5ab2e700fee4d065a336cd266311e6a",
+ "nh": "87aa675f1d7cd5abcc6da09d2acffde3852d4d0e2f4bb13d339d53cfecfe8dca",
+ "chars": 41955,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/029_شرح مختصر خليل： العلامة الفقيه مولود السريري⧸المحاضرة 139 (الأفعال المغتفرة في ا.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/029_شرح مختصر خليل： العلامة الفقيه مولود السريري⧸المحاضرة 139 (الأفعال المغتفرة في ا.txt",
+   "sha256": "ac738977079c445960b237758cf9c6a1e5ab2e700fee4d065a336cd266311e6a",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/174.txt",
+   "sha256": "ac738977079c445960b237758cf9c6a1e5ab2e700fee4d065a336cd266311e6a",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

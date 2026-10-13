@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:no35dBlFG0s",
+ "vid": "no35dBlFG0s",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 54,
+ "n_src": "read",
+ "title": "خطب منبرية： تأثير الأفعال على الباطن ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "e6393ece0f399ac52024f320f9189af0fd3c3c3370fce511a1c5d160591cfe9d",
+ "nh": "e17cd92cd946226784fd306ccb6b9f1d71053c34f395ec0819835440ad1c9464",
+ "chars": 7370,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/054_خطب منبرية： تأثير الأفعال على الباطن ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/054_خطب منبرية： تأثير الأفعال على الباطن ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "e6393ece0f399ac52024f320f9189af0fd3c3c3370fce511a1c5d160591cfe9d",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/53.txt",
+   "sha256": "e6393ece0f399ac52024f320f9189af0fd3c3c3370fce511a1c5d160591cfe9d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

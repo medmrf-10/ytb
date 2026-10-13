@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:z2fLSiVH54s",
+ "vid": "z2fLSiVH54s",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 10,
+ "n_src": "trfile",
+ "title": "عقيدة الحافظ ابن عبد البر القرطبي المتوفى سنة ٤٦٣ ه‍ / د.سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "47957f74bd025068de30b871165109687c769090e69f48afcbdaaddf9bbddc28",
+ "nh": "d3c3e1ecaf85a34a1da6491493f03157699eb308fc680c235078d2162d692078",
+ "chars": 21804,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-010/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-010/transcript.txt",
+   "sha256": "47957f74bd025068de30b871165109687c769090e69f48afcbdaaddf9bbddc28",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/010_z2fLSiVH54s.txt",
+   "sha256": "47957f74bd025068de30b871165109687c769090e69f48afcbdaaddf9bbddc28",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/010.txt",
+   "sha256": "47957f74bd025068de30b871165109687c769090e69f48afcbdaaddf9bbddc28",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

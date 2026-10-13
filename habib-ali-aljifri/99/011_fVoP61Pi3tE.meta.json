@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:fVoP61Pi3tE",
+ "vid": "fVoP61Pi3tE",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--99",
+ "n": 11,
+ "n_src": "read",
+ "title": "10： صلة الدين بالأخلاق ｜ #الشجرة الطيبة ｜ #الحبيب علي الجفري",
+ "title_src": "filename",
+ "sha256": "24e48d530a9ef325c61fdefd3153dd703b17764b4f41d8d7c962722553d82c40",
+ "nh": "1bd598fe090238201ebd398a5576c29fd88f04689869b20a9bb2f38f7f1c09a1",
+ "chars": 23613,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/99/011_10： صلة الدين بالأخلاق ｜ #الشجرة_الطيبة ｜ #الحبيب_علي_الجفري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/99/011_10： صلة الدين بالأخلاق ｜ #الشجرة_الطيبة ｜ #الحبيب_علي_الجفري.txt",
+   "sha256": "24e48d530a9ef325c61fdefd3153dd703b17764b4f41d8d7c962722553d82c40",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/99/5.txt",
+   "sha256": "24e48d530a9ef325c61fdefd3153dd703b17764b4f41d8d7c962722553d82c40",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

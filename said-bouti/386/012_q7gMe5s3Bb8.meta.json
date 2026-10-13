@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:q7gMe5s3Bb8",
+ "vid": "q7gMe5s3Bb8",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 12,
+ "n_src": "read",
+ "title": "الحكم العطائية للإمام البوطي ｜ الدرس 12 - الحكمة 6",
+ "title_src": "filename",
+ "sha256": "2de3213021990ea9cea90f81c0b9d7f5fb576d30e0c45381ebf1c08b3377a1ea",
+ "nh": "22ef290b04943f362e7cf0a644e582144fdf3c3e35d8045ac7f373e71d88bfb5",
+ "chars": 19032,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/012_الحكم العطائية للإمام البوطي ｜ الدرس 12  - الحكمة 6.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/012_الحكم العطائية للإمام البوطي ｜ الدرس 12  - الحكمة 6.txt",
+   "sha256": "2de3213021990ea9cea90f81c0b9d7f5fb576d30e0c45381ebf1c08b3377a1ea",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/hikam/012_الحكم العطائية للإمام البوطي ｜ الدرس 12  - الحكمة 6.txt",
+   "sha256": "2de3213021990ea9cea90f81c0b9d7f5fb576d30e0c45381ebf1c08b3377a1ea",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/012_الحكم العطائية للإمام البوطي ｜ الدرس 12  - الحكمة 6.txt",
+   "sha256": "2de3213021990ea9cea90f81c0b9d7f5fb576d30e0c45381ebf1c08b3377a1ea",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/386/11.txt",
+   "sha256": "2de3213021990ea9cea90f81c0b9d7f5fb576d30e0c45381ebf1c08b3377a1ea",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

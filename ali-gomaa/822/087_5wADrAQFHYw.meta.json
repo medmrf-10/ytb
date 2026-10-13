@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:5wADrAQFHYw",
+ "vid": "5wADrAQFHYw",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 87,
+ "n_src": "plpos",
+ "title": "حديث الجمعة | تفسير حديث \"إن الله يبعث لهذه الأمة على رأس كل مائة سنة من يجدد لها دينها\"",
+ "title_src": "yt_titles",
+ "sha256": "c666089c4bb7dadea832cbe81287ce34dd98da46e7659d0b096b95dfb4367eb3",
+ "nh": "44fd7c5ff7558aebd839d150582520e37319512a6f2572f783bc66bb5e1684da",
+ "chars": 8759,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/087_حديث الجمعة ｜ تفسير حديث ＂إن الله يبعث لهذه الأمة على رأس كل مائة سنة من يجدد له.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/087_حديث الجمعة ｜ تفسير حديث ＂إن الله يبعث لهذه الأمة على رأس كل مائة سنة من يجدد له.txt",
+   "sha256": "c666089c4bb7dadea832cbe81287ce34dd98da46e7659d0b096b95dfb4367eb3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/087_حديث الجمعة ｜ تفسير حديث ＂إن الله يبعث لهذه الأمة على رأس كل مائة سنة من يجدد له.txt",
+   "sha256": "c666089c4bb7dadea832cbe81287ce34dd98da46e7659d0b096b95dfb4367eb3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/087.txt",
+   "sha256": "40b4a9569a65245c22e2ef4efff8c7d06e90f9ff41af7335d02f5676dc9f1669",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:JGmCGL_WDNY",
+ "vid": "JGmCGL_WDNY",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--alsayed-mut-738",
+ "n": 21,
+ "n_src": "trfile",
+ "title": "سيرة رسول الله ﷺ 20 ｜ قيادة جعفر لمهاجري الحبشة وأثر التربية النبوية في ثباتهم ｜",
+ "title_src": "filename",
+ "sha256": "c13ac04b432595f9690cf1319dd3e7317fc7ec1c8705a6a49b7823d00c28fc2e",
+ "nh": "5e41361fe4da48843b2e5c80172a365e794d0c08e0fadf7d7a0d0e91aa0a88e9",
+ "chars": 55399,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/alsayed/mut-738/021_سيرة رسول الله ﷺ 20 ｜ قيادة جعفر لمهاجري الحبشة وأثر التربية النبوية في ثباتهم ｜.txt",
+  "commit_ts": 1791841974,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alsayed/mut-738/021_سيرة رسول الله ﷺ 20 ｜ قيادة جعفر لمهاجري الحبشة وأثر التربية النبوية في ثباتهم ｜.txt",
+   "sha256": "c13ac04b432595f9690cf1319dd3e7317fc7ec1c8705a6a49b7823d00c28fc2e",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-738/021.txt",
+   "sha256": "9cf55fc89747ff26aabb8409450a99901f1129801c2533145ecebf0f6388cdb2",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

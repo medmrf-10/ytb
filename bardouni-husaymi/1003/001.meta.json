@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:1",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 1,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 124 ( باب في اللعان ) ｜ الشيخ محمد البردوني",
+ "title_src": "filename",
+ "sha256": "6dd1be40fbb96bc4d4ab3990dd51da9353a178e31584ae931162ba6ef8a75447",
+ "nh": "2226acd97fc85fac6fc27d84cb4311f92e059319a6025183f097cd390633a9b9",
+ "chars": 10312,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/001_شرح رسالة ابن ابي زيد ｜ الدرس 124 ( باب في اللعان ) ｜ الشيخ محمد البردوني.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/001_شرح رسالة ابن ابي زيد ｜ الدرس 124 ( باب في اللعان ) ｜ الشيخ محمد البردوني.txt",
+   "sha256": "6dd1be40fbb96bc4d4ab3990dd51da9353a178e31584ae931162ba6ef8a75447",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/125.txt",
+   "sha256": "6dd1be40fbb96bc4d4ab3990dd51da9353a178e31584ae931162ba6ef8a75447",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:LFvmiLNGGVQ",
+ "vid": "LFvmiLNGGVQ",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--793",
+ "n": 15,
+ "n_src": "read",
+ "title": "(15) الجائز في حقه تعالى ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "e8b5d87d453b5e4888dac9bb5628957cdb9f9a542ad5d8a0ff90e00ddf7e25ca",
+ "nh": "ae8492160f7ba37d8fe918b2d7105c02dbeab470ee270b4721948526c8206ee0",
+ "chars": 23826,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/793/015_(15) الجائز في حقه تعالى ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/793/015_(15) الجائز في حقه تعالى ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "e8b5d87d453b5e4888dac9bb5628957cdb9f9a542ad5d8a0ff90e00ddf7e25ca",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/793/14.txt",
+   "sha256": "e8b5d87d453b5e4888dac9bb5628957cdb9f9a542ad5d8a0ff90e00ddf7e25ca",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

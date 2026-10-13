@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:3G_Lz_Y4RRE",
+ "vid": "3G_Lz_Y4RRE",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--346",
+ "n": 1,
+ "n_src": "plpos",
+ "title": "برومو برنامج رحلة الخلود",
+ "title_src": "yt_titles",
+ "sha256": "96f9a5ef4547990c54d07e500cdd45e7d7589e8fae7c812543c1e93554fc4097",
+ "nh": "d9b0276b909057acd11e1f8c4c853f989fde2734f2e6bca5ab741f663126de0b",
+ "chars": 973,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/346/001_برومو برنامج رحلة الخلود.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/346/001_برومو برنامج رحلة الخلود.txt",
+   "sha256": "96f9a5ef4547990c54d07e500cdd45e7d7589e8fae7c812543c1e93554fc4097",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/ri7latEl5oloud-001/transcript.txt",
+   "sha256": "4162c25755cf9bd16299ca7ab10b1f72489113ead42ceacfc35fc8b35e9e7cf1",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-rihla/01.txt",
+   "sha256": "4162c25755cf9bd16299ca7ab10b1f72489113ead42ceacfc35fc8b35e9e7cf1",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/346/0.txt",
+   "sha256": "96f9a5ef4547990c54d07e500cdd45e7d7589e8fae7c812543c1e93554fc4097",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

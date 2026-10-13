@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:62",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 62,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 64 ( قوله ＂ إنما الكفارة على من أفطر متعمدا ＂ )",
+ "title_src": "filename",
+ "sha256": "99df3676e9b273a8322f8e6cdd43d22174a032fff071453d2ad70d5cfd8ad445",
+ "nh": "7235401a3b28aed54e17bd7c327feb3ae8af1808a8d75319e445d29c8f958ff5",
+ "chars": 16715,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/062_شرح رسالة ابن ابي زيد ｜ الدرس 64 (  قوله ＂ إنما الكفارة على من أفطر متعمدا ＂  ) .txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/062_شرح رسالة ابن ابي زيد ｜ الدرس 64 (  قوله ＂ إنما الكفارة على من أفطر متعمدا ＂  ) .txt",
+   "sha256": "99df3676e9b273a8322f8e6cdd43d22174a032fff071453d2ad70d5cfd8ad445",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/64.txt",
+   "sha256": "99df3676e9b273a8322f8e6cdd43d22174a032fff071453d2ad70d5cfd8ad445",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

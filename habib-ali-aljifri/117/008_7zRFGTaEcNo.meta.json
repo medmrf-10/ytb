@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:7zRFGTaEcNo",
+ "vid": "7zRFGTaEcNo",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--117",
+ "n": 8,
+ "n_src": "read",
+ "title": "حلقة 8 - مفهوم الآخر الذي بداخلك - سلسلة الإنسانية قبل التدين",
+ "title_src": "filename",
+ "sha256": "8392d255abb95667daf270d0eb8e65dd8bc5d90c3e92e42ddfb7678f924de8af",
+ "nh": "5bf80da37b1cb6a069a1a9bed3320547e12425537f39b95272024efd7a69ad78",
+ "chars": 1639,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/117/008_حلقة 8 - مفهوم الآخر الذي بداخلك - سلسلة الإنسانية قبل التدين.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/117/008_حلقة 8 - مفهوم الآخر الذي بداخلك - سلسلة الإنسانية قبل التدين.txt",
+   "sha256": "8392d255abb95667daf270d0eb8e65dd8bc5d90c3e92e42ddfb7678f924de8af",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/insaniyya/20.txt",
+   "sha256": "8392d255abb95667daf270d0eb8e65dd8bc5d90c3e92e42ddfb7678f924de8af",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/112/20.txt",
+   "sha256": "8392d255abb95667daf270d0eb8e65dd8bc5d90c3e92e42ddfb7678f924de8af",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-ali-aljifri--112",
+  "k:117"
+ ]
+}

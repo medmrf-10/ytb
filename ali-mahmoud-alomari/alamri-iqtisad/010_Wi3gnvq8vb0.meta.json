@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:Wi3gnvq8vb0",
+ "vid": "Wi3gnvq8vb0",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+ "n": 10,
+ "n_src": "trfile",
+ "title": "الدَّرس العاشر_ القطب الأول_ الدَّعوى السَّادسة وبداية السَّابعة",
+ "title_src": "yt_titles",
+ "sha256": "ab15fbca8e1c8b2370c433bff20c5d086ddd02748716b5ec663479a6e4671ca4",
+ "nh": "a831228fad7b9a63085ba279653bd8135dd4613ec42fb219643cf2df000eb349",
+ "chars": 38436,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriIqtisad-010/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriIqtisad-010/transcript.txt",
+   "sha256": "ab15fbca8e1c8b2370c433bff20c5d086ddd02748716b5ec663479a6e4671ca4",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-10_AlAmri.txt",
+   "sha256": "ab15fbca8e1c8b2370c433bff20c5d086ddd02748716b5ec663479a6e4671ca4",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-iqtisad/10.txt",
+   "sha256": "ab15fbca8e1c8b2370c433bff20c5d086ddd02748716b5ec663479a6e4671ca4",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:BCF9ve6IVMA",
+ "vid": "BCF9ve6IVMA",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 74,
+ "n_src": "read",
+ "title": "خطب منبرية： أثر التربية الغربية في إفساد الأسر ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "cf6659ef83a4f42134f1d602499e218d40ac887b17419c9ccce53252a73453cc",
+ "nh": "6478410aa39d81bbb671d98bb2b5ce42d65a8d74025eb41d1ff131b1ebcd47f3",
+ "chars": 9326,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/074_خطب منبرية： أثر التربية الغربية في إفساد الأسر ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/074_خطب منبرية： أثر التربية الغربية في إفساد الأسر ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "cf6659ef83a4f42134f1d602499e218d40ac887b17419c9ccce53252a73453cc",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/73.txt",
+   "sha256": "cf6659ef83a4f42134f1d602499e218d40ac887b17419c9ccce53252a73453cc",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

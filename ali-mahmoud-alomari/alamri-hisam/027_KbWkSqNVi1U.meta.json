@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:KbWkSqNVi1U",
+ "vid": "KbWkSqNVi1U",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-hisam",
+ "n": 27,
+ "n_src": "trfile",
+ "title": "( 3 )ج٣ شرح الحسام الكاتي....... العرض والخاصة",
+ "title_src": "yt_titles",
+ "sha256": "5219f69ca7e03ef9e446f8dc803604c33db50fa5186360df16459f0cb6748b30",
+ "nh": "972f01522b50919cb86c182fe6d7fdf4f7a3f5aefff973b3042d0b864d5d5212",
+ "chars": 8245,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriHisam-027/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriHisam-027/transcript.txt",
+   "sha256": "5219f69ca7e03ef9e446f8dc803604c33db50fa5186360df16459f0cb6748b30",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/hisam/hisam-27_AlAmri.txt",
+   "sha256": "5219f69ca7e03ef9e446f8dc803604c33db50fa5186360df16459f0cb6748b30",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-hisam/27.txt",
+   "sha256": "5219f69ca7e03ef9e446f8dc803604c33db50fa5186360df16459f0cb6748b30",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

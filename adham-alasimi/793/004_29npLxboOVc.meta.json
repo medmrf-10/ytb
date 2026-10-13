@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:29npLxboOVc",
+ "vid": "29npLxboOVc",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--793",
+ "n": 4,
+ "n_src": "read",
+ "title": "(4) المعرفة والتقليد ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "9a47850d50c2b29b1dcbe136c23f7ab3f728ca2cde7fdf18c24157e3830e95c4",
+ "nh": "8a5e5abe643c6f608c329f3e0dce0ace22f48cb225dfad4fab830415191357a9",
+ "chars": 29693,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/793/004_(4) المعرفة والتقليد ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/793/004_(4) المعرفة والتقليد ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "9a47850d50c2b29b1dcbe136c23f7ab3f728ca2cde7fdf18c24157e3830e95c4",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/793/3.txt",
+   "sha256": "9a47850d50c2b29b1dcbe136c23f7ab3f728ca2cde7fdf18c24157e3830e95c4",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

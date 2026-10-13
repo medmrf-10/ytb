@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:L1EYvwxf19k",
+ "vid": "L1EYvwxf19k",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--783",
+ "n": 23,
+ "n_src": "read",
+ "title": "(23) الدرس الثالث و العشرون ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "4c3125f51259cb51d21f542626c1fa2a09a77a6756995ce1afae797c4b4c14fe",
+ "nh": "f31fd8c50d2ddff99ab3703b255352b0ed78a7ba66706044cdb2734875cc7383",
+ "chars": 15451,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/783/023_(23) الدرس الثالث و العشرون ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/783/023_(23) الدرس الثالث و العشرون ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "4c3125f51259cb51d21f542626c1fa2a09a77a6756995ce1afae797c4b4c14fe",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/783/22.txt",
+   "sha256": "4c3125f51259cb51d21f542626c1fa2a09a77a6756995ce1afae797c4b4c14fe",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

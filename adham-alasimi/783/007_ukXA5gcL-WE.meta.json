@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:ukXA5gcL-WE",
+ "vid": "ukXA5gcL-WE",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--783",
+ "n": 7,
+ "n_src": "read",
+ "title": "(7) الدرس السابع ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "4d6a776447b9ee585fbf1fdd23384f1ce28305b6822920e208d1d3885f412947",
+ "nh": "f8c76b926debcad20900bfc3a613efc9725749e6a5efc0abc3a1449f0b9cb600",
+ "chars": 12289,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/783/007_(7) الدرس السابع ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/783/007_(7) الدرس السابع ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "4d6a776447b9ee585fbf1fdd23384f1ce28305b6822920e208d1d3885f412947",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/783/6.txt",
+   "sha256": "4d6a776447b9ee585fbf1fdd23384f1ce28305b6822920e208d1d3885f412947",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

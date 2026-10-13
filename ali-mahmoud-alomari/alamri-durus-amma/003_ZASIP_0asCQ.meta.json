@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:ZASIP_0asCQ",
+ "vid": "ZASIP_0asCQ",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-durus-amma",
+ "n": 3,
+ "n_src": "trfile",
+ "title": "الدرس 3",
+ "title_src": "filename",
+ "sha256": "5de2ef60a92846d621ef2291a65b526e61edd7130d3d04d3c6405254bbf2fa14",
+ "nh": "38696b013f4520cccb99bf9b88739c44cb2f7863c3c551f14dd0b72652fad5b6",
+ "chars": 19631,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriDurusAmma-003/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriDurusAmma-003/transcript.txt",
+   "sha256": "5de2ef60a92846d621ef2291a65b526e61edd7130d3d04d3c6405254bbf2fa14",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/durus-amma/durus-amma-03_AlAmri.txt",
+   "sha256": "5de2ef60a92846d621ef2291a65b526e61edd7130d3d04d3c6405254bbf2fa14",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-durus-amma/03.txt",
+   "sha256": "5de2ef60a92846d621ef2291a65b526e61edd7130d3d04d3c6405254bbf2fa14",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:3ucgceroWQk",
+ "vid": "3ucgceroWQk",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--403",
+ "n": 33,
+ "n_src": "plpos",
+ "title": "31- فقه السيرة النبوية | غزوة بني المصطلق(المريسيع) (1)",
+ "title_src": "yt_titles",
+ "sha256": "c8ec1e376164df0c9a04e9e3a2858b9cc31da939d0adb2b326bed705888c94ef",
+ "nh": "8116d90973e016a7f35d5a9c76a2238191511fc6f72dbaa791953afa8d35fb13",
+ "chars": 22860,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/403/033_31- فقه السيرة النبوية ｜ غزوة بني المصطلق(المريسيع) (1).txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/403/033_31- فقه السيرة النبوية ｜ غزوة بني المصطلق(المريسيع) (1).txt",
+   "sha256": "c8ec1e376164df0c9a04e9e3a2858b9cc31da939d0adb2b326bed705888c94ef",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fi9hElsirah-033/transcript.txt",
+   "sha256": "5cfd2e4b31544ff7d89e234fd2511f4b71313369511501e4593e845d8156ae6f",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-sira/33.txt",
+   "sha256": "5cfd2e4b31544ff7d89e234fd2511f4b71313369511501e4593e845d8156ae6f",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

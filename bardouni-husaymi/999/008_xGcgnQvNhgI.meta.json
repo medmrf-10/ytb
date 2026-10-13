@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:xGcgnQvNhgI",
+ "vid": "xGcgnQvNhgI",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--999",
+ "n": 8,
+ "n_src": "read",
+ "title": "شرح البناني على السلم ｜ الدرس 11 ( أنواع الدلالة الوضعية-تتمة- ) ｜ الشيخ محمد",
+ "title_src": "filename",
+ "sha256": "4057c68427938466c32529543069257e96f6a9bac5f0b7c4e4a5c07f8908f703",
+ "nh": "f364b4a48a5706212763e24bb6e1fe5ff2ac48ef2ac774310211d0ab9bcb0916",
+ "chars": 20002,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/999/008_شرح البناني على السلم  ｜ الدرس 11 (  أنواع الدلالة الوضعية-تتمة- ) ｜ الشيخ محمد .txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/999/008_شرح البناني على السلم  ｜ الدرس 11 (  أنواع الدلالة الوضعية-تتمة- ) ｜ الشيخ محمد .txt",
+   "sha256": "4057c68427938466c32529543069257e96f6a9bac5f0b7c4e4a5c07f8908f703",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/999/10.txt",
+   "sha256": "4057c68427938466c32529543069257e96f6a9bac5f0b7c4e4a5c07f8908f703",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:mIUiJolDZdY",
+ "vid": "mIUiJolDZdY",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 37,
+ "n_src": "read",
+ "title": "خطب منبرية： ＂ ثمرات المحبة ＂ ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "2293a0f156929669828b2fa10f614a75d5f218d64fba708ede647163c5dd3c2d",
+ "nh": "f393806729636bf2d4c8249163c8b6f404cc3fef0e91dad9266f4a712dbb235f",
+ "chars": 5782,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/037_خطب منبرية： ＂ ثمرات المحبة ＂ ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/037_خطب منبرية： ＂ ثمرات المحبة ＂ ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "2293a0f156929669828b2fa10f614a75d5f218d64fba708ede647163c5dd3c2d",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/36.txt",
+   "sha256": "2293a0f156929669828b2fa10f614a75d5f218d64fba708ede647163c5dd3c2d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:yx8sZALoMQA",
+ "vid": "yx8sZALoMQA",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--117",
+ "n": 31,
+ "n_src": "read",
+ "title": "حلقة 30 - اللحية والجلباب - سلسلة الإنسانية قبل التدين",
+ "title_src": "filename",
+ "sha256": "3b492f66e4621ea6fe7f3de3ebd815353840b27bf64e282a46a0f3697491838d",
+ "nh": "08b682b0b45d9776d14a0b090219b9f5fba06d93bf94c1f91ccd562555a6c988",
+ "chars": 1619,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/117/031_حلقة 30 - اللحية والجلباب - سلسلة الإنسانية قبل التدين.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/117/031_حلقة 30 - اللحية والجلباب - سلسلة الإنسانية قبل التدين.txt",
+   "sha256": "3b492f66e4621ea6fe7f3de3ebd815353840b27bf64e282a46a0f3697491838d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/insaniyya/43.txt",
+   "sha256": "3b492f66e4621ea6fe7f3de3ebd815353840b27bf64e282a46a0f3697491838d",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/112/43.txt",
+   "sha256": "3b492f66e4621ea6fe7f3de3ebd815353840b27bf64e282a46a0f3697491838d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-ali-aljifri--112",
+  "k:117"
+ ]
+}

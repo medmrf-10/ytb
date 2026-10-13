@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:XFiTkbrbq7Y",
+ "vid": "XFiTkbrbq7Y",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 12,
+ "n_src": "read",
+ "title": "خطب منبرية ： أمراض القلوب ( الجزء الثالث ) ⧸ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "97de1fcb6a5ea453798590423c6814b898b7c28fe0e83a0c82ac36e12b03891d",
+ "nh": "3959765db19798ee619e26427794a75a24c0dc8cba608bd22d243641b4772564",
+ "chars": 10409,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/012_خطب منبرية ： أمراض القلوب ( الجزء الثالث ) ⧸ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/012_خطب منبرية ： أمراض القلوب ( الجزء الثالث ) ⧸ الشيخ العلامة مولود السريري.txt",
+   "sha256": "97de1fcb6a5ea453798590423c6814b898b7c28fe0e83a0c82ac36e12b03891d",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/11.txt",
+   "sha256": "97de1fcb6a5ea453798590423c6814b898b7c28fe0e83a0c82ac36e12b03891d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

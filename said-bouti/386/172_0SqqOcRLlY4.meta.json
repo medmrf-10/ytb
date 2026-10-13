@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:0SqqOcRLlY4",
+ "vid": "0SqqOcRLlY4",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 172,
+ "n_src": "read",
+ "title": "الحكم العطائية للإمام البوطي الدرس 63 - الحكمة 42 - 43",
+ "title_src": "filename",
+ "sha256": "d77bfca3542708174252c2880450e08019d4db3df894427a833ab76e06e6a8c3",
+ "nh": "adb843b2efec3d68256aaccb017f623e7a031f385fd98a36aad69096d474976b",
+ "chars": 16309,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/172_الحكم العطائية للإمام البوطي  الدرس 63  - الحكمة 42 - 43.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/172_الحكم العطائية للإمام البوطي  الدرس 63  - الحكمة 42 - 43.txt",
+   "sha256": "d77bfca3542708174252c2880450e08019d4db3df894427a833ab76e06e6a8c3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/172_الحكم العطائية للإمام البوطي  الدرس 63  - الحكمة 42 - 43.txt",
+   "sha256": "d77bfca3542708174252c2880450e08019d4db3df894427a833ab76e06e6a8c3",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:nrvrNetNKP8",
+ "vid": "nrvrNetNKP8",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--671",
+ "n": 2,
+ "n_src": "mutfile",
+ "title": "البناء التزكوي للجيل الصاعد ٠٢ ｜ وسائل التزكية ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "99497e7b3245cfa8f176bac1b64bec51b7349f2f4c471358160f2bc1042dfb63",
+ "nh": "07a3313c3f87b49e725e010256e90962b1777377a989d23e8c7fd346ca104388",
+ "chars": 27743,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/671/002_البناء التزكوي للجيل الصاعد ٠٢ ｜ وسائل التزكية ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/671/002_البناء التزكوي للجيل الصاعد ٠٢ ｜ وسائل التزكية ｜ أحمد السيد.txt",
+   "sha256": "99497e7b3245cfa8f176bac1b64bec51b7349f2f4c471358160f2bc1042dfb63",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/albina2Eltazkawi-002/transcript.txt",
+   "sha256": "203b4619dc0426d5f24322a2f00b20599fdc7ca31cfbba0c84f33d6e2bfc99f8",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-671/002.txt",
+   "sha256": "203b4619dc0426d5f24322a2f00b20599fdc7ca31cfbba0c84f33d6e2bfc99f8",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

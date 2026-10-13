@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:kINUd97QAAQ",
+ "vid": "kINUd97QAAQ",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--997",
+ "n": 9,
+ "n_src": "read",
+ "title": "شرح الحكم العطائية ｜ الدرس 9 ＂ الأعمال صور قائمة و أرواحها وجود السر الإخلاص فيه",
+ "title_src": "filename",
+ "sha256": "f6a92cb5cf4b0073119639ae70f83a99bff5923acf6a478167c6e3649c18efce",
+ "nh": "57905d9adfb6212562b19b48879cbe847edf2c45286c5e1843b9ce4319ab6689",
+ "chars": 9031,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/997/009_شرح الحكم العطائية ｜ الدرس 9 ＂ الأعمال صور قائمة و أرواحها وجود السر الإخلاص فيه.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/997/009_شرح الحكم العطائية ｜ الدرس 9 ＂ الأعمال صور قائمة و أرواحها وجود السر الإخلاص فيه.txt",
+   "sha256": "f6a92cb5cf4b0073119639ae70f83a99bff5923acf6a478167c6e3649c18efce",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/hikam-azhar/8.txt",
+   "sha256": "f6a92cb5cf4b0073119639ae70f83a99bff5923acf6a478167c6e3649c18efce",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/871/8.txt",
+   "sha256": "f6a92cb5cf4b0073119639ae70f83a99bff5923acf6a478167c6e3649c18efce",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "ali-gomaa--871",
+  "ali-gomaa--gomaa-hikam-azhar"
+ ]
+}

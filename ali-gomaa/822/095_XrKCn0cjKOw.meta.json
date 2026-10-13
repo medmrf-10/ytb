@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:XrKCn0cjKOw",
+ "vid": "XrKCn0cjKOw",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 95,
+ "n_src": "plpos",
+ "title": "#حديث_الجمعة | زمن الفتن .. كما تحدث عنه رسول الله",
+ "title_src": "yt_titles",
+ "sha256": "6ff8aab6047b19f3881987bd323dea83659a1b4fb6273903d8b42e13a73ba34f",
+ "nh": "0bc903b986a5d5615d88bae308ebb6d09beea2f946171a9d1f19780a73208cdf",
+ "chars": 8397,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/095_#حديث_الجمعة ｜ زمن الفتن .. كما تحدث عنه رسول الله.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/095_#حديث_الجمعة ｜ زمن الفتن .. كما تحدث عنه رسول الله.txt",
+   "sha256": "6ff8aab6047b19f3881987bd323dea83659a1b4fb6273903d8b42e13a73ba34f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/095_#حديث_الجمعة ｜ زمن الفتن .. كما تحدث عنه رسول الله.txt",
+   "sha256": "6ff8aab6047b19f3881987bd323dea83659a1b4fb6273903d8b42e13a73ba34f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/095.txt",
+   "sha256": "96acce1f2b5a67ea9bd77488144cadd65eeb8e437bf6df66c9e3a01174aaa7aa",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

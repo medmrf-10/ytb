@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:JRKrs9akkpE",
+ "vid": "JRKrs9akkpE",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 107,
+ "n_src": "plpos",
+ "title": "#حديث_الجمعة | أسس فهم الكتاب والسنة",
+ "title_src": "yt_titles",
+ "sha256": "e13e06422a0e0b3baa5852f3be15d410b7cfa56a012fd279b63c56efa05fcfce",
+ "nh": "8e9e90fb24eaebfcb4e084f75f81915c7335b7e704130def5a76eb92d8614c3c",
+ "chars": 10074,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/107_#حديث_الجمعة ｜ أسس فهم الكتاب والسنة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/107_#حديث_الجمعة ｜ أسس فهم الكتاب والسنة.txt",
+   "sha256": "e13e06422a0e0b3baa5852f3be15d410b7cfa56a012fd279b63c56efa05fcfce",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/107_#حديث_الجمعة ｜ أسس فهم الكتاب والسنة.txt",
+   "sha256": "e13e06422a0e0b3baa5852f3be15d410b7cfa56a012fd279b63c56efa05fcfce",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/107.txt",
+   "sha256": "28920eeef55e8196700114b85c5eb47872098c84fa0c41f5a847da1a91e1c175",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

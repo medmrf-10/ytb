@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:YqPVLdr7xZs",
+ "vid": "YqPVLdr7xZs",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 19,
+ "n_src": "plpos",
+ "title": "المتشددون | حـ 19 | سيد قطب ماله وما عليه جـ 6 | أ.د علي جمعة",
+ "title_src": "yt_titles",
+ "sha256": "48227b86672452e7422d49a26148dedd3caace921a8015f5202b7dc46d705514",
+ "nh": "5ae7c2953c3a9681bda763269dc280e588f7c35ea53ca86f0325489e5ed4a7ea",
+ "chars": 15231,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/019_المتشددون ｜ حـ 19 ｜ سيد قطب ماله وما عليه جـ 6 ｜ أ.د علي جمعة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/019_المتشددون ｜ حـ 19 ｜ سيد قطب ماله وما عليه جـ 6 ｜ أ.د علي جمعة.txt",
+   "sha256": "48227b86672452e7422d49a26148dedd3caace921a8015f5202b7dc46d705514",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/019_المتشددون ｜ حـ 19 ｜ سيد قطب ماله وما عليه جـ 6 ｜ أ.د علي جمعة.txt",
+   "sha256": "48227b86672452e7422d49a26148dedd3caace921a8015f5202b7dc46d705514",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/019.txt",
+   "sha256": "5aad0d96fc0605c7d3b9fba4e50b5960672f2ba64682548d1bd034b6904d01b0",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "yt:HCTUiVinB-k",
+ "vid": "HCTUiVinB-k",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--414",
+ "n": 45,
+ "n_src": "read",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 45",
+ "title_src": "filename",
+ "sha256": "813d8d4c73b9cfc7b30dd56ea31237451accde1a2870de5bb9c54180705a52c9",
+ "nh": "f2ab7112458deddd52972fb9c92fb028ff9cf87b1a2f89423cbfb36d56bc6fac",
+ "chars": 20392,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/045_تفسير القرآن الكريم للدكتور البوطي - الدرس 45.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/045_تفسير القرآن الكريم للدكتور البوطي - الدرس 45.txt",
+   "sha256": "813d8d4c73b9cfc7b30dd56ea31237451accde1a2870de5bb9c54180705a52c9",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/045.txt",
+   "sha256": "77f6e5348e2cd040b10155830b8ab412d4757b867b405ea6bf8342f56830708b",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/414/46.txt",
+   "sha256": "813d8d4c73b9cfc7b30dd56ea31237451accde1a2870de5bb9c54180705a52c9",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "said-bouti--bouti-414"
+ ]
+}

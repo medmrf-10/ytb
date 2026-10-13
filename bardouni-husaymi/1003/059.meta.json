@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:59",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 59,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 67 ( قوله ＂ و ليدخل معتكفه قبل غروب الشمس ＂ ) ｜",
+ "title_src": "filename",
+ "sha256": "80405ccfae6bcc6739718312c1115e2ee6cf59887832d18aec809a7d23df1337",
+ "nh": "caa2c6ffc0d5a8c65f187940835ef48520f43e54bc005afb18c0cb36898077b0",
+ "chars": 8803,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/059_شرح رسالة ابن ابي زيد ｜ الدرس 67 (  قوله ＂ و ليدخل معتكفه قبل غروب الشمس ＂  ) ｜ .txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/059_شرح رسالة ابن ابي زيد ｜ الدرس 67 (  قوله ＂ و ليدخل معتكفه قبل غروب الشمس ＂  ) ｜ .txt",
+   "sha256": "80405ccfae6bcc6739718312c1115e2ee6cf59887832d18aec809a7d23df1337",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/67.txt",
+   "sha256": "80405ccfae6bcc6739718312c1115e2ee6cf59887832d18aec809a7d23df1337",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

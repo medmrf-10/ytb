@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:7qyDKS6E0WQ",
+ "vid": "7qyDKS6E0WQ",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+ "n": 46,
+ "n_src": "trfile",
+ "title": "الدَّرس السادس والأربعون_ القطب الرابع_ باب في من يجب تكفيره من الفرق",
+ "title_src": "yt_titles",
+ "sha256": "27b4a477c29fcd402a84b6ba3c60700ca6a64968395330942083e49efd4f13d8",
+ "nh": "607168ab77118c29f2ef8847e05c3a8dff286902e749bc8c17fab7f6744e0445",
+ "chars": 51905,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriIqtisad-046/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriIqtisad-046/transcript.txt",
+   "sha256": "27b4a477c29fcd402a84b6ba3c60700ca6a64968395330942083e49efd4f13d8",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-46_AlAmri.txt",
+   "sha256": "27b4a477c29fcd402a84b6ba3c60700ca6a64968395330942083e49efd4f13d8",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-iqtisad/46.txt",
+   "sha256": "27b4a477c29fcd402a84b6ba3c60700ca6a64968395330942083e49efd4f13d8",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

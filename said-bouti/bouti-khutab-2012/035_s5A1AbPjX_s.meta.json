@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:s5A1AbPjX_s",
+ "vid": "s5A1AbPjX_s",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-khutab-2012",
+ "n": 35,
+ "n_src": "trfile",
+ "title": "خطبة الإمام البوطي | ديمقراطيتنا خادمة للإسلام وليس العكس",
+ "title_src": "yt_titles",
+ "sha256": "10d9390ed4c4105ca5ce40dd14db8ec34e90f34d7c9ce739e94a85b3510af3fd",
+ "nh": "97b5a3b1c538c12a5bde6cd31c175aba3cdabbede32af6551a928b1b3c8670d8",
+ "chars": 10272,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/5o6ab-035/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/5o6ab-035/transcript.txt",
+   "sha256": "10d9390ed4c4105ca5ce40dd14db8ec34e90f34d7c9ce739e94a85b3510af3fd",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-khutab-2012/35.txt",
+   "sha256": "10d9390ed4c4105ca5ce40dd14db8ec34e90f34d7c9ce739e94a85b3510af3fd",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:gYk9uGI7e2A",
+ "vid": "gYk9uGI7e2A",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--782",
+ "n": 12,
+ "n_src": "read",
+ "title": "(12) تتمة العلم + اسم الإشارة ⧸ شرح ابن عقيل ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "eec58f9f001e741502628869833a2b12207bac716621f6629b47672bac063a0c",
+ "nh": "b2c5ce247cd28886618554ebfe96b12b7d5b61533c703827f0c3da811172ad5a",
+ "chars": 23915,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/782/012_(12) تتمة العلم + اسم الإشارة ⧸ شرح ابن عقيل ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/782/012_(12) تتمة العلم + اسم الإشارة ⧸ شرح ابن عقيل ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "eec58f9f001e741502628869833a2b12207bac716621f6629b47672bac063a0c",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/782/11.txt",
+   "sha256": "eec58f9f001e741502628869833a2b12207bac716621f6629b47672bac063a0c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

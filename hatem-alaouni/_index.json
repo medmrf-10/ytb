@@ -1,0 +1,45 @@
+{
+ "aliases": [
+  "العوني"
+ ],
+ "name": "حاتم العوني",
+ "name_display": "حاتم العوني",
+ "series": [
+  {
+   "coverage": 1.0,
+   "declared_total": 6,
+   "dir": "aouni-ibada/",
+   "key": "aouni-ibada",
+   "row_id": "hatem-alaouni--aouni-ibada",
+   "title": "العبادة في القرآن",
+   "transcribed": 6
+  },
+  {
+   "coverage": 1.0,
+   "declared_total": 8,
+   "dir": "aouni-jabir/",
+   "key": "aouni-jabir",
+   "row_id": "hatem-alaouni--aouni-jabir",
+   "title": "قصة سيدنا جابر",
+   "transcribed": 8
+  },
+  {
+   "coverage": 1.0,
+   "declared_total": 5,
+   "dir": "aouni-mousiqa/",
+   "key": "aouni-mousiqa",
+   "row_id": "hatem-alaouni--aouni-mousiqa",
+   "title": "الموسيقى والغناء في القرآن",
+   "transcribed": 5
+  }
+ ],
+ "slug": "hatem-alaouni",
+ "totals": {
+  "chars": 597705,
+  "lessons": 19,
+  "series": 3,
+  "unsorted": 0,
+  "with_vid": 19
+ },
+ "v": 1
+}

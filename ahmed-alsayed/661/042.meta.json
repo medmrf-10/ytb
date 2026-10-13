@@ -1,0 +1,31 @@
+{
+ "v": 1,
+ "lid": "rn:ahmed-alsayed--661:42",
+ "vid": null,
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--661",
+ "n": 42,
+ "n_src": "assigned",
+ "title": "test write",
+ "title_src": "filename",
+ "sha256": "2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824",
+ "nh": "2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824",
+ "chars": 5,
+ "quality": "short",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/661/test_write.txt",
+  "commit_ts": 1791378493,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/661/test_write.txt",
+   "sha256": "2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

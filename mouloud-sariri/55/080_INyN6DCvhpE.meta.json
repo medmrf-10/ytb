@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:INyN6DCvhpE",
+ "vid": "INyN6DCvhpE",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 80,
+ "n_src": "read",
+ "title": "خطب منبرية： اتق الله حيثما كنت ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "dc7d62e092edc1aad2b811e0e57b1043ebccd6fefaca7364e635fe5e70034f3e",
+ "nh": "4a40b7ddea6aeb2d1a8630e10cecc6bce5e5b5ab4ab8e5440ccf621896a39ffb",
+ "chars": 8410,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/080_خطب منبرية： اتق الله حيثما كنت ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/080_خطب منبرية： اتق الله حيثما كنت ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "dc7d62e092edc1aad2b811e0e57b1043ebccd6fefaca7364e635fe5e70034f3e",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/79.txt",
+   "sha256": "dc7d62e092edc1aad2b811e0e57b1043ebccd6fefaca7364e635fe5e70034f3e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

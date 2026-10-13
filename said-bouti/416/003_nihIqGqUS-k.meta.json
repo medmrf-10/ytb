@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:nihIqGqUS-k",
+ "vid": "nihIqGqUS-k",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--416",
+ "n": 3,
+ "n_src": "mutfile",
+ "title": "3- العبادة والعبودية في القرآن الكريم من مفرزات العبودية",
+ "title_src": "filename",
+ "sha256": "d4c23a7572a340d26d75208bbe24743fe5be607690caf65407e401fa4fe3cf8a",
+ "nh": "0d28faf389ffd22b6ffa06d16efb576342f410bb29db958ddc856f1b442fb0eb",
+ "chars": 12672,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/416/003_3-  العبادة والعبودية في القرآن الكريم  من مفرزات العبودية.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/416/003_3-  العبادة والعبودية في القرآن الكريم  من مفرزات العبودية.txt",
+   "sha256": "d4c23a7572a340d26d75208bbe24743fe5be607690caf65407e401fa4fe3cf8a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tawba/003_3-  العبادة والعبودية في القرآن الكريم  من مفرزات العبودية.txt",
+   "sha256": "d4c23a7572a340d26d75208bbe24743fe5be607690caf65407e401fa4fe3cf8a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/ibada/003_3-  العبادة والعبودية في القرآن الكريم  من مفرزات العبودية.txt",
+   "sha256": "d4c23a7572a340d26d75208bbe24743fe5be607690caf65407e401fa4fe3cf8a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-416/003.txt",
+   "sha256": "cfb51cffd35e10fa0f3163b062959f8e14975898fad3fd4bd18d553beed33201",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

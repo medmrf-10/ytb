@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:oHOX3a3hSpM",
+ "vid": "oHOX3a3hSpM",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--343",
+ "n": 1,
+ "n_src": "mutfile",
+ "title": "برومو برنامج اللغة العربية في القرآن الكريم",
+ "title_src": "filename",
+ "sha256": "cc5423fa380a92f058154a39eccd50666e26e4290d963b4851a7e1daa60e6531",
+ "nh": "1d3ab2b25aac5b24ca53fb1981bc2f99a1be0fb7f0b85a9f532d2d195d07c34c",
+ "chars": 801,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/343/001_برومو برنامج اللغة العربية في القرآن الكريم.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/343/001_برومو برنامج اللغة العربية في القرآن الكريم.txt",
+   "sha256": "cc5423fa380a92f058154a39eccd50666e26e4290d963b4851a7e1daa60e6531",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/rihab/001_برومو برنامج اللغة العربية في القرآن الكريم.txt",
+   "sha256": "cc5423fa380a92f058154a39eccd50666e26e4290d963b4851a7e1daa60e6531",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-343/001.txt",
+   "sha256": "2b1740b30e8cdff84a3d055e5cdddb3cfe0e6efbf42ddf866752e45c35b8fafe",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

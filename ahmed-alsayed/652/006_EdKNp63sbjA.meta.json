@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:EdKNp63sbjA",
+ "vid": "EdKNp63sbjA",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--652",
+ "n": 6,
+ "n_src": "mutfile",
+ "title": "السنن الإلهية 06 ｜ سنة الابتلاء ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "624b93fe4d5a326c3ec39277269c3a000d6c51b67ff657ecd7151523624683e0",
+ "nh": "9d619cdcbb5ce7bedae74cf77bbd347f1ac48871d680372fca2a4eb45f5e120a",
+ "chars": 30330,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/652/006_السنن الإلهية 06 ｜ سنة الابتلاء ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/652/006_السنن الإلهية 06 ｜ سنة الابتلاء ｜ أحمد السيد.txt",
+   "sha256": "624b93fe4d5a326c3ec39277269c3a000d6c51b67ff657ecd7151523624683e0",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/sonanIlahiya-006/transcript.txt",
+   "sha256": "624b93fe4d5a326c3ec39277269c3a000d6c51b67ff657ecd7151523624683e0",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-652/006.txt",
+   "sha256": "624b93fe4d5a326c3ec39277269c3a000d6c51b67ff657ecd7151523624683e0",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

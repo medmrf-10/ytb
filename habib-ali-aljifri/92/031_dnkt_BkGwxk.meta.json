@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:dnkt_BkGwxk",
+ "vid": "dnkt_BkGwxk",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--92",
+ "n": 31,
+ "n_src": "read",
+ "title": "25： الجمال ج2 ｜ آمنت بالله ｜ الحبيب علي الجفري",
+ "title_src": "filename",
+ "sha256": "03d04fe168f1169f96b3f9bc699561f1d1f62109a3ef7a19a24d4aa8cf7fd5cb",
+ "nh": "1c25f00f0ae2325670602cbd4b039ad042f874d26600c06ac89a84ef3d2315bf",
+ "chars": 15333,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/92/031_25： الجمال ج2 ｜ آمنت بالله ｜ الحبيب علي الجفري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/92/031_25： الجمال ج2 ｜ آمنت بالله ｜ الحبيب علي الجفري.txt",
+   "sha256": "03d04fe168f1169f96b3f9bc699561f1d1f62109a3ef7a19a24d4aa8cf7fd5cb",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/92/7.txt",
+   "sha256": "03d04fe168f1169f96b3f9bc699561f1d1f62109a3ef7a19a24d4aa8cf7fd5cb",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:Zp0gg2fhI7o",
+ "vid": "Zp0gg2fhI7o",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--941",
+ "n": 11,
+ "n_src": "read",
+ "title": "شرح الأربعين النووية ｜ حلقة 11 ｜ حديث 10 ｜ أ.د علي جمعة ｜",
+ "title_src": "filename",
+ "sha256": "baf9b14ba27f3f1cc2137b9cc4eee68bd6a57635da80261543faf9c99686772d",
+ "nh": "fcae73be885b9234a05a09d7315b1bd91d05cf42d9d2cff4657bb4b195d6f5f5",
+ "chars": 4830,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/941/011_شرح الأربعين النووية ｜ حلقة 11 ｜ حديث 10 ｜ أ.د علي جمعة ｜ English Subtitle.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/941/011_شرح الأربعين النووية ｜ حلقة 11 ｜ حديث 10 ｜ أ.د علي جمعة ｜ English Subtitle.txt",
+   "sha256": "baf9b14ba27f3f1cc2137b9cc4eee68bd6a57635da80261543faf9c99686772d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/ali-gomaa--941/011.txt",
+   "sha256": "baf9b14ba27f3f1cc2137b9cc4eee68bd6a57635da80261543faf9c99686772d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

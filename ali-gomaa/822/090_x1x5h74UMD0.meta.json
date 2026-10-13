@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:x1x5h74UMD0",
+ "vid": "x1x5h74UMD0",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 90,
+ "n_src": "plpos",
+ "title": "حديث الجمعة | الحدود الشرعية في الإسلام | حلقة كاملة",
+ "title_src": "yt_titles",
+ "sha256": "dc24bb43542d8cf9b5f5e619518e83d95cfa6e5fc3c579c5b89ebe7c2d4697a6",
+ "nh": "ddd4bba2fe32df091435c6d7988ab16531eb7c7619f9b90841c672d6c5aed874",
+ "chars": 8846,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/090_حديث الجمعة ｜ الحدود الشرعية في الإسلام ｜ حلقة كاملة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/090_حديث الجمعة ｜ الحدود الشرعية في الإسلام ｜ حلقة كاملة.txt",
+   "sha256": "dc24bb43542d8cf9b5f5e619518e83d95cfa6e5fc3c579c5b89ebe7c2d4697a6",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/090_حديث الجمعة ｜ الحدود الشرعية في الإسلام ｜ حلقة كاملة.txt",
+   "sha256": "dc24bb43542d8cf9b5f5e619518e83d95cfa6e5fc3c579c5b89ebe7c2d4697a6",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/090.txt",
+   "sha256": "b7e1dc56f85ed9a3810dc42e5adab17a200c545841ec9a8ef7fc006e805e60ee",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

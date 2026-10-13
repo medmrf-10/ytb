@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:LIzLYZFiUHA",
+ "vid": "LIzLYZFiUHA",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--984",
+ "n": 6,
+ "n_src": "read",
+ "title": "شرح أم البراهين ｜ الدرس 31 ( قوله ＂ برهان وجوب صدق الانبياء ＂ ) ｜ الشيخ محمد الب",
+ "title_src": "filename",
+ "sha256": "ab5e41d0395bc85d5e01ccae2b5507b7e8f298a3612afdb6afb464b11552e95e",
+ "nh": "9462231cf7fb0cde4d4608895afc67d8e3a94e324e73b41fda4cf01582ad579f",
+ "chars": 36315,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/984/006_شرح أم البراهين ｜ الدرس 31 ( قوله ＂ برهان وجوب صدق الانبياء ＂ ) ｜ الشيخ محمد الب.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/984/006_شرح أم البراهين ｜ الدرس 31 ( قوله ＂ برهان وجوب صدق الانبياء ＂ ) ｜ الشيخ محمد الب.txt",
+   "sha256": "ab5e41d0395bc85d5e01ccae2b5507b7e8f298a3612afdb6afb464b11552e95e",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasimi/um-baraheen/5.txt",
+   "sha256": "ab5e41d0395bc85d5e01ccae2b5507b7e8f298a3612afdb6afb464b11552e95e",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/743/5.txt",
+   "sha256": "ab5e41d0395bc85d5e01ccae2b5507b7e8f298a3612afdb6afb464b11552e95e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "adham-alasimi--743",
+  "adham-alasimi--alasimi-um-baraheen"
+ ]
+}

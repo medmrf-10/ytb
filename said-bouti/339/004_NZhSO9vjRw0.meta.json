@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:NZhSO9vjRw0",
+ "vid": "NZhSO9vjRw0",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--339",
+ "n": 4,
+ "n_src": "mutfile",
+ "title": "3 - الكآبة .. أسباب وعلاج العلامة البوطي السبب الثاني : الخوف من الإخفاق",
+ "title_src": "filename",
+ "sha256": "e78d281bd08430066267f5ae08e4993cb5c053d91f3ee0b69a7c53a1d51520a8",
+ "nh": "e8d18c68269b2fa7ec7d51fc353577502ab7a72c25156b7548c801cad53c0cf1",
+ "chars": 13206,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/339/004_3 - الكآبة .. أسباب وعلاج  العلامة البوطي  السبب الثاني : الخوف من الإخفاق.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/339/004_3 - الكآبة .. أسباب وعلاج  العلامة البوطي  السبب الثاني : الخوف من الإخفاق.txt",
+   "sha256": "e78d281bd08430066267f5ae08e4993cb5c053d91f3ee0b69a7c53a1d51520a8",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/rihab/004_3 - الكآبة .. أسباب وعلاج  العلامة البوطي  السبب الثاني : الخوف من الإخفاق.txt",
+   "sha256": "e78d281bd08430066267f5ae08e4993cb5c053d91f3ee0b69a7c53a1d51520a8",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-339/004.txt",
+   "sha256": "a1c31fc5b246e0e7261d33ec86316b58f5fcad794c42f732b893974df7de6535",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

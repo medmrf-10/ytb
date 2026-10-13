@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:d7kHPJ__y9I",
+ "vid": "d7kHPJ__y9I",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--768",
+ "n": 12,
+ "n_src": "read",
+ "title": "(12) المخافة للحوادث والقيام بالنفس ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "6a0485588c900d6de6723cf17ab0e80ee27308eb91c2bcae65feb06bff511524",
+ "nh": "22d121f479157e0d0ccce8d284c93035192ebeb76b118becfbd019a877b97ba8",
+ "chars": 20393,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/768/012_(12) المخافة للحوادث والقيام بالنفس ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/768/012_(12) المخافة للحوادث والقيام بالنفس ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "6a0485588c900d6de6723cf17ab0e80ee27308eb91c2bcae65feb06bff511524",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/768/11.txt",
+   "sha256": "6a0485588c900d6de6723cf17ab0e80ee27308eb91c2bcae65feb06bff511524",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

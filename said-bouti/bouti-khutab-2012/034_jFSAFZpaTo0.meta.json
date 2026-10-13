@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:jFSAFZpaTo0",
+ "vid": "jFSAFZpaTo0",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-khutab-2012",
+ "n": 34,
+ "n_src": "trfile",
+ "title": "خطبة الإمام البوطي | الإنسان أعتى حيوان لولا لجام الدين",
+ "title_src": "yt_titles",
+ "sha256": "cd81bbf8948e462352f0d4e3efa7625454fc8df2cc7f64a38e63d45f13ec891d",
+ "nh": "335ac4a45c1c443940fc605f2e7927e81a7e5c6de7cff4d5d1736cc148b8227a",
+ "chars": 11499,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/5o6ab-034/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/5o6ab-034/transcript.txt",
+   "sha256": "cd81bbf8948e462352f0d4e3efa7625454fc8df2cc7f64a38e63d45f13ec891d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-khutab-2012/34.txt",
+   "sha256": "cd81bbf8948e462352f0d4e3efa7625454fc8df2cc7f64a38e63d45f13ec891d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

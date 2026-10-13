@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:BDO3yelbsT4",
+ "vid": "BDO3yelbsT4",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--656",
+ "n": 38,
+ "n_src": "mutfile",
+ "title": "رياض الصالحين 38 ｜ باب في الدلالة على خير ｜ أنوار السنة المحمدية ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "c2fa002d3be51cf8a7cf7ce12977d1b1ed8b8c224feea8d895e34a6f13d8f41b",
+ "nh": "5fb6cb63ce1ece752d1dc3700a9919d1c725d80e6e9c34e2699f57bd5815d5b9",
+ "chars": 29554,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/656/038_رياض الصالحين 38 ｜ باب في الدلالة على خير ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/656/038_رياض الصالحين 38 ｜ باب في الدلالة على خير ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+   "sha256": "c2fa002d3be51cf8a7cf7ce12977d1b1ed8b8c224feea8d895e34a6f13d8f41b",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/riyadElsali7in-038/transcript.txt",
+   "sha256": "53217b37b03285309f6c8458f6ff3483adfc4a46c8594d303f572e7de001737d",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-656/038.txt",
+   "sha256": "53217b37b03285309f6c8458f6ff3483adfc4a46c8594d303f572e7de001737d",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

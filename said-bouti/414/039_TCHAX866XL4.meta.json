@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "yt:TCHAX866XL4",
+ "vid": "TCHAX866XL4",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--414",
+ "n": 39,
+ "n_src": "read",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 39",
+ "title_src": "filename",
+ "sha256": "507baa33404a65f0755852079c40a969abfc81b3d34337249e612f3023af6cdf",
+ "nh": "217252700c5370811f363b1d1ac8d1704fecbbab9f30a6fe02c1ff8aaf4da67d",
+ "chars": 23463,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/039_تفسير القرآن الكريم للدكتور البوطي - الدرس 39.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/039_تفسير القرآن الكريم للدكتور البوطي - الدرس 39.txt",
+   "sha256": "507baa33404a65f0755852079c40a969abfc81b3d34337249e612f3023af6cdf",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/039.txt",
+   "sha256": "7c43532e146326355b1dddcbdd4ca6916288754a48727431b70b1ee616cf0288",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/414/40.txt",
+   "sha256": "507baa33404a65f0755852079c40a969abfc81b3d34337249e612f3023af6cdf",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "said-bouti--bouti-414"
+ ]
+}

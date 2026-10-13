@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:ZFiKnyowa0Q",
+ "vid": "ZFiKnyowa0Q",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 55,
+ "n_src": "read",
+ "title": "الحكم العطائية للعلامة البوطي ｜ الدرس 189 - الحكمة 165 - 166",
+ "title_src": "filename",
+ "sha256": "a3d56a20a144270f066913764b70152fdb259cdec2322cd8e988a73e9331ae03",
+ "nh": "d392ceb25dd71ec8b13e0a139d89d4a4b26309feff7557e2f2ea48c8dacb4cbc",
+ "chars": 17907,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/055_الحكم العطائية للعلامة البوطي ｜ الدرس 189 - الحكمة 165 - 166.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/055_الحكم العطائية للعلامة البوطي ｜ الدرس 189 - الحكمة 165 - 166.txt",
+   "sha256": "a3d56a20a144270f066913764b70152fdb259cdec2322cd8e988a73e9331ae03",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/hikam/055_الحكم العطائية للعلامة البوطي ｜ الدرس 189 - الحكمة 165 - 166.txt",
+   "sha256": "a3d56a20a144270f066913764b70152fdb259cdec2322cd8e988a73e9331ae03",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/055_الحكم العطائية للعلامة البوطي ｜ الدرس 189 - الحكمة 165 - 166.txt",
+   "sha256": "a3d56a20a144270f066913764b70152fdb259cdec2322cd8e988a73e9331ae03",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/386/186.txt",
+   "sha256": "a3d56a20a144270f066913764b70152fdb259cdec2322cd8e988a73e9331ae03",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

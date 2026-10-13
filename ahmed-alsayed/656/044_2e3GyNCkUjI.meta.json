@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:2e3GyNCkUjI",
+ "vid": "2e3GyNCkUjI",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--656",
+ "n": 44,
+ "n_src": "mutfile",
+ "title": "رياض الصالحين 44 ｜ باب في الأمر بالمعروف والنهي عن المنكر 4 ｜ أنوار السنة المحمد",
+ "title_src": "filename",
+ "sha256": "61d8cbcf7d750578e277a603d6839ccd35f6e476a36a0dd317d2d6bf557f5866",
+ "nh": "39c7152e29006c4f98d08f231807f411c6d8187fb5d4cfdac5d276b2ae2e4ba2",
+ "chars": 20376,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/656/044_رياض الصالحين 44 ｜ باب في الأمر بالمعروف والنهي عن المنكر 4 ｜ أنوار السنة المحمد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/656/044_رياض الصالحين 44 ｜ باب في الأمر بالمعروف والنهي عن المنكر 4 ｜ أنوار السنة المحمد.txt",
+   "sha256": "61d8cbcf7d750578e277a603d6839ccd35f6e476a36a0dd317d2d6bf557f5866",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/riyadElsali7in-044/transcript.txt",
+   "sha256": "69a0f03a12607924cbf95e00fc6c0b8bccd57d9ec95b64c39ec99bc28ee27e1b",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-656/044.txt",
+   "sha256": "69a0f03a12607924cbf95e00fc6c0b8bccd57d9ec95b64c39ec99bc28ee27e1b",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

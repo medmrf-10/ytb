@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:VWYNWnCweCo",
+ "vid": "VWYNWnCweCo",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--403",
+ "n": 65,
+ "n_src": "plpos",
+ "title": "63 - فقه السيرة النبوية | شكوى رسول الله ولحاقه بالرفيق الأعلى (2)",
+ "title_src": "yt_titles",
+ "sha256": "27f5c2e71e469364d2572c6dab5192f2779de054d55e8322c3a6186496b1159e",
+ "nh": "ea99f7fb4ac3fcfbbca38f6e692d2ccb9e4d9896fbc0fcde86dd905065b94de3",
+ "chars": 24147,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/403/065_63 - فقه السيرة النبوية ｜ شكوى رسول الله ولحاقه بالرفيق الأعلى (2).txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/403/065_63 - فقه السيرة النبوية ｜ شكوى رسول الله ولحاقه بالرفيق الأعلى (2).txt",
+   "sha256": "27f5c2e71e469364d2572c6dab5192f2779de054d55e8322c3a6186496b1159e",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fi9hElsirah-065/transcript.txt",
+   "sha256": "813d96bbcefab6d4eb03271cc2c226ff96467f55b55b68ceeb5a7f98e7412ad5",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-sira/65.txt",
+   "sha256": "813d96bbcefab6d4eb03271cc2c226ff96467f55b55b68ceeb5a7f98e7412ad5",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/403/1.txt",
+   "sha256": "27f5c2e71e469364d2572c6dab5192f2779de054d55e8322c3a6186496b1159e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

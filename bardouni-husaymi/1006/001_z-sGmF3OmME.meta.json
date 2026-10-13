@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:z-sGmF3OmME",
+ "vid": "z-sGmF3OmME",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1006",
+ "n": 1,
+ "n_src": "read",
+ "title": "شرح لامية العرب ｜ الدرس 10 ( الأبيات -٢٨-٢٩-٣٠-) ｜ الشيخ محمد البردوني الحسيمي",
+ "title_src": "filename",
+ "sha256": "97325bbacd0794d2e2b46d795e5aa4f8b9ed14d1fc382a9d4e1acc378d805632",
+ "nh": "42428284b4e6531639e155580e3d87d7fef6251bde0e31ebc57469e801f0b431",
+ "chars": 4729,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1006/001_شرح لامية العرب ｜ الدرس 10 ( الأبيات -٢٨-٢٩-٣٠-) ｜ الشيخ محمد البردوني الحسيمي.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1006/001_شرح لامية العرب ｜ الدرس 10 ( الأبيات -٢٨-٢٩-٣٠-) ｜ الشيخ محمد البردوني الحسيمي.txt",
+   "sha256": "97325bbacd0794d2e2b46d795e5aa4f8b9ed14d1fc382a9d4e1acc378d805632",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1006/9.txt",
+   "sha256": "97325bbacd0794d2e2b46d795e5aa4f8b9ed14d1fc382a9d4e1acc378d805632",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

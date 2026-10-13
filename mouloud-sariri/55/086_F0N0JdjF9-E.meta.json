@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:F0N0JdjF9-E",
+ "vid": "F0N0JdjF9-E",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 86,
+ "n_src": "read",
+ "title": "خطب منبرية ： ＂ الوفاء بالعهد ＂ ⧸ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "f56a539806e336b22ae1b516d02dab11f8b49da3ffc719fdeb4a8eb4225a3635",
+ "nh": "325cf0fc1d9d2b7d2739d98f494e5009cb71da7371e989e37cea46c577045835",
+ "chars": 8040,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/086_خطب منبرية ： ＂ الوفاء بالعهد ＂ ⧸ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/086_خطب منبرية ： ＂ الوفاء بالعهد ＂ ⧸ الشيخ العلامة مولود السريري.txt",
+   "sha256": "f56a539806e336b22ae1b516d02dab11f8b49da3ffc719fdeb4a8eb4225a3635",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/85.txt",
+   "sha256": "f56a539806e336b22ae1b516d02dab11f8b49da3ffc719fdeb4a8eb4225a3635",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

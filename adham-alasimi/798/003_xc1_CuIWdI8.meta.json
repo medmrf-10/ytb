@@ -1,0 +1,39 @@
+{
+ "v": 1,
+ "lid": "yt:xc1_CuIWdI8",
+ "vid": "xc1_CuIWdI8",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--798",
+ "n": 3,
+ "n_src": "read",
+ "title": "(2) شرح متن البناء في علم الصرف ｜ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "e828bd62446a0f1ac00c4f1e431a95c79e8d02feb15667ee5c7b565a03a2aac1",
+ "nh": "1fe7aadd67e17da5a59db884a954ed45dba3322ba83747248bf3f6b7d9600125",
+ "chars": 12267,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/798/003_(2) شرح متن البناء في علم الصرف ｜ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/798/003_(2) شرح متن البناء في علم الصرف ｜ الشيخ أدهم العاسمي.txt",
+   "sha256": "e828bd62446a0f1ac00c4f1e431a95c79e8d02feb15667ee5c7b565a03a2aac1",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/798/2.txt",
+   "sha256": "0684b45eaae70adf85092a0b5d1bb327d24eb483c4262d6b3a38347e024a1e88",
+   "rel": "variant"
+  }
+ ],
+ "variants": [
+  "_variants/003_xc1_CuIWdI8.des-dur.txt"
+ ],
+ "also_in": []
+}

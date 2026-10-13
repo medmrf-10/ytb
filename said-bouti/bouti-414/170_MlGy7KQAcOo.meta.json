@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:MlGy7KQAcOo",
+ "vid": "MlGy7KQAcOo",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-414",
+ "n": 170,
+ "n_src": "read",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 170",
+ "title_src": "filename",
+ "sha256": "0f1b336eea3cf29df5db812dc3f0d18b3ad21b38f73c9c50df4a69756d503560",
+ "nh": "b58dbd6af3c9d4e0b262bd2a0065dc2f80eb771c1579d8e00bb62ab62667a314",
+ "chars": 12081,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/170_تفسير القرآن الكريم للدكتور البوطي - الدرس 170.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/170_تفسير القرآن الكريم للدكتور البوطي - الدرس 170.txt",
+   "sha256": "0f1b336eea3cf29df5db812dc3f0d18b3ad21b38f73c9c50df4a69756d503560",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/170.txt",
+   "sha256": "72fb4f45a8ce5969086c95d58ca9810029585a1f1bf1d371d3cbe55179364966",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

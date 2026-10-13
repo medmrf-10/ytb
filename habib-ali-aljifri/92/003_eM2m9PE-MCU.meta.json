@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:eM2m9PE-MCU",
+ "vid": "eM2m9PE-MCU",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--92",
+ "n": 3,
+ "n_src": "read",
+ "title": "إعلان： آمنت بالله - خيري رمضان",
+ "title_src": "filename",
+ "sha256": "5c1200040e956aaa9bf62903c56676f86d1b19af8284fffc08005bff572d2da5",
+ "nh": "c96e60545b8c3b1fb74910a06fcb1a1f2f8bff6611141a3aac880c9aa0779a7f",
+ "chars": 336,
+ "quality": "short",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/92/003_إعلان： آمنت بالله - خيري رمضان.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/92/003_إعلان： آمنت بالله - خيري رمضان.txt",
+   "sha256": "5c1200040e956aaa9bf62903c56676f86d1b19af8284fffc08005bff572d2da5",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/92/2.txt",
+   "sha256": "5c1200040e956aaa9bf62903c56676f86d1b19af8284fffc08005bff572d2da5",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

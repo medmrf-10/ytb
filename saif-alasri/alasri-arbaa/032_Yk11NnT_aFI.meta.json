@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:Yk11NnT_aFI",
+ "vid": "Yk11NnT_aFI",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 32,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / الحجاب عادة أم عبادة (مناقشة لشبهات عدنان إبراهيم) / د. سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "5f56ee9140b2a9face471915f8f31877b2f1e6025f999eeab9361290a019d42e",
+ "nh": "b3353be44387e291d3ffe1078e84385a9428e8c66401ca00375ac25bf5bb3f80",
+ "chars": 18995,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-032/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-032/transcript.txt",
+   "sha256": "5f56ee9140b2a9face471915f8f31877b2f1e6025f999eeab9361290a019d42e",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/032_Yk11NnT_aFI.txt",
+   "sha256": "5f56ee9140b2a9face471915f8f31877b2f1e6025f999eeab9361290a019d42e",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/032.txt",
+   "sha256": "5f56ee9140b2a9face471915f8f31877b2f1e6025f999eeab9361290a019d42e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

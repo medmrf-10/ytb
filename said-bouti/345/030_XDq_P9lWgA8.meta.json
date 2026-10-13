@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:XDq_P9lWgA8",
+ "vid": "XDq_P9lWgA8",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--345",
+ "n": 30,
+ "n_src": "plpos",
+ "title": "30- مشاهد وعبر من القرآن والسنة | قال هل علمتم ما فعلتم بيوسف وأخيه إذ أنتم جاهلون",
+ "title_src": "yt_titles",
+ "sha256": "39cb2bb7a0f28ae01af7b3ad50239e115533434cd9eda09f62ce255cc9e22c0f",
+ "nh": "e6dc66c1050b1042f69d9511dcd83b382b56608eb43a438db77c20c30e808b0c",
+ "chars": 13051,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/345/030_30- مشاهد وعبر من القرآن والسنة ｜ قال هل علمتم ما فعلتم بيوسف وأخيه إذ أنتم جاهل.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/345/030_30- مشاهد وعبر من القرآن والسنة ｜ قال هل علمتم ما فعلتم بيوسف وأخيه إذ أنتم جاهل.txt",
+   "sha256": "39cb2bb7a0f28ae01af7b3ad50239e115533434cd9eda09f62ce255cc9e22c0f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-mashahid/30.txt",
+   "sha256": "a99ffbefa93337d56cb87c167a88adf81b5a0bd5d883188b894bf8fc0b4002e8",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/345/29.txt",
+   "sha256": "39cb2bb7a0f28ae01af7b3ad50239e115533434cd9eda09f62ce255cc9e22c0f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

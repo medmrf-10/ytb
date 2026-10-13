@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:odGu2wgr0q4",
+ "vid": "odGu2wgr0q4",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-barahin-kitab",
+ "n": 5,
+ "n_src": "trfile",
+ "title": "الدرس الخامس كتاب أم البراهين",
+ "title_src": "yt_titles",
+ "sha256": "0914de7804caec744415eab09a9cd8afc1e98bfe9eac17b8aa166cba84e07cf5",
+ "nh": "21875af44d62e3466c70cc68fce42026699522e7c717de479810faf2d56186b0",
+ "chars": 39716,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriBarahinKitab-005/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriBarahinKitab-005/transcript.txt",
+   "sha256": "0914de7804caec744415eab09a9cd8afc1e98bfe9eac17b8aa166cba84e07cf5",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/barahin-kitab/barahin-kitab-05_AlAmri.txt",
+   "sha256": "0914de7804caec744415eab09a9cd8afc1e98bfe9eac17b8aa166cba84e07cf5",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-barahin-kitab/05.txt",
+   "sha256": "0914de7804caec744415eab09a9cd8afc1e98bfe9eac17b8aa166cba84e07cf5",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

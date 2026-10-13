@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:C4Ffv9DSTKM",
+ "vid": "C4Ffv9DSTKM",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--767",
+ "n": 15,
+ "n_src": "read",
+ "title": "(15) الضمير + العلم + اسم الإشارة + الاسم الموصول ⧸ دورة النحو المستوى الأول⧸ ال",
+ "title_src": "filename",
+ "sha256": "e32bd80c2a27a516fd7770104e8777e19d4213ddfe3de858594ddf71644b3ea0",
+ "nh": "8cfb360dd8a47f16776f82e9bc00b4872ceb3af353b363f58a0c4e6320b3551e",
+ "chars": 11275,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/767/015_(15) الضمير + العلم + اسم الإشارة + الاسم الموصول ⧸ دورة النحو المستوى الأول⧸ ال.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/767/015_(15) الضمير + العلم + اسم الإشارة + الاسم الموصول ⧸ دورة النحو المستوى الأول⧸ ال.txt",
+   "sha256": "e32bd80c2a27a516fd7770104e8777e19d4213ddfe3de858594ddf71644b3ea0",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/767/14.txt",
+   "sha256": "e32bd80c2a27a516fd7770104e8777e19d4213ddfe3de858594ddf71644b3ea0",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

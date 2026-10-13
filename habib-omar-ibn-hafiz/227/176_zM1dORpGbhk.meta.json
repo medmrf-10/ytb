@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:zM1dORpGbhk",
+ "vid": "zM1dORpGbhk",
+ "sheikh": "habib-omar-ibn-hafiz",
+ "row_id": "habib-omar-ibn-hafiz--227",
+ "n": 176,
+ "n_src": "read",
+ "title": "#بث مباشر #درس قبس النور المبين من إحياء علوم الدين",
+ "title_src": "filename",
+ "sha256": "1b0805f82eb3f0fbc460cfef80485649bb5fa65b5bc1c3102b7f08dcdca3cf94",
+ "nh": "ee4373af0cd03538cca85ba983430fa5d5a59c4bd8565a6fa3c5ee430628e5fe",
+ "chars": 17758,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/227/176_#بث_مباشر #درس قبس النور المبين من إحياء علوم الدين.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/227/176_#بث_مباشر #درس قبس النور المبين من إحياء علوم الدين.txt",
+   "sha256": "1b0805f82eb3f0fbc460cfef80485649bb5fa65b5bc1c3102b7f08dcdca3cf94",
+   "rel": "identical"
+  },
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/227/176_#بث_مباشر​ #درس قبس النور المبين من إحياء علوم الدين.txt",
+   "sha256": "a4e5484a7495cb71906afc6dbe784c596e5f7c26fe0fde49a4b147417cfa59ea",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:5_bUYZJrnHc",
+ "vid": "5_bUYZJrnHc",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--992",
+ "n": 16,
+ "n_src": "read",
+ "title": "شرح الرسالة العضدية｜ الدرس 16 (قوله＂و الثاني مدلوله إما أن يكون معنى في غيره٠٠)｜",
+ "title_src": "filename",
+ "sha256": "2f3a588dab22d8c0782724fa4bd46f3bfb61ad7c5f8bd61a1e97708dbc91a2e6",
+ "nh": "b2781c8525bba83913a5f97d9a01986674f479259195f72b31f7edc88368c6ab",
+ "chars": 10482,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/992/016_شرح الرسالة العضدية｜ الدرس 16 (قوله＂و الثاني مدلوله إما أن يكون معنى في غيره٠٠)｜.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/992/016_شرح الرسالة العضدية｜ الدرس 16 (قوله＂و الثاني مدلوله إما أن يكون معنى في غيره٠٠)｜.txt",
+   "sha256": "2f3a588dab22d8c0782724fa4bd46f3bfb61ad7c5f8bd61a1e97708dbc91a2e6",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/sariri/risala-adudiyya/30.txt",
+   "sha256": "2f3a588dab22d8c0782724fa4bd46f3bfb61ad7c5f8bd61a1e97708dbc91a2e6",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/36/30.txt",
+   "sha256": "2f3a588dab22d8c0782724fa4bd46f3bfb61ad7c5f8bd61a1e97708dbc91a2e6",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "mouloud-sariri--36",
+  "mouloud-sariri--sariri-risala-adudiyya"
+ ]
+}

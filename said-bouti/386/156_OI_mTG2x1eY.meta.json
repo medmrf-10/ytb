@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:OI_mTG2x1eY",
+ "vid": "OI_mTG2x1eY",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 156,
+ "n_src": "read",
+ "title": "حكم الاحتفال بالمولد النبوي الشريف الدرس 291 - الحكم العطائية للعلامة البوطي",
+ "title_src": "filename",
+ "sha256": "3fee43ed14d77415911e68ec16d8865f71f2ae2f3d96f332c8c377063f1ba9b3",
+ "nh": "86cdf1cd440eb44321aac2d600281c38e9961eebe7a3b367087ea545305ca93a",
+ "chars": 18389,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/156_حكم الاحتفال بالمولد النبوي الشريف  الدرس 291 - الحكم العطائية للعلامة البوطي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/156_حكم الاحتفال بالمولد النبوي الشريف  الدرس 291 - الحكم العطائية للعلامة البوطي.txt",
+   "sha256": "3fee43ed14d77415911e68ec16d8865f71f2ae2f3d96f332c8c377063f1ba9b3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/156_حكم الاحتفال بالمولد النبوي الشريف  الدرس 291 - الحكم العطائية للعلامة البوطي.txt",
+   "sha256": "3fee43ed14d77415911e68ec16d8865f71f2ae2f3d96f332c8c377063f1ba9b3",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:72",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 72,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 54 ( باب صلاة الخسوف ) ｜ الشيخ البردوني",
+ "title_src": "filename",
+ "sha256": "eab701c42cb473b4cbc821319e82951deeaba1e4a9356a5502cccf59af6e6456",
+ "nh": "d3eb3735eca1e7f1d099de2486e9e700fff29cf349de1bbc6e4407fb159f6261",
+ "chars": 12732,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/072_شرح رسالة ابن ابي زيد ｜ الدرس 54 (  باب صلاة الخسوف  ) ｜ الشيخ البردوني.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/072_شرح رسالة ابن ابي زيد ｜ الدرس 54 (  باب صلاة الخسوف  ) ｜ الشيخ البردوني.txt",
+   "sha256": "eab701c42cb473b4cbc821319e82951deeaba1e4a9356a5502cccf59af6e6456",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/54.txt",
+   "sha256": "eab701c42cb473b4cbc821319e82951deeaba1e4a9356a5502cccf59af6e6456",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

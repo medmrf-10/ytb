@@ -1,0 +1,51 @@
+{
+ "v": 1,
+ "lid": "yt:LNV9DZwdjME",
+ "vid": "LNV9DZwdjME",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-khutab-2010",
+ "n": 16,
+ "n_src": "trfile",
+ "title": "يريدون أَن يطفؤوا نور اللّه بأفواههم",
+ "title_src": "yt_titles",
+ "sha256": "4bdd0d5ec4b7d7477292cfb60c6232352d230c645e15ea93f87ed1861ec9afa6",
+ "nh": "0a6006ce643c5ea4c682869ce5ef76fcf0c80eb45442b922d94a15210150938a",
+ "chars": 12399,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/5o6ab-016/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/5o6ab-016/transcript.txt",
+   "sha256": "4bdd0d5ec4b7d7477292cfb60c6232352d230c645e15ea93f87ed1861ec9afa6",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/khutab-2010/15.txt",
+   "sha256": "1154e63e48b946b6f64ca7530573de64f960365637ed3bcde1f14412770344c4",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-khutab-2012/16.txt",
+   "sha256": "4bdd0d5ec4b7d7477292cfb60c6232352d230c645e15ea93f87ed1861ec9afa6",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/344/15.txt",
+   "sha256": "1154e63e48b946b6f64ca7530573de64f960365637ed3bcde1f14412770344c4",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "said-bouti--bouti-khutab-2012"
+ ]
+}

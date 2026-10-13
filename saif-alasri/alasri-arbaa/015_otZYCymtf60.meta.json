@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:otZYCymtf60",
+ "vid": "otZYCymtf60",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 15,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / الاستغاثة فى ميزان الشرع / د. سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "4498f13f7b9f7f16d5367d3396f6e08d94af8d8d9c996917be674a6dd5e48a9b",
+ "nh": "723645db89348d12ae2c61397bda4ed6b2affc3f81804d9ebf9ef551f0614524",
+ "chars": 23253,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-015/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-015/transcript.txt",
+   "sha256": "4498f13f7b9f7f16d5367d3396f6e08d94af8d8d9c996917be674a6dd5e48a9b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/015_otZYCymtf60.txt",
+   "sha256": "4498f13f7b9f7f16d5367d3396f6e08d94af8d8d9c996917be674a6dd5e48a9b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/015.txt",
+   "sha256": "4498f13f7b9f7f16d5367d3396f6e08d94af8d8d9c996917be674a6dd5e48a9b",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

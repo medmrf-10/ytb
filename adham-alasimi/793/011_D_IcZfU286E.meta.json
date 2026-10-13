@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:D_IcZfU286E",
+ "vid": "D_IcZfU286E",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--793",
+ "n": 11,
+ "n_src": "read",
+ "title": "(11) الوحدانية ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "c44750063f7ab8ccab44876450cd5e3286ce48dfa5b4ecc0ba53f449a9f1a84e",
+ "nh": "9af400684388e0368b3c369b76b54c96a618f00a28354f37f36cbf4b7aacd6a2",
+ "chars": 27175,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/793/011_(11) الوحدانية ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/793/011_(11) الوحدانية ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "c44750063f7ab8ccab44876450cd5e3286ce48dfa5b4ecc0ba53f449a9f1a84e",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/793/10.txt",
+   "sha256": "c44750063f7ab8ccab44876450cd5e3286ce48dfa5b4ecc0ba53f449a9f1a84e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

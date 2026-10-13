@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:6aHFh2eMiFI",
+ "vid": "6aHFh2eMiFI",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--767",
+ "n": 2,
+ "n_src": "read",
+ "title": "(02) تقسيم الفعل باعتبار الزمن⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "568ef6eef92d1ae32f8aba54efc580d5b00d5733049bfce6469d5b8edfd0eb0a",
+ "nh": "4d6a997246252179ae0529d312514181df5eaf8085a058921ed57dfea769f557",
+ "chars": 20213,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/767/002_(02) تقسيم الفعل باعتبار الزمن⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/767/002_(02) تقسيم الفعل باعتبار الزمن⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "568ef6eef92d1ae32f8aba54efc580d5b00d5733049bfce6469d5b8edfd0eb0a",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/767/1.txt",
+   "sha256": "568ef6eef92d1ae32f8aba54efc580d5b00d5733049bfce6469d5b8edfd0eb0a",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

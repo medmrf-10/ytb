@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:A3sYm3LR4a0",
+ "vid": "A3sYm3LR4a0",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 77,
+ "n_src": "read",
+ "title": "خطب منبرية： حقوق وواجبات شرعية ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "f2c6b532287b4c6fe7fdcbffe799bee5b6111975a0a3eec402962e2ad0f30ff8",
+ "nh": "9b7c5394a140ac0432999445c4b1e48d693a7fe7ff78404e116b5c9f504deba2",
+ "chars": 14389,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/077_خطب منبرية： حقوق  وواجبات شرعية ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/077_خطب منبرية： حقوق  وواجبات شرعية ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "f2c6b532287b4c6fe7fdcbffe799bee5b6111975a0a3eec402962e2ad0f30ff8",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/76.txt",
+   "sha256": "f2c6b532287b4c6fe7fdcbffe799bee5b6111975a0a3eec402962e2ad0f30ff8",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

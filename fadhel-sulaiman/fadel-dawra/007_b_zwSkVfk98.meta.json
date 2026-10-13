@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:b_zwSkVfk98",
+ "vid": "b_zwSkVfk98",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-dawra",
+ "n": 7,
+ "n_src": "trfile",
+ "title": "الدرس السابع من دورة مفاتح التدبر | ملاحظة بناء الآية | فاضل سليمان",
+ "title_src": "yt_titles",
+ "sha256": "66019f64332180d717bea2c2ffd07670d3140812b065a415305433223b5fe132",
+ "nh": "3ba901440d60df302bee99d552ac9a14288220e5dbc7ef9ad37f5f2400fca179",
+ "chars": 10164,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelDawra-007/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelDawra-007/transcript.txt",
+   "sha256": "66019f64332180d717bea2c2ffd07670d3140812b065a415305433223b5fe132",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-dawra/007.txt",
+   "sha256": "66019f64332180d717bea2c2ffd07670d3140812b065a415305433223b5fe132",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

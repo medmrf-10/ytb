@@ -1,0 +1,53 @@
+{
+ "v": 1,
+ "lid": "yt:dMLjQ_LBlD0",
+ "vid": "dMLjQ_LBlD0",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--786",
+ "n": 5,
+ "n_src": "read",
+ "title": "الغفلة عن شعبان ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "c339bd213690ccaee9553f80e003377afe4ae1f294e526c44847f4005bf558ea",
+ "nh": "ae0dd7ba6be1b7ce05275bf94863bb475cd5aff546a800d4703cf14bd6be07a9",
+ "chars": 9685,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/786/005_الغفلة عن شعبان ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/786/005_الغفلة عن شعبان ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "c339bd213690ccaee9553f80e003377afe4ae1f294e526c44847f4005bf558ea",
+   "rel": "identical"
+  },
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/789/015_الغفلة عن شعبان ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "bf42e40a8f8daa317298e08c8dd9cfbc0f4956a8d80faf6b9ef7577d26ae76cb",
+   "rel": "variant"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/786/4.txt",
+   "sha256": "c339bd213690ccaee9553f80e003377afe4ae1f294e526c44847f4005bf558ea",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/789/14.txt",
+   "sha256": "bf42e40a8f8daa317298e08c8dd9cfbc0f4956a8d80faf6b9ef7577d26ae76cb",
+   "rel": "variant"
+  }
+ ],
+ "variants": [
+  "_variants/005_dMLjQ_LBlD0.des-mut.txt"
+ ],
+ "also_in": [
+  "adham-alasimi--789"
+ ]
+}

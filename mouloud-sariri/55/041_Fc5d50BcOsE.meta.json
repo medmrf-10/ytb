@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:Fc5d50BcOsE",
+ "vid": "Fc5d50BcOsE",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 41,
+ "n_src": "read",
+ "title": "خطب منبرية：＂ إصلاح الإنسان بإصلاح النفس＂ ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "679ebb38870abb8eb5b317840e9e1f7b17a84bfdc6fc3e925be675d622188264",
+ "nh": "6c6660f9ff98dfec5a22076a98b735c999dd38a78f3ba7c5df279e56583e22b3",
+ "chars": 10464,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/041_خطب منبرية：＂ إصلاح الإنسان بإصلاح النفس＂ ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/041_خطب منبرية：＂ إصلاح الإنسان بإصلاح النفس＂ ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "679ebb38870abb8eb5b317840e9e1f7b17a84bfdc6fc3e925be675d622188264",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/40.txt",
+   "sha256": "679ebb38870abb8eb5b317840e9e1f7b17a84bfdc6fc3e925be675d622188264",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

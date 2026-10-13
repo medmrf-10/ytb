@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:7O4Mtq7eFIY",
+ "vid": "7O4Mtq7eFIY",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 82,
+ "n_src": "read",
+ "title": "خطب منبرية： تأثير الذكر على الحياة ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "956aa5a65834079d816143365fbe73427b08ad35d72005fb622cd6910e78ed7f",
+ "nh": "92db7c67e63da50b7cee0fb70e607493d38de4902aba58790dd4a5d953589717",
+ "chars": 11301,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/082_خطب منبرية： تأثير الذكر على الحياة ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/082_خطب منبرية： تأثير الذكر على الحياة ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "956aa5a65834079d816143365fbe73427b08ad35d72005fb622cd6910e78ed7f",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/81.txt",
+   "sha256": "956aa5a65834079d816143365fbe73427b08ad35d72005fb622cd6910e78ed7f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

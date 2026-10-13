@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:idelHZln40Q",
+ "vid": "idelHZln40Q",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--781",
+ "n": 6,
+ "n_src": "read",
+ "title": "(06) من إرهاصات النبوة ⧸ السيرة النبوية ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "a54c18906d0a13739eef3af3485a097008ffc86c85763fb6ce664d95752299d7",
+ "nh": "916df7db2ba21ed701bcce6d832606d0518062a6f0febbfc01d6c4f141419438",
+ "chars": 19676,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/781/006_(06) من إرهاصات النبوة ⧸ السيرة النبوية ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/781/006_(06) من إرهاصات النبوة ⧸ السيرة النبوية ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "a54c18906d0a13739eef3af3485a097008ffc86c85763fb6ce664d95752299d7",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/hafiz/irshad-suluk/5.txt",
+   "sha256": "a54c18906d0a13739eef3af3485a097008ffc86c85763fb6ce664d95752299d7",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/173/5.txt",
+   "sha256": "a54c18906d0a13739eef3af3485a097008ffc86c85763fb6ce664d95752299d7",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-omar-ibn-hafiz--173",
+  "habib-omar-ibn-hafiz--hafiz-irshad-suluk"
+ ]
+}

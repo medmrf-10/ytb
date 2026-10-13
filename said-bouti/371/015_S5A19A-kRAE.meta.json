@@ -1,0 +1,57 @@
+{
+ "v": 1,
+ "lid": "yt:S5A19A-kRAE",
+ "vid": "S5A19A-kRAE",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--371",
+ "n": 15,
+ "n_src": "plpos",
+ "title": "15- علوم القرآن الكريم | الإعجاز اللفظي والبلاغي",
+ "title_src": "yt_titles",
+ "sha256": "2e57b31c04ebf0bd8b70537d66bec47439bbc7d5e08f51d73a25be2ca69ff346",
+ "nh": "ede3c0d29560e33a5de1421f1e42ecf722d03deb483b48e829f3ba3e663b4c30",
+ "chars": 19013,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/371/015_15- علوم القرآن الكريم ｜ الإعجاز اللفظي والبلاغي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/371/015_15- علوم القرآن الكريم ｜ الإعجاز اللفظي والبلاغي.txt",
+   "sha256": "2e57b31c04ebf0bd8b70537d66bec47439bbc7d5e08f51d73a25be2ca69ff346",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/3oloumEl9or1n-015/transcript.txt",
+   "sha256": "6e27dd01fd37622e3345e0b593db669d57422cd95df6d5cfd2a111834709b235",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/muqtatafat-ulum/14.txt",
+   "sha256": "2e57b31c04ebf0bd8b70537d66bec47439bbc7d5e08f51d73a25be2ca69ff346",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-ulum-quran/15.txt",
+   "sha256": "6e27dd01fd37622e3345e0b593db669d57422cd95df6d5cfd2a111834709b235",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/355/14.txt",
+   "sha256": "2e57b31c04ebf0bd8b70537d66bec47439bbc7d5e08f51d73a25be2ca69ff346",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "said-bouti--bouti-muqtatafat-ulum"
+ ]
+}

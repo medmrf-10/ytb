@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:14",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 14,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 111 (-باب النكاح-قوله ＂ والابن أولى من الأب ＂ ) ｜",
+ "title_src": "filename",
+ "sha256": "eb0e38dcebe78754b610b9064292875c915b88ce6cbf06e03fbae9dc15061f4a",
+ "nh": "a22939a02597722c5e8b6450a13136232da6549cba9ba3b116a0dd5d517d365c",
+ "chars": 11728,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/014_شرح رسالة ابن ابي زيد ｜ الدرس 111 (-باب النكاح-قوله ＂ والابن أولى من الأب ＂ ) ｜ .txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/014_شرح رسالة ابن ابي زيد ｜ الدرس 111 (-باب النكاح-قوله ＂ والابن أولى من الأب ＂ ) ｜ .txt",
+   "sha256": "eb0e38dcebe78754b610b9064292875c915b88ce6cbf06e03fbae9dc15061f4a",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/112.txt",
+   "sha256": "eb0e38dcebe78754b610b9064292875c915b88ce6cbf06e03fbae9dc15061f4a",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

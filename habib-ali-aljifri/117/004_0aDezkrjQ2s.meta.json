@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:0aDezkrjQ2s",
+ "vid": "0aDezkrjQ2s",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--117",
+ "n": 4,
+ "n_src": "read",
+ "title": "حلقة 4- جعلوني ملحدا - سلسلة الإنسانية قبل التدين subtitled",
+ "title_src": "filename",
+ "sha256": "7be06b165f30e306d992654ccc98120fa5a33d061fa0de86c8fd601af55d7aa8",
+ "nh": "59dc1defe73e6db4f3fd547c9228bb3ead0b0d98ac10fbe558c55c3973680217",
+ "chars": 1874,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/117/004_حلقة 4- جعلوني ملحدا - سلسلة الإنسانية قبل التدين subtitled.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/117/004_حلقة 4- جعلوني ملحدا - سلسلة الإنسانية قبل التدين subtitled.txt",
+   "sha256": "7be06b165f30e306d992654ccc98120fa5a33d061fa0de86c8fd601af55d7aa8",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/insaniyya/16.txt",
+   "sha256": "7be06b165f30e306d992654ccc98120fa5a33d061fa0de86c8fd601af55d7aa8",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/112/16.txt",
+   "sha256": "7be06b165f30e306d992654ccc98120fa5a33d061fa0de86c8fd601af55d7aa8",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-ali-aljifri--112",
+  "k:117"
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:wMYWxLWRuSo",
+ "vid": "wMYWxLWRuSo",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--782",
+ "n": 25,
+ "n_src": "read",
+ "title": "(25) كلن وأخواتها (2) ⧸ شرح ابن عقيل ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "a1682bb57710d6d8f1f33e81d3b45c3de339d96962166de51177e75369c265e0",
+ "nh": "fc89972ea764e3e90fb36ada7424dea89ec3b90211082f077411fbc03b5082a1",
+ "chars": 20269,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/782/025_(25) كلن وأخواتها (2) ⧸ شرح ابن عقيل ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/782/025_(25) كلن وأخواتها (2) ⧸ شرح ابن عقيل ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "a1682bb57710d6d8f1f33e81d3b45c3de339d96962166de51177e75369c265e0",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/782/1.txt",
+   "sha256": "a1682bb57710d6d8f1f33e81d3b45c3de339d96962166de51177e75369c265e0",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

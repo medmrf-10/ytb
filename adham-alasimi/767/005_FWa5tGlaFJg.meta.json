@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:FWa5tGlaFJg",
+ "vid": "FWa5tGlaFJg",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--767",
+ "n": 5,
+ "n_src": "read",
+ "title": "(05) الفعل الأمر ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "c24e7efb451dceade244672a343ee68f47446e075812185cc7483af1c37837b0",
+ "nh": "5f2fbe71400511f7349b96cf8986b5c712e90d92261253cba33e1aef95da0828",
+ "chars": 16219,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/767/005_(05) الفعل الأمر ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/767/005_(05) الفعل الأمر ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "c24e7efb451dceade244672a343ee68f47446e075812185cc7483af1c37837b0",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/767/4.txt",
+   "sha256": "c24e7efb451dceade244672a343ee68f47446e075812185cc7483af1c37837b0",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

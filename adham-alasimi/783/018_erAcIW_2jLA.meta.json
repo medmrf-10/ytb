@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:erAcIW_2jLA",
+ "vid": "erAcIW_2jLA",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--783",
+ "n": 18,
+ "n_src": "read",
+ "title": "(18) الدرس الثامن عشر ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "4987e49b74d9bfaf155f7638b14416ce1bb88fc64b810f3b332aadd760403071",
+ "nh": "c575fac3b00c41d6f1e377deadb5f9fcd9e7d46a589a434368e5ba9ac523a653",
+ "chars": 15845,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/783/018_(18) الدرس الثامن عشر ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/783/018_(18) الدرس الثامن عشر ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "4987e49b74d9bfaf155f7638b14416ce1bb88fc64b810f3b332aadd760403071",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/783/17.txt",
+   "sha256": "4987e49b74d9bfaf155f7638b14416ce1bb88fc64b810f3b332aadd760403071",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

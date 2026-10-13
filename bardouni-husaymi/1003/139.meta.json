@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:139",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 139,
+ "n_src": "read|renumbered",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 93 ( قوله ＂و لا يجوز في شيء من ذالك عوراء٠٠ ＂ ) ｜",
+ "title_src": "filename",
+ "sha256": "afc62745303a85ee259a243b7ed222c610a7801b8fed62e433d693ab36370b75",
+ "nh": "f37a30eed7bf5d5eac73dc776b7984b64da06bbec0ec34324917d2ac68fefb79",
+ "chars": 20144,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bardouni/sharh-risala-2/033_شرح رسالة ابن ابي زيد ｜ الدرس 93 ( قوله ＂و لا يجوز في شيء من ذالك عوراء٠٠ ＂  ) ｜.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bardouni/sharh-risala-2/033_شرح رسالة ابن ابي زيد ｜ الدرس 93 ( قوله ＂و لا يجوز في شيء من ذالك عوراء٠٠ ＂  ) ｜.txt",
+   "sha256": "afc62745303a85ee259a243b7ed222c610a7801b8fed62e433d693ab36370b75",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bardouni/sharh-risala-2/032_شرح رسالة ابن ابي زيد ｜ الدرس 93 ( باب في الضحايا-تتمة-  ) ｜ الشيخ محمد البردوني.txt",
+   "sha256": "afc62745303a85ee259a243b7ed222c610a7801b8fed62e433d693ab36370b75",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

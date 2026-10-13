@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:ASJXhnW8P8E",
+ "vid": "ASJXhnW8P8E",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 64,
+ "n_src": "read",
+ "title": "خطب منبرية： خطورة الشرك وتاثير الإخلاص على الوجود ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "df7ac5cea92129a7ef45148de7278ca6b3b358e1d97abfb5614241eb55785b61",
+ "nh": "3fdbcbf1845bdadfb13306d91445b97b20f926729a619bb8c65b5d1d850ddd83",
+ "chars": 10187,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/064_خطب منبرية： خطورة الشرك وتاثير الإخلاص على الوجود ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/064_خطب منبرية： خطورة الشرك وتاثير الإخلاص على الوجود ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "df7ac5cea92129a7ef45148de7278ca6b3b358e1d97abfb5614241eb55785b61",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/63.txt",
+   "sha256": "df7ac5cea92129a7ef45148de7278ca6b3b358e1d97abfb5614241eb55785b61",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

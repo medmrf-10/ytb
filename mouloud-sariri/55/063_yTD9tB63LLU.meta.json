@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:yTD9tB63LLU",
+ "vid": "yTD9tB63LLU",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 63,
+ "n_src": "read",
+ "title": "خطب منبرية： الفرقان بين أولياء الرحمان وأولياء الشيطان ｜ الشيخ العلامة مولود ا",
+ "title_src": "filename",
+ "sha256": "7511e8f44ec4dfbd98141b1bee7a32d4db8f9f54dfb4ca11803eb2f25227e481",
+ "nh": "026990f31e7db63707c30b766b3dc560231197c4c77ffcc053b2e5288e5dcde8",
+ "chars": 9638,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/063_خطب منبرية： الفرقان بين أولياء الرحمان وأولياء الشيطان   ｜ الشيخ العلامة مولود ا.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/063_خطب منبرية： الفرقان بين أولياء الرحمان وأولياء الشيطان   ｜ الشيخ العلامة مولود ا.txt",
+   "sha256": "7511e8f44ec4dfbd98141b1bee7a32d4db8f9f54dfb4ca11803eb2f25227e481",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/62.txt",
+   "sha256": "7511e8f44ec4dfbd98141b1bee7a32d4db8f9f54dfb4ca11803eb2f25227e481",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:lAUR7gtiqvc",
+ "vid": "lAUR7gtiqvc",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--790",
+ "n": 28,
+ "n_src": "read",
+ "title": "ما الموت؟ لماذا نموت؟ لماذا نخافه؟ ⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "0f0c99300cf3883b53dfbe2bb47bdcf0e1435e36c717fa9d99c5bb6c78cb0899",
+ "nh": "bb3087f6be7fb7b4877090cd77ec553aeb02163599508650e263fdd45d105ae7",
+ "chars": 11304,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/790/028_ما الموت؟ لماذا نموت؟ لماذا نخافه؟ ⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/790/028_ما الموت؟ لماذا نموت؟ لماذا نخافه؟ ⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "0f0c99300cf3883b53dfbe2bb47bdcf0e1435e36c717fa9d99c5bb6c78cb0899",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/790/27.txt",
+   "sha256": "0f0c99300cf3883b53dfbe2bb47bdcf0e1435e36c717fa9d99c5bb6c78cb0899",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

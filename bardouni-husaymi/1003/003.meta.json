@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:3",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 3,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 122( باب في الإيلاء ) ｜ الشيخ محمد البردوني",
+ "title_src": "filename",
+ "sha256": "fb6d8f15fe9a5b0966c12b28f2263297e5b1284ae7e686c5b95636f9ec12b640",
+ "nh": "1e9f4416b470fcaf1aa3a9161fe76de8909d4da4d24d3e9cb3382cb5d0160183",
+ "chars": 14659,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/003_شرح رسالة ابن ابي زيد ｜ الدرس 122( باب في الإيلاء ) ｜ الشيخ محمد البردوني.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/003_شرح رسالة ابن ابي زيد ｜ الدرس 122( باب في الإيلاء ) ｜ الشيخ محمد البردوني.txt",
+   "sha256": "fb6d8f15fe9a5b0966c12b28f2263297e5b1284ae7e686c5b95636f9ec12b640",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/123.txt",
+   "sha256": "fb6d8f15fe9a5b0966c12b28f2263297e5b1284ae7e686c5b95636f9ec12b640",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

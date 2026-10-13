@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:f3SG5YZFc4Y",
+ "vid": "f3SG5YZFc4Y",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--790",
+ "n": 16,
+ "n_src": "read",
+ "title": "البعث وأحوال المبعوثين⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "4eda6f91d98138015b5e336c0f5cbc99aa024547345066373bde9f46878e16c7",
+ "nh": "150c94e4990b81496dc69420fc3ac67d867129bd416c3157f2a6290cc1400d1c",
+ "chars": 12064,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/790/016_البعث وأحوال المبعوثين⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/790/016_البعث وأحوال المبعوثين⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "4eda6f91d98138015b5e336c0f5cbc99aa024547345066373bde9f46878e16c7",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/790/15.txt",
+   "sha256": "4eda6f91d98138015b5e336c0f5cbc99aa024547345066373bde9f46878e16c7",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:TnipALRhjjk",
+ "vid": "TnipALRhjjk",
+ "sheikh": "hatem-alaouni",
+ "row_id": "hatem-alaouni--aouni-ibada",
+ "n": 3,
+ "n_src": "trfile",
+ "title": "المجلس الثالث في تحرير مفهوم العبادة (مفهوم العبادة عند علماء المسلمين) | أ.د الشريف حاتم العوني",
+ "title_src": "yt_titles",
+ "sha256": "9c8108bcc7d78793f474111c301eccd2dc623542c32b605c0e4b470d615f5df9",
+ "nh": "eef8b36884700e986335ec0161af6bd912163521ebdca754c3062b3ddb1b1235",
+ "chars": 89192,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/aouniIbada-003/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/aouniIbada-003/transcript.txt",
+   "sha256": "9c8108bcc7d78793f474111c301eccd2dc623542c32b605c0e4b470d615f5df9",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/aouni/ibada/003_TnipALRhjjk.txt",
+   "sha256": "9c8108bcc7d78793f474111c301eccd2dc623542c32b605c0e4b470d615f5df9",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/aouni-ibada/003.txt",
+   "sha256": "9c8108bcc7d78793f474111c301eccd2dc623542c32b605c0e4b470d615f5df9",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

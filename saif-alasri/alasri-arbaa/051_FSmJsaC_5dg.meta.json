@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:FSmJsaC_5dg",
+ "vid": "FSmJsaC_5dg",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 51,
+ "n_src": "trfile",
+ "title": "حكم الاحتفال بمولد النبي الكريم / الدكتور سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "3adadb72a090332e651da089af9065ac7c2d87856f8f8ead1396f3af54619ec1",
+ "nh": "0fbc8522d0cd5715658da40f0dbd5f9fe71cb5041c3466f943b0897e743b971c",
+ "chars": 26624,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-051/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-051/transcript.txt",
+   "sha256": "3adadb72a090332e651da089af9065ac7c2d87856f8f8ead1396f3af54619ec1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/051_FSmJsaC_5dg.txt",
+   "sha256": "3adadb72a090332e651da089af9065ac7c2d87856f8f8ead1396f3af54619ec1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/051.txt",
+   "sha256": "3adadb72a090332e651da089af9065ac7c2d87856f8f8ead1396f3af54619ec1",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

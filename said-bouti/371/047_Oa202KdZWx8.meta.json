@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:Oa202KdZWx8",
+ "vid": "Oa202KdZWx8",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--371",
+ "n": 47,
+ "n_src": "plpos",
+ "title": "47- علوم القرآن الكريم | دراسات تطبيقية في الوصف (وَأَنذِرْهُمْ يَوْمَ الْآزِفَةِ...)",
+ "title_src": "yt_titles",
+ "sha256": "4945fc66cee3e3091d408632428001c115dfbdb598156ab60cfe9118a279263d",
+ "nh": "33ee7ea907a5a95540bf725f850aff93b4f8c2b83d7c88c91a59905f08c69d21",
+ "chars": 19503,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/371/047_47- علوم القرآن الكريم ｜ دراسات تطبيقية في الوصف (وَأَنذِرْهُمْ يَوْمَ الْآزِفَة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/371/047_47- علوم القرآن الكريم ｜ دراسات تطبيقية في الوصف (وَأَنذِرْهُمْ يَوْمَ الْآزِفَة.txt",
+   "sha256": "4945fc66cee3e3091d408632428001c115dfbdb598156ab60cfe9118a279263d",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/3oloumEl9or1n-047/transcript.txt",
+   "sha256": "a5e0ee889881703184b72543371bb65857c67b28a258fa9cd1f4c2157d758374",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-ulum-quran/47.txt",
+   "sha256": "a5e0ee889881703184b72543371bb65857c67b28a258fa9cd1f4c2157d758374",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

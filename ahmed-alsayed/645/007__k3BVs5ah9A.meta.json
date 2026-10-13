@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:_k3BVs5ah9A",
+ "vid": "_k3BVs5ah9A",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--645",
+ "n": 7,
+ "n_src": "mutfile",
+ "title": "المودودي والندوي والتبليغ： قصة جذور الإصلاح في الهند ｜ التجارب الإصلاحية في العص",
+ "title_src": "filename",
+ "sha256": "e9db73b4bc7952005ce08e8e4185796ae6cf951d1b655056ab105c1c62880a1a",
+ "nh": "ef8253deb17d3861ff24f7f033daec37facb3197c43a8030e3ff79f877e90f98",
+ "chars": 27177,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/645/007_المودودي والندوي والتبليغ： قصة جذور الإصلاح في الهند ｜ التجارب الإصلاحية في العص.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/645/007_المودودي والندوي والتبليغ： قصة جذور الإصلاح في الهند ｜ التجارب الإصلاحية في العص.txt",
+   "sha256": "e9db73b4bc7952005ce08e8e4185796ae6cf951d1b655056ab105c1c62880a1a",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/tajaribI9la7iya-007/transcript.txt",
+   "sha256": "e9db73b4bc7952005ce08e8e4185796ae6cf951d1b655056ab105c1c62880a1a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-645/007.txt",
+   "sha256": "e9db73b4bc7952005ce08e8e4185796ae6cf951d1b655056ab105c1c62880a1a",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

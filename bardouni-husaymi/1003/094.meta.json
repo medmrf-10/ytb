@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:94",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 94,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 32 ( قوله ＂و وقت صلاة المغرب الاختياري ＂ ) ｜ الش",
+ "title_src": "filename",
+ "sha256": "c648c7b7cf1148e3609800fe35d59f86c01732677c588ea11371cb1a111602f4",
+ "nh": "178be99a0f92dea5ef5f9df0561d8a927c6bbd3e9e58fa1cfa30e4dd8fe0985e",
+ "chars": 19462,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/094_شرح رسالة ابن ابي زيد ｜ الدرس 32  ( قوله  ＂و وقت صلاة المغرب الاختياري ＂ ) ｜ الش.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/094_شرح رسالة ابن ابي زيد ｜ الدرس 32  ( قوله  ＂و وقت صلاة المغرب الاختياري ＂ ) ｜ الش.txt",
+   "sha256": "c648c7b7cf1148e3609800fe35d59f86c01732677c588ea11371cb1a111602f4",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/32.txt",
+   "sha256": "c648c7b7cf1148e3609800fe35d59f86c01732677c588ea11371cb1a111602f4",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

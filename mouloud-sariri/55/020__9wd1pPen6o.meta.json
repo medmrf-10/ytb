@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:_9wd1pPen6o",
+ "vid": "_9wd1pPen6o",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 20,
+ "n_src": "read",
+ "title": "خطب منبرية ： تغيير الباطن ⧸ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "abc9c27204651afe66f362225e54df4c3967da039247f4848da78bcc2077554f",
+ "nh": "3ea6fd71a9381370499d5036b4c21b756afb6bb67264e06bd3618201d1980156",
+ "chars": 13842,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/020_خطب منبرية ： تغيير الباطن ⧸ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/020_خطب منبرية ： تغيير الباطن ⧸ الشيخ العلامة مولود السريري.txt",
+   "sha256": "abc9c27204651afe66f362225e54df4c3967da039247f4848da78bcc2077554f",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/19.txt",
+   "sha256": "abc9c27204651afe66f362225e54df4c3967da039247f4848da78bcc2077554f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

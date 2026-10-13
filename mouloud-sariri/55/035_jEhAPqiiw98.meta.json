@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:jEhAPqiiw98",
+ "vid": "jEhAPqiiw98",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 35,
+ "n_src": "read",
+ "title": "خطب منبرية： ＂ تغير الحال سنة في دار الابتلاء ＂ ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "8e8bd7e32bb987f534fa2dcc31b76f2e90fb3efd5ffa14759701c7755b895611",
+ "nh": "e7617dcc8bc432e7d611ce432301b6b9eaf975d884f977704e770e52416ae268",
+ "chars": 15144,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/035_خطب منبرية： ＂ تغير الحال سنة في دار الابتلاء ＂ ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/035_خطب منبرية： ＂ تغير الحال سنة في دار الابتلاء ＂ ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "8e8bd7e32bb987f534fa2dcc31b76f2e90fb3efd5ffa14759701c7755b895611",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/34.txt",
+   "sha256": "8e8bd7e32bb987f534fa2dcc31b76f2e90fb3efd5ffa14759701c7755b895611",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

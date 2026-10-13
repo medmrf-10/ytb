@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:36",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 36,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 90 ( قوله ＂ و الإفراد بالحج أفضل ＂ ) ｜ الشيخ محمد",
+ "title_src": "filename",
+ "sha256": "7cd7191235c9414a4fcba0f64b2c89162c1396d9408d8f67e141c938ba2b2751",
+ "nh": "cebbbed77fcbb0295d307d7fbb73adb2672b9501116398e9e65e956c887633a0",
+ "chars": 16587,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/036_شرح رسالة ابن ابي زيد ｜ الدرس 90 ( قوله ＂ و الإفراد بالحج أفضل ＂  ) ｜ الشيخ محمد.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/036_شرح رسالة ابن ابي زيد ｜ الدرس 90 ( قوله ＂ و الإفراد بالحج أفضل ＂  ) ｜ الشيخ محمد.txt",
+   "sha256": "7cd7191235c9414a4fcba0f64b2c89162c1396d9408d8f67e141c938ba2b2751",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/90.txt",
+   "sha256": "7cd7191235c9414a4fcba0f64b2c89162c1396d9408d8f67e141c938ba2b2751",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

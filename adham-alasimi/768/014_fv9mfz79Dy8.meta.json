@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:fv9mfz79Dy8",
+ "vid": "fv9mfz79Dy8",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--768",
+ "n": 14,
+ "n_src": "read",
+ "title": "(14) القدرة والإرادة ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "1a4998e33dd2c6383397de3a7f67b72b3cd56c438bf5f9ea24f90363b2f5fbaf",
+ "nh": "0ec025c7b3f908b5a6226609dfcef2d6396a1cecd8b1225b036793d6e8ab33bf",
+ "chars": 25495,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/768/014_(14) القدرة والإرادة ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/768/014_(14) القدرة والإرادة ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "1a4998e33dd2c6383397de3a7f67b72b3cd56c438bf5f9ea24f90363b2f5fbaf",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/768/13.txt",
+   "sha256": "1a4998e33dd2c6383397de3a7f67b72b3cd56c438bf5f9ea24f90363b2f5fbaf",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

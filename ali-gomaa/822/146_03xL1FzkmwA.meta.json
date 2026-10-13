@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:03xL1FzkmwA",
+ "vid": "03xL1FzkmwA",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 146,
+ "n_src": "plpos",
+ "title": "#حديث_الجمعة | الــ 10 أحكام التي تغضب الأخوان من الحاكم",
+ "title_src": "yt_titles",
+ "sha256": "d0e078e1c381d200cd19bd84a8f0d395d0830dc56074d54de3710b733aa7c9d2",
+ "nh": "e4f79bb4ba33657f08ad64825a73451efa395aa9b0b2354cd5d9befb596cb6e4",
+ "chars": 9292,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/gomaa/mut-822/146_#حديث_الجمعة ｜ الــ 10 أحكام التي تغضب الأخوان من الحاكم.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/146_#حديث_الجمعة ｜ الــ 10 أحكام التي تغضب الأخوان من الحاكم.txt",
+   "sha256": "d0e078e1c381d200cd19bd84a8f0d395d0830dc56074d54de3710b733aa7c9d2",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/146.txt",
+   "sha256": "38630b86f3c10aab786ac151cc7f8ed047b53aaa04fd240b4a6afc2d1d87c139",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

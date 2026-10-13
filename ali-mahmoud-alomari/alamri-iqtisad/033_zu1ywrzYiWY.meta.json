@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:zu1ywrzYiWY",
+ "vid": "zu1ywrzYiWY",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+ "n": 33,
+ "n_src": "trfile",
+ "title": "الدرس الثَّالث والثلاثون_ القطب الثالث_ تتمَّة مقدّمة القطب الثَّالث.",
+ "title_src": "yt_titles",
+ "sha256": "3e96ee66452fd8835886ef6c5cdda00e503b605688b4502c543091fb07611ce8",
+ "nh": "3dbc7323c8b6458aea82f754c5ec249cf711b3a83fa68a62b532b1c6de45cdf1",
+ "chars": 42413,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriIqtisad-033/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriIqtisad-033/transcript.txt",
+   "sha256": "3e96ee66452fd8835886ef6c5cdda00e503b605688b4502c543091fb07611ce8",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-33_AlAmri.txt",
+   "sha256": "3e96ee66452fd8835886ef6c5cdda00e503b605688b4502c543091fb07611ce8",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-iqtisad/33.txt",
+   "sha256": "3e96ee66452fd8835886ef6c5cdda00e503b605688b4502c543091fb07611ce8",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

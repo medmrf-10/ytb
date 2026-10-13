@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:sSUQ9t1xMCk",
+ "vid": "sSUQ9t1xMCk",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-414",
+ "n": 111,
+ "n_src": "read",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 111",
+ "title_src": "filename",
+ "sha256": "e032eccc14384153afbdbdcba617c720c17994f831c1ef1c358affefa60a09f0",
+ "nh": "df7e152821fbe4ae19e9992aa1bd3f6e78ddd8d0cdb0070a49bcdb29ebf0ea31",
+ "chars": 19742,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/111_تفسير القرآن الكريم للدكتور البوطي - الدرس 111.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/111_تفسير القرآن الكريم للدكتور البوطي - الدرس 111.txt",
+   "sha256": "e032eccc14384153afbdbdcba617c720c17994f831c1ef1c358affefa60a09f0",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/111.txt",
+   "sha256": "3334999ee728ab259fd52fefe4841f5bbc91134e1e13cd0b5536b1be0e4df2c3",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:YP_NSEo15Lk",
+ "vid": "YP_NSEo15Lk",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 81,
+ "n_src": "read",
+ "title": "خطب منبرية： حال الإنسان وتأثر الوجود ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "33ffd58edd4badb972e87e4c15415c422a8c3dfbf49a21520cc709b83950d114",
+ "nh": "0516daa745df38bbc33e340252122066193e87419e2f2f1f7429e984ed115ed1",
+ "chars": 10092,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/081_خطب منبرية： حال الإنسان وتأثر الوجود ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/081_خطب منبرية： حال الإنسان وتأثر الوجود ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "33ffd58edd4badb972e87e4c15415c422a8c3dfbf49a21520cc709b83950d114",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/80.txt",
+   "sha256": "33ffd58edd4badb972e87e4c15415c422a8c3dfbf49a21520cc709b83950d114",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

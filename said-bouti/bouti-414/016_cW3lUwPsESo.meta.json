@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:cW3lUwPsESo",
+ "vid": "cW3lUwPsESo",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-414",
+ "n": 16,
+ "n_src": "trfile",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 16",
+ "title_src": "filename",
+ "sha256": "8f833653a80acabbe851ec7b833f2743b9c0474fee642e2fea59e9e17198ba81",
+ "nh": "a8def479627b7240d0aef6a6f290240b43465f843b51719294d0986add73639b",
+ "chars": 19395,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/016_تفسير القرآن الكريم للدكتور البوطي - الدرس 16.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/016_تفسير القرآن الكريم للدكتور البوطي - الدرس 16.txt",
+   "sha256": "8f833653a80acabbe851ec7b833f2743b9c0474fee642e2fea59e9e17198ba81",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/016.txt",
+   "sha256": "05d63306c820e4b334bd442e23d42914efc6ec83413c5aae9ebda9d3d3afedbb",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

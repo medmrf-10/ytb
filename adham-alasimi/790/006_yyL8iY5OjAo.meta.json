@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:yyL8iY5OjAo",
+ "vid": "yyL8iY5OjAo",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--790",
+ "n": 6,
+ "n_src": "read",
+ "title": "الشفاعة العامة ⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "103fa51fb715e63edba335f2a6d87229a51cb8659b72589775ffc78bf3087e29",
+ "nh": "d8993fd9b9d83b867eabf914070e1d26e8a185f821371535b67e0344fb9539ed",
+ "chars": 10473,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/790/006_الشفاعة العامة ⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/790/006_الشفاعة العامة ⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "103fa51fb715e63edba335f2a6d87229a51cb8659b72589775ffc78bf3087e29",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/790/5.txt",
+   "sha256": "103fa51fb715e63edba335f2a6d87229a51cb8659b72589775ffc78bf3087e29",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

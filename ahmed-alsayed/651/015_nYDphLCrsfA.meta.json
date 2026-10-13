@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:nYDphLCrsfA",
+ "vid": "nYDphLCrsfA",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--651",
+ "n": 15,
+ "n_src": "mutfile",
+ "title": "السادة الثلاثة ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "bad8c0f9050d17c6f80e716442b37dedad0060326b30f7764d2aa3be0309a440",
+ "nh": "9009dbf62bfa9e06bc3df23106bd3c02d78acd8eda6d15b5b45a7bf500d8e9f6",
+ "chars": 19156,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/651/015_السادة الثلاثة ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/651/015_السادة الثلاثة ｜ أحمد السيد.txt",
+   "sha256": "bad8c0f9050d17c6f80e716442b37dedad0060326b30f7764d2aa3be0309a440",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/siyarWa3ibar-015/transcript.txt",
+   "sha256": "2e0b96d48b25d84ae3da5c326d4f487b1af5e159a2ddd3a697f001c80898e783",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-651/015.txt",
+   "sha256": "2e0b96d48b25d84ae3da5c326d4f487b1af5e159a2ddd3a697f001c80898e783",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

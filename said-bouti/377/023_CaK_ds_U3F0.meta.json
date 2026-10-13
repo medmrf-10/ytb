@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:CaK_ds_U3F0",
+ "vid": "CaK_ds_U3F0",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--377",
+ "n": 23,
+ "n_src": "plpos",
+ "title": "17- كبرى اليقينيات الكونية | ظاهرة الوحي",
+ "title_src": "yt_titles",
+ "sha256": "ce09c1402ffdefaa5c0a17b551d9f7ee0787f5fd30fd6eb5b516852fc411f457",
+ "nh": "faf1a4671f64a5d9580526602dc826e78d8618a7b1f2e0b4a16f05b791a02159",
+ "chars": 23177,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/377/023_17- كبرى اليقينيات الكونية ｜ ظاهرة الوحي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/377/023_17- كبرى اليقينيات الكونية ｜ ظاهرة الوحي.txt",
+   "sha256": "ce09c1402ffdefaa5c0a17b551d9f7ee0787f5fd30fd6eb5b516852fc411f457",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/kobraElya9inyat-023/transcript.txt",
+   "sha256": "02c916dd216c1df7b442076ab446d556b2e51e83897e725bc013d132119c972c",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/23.txt",
+   "sha256": "02c916dd216c1df7b442076ab446d556b2e51e83897e725bc013d132119c972c",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/377/22.txt",
+   "sha256": "ce09c1402ffdefaa5c0a17b551d9f7ee0787f5fd30fd6eb5b516852fc411f457",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

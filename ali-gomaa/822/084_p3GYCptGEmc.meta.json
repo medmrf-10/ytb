@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:p3GYCptGEmc",
+ "vid": "p3GYCptGEmc",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 84,
+ "n_src": "plpos",
+ "title": "And God knows best | Dr. Ali Gomaa's explanation of the reality of jizya and fighting in Islam",
+ "title_src": "yt_titles",
+ "sha256": "6eb348d8afe30411a9d87ccf294846424e109aa867e46a3ffc7b3d0d31a6f118",
+ "nh": "ec5581f9e94ae0373a1c32eb6466001abc41437eedde06675760f8d8dc96898d",
+ "chars": 4131,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/084_والله أعلم ｜ توضيح دكتور علي جمعة لحقيقة الجزية و القتال في الاسلام.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/084_والله أعلم ｜ توضيح دكتور علي جمعة لحقيقة الجزية و القتال في الاسلام.txt",
+   "sha256": "6eb348d8afe30411a9d87ccf294846424e109aa867e46a3ffc7b3d0d31a6f118",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/084_والله أعلم ｜ توضيح دكتور علي جمعة لحقيقة الجزية و القتال في الاسلام.txt",
+   "sha256": "6eb348d8afe30411a9d87ccf294846424e109aa867e46a3ffc7b3d0d31a6f118",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/084.txt",
+   "sha256": "0ca5b6d2d99282264f343f7be60d37e1af24a2e1469d6c1206ed2bed591c873a",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:MzDE8Qmt6Fs",
+ "vid": "MzDE8Qmt6Fs",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-barahin-kitab",
+ "n": 11,
+ "n_src": "trfile",
+ "title": "الدرس الحادي عشر  كتاب أم البراهين",
+ "title_src": "yt_titles",
+ "sha256": "d93fceca84dd65dcccd144598e177f101d8e28dc524d83210a91d1b434ba049a",
+ "nh": "d4220663b61ca3414c6c10f9603c2896fcfc0e4361aec3638da8725e00c6ddd8",
+ "chars": 31158,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriBarahinKitab-011/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriBarahinKitab-011/transcript.txt",
+   "sha256": "d93fceca84dd65dcccd144598e177f101d8e28dc524d83210a91d1b434ba049a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/barahin-kitab/barahin-kitab-11_AlAmri.txt",
+   "sha256": "d93fceca84dd65dcccd144598e177f101d8e28dc524d83210a91d1b434ba049a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-barahin-kitab/11.txt",
+   "sha256": "d93fceca84dd65dcccd144598e177f101d8e28dc524d83210a91d1b434ba049a",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

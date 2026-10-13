@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:pL25g9Ue6OY",
+ "vid": "pL25g9Ue6OY",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--765",
+ "n": 12,
+ "n_src": "read",
+ "title": "(12) الأمر والنهي ⧸ جواهر البلاغة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "b94e5243fcb002def8c4178219ab2b1f35f940764a61e275fdbba225b9a5fa57",
+ "nh": "9eeebcff9aba74b14ebc5cbc351096c81b62c27ddc5717fa938576a5527cbeaa",
+ "chars": 17775,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/765/012_(12) الأمر والنهي ⧸ جواهر البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/765/012_(12) الأمر والنهي ⧸ جواهر البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "b94e5243fcb002def8c4178219ab2b1f35f940764a61e275fdbba225b9a5fa57",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/765/11.txt",
+   "sha256": "b94e5243fcb002def8c4178219ab2b1f35f940764a61e275fdbba225b9a5fa57",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

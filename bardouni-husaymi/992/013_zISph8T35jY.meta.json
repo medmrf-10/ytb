@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:zISph8T35jY",
+ "vid": "zISph8T35jY",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--992",
+ "n": 13,
+ "n_src": "read",
+ "title": "شرح العضدية ｜ الدرس 13 (قوله ＂ تنبيه ما هو من هذا القبيل لا يفيد التشخص الا بقري",
+ "title_src": "filename",
+ "sha256": "4d5c8ea481549e37288e97e7edb8a0955f5d4ceaa9c98f1971fa4e7d5ea2b375",
+ "nh": "12d1f2f89876b086b2646dbb6456c76944b1b256719eb4bcb0cabaf997523115",
+ "chars": 12531,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/992/013_شرح العضدية ｜ الدرس 13 (قوله ＂ تنبيه ما هو من هذا القبيل لا يفيد التشخص الا بقري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/992/013_شرح العضدية ｜ الدرس 13 (قوله ＂ تنبيه ما هو من هذا القبيل لا يفيد التشخص الا بقري.txt",
+   "sha256": "4d5c8ea481549e37288e97e7edb8a0955f5d4ceaa9c98f1971fa4e7d5ea2b375",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/sariri/risala-adudiyya/24.txt",
+   "sha256": "4d5c8ea481549e37288e97e7edb8a0955f5d4ceaa9c98f1971fa4e7d5ea2b375",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/36/24.txt",
+   "sha256": "4d5c8ea481549e37288e97e7edb8a0955f5d4ceaa9c98f1971fa4e7d5ea2b375",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "mouloud-sariri--36",
+  "mouloud-sariri--sariri-risala-adudiyya"
+ ]
+}

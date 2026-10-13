@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:GL0W4wmGALo",
+ "vid": "GL0W4wmGALo",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+ "n": 22,
+ "n_src": "trfile",
+ "title": "الدَّرس الثّّاني والعشرون_ القطب الثاني_  صفتا السمع والبصر",
+ "title_src": "yt_titles",
+ "sha256": "ea73fc76c43b6a288c80dbb243ac69da4c9e5ca39cb08ce69043c72c98c6063b",
+ "nh": "c70166e96bcb8ffedc9bbd54196b8e18c6565eeba05273e66a557313837eb31c",
+ "chars": 31567,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriIqtisad-022/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriIqtisad-022/transcript.txt",
+   "sha256": "ea73fc76c43b6a288c80dbb243ac69da4c9e5ca39cb08ce69043c72c98c6063b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-22_AlAmri.txt",
+   "sha256": "ea73fc76c43b6a288c80dbb243ac69da4c9e5ca39cb08ce69043c72c98c6063b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-iqtisad/22.txt",
+   "sha256": "ea73fc76c43b6a288c80dbb243ac69da4c9e5ca39cb08ce69043c72c98c6063b",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

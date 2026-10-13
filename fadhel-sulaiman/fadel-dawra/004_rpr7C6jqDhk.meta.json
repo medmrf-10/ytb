@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:rpr7C6jqDhk",
+ "vid": "rpr7C6jqDhk",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-dawra",
+ "n": 4,
+ "n_src": "trfile",
+ "title": "الدرس الرابع من دورة مفاتح التدبر | التواضع للقرآن | فاضل سليمان",
+ "title_src": "yt_titles",
+ "sha256": "faab444eb3bce0edb8fb7943bf93a4b21bae3cf01116da52b8ed777fedbfd39e",
+ "nh": "28b7732eaa3dcf299c8b90b18b7ae40cf5bf41a774622bd1482f3866d122a68e",
+ "chars": 3374,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelDawra-004/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelDawra-004/transcript.txt",
+   "sha256": "faab444eb3bce0edb8fb7943bf93a4b21bae3cf01116da52b8ed777fedbfd39e",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-dawra/004.txt",
+   "sha256": "faab444eb3bce0edb8fb7943bf93a4b21bae3cf01116da52b8ed777fedbfd39e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

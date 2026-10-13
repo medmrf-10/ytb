@@ -1,0 +1,51 @@
+{
+ "v": 1,
+ "lid": "yt:FB_sW4EysHo",
+ "vid": "FB_sW4EysHo",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-khutab-2010",
+ "n": 11,
+ "n_src": "trfile",
+ "title": "خطبة الإمام البوطي | عزاءٌ موجه للمحرومين من الحج",
+ "title_src": "yt_titles",
+ "sha256": "ad4b677fb4b67a760cf48f90aa4f32f7a06da382b12d0ce4b3e791e11cfe2124",
+ "nh": "3ad38b21f941e01c7af30de9a7ba560750cbe3d3204ae42aa7d842d314d2e347",
+ "chars": 12676,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/5o6ab-011/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/5o6ab-011/transcript.txt",
+   "sha256": "ad4b677fb4b67a760cf48f90aa4f32f7a06da382b12d0ce4b3e791e11cfe2124",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/khutab-2010/10.txt",
+   "sha256": "4045795499e4d46417a35ed2890805d1f6dfae2c23cdbeef4c1d582c22436514",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-khutab-2012/11.txt",
+   "sha256": "ad4b677fb4b67a760cf48f90aa4f32f7a06da382b12d0ce4b3e791e11cfe2124",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/344/10.txt",
+   "sha256": "4045795499e4d46417a35ed2890805d1f6dfae2c23cdbeef4c1d582c22436514",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "said-bouti--bouti-khutab-2012"
+ ]
+}

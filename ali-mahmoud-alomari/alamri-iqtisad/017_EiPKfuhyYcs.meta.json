@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:EiPKfuhyYcs",
+ "vid": "EiPKfuhyYcs",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+ "n": 17,
+ "n_src": "trfile",
+ "title": "الدَّرس السَّابع عشر_ القطب الثَّاني _ الكلام على معنى الكسب عند أهل السُّنة والجماعة.",
+ "title_src": "yt_titles",
+ "sha256": "5846950f0e039347b3a48d08f076378f156a0c9c24c35a5a21ea2b16df5c2aed",
+ "nh": "4a951ed8cdd736c168508e6255b005eadfd2a39fa1765355d3e873e15bc8a6d7",
+ "chars": 34768,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriIqtisad-017/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriIqtisad-017/transcript.txt",
+   "sha256": "5846950f0e039347b3a48d08f076378f156a0c9c24c35a5a21ea2b16df5c2aed",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-17_AlAmri.txt",
+   "sha256": "5846950f0e039347b3a48d08f076378f156a0c9c24c35a5a21ea2b16df5c2aed",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-iqtisad/17.txt",
+   "sha256": "5846950f0e039347b3a48d08f076378f156a0c9c24c35a5a21ea2b16df5c2aed",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

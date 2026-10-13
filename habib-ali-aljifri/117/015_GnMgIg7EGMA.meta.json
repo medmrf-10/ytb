@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:GnMgIg7EGMA",
+ "vid": "GnMgIg7EGMA",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--117",
+ "n": 15,
+ "n_src": "read",
+ "title": "حلقة 15 - الفرق بين المسلم والإٍسلامي - سلسلة حلقات الإنسانية قبل التدين",
+ "title_src": "filename",
+ "sha256": "d77c0efcd0441976d9491a1c167bcb6f2d98572550644483d0de377972a57d95",
+ "nh": "163197175b1b5be794bcc69a1c9e2f8ea7b1c17c7b6850f18dfbfbf311c6009c",
+ "chars": 1722,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/117/015_حلقة 15 - الفرق بين المسلم والإٍسلامي - سلسلة حلقات الإنسانية قبل التدين.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/117/015_حلقة 15 - الفرق بين المسلم والإٍسلامي - سلسلة حلقات الإنسانية قبل التدين.txt",
+   "sha256": "d77c0efcd0441976d9491a1c167bcb6f2d98572550644483d0de377972a57d95",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/insaniyya/27.txt",
+   "sha256": "d77c0efcd0441976d9491a1c167bcb6f2d98572550644483d0de377972a57d95",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/112/27.txt",
+   "sha256": "d77c0efcd0441976d9491a1c167bcb6f2d98572550644483d0de377972a57d95",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-ali-aljifri--112",
+  "k:117"
+ ]
+}

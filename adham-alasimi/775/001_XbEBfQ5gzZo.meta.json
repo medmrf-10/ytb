@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:XbEBfQ5gzZo",
+ "vid": "XbEBfQ5gzZo",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--775",
+ "n": 1,
+ "n_src": "read",
+ "title": "(01) المقدمة + أوائل المصنفين ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم العا",
+ "title_src": "filename",
+ "sha256": "0b4e2395c8c3d3732c6f686f9f7d4df313ee28e102fe65fc5cdbf1f22f263e2e",
+ "nh": "84fad7adcecb2fd26c67969adbe4e64dca1429c99157e35c3b50d7ecd464bdf0",
+ "chars": 23431,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/775/001_(01) المقدمة + أوائل المصنفين ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم العا.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/775/001_(01) المقدمة + أوائل المصنفين ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم العا.txt",
+   "sha256": "0b4e2395c8c3d3732c6f686f9f7d4df313ee28e102fe65fc5cdbf1f22f263e2e",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/775/0.txt",
+   "sha256": "0b4e2395c8c3d3732c6f686f9f7d4df313ee28e102fe65fc5cdbf1f22f263e2e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

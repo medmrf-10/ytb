@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:OQxzSOWyQKo",
+ "vid": "OQxzSOWyQKo",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--371",
+ "n": 29,
+ "n_src": "plpos",
+ "title": "29- علوم القرآن الكريم | القصة في القرآن الكريم",
+ "title_src": "yt_titles",
+ "sha256": "9aa9fc424b20bfc941380100862e49e7e73f1050d7a4f1d3263ce95776870254",
+ "nh": "a33685a0044b3873e5a0b449cf7ab35b97b292db3674c6e9902858e343d9b513",
+ "chars": 21817,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/371/029_29- علوم القرآن الكريم ｜ القصة في القرآن الكريم.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/371/029_29- علوم القرآن الكريم ｜ القصة في القرآن الكريم.txt",
+   "sha256": "9aa9fc424b20bfc941380100862e49e7e73f1050d7a4f1d3263ce95776870254",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/3oloumEl9or1n-029/transcript.txt",
+   "sha256": "3e33e1082d3124832a0ecfc52dba38917f8ef689aca2fa5656e19d691efc51ea",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-ulum-quran/29.txt",
+   "sha256": "3e33e1082d3124832a0ecfc52dba38917f8ef689aca2fa5656e19d691efc51ea",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:VEVywk4Uaco",
+ "vid": "VEVywk4Uaco",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-414",
+ "n": 23,
+ "n_src": "trfile",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 23",
+ "title_src": "filename",
+ "sha256": "6a582f4b4ea6e7e36114977a98e9591b00354f9d7e34e68c1ff3766617df6f4a",
+ "nh": "2a4107fc23c975d43b40f564cb1befd5356f651b6ae3095ecd780627dcd4a695",
+ "chars": 22219,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/023_تفسير القرآن الكريم للدكتور البوطي - الدرس 23.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/023_تفسير القرآن الكريم للدكتور البوطي - الدرس 23.txt",
+   "sha256": "6a582f4b4ea6e7e36114977a98e9591b00354f9d7e34e68c1ff3766617df6f4a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/023.txt",
+   "sha256": "b72d81c90fdb76b5c0e251e11af5baf75cc3ea91f8284256b86155f7063cb78a",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

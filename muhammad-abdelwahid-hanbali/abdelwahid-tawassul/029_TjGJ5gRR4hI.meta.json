@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:TjGJ5gRR4hI",
+ "vid": "TjGJ5gRR4hI",
+ "sheikh": "muhammad-abdelwahid-hanbali",
+ "row_id": "muhammad-abdelwahid-hanbali--abdelwahid-tawassul",
+ "n": 29,
+ "n_src": "trfile",
+ "title": "منهج الحنابلة في التعامل مع اختيارات الشيخ ابن تيمية الفقهية",
+ "title_src": "yt_titles",
+ "sha256": "fef3eb3b479c7dce37c85b4231876c73ac594cd13a098e1bf340107bff109932",
+ "nh": "b75f27e02fb4d798fbd881ac6c4808ae1462f2ee483b4db45b02d43bd72e79b9",
+ "chars": 88322,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/abdelwahidTawassul-029/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/abdelwahidTawassul-029/transcript.txt",
+   "sha256": "fef3eb3b479c7dce37c85b4231876c73ac594cd13a098e1bf340107bff109932",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/abdelwahid-tawassul/029.txt",
+   "sha256": "fef3eb3b479c7dce37c85b4231876c73ac594cd13a098e1bf340107bff109932",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:AJTk9Pe2b1U",
+ "vid": "AJTk9Pe2b1U",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 23,
+ "n_src": "plpos",
+ "title": "المتشددون | حـ 23 | مفهوم الحاكمية عند سيد قطب | أ.د علي جمعة",
+ "title_src": "yt_titles",
+ "sha256": "97989d4d1705c1754a983fe730e2f6222c417cccbffd84abe8fa56c68f21c925",
+ "nh": "6cea484045335326adb0ece28e965e4e374df10298cd4ada2741b0dec12120a9",
+ "chars": 15363,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/023_المتشددون ｜ حـ 23 ｜ مفهوم الحاكمية عند سيد قطب ｜ أ.د علي جمعة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/023_المتشددون ｜ حـ 23 ｜ مفهوم الحاكمية عند سيد قطب ｜ أ.د علي جمعة.txt",
+   "sha256": "97989d4d1705c1754a983fe730e2f6222c417cccbffd84abe8fa56c68f21c925",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/023_المتشددون ｜ حـ 23 ｜ مفهوم الحاكمية عند سيد قطب ｜ أ.د علي جمعة.txt",
+   "sha256": "97989d4d1705c1754a983fe730e2f6222c417cccbffd84abe8fa56c68f21c925",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/023.txt",
+   "sha256": "23ee5d8017e014d062421ed56406889ce9aa6228ef34eb79ed40fa38db9b8b16",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

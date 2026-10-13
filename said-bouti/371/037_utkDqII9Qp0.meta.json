@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:utkDqII9Qp0",
+ "vid": "utkDqII9Qp0",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--371",
+ "n": 37,
+ "n_src": "plpos",
+ "title": "37- علوم القرآن الكريم | فلسفة القرآن الكريم عن الحياة",
+ "title_src": "yt_titles",
+ "sha256": "a025d95dc1e65c14bc782052a807d5088a20f8459564fd12c9765aae707d04b4",
+ "nh": "ee6694d525dff25e0b0a168129503b82f01fad873c3dba65e7a0a885b648d7d8",
+ "chars": 19014,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/371/037_37- علوم القرآن الكريم ｜ فلسفة القرآن الكريم عن الحياة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/371/037_37- علوم القرآن الكريم ｜ فلسفة القرآن الكريم عن الحياة.txt",
+   "sha256": "a025d95dc1e65c14bc782052a807d5088a20f8459564fd12c9765aae707d04b4",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/3oloumEl9or1n-037/transcript.txt",
+   "sha256": "9b668e593a3b9957b429e474d5d52a829df59ddfb620b37fd482b7bdba263961",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-ulum-quran/37.txt",
+   "sha256": "9b668e593a3b9957b429e474d5d52a829df59ddfb620b37fd482b7bdba263961",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

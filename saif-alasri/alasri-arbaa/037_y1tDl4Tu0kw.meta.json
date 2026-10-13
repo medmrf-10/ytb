@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:y1tDl4Tu0kw",
+ "vid": "y1tDl4Tu0kw",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 37,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / إبطال الرمس عن حديث سجود الشمس / د. سيف العصري / الرد  على د. عدنان إبراهيم",
+ "title_src": "yt_titles",
+ "sha256": "b572e9f479c3a6365dcd2039e9a29e7e62a5ff173f9aecc3c1f61abf16a0a649",
+ "nh": "08bf8a5e936ae22019335998696137079b64e405e33b16a53d58b3fb58ca05df",
+ "chars": 15047,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-037/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-037/transcript.txt",
+   "sha256": "b572e9f479c3a6365dcd2039e9a29e7e62a5ff173f9aecc3c1f61abf16a0a649",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/037_y1tDl4Tu0kw.txt",
+   "sha256": "b572e9f479c3a6365dcd2039e9a29e7e62a5ff173f9aecc3c1f61abf16a0a649",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/037.txt",
+   "sha256": "b572e9f479c3a6365dcd2039e9a29e7e62a5ff173f9aecc3c1f61abf16a0a649",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

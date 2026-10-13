@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:QY5DV02Lqhs",
+ "vid": "QY5DV02Lqhs",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 111,
+ "n_src": "plpos",
+ "title": "#Friday_Talk | The truth about Sayyid Qutb's atheism... and his failure to mention the Prophet Mu...",
+ "title_src": "yt_titles",
+ "sha256": "52619a327df7f5cc434f552b64be24b07970bfa76abcf9fa09633d42cf481cb0",
+ "nh": "dbfca3e6ea595247c10bd9f1d00d0f43a360f6069e7b43b63a605cbe3cdef642",
+ "chars": 8394,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/111_#حديث_الجمعة ｜ حقيقة إلحاد سيد قطب .. وعدم ذكره لرسول الله في كتبه.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/111_#حديث_الجمعة ｜ حقيقة إلحاد سيد قطب .. وعدم ذكره لرسول الله في كتبه.txt",
+   "sha256": "52619a327df7f5cc434f552b64be24b07970bfa76abcf9fa09633d42cf481cb0",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/111_#حديث_الجمعة ｜ حقيقة إلحاد سيد قطب .. وعدم ذكره لرسول الله في كتبه.txt",
+   "sha256": "52619a327df7f5cc434f552b64be24b07970bfa76abcf9fa09633d42cf481cb0",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/111.txt",
+   "sha256": "f3e31b356e0c65cfe6e2cf9e99f5cfedf539421bb4fda14f47db7a7d689acbff",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

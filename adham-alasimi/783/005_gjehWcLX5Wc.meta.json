@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:gjehWcLX5Wc",
+ "vid": "gjehWcLX5Wc",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--783",
+ "n": 5,
+ "n_src": "read",
+ "title": "(5) الدرس الخامس ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "62397944e7de4c9017977c000a74904a57cd92ea973b68fcd33c608cb84f04a3",
+ "nh": "58a1bab00791ae3c0384da92765dfc1fa4dd5e21b20074f5728cefeda2cd3de3",
+ "chars": 13427,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/783/005_(5) الدرس الخامس ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/783/005_(5) الدرس الخامس ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "62397944e7de4c9017977c000a74904a57cd92ea973b68fcd33c608cb84f04a3",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/783/4.txt",
+   "sha256": "62397944e7de4c9017977c000a74904a57cd92ea973b68fcd33c608cb84f04a3",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

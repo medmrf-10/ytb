@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:gmy1PuarzW0",
+ "vid": "gmy1PuarzW0",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--768",
+ "n": 6,
+ "n_src": "read",
+ "title": "(6) المعرفة ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "3bade7d4854268a940c105806188929801a7540a3c612813302e2ba45473719b",
+ "nh": "aee5774de12725cd3347be7698333cc757264dc581282c4856241678cd3694d8",
+ "chars": 9976,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/768/006_(6) المعرفة ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/768/006_(6) المعرفة ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "3bade7d4854268a940c105806188929801a7540a3c612813302e2ba45473719b",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/768/5.txt",
+   "sha256": "3bade7d4854268a940c105806188929801a7540a3c612813302e2ba45473719b",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

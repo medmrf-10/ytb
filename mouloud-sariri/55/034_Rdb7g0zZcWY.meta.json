@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:Rdb7g0zZcWY",
+ "vid": "Rdb7g0zZcWY",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 34,
+ "n_src": "read",
+ "title": "خطب منبرية： ＂ بناء الأحكام على الأوهام ＂ ⧸ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "c5a122548afaa1e28b584f50dfcb4667081393d3389db8e9307a47c7845fa30b",
+ "nh": "d98e00454f71a7afdccde30dca80fcc14ae2bfa83263c9bca671668c6f8824b4",
+ "chars": 14916,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/034_خطب منبرية： ＂ بناء الأحكام على الأوهام ＂ ⧸ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/034_خطب منبرية： ＂ بناء الأحكام على الأوهام ＂ ⧸ الشيخ العلامة مولود السريري.txt",
+   "sha256": "c5a122548afaa1e28b584f50dfcb4667081393d3389db8e9307a47c7845fa30b",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/33.txt",
+   "sha256": "c5a122548afaa1e28b584f50dfcb4667081393d3389db8e9307a47c7845fa30b",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,39 @@
+{
+ "v": 1,
+ "lid": "yt:wW1_BVCu2A8",
+ "vid": "wW1_BVCu2A8",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--114",
+ "n": 8,
+ "n_src": "read",
+ "title": "الإنسانية قبل التدين ｜ حلقة 3 - كيف تتوافق رغبات الإنسان بالإنسانية ｜ علي الجفري",
+ "title_src": "filename",
+ "sha256": "de6ef5aba89c80f304dd6a27634870a56eacb44677cb30a94b13bc0624a48085",
+ "nh": "8784025b53b214810da1c2baa93288794199dca883f8c96e0c14a31317cd7ff1",
+ "chars": 8559,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/114/008_الإنسانية قبل التدين ｜ حلقة 3 - كيف تتوافق رغبات الإنسان بالإنسانية ｜ علي الجفري.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/114/008_الإنسانية قبل التدين ｜ حلقة 3 - كيف تتوافق رغبات الإنسان بالإنسانية ｜ علي الجفري.txt",
+   "sha256": "de6ef5aba89c80f304dd6a27634870a56eacb44677cb30a94b13bc0624a48085",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/114/7.txt",
+   "sha256": "92f59e1d46f110c2c39a68c7a6f3dacdcbebbd593897e9a536f14638a63679b0",
+   "rel": "variant"
+  }
+ ],
+ "variants": [
+  "_variants/008_wW1_BVCu2A8.des-dur.txt"
+ ],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:YWw5ECWOMB0",
+ "vid": "YWw5ECWOMB0",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--101",
+ "n": 33,
+ "n_src": "read",
+ "title": "أيها المريد ｜ الحلقة 13 ｜ مفهوم الزهد ｜ علي الجفري ｜",
+ "title_src": "filename",
+ "sha256": "8df4d87c1b7027545cfa7081562313d3857cc73244d797f42a72b98e453809b7",
+ "nh": "9e1f1c3f7f601c39a6fbad1713a860c98019dc1038bb2ce03b6fdc953fad9dc0",
+ "chars": 14209,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/101/014_‏أيها المريد ｜ الحلقة 13 ｜ مفهوم الزهد ｜ علي الجفري ｜ English subtitle.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/101/014_‏أيها المريد ｜ الحلقة 13 ｜ مفهوم الزهد ｜ علي الجفري ｜ English subtitle.txt",
+   "sha256": "8df4d87c1b7027545cfa7081562313d3857cc73244d797f42a72b98e453809b7",
+   "rel": "identical"
+  },
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/101/014_أيها المريد ｜ الحلقة 13 ｜ مفهوم الزهد ｜ علي الجفري ｜ English subtitle.txt",
+   "sha256": "7ae655482fe72cf3795bc331b833587b3d83b2d9e1ff6f3286a8658c205e2d3e",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/101/13.txt",
+   "sha256": "7ae655482fe72cf3795bc331b833587b3d83b2d9e1ff6f3286a8658c205e2d3e",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

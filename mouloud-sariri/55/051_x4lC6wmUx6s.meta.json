@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:x4lC6wmUx6s",
+ "vid": "x4lC6wmUx6s",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 51,
+ "n_src": "read",
+ "title": "خطب منبرية： الشدائد منح ربانية عند أهل الإيمان ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "f3c4d73dbd67c168afd750f0537d7973a04016eeb7306002cf764122a8eaf057",
+ "nh": "cc360604e473f7ac683909939a59f5e4c2cb44c5145eab65850fdcab14fb54c7",
+ "chars": 11311,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/051_خطب منبرية： الشدائد منح ربانية عند أهل الإيمان ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/051_خطب منبرية： الشدائد منح ربانية عند أهل الإيمان ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "f3c4d73dbd67c168afd750f0537d7973a04016eeb7306002cf764122a8eaf057",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/50.txt",
+   "sha256": "f3c4d73dbd67c168afd750f0537d7973a04016eeb7306002cf764122a8eaf057",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

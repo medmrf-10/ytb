@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:MoowcbbRntY",
+ "vid": "MoowcbbRntY",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--796",
+ "n": 7,
+ "n_src": "read",
+ "title": "(07) (مهما وما ولما) والخلاف بينهما ⧸ قطر الندى ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "074fbdddeb227d1262cd30d4b452cfb901b8fc44691a7ba92d6ae958819c2f87",
+ "nh": "47e13c363b22604402a3c1cc512f819206df9823a96e1ba4902f038d582c5679",
+ "chars": 22878,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/796/007_(07) (مهما وما ولما) والخلاف بينهما ⧸ قطر الندى ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/796/007_(07) (مهما وما ولما) والخلاف بينهما ⧸ قطر الندى ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "074fbdddeb227d1262cd30d4b452cfb901b8fc44691a7ba92d6ae958819c2f87",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/796/6.txt",
+   "sha256": "074fbdddeb227d1262cd30d4b452cfb901b8fc44691a7ba92d6ae958819c2f87",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

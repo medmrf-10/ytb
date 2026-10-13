@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:39",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 39,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 87 ( قوله ＂ و العمرة يفعل فيها كما ذكرنا ＂ ) ｜ ال",
+ "title_src": "filename",
+ "sha256": "8ce685d78f3ea01fa4ee8be377b82c4ed7c2a3e4f22ce16028ffa88f7f911f2b",
+ "nh": "76fd50f4755bc72b9ac1c4cec9268a5eebd3dc3d62a45c4533ebbd9662e1d6ad",
+ "chars": 20235,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/039_شرح رسالة ابن ابي زيد ｜ الدرس 87 ( قوله ＂ و العمرة يفعل فيها كما ذكرنا ＂  ) ｜ ال.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/039_شرح رسالة ابن ابي زيد ｜ الدرس 87 ( قوله ＂ و العمرة يفعل فيها كما ذكرنا ＂  ) ｜ ال.txt",
+   "sha256": "8ce685d78f3ea01fa4ee8be377b82c4ed7c2a3e4f22ce16028ffa88f7f911f2b",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/87.txt",
+   "sha256": "8ce685d78f3ea01fa4ee8be377b82c4ed7c2a3e4f22ce16028ffa88f7f911f2b",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

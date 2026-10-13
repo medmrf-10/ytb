@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:q7_IHnZsM0g",
+ "vid": "q7_IHnZsM0g",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--779",
+ "n": 14,
+ "n_src": "read",
+ "title": "(14) التشبيه ،أركان وأقسامه ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "a3588f9441a18b3c25b5c4fb9ebc4ae1da5a8a71b2005ec611331f309cb6211e",
+ "nh": "d32e3ffbe729a12f53a52bef77802ed01cd6052629e3fa9fb4550d0f6bcbf471",
+ "chars": 23262,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/779/014_(14) التشبيه ،أركان وأقسامه ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/779/014_(14) التشبيه ،أركان وأقسامه ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "a3588f9441a18b3c25b5c4fb9ebc4ae1da5a8a71b2005ec611331f309cb6211e",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/779/13.txt",
+   "sha256": "a3588f9441a18b3c25b5c4fb9ebc4ae1da5a8a71b2005ec611331f309cb6211e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

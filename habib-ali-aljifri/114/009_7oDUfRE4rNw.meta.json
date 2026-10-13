@@ -1,0 +1,39 @@
+{
+ "v": 1,
+ "lid": "yt:7oDUfRE4rNw",
+ "vid": "7oDUfRE4rNw",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--114",
+ "n": 9,
+ "n_src": "read",
+ "title": "الإنسانية قبل التدين ｜ الحلقة 8 - محبة الله والنبي وأثرها ｜ علي الجفري ｜ Englis",
+ "title_src": "filename",
+ "sha256": "c1989b52e60427fd8e0fa1c9e2809c6397f913c347962c8c07dd3a03dc340841",
+ "nh": "88476c1a506a5c4fdec0d2c92cabcdef423338369257f781e1891d230bed683c",
+ "chars": 8617,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/114/009_الإنسانية قبل التدين ｜ الحلقة 8 - محبة الله والنبي وأثرها  ｜ علي الجفري ｜ Englis.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/114/009_الإنسانية قبل التدين ｜ الحلقة 8 - محبة الله والنبي وأثرها  ｜ علي الجفري ｜ Englis.txt",
+   "sha256": "c1989b52e60427fd8e0fa1c9e2809c6397f913c347962c8c07dd3a03dc340841",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/114/8.txt",
+   "sha256": "3aea6eb87b79cbcc5cc0bf21782f3e112176ee03a5db324d317c285838c9b715",
+   "rel": "variant"
+  }
+ ],
+ "variants": [
+  "_variants/009_7oDUfRE4rNw.des-dur.txt"
+ ],
+ "also_in": []
+}

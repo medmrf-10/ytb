@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:8hRZG9Dj5og",
+ "vid": "8hRZG9Dj5og",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-dawra",
+ "n": 2,
+ "n_src": "trfile",
+ "title": "الدرس الثاني من دورة مفاتح التدبر | التدبر القلبي | فاضل سليمان",
+ "title_src": "yt_titles",
+ "sha256": "cc579b9601ddb5856c44317c77e46fffde9b0a06d2320a486f4f370471b06823",
+ "nh": "62bdd0f2493083a9e89756664213ac518647674f266ccc1c3bb5f547141a5453",
+ "chars": 9406,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelDawra-002/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelDawra-002/transcript.txt",
+   "sha256": "cc579b9601ddb5856c44317c77e46fffde9b0a06d2320a486f4f370471b06823",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-dawra/002.txt",
+   "sha256": "cc579b9601ddb5856c44317c77e46fffde9b0a06d2320a486f4f370471b06823",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:XIjSGfLacKo",
+ "vid": "XIjSGfLacKo",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 3,
+ "n_src": "plpos",
+ "title": "المتشددون | حـ 3 | الخديوي اسماعيل والنهضة | أ.د علي جمعة",
+ "title_src": "yt_titles",
+ "sha256": "7b46c7eb71eed6e00ef97d03c47543d596223cb5fb4f22ae78819933d40f8e7c",
+ "nh": "5f0116b7f3fc279e0907767c060b01ea59593ab251257e4aea3ee3a4af3c85fd",
+ "chars": 15923,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/003_المتشددون ｜ حـ 3 ｜ الخديوي اسماعيل والنهضة ｜ أ.د علي جمعة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/003_المتشددون ｜ حـ 3 ｜ الخديوي اسماعيل والنهضة ｜ أ.د علي جمعة.txt",
+   "sha256": "7b46c7eb71eed6e00ef97d03c47543d596223cb5fb4f22ae78819933d40f8e7c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/003_المتشددون ｜ حـ 3 ｜ الخديوي اسماعيل والنهضة ｜ أ.د علي جمعة.txt",
+   "sha256": "7b46c7eb71eed6e00ef97d03c47543d596223cb5fb4f22ae78819933d40f8e7c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/003.txt",
+   "sha256": "0806f6524c6f84467d196db360ac4027358dc4813c98a6f2c6a717552db7151a",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

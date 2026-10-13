@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:Vz30WUUlYmQ",
+ "vid": "Vz30WUUlYmQ",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--628",
+ "n": 6,
+ "n_src": "mutfile",
+ "title": "السيرة النبوية للمصلحين 06 ｜ السابقون الأولون في الإسلام ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "d8c84e8e6977474c025967edb38afd8c78a8073dab451bd33e51704e2754848b",
+ "nh": "6f304f1880138408bed9e7438d8bce7e3f46843903ed3590438b28a70ca1de67",
+ "chars": 25185,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/628/006_السيرة النبوية للمصلحين 06 ｜ السابقون الأولون في الإسلام ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/628/006_السيرة النبوية للمصلحين 06 ｜ السابقون الأولون في الإسلام ｜ أحمد السيد.txt",
+   "sha256": "d8c84e8e6977474c025967edb38afd8c78a8073dab451bd33e51704e2754848b",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/elsiraLilmosli7in-006/transcript.txt",
+   "sha256": "751046fb8efc58bcf5cfbd0cadef50f4415ba8e11d959535b91c9b4c3d550509",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-628/006.txt",
+   "sha256": "751046fb8efc58bcf5cfbd0cadef50f4415ba8e11d959535b91c9b4c3d550509",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

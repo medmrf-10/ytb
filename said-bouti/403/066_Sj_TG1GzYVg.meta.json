@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:Sj_TG1GzYVg",
+ "vid": "Sj_TG1GzYVg",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--403",
+ "n": 66,
+ "n_src": "plpos",
+ "title": "64 - فقه السيرة النبوية | خاتمة في بعض صفاته ﷺ وفضل زيارة مسجده وقبره",
+ "title_src": "yt_titles",
+ "sha256": "f806eab005de814edc771ce0a1e2bf4b80b26c06690155dce501b468b2fa597d",
+ "nh": "e7010b582a07a2bbfa2f3e1451b5b1b5a705af8095f9bf5ac104bcc65433152a",
+ "chars": 25771,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/403/066_64 - فقه السيرة النبوية ｜ خاتمة في بعض صفاته ﷺ وفضل زيارة مسجده وقبره.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/403/066_64 - فقه السيرة النبوية ｜ خاتمة في بعض صفاته ﷺ وفضل زيارة مسجده وقبره.txt",
+   "sha256": "f806eab005de814edc771ce0a1e2bf4b80b26c06690155dce501b468b2fa597d",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fi9hElsirah-066/transcript.txt",
+   "sha256": "7009a0d7b3667faf84b751e483b73479952d3eba36d1965dbfb3e0017cd55946",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-sira/66.txt",
+   "sha256": "7009a0d7b3667faf84b751e483b73479952d3eba36d1965dbfb3e0017cd55946",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/403/65.txt",
+   "sha256": "f806eab005de814edc771ce0a1e2bf4b80b26c06690155dce501b468b2fa597d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

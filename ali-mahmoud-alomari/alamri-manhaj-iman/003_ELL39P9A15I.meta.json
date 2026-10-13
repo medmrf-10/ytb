@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:ELL39P9A15I",
+ "vid": "ELL39P9A15I",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-manhaj-iman",
+ "n": 3,
+ "n_src": "trfile",
+ "title": "الدرس 3",
+ "title_src": "filename",
+ "sha256": "b2cffb319441dbed4137dc506c850c68bfdc1e74b3565c561450aecd01249391",
+ "nh": "6f73cd2501494167cdbf081bd2d51bc204b9866e0bd8c3b3bdd6120264ad8a91",
+ "chars": 33719,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriManhajIman-003/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriManhajIman-003/transcript.txt",
+   "sha256": "b2cffb319441dbed4137dc506c850c68bfdc1e74b3565c561450aecd01249391",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/manhaj-iman/manhaj-iman-03_AlAmri.txt",
+   "sha256": "b2cffb319441dbed4137dc506c850c68bfdc1e74b3565c561450aecd01249391",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-manhaj-iman/03.txt",
+   "sha256": "b2cffb319441dbed4137dc506c850c68bfdc1e74b3565c561450aecd01249391",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

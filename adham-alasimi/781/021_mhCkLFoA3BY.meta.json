@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:mhCkLFoA3BY",
+ "vid": "mhCkLFoA3BY",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--781",
+ "n": 21,
+ "n_src": "read",
+ "title": "(21) موقف السيدة خديجة من الوحي ⧸ السيرة النبوية ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "c12aa599b58d1cbf322cd2cca034c949b29c4cc0a850fbdc6ffe3a4a8628a0b4",
+ "nh": "f46f976865f2f4e102224f16df3d7bcc64f24ce85780b1a3be2e53e21955abae",
+ "chars": 18213,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/781/021_(21) موقف السيدة خديجة من الوحي ⧸ السيرة النبوية ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/781/021_(21) موقف السيدة خديجة من الوحي ⧸ السيرة النبوية ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "c12aa599b58d1cbf322cd2cca034c949b29c4cc0a850fbdc6ffe3a4a8628a0b4",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/hafiz/irshad-suluk/0.txt",
+   "sha256": "c12aa599b58d1cbf322cd2cca034c949b29c4cc0a850fbdc6ffe3a4a8628a0b4",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/173/0.txt",
+   "sha256": "c12aa599b58d1cbf322cd2cca034c949b29c4cc0a850fbdc6ffe3a4a8628a0b4",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-omar-ibn-hafiz--173",
+  "habib-omar-ibn-hafiz--hafiz-irshad-suluk"
+ ]
+}

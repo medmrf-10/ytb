@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:HKkxXW9PEic",
+ "vid": "HKkxXW9PEic",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1006",
+ "n": 5,
+ "n_src": "read",
+ "title": "شرح لامية العرب ｜ الدرس 6 ( الأبيات -١٨-١٩-) ｜ الشيخ محمد البردوني الحسيمي",
+ "title_src": "filename",
+ "sha256": "7dff974c369e7c07dc287a268bdaa3fabd6acdd45c70265803032b762876784b",
+ "nh": "44a1fd0c5dd3ae4e6a9fc73a7b87aeee92fb3651e2c1683d7a0834bb528fca3f",
+ "chars": 6090,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1006/005_شرح لامية العرب ｜ الدرس 6 ( الأبيات -١٨-١٩-) ｜ الشيخ محمد البردوني الحسيمي.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1006/005_شرح لامية العرب ｜ الدرس 6 ( الأبيات -١٨-١٩-) ｜ الشيخ محمد البردوني الحسيمي.txt",
+   "sha256": "7dff974c369e7c07dc287a268bdaa3fabd6acdd45c70265803032b762876784b",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1006/5.txt",
+   "sha256": "7dff974c369e7c07dc287a268bdaa3fabd6acdd45c70265803032b762876784b",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

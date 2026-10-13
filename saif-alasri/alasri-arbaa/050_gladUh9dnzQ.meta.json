@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:gladUh9dnzQ",
+ "vid": "gladUh9dnzQ",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 50,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / الخوارج خطرهم وصفاتهم / الدكتور سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "4c80021cea6204cdc675e7533ce1687f9b447769fac7fdb625454221893fe7cd",
+ "nh": "00ce80eacc688993b089c9347c516d8268dd2127f35e20f27475968c80268bfb",
+ "chars": 14419,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-050/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-050/transcript.txt",
+   "sha256": "4c80021cea6204cdc675e7533ce1687f9b447769fac7fdb625454221893fe7cd",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/050_gladUh9dnzQ.txt",
+   "sha256": "4c80021cea6204cdc675e7533ce1687f9b447769fac7fdb625454221893fe7cd",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/050.txt",
+   "sha256": "4c80021cea6204cdc675e7533ce1687f9b447769fac7fdb625454221893fe7cd",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

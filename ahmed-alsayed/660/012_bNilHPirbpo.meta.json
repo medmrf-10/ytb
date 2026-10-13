@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:bNilHPirbpo",
+ "vid": "bNilHPirbpo",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--660",
+ "n": 12,
+ "n_src": "mutfile",
+ "title": "الأمة بين احتلالين 11 ｜ انهيار السد وتدفق المغول ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "25586707f4da0f0beb14551c71c1f449ee3d26b000c15ec521f1b87673cf2727",
+ "nh": "a417ac3fa416dc87c86ac58d9a7fe6663c2b76df884de821b441c24f0194bb4e",
+ "chars": 21884,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/660/012_الأمة بين احتلالين 11 ｜ انهيار السد وتدفق المغول ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/660/012_الأمة بين احتلالين 11 ｜ انهيار السد وتدفق المغول ｜ أحمد السيد.txt",
+   "sha256": "25586707f4da0f0beb14551c71c1f449ee3d26b000c15ec521f1b87673cf2727",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/elommaBaynI7tilayn-012/transcript.txt",
+   "sha256": "5f54a1a11692990539bc9d942b94035de644d8725df6b30c8a79396c707866ff",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-660/012.txt",
+   "sha256": "5f54a1a11692990539bc9d942b94035de644d8725df6b30c8a79396c707866ff",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

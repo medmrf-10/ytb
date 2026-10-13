@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:9yVbAgWgJLU",
+ "vid": "9yVbAgWgJLU",
+ "sheikh": "bensaib",
+ "row_id": "bensaib--binsayib-akhadari",
+ "n": 1,
+ "n_src": "read",
+ "title": "الدرس (1) : الطهارة",
+ "title_src": "yt_titles",
+ "sha256": "ec25567fb3b1e3e45835df1810dd7612fdd3242dcf954fa3239a2443b7cce576",
+ "nh": "c5147ecdc4f5954d4981fe445ff2ac46746d6100c9de01b3c34830280694f923",
+ "chars": 23137,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/binsayib/akhadari/NA_9yVbAgWgJLU.txt",
+  "commit_ts": 1791587745,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/binsayib/akhadari/NA_9yVbAgWgJLU.txt",
+   "sha256": "ec25567fb3b1e3e45835df1810dd7612fdd3242dcf954fa3239a2443b7cce576",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/binsayib-akhadari/001.txt",
+   "sha256": "ec25567fb3b1e3e45835df1810dd7612fdd3242dcf954fa3239a2443b7cce576",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

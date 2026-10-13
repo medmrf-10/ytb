@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:1c-lHmERDYU",
+ "vid": "1c-lHmERDYU",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 40,
+ "n_src": "read",
+ "title": "الحكم العطائية للإمام البوطي ｜ الدرس 40 - الحكمة 23",
+ "title_src": "filename",
+ "sha256": "f8512c01ba45d0506d7c5048b0e3a98729f67b8ea7e0bbe70a1fd8b0c363e957",
+ "nh": "941c29521b8f0e3464abb4d46ede07ab0ef8c7e3415fa4f8f60323217c22c7b5",
+ "chars": 23522,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/040_الحكم العطائية للإمام البوطي ｜ الدرس 40  - الحكمة 23.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/040_الحكم العطائية للإمام البوطي ｜ الدرس 40  - الحكمة 23.txt",
+   "sha256": "f8512c01ba45d0506d7c5048b0e3a98729f67b8ea7e0bbe70a1fd8b0c363e957",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/hikam/040_الحكم العطائية للإمام البوطي ｜ الدرس 40  - الحكمة 23.txt",
+   "sha256": "f8512c01ba45d0506d7c5048b0e3a98729f67b8ea7e0bbe70a1fd8b0c363e957",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/040_الحكم العطائية للإمام البوطي ｜ الدرس 40  - الحكمة 23.txt",
+   "sha256": "f8512c01ba45d0506d7c5048b0e3a98729f67b8ea7e0bbe70a1fd8b0c363e957",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/386/39.txt",
+   "sha256": "f8512c01ba45d0506d7c5048b0e3a98729f67b8ea7e0bbe70a1fd8b0c363e957",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

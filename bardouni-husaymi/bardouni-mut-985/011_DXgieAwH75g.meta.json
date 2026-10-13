@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "yt:DXgieAwH75g",
+ "vid": "DXgieAwH75g",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--bardouni-mut-985",
+ "n": 11,
+ "n_src": "read",
+ "title": "شرح المنهج المنتخب ｜ دس73 ( ق111 إذا دار الملك بين أن يبطل جملة أو من وجه فالثا",
+ "title_src": "filename",
+ "sha256": "4299544973304fe4fcff240607ecd0a052d1ede90457fb7623618932b86d091e",
+ "nh": "26502dd21b6f0f15ce8104fe8f4bad9c2c5b0767d330db7370d8fa911a706598",
+ "chars": 19575,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/985/011_شرح المنهج  المنتخب ｜ دس73 ( ق111 إذا دار الملك بين أن يبطل جملة أو من وجه فالثا.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/985/011_شرح المنهج  المنتخب ｜ دس73 ( ق111 إذا دار الملك بين أن يبطل جملة أو من وجه فالثا.txt",
+   "sha256": "4299544973304fe4fcff240607ecd0a052d1ede90457fb7623618932b86d091e",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bardouni/mut-985/011_شرح المنهج  المنتخب ｜ دس73 ( ق111 إذا دار الملك بين أن يبطل جملة أو من وجه فالثا.txt",
+   "sha256": "4299544973304fe4fcff240607ecd0a052d1ede90457fb7623618932b86d091e",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/37/146.txt",
+   "sha256": "4299544973304fe4fcff240607ecd0a052d1ede90457fb7623618932b86d091e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "mouloud-sariri--37"
+ ]
+}

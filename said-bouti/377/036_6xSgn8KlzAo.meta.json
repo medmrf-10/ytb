@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:6xSgn8KlzAo",
+ "vid": "6xSgn8KlzAo",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--377",
+ "n": 36,
+ "n_src": "plpos",
+ "title": "30- كبرى اليقينيات الكونية | الغيبيات: حقائق تتعلق بالموت (1)",
+ "title_src": "yt_titles",
+ "sha256": "0174860547f1b0ee11344292b1e39864ea5effc33d17dfb22e69d97090dadd5b",
+ "nh": "6c03cc67191ce4df7bf7b5b4518354485d840cbcff649fe8b3ae75831da4f901",
+ "chars": 25289,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/377/036_30- كبرى اليقينيات الكونية ｜ الغيبيات： حقائق تتعلق بالموت (1).txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/377/036_30- كبرى اليقينيات الكونية ｜ الغيبيات： حقائق تتعلق بالموت (1).txt",
+   "sha256": "0174860547f1b0ee11344292b1e39864ea5effc33d17dfb22e69d97090dadd5b",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/kobraElya9inyat-036/transcript.txt",
+   "sha256": "150c123e0dcd9c5e77912368ce25e0c88a9a536391df707fabfbbc98164a9113",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/36.txt",
+   "sha256": "150c123e0dcd9c5e77912368ce25e0c88a9a536391df707fabfbbc98164a9113",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

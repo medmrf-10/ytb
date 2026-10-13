@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:FMGSdKghhgE",
+ "vid": "FMGSdKghhgE",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--117",
+ "n": 28,
+ "n_src": "read",
+ "title": "حلقة 27 - التحذير الكبير - سلسلة الإنسانية قبل التدين",
+ "title_src": "filename",
+ "sha256": "c001b10b99ef413d71543b0de61c16ca7b98bf6d00a8e90db3ffe8bb48a763c1",
+ "nh": "16a727fbeffb0b8d27fa45a36710ad3e5e773c97b953d26a0050e584e33fb033",
+ "chars": 1840,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/117/028_حلقة 27 - التحذير الكبير - سلسلة الإنسانية قبل التدين.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/117/028_حلقة 27 - التحذير الكبير - سلسلة الإنسانية قبل التدين.txt",
+   "sha256": "c001b10b99ef413d71543b0de61c16ca7b98bf6d00a8e90db3ffe8bb48a763c1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/insaniyya/40.txt",
+   "sha256": "c001b10b99ef413d71543b0de61c16ca7b98bf6d00a8e90db3ffe8bb48a763c1",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/112/40.txt",
+   "sha256": "c001b10b99ef413d71543b0de61c16ca7b98bf6d00a8e90db3ffe8bb48a763c1",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-ali-aljifri--112",
+  "k:117"
+ ]
+}

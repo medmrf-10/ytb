@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:iQXoGJ1msUU",
+ "vid": "iQXoGJ1msUU",
+ "sheikh": "muhammad-abdelwahid-hanbali",
+ "row_id": "muhammad-abdelwahid-hanbali--abdelwahid-tawassul",
+ "n": 6,
+ "n_src": "trfile",
+ "title": "02 - الرد على بعض اعتراضات وإشكالات عن مسائل زيارة القبور والتبرك والاستغاثة ونحوها",
+ "title_src": "yt_titles",
+ "sha256": "0ae34b8fd66b89b9ff9e5b8a335e3c8052cf4a406e7f33ab629911b651d3f0aa",
+ "nh": "9d1a28a7d06b3dfe9697f7072885577f940f169c7c7f3aa6ae5b7fc936f179cb",
+ "chars": 97565,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/abdelwahidTawassul-006/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/abdelwahidTawassul-006/transcript.txt",
+   "sha256": "0ae34b8fd66b89b9ff9e5b8a335e3c8052cf4a406e7f33ab629911b651d3f0aa",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/abdelwahid-tawassul/006.txt",
+   "sha256": "0ae34b8fd66b89b9ff9e5b8a335e3c8052cf4a406e7f33ab629911b651d3f0aa",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

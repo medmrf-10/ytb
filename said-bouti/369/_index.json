@@ -1,0 +1,394 @@
+{
+ "coverage": 1.0,
+ "declared_total": 38,
+ "lessons": [
+  {
+   "chars": 18917,
+   "file": "001_RDWyTa26uow.txt",
+   "n": 1,
+   "quality": "ok",
+   "sha256": "79eccfb802ab3d338cada81638e417e10d465dde5ce05c81abdf395a496f3ebc",
+   "title": "1- يغالطونك إذ يقولون : الشريعة الإسلامية لم تطبق أكثر من 30 عاماً",
+   "variants": 0,
+   "vid": "RDWyTa26uow"
+  },
+  {
+   "chars": 18937,
+   "file": "002_tS7ZXorCWhU.txt",
+   "n": 2,
+   "quality": "ok",
+   "sha256": "5a30b70b4a7867c59b4d5e44afd7abf5bc374099af2ac9a235cd262d0806237d",
+   "title": "2 - يغالطونك إذ يقولون | الشريعة الإسلامية لم تطبق أكثر من 30 عاماً",
+   "variants": 0,
+   "vid": "tS7ZXorCWhU"
+  },
+  {
+   "chars": 19159,
+   "file": "003_bzsd1p7G90s.txt",
+   "n": 3,
+   "quality": "ok",
+   "sha256": "bf20d14d062b0d26a287d7cf5f7e287dbcd0abcc0ca15f0b685fe2e8afc5d431",
+   "title": "3- يغالطونك إذ يقولون - درس خاص عن الأحداث التي تمر بها سوريا",
+   "variants": 0,
+   "vid": "bzsd1p7G90s"
+  },
+  {
+   "chars": 19598,
+   "file": "004_CMlJNWSEbUE.txt",
+   "n": 4,
+   "quality": "ok",
+   "sha256": "e85ade3595c6bcfe6a3f61dc1c5aa53b3e57228681bb6006dad8a13773a462a7",
+   "title": "4 - يغالطونك إذ يقولون | العلمانية هي الحل",
+   "variants": 0,
+   "vid": "CMlJNWSEbUE"
+  },
+  {
+   "chars": 21267,
+   "file": "005_h6yt-BVM6nQ.txt",
+   "n": 5,
+   "quality": "ok",
+   "sha256": "e3292f8a3d049241486acca909051a319a0937f43cd156171da1614b28670043",
+   "title": "5- يغالطونك إذ يقولون : العلمانية هي الحل",
+   "variants": 0,
+   "vid": "h6yt-BVM6nQ"
+  },
+  {
+   "chars": 22632,
+   "file": "006_IZmN-wmpU7I.txt",
+   "n": 6,
+   "quality": "ok",
+   "sha256": "85419aa05c64e1bbfa4fc32c3b021606459928f0f6acf4d358a7e49de870b2d5",
+   "title": "6- يغالطونك إذ يقولون : العلمانية هي الحل",
+   "variants": 0,
+   "vid": "IZmN-wmpU7I"
+  },
+  {
+   "chars": 26028,
+   "file": "007_RdKEx-5sa0s.txt",
+   "n": 7,
+   "quality": "ok",
+   "sha256": "d39dd444790e3e2b28de62d7613f6c5dee17eba4854d1f3a94c0144af9bb2915",
+   "title": "7- يغالطونك إذ يقولون :  ثبات الوحي لا يتفق مع صيرورة الحركة",
+   "variants": 0,
+   "vid": "RdKEx-5sa0s"
+  },
+  {
+   "chars": 22928,
+   "file": "008_Yhm8uVPk5Kg.txt",
+   "n": 8,
+   "quality": "ok",
+   "sha256": "871bd4901f9229f2afce078ceea852fc4f7bec5bcfb63872273b25de40ff6f55",
+   "title": "8- يغالطونك إذ يقولون : ثبات الوحي لا يتفق مع صيرورة الحركة",
+   "variants": 0,
+   "vid": "Yhm8uVPk5Kg"
+  },
+  {
+   "chars": 25596,
+   "file": "009_D_tnthNZ6dQ.txt",
+   "n": 9,
+   "quality": "ok",
+   "sha256": "1119063e2b3d5caeeaf377fe29d480aed67b3cf1fdb01e26c517fa1a7e4c22da",
+   "title": "9 - يغالطونك إذ يقولون | التقديس يعوق عن البحث وعن حرية النظر",
+   "variants": 0,
+   "vid": "D_tnthNZ6dQ"
+  },
+  {
+   "chars": 21660,
+   "file": "010_HW_ZNcmyfO0.txt",
+   "n": 10,
+   "quality": "ok",
+   "sha256": "0f706267bb66750ece3923391345b4a5965ce12854b5e2d8e0d6d2b48e013823",
+   "title": "10- يغالطونك إذ يقولون : التقديس يعوق عن البحث وعن حرية النظر",
+   "variants": 0,
+   "vid": "HW_ZNcmyfO0"
+  },
+  {
+   "chars": 24171,
+   "file": "011_5xeBDoOy2Yo.txt",
+   "n": 11,
+   "quality": "ok",
+   "sha256": "a37c9cd49042bbd0a5d6fa44e9a6be94c80cf124ba59d13950d1baf7dfb373c6",
+   "title": "11- يغالطونك إذ يقولون :  نظام الحكم الإسلامي يتناقض مع المنهج الديمقراطي",
+   "variants": 0,
+   "vid": "5xeBDoOy2Yo"
+  },
+  {
+   "chars": 21385,
+   "file": "012_A0HfDscdf4k.txt",
+   "n": 12,
+   "quality": "ok",
+   "sha256": "0a0266e5b87b56603a731521573f6552a3a203a3c9d9d0bc7030ad15ec42e4b2",
+   "title": "12- يغالطونك إذ يقولون :  نظام الحكم الإسلامي يتناقض مع المنهج الديمقراطي",
+   "variants": 0,
+   "vid": "A0HfDscdf4k"
+  },
+  {
+   "chars": 21402,
+   "file": "013_WIlRsXCJOZo.txt",
+   "n": 13,
+   "quality": "ok",
+   "sha256": "9efcd823c1c897fb6ab39339aac7093c02909524f603e2de46c19d45a410d437",
+   "title": "13- يغالطونك إذ يقولون :  نظام الحكم الإسلامي يتناقض مع المنهج الديمقراطي",
+   "variants": 0,
+   "vid": "WIlRsXCJOZo"
+  },
+  {
+   "chars": 28296,
+   "file": "014_Fvr2EO-QGgk.txt",
+   "n": 14,
+   "quality": "ok",
+   "sha256": "5b3e31bc2fd42601e8ddfdcfee4cacf3ae18fddd6404226b7523589c87e5092b",
+   "title": "14- يغالطونك إذ يقولون : ساحة العلم لا تتسع للغيبيات",
+   "variants": 0,
+   "vid": "Fvr2EO-QGgk"
+  },
+  {
+   "chars": 27224,
+   "file": "015_pS0ylBy2-WQ.txt",
+   "n": 15,
+   "quality": "ok",
+   "sha256": "f969938342656f69fabfba84d21d244ea52caf2745edd7ea9b7c3cc4a1b35a7e",
+   "title": "15 - يغالطونك إذ يقولون | ساحة العلم لا تتسع للغيبيات",
+   "variants": 0,
+   "vid": "pS0ylBy2-WQ"
+  },
+  {
+   "chars": 23717,
+   "file": "016_W1IOlhlix80.txt",
+   "n": 16,
+   "quality": "ok",
+   "sha256": "6be069f4e0f20651ce694f4f040079b07f5d5ac1c40d648b3617e0c1ed776356",
+   "title": "16- يغالطونك إذ يقولون : القرآن يغني عن السنة",
+   "variants": 0,
+   "vid": "W1IOlhlix80"
+  },
+  {
+   "chars": 21875,
+   "file": "017_hQiyy0e8Cu8.txt",
+   "n": 17,
+   "quality": "ok",
+   "sha256": "84d68483895d0b0c140b0e2c5b1ff69b7692356deaa5aa78245b5c0128d48668",
+   "title": "17 - يغالطونك إذ يقولون : القرآن يغني عن السنة",
+   "variants": 0,
+   "vid": "hQiyy0e8Cu8"
+  },
+  {
+   "chars": 22912,
+   "file": "018_H-tLDR3DsXA.txt",
+   "n": 18,
+   "quality": "ok",
+   "sha256": "aa49458669ec6d3b23f9c187b8dc92d8e0a693fbb22ef1053f1bc48a4a91b58a",
+   "title": "18 - يغالطونك إذ يقولون | القرآن يغني عن السنة",
+   "variants": 0,
+   "vid": "H-tLDR3DsXA"
+  },
+  {
+   "chars": 24525,
+   "file": "019_vseRotTEkTM.txt",
+   "n": 19,
+   "quality": "ok",
+   "sha256": "9bfb452e9b131fda7cf3dd504d141dd505dd3b448413d2b685e8a010d1d1b277",
+   "title": "19 - يغالطونك إذ يقولون | الإيمان بالقضاء سبب التواكل والكسل في المجتمعات الإسلامية",
+   "variants": 0,
+   "vid": "vseRotTEkTM"
+  },
+  {
+   "chars": 21389,
+   "file": "020_Hzd_qYLf5rg.txt",
+   "n": 20,
+   "quality": "ok",
+   "sha256": "ea29ab4a3e7cc6d36b48fb280cf1832a5c939e2b76e12e9909f8818afc218849",
+   "title": "20- يغالطونك إذ يقولون : الإيمان بالقضاء سبب التواكل والكسل الذي ران على المجتمعات الإسلامية.",
+   "variants": 0,
+   "vid": "Hzd_qYLf5rg"
+  },
+  {
+   "chars": 19305,
+   "file": "021_QIexrn_kiEM.txt",
+   "n": 21,
+   "quality": "ok",
+   "sha256": "5425b0efbc54bb175dfd0795d194bcf0168fadbc97c3df21c7ceb31012a4c5d6",
+   "title": "21- يغالطونك إذ يقولون : الإيمان بالقضاء سبب التواكل والكسل الذي ران على المجتمعات الإسلامية.",
+   "variants": 0,
+   "vid": "QIexrn_kiEM"
+  },
+  {
+   "chars": 24885,
+   "file": "022__wxYq8Tsy-Q.txt",
+   "n": 22,
+   "quality": "ok",
+   "sha256": "bd815f76bfe83e10d455df0c61cb5c72ba5b94a9a16621062d0deaa61f302587",
+   "title": "22- يغالطونك إذ يقولون : الإيمان بالقضاء سبب التواكل والكسل الذي ران على المجتمعات الإسلامية",
+   "variants": 0,
+   "vid": "_wxYq8Tsy-Q"
+  },
+  {
+   "chars": 19823,
+   "file": "023__V5yyFXapS4.txt",
+   "n": 23,
+   "quality": "ok",
+   "sha256": "39f1e5da1cac39237f332d895891d66088965308c7e6cc29b63503ab1f51ece9",
+   "title": "23- يغالطونك إذ يقولون : المرأة مهضومة الحقوق في الشريعة الإسلامية",
+   "variants": 0,
+   "vid": "_V5yyFXapS4"
+  },
+  {
+   "chars": 19567,
+   "file": "024_QuIR7RdDtGU.txt",
+   "n": 24,
+   "quality": "ok",
+   "sha256": "2506aff60edc2fae4ea344753b34debccf012f307dcc05da408bea0dc7f014b7",
+   "title": "24- يغالطونك إذ يقولون : المرأة مهضومة الحقوق في الشريعة الإسلامية",
+   "variants": 0,
+   "vid": "QuIR7RdDtGU"
+  },
+  {
+   "chars": 19601,
+   "file": "025_UT2esxp7tVo.txt",
+   "n": 25,
+   "quality": "ok",
+   "sha256": "3a7f927ce6515f58690d8b311e16405d220401d1c893dbfcfdf45dc332f94189",
+   "title": "25- يغالطونك إذ يقولون : المرأة مهضومة الحقوق في الشريعة الإسلامية",
+   "variants": 0,
+   "vid": "UT2esxp7tVo"
+  },
+  {
+   "chars": 18839,
+   "file": "026_qWpL5m8hucg.txt",
+   "n": 26,
+   "quality": "ok",
+   "sha256": "f46fea2aee978f54819b88a0e1055bde3f1f3bfdb866e60719307f520c0b8468",
+   "title": "26- يغالطونك إذ يقولون : المرأة مهضومة الحقوق في الشريعة الإسلامية",
+   "variants": 0,
+   "vid": "qWpL5m8hucg"
+  },
+  {
+   "chars": 20334,
+   "file": "027_H0PC73QoJE4.txt",
+   "n": 27,
+   "quality": "ok",
+   "sha256": "b2c300af5ef462bdced29e8c48f9470e916713fd6a69ee93cce696c8398539ae",
+   "title": "27- يغالطونك إذ يقولون : المرأة مهضومة الحقوق في الشريعة الإسلامية",
+   "variants": 0,
+   "vid": "H0PC73QoJE4"
+  },
+  {
+   "chars": 19739,
+   "file": "028_CAyKpAh1RC0.txt",
+   "n": 28,
+   "quality": "ok",
+   "sha256": "4a6ac8a8c9fdbec46f106645686d0cf20c65966c1d0213b2b754006d0089d7fb",
+   "title": "28- يغالطونك إذ يقولون : الإسلام إنما انتشر بسلطان القهر والسيف.",
+   "variants": 0,
+   "vid": "CAyKpAh1RC0"
+  },
+  {
+   "chars": 20779,
+   "file": "029_3W4kBTytOp4.txt",
+   "n": 29,
+   "quality": "ok",
+   "sha256": "b8ac6e98370c243f4211def1bde592f9a542d749376395afd7199c670e21bb1c",
+   "title": "29 - يغالطونك إذ يقولون | الإسلام إنما انتشر بسلطان القهر والسيف",
+   "variants": 0,
+   "vid": "3W4kBTytOp4"
+  },
+  {
+   "chars": 19044,
+   "file": "030_Lg7nU40yVwE.txt",
+   "n": 30,
+   "quality": "ok",
+   "sha256": "1530059fd1596740bac7ca3b8b9c0ee72226a9df72a58da2b1e73247329abd72",
+   "title": "30- يغالطونك إذ يقولون : الإسلام إنما انتشر بسلطان القهر والسيف",
+   "variants": 0,
+   "vid": "Lg7nU40yVwE"
+  },
+  {
+   "chars": 21382,
+   "file": "031_5VUJcDVWBw4.txt",
+   "n": 31,
+   "quality": "ok",
+   "sha256": "721512c49d65a33e5f8d53165283c0e2dd033e713251ba7ece5fca9a0142ed83",
+   "title": "31- يغالطونك إذ يقولون : مجالس الذكر تورُّطٌ في البدعة وملهاة عن العمل الإسلامي",
+   "variants": 0,
+   "vid": "5VUJcDVWBw4"
+  },
+  {
+   "chars": 21362,
+   "file": "032_0T3cZWqzGNs.txt",
+   "n": 32,
+   "quality": "ok",
+   "sha256": "ed9a1a544be86abd34acb6b669c1679c57620634b51bf15cf6424db91a881dc3",
+   "title": "32- يغالطونك إذ يقولون : مجالس الذكر تورُّطٌ في البدعة وملهاة عن العمل الإسلامي",
+   "variants": 0,
+   "vid": "0T3cZWqzGNs"
+  },
+  {
+   "chars": 21109,
+   "file": "033_pgT4I0QhAdE.txt",
+   "n": 33,
+   "quality": "ok",
+   "sha256": "fd307e3e54f9a2868fbf13636ffa87442d1179c6a02166a629aeded45f9a4f96",
+   "title": "33- يغالطونك إذ يقولون : مجالس الذكر تورُّطٌ في البدعة وملهاة عن العمل الإسلامي",
+   "variants": 0,
+   "vid": "pgT4I0QhAdE"
+  },
+  {
+   "chars": 19472,
+   "file": "034_oDaWUwgg4ys.txt",
+   "n": 34,
+   "quality": "ok",
+   "sha256": "9149284a95cfa00d0df5c0fb34a507a51b2fdbaa3a3f3a77419d8c4d9f074f71",
+   "title": "34 - يغالطونك إذ يقولون | مجالس الذكر تورُّطٌ في البدعة وملهاة عن العمل الإسلامي",
+   "variants": 0,
+   "vid": "oDaWUwgg4ys"
+  },
+  {
+   "chars": 21762,
+   "file": "035_YJBydL0MdgA.txt",
+   "n": 35,
+   "quality": "ok",
+   "sha256": "539793def537c53e5e38254c04b95e00eb445edf5b7248cced8e97aaa3fbe586",
+   "title": "35- يغالطونك إذ يقولون : رسالة محمد إنما كانت ثورة عربية ولم تكن وحياً إلهياً",
+   "variants": 0,
+   "vid": "YJBydL0MdgA"
+  },
+  {
+   "chars": 19959,
+   "file": "036_aD4-yJZAviQ.txt",
+   "n": 36,
+   "quality": "ok",
+   "sha256": "425d26ea5f20f2bc81c346a029224c3535839a1627e5ad56dc8f377f3892c924",
+   "title": "36- يغالطونك إذ يقولون : رسالة محمد إنما كانت ثورة عربية ولم تكن وحياً إلهياً",
+   "variants": 0,
+   "vid": "aD4-yJZAviQ"
+  },
+  {
+   "chars": 17139,
+   "file": "037_SVdXxxGyYVs.txt",
+   "n": 37,
+   "quality": "ok",
+   "sha256": "f7cb23cbfb820861f3fc8748ebb39cad85bec529fda9a1c1393d5fa0f1713658",
+   "title": "37- يغالطونك إذ يقولون : وأخيراً، العولمة تعاون عالمي ندي، لا تبعية لقطب متسلط",
+   "variants": 0,
+   "vid": "SVdXxxGyYVs"
+  },
+  {
+   "chars": 19551,
+   "file": "038_TC7Ym83lBZY.txt",
+   "n": 38,
+   "quality": "ok",
+   "sha256": "91db87a96e46c232cd746d9870d7f62c38098328aa42df8e1e8481463ade501b",
+   "title": "38- يغالطونك إذ يقولون : وأخيراً، العولمة تعاون عالمي ندي، لا تبعية لقطب متسلط",
+   "variants": 0,
+   "vid": "TC7Ym83lBZY"
+  }
+ ],
+ "playlists": [
+  "PL01kYZIehH-plHw71V070lY5HmNLgoc3d"
+ ],
+ "row_id": "said-bouti--369",
+ "sheikh": "said-bouti",
+ "title": "يغالطونك إذ يقولون",
+ "transcribed": 38,
+ "v": 1
+}

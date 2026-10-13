@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:QW7ZpuOLXcQ",
+ "vid": "QW7ZpuOLXcQ",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--379",
+ "n": 6,
+ "n_src": "plpos",
+ "title": "6- تاريخ التشريع الإسلامي | الدور الثاني: بعض النماذج للخلافات التي كانت في عصر الصحابة",
+ "title_src": "yt_titles",
+ "sha256": "2568401abd93996e28205a73e48304eb809c6b3e3529dd66e996b03f97d4e3df",
+ "nh": "2c3b9218031c084e9b6bbc8d359ad3283ab9a756f082d3ff2be6ab9dc43df83b",
+ "chars": 10333,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/379/006_6- تاريخ التشريع الإسلامي ｜ الدور الثاني： بعض النماذج للخلافات التي كانت في عصر .txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/379/006_6- تاريخ التشريع الإسلامي ｜ الدور الثاني： بعض النماذج للخلافات التي كانت في عصر .txt",
+   "sha256": "2568401abd93996e28205a73e48304eb809c6b3e3529dd66e996b03f97d4e3df",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/tari5Eltachri3-006/transcript.txt",
+   "sha256": "8bde6bff6526ef6144a435e8e316661239486b6079717b030261a2d74d0293f4",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-tarikh/06.txt",
+   "sha256": "8bde6bff6526ef6144a435e8e316661239486b6079717b030261a2d74d0293f4",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/379/5.txt",
+   "sha256": "2568401abd93996e28205a73e48304eb809c6b3e3529dd66e996b03f97d4e3df",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:2k9wuybJvlY",
+ "vid": "2k9wuybJvlY",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 73,
+ "n_src": "read",
+ "title": "الحكم العطائية للعلامة البوطي ｜ الدرس 223 - الحكمة 199",
+ "title_src": "filename",
+ "sha256": "865e40af26397bfcb640a4df3bb8461cb0e008c49942b34812158a41dff3d70f",
+ "nh": "cbf3d7c052883b65fed70ba8a33d2d7f0178144747d470e0bf6e83cc2d402d63",
+ "chars": 24088,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/073_الحكم العطائية للعلامة البوطي ｜ الدرس 223 - الحكمة 199.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/073_الحكم العطائية للعلامة البوطي ｜ الدرس 223 - الحكمة 199.txt",
+   "sha256": "865e40af26397bfcb640a4df3bb8461cb0e008c49942b34812158a41dff3d70f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/hikam/073_الحكم العطائية للعلامة البوطي ｜ الدرس 223 - الحكمة 199.txt",
+   "sha256": "865e40af26397bfcb640a4df3bb8461cb0e008c49942b34812158a41dff3d70f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/073_الحكم العطائية للعلامة البوطي ｜ الدرس 223 - الحكمة 199.txt",
+   "sha256": "865e40af26397bfcb640a4df3bb8461cb0e008c49942b34812158a41dff3d70f",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/386/220.txt",
+   "sha256": "865e40af26397bfcb640a4df3bb8461cb0e008c49942b34812158a41dff3d70f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

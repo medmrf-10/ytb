@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:MEEU2n1Py48",
+ "vid": "MEEU2n1Py48",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--117",
+ "n": 13,
+ "n_src": "read",
+ "title": "حلقة 13- كيف نفهم أخطاء ساداتنا الصحابة - سلسلة الإنسانية قبل التدين",
+ "title_src": "filename",
+ "sha256": "a7909f0d0f7d65b37110e0e5eb10f9e0711d744892174147a42e19c23a9dc8c8",
+ "nh": "226d20c1155603a765727b5bfbfb54a436e43c9f89d4253c4172cfeda5e7f42a",
+ "chars": 1690,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/117/013_حلقة 13- كيف نفهم أخطاء ساداتنا الصحابة - سلسلة الإنسانية قبل التدين.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/117/013_حلقة 13- كيف نفهم أخطاء ساداتنا الصحابة - سلسلة الإنسانية قبل التدين.txt",
+   "sha256": "a7909f0d0f7d65b37110e0e5eb10f9e0711d744892174147a42e19c23a9dc8c8",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/insaniyya/25.txt",
+   "sha256": "a7909f0d0f7d65b37110e0e5eb10f9e0711d744892174147a42e19c23a9dc8c8",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/112/25.txt",
+   "sha256": "a7909f0d0f7d65b37110e0e5eb10f9e0711d744892174147a42e19c23a9dc8c8",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-ali-aljifri--112",
+  "k:117"
+ ]
+}

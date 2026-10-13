@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:gWqllRs1g18",
+ "vid": "gWqllRs1g18",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 14,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / آل البيت بين التجريم والتعصيم / د. سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "519458efd59bec3efba2ae7b0c170bebfd8366e6c6395303e37c598d6d67aca2",
+ "nh": "6f03133e8d791c49564f7230b10df4f39a676dd2821eb3e132fb8fca6bdb5772",
+ "chars": 20698,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-014/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-014/transcript.txt",
+   "sha256": "519458efd59bec3efba2ae7b0c170bebfd8366e6c6395303e37c598d6d67aca2",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/014_gWqllRs1g18.txt",
+   "sha256": "519458efd59bec3efba2ae7b0c170bebfd8366e6c6395303e37c598d6d67aca2",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/014.txt",
+   "sha256": "519458efd59bec3efba2ae7b0c170bebfd8366e6c6395303e37c598d6d67aca2",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

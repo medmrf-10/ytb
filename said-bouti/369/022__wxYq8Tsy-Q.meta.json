@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:_wxYq8Tsy-Q",
+ "vid": "_wxYq8Tsy-Q",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--369",
+ "n": 22,
+ "n_src": "plpos",
+ "title": "22- يغالطونك إذ يقولون : الإيمان بالقضاء سبب التواكل والكسل الذي ران على المجتمعات الإسلامية",
+ "title_src": "yt_titles",
+ "sha256": "bd815f76bfe83e10d455df0c61cb5c72ba5b94a9a16621062d0deaa61f302587",
+ "nh": "0100d0b800f655696aba309bc496d9117e81f32a607dd9697d1a05bd7fe27351",
+ "chars": 24885,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/369/022_22- يغالطونك إذ يقولون ： الإيمان بالقضاء سبب التواكل والكسل الذي ران على المجتمع.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/369/022_22- يغالطونك إذ يقولون ： الإيمان بالقضاء سبب التواكل والكسل الذي ران على المجتمع.txt",
+   "sha256": "bd815f76bfe83e10d455df0c61cb5c72ba5b94a9a16621062d0deaa61f302587",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/yoghalitonak-022/transcript.txt",
+   "sha256": "19188c55b6f2f8885467a8c4927d73709454af5f6059c9b37feda2eff18d7167",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-yaghalitun/22.txt",
+   "sha256": "19188c55b6f2f8885467a8c4927d73709454af5f6059c9b37feda2eff18d7167",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/369/21.txt",
+   "sha256": "bd815f76bfe83e10d455df0c61cb5c72ba5b94a9a16621062d0deaa61f302587",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

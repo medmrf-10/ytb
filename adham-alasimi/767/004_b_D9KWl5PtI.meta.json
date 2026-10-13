@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:b_D9KWl5PtI",
+ "vid": "b_D9KWl5PtI",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--767",
+ "n": 4,
+ "n_src": "read",
+ "title": "(04) تتمة الفعل الماضي ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "f8616388c31627ed45adb708a43247b56cb3e010f78ad3e5e054f9569e9cdff5",
+ "nh": "639e7310168b142c55830bb9bf5ae98f7aab740538d3382b7827e26d88e48ba1",
+ "chars": 16657,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/767/004_(04) تتمة الفعل الماضي ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/767/004_(04) تتمة الفعل الماضي ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "f8616388c31627ed45adb708a43247b56cb3e010f78ad3e5e054f9569e9cdff5",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/767/3.txt",
+   "sha256": "f8616388c31627ed45adb708a43247b56cb3e010f78ad3e5e054f9569e9cdff5",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

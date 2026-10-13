@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:kK_H7EbT5wU",
+ "vid": "kK_H7EbT5wU",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--990",
+ "n": 9,
+ "n_src": "read",
+ "title": "شرح نظم الاستعارة ｜ الدرس 2 ｜ الشيخ محمد البردوني الحسيمي",
+ "title_src": "filename",
+ "sha256": "6aba543d59f40af8bf124fa7a22430f76f68952561f8e1b1668cbf96eb849420",
+ "nh": "ac554bce1905b68e5b786effa763144f0eba14d957e2d8aba9e612e4506b8612",
+ "chars": 8653,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/990/009_شرح نظم الاستعارة  ｜ الدرس 2 ｜  الشيخ محمد البردوني الحسيمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/990/009_شرح نظم الاستعارة  ｜ الدرس 2 ｜  الشيخ محمد البردوني الحسيمي.txt",
+   "sha256": "6aba543d59f40af8bf124fa7a22430f76f68952561f8e1b1668cbf96eb849420",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/sariri/istiara/2.txt",
+   "sha256": "6aba543d59f40af8bf124fa7a22430f76f68952561f8e1b1668cbf96eb849420",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/40/2.txt",
+   "sha256": "6aba543d59f40af8bf124fa7a22430f76f68952561f8e1b1668cbf96eb849420",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "mouloud-sariri--40",
+  "mouloud-sariri--sariri-istiara"
+ ]
+}

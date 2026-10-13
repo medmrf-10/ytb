@@ -1,0 +1,394 @@
+{
+ "coverage": 1.0,
+ "declared_total": 38,
+ "lessons": [
+  {
+   "chars": 85331,
+   "file": "001_hDdfJM78L5s.txt",
+   "n": 1,
+   "quality": "ok",
+   "sha256": "7234db160b083090969fe7fabe12eed5efa68d07d817aeb1382e60ea724ffbb1",
+   "title": "الكلام على قضية الحنابلة الجدد، وقضية التوافق والاتحاد بين الحنابلة والأشاعرة ضد #النابتة",
+   "variants": 1,
+   "vid": "hDdfJM78L5s"
+  },
+  {
+   "chars": 53683,
+   "file": "002_Sqx-KSJzARA.txt",
+   "n": 2,
+   "quality": "ok",
+   "sha256": "378e53797407583eeac788d43d9857651428870eac8ff0bdcd3e16dcae7c4f9c",
+   "title": "01 - مسالك بعض النابتة في النقل عن أهل العلم وتحريف مقاصدهم وتدليس كلامهم لتوافق قول النابتة الشاذ",
+   "variants": 1,
+   "vid": "Sqx-KSJzARA"
+  },
+  {
+   "chars": 42648,
+   "file": "003_G34cWaxDHWw.txt",
+   "n": 3,
+   "quality": "ok",
+   "sha256": "a3e70a4d1783d2560b6076d161b74caa779723239badfcdc16d22011d0950fc2",
+   "title": "02 - مسالك بعض النابتة في النقل عن أهل العلم وتحريف مقاصدهم وتدليس كلامهم لتوافق قول النابتة الشاذ",
+   "variants": 0,
+   "vid": "G34cWaxDHWw"
+  },
+  {
+   "chars": 78490,
+   "file": "004_WFLgTeRtEIo.txt",
+   "n": 4,
+   "quality": "ok",
+   "sha256": "eb3cd3575a46de7554230513190899eee90237b8d5e0fad12c4614c3b21f77a5",
+   "title": "01 - الرد على بعض اعتراضات وإشكالات عن مسائل زيارة القبور والتبرك والاستغاثة ونحوها",
+   "variants": 1,
+   "vid": "WFLgTeRtEIo"
+  },
+  {
+   "chars": 78198,
+   "file": "005_vRhNirjptm0.txt",
+   "n": 5,
+   "quality": "ok",
+   "sha256": "d20987af743d13b4fc052d5a6650363ca649a70f0d9657838f2174342b2b7431",
+   "title": "01 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين",
+   "variants": 1,
+   "vid": "vRhNirjptm0"
+  },
+  {
+   "chars": 97565,
+   "file": "006_iQXoGJ1msUU.txt",
+   "n": 6,
+   "quality": "ok",
+   "sha256": "0ae34b8fd66b89b9ff9e5b8a335e3c8052cf4a406e7f33ab629911b651d3f0aa",
+   "title": "02 - الرد على بعض اعتراضات وإشكالات عن مسائل زيارة القبور والتبرك والاستغاثة ونحوها",
+   "variants": 0,
+   "vid": "iQXoGJ1msUU"
+  },
+  {
+   "chars": 75970,
+   "file": "007_OGLIgsnCwF0.txt",
+   "n": 7,
+   "quality": "ok",
+   "sha256": "d37b482a42ae9390e81572ba63ed5f8c59c4093921e5616a14d3129cbc4ac401",
+   "title": "02 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين",
+   "variants": 0,
+   "vid": "OGLIgsnCwF0"
+  },
+  {
+   "chars": 134112,
+   "file": "008_acWR3ogDrxA.txt",
+   "n": 8,
+   "quality": "ok",
+   "sha256": "e43eae169d3af1ec2adf3cf8002bc7ac260051064d03cd1911bff53c3f189a30",
+   "title": "03 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين",
+   "variants": 0,
+   "vid": "acWR3ogDrxA"
+  },
+  {
+   "chars": 94540,
+   "file": "009_FC_0kN77xDE.txt",
+   "n": 9,
+   "quality": "ok",
+   "sha256": "c65dc664a0f895544a6d0b604f0e2a9800a062a42a8425b9a54ef0b8ff8da459",
+   "title": "04 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين",
+   "variants": 0,
+   "vid": "FC_0kN77xDE"
+  },
+  {
+   "chars": 75280,
+   "file": "010_aY1t_UTdClQ.txt",
+   "n": 10,
+   "quality": "ok",
+   "sha256": "8228bb1e82d73e06ff5f5542dc18ead7354e72c6f8805582714271e86c1186fe",
+   "title": "05 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين",
+   "variants": 0,
+   "vid": "aY1t_UTdClQ"
+  },
+  {
+   "chars": 37545,
+   "file": "011_lh4bvt1DQts.txt",
+   "n": 11,
+   "quality": "ok",
+   "sha256": "5e2e8b60cdf40e4c74185f793fc99d49d0babc5146a783c77aeeee8ee0d835f2",
+   "title": "06 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين",
+   "variants": 0,
+   "vid": "lh4bvt1DQts"
+  },
+  {
+   "chars": 74916,
+   "file": "012_JaVO1Ojarhs.txt",
+   "n": 12,
+   "quality": "ok",
+   "sha256": "dc43e5d99c830a62b4c321c863ee07d65371b59eaf6ffae5122fec4938e1853b",
+   "title": "07 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين",
+   "variants": 0,
+   "vid": "JaVO1Ojarhs"
+  },
+  {
+   "chars": 77209,
+   "file": "013_8hLuE8SXym8.txt",
+   "n": 13,
+   "quality": "ok",
+   "sha256": "f29f7942ec07a0f24c84f33522f30755738a88139d29de8d7b33dc97aab663e4",
+   "title": "08 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين",
+   "variants": 0,
+   "vid": "8hLuE8SXym8"
+  },
+  {
+   "chars": 67585,
+   "file": "014_2ShGwIk4yxw.txt",
+   "n": 14,
+   "quality": "ok",
+   "sha256": "7b106028eb82137151eb19b8939c8dccd82affb0eeeecba74e0d10a276c31405",
+   "title": "09 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين",
+   "variants": 0,
+   "vid": "2ShGwIk4yxw"
+  },
+  {
+   "chars": 95432,
+   "file": "015_SwvkB1UobS8.txt",
+   "n": 15,
+   "quality": "ok",
+   "sha256": "080fd7b08d3773742376391b483f9087adc24aa17c9fe67df8eb5ca9a3ad9c0c",
+   "title": "10 -  تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين",
+   "variants": 0,
+   "vid": "SwvkB1UobS8"
+  },
+  {
+   "chars": 61923,
+   "file": "016_XqeGCEk2b-w.txt",
+   "n": 16,
+   "quality": "ok",
+   "sha256": "70dddc4eb16459825953cb43b892629f8a2d4d7bd1b55ed7675203741d515df9",
+   "title": "11 -  تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين",
+   "variants": 0,
+   "vid": "XqeGCEk2b-w"
+  },
+  {
+   "chars": 66974,
+   "file": "017_-V-1ebq_Eb0.txt",
+   "n": 17,
+   "quality": "ok",
+   "sha256": "ad7941de4d01ee3943c00be343971f282efd110b4e522e73fbb5048450b22590",
+   "title": "12 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين",
+   "variants": 0,
+   "vid": "-V-1ebq_Eb0"
+  },
+  {
+   "chars": 55186,
+   "file": "018_vQvp8T2iSRE.txt",
+   "n": 18,
+   "quality": "ok",
+   "sha256": "520ab224d8200870d8d6ec92c877788412b963cf33f4a9270c66d51edce23dbf",
+   "title": "13 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين",
+   "variants": 0,
+   "vid": "vQvp8T2iSRE"
+  },
+  {
+   "chars": 44525,
+   "file": "019_4uSA2YpH8qw.txt",
+   "n": 19,
+   "quality": "ok",
+   "sha256": "2e0ff734650234ab78b3561a5090388a3827f7462fc98dc7b95069fe29439d0c",
+   "title": "14 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين",
+   "variants": 0,
+   "vid": "4uSA2YpH8qw"
+  },
+  {
+   "chars": 61307,
+   "file": "020_Bh8ZzL94NCQ.txt",
+   "n": 20,
+   "quality": "ok",
+   "sha256": "f852e43239bb867f9fff0ce2ced679eebd5bf34c59cdc4afaaaa83f68135770d",
+   "title": "15 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين",
+   "variants": 0,
+   "vid": "Bh8ZzL94NCQ"
+  },
+  {
+   "chars": 44379,
+   "file": "021_BZQF1bk62b8.txt",
+   "n": 21,
+   "quality": "ok",
+   "sha256": "47e91de8732312eb7086b57298c4ee29cd221765511d1687e7a34aeea4cc8985",
+   "title": "16 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين",
+   "variants": 0,
+   "vid": "BZQF1bk62b8"
+  },
+  {
+   "chars": 75514,
+   "file": "022_iTnRI9M2REU.txt",
+   "n": 22,
+   "quality": "ok",
+   "sha256": "707cb21e5702e9ee5bc82b07c484290cdf241a2f2f5fa766453c6bf904486f69",
+   "title": "17 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين",
+   "variants": 0,
+   "vid": "iTnRI9M2REU"
+  },
+  {
+   "chars": 65719,
+   "file": "023_g5Zm5TibjPg.txt",
+   "n": 23,
+   "quality": "ok",
+   "sha256": "b04d16f47ab90ec15a743804667713b5502ab32aba27e9af3c66ca7c7da6b02e",
+   "title": "18 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين",
+   "variants": 0,
+   "vid": "g5Zm5TibjPg"
+  },
+  {
+   "chars": 67255,
+   "file": "024__dCZNlFiIvk.txt",
+   "n": 24,
+   "quality": "ok",
+   "sha256": "7c004ac0da4e865b7a293f32c267824e3f7799aa565ed9aafb34ca03af8beb8b",
+   "title": "19 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين",
+   "variants": 0,
+   "vid": "_dCZNlFiIvk"
+  },
+  {
+   "chars": 52265,
+   "file": "025_2p927JGr9UQ.txt",
+   "n": 25,
+   "quality": "ok",
+   "sha256": "f748189f8e810d581ce206934b036240a43f02bd4ca66e507ff32024c7133e02",
+   "title": "20 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين",
+   "variants": 0,
+   "vid": "2p927JGr9UQ"
+  },
+  {
+   "chars": 46700,
+   "file": "026_FLG3VPwd7Lo.txt",
+   "n": 26,
+   "quality": "ok",
+   "sha256": "3da1c98d56ec69846296072ad3447d67543aa4a0b3c0f30ace78ae64d36c5334",
+   "title": "21 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين",
+   "variants": 0,
+   "vid": "FLG3VPwd7Lo"
+  },
+  {
+   "chars": 90848,
+   "file": "027_F2-Mv6hBGOo.txt",
+   "n": 27,
+   "quality": "ok",
+   "sha256": "c4bdd372e2d2609d5836940b7955289ea0a35853556068ac8343b3182e9a4dd8",
+   "title": "22 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين",
+   "variants": 0,
+   "vid": "F2-Mv6hBGOo"
+  },
+  {
+   "chars": 87593,
+   "file": "028_1-Ymde24ugY.txt",
+   "n": 28,
+   "quality": "ok",
+   "sha256": "023ba4260cd8f15d8431c847ece06b0b697d910ab2510f59617982478f0aafea",
+   "title": "23 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين",
+   "variants": 0,
+   "vid": "1-Ymde24ugY"
+  },
+  {
+   "chars": 88322,
+   "file": "029_TjGJ5gRR4hI.txt",
+   "n": 29,
+   "quality": "ok",
+   "sha256": "fef3eb3b479c7dce37c85b4231876c73ac594cd13a098e1bf340107bff109932",
+   "title": "منهج الحنابلة في التعامل مع اختيارات الشيخ ابن تيمية الفقهية",
+   "variants": 0,
+   "vid": "TjGJ5gRR4hI"
+  },
+  {
+   "chars": 43216,
+   "file": "030_t-SDTe4QTIc.txt",
+   "n": 30,
+   "quality": "ok",
+   "sha256": "3a12d5e7f9a8fc53cb84f1d8e6db85fc94c25e26867d9746042d17e901374372",
+   "title": "24 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين",
+   "variants": 0,
+   "vid": "t-SDTe4QTIc"
+  },
+  {
+   "chars": 39229,
+   "file": "031_BBWjXiJUDSE.txt",
+   "n": 31,
+   "quality": "ok",
+   "sha256": "d8c4c163c8e50b3dc5533b215edbc531c16b5d5583845fe31d11767910a6be9a",
+   "title": "25 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين",
+   "variants": 0,
+   "vid": "BBWjXiJUDSE"
+  },
+  {
+   "chars": 73745,
+   "file": "032_sOzaFHXUdRQ.txt",
+   "n": 32,
+   "quality": "ok",
+   "sha256": "a6801b2627db520765d21bf0307859c6f5f7ba9529114d9537cc5e8d052850ea",
+   "title": "01 - الدفاع عن البردة الشريفة والتعليق على بعض الأبيات التي يكفر بها الوهابية العلماء",
+   "variants": 0,
+   "vid": "sOzaFHXUdRQ"
+  },
+  {
+   "chars": 63344,
+   "file": "033_lyoqbxq7OWI.txt",
+   "n": 33,
+   "quality": "ok",
+   "sha256": "954d94a4b8b6a7a1a903dd3bf407eeaee6ecd68a41e1964a769efd9723de5c68",
+   "title": "01 - الرد على افتراءات د. سعيد فودة  في حق ائمة المذهب الحنبلي",
+   "variants": 0,
+   "vid": "lyoqbxq7OWI"
+  },
+  {
+   "chars": 62204,
+   "file": "034_XJ79nUNWEe4.txt",
+   "n": 34,
+   "quality": "ok",
+   "sha256": "0c0a83567233656bc7a3f0f6bb2c10bd74c0e104a9c63dd8263710092d4dc4a6",
+   "title": "02 - الرد على افتراءات د. سعيد فودة  في حق ائمة المذهب الحنبلي",
+   "variants": 0,
+   "vid": "XJ79nUNWEe4"
+  },
+  {
+   "chars": 28424,
+   "file": "035_kWClYPwK-NY.txt",
+   "n": 35,
+   "quality": "ok",
+   "sha256": "a36fb1e7722aac55ddd1ccaa323138a8b7749d6263c6e238e15faa9d5f9789c9",
+   "title": "03 - الرد على افتراءات د. سعيد فودة  في حق ائمة المذهب الحنبلي",
+   "variants": 0,
+   "vid": "kWClYPwK-NY"
+  },
+  {
+   "chars": 26882,
+   "file": "036_eN0gxU8Rqqs.txt",
+   "n": 36,
+   "quality": "ok",
+   "sha256": "0e0baabf272580d6ae81ecdeb138cee8ec2d8eb68c598ce82c3655b26fda40ed",
+   "title": "02 - الدفاع عن البردة الشريفة والتعليق على بعض الأبيات التي يكفر بها الوهابية العلماء",
+   "variants": 0,
+   "vid": "eN0gxU8Rqqs"
+  },
+  {
+   "chars": 52440,
+   "file": "037_iPDcWDuQNyA.txt",
+   "n": 37,
+   "quality": "ok",
+   "sha256": "d4d1b06dc84c29b373866f1e9ab2c01fdfe1dabde998bd22cccea7d980e8fc90",
+   "title": "04 - الرد على افتراءات د. سعيد فودة  في حق ائمة المذهب الحنبلي",
+   "variants": 0,
+   "vid": "iPDcWDuQNyA"
+  },
+  {
+   "chars": 38013,
+   "file": "038_B5MZ6UjNwys.txt",
+   "n": 38,
+   "quality": "ok",
+   "sha256": "01c0e245e13b7e4f7436ff47bae9c91df01951bcae67d6553c3241bba7f04510",
+   "title": "03 - الدفاع عن البردة الشريفة والتعليق على بعض الأبيات التي يكفر بها الوهابية العلماء",
+   "variants": 0,
+   "vid": "B5MZ6UjNwys"
+  }
+ ],
+ "playlists": [
+  "PLt3bvX419qyCxYMrnmhG3Dx67QZ1DRQDn"
+ ],
+ "row_id": "muhammad-abdelwahid-hanbali--abdelwahid-tawassul",
+ "sheikh": "muhammad-abdelwahid-hanbali",
+ "title": "التوسل والاستغاثة عند الحنابلة",
+ "transcribed": 38,
+ "v": 1
+}

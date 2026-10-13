@@ -1,0 +1,31 @@
+{
+ "v": 1,
+ "lid": "rn:habib-ali-aljifri--101:38",
+ "vid": null,
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--101",
+ "n": 38,
+ "n_src": "assigned",
+ "title": "الدرس 1",
+ "title_src": "filename",
+ "sha256": "bc9ff971bd42ae40862354cf82f5edb09c4095ac2b4cf86b083bea61fd0a876e",
+ "nh": "c24bf763dda3ea3249507248bdb06fd59fef9ba19adc793015eaa97d4785e6bb",
+ "chars": 32,
+ "quality": "short",
+ "winner": {
+  "store": "des-dur",
+  "path": "des/durus/transcripts/101/8.txt",
+  "commit_ts": 1791378493,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/101/8.txt",
+   "sha256": "bc9ff971bd42ae40862354cf82f5edb09c4095ac2b4cf86b083bea61fd0a876e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

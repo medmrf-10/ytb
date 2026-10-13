@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "yt:21kvuGp3H0Y",
+ "vid": "21kvuGp3H0Y",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--414",
+ "n": 7,
+ "n_src": "trfile",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 7",
+ "title_src": "filename",
+ "sha256": "aa528b2ed7c5d61f722bacad502961f0825a5fa82b5150761d615a8c29a911a1",
+ "nh": "8b0d0c65f9a08c902789338da2dbc6c116e6f77baddfeb6ca00e9e54be24870f",
+ "chars": 26659,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/007_تفسير القرآن الكريم للدكتور البوطي - الدرس 7.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/007_تفسير القرآن الكريم للدكتور البوطي - الدرس 7.txt",
+   "sha256": "aa528b2ed7c5d61f722bacad502961f0825a5fa82b5150761d615a8c29a911a1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/007.txt",
+   "sha256": "8c357c48de3c7b83329f0e08656e874c4dea3470d69e79049e97993d8e741f92",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/414/6.txt",
+   "sha256": "aa528b2ed7c5d61f722bacad502961f0825a5fa82b5150761d615a8c29a911a1",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "said-bouti--bouti-414"
+ ]
+}

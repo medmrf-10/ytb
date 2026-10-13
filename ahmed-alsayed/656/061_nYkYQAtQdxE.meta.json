@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:nYkYQAtQdxE",
+ "vid": "nYkYQAtQdxE",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--656",
+ "n": 61,
+ "n_src": "mutfile",
+ "title": "رياض الصالحين 61 ｜ باب الشفاعة ｜ أنوار السنة المحمدية ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "fca52ef1703fc1690be8b0f744691eb1bd49644271a81d12dd4a5613ab7542e1",
+ "nh": "08b42a65be6382bfb905e70e2d4461d44bf623f013271e3069c45372a5463ab7",
+ "chars": 17841,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/656/061_رياض الصالحين 61 ｜ باب الشفاعة ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/656/061_رياض الصالحين 61 ｜ باب الشفاعة ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+   "sha256": "fca52ef1703fc1690be8b0f744691eb1bd49644271a81d12dd4a5613ab7542e1",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/riyadElsali7in-061/transcript.txt",
+   "sha256": "fca52ef1703fc1690be8b0f744691eb1bd49644271a81d12dd4a5613ab7542e1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-656/061.txt",
+   "sha256": "fca52ef1703fc1690be8b0f744691eb1bd49644271a81d12dd4a5613ab7542e1",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

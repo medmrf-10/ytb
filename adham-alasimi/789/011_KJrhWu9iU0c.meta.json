@@ -1,0 +1,53 @@
+{
+ "v": 1,
+ "lid": "yt:KJrhWu9iU0c",
+ "vid": "KJrhWu9iU0c",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--789",
+ "n": 11,
+ "n_src": "read",
+ "title": "كفُّ الأذى ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "f87f776ddda61a5623e2782f864ce833436578e17ba727a308eeba288de3454b",
+ "nh": "1eb403d3e8a9f4095014a08deeca6a8766c28bc312a123e371a83f073e395281",
+ "chars": 16698,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/789/011_كفُّ الأذى ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/789/011_كفُّ الأذى ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "f87f776ddda61a5623e2782f864ce833436578e17ba727a308eeba288de3454b",
+   "rel": "identical"
+  },
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/786/001_كفُّ الأذى ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "ea2a26b28a2afb82fac0807322f1407ece2bfdd43c73b25d7acdb0cf995cd00f",
+   "rel": "variant"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/789/10.txt",
+   "sha256": "f87f776ddda61a5623e2782f864ce833436578e17ba727a308eeba288de3454b",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/786/0.txt",
+   "sha256": "ea2a26b28a2afb82fac0807322f1407ece2bfdd43c73b25d7acdb0cf995cd00f",
+   "rel": "variant"
+  }
+ ],
+ "variants": [
+  "_variants/011_KJrhWu9iU0c.des-mut.txt"
+ ],
+ "also_in": [
+  "adham-alasimi--786"
+ ]
+}

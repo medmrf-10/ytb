@@ -1,0 +1,53 @@
+{
+ "v": 1,
+ "lid": "yt:0qLNRrKdS_g",
+ "vid": "0qLNRrKdS_g",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--789",
+ "n": 16,
+ "n_src": "read",
+ "title": "إلا الصوم فإنه لي ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "f9552ced7d5a421b8fd304310a55d89511c1a9e85cfb0dc719bf2067f0583b70",
+ "nh": "f9d303e075daaf62a33c7a7ac96a6d702957b33c317a5c9ee77c6c1d578e5aaf",
+ "chars": 13331,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/789/016_إلا الصوم فإنه لي ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/789/016_إلا الصوم فإنه لي ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "f9552ced7d5a421b8fd304310a55d89511c1a9e85cfb0dc719bf2067f0583b70",
+   "rel": "identical"
+  },
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/786/006_إلا الصوم فإنه لي ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "daafe814d6770e6ef06d0dff2b51266c3f1397aaf14ca7909a3b0f0e12622f3f",
+   "rel": "variant"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/789/15.txt",
+   "sha256": "f9552ced7d5a421b8fd304310a55d89511c1a9e85cfb0dc719bf2067f0583b70",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/786/5.txt",
+   "sha256": "daafe814d6770e6ef06d0dff2b51266c3f1397aaf14ca7909a3b0f0e12622f3f",
+   "rel": "variant"
+  }
+ ],
+ "variants": [
+  "_variants/016_0qLNRrKdS_g.des-mut.txt"
+ ],
+ "also_in": [
+  "adham-alasimi--786"
+ ]
+}

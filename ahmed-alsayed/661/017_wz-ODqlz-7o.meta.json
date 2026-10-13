@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:wz-ODqlz-7o",
+ "vid": "wz-ODqlz-7o",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--661",
+ "n": 17,
+ "n_src": "mutfile",
+ "title": "خير القرون 16 ｜ سياسة عمر مع أمرائه وعماله ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "8e55402499c128ef3740fad6b2181dbf00632eca501ee5c1546ed012f8f6004e",
+ "nh": "705bb2c051be874744616e05cf8835ba8f78f48978ddc0212069cfa98290dce5",
+ "chars": 60258,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/661/017_خير القرون 16 ｜ سياسة عمر مع أمرائه وعماله ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/661/017_خير القرون 16 ｜ سياسة عمر مع أمرائه وعماله ｜ أحمد السيد.txt",
+   "sha256": "8e55402499c128ef3740fad6b2181dbf00632eca501ee5c1546ed012f8f6004e",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-661/017.txt",
+   "sha256": "eb10a2c354469030b055689709410380e9087c12bbbbfec3f8b298cd65ee34b5",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

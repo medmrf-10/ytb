@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:8PRCf-iVj38",
+ "vid": "8PRCf-iVj38",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-durus-amma",
+ "n": 4,
+ "n_src": "trfile",
+ "title": "الدرس 4",
+ "title_src": "filename",
+ "sha256": "7d7e6068d4d8132672e00ddea617634498b6d2432697a1a717ea4a417d7fa95d",
+ "nh": "e4e4f0a3c9bc80cf78db30a69784fa51ea029c355521d64b2ff7d0ebbcbdf0ad",
+ "chars": 45424,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriDurusAmma-004/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriDurusAmma-004/transcript.txt",
+   "sha256": "7d7e6068d4d8132672e00ddea617634498b6d2432697a1a717ea4a417d7fa95d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/durus-amma/durus-amma-04_AlAmri.txt",
+   "sha256": "7d7e6068d4d8132672e00ddea617634498b6d2432697a1a717ea4a417d7fa95d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-durus-amma/04.txt",
+   "sha256": "7d7e6068d4d8132672e00ddea617634498b6d2432697a1a717ea4a417d7fa95d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

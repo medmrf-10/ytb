@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:D_tnthNZ6dQ",
+ "vid": "D_tnthNZ6dQ",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--369",
+ "n": 9,
+ "n_src": "plpos",
+ "title": "9 - يغالطونك إذ يقولون | التقديس يعوق عن البحث وعن حرية النظر",
+ "title_src": "yt_titles",
+ "sha256": "1119063e2b3d5caeeaf377fe29d480aed67b3cf1fdb01e26c517fa1a7e4c22da",
+ "nh": "6cc7ad61780ddb8cab00a8b801790cb7fb2844a1684e64503149317a358ec8c6",
+ "chars": 25596,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/369/009_9 - يغالطونك إذ يقولون ｜ التقديس يعوق عن البحث وعن حرية النظر.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/369/009_9 - يغالطونك إذ يقولون ｜ التقديس يعوق عن البحث وعن حرية النظر.txt",
+   "sha256": "1119063e2b3d5caeeaf377fe29d480aed67b3cf1fdb01e26c517fa1a7e4c22da",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/yoghalitonak-009/transcript.txt",
+   "sha256": "f88b9888c782763230e749f28ae340376e491cfec5328f5faed58083672177da",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-yaghalitun/09.txt",
+   "sha256": "f88b9888c782763230e749f28ae340376e491cfec5328f5faed58083672177da",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/369/8.txt",
+   "sha256": "1119063e2b3d5caeeaf377fe29d480aed67b3cf1fdb01e26c517fa1a7e4c22da",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

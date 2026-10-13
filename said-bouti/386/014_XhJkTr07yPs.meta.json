@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:XhJkTr07yPs",
+ "vid": "XhJkTr07yPs",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 14,
+ "n_src": "read",
+ "title": "الحكم العطائية للإمام البوطي ｜ الدرس 14 - الحكمة 7",
+ "title_src": "filename",
+ "sha256": "2c79bb6c1c3317cd11bd7c35a62033f14ac19364e5c1b6f0a267316be7475b27",
+ "nh": "5a34a007dcf47076e129d0a5cba862b98f4f9f5b0c6556967ed9e03976d2f2f3",
+ "chars": 18145,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/014_الحكم العطائية للإمام البوطي ｜ الدرس 14  - الحكمة 7.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/014_الحكم العطائية للإمام البوطي ｜ الدرس 14  - الحكمة 7.txt",
+   "sha256": "2c79bb6c1c3317cd11bd7c35a62033f14ac19364e5c1b6f0a267316be7475b27",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/hikam/014_الحكم العطائية للإمام البوطي ｜ الدرس 14  - الحكمة 7.txt",
+   "sha256": "2c79bb6c1c3317cd11bd7c35a62033f14ac19364e5c1b6f0a267316be7475b27",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/014_الحكم العطائية للإمام البوطي ｜ الدرس 14  - الحكمة 7.txt",
+   "sha256": "2c79bb6c1c3317cd11bd7c35a62033f14ac19364e5c1b6f0a267316be7475b27",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/386/12.txt",
+   "sha256": "2c79bb6c1c3317cd11bd7c35a62033f14ac19364e5c1b6f0a267316be7475b27",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

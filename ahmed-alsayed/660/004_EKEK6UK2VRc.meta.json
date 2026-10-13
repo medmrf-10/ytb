@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:EKEK6UK2VRc",
+ "vid": "EKEK6UK2VRc",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--660",
+ "n": 4,
+ "n_src": "mutfile",
+ "title": "الأمة بين احتلالين 03 ｜ وفاة الكبار： ＂الفاضل والعماد والحافظ عبد الغني＂ ｜ أحمد ا",
+ "title_src": "filename",
+ "sha256": "a897cdafa543c60a8ae4f90024a410d9c7731f3125eed711ffac314b1c1c7f27",
+ "nh": "3c98c1a85e66d26a537bf33d8a15cad2a963215d59fa841ef5079cc5a0dd9fe7",
+ "chars": 61653,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/660/004_الأمة بين احتلالين 03 ｜ وفاة الكبار： ＂الفاضل والعماد والحافظ عبد الغني＂ ｜ أحمد ا.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/660/004_الأمة بين احتلالين 03 ｜ وفاة الكبار： ＂الفاضل والعماد والحافظ عبد الغني＂ ｜ أحمد ا.txt",
+   "sha256": "a897cdafa543c60a8ae4f90024a410d9c7731f3125eed711ffac314b1c1c7f27",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/elommaBaynI7tilayn-004/transcript.txt",
+   "sha256": "68ea95e9339fb3822a8c06c4aedd7c207c28d17370abf275cc3172dc3f300735",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-660/004.txt",
+   "sha256": "68ea95e9339fb3822a8c06c4aedd7c207c28d17370abf275cc3172dc3f300735",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:hvlBlG3g5pI",
+ "vid": "hvlBlG3g5pI",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+ "n": 34,
+ "n_src": "trfile",
+ "title": "الدَّرس الرابع والثلاثون _ القطب الثالث_ الدعوة الأولى والثَّانيَّة",
+ "title_src": "yt_titles",
+ "sha256": "315735e4150a078e1166603e56e48a1462dc001c01f6130dbfff2da3dfec5e8f",
+ "nh": "c4f4f314e063b9a786f18f19efe37548a306e59fbb87fd6cba0e3d5fca2860b3",
+ "chars": 35598,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriIqtisad-034/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriIqtisad-034/transcript.txt",
+   "sha256": "315735e4150a078e1166603e56e48a1462dc001c01f6130dbfff2da3dfec5e8f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-34_AlAmri.txt",
+   "sha256": "315735e4150a078e1166603e56e48a1462dc001c01f6130dbfff2da3dfec5e8f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-iqtisad/34.txt",
+   "sha256": "315735e4150a078e1166603e56e48a1462dc001c01f6130dbfff2da3dfec5e8f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

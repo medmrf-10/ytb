@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:fM3m5vL5MmE",
+ "vid": "fM3m5vL5MmE",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--775",
+ "n": 10,
+ "n_src": "read",
+ "title": "(10) رجحان البخاري على مسلم ومراتب الصحيح ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الش",
+ "title_src": "filename",
+ "sha256": "8e9ea2c23312f7e71d18ebddc1a1580c24c36a1584a318da97011a211bd12568",
+ "nh": "debdd1c97a484560e6855ce250ee07d264dd95c3e029a24afaa77e3c28ac58d1",
+ "chars": 22459,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/775/010_(10) رجحان البخاري على مسلم ومراتب الصحيح ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الش.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/775/010_(10) رجحان البخاري على مسلم ومراتب الصحيح ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الش.txt",
+   "sha256": "8e9ea2c23312f7e71d18ebddc1a1580c24c36a1584a318da97011a211bd12568",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/775/9.txt",
+   "sha256": "8e9ea2c23312f7e71d18ebddc1a1580c24c36a1584a318da97011a211bd12568",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

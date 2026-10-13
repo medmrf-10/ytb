@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:TOed81trGZ0",
+ "vid": "TOed81trGZ0",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--377",
+ "n": 1,
+ "n_src": "plpos",
+ "title": "مقدمة1- كبرى اليقينيات الكونية | أهمية هذه الدروس",
+ "title_src": "yt_titles",
+ "sha256": "4b6394366dcf0d073a1f6e615cbec12f2a67fe544086d2171d4078fa5ffeb1c2",
+ "nh": "369286dcbb959d84cc093594b0d2fa2284b7c3bc3ab1193158b8d4970d7e1f26",
+ "chars": 20001,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/377/001_مقدمة1- كبرى اليقينيات الكونية ｜ أهمية هذه الدروس.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/377/001_مقدمة1- كبرى اليقينيات الكونية ｜ أهمية هذه الدروس.txt",
+   "sha256": "4b6394366dcf0d073a1f6e615cbec12f2a67fe544086d2171d4078fa5ffeb1c2",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/kobraElya9inyat-001/transcript.txt",
+   "sha256": "8519657918f702161f8cbe89163559e03033ffc6a1310154b061cdd9c15c14c0",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/01.txt",
+   "sha256": "8519657918f702161f8cbe89163559e03033ffc6a1310154b061cdd9c15c14c0",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

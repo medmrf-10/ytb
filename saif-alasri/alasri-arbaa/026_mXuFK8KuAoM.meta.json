@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:mXuFK8KuAoM",
+ "vid": "mXuFK8KuAoM",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 26,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / أشعرية الحافظ ابن حجر / د. سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "aeed8b0727d652ff487a4596befbb8de551777bc1831e202dbedf90d005e3478",
+ "nh": "5b888c5198ddc8b2f9c75722e1c1f069fd29e6705b189ba3920bccd0c61602cc",
+ "chars": 19650,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-026/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-026/transcript.txt",
+   "sha256": "aeed8b0727d652ff487a4596befbb8de551777bc1831e202dbedf90d005e3478",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/026_mXuFK8KuAoM.txt",
+   "sha256": "aeed8b0727d652ff487a4596befbb8de551777bc1831e202dbedf90d005e3478",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/026.txt",
+   "sha256": "aeed8b0727d652ff487a4596befbb8de551777bc1831e202dbedf90d005e3478",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

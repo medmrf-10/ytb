@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:quMbwBNUSbY",
+ "vid": "quMbwBNUSbY",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--117",
+ "n": 19,
+ "n_src": "read",
+ "title": "حلقة 19 - فليبحث له عن شرع آخر - سلسلة الإنسانية قبل التدين",
+ "title_src": "filename",
+ "sha256": "c02ec76093f4e8b4aba56f9bb1fe22b3fe81563fc8860c82597221ea71afdcbb",
+ "nh": "f4e6657889593383fcf87a84e617243fbcf807c0c186e299220d98a4a6052cec",
+ "chars": 1455,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/117/019_حلقة 19 - فليبحث له عن شرع آخر - سلسلة الإنسانية قبل التدين.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/117/019_حلقة 19 - فليبحث له عن شرع آخر - سلسلة الإنسانية قبل التدين.txt",
+   "sha256": "c02ec76093f4e8b4aba56f9bb1fe22b3fe81563fc8860c82597221ea71afdcbb",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/insaniyya/31.txt",
+   "sha256": "c02ec76093f4e8b4aba56f9bb1fe22b3fe81563fc8860c82597221ea71afdcbb",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/112/31.txt",
+   "sha256": "c02ec76093f4e8b4aba56f9bb1fe22b3fe81563fc8860c82597221ea71afdcbb",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-ali-aljifri--112",
+  "k:117"
+ ]
+}

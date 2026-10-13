@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:5epAHFNEuUY",
+ "vid": "5epAHFNEuUY",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-mayar-ilm",
+ "n": 2,
+ "n_src": "trfile",
+ "title": "الدرس 2",
+ "title_src": "filename",
+ "sha256": "cf11e13dcaadb5e620e0017ced781864fca75bf9c33b4eff8f73248df3a3ccff",
+ "nh": "5dbdd08e1e0deb5eaea551eb511369de1614e91702cf35065845b4f85038b81c",
+ "chars": 30370,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriMayarIlm-002/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriMayarIlm-002/transcript.txt",
+   "sha256": "cf11e13dcaadb5e620e0017ced781864fca75bf9c33b4eff8f73248df3a3ccff",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/mayar-ilm/mayar-ilm-02_AlAmri.txt",
+   "sha256": "cf11e13dcaadb5e620e0017ced781864fca75bf9c33b4eff8f73248df3a3ccff",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-mayar-ilm/02.txt",
+   "sha256": "cf11e13dcaadb5e620e0017ced781864fca75bf9c33b4eff8f73248df3a3ccff",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

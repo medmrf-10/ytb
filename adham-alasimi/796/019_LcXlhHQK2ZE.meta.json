@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:LcXlhHQK2ZE",
+ "vid": "LcXlhHQK2ZE",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--796",
+ "n": 19,
+ "n_src": "read",
+ "title": "(19) اسم العلم ⧸ قطر الندى ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "c64a8727e9f0dec0f587e95948359e44ca95ab0885815c9379cfcc89502345e8",
+ "nh": "f9b2185b244cfbec505da566698fad32781876aaf9970c23e74ad22be414b9d1",
+ "chars": 19757,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/796/019_(19) اسم العلم ⧸ قطر الندى ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/796/019_(19) اسم العلم ⧸ قطر الندى ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "c64a8727e9f0dec0f587e95948359e44ca95ab0885815c9379cfcc89502345e8",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/796/18.txt",
+   "sha256": "c64a8727e9f0dec0f587e95948359e44ca95ab0885815c9379cfcc89502345e8",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

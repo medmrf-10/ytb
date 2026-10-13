@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:8tJ0J832Jyo",
+ "vid": "8tJ0J832Jyo",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--416",
+ "n": 8,
+ "n_src": "mutfile",
+ "title": "8 - العبادة والعبودية في القرآن الكريم آثار تحقق الإنسان بالعبودية",
+ "title_src": "filename",
+ "sha256": "49c7f7d6870ff048a40291a6b546854f876cab083d423f4237376fd924fc1f63",
+ "nh": "705a78eeb6e5ab957c175c877ff701b18f5313f02387b3d65d5b89e441cdd0e0",
+ "chars": 13327,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/416/008_8 - العبادة والعبودية في القرآن الكريم  آثار تحقق الإنسان بالعبودية.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/416/008_8 - العبادة والعبودية في القرآن الكريم  آثار تحقق الإنسان بالعبودية.txt",
+   "sha256": "49c7f7d6870ff048a40291a6b546854f876cab083d423f4237376fd924fc1f63",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tawba/008_8 - العبادة والعبودية في القرآن الكريم  آثار تحقق الإنسان بالعبودية.txt",
+   "sha256": "49c7f7d6870ff048a40291a6b546854f876cab083d423f4237376fd924fc1f63",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/ibada/008_8 - العبادة والعبودية في القرآن الكريم  آثار تحقق الإنسان بالعبودية.txt",
+   "sha256": "49c7f7d6870ff048a40291a6b546854f876cab083d423f4237376fd924fc1f63",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-416/008.txt",
+   "sha256": "a6e7dd705816319cf331b476b6410febebef2d31e4983f5efca2176c6f9dd0eb",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

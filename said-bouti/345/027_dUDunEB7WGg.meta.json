@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:dUDunEB7WGg",
+ "vid": "dUDunEB7WGg",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--345",
+ "n": 27,
+ "n_src": "plpos",
+ "title": "27- مشاهد وعبر من القرآن والسنة | قصة قارون وحاكمية الله للكون",
+ "title_src": "yt_titles",
+ "sha256": "c2880e5a2ee995e723d810b8927833234e1936ad147bd678ca973155952f9d44",
+ "nh": "7a5437d04c019f405e1fa2287e5262d57b30a12cb24d37aeda241681a0332389",
+ "chars": 13418,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/345/027_27- مشاهد وعبر من القرآن والسنة ｜ قصة قارون وحاكمية الله للكون.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/345/027_27- مشاهد وعبر من القرآن والسنة ｜ قصة قارون وحاكمية الله للكون.txt",
+   "sha256": "c2880e5a2ee995e723d810b8927833234e1936ad147bd678ca973155952f9d44",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-mashahid/27.txt",
+   "sha256": "6592766b2b9df4c8001027ff33a31e06fee6f9a17ee3d58ea4a40e903019cd33",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/345/26.txt",
+   "sha256": "c2880e5a2ee995e723d810b8927833234e1936ad147bd678ca973155952f9d44",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

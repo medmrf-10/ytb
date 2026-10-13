@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:FrlJ1Z7feyk",
+ "vid": "FrlJ1Z7feyk",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--379",
+ "n": 12,
+ "n_src": "plpos",
+ "title": "12- تاريخ التشريع الإسلامي | اتساع العلوم الإسلامية | أئمة المذاهب: الإمام أبو حنيفة",
+ "title_src": "yt_titles",
+ "sha256": "d6c5f7018b404a58ab9395379df672aa96b4f39a0976c0c3477f296779a0364d",
+ "nh": "7b8e71d7dc59e463ac70be09545c39388e094d38f9bc90fefd88ea539f9dcefb",
+ "chars": 24440,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/379/012_12- تاريخ التشريع الإسلامي ｜ اتساع العلوم الإسلامية ｜ أئمة المذاهب： الإمام أبو ح.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/379/012_12- تاريخ التشريع الإسلامي ｜ اتساع العلوم الإسلامية ｜ أئمة المذاهب： الإمام أبو ح.txt",
+   "sha256": "d6c5f7018b404a58ab9395379df672aa96b4f39a0976c0c3477f296779a0364d",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/tari5Eltachri3-012/transcript.txt",
+   "sha256": "a4fab4428f09b799f266eb5399b168fca70e7677cfee18f87fbc7d0e2596ed4c",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-tarikh/12.txt",
+   "sha256": "a4fab4428f09b799f266eb5399b168fca70e7677cfee18f87fbc7d0e2596ed4c",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/379/11.txt",
+   "sha256": "d6c5f7018b404a58ab9395379df672aa96b4f39a0976c0c3477f296779a0364d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

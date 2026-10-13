@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:-hAtjWMYZ3g",
+ "vid": "-hAtjWMYZ3g",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--117",
+ "n": 9,
+ "n_src": "read",
+ "title": "حلقة 9 - عالمية مانديلا وإنسانيته - سلسلة الإنسانية قبل التدين",
+ "title_src": "filename",
+ "sha256": "975982906ebed83bf07f3ab558cfb24cdf9fc0b0fa09888b93dc5d2ff3070268",
+ "nh": "49f7ba1624b9aac6682e512802d54c3c81fb1005ed2556bd27301b5255bac18f",
+ "chars": 1615,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/117/009_حلقة 9 - عالمية مانديلا وإنسانيته - سلسلة الإنسانية قبل التدين.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/117/009_حلقة 9 - عالمية مانديلا وإنسانيته - سلسلة الإنسانية قبل التدين.txt",
+   "sha256": "975982906ebed83bf07f3ab558cfb24cdf9fc0b0fa09888b93dc5d2ff3070268",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/insaniyya/21.txt",
+   "sha256": "975982906ebed83bf07f3ab558cfb24cdf9fc0b0fa09888b93dc5d2ff3070268",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/112/21.txt",
+   "sha256": "975982906ebed83bf07f3ab558cfb24cdf9fc0b0fa09888b93dc5d2ff3070268",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-ali-aljifri--112",
+  "k:117"
+ ]
+}

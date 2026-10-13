@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:vOZksIFTsbE",
+ "vid": "vOZksIFTsbE",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--783",
+ "n": 27,
+ "n_src": "read",
+ "title": "(27) الدرس السابع و العشرون ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "8ea1e54d94d0e1f8de2125dea58df7bc6dfa800719aad3ee1a4fc838959a792c",
+ "nh": "ebd520a9d9d9a2e0270258bf4221cc4a8b261e77f4f7f4e38558116bbb29ea48",
+ "chars": 11514,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/783/027_(27) الدرس السابع و العشرون ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/783/027_(27) الدرس السابع و العشرون ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "8ea1e54d94d0e1f8de2125dea58df7bc6dfa800719aad3ee1a4fc838959a792c",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/783/26.txt",
+   "sha256": "8ea1e54d94d0e1f8de2125dea58df7bc6dfa800719aad3ee1a4fc838959a792c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

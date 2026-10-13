@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:9y2mgUPrh-E",
+ "vid": "9y2mgUPrh-E",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 160,
+ "n_src": "plpos",
+ "title": "#حديث_الجمعة | مهلكة التكفير .. فساد في الأرض",
+ "title_src": "yt_titles",
+ "sha256": "62565fde0bdeb748f85d9c37b118002e899e64b21599ba716c267ca02b66d579",
+ "nh": "c86dade44e84d71bbb0d9351681d28df41306a8d64b97fcd00a6e9de6a9a6b67",
+ "chars": 9111,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/gomaa/mut-822/160_#حديث_الجمعة ｜ مهلكة التكفير .. فساد في الأرض.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/160_#حديث_الجمعة ｜ مهلكة التكفير .. فساد في الأرض.txt",
+   "sha256": "62565fde0bdeb748f85d9c37b118002e899e64b21599ba716c267ca02b66d579",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/160.txt",
+   "sha256": "afe95fa092f37da0b3078102e6b2571c150d810273ab472776829ff31191da11",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

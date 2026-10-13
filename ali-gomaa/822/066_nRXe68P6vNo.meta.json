@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:nRXe68P6vNo",
+ "vid": "nRXe68P6vNo",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 66,
+ "n_src": "plpos",
+ "title": "والله أعلم | فضيلة الدكتور علي جمعة يتحدث عن حدود استفتاء القلب | الحلقة الكاملة",
+ "title_src": "yt_titles",
+ "sha256": "dc870c3a4222ff325d059945fd3446806fb2ec54ca66118651d5165fc9b77f63",
+ "nh": "c6dc5a1e895fb90e950659be341fbddbfff9b81d3558a0e948eba2d827808661",
+ "chars": 26302,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/066_والله أعلم ｜ فضيلة الدكتور علي جمعة يتحدث عن حدود استفتاء القلب ｜ الحلقة الكاملة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/066_والله أعلم ｜ فضيلة الدكتور علي جمعة يتحدث عن حدود استفتاء القلب ｜ الحلقة الكاملة.txt",
+   "sha256": "dc870c3a4222ff325d059945fd3446806fb2ec54ca66118651d5165fc9b77f63",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/066_والله أعلم ｜ فضيلة الدكتور علي جمعة يتحدث عن حدود استفتاء القلب ｜ الحلقة الكاملة.txt",
+   "sha256": "dc870c3a4222ff325d059945fd3446806fb2ec54ca66118651d5165fc9b77f63",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/066.txt",
+   "sha256": "e255b67816f8d90416d964fa6d5e1bc518193241d2d6c1c181e11bc96a6d2597",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

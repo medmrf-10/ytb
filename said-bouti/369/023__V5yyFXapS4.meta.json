@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:_V5yyFXapS4",
+ "vid": "_V5yyFXapS4",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--369",
+ "n": 23,
+ "n_src": "plpos",
+ "title": "23- يغالطونك إذ يقولون : المرأة مهضومة الحقوق في الشريعة الإسلامية",
+ "title_src": "yt_titles",
+ "sha256": "39f1e5da1cac39237f332d895891d66088965308c7e6cc29b63503ab1f51ece9",
+ "nh": "78c252e672c0c1957c3690cd0ed4c3253e88da4aa60eed1e0466c35171710166",
+ "chars": 19823,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/369/023_23- يغالطونك إذ يقولون ： المرأة مهضومة الحقوق في الشريعة الإسلامية.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/369/023_23- يغالطونك إذ يقولون ： المرأة مهضومة الحقوق في الشريعة الإسلامية.txt",
+   "sha256": "39f1e5da1cac39237f332d895891d66088965308c7e6cc29b63503ab1f51ece9",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/yoghalitonak-023/transcript.txt",
+   "sha256": "453a64cdcfd2c004316394fc0256b2a417944f802adedb2248efce2f91dd6521",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-yaghalitun/23.txt",
+   "sha256": "453a64cdcfd2c004316394fc0256b2a417944f802adedb2248efce2f91dd6521",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/369/22.txt",
+   "sha256": "39f1e5da1cac39237f332d895891d66088965308c7e6cc29b63503ab1f51ece9",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

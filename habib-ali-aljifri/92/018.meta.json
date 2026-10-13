@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:habib-ali-aljifri--92:18",
+ "vid": null,
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--92",
+ "n": 18,
+ "n_src": "read",
+ "title": "12： حرية الإعلام - ياسر الزيات ｜ آمنت بالله ｜ الحبيب علي الجفري",
+ "title_src": "filename",
+ "sha256": "5c1962a6dd9666877dcf79f05655f1b1d9b759b97ffa8240bc411e583850336e",
+ "nh": "6b13cc71921bcd220e8f3fc59787f34383dc9780cc1b8d9cd3de7565cf3588d9",
+ "chars": 13168,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/92/018_12： حرية الإعلام - ياسر الزيات ｜ آمنت بالله ｜  الحبيب علي الجفري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/92/018_12： حرية الإعلام - ياسر الزيات ｜ آمنت بالله ｜  الحبيب علي الجفري.txt",
+   "sha256": "5c1962a6dd9666877dcf79f05655f1b1d9b759b97ffa8240bc411e583850336e",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/92/8.txt",
+   "sha256": "5c1962a6dd9666877dcf79f05655f1b1d9b759b97ffa8240bc411e583850336e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

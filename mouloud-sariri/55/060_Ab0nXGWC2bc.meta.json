@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:Ab0nXGWC2bc",
+ "vid": "Ab0nXGWC2bc",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 60,
+ "n_src": "read",
+ "title": "خطب منبرية： سبل الاستقامة ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "3056a86ca12829a20d355f223a4c99b380c8aa92034f89ab78c738d3ed08cd6e",
+ "nh": "06a6ef798830d66456c5404329a2acdd5e5fb4eb37be7bf3561a71559d1f8d17",
+ "chars": 8758,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/060_خطب منبرية： سبل الاستقامة ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/060_خطب منبرية： سبل الاستقامة ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "3056a86ca12829a20d355f223a4c99b380c8aa92034f89ab78c738d3ed08cd6e",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/59.txt",
+   "sha256": "3056a86ca12829a20d355f223a4c99b380c8aa92034f89ab78c738d3ed08cd6e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

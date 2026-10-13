@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:y7gzPBr0m4Q",
+ "vid": "y7gzPBr0m4Q",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--779",
+ "n": 5,
+ "n_src": "read",
+ "title": "(5) الاستفهام - التنمي- النداء ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "49a69902fa70b504394e7779d0b8c6d43242409977791485370b036c798ce33d",
+ "nh": "183d77f682e0fdd754e5235f2dd019e481e02c446afbfe159aacee65049fa27d",
+ "chars": 21537,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/779/005_(5) الاستفهام - التنمي- النداء ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/779/005_(5) الاستفهام - التنمي- النداء ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "49a69902fa70b504394e7779d0b8c6d43242409977791485370b036c798ce33d",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/779/4.txt",
+   "sha256": "49a69902fa70b504394e7779d0b8c6d43242409977791485370b036c798ce33d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:pBvfBNnfEFU",
+ "vid": "pBvfBNnfEFU",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-adab-murid",
+ "n": 12,
+ "n_src": "trfile",
+ "title": "رسالة آداب سلوك المريد_ المجلس الأوَّل _ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي.",
+ "title_src": "yt_titles",
+ "sha256": "d29b1f66f7f8faab39f2e6b375cbd69f969251aaacad29a7122024c71332e5b4",
+ "nh": "6267d557ffba3185971c1bb8daeb06887f4e4692a47add55aad720d43044a93c",
+ "chars": 34503,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriAdabMurid-012/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriAdabMurid-012/transcript.txt",
+   "sha256": "d29b1f66f7f8faab39f2e6b375cbd69f969251aaacad29a7122024c71332e5b4",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/adab-murid/adab-murid-12_AlAmri.txt",
+   "sha256": "d29b1f66f7f8faab39f2e6b375cbd69f969251aaacad29a7122024c71332e5b4",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-adab-murid/12.txt",
+   "sha256": "d29b1f66f7f8faab39f2e6b375cbd69f969251aaacad29a7122024c71332e5b4",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

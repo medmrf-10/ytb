@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:GJvmX_h2XtA",
+ "vid": "GJvmX_h2XtA",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--656",
+ "n": 39,
+ "n_src": "mutfile",
+ "title": "رياض الصالحين 39 ｜ باب في التعاون على البر والتقوى ｜ أنوار السنة المحمدية ｜ أحمد",
+ "title_src": "filename",
+ "sha256": "144971b62488595d35c9241d63aa1a02133eb9a0acd3aa5a9d2c64b46f85abb2",
+ "nh": "ff399b4716c0c152ae1214e275933b695e70e2c479e6a7b97c1256da73760f8e",
+ "chars": 43006,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/656/039_رياض الصالحين 39 ｜ باب في التعاون على البر والتقوى ｜ أنوار السنة المحمدية ｜ أحمد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/656/039_رياض الصالحين 39 ｜ باب في التعاون على البر والتقوى ｜ أنوار السنة المحمدية ｜ أحمد.txt",
+   "sha256": "144971b62488595d35c9241d63aa1a02133eb9a0acd3aa5a9d2c64b46f85abb2",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/riyadElsali7in-039/transcript.txt",
+   "sha256": "b9824e0a58d58e2f3b296b401cbf91da9e55d68e0c8fbabf656322118b295b69",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-656/039.txt",
+   "sha256": "b9824e0a58d58e2f3b296b401cbf91da9e55d68e0c8fbabf656322118b295b69",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

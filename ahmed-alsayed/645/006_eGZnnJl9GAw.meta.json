@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:eGZnnJl9GAw",
+ "vid": "eGZnnJl9GAw",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--645",
+ "n": 6,
+ "n_src": "mutfile",
+ "title": "آفاق الإصلاح في المشرق والمغرب： تجربة فريد الأنصاري وابن باديس｜ التجارب الإصلاحي",
+ "title_src": "filename",
+ "sha256": "1f27c00d0dc4b506605329933c08b8edc4cc806d4e464744402480d4cbce9213",
+ "nh": "3637d5ce26d8aa2623d71893f9aad507f5ab6317fc45a077843215c2af60683b",
+ "chars": 35769,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/645/006_آفاق الإصلاح في المشرق والمغرب： تجربة فريد الأنصاري وابن باديس｜ التجارب الإصلاحي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/645/006_آفاق الإصلاح في المشرق والمغرب： تجربة فريد الأنصاري وابن باديس｜ التجارب الإصلاحي.txt",
+   "sha256": "1f27c00d0dc4b506605329933c08b8edc4cc806d4e464744402480d4cbce9213",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/tajaribI9la7iya-006/transcript.txt",
+   "sha256": "e3f5c7f34403a291a67ae71d397881c9c4e71cde95d2dfe5d7d3eafa6c6fc7c0",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-645/006.txt",
+   "sha256": "e3f5c7f34403a291a67ae71d397881c9c4e71cde95d2dfe5d7d3eafa6c6fc7c0",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

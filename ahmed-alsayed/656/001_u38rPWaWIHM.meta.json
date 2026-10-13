@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:u38rPWaWIHM",
+ "vid": "u38rPWaWIHM",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--656",
+ "n": 1,
+ "n_src": "mutfile",
+ "title": "رياض الصالحين 01 ｜ باب الإخلاص والنية 1 ｜ أنوار السنة المحمدية ｜أحمد السيد",
+ "title_src": "filename",
+ "sha256": "7a1ebcc496ab338bb9c9703472ef796396cf12b672f4b78848356e9757f30ba3",
+ "nh": "068aa122d697a1946dd5e68f3ec2a6ca165f4026ff646552b567107c242ee30a",
+ "chars": 10731,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/656/001_رياض الصالحين 01 ｜ باب الإخلاص والنية 1 ｜ أنوار السنة المحمدية ｜أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/656/001_رياض الصالحين 01 ｜ باب الإخلاص والنية 1 ｜ أنوار السنة المحمدية ｜أحمد السيد.txt",
+   "sha256": "7a1ebcc496ab338bb9c9703472ef796396cf12b672f4b78848356e9757f30ba3",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/riyadElsali7in-001/transcript.txt",
+   "sha256": "7a1ebcc496ab338bb9c9703472ef796396cf12b672f4b78848356e9757f30ba3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-656/001.txt",
+   "sha256": "7a1ebcc496ab338bb9c9703472ef796396cf12b672f4b78848356e9757f30ba3",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

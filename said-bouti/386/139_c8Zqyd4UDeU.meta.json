@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:c8Zqyd4UDeU",
+ "vid": "c8Zqyd4UDeU",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 139,
+ "n_src": "read",
+ "title": "الحكم العطائية للعلامة البوطي الدرس 193 - الحكمة 170",
+ "title_src": "filename",
+ "sha256": "d53b2ae91ceed2dd27431009fa15f6933c9be0eae742df227f7821d5f0347ff1",
+ "nh": "882e297d3b07b2330ef0708ed215cbbeef098a59ef2d01bcf64a6b7362f21bc4",
+ "chars": 18869,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/139_الحكم العطائية للعلامة البوطي  الدرس 193 - الحكمة 170.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/139_الحكم العطائية للعلامة البوطي  الدرس 193 - الحكمة 170.txt",
+   "sha256": "d53b2ae91ceed2dd27431009fa15f6933c9be0eae742df227f7821d5f0347ff1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/139_الحكم العطائية للعلامة البوطي  الدرس 193 - الحكمة 170.txt",
+   "sha256": "d53b2ae91ceed2dd27431009fa15f6933c9be0eae742df227f7821d5f0347ff1",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

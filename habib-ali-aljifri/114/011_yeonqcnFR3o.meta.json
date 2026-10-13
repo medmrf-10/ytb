@@ -1,0 +1,39 @@
+{
+ "v": 1,
+ "lid": "yt:yeonqcnFR3o",
+ "vid": "yeonqcnFR3o",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--114",
+ "n": 11,
+ "n_src": "read",
+ "title": "الإنسانية قبل التدين ｜ الحلقة 10 - إنسانية التعامل مع المخطئ ｜ علي الجفري ｜ Engl",
+ "title_src": "filename",
+ "sha256": "1099aea02cde0328a4e26e34522ae5cfa466d3adcb661627841b6ee33edaec19",
+ "nh": "b1f1bae1732f744afa74821db8c56f37aaa4c9dc216e6de42ae9aa6af2e34efb",
+ "chars": 10553,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/114/011_الإنسانية قبل التدين ｜ الحلقة 10 - إنسانية التعامل مع المخطئ ｜ علي الجفري ｜ Engl.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/114/011_الإنسانية قبل التدين ｜ الحلقة 10 - إنسانية التعامل مع المخطئ ｜ علي الجفري ｜ Engl.txt",
+   "sha256": "1099aea02cde0328a4e26e34522ae5cfa466d3adcb661627841b6ee33edaec19",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/114/10.txt",
+   "sha256": "78976370444c3ca284d9a313c8fe5a843ec8bc4840fdb2768fab37120adeb3e6",
+   "rel": "variant"
+  }
+ ],
+ "variants": [
+  "_variants/011_yeonqcnFR3o.des-dur.txt"
+ ],
+ "also_in": []
+}

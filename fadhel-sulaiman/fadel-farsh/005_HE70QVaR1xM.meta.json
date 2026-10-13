@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:HE70QVaR1xM",
+ "vid": "HE70QVaR1xM",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-farsh",
+ "n": 5,
+ "n_src": "trfile",
+ "title": "تدبر فرش القراءات-الحلقة الخامسة-فأجمعوا كيدكم  #فاضل_سليمان",
+ "title_src": "yt_titles",
+ "sha256": "ed79488dc5669892dda2c647d2fcc35671dfaec8cf283b6d961549da0f8b3099",
+ "nh": "acba406a21df2179898717e9cc531a5e70867616ac7785869e8caf79c8ae984f",
+ "chars": 8547,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelFarsh-005/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelFarsh-005/transcript.txt",
+   "sha256": "ed79488dc5669892dda2c647d2fcc35671dfaec8cf283b6d961549da0f8b3099",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-farsh/005.txt",
+   "sha256": "ed79488dc5669892dda2c647d2fcc35671dfaec8cf283b6d961549da0f8b3099",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:u8HF13PkCA0",
+ "vid": "u8HF13PkCA0",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+ "n": 26,
+ "n_src": "trfile",
+ "title": "الدَّرس السَّادس والعشرون_ القطب الثاني_  خاتمة صفة الكلام والابتداء ببيان أحكام الصفات المشتركة",
+ "title_src": "yt_titles",
+ "sha256": "2549532c9cac71713fb8082d3cfbb41136a326cc79b109f79a2d3b5137e471fd",
+ "nh": "62bbf89d0405a45156c259d59dd51423635015d8dbe4d4a872d59b94d3ffed7b",
+ "chars": 32679,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriIqtisad-026/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriIqtisad-026/transcript.txt",
+   "sha256": "2549532c9cac71713fb8082d3cfbb41136a326cc79b109f79a2d3b5137e471fd",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-26_AlAmri.txt",
+   "sha256": "2549532c9cac71713fb8082d3cfbb41136a326cc79b109f79a2d3b5137e471fd",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-iqtisad/26.txt",
+   "sha256": "2549532c9cac71713fb8082d3cfbb41136a326cc79b109f79a2d3b5137e471fd",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

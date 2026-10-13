@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:FDusScLE9oE",
+ "vid": "FDusScLE9oE",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--941",
+ "n": 1,
+ "n_src": "read",
+ "title": "شرح الأربعين النووية ｜ حلقة #1 ｜ المقدمة ｜ د. علي جمعة ｜",
+ "title_src": "filename",
+ "sha256": "3ae90e2e626c299b41b3d63c30fb328a94836592c0ca3c613d3e73a42935815e",
+ "nh": "dfb51eef3d206f90a3a1018977da4b8b10b8e42da70036971a72baac68c5bf05",
+ "chars": 3815,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/941/001_شرح الأربعين النووية ｜ حلقة #1 ｜ المقدمة ｜ د. علي جمعة ｜ English Subtitle.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/941/001_شرح الأربعين النووية ｜ حلقة #1 ｜ المقدمة ｜ د. علي جمعة ｜ English Subtitle.txt",
+   "sha256": "3ae90e2e626c299b41b3d63c30fb328a94836592c0ca3c613d3e73a42935815e",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/ali-gomaa--941/001.txt",
+   "sha256": "3ae90e2e626c299b41b3d63c30fb328a94836592c0ca3c613d3e73a42935815e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

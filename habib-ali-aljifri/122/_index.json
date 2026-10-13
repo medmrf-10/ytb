@@ -1,0 +1,554 @@
+{
+ "coverage": 0.75,
+ "declared_total": 72,
+ "lessons": [
+  {
+   "chars": 9902,
+   "file": "001_7u8WBkkSrOY.txt",
+   "n": 1,
+   "quality": "ok",
+   "sha256": "c631e384e8ba5716cad919e5889e33d7910649e2ac8aaf91c0d549e897be0357",
+   "title": "قبس النور المبين من احياء علوم الدين آفة الغيبةالحبيب علي الجفري",
+   "variants": 0,
+   "vid": "7u8WBkkSrOY"
+  },
+  {
+   "chars": 9785,
+   "file": "002_MsIwiyX8E-w.txt",
+   "n": 2,
+   "quality": "ok",
+   "sha256": "90eaea85b443632720824eed14a810ae451eb4821bcd98fec6809bdd6bccb90d",
+   "title": "قبس النور المبين من احياء علوم الدين2 الحبيب علي الجفري",
+   "variants": 0,
+   "vid": "MsIwiyX8E-w"
+  },
+  {
+   "chars": 2084,
+   "file": "003_CUHTd8pae8U.txt",
+   "n": 3,
+   "quality": "ok",
+   "sha256": "888bd4636793b70e9dfb09389826e6f79c999f5af0589e71dd041ffe6ba5acee",
+   "title": "قبس النور المبين من احياء علوم الدين3 الحبيب علي الجفري",
+   "variants": 0,
+   "vid": "CUHTd8pae8U"
+  },
+  {
+   "chars": 14554,
+   "file": "004_jvU7V3sd-ws.txt",
+   "n": 4,
+   "quality": "ok",
+   "sha256": "1f608cc796e6251c37b5fcd33693493c791c5539790bcd19f203787832187f8f",
+   "title": "قبس النور المبين من احياء علوم الدين 4 الحبيب علي الجفري",
+   "variants": 0,
+   "vid": "jvU7V3sd-ws"
+  },
+  {
+   "chars": 10559,
+   "file": "005_1MHS2j5GETQ.txt",
+   "n": 5,
+   "quality": "ok",
+   "sha256": "05671279b490df493e382e2d3676df80d45506919b132d9bbc4cb7dce3afdd9f",
+   "title": "قبس النور المبين من احياء علوم الدين 5 الحبيب علي الجفري",
+   "variants": 0,
+   "vid": "1MHS2j5GETQ"
+  },
+  {
+   "chars": 33518,
+   "file": "006_m-k4KVlmDBY.txt",
+   "n": 6,
+   "quality": "ok",
+   "sha256": "6c0920c924d73e6edaf05c8fa90e790e28c0bdf1fdd19201db088c8aaa8cd81f",
+   "title": "كتاب قبس النور المبين مختصر إحياء علوم الدين - شرح الحبيب علي الجفري - الدرس الأ",
+   "variants": 0,
+   "vid": "m-k4KVlmDBY"
+  },
+  {
+   "chars": 40098,
+   "file": "007_oZ_Dm_Hslkg.txt",
+   "n": 7,
+   "quality": "ok",
+   "sha256": "c9122392a9c9c3f51dd559f08260a52fc4c458e01ef71700456944485974c33d",
+   "title": "كتاب قبس النور المبين مختصر إحياء علوم الدين - شرح الحبيب علي الجفري - الدرس الث",
+   "variants": 0,
+   "vid": "oZ_Dm_Hslkg"
+  },
+  {
+   "chars": 33672,
+   "file": "008_33Mgse_8kTQ.txt",
+   "n": 8,
+   "quality": "ok",
+   "sha256": "ded5bf298f901cd5b1c05456b49eafe2e124693aced26e5e5cf2124dbecbb81c",
+   "title": "كتاب قبس النور المبين مختصر إحياء علوم الدين - شرح الحبيب علي الجفري - الدرس الث",
+   "variants": 0,
+   "vid": "33Mgse_8kTQ"
+  },
+  {
+   "chars": 39623,
+   "file": "009_zg3cxRE999U.txt",
+   "n": 9,
+   "quality": "ok",
+   "sha256": "ab202ee400266e74a603202763cef7ddb46ebbcb3ad3e2812e6f6a336c1b31c2",
+   "title": "كتاب قبس النور المبين مختصر إحياء علوم الدين - شرح الحبيب علي الجفري - الدرس الر",
+   "variants": 0,
+   "vid": "zg3cxRE999U"
+  },
+  {
+   "chars": 24202,
+   "file": "010_WniZ-YJjXmw.txt",
+   "n": 10,
+   "quality": "ok",
+   "sha256": "136dc795aeae26b0ee06a7bbd4ae26ebe5d9edd2deb4f0d9af59df1e9e3c3699",
+   "title": "كتاب قبس النور المبين مختصر إحياء علوم الدين - شرح الحبيب علي الجفري - الدرس الس",
+   "variants": 0,
+   "vid": "WniZ-YJjXmw"
+  },
+  {
+   "chars": 20828,
+   "file": "011_eppvuDNYUXA.txt",
+   "n": 11,
+   "quality": "ok",
+   "sha256": "540c387b106150e64aaa07c314688b706547b9f4f663072bf3a442c41a0004a7",
+   "title": "كتاب قبس النور المبين مختصر إحياء علوم الدين - شرح الحبيب علي الجفري - الدرس الخ",
+   "variants": 0,
+   "vid": "eppvuDNYUXA"
+  },
+  {
+   "chars": 19333,
+   "file": "012_kOq3oR-2GAc.txt",
+   "n": 12,
+   "quality": "ok",
+   "sha256": "e0267c2f515d11b88059f035597cb13578300257834216f60c74c266a35ac214",
+   "title": "كتاب قبس النور المبين مختصر إحياء علوم الدين - شرح الحبيب علي الجفري - الدرس الس",
+   "variants": 0,
+   "vid": "kOq3oR-2GAc"
+  },
+  {
+   "chars": 24177,
+   "file": "013_Z5P62MKDmdI.txt",
+   "n": 13,
+   "quality": "ok",
+   "sha256": "51f2407d2ddd353e52ed59c55e1a81ba3f3154cddf747562cdc0500637ee01c7",
+   "title": "كتاب قبس النور المبين مختصر إحياء علوم الدين - شرح الحبيب علي الجفري - الدرس الث",
+   "variants": 0,
+   "vid": "Z5P62MKDmdI"
+  },
+  {
+   "chars": 27731,
+   "file": "014.txt",
+   "n": 14,
+   "quality": "ok",
+   "sha256": "bdfea22e2ca7c9b2813192bbe311368853d3fd74c3b5328a358655c66f2e8680",
+   "title": "كتاب قبس النور المبين مختصر إحياء علوم الدين - شرح الحبيب علي الجفري - الدرس الت",
+   "variants": 0,
+   "vid": null
+  },
+  {
+   "chars": 30014,
+   "file": "015.txt",
+   "n": 15,
+   "quality": "ok",
+   "sha256": "5f6abe69448945017943dd3c1d84bc17c1384bdc8c7cfc619b53c970d6c4fec5",
+   "title": "كتاب قبس النور المبين مختصر إحياء علوم الدين - شرح الحبيب علي الجفري - الدرس الس",
+   "variants": 0,
+   "vid": null
+  },
+  {
+   "chars": 43243,
+   "file": "016_AGq_rsfHgbQ.txt",
+   "n": 16,
+   "quality": "ok",
+   "sha256": "341295384e4211e779bc9f5dea6f6740627a42c208ccfb557bde13a8d0db88b2",
+   "title": "كتاب قبس النور المبين مختصر إحياء علوم الدين - شرح الحبيب علي الجفري - الدرس الع",
+   "variants": 0,
+   "vid": "AGq_rsfHgbQ"
+  },
+  {
+   "chars": 35950,
+   "file": "017_s3k6YxQ0544.txt",
+   "n": 17,
+   "quality": "ok",
+   "sha256": "dcb3b53ef8b2e58a5b5e309489e97b3467fcb43100aa722d49d5fa684287167b",
+   "title": "كتاب قبس النور المبين مختصر إحياء علوم الدين - شرح الحبيب علي الجفري - الدرس الح",
+   "variants": 0,
+   "vid": "s3k6YxQ0544"
+  },
+  {
+   "chars": 35038,
+   "file": "018_GcyyIFzntJ8.txt",
+   "n": 18,
+   "quality": "ok",
+   "sha256": "d1e94d137184abf283f603791e2aee3b647b83836456dec7d418f01aee995b25",
+   "title": "كتاب قبس النور المبين مختصر إحياء علوم الدين - شرح الحبيب علي الجفري - الدرس الث",
+   "variants": 0,
+   "vid": "GcyyIFzntJ8"
+  },
+  {
+   "chars": 37404,
+   "file": "019_qdvndMKtwHs.txt",
+   "n": 19,
+   "quality": "ok",
+   "sha256": "53015b2871a23c4cab162b64bec3de13a9d590268c6f1bf6f78ed9e5d8efbc49",
+   "title": "كتاب قبس النور المبين مختصر إحياء علوم الدين - شرح الحبيب علي الجفري - الدرس الث",
+   "variants": 0,
+   "vid": "qdvndMKtwHs"
+  },
+  {
+   "chars": 26180,
+   "file": "020_wQ2anvCTJzs.txt",
+   "n": 20,
+   "quality": "ok",
+   "sha256": "a734563d6275f17260d0ab04cc1011883e3c0f574947a092c35d7ad0d42e42ec",
+   "title": "كتاب قبس النور المبين مختصر إحياء علوم الدين - شرح الحبيب علي الجفري - الدرس الر",
+   "variants": 0,
+   "vid": "wQ2anvCTJzs"
+  },
+  {
+   "chars": 9064,
+   "file": "021.txt",
+   "n": 21,
+   "quality": "ok",
+   "sha256": "dc8b226a3cf1b731eb22af87885d045aef630095b78eee737bef7d5704403349",
+   "title": "كتاب قبس النور المبين مختصر إحياء علوم الدين - شرح الحبيب علي الجفري - الدرس الخ",
+   "variants": 0,
+   "vid": null
+  },
+  {
+   "chars": 35409,
+   "file": "022_5G5YMB_irow.txt",
+   "n": 22,
+   "quality": "ok",
+   "sha256": "36e5ed1827e56c5b952b8794086fa08a3372d9c4bdf8a65196ed9eea3823b936",
+   "title": "📗 كتاب： قبس النور المبين👈 الدرس：17 📖 العنوان： ما يجب على العالم ان يلزم نفسه به",
+   "variants": 0,
+   "vid": "5G5YMB_irow"
+  },
+  {
+   "chars": 27932,
+   "file": "023_qdijGawcHPk.txt",
+   "n": 23,
+   "quality": "ok",
+   "sha256": "a164a7e37bab8b0d230c2b25fd39453ad95da688800a91795cb8df91cc930ae5",
+   "title": "📗 كتاب： قبس النور المبين👈 الدرس：18 📖 العنوان： ما يجب على العالم ان يلزم نفسه به",
+   "variants": 0,
+   "vid": "qdijGawcHPk"
+  },
+  {
+   "chars": 34969,
+   "file": "024_CYSfQyBu0Mk.txt",
+   "n": 24,
+   "quality": "ok",
+   "sha256": "3df743ede574805e37723e03e91f5b53a87e4d3c672086d562fd61cf9e46e0d2",
+   "title": "📗 كتاب： قبس النور المبين👈 الدرس：19 📖 العنوان： ما يصح من نشاط العبد للعبادة بسبب",
+   "variants": 0,
+   "vid": "CYSfQyBu0Mk"
+  },
+  {
+   "chars": 28984,
+   "file": "025_uESdU8kPikM.txt",
+   "n": 25,
+   "quality": "ok",
+   "sha256": "29e74e0e84d92d65383343140a070e9e8b766c3ab2ebb7ec329e28275a9de6ea",
+   "title": "📗 كتاب： قبس النور المبين👈 الدرس：20 📖 العنوان： ما ينبغي للمريد أن يلزم نفسه قبل 🎙",
+   "variants": 0,
+   "vid": "uESdU8kPikM"
+  },
+  {
+   "chars": 21798,
+   "file": "026_vzhWUUNmc00.txt",
+   "n": 26,
+   "quality": "ok",
+   "sha256": "2a6d35a69cc07188b9c6bbb6d24aa8d25449f560003ac5598b291dde8841374c",
+   "title": "📗 كتاب： قبس النور المبين👈 الدرس：21 📖 العنوان： ما ينبغي للمريد أن يلزم نفسه قبل ا",
+   "variants": 0,
+   "vid": "vzhWUUNmc00"
+  },
+  {
+   "chars": 36717,
+   "file": "027_ndAvhHzWFZw.txt",
+   "n": 27,
+   "quality": "ok",
+   "sha256": "f0f31e954dc7ac33b36605773efd3525efbda40534c32ee266e79993412448f5",
+   "title": "كتاب قبس النور المبين👈 الدرس：22 📖 العنوان： ما يجب على العالم ان يلزم نفسه به 🎙️",
+   "variants": 0,
+   "vid": "ndAvhHzWFZw"
+  },
+  {
+   "chars": 31463,
+   "file": "028_ONIShSLqYAc.txt",
+   "n": 28,
+   "quality": "ok",
+   "sha256": "c2a823f0bae086de81ef0d7be9acbcc2149aef0352730321c887c873990077d3",
+   "title": "كتاب قبس النور المبين👈 الدرس：23 📖 العنوان： ما ينبغي للمريد 🎙️الحبيب علي الجفري📗",
+   "variants": 0,
+   "vid": "ONIShSLqYAc"
+  },
+  {
+   "chars": 32127,
+   "file": "029_QaYlWbocU1c.txt",
+   "n": 29,
+   "quality": "ok",
+   "sha256": "99d32b373bef0596207dba4c5126d3093ac18eb137a5a986ba1a2d21be7ae2eb",
+   "title": "📗 كتاب： قبس النور المبين👈 الدرس：24 📖 العنوان： ما يصح من نشاط العبد للعبادة بسبب",
+   "variants": 0,
+   "vid": "QaYlWbocU1c"
+  },
+  {
+   "chars": 43093,
+   "file": "030_rEGCDsm_YlE.txt",
+   "n": 30,
+   "quality": "ok",
+   "sha256": "89e5a04ef21c89629dff9622e9f0445672abcefda437341f5b9ff997c6e3c69d",
+   "title": "📗 كتاب： قبس النور المبين👈 الدرس：28 📖 العنوان： ذم الكبر 🎙️الحبيب علي الجفري",
+   "variants": 0,
+   "vid": "rEGCDsm_YlE"
+  },
+  {
+   "chars": 28838,
+   "file": "031_OwMSO-E5xSE.txt",
+   "n": 31,
+   "quality": "ok",
+   "sha256": "6ddfd0d85f807e221e1fb5c02fba3eafde6069226b90ecd7b11f7eb540a6e63c",
+   "title": "📗 كتاب： قبس النور المبين👈 الدرس：29 📖 العنوان： ذم الكبر 🎙️الحبيب علي الجفري",
+   "variants": 0,
+   "vid": "OwMSO-E5xSE"
+  },
+  {
+   "chars": 27966,
+   "file": "032_szvUmXZowS0.txt",
+   "n": 32,
+   "quality": "ok",
+   "sha256": "dcfe89a46c1795b4603a2ddd8007f340b1e804c639590fa7af2b97a3fbac4663",
+   "title": "📗 كتاب： قبس النور المبين👈 الدرس：30 📖 العنوان： ذم الكبر 🎙️الحبيب علي الجفري",
+   "variants": 0,
+   "vid": "szvUmXZowS0"
+  },
+  {
+   "chars": 40486,
+   "file": "033_f7mO7on1r_k.txt",
+   "n": 33,
+   "quality": "ok",
+   "sha256": "c5dafa56f0b7f0b47e72439b8ae1e2a3c0ea09bee5ad008d27d3bcf1213ffb21",
+   "title": "📗 كتاب： قبس النور المبين👈 الدرس：31 📖 العنوان： ذم الكبر 🎙️الحبيب علي الجفري",
+   "variants": 0,
+   "vid": "f7mO7on1r_k"
+  },
+  {
+   "chars": 27928,
+   "file": "034_KSbgTpsBNgE.txt",
+   "n": 34,
+   "quality": "ok",
+   "sha256": "3e53d6510cc920deb1a621b03d17887d173ddbee9b5c28ae66522eec9869dfd8",
+   "title": "📗 قبس النور المبين 👈 الدرس：32 باب ذم الكِبْر 🎙️️️️️️️️شرح ： الحبيب علي الج",
+   "variants": 0,
+   "vid": "KSbgTpsBNgE"
+  },
+  {
+   "chars": 4424,
+   "file": "035.txt",
+   "n": 35,
+   "quality": "ok",
+   "sha256": "9e45edfcfcdbe56c104b1a1d97e731406c59dd0691c7a9035fa74dec514f1b42",
+   "title": "📗 قبس النور المبين 👈 الدرس：33 باب ذم الكِبْر 🎙️️️️️️️️شرح ： الحبيب علي الج",
+   "variants": 0,
+   "vid": null
+  },
+  {
+   "chars": 38198,
+   "file": "036_0mxzHqC23lA.txt",
+   "n": 36,
+   "quality": "ok",
+   "sha256": "e5a5895b89e3b69f7923b11aac38b91d2b672cdbf2324d19d54a392b84036e92",
+   "title": "📗 قبس النور المبين 👈 الدرس：34 باب ذم الكِبْر 🎙️️️️️️️️شرح ： الحبيب علي الج",
+   "variants": 0,
+   "vid": "0mxzHqC23lA"
+  },
+  {
+   "chars": 21954,
+   "file": "037_qScGv8s3niI.txt",
+   "n": 37,
+   "quality": "ok",
+   "sha256": "fac017e6d7ea266d9fbfc40049816a11069c9e8a26021d9c2179c04c911d305b",
+   "title": "📗 قبس النور المبين 👈 الدرس：35 باب ذم الكِبْر 🎙️️️️️️️️شرح ： الحبيب علي الج",
+   "variants": 0,
+   "vid": "qScGv8s3niI"
+  },
+  {
+   "chars": 42626,
+   "file": "042_v5v-lpVExWI.txt",
+   "n": 42,
+   "quality": "ok",
+   "sha256": "4cc3db15b3fa8fa1da42c9cc507bdc2a8a800667b7b90f095b8197066723d486",
+   "title": "📗 قبس النور المبين 👈 الدرس：40 باب ذم الكِبْر 🎙️️️️️️️️شرح ： الحبيب علي الج",
+   "variants": 0,
+   "vid": "v5v-lpVExWI"
+  },
+  {
+   "chars": 44402,
+   "file": "043_W5Cs9hnZuto.txt",
+   "n": 43,
+   "quality": "ok",
+   "sha256": "ba34633de5b95faa019da3f93d543e7f8541d192269e840d2c27110613484acf",
+   "title": "📗 قبس النور المبين 👈 الدرس：41 باب ذم الكِبْر 🎙️️️️️️️️شرح ： الحبيب علي الج",
+   "variants": 0,
+   "vid": "W5Cs9hnZuto"
+  },
+  {
+   "chars": 4303,
+   "file": "044.txt",
+   "n": 44,
+   "quality": "ok",
+   "sha256": "7b5b95d2c59055f10985716083f8f33b4f6fbe615f2d2f0615abc7daa903143f",
+   "title": "📗 قبس النور المبين 👈 الدرس：42 باب ذم الكِبْر 🎙️️️️️️️️شرح ： الحبيب علي الج",
+   "variants": 0,
+   "vid": null
+  },
+  {
+   "chars": 63649,
+   "file": "048_nlPm9x08tAk.txt",
+   "n": 48,
+   "quality": "ok",
+   "sha256": "7f85344711817ba32d104d7866bb5903c0762260cf10feeb66d8c6d17b8bfb6e",
+   "title": "📗 كتاب： قبس النور المبين👈 الدرس：46 📖 العنوان： ذم الكبر 🎙️الحبيب علي الجفري",
+   "variants": 0,
+   "vid": "nlPm9x08tAk"
+  },
+  {
+   "chars": 35803,
+   "file": "049_LA_DfH7Ay7I.txt",
+   "n": 49,
+   "quality": "ok",
+   "sha256": "6e95338f99795be6e532170aceed60ffc0c2670c85c6e565f5679f36fa54b5bb",
+   "title": "📗 كتاب： قبس النور المبين👈 الدرس：47 📖 العنوان： ذم الكبر 🎙️الحبيب علي الجفري",
+   "variants": 0,
+   "vid": "LA_DfH7Ay7I"
+  },
+  {
+   "chars": 60849,
+   "file": "052_MD9-wBHjkcg.txt",
+   "n": 52,
+   "quality": "ok",
+   "sha256": "8bf586907a1e5dd8a972bea527f194ba84548dcfd8b756bbd4fdac4bbe78e47d",
+   "title": "📗 قبس النور المبين 👈 الدرس：50 باب ذم الكِبْر 🎙️️️️️️️️شرح ： الحبيب علي الج",
+   "variants": 0,
+   "vid": "MD9-wBHjkcg"
+  },
+  {
+   "chars": 66275,
+   "file": "055_Ki2Qr0Q-X7g.txt",
+   "n": 55,
+   "quality": "ok",
+   "sha256": "5bde9d0f33a9e93b49ef4136a085ec78068dd71454711675ea6bdd8ef565e587",
+   "title": "📗 كتاب： قبس النور المبين👈 الدرس：53 📖 العنوان： الكتاب العاشر من ربع المهلكات 🎙️ال",
+   "variants": 0,
+   "vid": "Ki2Qr0Q-X7g"
+  },
+  {
+   "chars": 35582,
+   "file": "056_3yHIaPUZV2Y.txt",
+   "n": 56,
+   "quality": "ok",
+   "sha256": "1967c16bd46201ab45dc7709369789111c123eb6d66a42b54f28f9d9a07bed69",
+   "title": "📗 كتاب： قبس النور المبين👈 الدرس：54 📖 العنوان：الكتاب العاشر من ربع المهلكات🎙️الحب",
+   "variants": 0,
+   "vid": "3yHIaPUZV2Y"
+  },
+  {
+   "chars": 29471,
+   "file": "058_nw9K-9m3_7Y.txt",
+   "n": 58,
+   "quality": "ok",
+   "sha256": "f6599540099fe5eab7c742f89376bd1640637ce2652ca77db6ec31ead844a6de",
+   "title": "قبس النور المبين شرح⧸ الحبيب علي الجفري -الدرس - 56",
+   "variants": 0,
+   "vid": "nw9K-9m3_7Y"
+  },
+  {
+   "chars": 29967,
+   "file": "059_ySW7xY7qQDI.txt",
+   "n": 59,
+   "quality": "ok",
+   "sha256": "ff81d202e3b29f28680a63bedc4cb5a80fccd9c3fa237a9b5f612e826304f1dd",
+   "title": "بث مباشر.. قبس النور المبين شرح⧸ الحبيب علي الجفري -الدرس - 57",
+   "variants": 0,
+   "vid": "ySW7xY7qQDI"
+  },
+  {
+   "chars": 45490,
+   "file": "063_7gXraATVUE8.txt",
+   "n": 63,
+   "quality": "ok",
+   "sha256": "b5b62153eab7ff484960ec27ac1adb37d7d0e01d25d91951ec70da1efb83b544",
+   "title": "🔴 بث مباشر 📗 كتاب：قبس النور المبين 👈️رقم： 61 العنوان： كتاب ذم الغرور و هوالكتاب",
+   "variants": 0,
+   "vid": "7gXraATVUE8"
+  },
+  {
+   "chars": 31719,
+   "file": "066_L4zRB5sFjX0.txt",
+   "n": 66,
+   "quality": "ok",
+   "sha256": "ffe229d34a75cb14755fde18a22c5d75c1d929485ca60aa58f7d458e6162174a",
+   "title": "📗 قبس النور المبين 👈 الدرس：36 باب ذم الكِبْر 🎙️️️️️️️️شرح ： الحبيب علي الج",
+   "variants": 0,
+   "vid": "L4zRB5sFjX0"
+  },
+  {
+   "chars": 59647,
+   "file": "067_KsVBVEvFxeQ.txt",
+   "n": 67,
+   "quality": "ok",
+   "sha256": "b0f3beb126fdcb3a02300d017d697c890b642f3e039907c2e30d6bae5c88d11f",
+   "title": "📗 قبس النور المبين 👈 الدرس：37 باب ذم الكِبْر 🎙️️️️️️️️شرح ： الحبيب علي الج",
+   "variants": 0,
+   "vid": "KsVBVEvFxeQ"
+  },
+  {
+   "chars": 50833,
+   "file": "068_3pJavAMg87U.txt",
+   "n": 68,
+   "quality": "ok",
+   "sha256": "6f358f0fb73407a5706daf3329f20c6d07ffc0976c7f2e5cf5e1c30131c289f8",
+   "title": "📗 قبس النور المبين 👈 الدرس：38 باب ذم الكِبْر 🎙️️️️️️️️شرح ： الحبيب علي الج",
+   "variants": 0,
+   "vid": "3pJavAMg87U"
+  },
+  {
+   "chars": 35059,
+   "file": "072_JE-Lm4JuFyo.txt",
+   "n": 72,
+   "quality": "ok",
+   "sha256": "75334345de4f203ffb212357648e3d4d3df338334827185b05e0768bc1bac248",
+   "title": "📗 قبس النور المبين 👈 الدرس：44 باب ذم الكِبْر 🎙️️️️️️️️شرح ： الحبيب علي الج",
+   "variants": 0,
+   "vid": "JE-Lm4JuFyo"
+  },
+  {
+   "chars": 48504,
+   "file": "073_xD6NF0txBwQ.txt",
+   "n": 73,
+   "quality": "ok",
+   "sha256": "4c6f6367c944ccc46d5a593ba13e9fe861a6b8e99aedc1575d333f7297a6cbb4",
+   "title": "📗 قبس النور المبين 👈 الدرس：48 باب ذم الكِبْر 🎙️️️️️️️️شرح ： الحبيب علي الج",
+   "variants": 0,
+   "vid": "xD6NF0txBwQ"
+  },
+  {
+   "chars": 10167,
+   "file": "074.txt",
+   "n": 74,
+   "quality": "ok",
+   "sha256": "6fbb4a61f8421be2947a68a1048b0bcc1545ac54673df78f343bddff46373b08",
+   "title": "الدرس 1",
+   "variants": 0,
+   "vid": null
+  }
+ ],
+ "playlists": [
+  "PLoIHYx0vytqhcg76T4VKxPPfhuTmER8HI"
+ ],
+ "row_id": "habib-ali-aljifri--122",
+ "sheikh": "habib-ali-aljifri",
+ "title": "دروس قبس النور المبين",
+ "transcribed": 54,
+ "v": 1
+}

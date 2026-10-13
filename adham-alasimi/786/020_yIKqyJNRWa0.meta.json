@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:yIKqyJNRWa0",
+ "vid": "yIKqyJNRWa0",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--786",
+ "n": 20,
+ "n_src": "read",
+ "title": "خير الأيام ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "a9cb8112bc78438e9a6e470ff30f7e8362253ae70df51ca24d769e2e04fd8650",
+ "nh": "5405a572a9553ff3697e3958b1549cdf7cf265cbc354778f8f8ffd7e783d647f",
+ "chars": 13160,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/786/020_خير الأيام ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/786/020_خير الأيام ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "a9cb8112bc78438e9a6e470ff30f7e8362253ae70df51ca24d769e2e04fd8650",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/786/19.txt",
+   "sha256": "a9cb8112bc78438e9a6e470ff30f7e8362253ae70df51ca24d769e2e04fd8650",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

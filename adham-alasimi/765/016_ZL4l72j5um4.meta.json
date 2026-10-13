@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:ZL4l72j5um4",
+ "vid": "ZL4l72j5um4",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--765",
+ "n": 16,
+ "n_src": "read",
+ "title": "(16) التمني + النداء ⧸ جواهر البلاغة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "d2bae22f81de23ae7b710a8ded40d326cd123ac50ca50a07ca8ea497b17fbc20",
+ "nh": "e95e8b22c80aa15a9d5afd04428bbb53944343dd1c264316ae0213a4edc39b60",
+ "chars": 21554,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/765/016_(16) التمني + النداء ⧸ جواهر البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/765/016_(16) التمني + النداء ⧸ جواهر البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "d2bae22f81de23ae7b710a8ded40d326cd123ac50ca50a07ca8ea497b17fbc20",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/765/15.txt",
+   "sha256": "d2bae22f81de23ae7b710a8ded40d326cd123ac50ca50a07ca8ea497b17fbc20",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

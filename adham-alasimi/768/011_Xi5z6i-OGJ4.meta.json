@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:Xi5z6i-OGJ4",
+ "vid": "Xi5z6i-OGJ4",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--768",
+ "n": 11,
+ "n_src": "read",
+ "title": "(11) القدم والبقاء ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "a85abd92913cb6fdb5f41874d132af97da91c49ad6856657d504d50c3eb0fd6c",
+ "nh": "9927d121e092cc45c94be3f060912b8440441dcbca30c7ede79d43fa468c585e",
+ "chars": 21543,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/768/011_(11) القدم والبقاء ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/768/011_(11) القدم والبقاء ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "a85abd92913cb6fdb5f41874d132af97da91c49ad6856657d504d50c3eb0fd6c",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/768/10.txt",
+   "sha256": "a85abd92913cb6fdb5f41874d132af97da91c49ad6856657d504d50c3eb0fd6c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:vpA7lAahbYY",
+ "vid": "vpA7lAahbYY",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 48,
+ "n_src": "plpos",
+ "title": "والله أعلم | الدكتور علي جمعة يتحدث عن حرية الاعتقاد ومخاطر الدعوة لتوحيد الأديان | حلقة كاملة",
+ "title_src": "yt_titles",
+ "sha256": "a1d4b8d6fe9080aa4f8523d3fe07050c89ee2453a07f20c0a4021be64bdef7db",
+ "nh": "1a38f976679a7714d3db598606ddc2db60dcad9f6d32cb0d8964cb8d88dda87b",
+ "chars": 24720,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/048_والله أعلم ｜ الدكتور علي جمعة يتحدث عن حرية الاعتقاد ومخاطر الدعوة لتوحيد الأديا.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/048_والله أعلم ｜ الدكتور علي جمعة يتحدث عن حرية الاعتقاد ومخاطر الدعوة لتوحيد الأديا.txt",
+   "sha256": "a1d4b8d6fe9080aa4f8523d3fe07050c89ee2453a07f20c0a4021be64bdef7db",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/048_والله أعلم ｜ الدكتور علي جمعة يتحدث عن حرية الاعتقاد ومخاطر الدعوة لتوحيد الأديا.txt",
+   "sha256": "a1d4b8d6fe9080aa4f8523d3fe07050c89ee2453a07f20c0a4021be64bdef7db",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/048.txt",
+   "sha256": "346c5241a19eb9630d5080287fc064dd7e860dad631a7298878801bde9832316",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

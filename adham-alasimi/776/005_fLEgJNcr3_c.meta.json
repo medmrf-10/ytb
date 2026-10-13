@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:fLEgJNcr3_c",
+ "vid": "fLEgJNcr3_c",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--776",
+ "n": 5,
+ "n_src": "read",
+ "title": "(5) الضعيف + الحسن لغيره ⧸ تيسير علوم الحديث ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "4bb26c65ceea2fc3605ce89e45923c7ebb9cf4c1ac57b99e340c86b80cf5a6d5",
+ "nh": "1a2459c3a989985d7c2288bd090730506e408b1b00e4108f2985d8883790fad3",
+ "chars": 25967,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/776/005_(5) الضعيف + الحسن لغيره ⧸ تيسير علوم الحديث ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/776/005_(5) الضعيف + الحسن لغيره ⧸ تيسير علوم الحديث ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "4bb26c65ceea2fc3605ce89e45923c7ebb9cf4c1ac57b99e340c86b80cf5a6d5",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/776/4.txt",
+   "sha256": "4bb26c65ceea2fc3605ce89e45923c7ebb9cf4c1ac57b99e340c86b80cf5a6d5",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

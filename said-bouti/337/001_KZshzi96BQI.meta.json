@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:KZshzi96BQI",
+ "vid": "KZshzi96BQI",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--337",
+ "n": 1,
+ "n_src": "mutfile",
+ "title": "برومو في رحاب القرآن",
+ "title_src": "filename",
+ "sha256": "376394cdfb9e052146af28f5378bfec415a67e4f7cad2ff5cc56106f02d3e0d0",
+ "nh": "2e397a9f792437366d23fc9b15a45c92759c5d00c824dc0e424869cf496f8aec",
+ "chars": 676,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/337/001_برومو في رحاب القرآن.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/337/001_برومو في رحاب القرآن.txt",
+   "sha256": "376394cdfb9e052146af28f5378bfec415a67e4f7cad2ff5cc56106f02d3e0d0",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/rihab/001_برومو في رحاب القرآن.txt",
+   "sha256": "376394cdfb9e052146af28f5378bfec415a67e4f7cad2ff5cc56106f02d3e0d0",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-337/001.txt",
+   "sha256": "d7fb3d4f873fd95d0370a0d711c10cdfda1511a4e10d1404499100bb0a8e8985",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

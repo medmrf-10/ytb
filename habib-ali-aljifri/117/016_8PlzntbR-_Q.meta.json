@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:8PlzntbR-_Q",
+ "vid": "8PlzntbR-_Q",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--117",
+ "n": 16,
+ "n_src": "read",
+ "title": "حلقة 16 - أيها الخطباء إنه منبر النبي - سلسلة حلقات الإنسانية قبل التدين",
+ "title_src": "filename",
+ "sha256": "c5883030109b892cbe7f65d10eb2062378e99b0ddfc30f1930404d1dbeabceeb",
+ "nh": "b9dacc84884504622dda0c5095020bba367ff7cd414acba7191f587f61a155d8",
+ "chars": 1749,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/117/016_حلقة 16 - أيها الخطباء إنه منبر النبي - سلسلة حلقات الإنسانية قبل التدين.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/117/016_حلقة 16 - أيها الخطباء إنه منبر النبي - سلسلة حلقات الإنسانية قبل التدين.txt",
+   "sha256": "c5883030109b892cbe7f65d10eb2062378e99b0ddfc30f1930404d1dbeabceeb",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/insaniyya/28.txt",
+   "sha256": "c5883030109b892cbe7f65d10eb2062378e99b0ddfc30f1930404d1dbeabceeb",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/112/28.txt",
+   "sha256": "c5883030109b892cbe7f65d10eb2062378e99b0ddfc30f1930404d1dbeabceeb",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-ali-aljifri--112",
+  "k:117"
+ ]
+}

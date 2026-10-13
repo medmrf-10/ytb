@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:50",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 50,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 76 ( قوله ＂ و لا زكاة من البقر أقل من ثلاثين بقرة",
+ "title_src": "filename",
+ "sha256": "8bb2fe0bfab54af234f40bd3916dc74e3d2547aaf40811efe6d32b4a274fe69e",
+ "nh": "779d34b0d6dbc8a1984cb74c82f5610c699a6bd13180cb0ac3c27344e8983c4a",
+ "chars": 10145,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/050_شرح رسالة ابن ابي زيد ｜ الدرس 76 ( قوله ＂ و لا زكاة من البقر أقل من ثلاثين بقرة .txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/050_شرح رسالة ابن ابي زيد ｜ الدرس 76 ( قوله ＂ و لا زكاة من البقر أقل من ثلاثين بقرة .txt",
+   "sha256": "8bb2fe0bfab54af234f40bd3916dc74e3d2547aaf40811efe6d32b4a274fe69e",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/76.txt",
+   "sha256": "8bb2fe0bfab54af234f40bd3916dc74e3d2547aaf40811efe6d32b4a274fe69e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

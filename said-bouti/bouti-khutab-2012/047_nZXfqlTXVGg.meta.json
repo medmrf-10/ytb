@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:nZXfqlTXVGg",
+ "vid": "nZXfqlTXVGg",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-khutab-2012",
+ "n": 47,
+ "n_src": "trfile",
+ "title": "خطبة الإمام الشهيد البوطي | سلاحنا الأمضى الدعاء والتضرع إلى الله",
+ "title_src": "yt_titles",
+ "sha256": "69fa6a83888939ef6c8db9b40321b49bd75479d1fe167f9c1dcab2b34516e38f",
+ "nh": "ffbcd56b47dee7f151eb3a0ca7cdb19cf21e2c8c6d6c9f402ac750082dd1f8b5",
+ "chars": 12860,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/5o6ab-047/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/5o6ab-047/transcript.txt",
+   "sha256": "69fa6a83888939ef6c8db9b40321b49bd75479d1fe167f9c1dcab2b34516e38f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-khutab-2012/47.txt",
+   "sha256": "69fa6a83888939ef6c8db9b40321b49bd75479d1fe167f9c1dcab2b34516e38f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

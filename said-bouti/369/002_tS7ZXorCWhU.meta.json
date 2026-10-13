@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:tS7ZXorCWhU",
+ "vid": "tS7ZXorCWhU",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--369",
+ "n": 2,
+ "n_src": "plpos",
+ "title": "2 - يغالطونك إذ يقولون | الشريعة الإسلامية لم تطبق أكثر من 30 عاماً",
+ "title_src": "yt_titles",
+ "sha256": "5a30b70b4a7867c59b4d5e44afd7abf5bc374099af2ac9a235cd262d0806237d",
+ "nh": "3352cdb1954b693c2f39db0ae91885b3a99d77c1bea7f2231c7141925a380fd4",
+ "chars": 18937,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/369/002_2 - يغالطونك إذ يقولون ｜ الشريعة الإسلامية لم تطبق أكثر من 30 عاماً.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/369/002_2 - يغالطونك إذ يقولون ｜ الشريعة الإسلامية لم تطبق أكثر من 30 عاماً.txt",
+   "sha256": "5a30b70b4a7867c59b4d5e44afd7abf5bc374099af2ac9a235cd262d0806237d",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/yoghalitonak-002/transcript.txt",
+   "sha256": "dddfd0275176eecb3f4df29c5329c0ff4bfe56eaef29db29a99a9f8aba01bccc",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-yaghalitun/02.txt",
+   "sha256": "dddfd0275176eecb3f4df29c5329c0ff4bfe56eaef29db29a99a9f8aba01bccc",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

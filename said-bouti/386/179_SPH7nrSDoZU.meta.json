@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:SPH7nrSDoZU",
+ "vid": "SPH7nrSDoZU",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 179,
+ "n_src": "read",
+ "title": "الحكم العطائية للإمام البوطي الدرس 70 - الحكمة 48 - 49",
+ "title_src": "filename",
+ "sha256": "8d5121c6f2986eb6ebb5ff4a39d9a4c70f0b67f6d14d7412cf4544b7261d212f",
+ "nh": "b5ff0e641940100abdf9253f9da33185ea1aec05e7794ee1bbd8b16dd7a88758",
+ "chars": 23362,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/179_الحكم العطائية للإمام البوطي  الدرس 70  - الحكمة 48 - 49.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/179_الحكم العطائية للإمام البوطي  الدرس 70  - الحكمة 48 - 49.txt",
+   "sha256": "8d5121c6f2986eb6ebb5ff4a39d9a4c70f0b67f6d14d7412cf4544b7261d212f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/179_الحكم العطائية للإمام البوطي  الدرس 70  - الحكمة 48 - 49.txt",
+   "sha256": "8d5121c6f2986eb6ebb5ff4a39d9a4c70f0b67f6d14d7412cf4544b7261d212f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

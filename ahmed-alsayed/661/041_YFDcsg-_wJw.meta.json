@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "yt:YFDcsg-_wJw",
+ "vid": "YFDcsg-_wJw",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--661",
+ "n": 41,
+ "n_src": "mutfile",
+ "title": "خير القرون 40 ｜ صاحب السر رضي الله عنه ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "47f4c3d1dea73ce0048dcc59d98527982c18e7d8f3c0622da0a6a3c7537c1c36",
+ "nh": "e3abc3a3ffa7b21a7cd9fb4c18355f1e7d6c77513896e2e0248861a459ab50d9",
+ "chars": 33580,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/661/041_خير القرون 40 ｜ صاحب السر رضي الله عنه ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/661/041_خير القرون 40 ｜ صاحب السر رضي الله عنه ｜ أحمد السيد.txt",
+   "sha256": "47f4c3d1dea73ce0048dcc59d98527982c18e7d8f3c0622da0a6a3c7537c1c36",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alsayed/mut-661/041.txt",
+   "sha256": "f01429d161377b025db7e28c887af28c3825ad9082ffe3954f29934d87b4e0fa",
+   "rel": "variant"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-661/041.txt",
+   "sha256": "f01429d161377b025db7e28c887af28c3825ad9082ffe3954f29934d87b4e0fa",
+   "rel": "variant"
+  }
+ ],
+ "variants": [
+  "_variants/041_YFDcsg-_wJw.hw-tr.txt"
+ ],
+ "also_in": []
+}

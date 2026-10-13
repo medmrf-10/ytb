@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:8exW6b2eMkU",
+ "vid": "8exW6b2eMkU",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--941",
+ "n": 9,
+ "n_src": "read",
+ "title": "شرح الأربعين النووية ｜ حلقة 9 ｜ حديث 8 ｜ أ.د علي جمعة ｜",
+ "title_src": "filename",
+ "sha256": "6d2ae98dded75be44cdcfb9e092dc16f4da498c3cf201be1e1b40f080451cef0",
+ "nh": "c33a451a7fd15dd3e7cdb4d288787ebdac5b8c773c6006a2d4ae2fcfb91ba558",
+ "chars": 4434,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/941/009_شرح الأربعين النووية ｜ حلقة 9 ｜ حديث 8 ｜ أ.د علي جمعة ｜ English Subtitle.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/941/009_شرح الأربعين النووية ｜ حلقة 9 ｜ حديث 8 ｜ أ.د علي جمعة ｜ English Subtitle.txt",
+   "sha256": "6d2ae98dded75be44cdcfb9e092dc16f4da498c3cf201be1e1b40f080451cef0",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/ali-gomaa--941/009.txt",
+   "sha256": "6d2ae98dded75be44cdcfb9e092dc16f4da498c3cf201be1e1b40f080451cef0",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

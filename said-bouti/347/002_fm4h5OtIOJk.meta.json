@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:fm4h5OtIOJk",
+ "vid": "fm4h5OtIOJk",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--347",
+ "n": 2,
+ "n_src": "mutfile",
+ "title": "1 - شكر الله تعالى في القرآن الكريم مراحل الشكر : أولاً : العلم",
+ "title_src": "filename",
+ "sha256": "2473af0f037909afc0224db8450af92d67b1c16a2bd18dbeebd4ce9dea2b8db0",
+ "nh": "7114f36cba1018b35f2cc9a3d306adc459ef142d31fe04d2cd37ec62b5fe091c",
+ "chars": 13280,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/347/002_1 - شكر الله تعالى في القرآن الكريم  مراحل الشكر : أولاً : العلم.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/347/002_1 - شكر الله تعالى في القرآن الكريم  مراحل الشكر : أولاً : العلم.txt",
+   "sha256": "2473af0f037909afc0224db8450af92d67b1c16a2bd18dbeebd4ce9dea2b8db0",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/rihab/002_1 - شكر الله تعالى في القرآن الكريم  مراحل الشكر : أولاً : العلم.txt",
+   "sha256": "2473af0f037909afc0224db8450af92d67b1c16a2bd18dbeebd4ce9dea2b8db0",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-347/002.txt",
+   "sha256": "38c028b2a64d86464ea9f5271d6fa16625db7c72b7951d5ef24c95ae46f75dbd",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

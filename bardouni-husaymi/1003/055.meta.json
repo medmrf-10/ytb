@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:55",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 55,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 71 ( قوله ＂و من له مال تجب فيه الزكاة و عليه دين",
+ "title_src": "filename",
+ "sha256": "56a17da7e07eda85d4f381089bc5b4bcf2398ec1d619501a449fa4b0c3c16358",
+ "nh": "e6930e9ebdca42e82d541019e8aeca1bc26e46422c2a2993baae7a8b167ec301",
+ "chars": 17521,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/055_شرح رسالة ابن ابي زيد ｜ الدرس 71 (  قوله ＂و من له مال تجب فيه الزكاة و عليه دين .txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/055_شرح رسالة ابن ابي زيد ｜ الدرس 71 (  قوله ＂و من له مال تجب فيه الزكاة و عليه دين .txt",
+   "sha256": "56a17da7e07eda85d4f381089bc5b4bcf2398ec1d619501a449fa4b0c3c16358",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/71.txt",
+   "sha256": "56a17da7e07eda85d4f381089bc5b4bcf2398ec1d619501a449fa4b0c3c16358",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

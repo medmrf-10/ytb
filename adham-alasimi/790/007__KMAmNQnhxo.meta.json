@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:_KMAmNQnhxo",
+ "vid": "_KMAmNQnhxo",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--790",
+ "n": 7,
+ "n_src": "read",
+ "title": "ما ينجّي من أهوال القيامة ⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "5403cb3894d43ce538f5ed8d86c71d85ab5e449e7e3bced533a82672b3f7a986",
+ "nh": "24850f581ead0c3169195694fe45c387874247179f33318384b5d931e10e473e",
+ "chars": 10977,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/790/007_ما ينجّي من أهوال القيامة ⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/790/007_ما ينجّي من أهوال القيامة ⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "5403cb3894d43ce538f5ed8d86c71d85ab5e449e7e3bced533a82672b3f7a986",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/790/6.txt",
+   "sha256": "5403cb3894d43ce538f5ed8d86c71d85ab5e449e7e3bced533a82672b3f7a986",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

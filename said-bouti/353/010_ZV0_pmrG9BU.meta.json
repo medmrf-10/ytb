@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:ZV0_pmrG9BU",
+ "vid": "ZV0_pmrG9BU",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--353",
+ "n": 10,
+ "n_src": "mutfile",
+ "title": "9 - الآداب الاجتماعية في القرآن الكريم آداب حفظ الود والأخوة",
+ "title_src": "filename",
+ "sha256": "1d715bc65277eb88f5ed59c4364c852c8bc38adf026cad29802ae6ca6c92da44",
+ "nh": "4800911a07e2dfa9f4e52e4e7947533f97188e8d9a60152fff4a9af7fa7f405d",
+ "chars": 12130,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/353/010_9 - الآداب الاجتماعية في القرآن الكريم  آداب حفظ الود والأخوة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/353/010_9 - الآداب الاجتماعية في القرآن الكريم  آداب حفظ الود والأخوة.txt",
+   "sha256": "1d715bc65277eb88f5ed59c4364c852c8bc38adf026cad29802ae6ca6c92da44",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/rihab/010_9 - الآداب الاجتماعية في القرآن الكريم  آداب حفظ الود والأخوة.txt",
+   "sha256": "1d715bc65277eb88f5ed59c4364c852c8bc38adf026cad29802ae6ca6c92da44",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-353/010_9 - الآداب الاجتماعية في القرآن الكريم  آداب حفظ الود والأخوة.txt",
+   "sha256": "1d715bc65277eb88f5ed59c4364c852c8bc38adf026cad29802ae6ca6c92da44",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-353/010.txt",
+   "sha256": "6807bb77e847b3ed6518388022ae326a8840d21b7b13c0bba6a19f9fcdf1a0ff",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

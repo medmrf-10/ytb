@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:wylN6nquEsY",
+ "vid": "wylN6nquEsY",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--337",
+ "n": 5,
+ "n_src": "mutfile",
+ "title": "4 - في رحاب القرآن لماذا تحارب اللغة العربية؟",
+ "title_src": "filename",
+ "sha256": "217d53a33efed3c1b15b3e9d0d292e3d11c43d950bc53ab9a21da23ef66d4a0d",
+ "nh": "88c9e00679efe6814fc17cd0a4dca30875b4769df5926852924d359af289fa99",
+ "chars": 1499,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/337/005_4 - في رحاب القرآن  لماذا تحارب اللغة العربية؟.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/337/005_4 - في رحاب القرآن  لماذا تحارب اللغة العربية؟.txt",
+   "sha256": "217d53a33efed3c1b15b3e9d0d292e3d11c43d950bc53ab9a21da23ef66d4a0d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/rihab/005_4 - في رحاب القرآن  لماذا تحارب اللغة العربية؟.txt",
+   "sha256": "217d53a33efed3c1b15b3e9d0d292e3d11c43d950bc53ab9a21da23ef66d4a0d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-337/005.txt",
+   "sha256": "7ed913d26dd0be8b2bf2d659155b48c4df041628f911ead605055a04804863d1",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

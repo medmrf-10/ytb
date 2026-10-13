@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:T-tZ55_slO4",
+ "vid": "T-tZ55_slO4",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 46,
+ "n_src": "plpos",
+ "title": "والله اعلم | فضيلة الدكتور علي جمعة يتحدث عن اسباب التطاول على الدين وكيفية مواجهته | الحلقة الكاملة",
+ "title_src": "yt_titles",
+ "sha256": "b56a6e591464e7fd98a680b9f23b1c40571a9884d5c5f49e07ddb47f3bdee044",
+ "nh": "09e66c063760d44c046849e2bf880b824075424527297a863fb7fd6cefc09dae",
+ "chars": 22884,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/046_والله اعلم ｜ فضيلة الدكتور علي جمعة يتحدث عن اسباب التطاول على الدين وكيفية مواج.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/046_والله اعلم ｜ فضيلة الدكتور علي جمعة يتحدث عن اسباب التطاول على الدين وكيفية مواج.txt",
+   "sha256": "b56a6e591464e7fd98a680b9f23b1c40571a9884d5c5f49e07ddb47f3bdee044",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/046_والله اعلم ｜ فضيلة الدكتور علي جمعة يتحدث عن اسباب التطاول على الدين وكيفية مواج.txt",
+   "sha256": "b56a6e591464e7fd98a680b9f23b1c40571a9884d5c5f49e07ddb47f3bdee044",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/046.txt",
+   "sha256": "3c179c3eb7e260e39d1c8877c37552223c0651f792e3fd813e152da9c12ad2b6",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:xS3o5qaMVxA",
+ "vid": "xS3o5qaMVxA",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--776",
+ "n": 4,
+ "n_src": "read",
+ "title": "(4) دواوين السنة+الحسن لذاته+الصحيح لغيره ⧸ تيسير علوم الحديث ⧸ الشيخ أدهم العاس",
+ "title_src": "filename",
+ "sha256": "c15e2bc2ea3dc2a3683ac4a472e4400d51c27971c316822b91a91ced897dc093",
+ "nh": "6ef4b6a6a207d587a2d32a287d06b64c9c847fe9bfc6bc158ad8c89155a0416b",
+ "chars": 30533,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/776/004_(4) دواوين السنة+الحسن لذاته+الصحيح لغيره ⧸ تيسير علوم الحديث ⧸ الشيخ أدهم العاس.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/776/004_(4) دواوين السنة+الحسن لذاته+الصحيح لغيره ⧸ تيسير علوم الحديث ⧸ الشيخ أدهم العاس.txt",
+   "sha256": "c15e2bc2ea3dc2a3683ac4a472e4400d51c27971c316822b91a91ced897dc093",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/776/3.txt",
+   "sha256": "c15e2bc2ea3dc2a3683ac4a472e4400d51c27971c316822b91a91ced897dc093",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

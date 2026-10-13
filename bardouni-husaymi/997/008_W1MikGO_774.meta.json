@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:W1MikGO_774",
+ "vid": "W1MikGO_774",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--997",
+ "n": 8,
+ "n_src": "read",
+ "title": "شرح الحكم العطائية ｜ الدرس 8＂ تنوعت أجناس الأعمال لتنوع واردات الأحوال＂｜ الشيخ م",
+ "title_src": "filename",
+ "sha256": "c8ea240e612e360b71bebcd678699c1b4b54dd7b1d711cbb990266ef7d0c0839",
+ "nh": "c8d2392032c6a4da25a86e4f89330046adeba861dbe12e43c07bfd5c1ca8100c",
+ "chars": 10833,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/997/008_شرح الحكم العطائية ｜ الدرس 8＂ تنوعت أجناس الأعمال لتنوع واردات الأحوال＂｜ الشيخ م.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/997/008_شرح الحكم العطائية ｜ الدرس 8＂ تنوعت أجناس الأعمال لتنوع واردات الأحوال＂｜ الشيخ م.txt",
+   "sha256": "c8ea240e612e360b71bebcd678699c1b4b54dd7b1d711cbb990266ef7d0c0839",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/hikam-azhar/7.txt",
+   "sha256": "c8ea240e612e360b71bebcd678699c1b4b54dd7b1d711cbb990266ef7d0c0839",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/871/7.txt",
+   "sha256": "c8ea240e612e360b71bebcd678699c1b4b54dd7b1d711cbb990266ef7d0c0839",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "ali-gomaa--871",
+  "ali-gomaa--gomaa-hikam-azhar"
+ ]
+}

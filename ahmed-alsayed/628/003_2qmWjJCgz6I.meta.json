@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:2qmWjJCgz6I",
+ "vid": "2qmWjJCgz6I",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--628",
+ "n": 3,
+ "n_src": "mutfile",
+ "title": "السيرة النبوية للمصلحين 03 ｜ أهمية مرحلة ما قبل النبوة ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "c1908953345e1c493eb0dc45d04585294d8cfed808018d9f56edb1fc9aa96e11",
+ "nh": "056fb7d89835d5443bd2e2b6855e982a88c40aab1137902c56716292204c91ab",
+ "chars": 18013,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/628/003_السيرة النبوية للمصلحين 03 ｜ أهمية مرحلة ما قبل النبوة ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/628/003_السيرة النبوية للمصلحين 03 ｜ أهمية مرحلة ما قبل النبوة ｜ أحمد السيد.txt",
+   "sha256": "c1908953345e1c493eb0dc45d04585294d8cfed808018d9f56edb1fc9aa96e11",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/elsiraLilmosli7in-003/transcript.txt",
+   "sha256": "94c5da670edb7477f7a2de8aca4f048fa0d95fa15e25861de85b7d92f9129bc8",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-628/003.txt",
+   "sha256": "94c5da670edb7477f7a2de8aca4f048fa0d95fa15e25861de85b7d92f9129bc8",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:DN4OCJRAQPs",
+ "vid": "DN4OCJRAQPs",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--628",
+ "n": 21,
+ "n_src": "mutfile",
+ "title": "السيرة النبوية للمصلحين 21 ｜ آثار أُحُد ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "f44181d54d0376d44f9a312c1e5457fdff633dff656da160769a6f1e6b1e6771",
+ "nh": "737a491b499968dd03b8f0208b83b06caf83e279cc0f01618abdcd2c419e140e",
+ "chars": 37653,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/628/021_السيرة النبوية للمصلحين 21 ｜ آثار أُحُد ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/628/021_السيرة النبوية للمصلحين 21 ｜ آثار أُحُد ｜ أحمد السيد.txt",
+   "sha256": "f44181d54d0376d44f9a312c1e5457fdff633dff656da160769a6f1e6b1e6771",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/elsiraLilmosli7in-021/transcript.txt",
+   "sha256": "f9771764d8d1d86c455499d0e44ca3c06926843a78f1d2dc85e987bc13fa1af1",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-628/021.txt",
+   "sha256": "f9771764d8d1d86c455499d0e44ca3c06926843a78f1d2dc85e987bc13fa1af1",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

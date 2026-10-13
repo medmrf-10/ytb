@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:et4r25vlrJU",
+ "vid": "et4r25vlrJU",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 39,
+ "n_src": "read",
+ "title": "الحكم العطائية للإمام البوطي ｜ الدرس 39 - الحكمة 22",
+ "title_src": "filename",
+ "sha256": "cd7202744ec6d99be4bd94a32e6391617c61fde9e4d1b3f127e96622bdf08362",
+ "nh": "b174b641518120a27123ec79535f753cd60e1bfd9403080b816835bbd034a16b",
+ "chars": 18915,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/039_الحكم العطائية للإمام البوطي ｜ الدرس 39  - الحكمة 22.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/039_الحكم العطائية للإمام البوطي ｜ الدرس 39  - الحكمة 22.txt",
+   "sha256": "cd7202744ec6d99be4bd94a32e6391617c61fde9e4d1b3f127e96622bdf08362",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/hikam/039_الحكم العطائية للإمام البوطي ｜ الدرس 39  - الحكمة 22.txt",
+   "sha256": "cd7202744ec6d99be4bd94a32e6391617c61fde9e4d1b3f127e96622bdf08362",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/039_الحكم العطائية للإمام البوطي ｜ الدرس 39  - الحكمة 22.txt",
+   "sha256": "cd7202744ec6d99be4bd94a32e6391617c61fde9e4d1b3f127e96622bdf08362",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/386/37.txt",
+   "sha256": "cd7202744ec6d99be4bd94a32e6391617c61fde9e4d1b3f127e96622bdf08362",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

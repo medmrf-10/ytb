@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:dixFd_HFyyo",
+ "vid": "dixFd_HFyyo",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-juz30",
+ "n": 11,
+ "n_src": "trfile",
+ "title": "فيديو # ٦٢٦ من مقاطع حظر التجول  تدبر سورة المطففين حلقة # ١ الآيات ١-٦",
+ "title_src": "yt_titles",
+ "sha256": "c99289f7ddec93f9fbba0bc1c6299ade484462237933c04c0e5e8c071f3f97ab",
+ "nh": "180b203102685e50c1009148d10e9e5280aa65b1d40d4b4cfce28f6d8969665d",
+ "chars": 18604,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelJuz30-011/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelJuz30-011/transcript.txt",
+   "sha256": "c99289f7ddec93f9fbba0bc1c6299ade484462237933c04c0e5e8c071f3f97ab",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-juz30/011.txt",
+   "sha256": "c99289f7ddec93f9fbba0bc1c6299ade484462237933c04c0e5e8c071f3f97ab",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

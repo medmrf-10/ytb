@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:wuBLs52yAuA",
+ "vid": "wuBLs52yAuA",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--768",
+ "n": 10,
+ "n_src": "read",
+ "title": "(10) الوجود ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "a58c0eb9124ccb0d88f024759603380fe84dbe98bb58fe1fe6eb5417fabf2376",
+ "nh": "40d107d4308e39d376a2d4dfd316771b3ce649907a5948395deb4cd142852f0b",
+ "chars": 17259,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/768/010_(10) الوجود ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/768/010_(10) الوجود ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "a58c0eb9124ccb0d88f024759603380fe84dbe98bb58fe1fe6eb5417fabf2376",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/768/9.txt",
+   "sha256": "a58c0eb9124ccb0d88f024759603380fe84dbe98bb58fe1fe6eb5417fabf2376",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

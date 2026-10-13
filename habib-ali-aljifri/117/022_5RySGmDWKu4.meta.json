@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:5RySGmDWKu4",
+ "vid": "5RySGmDWKu4",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--117",
+ "n": 22,
+ "n_src": "read",
+ "title": "حلقة 22 - ذوو العطاءات الخاصة - سلسلة الإنسانية قبل التدين",
+ "title_src": "filename",
+ "sha256": "2881ba8212be051e0e633c57df7ee91ae34ba5d6889a08a090cbb49e40223e29",
+ "nh": "1eaa7031f2c3d041a2382bc485345fd991e19551266c57f7c730b2aa8174739d",
+ "chars": 1808,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/117/022_حلقة 22 - ذوو العطاءات الخاصة - سلسلة الإنسانية قبل التدين.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/117/022_حلقة 22 - ذوو العطاءات الخاصة - سلسلة الإنسانية قبل التدين.txt",
+   "sha256": "2881ba8212be051e0e633c57df7ee91ae34ba5d6889a08a090cbb49e40223e29",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/insaniyya/34.txt",
+   "sha256": "2881ba8212be051e0e633c57df7ee91ae34ba5d6889a08a090cbb49e40223e29",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/112/34.txt",
+   "sha256": "2881ba8212be051e0e633c57df7ee91ae34ba5d6889a08a090cbb49e40223e29",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-ali-aljifri--112",
+  "k:117"
+ ]
+}

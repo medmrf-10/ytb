@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:kawnj5e66jg",
+ "vid": "kawnj5e66jg",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--117",
+ "n": 1,
+ "n_src": "read",
+ "title": "حلقة 1- لماذا الإنسانية قبل التدين - سلسلة الإنسانية قبل التدين subtitled",
+ "title_src": "filename",
+ "sha256": "ebc24e7ab052c138fef5c1ff316b33ac6fd7befa4a224e848992d784a52f38ca",
+ "nh": "1436024148ced292e1857cb4c45a590d4e08b46514f83409c5782a25400749bf",
+ "chars": 1447,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/117/001_حلقة 1- لماذا الإنسانية قبل التدين - سلسلة الإنسانية قبل التدين subtitled.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/117/001_حلقة 1- لماذا الإنسانية قبل التدين - سلسلة الإنسانية قبل التدين subtitled.txt",
+   "sha256": "ebc24e7ab052c138fef5c1ff316b33ac6fd7befa4a224e848992d784a52f38ca",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/insaniyya/13.txt",
+   "sha256": "ebc24e7ab052c138fef5c1ff316b33ac6fd7befa4a224e848992d784a52f38ca",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/112/13.txt",
+   "sha256": "ebc24e7ab052c138fef5c1ff316b33ac6fd7befa4a224e848992d784a52f38ca",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-ali-aljifri--112",
+  "k:117"
+ ]
+}

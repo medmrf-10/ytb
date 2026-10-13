@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:vSwTpBtnPNk",
+ "vid": "vSwTpBtnPNk",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--416",
+ "n": 4,
+ "n_src": "mutfile",
+ "title": "4 - العبادة والعبودية في القرآن الكريم هل يفيد تطبيق أحكام الشريعة الإسلامية في ظل غياب العبودية؟",
+ "title_src": "filename",
+ "sha256": "557f943706cc93f119a7e757d69bf55550b2bb1b639dc08de7f180ca2afe3a55",
+ "nh": "e89d5b2878a12b4fc9cd56d0ad2637136eb834b6a717f18f805a4b8436d5f22c",
+ "chars": 13452,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/416/004_4 - العبادة والعبودية في القرآن الكريم  هل يفيد تطبيق أحكام الشريعة الإسلامية في ظل غياب العبودية؟.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/416/004_4 - العبادة والعبودية في القرآن الكريم  هل يفيد تطبيق أحكام الشريعة الإسلامية في ظل غياب العبودية؟.txt",
+   "sha256": "557f943706cc93f119a7e757d69bf55550b2bb1b639dc08de7f180ca2afe3a55",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tawba/004_4 - العبادة والعبودية في القرآن الكريم  هل يفيد تطبيق أحكام الشريعة الإسلامية في ظل غياب العبودية؟.txt",
+   "sha256": "557f943706cc93f119a7e757d69bf55550b2bb1b639dc08de7f180ca2afe3a55",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/ibada/004_4 - العبادة والعبودية في القرآن الكريم  هل يفيد تطبيق أحكام الشريعة الإسلامية في ظل غياب العبودية؟.txt",
+   "sha256": "557f943706cc93f119a7e757d69bf55550b2bb1b639dc08de7f180ca2afe3a55",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-416/004.txt",
+   "sha256": "cc50234757b73f9873dd95e81575e69f80f73b24a83b8ede761a4467b60f2541",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

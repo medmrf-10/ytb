@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:zX79i1CMVo0",
+ "vid": "zX79i1CMVo0",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1006",
+ "n": 7,
+ "n_src": "read",
+ "title": "شرح لامية العرب ｜ الدرس 4 ( الأبيات -١٠-١١-١٢-) ｜ الشيخ محمد البردوني الحسيمي",
+ "title_src": "filename",
+ "sha256": "e65620914ac41478169be327aa9700e144cfa88d16e74db791b50b278b7f9d53",
+ "nh": "baed85e1fb36b41175d939ddbd0c0c49e5e93b82e93df42198f22dbf98c44455",
+ "chars": 1977,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1006/007_شرح لامية العرب ｜ الدرس 4 ( الأبيات -١٠-١١-١٢-) ｜ الشيخ محمد البردوني الحسيمي.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1006/007_شرح لامية العرب ｜ الدرس 4 ( الأبيات -١٠-١١-١٢-) ｜ الشيخ محمد البردوني الحسيمي.txt",
+   "sha256": "e65620914ac41478169be327aa9700e144cfa88d16e74db791b50b278b7f9d53",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1006/3.txt",
+   "sha256": "e65620914ac41478169be327aa9700e144cfa88d16e74db791b50b278b7f9d53",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

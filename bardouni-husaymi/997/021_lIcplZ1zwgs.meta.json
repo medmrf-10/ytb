@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:lIcplZ1zwgs",
+ "vid": "lIcplZ1zwgs",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--997",
+ "n": 21,
+ "n_src": "read",
+ "title": "شرح الحكم ｜ دس21 ＂ ما من نفس تبديه إلا و له قدر فيك يمضيه ＂ ｜ الشيخ محمد البردون",
+ "title_src": "filename",
+ "sha256": "30f7e4dcfa9c3371ae6c11b28b317300b5ee6301cb43fe7e8940690043e8557d",
+ "nh": "1870b3eab5dd2fc90d1ae5f24c12617ff59cd5329e86dd69789b3e7006014bae",
+ "chars": 14476,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/997/021_شرح الحكم ｜ دس21 ＂ ما من نفس تبديه إلا و له قدر فيك يمضيه ＂ ｜ الشيخ محمد البردون.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/997/021_شرح الحكم ｜ دس21 ＂ ما من نفس تبديه إلا و له قدر فيك يمضيه ＂ ｜ الشيخ محمد البردون.txt",
+   "sha256": "30f7e4dcfa9c3371ae6c11b28b317300b5ee6301cb43fe7e8940690043e8557d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/hikam-azhar/20.txt",
+   "sha256": "30f7e4dcfa9c3371ae6c11b28b317300b5ee6301cb43fe7e8940690043e8557d",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/871/20.txt",
+   "sha256": "30f7e4dcfa9c3371ae6c11b28b317300b5ee6301cb43fe7e8940690043e8557d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "ali-gomaa--871",
+  "ali-gomaa--gomaa-hikam-azhar"
+ ]
+}

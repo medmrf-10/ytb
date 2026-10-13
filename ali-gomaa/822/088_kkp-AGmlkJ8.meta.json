@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:kkp-AGmlkJ8",
+ "vid": "kkp-AGmlkJ8",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 88,
+ "n_src": "plpos",
+ "title": "Friday Sermon | His Eminence Imam Ali Jumaa explains how Muslims translated the sciences of the a...",
+ "title_src": "yt_titles",
+ "sha256": "f7ceb75e8ee52aa3f18d82c87aaff31a499a722ce18f1448444f789fc9b4af5d",
+ "nh": "ad918249ac3cdb7e7c9e0af6021cd32dc592bd65d4037daa0f3c35fa878a3b34",
+ "chars": 8969,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/088_حديث الجمعة ｜ فضيلة الامام علي جمعة يوضح كيف قام المسلمون بـ ترجمة علوم الاولين .txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/088_حديث الجمعة ｜ فضيلة الامام علي جمعة يوضح كيف قام المسلمون بـ ترجمة علوم الاولين .txt",
+   "sha256": "f7ceb75e8ee52aa3f18d82c87aaff31a499a722ce18f1448444f789fc9b4af5d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/088_حديث الجمعة ｜ فضيلة الامام علي جمعة يوضح كيف قام المسلمون بـ ترجمة علوم الاولين .txt",
+   "sha256": "f7ceb75e8ee52aa3f18d82c87aaff31a499a722ce18f1448444f789fc9b4af5d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/088.txt",
+   "sha256": "f757b8cebb48ceb61b3c3cb39319385d75089c428dc5f21c6323a41b813688ae",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

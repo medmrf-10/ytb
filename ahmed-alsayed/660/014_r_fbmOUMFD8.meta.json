@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:r_fbmOUMFD8",
+ "vid": "r_fbmOUMFD8",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--660",
+ "n": 14,
+ "n_src": "mutfile",
+ "title": "الأمة بين احتلالين 13 ｜ مستنقع الصراعات السياسية بين حكام المسلمين ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "51f50a8e26cb5b8dfff67b18f0e36066fae2424df0e25d9f1bb4dfc3c0ac168a",
+ "nh": "7739d0ea38971f4141e49e4909b33744c133050bf17f0d547918b842d914d9b3",
+ "chars": 60100,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/660/014_الأمة بين احتلالين 13 ｜ مستنقع الصراعات السياسية بين حكام المسلمين ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/660/014_الأمة بين احتلالين 13 ｜ مستنقع الصراعات السياسية بين حكام المسلمين ｜ أحمد السيد.txt",
+   "sha256": "51f50a8e26cb5b8dfff67b18f0e36066fae2424df0e25d9f1bb4dfc3c0ac168a",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/elommaBaynI7tilayn-014/transcript.txt",
+   "sha256": "89d712a53aa7d48a67cfbed52c2c3d5585d3be324a15c7817216f8e9d1c21c2b",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-660/014.txt",
+   "sha256": "89d712a53aa7d48a67cfbed52c2c3d5585d3be324a15c7817216f8e9d1c21c2b",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

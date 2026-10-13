@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:p-Z3IlALPRM",
+ "vid": "p-Z3IlALPRM",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-falsafa-haditha",
+ "n": 7,
+ "n_src": "trfile",
+ "title": "الدرس 7",
+ "title_src": "filename",
+ "sha256": "798d9492431d35f7f3ba6d6b9b6823f33bce6c3ccd91f424ab78f07aedfa7db0",
+ "nh": "2decc18e646150f58db24b9ba210c453fbe6321599645fea600f3a1095db06ad",
+ "chars": 39092,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriFalsafaHaditha-007/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriFalsafaHaditha-007/transcript.txt",
+   "sha256": "798d9492431d35f7f3ba6d6b9b6823f33bce6c3ccd91f424ab78f07aedfa7db0",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/falsafa-haditha/falsafa-haditha-07_AlAmri.txt",
+   "sha256": "798d9492431d35f7f3ba6d6b9b6823f33bce6c3ccd91f424ab78f07aedfa7db0",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-falsafa-haditha/07.txt",
+   "sha256": "798d9492431d35f7f3ba6d6b9b6823f33bce6c3ccd91f424ab78f07aedfa7db0",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

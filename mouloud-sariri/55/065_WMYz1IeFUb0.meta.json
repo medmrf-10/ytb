@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:WMYz1IeFUb0",
+ "vid": "WMYz1IeFUb0",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 65,
+ "n_src": "read",
+ "title": "خطب منبرية： صياغة الذوق السليم و الذوق الفاسد ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "db120ad7db9dea9f6b1955ea8aad68fbbe4b53bd115cadbc02aa3121e15a3582",
+ "nh": "2208bdf9758c52af35082b01570d79920680100d8a4ec8fde90578788e1cbd58",
+ "chars": 11374,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/065_خطب منبرية： صياغة الذوق السليم و الذوق الفاسد ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/065_خطب منبرية： صياغة الذوق السليم و الذوق الفاسد ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "db120ad7db9dea9f6b1955ea8aad68fbbe4b53bd115cadbc02aa3121e15a3582",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/64.txt",
+   "sha256": "db120ad7db9dea9f6b1955ea8aad68fbbe4b53bd115cadbc02aa3121e15a3582",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

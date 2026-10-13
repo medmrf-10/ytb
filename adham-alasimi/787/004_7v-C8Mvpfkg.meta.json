@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:7v-C8Mvpfkg",
+ "vid": "7v-C8Mvpfkg",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--787",
+ "n": 4,
+ "n_src": "read",
+ "title": "(4) احرف الاستقبال ⧸ دورة النحو المستوى الثاني⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "b23a1d4675ec4de57d5f677c040478917517c11d8c03a46b39c08d2083e49b56",
+ "nh": "641f8b30cb400dcf355a7d5194d9eda5e075f620cf76bb64502198b4526c9d0c",
+ "chars": 27228,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/787/004_(4) احرف الاستقبال ⧸ دورة النحو المستوى الثاني⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/787/004_(4) احرف الاستقبال ⧸ دورة النحو المستوى الثاني⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "b23a1d4675ec4de57d5f677c040478917517c11d8c03a46b39c08d2083e49b56",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/787/3.txt",
+   "sha256": "b23a1d4675ec4de57d5f677c040478917517c11d8c03a46b39c08d2083e49b56",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

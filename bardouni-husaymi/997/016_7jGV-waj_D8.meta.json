@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:7jGV-waj_D8",
+ "vid": "7jGV-waj_D8",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--997",
+ "n": 16,
+ "n_src": "read",
+ "title": "شرح الحكم ｜ الدرس 16 ＂مما يدلك على وجود قهره سبحانه أن حجبك عنه بما ليس بموجود م",
+ "title_src": "filename",
+ "sha256": "63264f039aab41789cbfd13fd45230b4c4afdc062940996c85809222cbcc9949",
+ "nh": "0ca98a2bc419a2dc15d848e3abbcb310341d31c8e53c32e36dcda01490342d75",
+ "chars": 16015,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/997/016_شرح الحكم ｜ الدرس 16 ＂مما يدلك على وجود قهره سبحانه أن حجبك عنه بما ليس بموجود م.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/997/016_شرح الحكم ｜ الدرس 16 ＂مما يدلك على وجود قهره سبحانه أن حجبك عنه بما ليس بموجود م.txt",
+   "sha256": "63264f039aab41789cbfd13fd45230b4c4afdc062940996c85809222cbcc9949",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/hikam-azhar/15.txt",
+   "sha256": "63264f039aab41789cbfd13fd45230b4c4afdc062940996c85809222cbcc9949",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/871/15.txt",
+   "sha256": "63264f039aab41789cbfd13fd45230b4c4afdc062940996c85809222cbcc9949",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "ali-gomaa--871",
+  "ali-gomaa--gomaa-hikam-azhar"
+ ]
+}

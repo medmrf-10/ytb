@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:LwFaaL370ao",
+ "vid": "LwFaaL370ao",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--628",
+ "n": 5,
+ "n_src": "mutfile",
+ "title": "السيرة النبوية للمصلحين 05 ｜ الدعوة السرية ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "fccee8c1ae23b9c77e14c5e98d75204b243882278779d73eb1420422891a0dee",
+ "nh": "926666a5c77b5294fcba876380a300dd65a267b5319a0e91325fe005ca639874",
+ "chars": 26229,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/628/005_السيرة النبوية للمصلحين 05 ｜ الدعوة السرية ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/628/005_السيرة النبوية للمصلحين 05 ｜ الدعوة السرية ｜ أحمد السيد.txt",
+   "sha256": "fccee8c1ae23b9c77e14c5e98d75204b243882278779d73eb1420422891a0dee",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/elsiraLilmosli7in-005/transcript.txt",
+   "sha256": "922933088fa3531042888c38f2269bc4feea2b277759a9edf86ee1fab11a27ad",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-628/005.txt",
+   "sha256": "922933088fa3531042888c38f2269bc4feea2b277759a9edf86ee1fab11a27ad",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

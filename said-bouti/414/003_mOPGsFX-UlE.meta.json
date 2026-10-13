@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "yt:mOPGsFX-UlE",
+ "vid": "mOPGsFX-UlE",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--414",
+ "n": 3,
+ "n_src": "trfile",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 3",
+ "title_src": "filename",
+ "sha256": "40426ae61fc789fa77ba56535a9299e9a4ae5b6592dbd3d3ee77a0b8ae064f24",
+ "nh": "6a10c7653f2df4aa67e8a93ec8d76a8b4982b3d8ba2d400e3805b97563e36c4d",
+ "chars": 25654,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/003_تفسير القرآن الكريم للدكتور البوطي - الدرس 3.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/003_تفسير القرآن الكريم للدكتور البوطي - الدرس 3.txt",
+   "sha256": "40426ae61fc789fa77ba56535a9299e9a4ae5b6592dbd3d3ee77a0b8ae064f24",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/003.txt",
+   "sha256": "6562848cc29f064c8cc5cfc933a2cc6935b9734e98f0b6fd6674a48c6e198290",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/414/2.txt",
+   "sha256": "40426ae61fc789fa77ba56535a9299e9a4ae5b6592dbd3d3ee77a0b8ae064f24",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "said-bouti--bouti-414"
+ ]
+}

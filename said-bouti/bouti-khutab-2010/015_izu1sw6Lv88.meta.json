@@ -1,0 +1,51 @@
+{
+ "v": 1,
+ "lid": "yt:izu1sw6Lv88",
+ "vid": "izu1sw6Lv88",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-khutab-2010",
+ "n": 15,
+ "n_src": "trfile",
+ "title": "خطبة الإمام البوطي |  أيهما الضامن لحرية المعتقد الإسلام أم العلمانية ؟",
+ "title_src": "yt_titles",
+ "sha256": "ae7e3146f5cafcd201efa41a1cec40ddde05f10b1e4be5c2adbe499416fceee9",
+ "nh": "dbf87688ed3cbebe9515a89adfb452c6ff353d1f9bf8dfca3b8c70aadb83f5d8",
+ "chars": 11456,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/5o6ab-015/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/5o6ab-015/transcript.txt",
+   "sha256": "ae7e3146f5cafcd201efa41a1cec40ddde05f10b1e4be5c2adbe499416fceee9",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/khutab-2010/14.txt",
+   "sha256": "fbfefab5b7c478aa023939c38991b75791db67d0cc220dd10262c88d621eb555",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-khutab-2012/15.txt",
+   "sha256": "ae7e3146f5cafcd201efa41a1cec40ddde05f10b1e4be5c2adbe499416fceee9",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/344/14.txt",
+   "sha256": "fbfefab5b7c478aa023939c38991b75791db67d0cc220dd10262c88d621eb555",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "said-bouti--bouti-khutab-2012"
+ ]
+}

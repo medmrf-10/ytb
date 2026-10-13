@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:oITIn6P_gbQ",
+ "vid": "oITIn6P_gbQ",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 147,
+ "n_src": "plpos",
+ "title": "#حديث_الجمعة | تفسير لـ أية \" بسم الله الرحمن الرحيم \"",
+ "title_src": "yt_titles",
+ "sha256": "c3e1234d2c19332a5726305fa5659743b9afdbac164aa4002adb3e1bb599a8a6",
+ "nh": "e6d832c2976f189290cd612e579c50aaf89b6b597c2b07368c44d099ecfc8902",
+ "chars": 10434,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/gomaa/mut-822/147_#حديث_الجمعة ｜ تفسير لـ أية ＂ بسم الله الرحمن الرحيم ＂.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/147_#حديث_الجمعة ｜ تفسير لـ أية ＂ بسم الله الرحمن الرحيم ＂.txt",
+   "sha256": "c3e1234d2c19332a5726305fa5659743b9afdbac164aa4002adb3e1bb599a8a6",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/147.txt",
+   "sha256": "a984c7dfbe342be6e0c0ea51f152445037ed2161bdabc40deb13ab8c18e90acb",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

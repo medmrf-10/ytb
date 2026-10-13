@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:gyzIuLgvCnE",
+ "vid": "gyzIuLgvCnE",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 108,
+ "n_src": "plpos",
+ "title": "#حديث_الجمعة | مقاصد الشريعة وفوائد معرفتها",
+ "title_src": "yt_titles",
+ "sha256": "e20383c65f0134e3b7baceaa3af8de2ddbe98b6c67d8fc10ca1376dbcc1bc0c0",
+ "nh": "d73eba3e47e6bfd6f23519f8abc2cba783db502fabc6a4f5f6a32f7aff2f9ab4",
+ "chars": 8702,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/108_#حديث_الجمعة ｜ مقاصد الشريعة وفوائد معرفتها.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/108_#حديث_الجمعة ｜ مقاصد الشريعة وفوائد معرفتها.txt",
+   "sha256": "e20383c65f0134e3b7baceaa3af8de2ddbe98b6c67d8fc10ca1376dbcc1bc0c0",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/108_#حديث_الجمعة ｜ مقاصد الشريعة وفوائد معرفتها.txt",
+   "sha256": "e20383c65f0134e3b7baceaa3af8de2ddbe98b6c67d8fc10ca1376dbcc1bc0c0",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/108.txt",
+   "sha256": "cfb8973797084f2e73a901521e9b4e60ccd6d1908258a3afafa46cb3ca9c3e71",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

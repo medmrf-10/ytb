@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:tY_Y1w4aaio",
+ "vid": "tY_Y1w4aaio",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 77,
+ "n_src": "mutfile",
+ "title": "والله أعلم | فضيلة د. علي جمعة يوضح كيفية تعايش الإسلام مع الأديان | حلقة كاملة",
+ "title_src": "yt_titles",
+ "sha256": "a89ec303cfb2fe36a8d1ed6e626506668d37a1af412a4316dfc28f60b10bbb85",
+ "nh": "2301e580fc2749e5d6031dd159280be78cad2ebb5648170de78b4e8150473ea2",
+ "chars": 26549,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/077_والله أعلم ｜ فضيلة د. علي جمعة يوضح كيفية تعايش الإسلام مع الأديان ｜ حلقة كاملة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/077_والله أعلم ｜ فضيلة د. علي جمعة يوضح كيفية تعايش الإسلام مع الأديان ｜ حلقة كاملة.txt",
+   "sha256": "a89ec303cfb2fe36a8d1ed6e626506668d37a1af412a4316dfc28f60b10bbb85",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/077_والله أعلم ｜ فضيلة د. علي جمعة يوضح كيفية تعايش الإسلام مع الأديان ｜ حلقة كاملة.txt",
+   "sha256": "abc127e148f390682c3e832ec616b4250808065cb38ba87ae4557c214ebaf079",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/077.txt",
+   "sha256": "a89ec303cfb2fe36a8d1ed6e626506668d37a1af412a4316dfc28f60b10bbb85",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

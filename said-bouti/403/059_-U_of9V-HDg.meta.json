@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:-U_of9V-HDg",
+ "vid": "-U_of9V-HDg",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--403",
+ "n": 59,
+ "n_src": "plpos",
+ "title": "57- فقه السيرة النبوية |  تتابع وفود العرب ودخولهم في دين الله",
+ "title_src": "yt_titles",
+ "sha256": "cb7e6b3e8eece5e7847c8f74c58a3f9037e6f4f4e80b0aa7db96f4964250ccef",
+ "nh": "07f36565139259bd0e3036e3a8d65c3a69e2f48b5575ff839413130dda9ef322",
+ "chars": 21312,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/403/059_57- فقه السيرة النبوية ｜  تتابع وفود العرب ودخولهم في دين الله.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/403/059_57- فقه السيرة النبوية ｜  تتابع وفود العرب ودخولهم في دين الله.txt",
+   "sha256": "cb7e6b3e8eece5e7847c8f74c58a3f9037e6f4f4e80b0aa7db96f4964250ccef",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fi9hElsirah-059/transcript.txt",
+   "sha256": "04fdfc7d736b33601301c1b1ad4110325782d45344c21254a74eb8f109983d50",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-sira/59.txt",
+   "sha256": "04fdfc7d736b33601301c1b1ad4110325782d45344c21254a74eb8f109983d50",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/403/58.txt",
+   "sha256": "cb7e6b3e8eece5e7847c8f74c58a3f9037e6f4f4e80b0aa7db96f4964250ccef",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

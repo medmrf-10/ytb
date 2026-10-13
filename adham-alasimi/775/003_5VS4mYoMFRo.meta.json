@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:5VS4mYoMFRo",
+ "vid": "5VS4mYoMFRo",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--775",
+ "n": 3,
+ "n_src": "read",
+ "title": "(03) تتمة المتواتر + المشهور ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم العاس",
+ "title_src": "filename",
+ "sha256": "67663c43ee7786c01d5e5614b0e00539bfea71e2f1386bf3afad3b57c3869b44",
+ "nh": "1ae4f64576fd109fa3899b9261b02a1b4756e40b3fd2bf483dffa9e1d59f0f0c",
+ "chars": 23267,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/775/003_(03) تتمة المتواتر + المشهور ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم العاس.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/775/003_(03) تتمة المتواتر + المشهور ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم العاس.txt",
+   "sha256": "67663c43ee7786c01d5e5614b0e00539bfea71e2f1386bf3afad3b57c3869b44",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/775/2.txt",
+   "sha256": "67663c43ee7786c01d5e5614b0e00539bfea71e2f1386bf3afad3b57c3869b44",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

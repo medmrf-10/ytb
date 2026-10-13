@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:I1vm3FMZSOI",
+ "vid": "I1vm3FMZSOI",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--656",
+ "n": 20,
+ "n_src": "mutfile",
+ "title": "رياض الصالحين 20 ｜ باب الاستقامة ｜ أنوار السنة المحمدية ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "e3152d5525630064118dbfc102c1adcc076b88f27b5efca7762862ec8eab04e1",
+ "nh": "d38d19c61821cb2a276bab838cec4cee817893995fe45d002cbd150a20c0f8cc",
+ "chars": 26376,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/656/020_رياض الصالحين 20 ｜ باب الاستقامة ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/656/020_رياض الصالحين 20 ｜ باب الاستقامة ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+   "sha256": "e3152d5525630064118dbfc102c1adcc076b88f27b5efca7762862ec8eab04e1",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/riyadElsali7in-020/transcript.txt",
+   "sha256": "4c2004dae705bb2dacf3d99b2d61808941eb3dff156225407ed9677d6110163f",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-656/020.txt",
+   "sha256": "4c2004dae705bb2dacf3d99b2d61808941eb3dff156225407ed9677d6110163f",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

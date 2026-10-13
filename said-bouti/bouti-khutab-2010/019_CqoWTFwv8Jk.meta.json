@@ -1,0 +1,51 @@
+{
+ "v": 1,
+ "lid": "yt:CqoWTFwv8Jk",
+ "vid": "CqoWTFwv8Jk",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-khutab-2010",
+ "n": 19,
+ "n_src": "trfile",
+ "title": "خطبة الإمام البوطي | في كل محنة منحة",
+ "title_src": "yt_titles",
+ "sha256": "f249272daffe11a7dd1a64e7adc5972120ca6a3ac98784d35476b273d4e30e69",
+ "nh": "0ef8a256fea18591ef5e1e825a16c106b67fa94c994e2f443dd0f3be6448d6e9",
+ "chars": 13296,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/5o6ab-019/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/5o6ab-019/transcript.txt",
+   "sha256": "f249272daffe11a7dd1a64e7adc5972120ca6a3ac98784d35476b273d4e30e69",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/khutab-2010/18.txt",
+   "sha256": "eb70d98580405c4ad7d56af11b0a783d15e55433716c5f8a8d029941b7fdcb4b",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-khutab-2012/19.txt",
+   "sha256": "f249272daffe11a7dd1a64e7adc5972120ca6a3ac98784d35476b273d4e30e69",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/344/18.txt",
+   "sha256": "eb70d98580405c4ad7d56af11b0a783d15e55433716c5f8a8d029941b7fdcb4b",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "said-bouti--bouti-khutab-2012"
+ ]
+}

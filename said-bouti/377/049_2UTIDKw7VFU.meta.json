@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:2UTIDKw7VFU",
+ "vid": "2UTIDKw7VFU",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--377",
+ "n": 49,
+ "n_src": "plpos",
+ "title": "43- كبرى اليقينيات الكونية | الردة وأسبابها | الجنة والنار",
+ "title_src": "yt_titles",
+ "sha256": "01b21dd05933b207244d4f483c175eedf62fc0282f3ccfba5e5687a0a998f244",
+ "nh": "e29ca67356748fca11cc63989e6787c9ac0516987d6e6bc5cacb0eb6ede6b146",
+ "chars": 21959,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/377/049_43- كبرى اليقينيات الكونية ｜ الردة وأسبابها ｜ الجنة والنار.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/377/049_43- كبرى اليقينيات الكونية ｜ الردة وأسبابها ｜ الجنة والنار.txt",
+   "sha256": "01b21dd05933b207244d4f483c175eedf62fc0282f3ccfba5e5687a0a998f244",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/kobraElya9inyat-049/transcript.txt",
+   "sha256": "2bc5319892d036d158b2964a930da9ea9884de3ccbaa3808a1797e9a8b6f454b",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/49.txt",
+   "sha256": "2bc5319892d036d158b2964a930da9ea9884de3ccbaa3808a1797e9a8b6f454b",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/377/48.txt",
+   "sha256": "01b21dd05933b207244d4f483c175eedf62fc0282f3ccfba5e5687a0a998f244",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

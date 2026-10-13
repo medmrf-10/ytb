@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:Gk_IMJkq1wo",
+ "vid": "Gk_IMJkq1wo",
+ "sheikh": "ahmed-abdelmonem",
+ "row_id": "ahmed-abdelmonem--abdelmonem-juz30",
+ "n": 17,
+ "n_src": "trfile",
+ "title": "تفسير سورة الفجر | د. أحمد عبد المنعم",
+ "title_src": "yt_titles",
+ "sha256": "95620b2bf33467b3377166bd150c6eb7fe99d27450f9214361f2a9f5429afb32",
+ "nh": "07a6c450a86445823788c08f6f27651b756fc804660059284b12ebc2578b66b1",
+ "chars": 43705,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/abdelmonemJuz30-017/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/abdelmonemJuz30-017/transcript.txt",
+   "sha256": "95620b2bf33467b3377166bd150c6eb7fe99d27450f9214361f2a9f5429afb32",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/abdelmonem/juz30/089-Fajr_AbdelMonem.txt",
+   "sha256": "95620b2bf33467b3377166bd150c6eb7fe99d27450f9214361f2a9f5429afb32",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/abdelmonem-juz30/17.txt",
+   "sha256": "95620b2bf33467b3377166bd150c6eb7fe99d27450f9214361f2a9f5429afb32",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

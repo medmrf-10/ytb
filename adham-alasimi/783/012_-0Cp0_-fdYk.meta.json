@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:-0Cp0_-fdYk",
+ "vid": "-0Cp0_-fdYk",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--783",
+ "n": 12,
+ "n_src": "read",
+ "title": "(12) الدرس الثاني عشر ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "32aa7aad0b1155e9bc00842963018dd560fc036edda39ba26b9b001359111c55",
+ "nh": "8d8d1e0174a82843f6bdbd5706162ba215ec771f668a55795e44e7ffe6733fd7",
+ "chars": 14661,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/783/012_(12) الدرس الثاني عشر ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/783/012_(12) الدرس الثاني عشر ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "32aa7aad0b1155e9bc00842963018dd560fc036edda39ba26b9b001359111c55",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/783/11.txt",
+   "sha256": "32aa7aad0b1155e9bc00842963018dd560fc036edda39ba26b9b001359111c55",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

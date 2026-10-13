@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:6EC-01npmeE",
+ "vid": "6EC-01npmeE",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--765",
+ "n": 17,
+ "n_src": "read",
+ "title": "(17) تنبيهات + أحوال المسند إليه ⧸ جواهر البلاغة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "b02c0f38a9ed79c421e9dea45f9451e43567465a5f8af5c452a42385f888769a",
+ "nh": "6e8de6ea900dd325b4b64ae55ac49c15ead31627107cbdfd57f6cdfcc2063838",
+ "chars": 15513,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/765/017_(17) تنبيهات + أحوال المسند إليه ⧸ جواهر البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/765/017_(17) تنبيهات + أحوال المسند إليه ⧸ جواهر البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "b02c0f38a9ed79c421e9dea45f9451e43567465a5f8af5c452a42385f888769a",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/765/16.txt",
+   "sha256": "b02c0f38a9ed79c421e9dea45f9451e43567465a5f8af5c452a42385f888769a",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

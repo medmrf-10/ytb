@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "yt:BjdQmTf4yDA",
+ "vid": "BjdQmTf4yDA",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--bardouni-mut-985",
+ "n": 7,
+ "n_src": "read",
+ "title": "شرح المنهج المنتخب ｜ دس76 ( ق121 مضمن الإقرار هل هو كصريحه ) ｜ الشيخ محمدالبردو",
+ "title_src": "filename",
+ "sha256": "03852c676db590dbcf3fa730d37af3575b91ff1615b8a1b0a0ba83e28e91d5b3",
+ "nh": "8217cb164abdd20756e44f07caf4c37856ca169434e59f7ec312e233accd3c8c",
+ "chars": 15210,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/985/007_شرح المنهج  المنتخب ｜ دس76 ( ق121 مضمن الإقرار هل هو كصريحه ) ｜ الشيخ محمدالبردو.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/985/007_شرح المنهج  المنتخب ｜ دس76 ( ق121 مضمن الإقرار هل هو كصريحه ) ｜ الشيخ محمدالبردو.txt",
+   "sha256": "03852c676db590dbcf3fa730d37af3575b91ff1615b8a1b0a0ba83e28e91d5b3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bardouni/mut-985/007_شرح المنهج  المنتخب ｜ دس76 ( ق121 مضمن الإقرار هل هو كصريحه ) ｜ الشيخ محمدالبردو.txt",
+   "sha256": "03852c676db590dbcf3fa730d37af3575b91ff1615b8a1b0a0ba83e28e91d5b3",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/37/152.txt",
+   "sha256": "03852c676db590dbcf3fa730d37af3575b91ff1615b8a1b0a0ba83e28e91d5b3",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "mouloud-sariri--37"
+ ]
+}

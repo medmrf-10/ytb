@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:qsM2AT_VQfY",
+ "vid": "qsM2AT_VQfY",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--113",
+ "n": 30,
+ "n_src": "read",
+ "title": "الحبيب علي الجفري - سبيل الادكار (1-30)",
+ "title_src": "filename",
+ "sha256": "208b0864932689aaecca89e6a8a369773a28388718fa3e8a29c7959c48294233",
+ "nh": "a2d36f2322508e34ad3d259ff0ce8753b1df18f589c5177d3226a55e63a26ecb",
+ "chars": 6303,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/113/030_الحبيب علي الجفري - سبيل الادكار (1-30).txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/113/030_الحبيب علي الجفري - سبيل الادكار (1-30).txt",
+   "sha256": "208b0864932689aaecca89e6a8a369773a28388718fa3e8a29c7959c48294233",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/113/0.txt",
+   "sha256": "208b0864932689aaecca89e6a8a369773a28388718fa3e8a29c7959c48294233",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

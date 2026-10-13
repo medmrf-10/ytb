@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:wa6_rZynox0",
+ "vid": "wa6_rZynox0",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1006",
+ "n": 4,
+ "n_src": "read",
+ "title": "شرح لامية العرب ｜ الدرس 7 ( الأبيات -٢٠-٢١-٢٢) ｜ الشيخ محمد البردوني الحسيمي",
+ "title_src": "filename",
+ "sha256": "4bc6db7b9707765a5c4fc806cb7b64e4ec7c13c50fd9d0b24520640e9e778e5d",
+ "nh": "dd9ac06010117d8d7986af76b7f78e8a8a7b8ed5942996819d4d22550ff82507",
+ "chars": 6276,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1006/004_شرح لامية العرب ｜ الدرس 7 ( الأبيات -٢٠-٢١-٢٢) ｜ الشيخ محمد البردوني الحسيمي.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1006/004_شرح لامية العرب ｜ الدرس 7 ( الأبيات -٢٠-٢١-٢٢) ｜ الشيخ محمد البردوني الحسيمي.txt",
+   "sha256": "4bc6db7b9707765a5c4fc806cb7b64e4ec7c13c50fd9d0b24520640e9e778e5d",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1006/6.txt",
+   "sha256": "4bc6db7b9707765a5c4fc806cb7b64e4ec7c13c50fd9d0b24520640e9e778e5d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

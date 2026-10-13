@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:_JE6vfHScW4",
+ "vid": "_JE6vfHScW4",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-juz30",
+ "n": 7,
+ "n_src": "trfile",
+ "title": "فيديو # ٦٢٢ من مقاطع حظر التجول   تدبر سورة عبس # ٢  الآيات ١١-٤٢",
+ "title_src": "yt_titles",
+ "sha256": "cfc2f398a9dc81183d3873abaa91f5c83d2b8484e5dbac62edd978bb3beee99a",
+ "nh": "79e92acb42c0b69ed54d0ac84deaeccbec37e7560a990bc9cbddc41dfceab5de",
+ "chars": 17883,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelJuz30-007/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelJuz30-007/transcript.txt",
+   "sha256": "cfc2f398a9dc81183d3873abaa91f5c83d2b8484e5dbac62edd978bb3beee99a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-juz30/007.txt",
+   "sha256": "cfc2f398a9dc81183d3873abaa91f5c83d2b8484e5dbac62edd978bb3beee99a",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

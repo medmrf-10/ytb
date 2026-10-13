@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:gqbA2lUwXzg",
+ "vid": "gqbA2lUwXzg",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 89,
+ "n_src": "plpos",
+ "title": "حديث الجمعة | فضيلة الامام علي جمعة يشرح المعنى الحقيقي لـ \"التصوف السلفي\"",
+ "title_src": "yt_titles",
+ "sha256": "6a1f506407825986ac952e4c7b5b550fbfdd14b8aac5dc5c73db6b2634367ca9",
+ "nh": "0b64d6e64a330c2604efe9573e2ba0e41776a7c336290fd5ede58208d6a2b317",
+ "chars": 7635,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/089_حديث الجمعة ｜ فضيلة الامام علي جمعة يشرح المعنى الحقيقي لـ ＂التصوف السلفي＂.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/089_حديث الجمعة ｜ فضيلة الامام علي جمعة يشرح المعنى الحقيقي لـ ＂التصوف السلفي＂.txt",
+   "sha256": "6a1f506407825986ac952e4c7b5b550fbfdd14b8aac5dc5c73db6b2634367ca9",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/089_حديث الجمعة ｜ فضيلة الامام علي جمعة يشرح المعنى الحقيقي لـ ＂التصوف السلفي＂.txt",
+   "sha256": "6a1f506407825986ac952e4c7b5b550fbfdd14b8aac5dc5c73db6b2634367ca9",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/089.txt",
+   "sha256": "bac1a5a57f99ad776422c714b7714bfbda5c79ea49941226d5809ba0a2457f89",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

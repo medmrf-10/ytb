@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:34",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 34,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 92 ( باب في الضحايا ) ｜ الشيخ محمد البردوني",
+ "title_src": "filename",
+ "sha256": "5533caa8cae0b9f66324398b4bf0f30c8f3a38fcf7a305c3aa9507ebd43e9d91",
+ "nh": "b2c7e411dd54ee0790463500611163a4a9ec29daaff1ca87911bb29db3b05c02",
+ "chars": 15394,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/034_شرح رسالة ابن ابي زيد ｜ الدرس 92 ( باب في الضحايا  ) ｜ الشيخ محمد البردوني.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/034_شرح رسالة ابن ابي زيد ｜ الدرس 92 ( باب في الضحايا  ) ｜ الشيخ محمد البردوني.txt",
+   "sha256": "5533caa8cae0b9f66324398b4bf0f30c8f3a38fcf7a305c3aa9507ebd43e9d91",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/92.txt",
+   "sha256": "5533caa8cae0b9f66324398b4bf0f30c8f3a38fcf7a305c3aa9507ebd43e9d91",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

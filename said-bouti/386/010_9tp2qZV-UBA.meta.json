@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:9tp2qZV-UBA",
+ "vid": "9tp2qZV-UBA",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 10,
+ "n_src": "read",
+ "title": "الحكم العطائية للإمام البوطي ｜ الدرس 10 - الحكمة 5",
+ "title_src": "filename",
+ "sha256": "d139a264586c842f0dea50a81bcee5fd8668bae2aee2fade1bd92eec9a45259a",
+ "nh": "a2cd9dceb257a89e4f214a0bb724b3da1c5a8f6dba2a09e1cded5a312f02d780",
+ "chars": 14526,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/010_الحكم العطائية للإمام البوطي ｜ الدرس 10  - الحكمة 5.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/010_الحكم العطائية للإمام البوطي ｜ الدرس 10  - الحكمة 5.txt",
+   "sha256": "d139a264586c842f0dea50a81bcee5fd8668bae2aee2fade1bd92eec9a45259a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/hikam/010_الحكم العطائية للإمام البوطي ｜ الدرس 10  - الحكمة 5.txt",
+   "sha256": "d139a264586c842f0dea50a81bcee5fd8668bae2aee2fade1bd92eec9a45259a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/010_الحكم العطائية للإمام البوطي ｜ الدرس 10  - الحكمة 5.txt",
+   "sha256": "d139a264586c842f0dea50a81bcee5fd8668bae2aee2fade1bd92eec9a45259a",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

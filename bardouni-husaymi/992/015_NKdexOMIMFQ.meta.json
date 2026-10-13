@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:NKdexOMIMFQ",
+ "vid": "NKdexOMIMFQ",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--992",
+ "n": 15,
+ "n_src": "read",
+ "title": "شرح الرسالة العضدية ｜ الدرس 15 (قوله ＂ و الأول إما ذات او حدث＂ ) ｜ الشيخ محمد ال",
+ "title_src": "filename",
+ "sha256": "30d8d8d073c022d8955d18b226b4ed488aad4804bbc7198a73271afe81b03f34",
+ "nh": "40a40cb0a665cd83dcbb2bdb0f770acd368f7223f66fc3b5df2c09e119a65f45",
+ "chars": 9543,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/992/015_شرح الرسالة العضدية ｜ الدرس 15 (قوله ＂ و الأول إما ذات او حدث＂ ) ｜ الشيخ محمد ال.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/992/015_شرح الرسالة العضدية ｜ الدرس 15 (قوله ＂ و الأول إما ذات او حدث＂ ) ｜ الشيخ محمد ال.txt",
+   "sha256": "30d8d8d073c022d8955d18b226b4ed488aad4804bbc7198a73271afe81b03f34",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/sariri/risala-adudiyya/28.txt",
+   "sha256": "30d8d8d073c022d8955d18b226b4ed488aad4804bbc7198a73271afe81b03f34",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/36/28.txt",
+   "sha256": "30d8d8d073c022d8955d18b226b4ed488aad4804bbc7198a73271afe81b03f34",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "mouloud-sariri--36",
+  "mouloud-sariri--sariri-risala-adudiyya"
+ ]
+}

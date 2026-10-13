@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:qeyWgxgUOP0",
+ "vid": "qeyWgxgUOP0",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--628",
+ "n": 8,
+ "n_src": "mutfile",
+ "title": "السيرة النبوية للمصلحين 08 ｜ أذى المشركين وآيات التثبيت ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "276854ed70e532bc27891f52d93af2f43abd54bd04c83d81902410024afc5a43",
+ "nh": "c6bff5f5a5228f05e392cb4a71a3347e084e4c1d6e73d5c58ce1bd69bdd893d9",
+ "chars": 25368,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/628/008_السيرة النبوية للمصلحين 08 ｜ أذى المشركين وآيات التثبيت ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/628/008_السيرة النبوية للمصلحين 08 ｜ أذى المشركين وآيات التثبيت ｜ أحمد السيد.txt",
+   "sha256": "276854ed70e532bc27891f52d93af2f43abd54bd04c83d81902410024afc5a43",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/elsiraLilmosli7in-008/transcript.txt",
+   "sha256": "7cf2c90b778bd96849d79d0d83e849210c31fa5b6cef52170a8bdd8e74054b66",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-628/008.txt",
+   "sha256": "7cf2c90b778bd96849d79d0d83e849210c31fa5b6cef52170a8bdd8e74054b66",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:ty4_7x0UZtE",
+ "vid": "ty4_7x0UZtE",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 185,
+ "n_src": "read",
+ "title": "الحكم العطائية للإمام البوطي الدرس 76 - الحكمة 53",
+ "title_src": "filename",
+ "sha256": "894c764243f267a3b8d2fd35d60add00f4d9806efa67db303ed27d23f54676d0",
+ "nh": "d82a72a810d468115969f67e10461214c3b9c197ac0c2ea84349a0d20dbf1579",
+ "chars": 23352,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/185_الحكم العطائية للإمام البوطي  الدرس 76  - الحكمة 53.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/185_الحكم العطائية للإمام البوطي  الدرس 76  - الحكمة 53.txt",
+   "sha256": "894c764243f267a3b8d2fd35d60add00f4d9806efa67db303ed27d23f54676d0",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/185_الحكم العطائية للإمام البوطي  الدرس 76  - الحكمة 53.txt",
+   "sha256": "894c764243f267a3b8d2fd35d60add00f4d9806efa67db303ed27d23f54676d0",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

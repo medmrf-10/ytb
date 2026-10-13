@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:4aCputBO9gQ",
+ "vid": "4aCputBO9gQ",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-khutab-2012",
+ "n": 33,
+ "n_src": "trfile",
+ "title": "خطبة الإمام البوطي | مفتاح الحل الرجوع إلى الله",
+ "title_src": "yt_titles",
+ "sha256": "667948ec2d4f0cadba57f24ad1887ad18a79526d80f28f25325c94ab04150b2c",
+ "nh": "e2e3237ed3f7d6b8ee24e87a67dfa5db50bed994734ea3e3bbc6b7ba5639b48a",
+ "chars": 11881,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/5o6ab-033/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/5o6ab-033/transcript.txt",
+   "sha256": "667948ec2d4f0cadba57f24ad1887ad18a79526d80f28f25325c94ab04150b2c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-khutab-2012/33.txt",
+   "sha256": "667948ec2d4f0cadba57f24ad1887ad18a79526d80f28f25325c94ab04150b2c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

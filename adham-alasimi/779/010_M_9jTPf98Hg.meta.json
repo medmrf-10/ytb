@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:M_9jTPf98Hg",
+ "vid": "M_9jTPf98Hg",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--779",
+ "n": 10,
+ "n_src": "read",
+ "title": "(10) القصر ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "21c1ebec5a95cec8854b09b1a7a13d9d8a0363724538baccea77b969da4126f6",
+ "nh": "69ccecac2a7541b9663b1e613e690988455b433138fbc512a196c9e1f0deedfa",
+ "chars": 19856,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/779/010_(10) القصر ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/779/010_(10) القصر ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "21c1ebec5a95cec8854b09b1a7a13d9d8a0363724538baccea77b969da4126f6",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/779/9.txt",
+   "sha256": "21c1ebec5a95cec8854b09b1a7a13d9d8a0363724538baccea77b969da4126f6",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

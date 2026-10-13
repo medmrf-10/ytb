@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:20",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 20,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 105 ( باب في الأيمان و النذور ) ｜ الشيخ محمد البر",
+ "title_src": "filename",
+ "sha256": "53343b3cbcc289a3e37a67140b195861cd7a9936ee0fd715201d6a1a3aee92a1",
+ "nh": "1b5cd5dcfd1cedaacc7fd41cfe571a1225f2ece9950bd17fede10beb99fe1a79",
+ "chars": 12187,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/020_شرح رسالة ابن ابي زيد ｜ الدرس 105 ( باب في الأيمان و النذور  ) ｜ الشيخ محمد البر.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/020_شرح رسالة ابن ابي زيد ｜ الدرس 105 ( باب في الأيمان و النذور  ) ｜ الشيخ محمد البر.txt",
+   "sha256": "53343b3cbcc289a3e37a67140b195861cd7a9936ee0fd715201d6a1a3aee92a1",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/106.txt",
+   "sha256": "53343b3cbcc289a3e37a67140b195861cd7a9936ee0fd715201d6a1a3aee92a1",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

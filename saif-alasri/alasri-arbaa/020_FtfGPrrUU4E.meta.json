@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:FtfGPrrUU4E",
+ "vid": "FtfGPrrUU4E",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 20,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / مقتطفات من الشمائل المحمدية للإمام الترمذي / د. سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "93e6849018f5dd89ffa8754d71548b4b334b948d5d8bae64c892a3ad9fc755ad",
+ "nh": "181d190fbb8ad484c2210d64867e51c2ba54076fa59ca7355584d723aca65fe7",
+ "chars": 21706,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-020/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-020/transcript.txt",
+   "sha256": "93e6849018f5dd89ffa8754d71548b4b334b948d5d8bae64c892a3ad9fc755ad",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/020_FtfGPrrUU4E.txt",
+   "sha256": "93e6849018f5dd89ffa8754d71548b4b334b948d5d8bae64c892a3ad9fc755ad",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/020.txt",
+   "sha256": "93e6849018f5dd89ffa8754d71548b4b334b948d5d8bae64c892a3ad9fc755ad",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

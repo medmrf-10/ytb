@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:o9BClGpsxe0",
+ "vid": "o9BClGpsxe0",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 100,
+ "n_src": "plpos",
+ "title": "#والله_أعلم | الحلقة الكاملة 14 نوفمبر 2015 | حقيقة الوعد الإلهي",
+ "title_src": "yt_titles",
+ "sha256": "69e305e144de1a94711f792376e55eb7a55504268f5defc8ad9caa899e756da8",
+ "nh": "d668e66d6935669b2dc36b962224ae0211273dc1b50c8afbeccc36cba92f18f1",
+ "chars": 21478,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/100_#والله_أعلم ｜ الحلقة الكاملة 14 نوفمبر 2015 ｜ حقيقة الوعد الإلهي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/100_#والله_أعلم ｜ الحلقة الكاملة 14 نوفمبر 2015 ｜ حقيقة الوعد الإلهي.txt",
+   "sha256": "69e305e144de1a94711f792376e55eb7a55504268f5defc8ad9caa899e756da8",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/100_#والله_أعلم ｜ الحلقة الكاملة 14 نوفمبر 2015 ｜ حقيقة الوعد الإلهي.txt",
+   "sha256": "69e305e144de1a94711f792376e55eb7a55504268f5defc8ad9caa899e756da8",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/100.txt",
+   "sha256": "655b3ddee252c6d9b36eeda9412a475e64441ad189225807b00fcbe777290ccc",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

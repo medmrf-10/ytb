@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:KMfb4gRFW-Q",
+ "vid": "KMfb4gRFW-Q",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1006",
+ "n": 8,
+ "n_src": "read",
+ "title": "شرح لامية العرب ｜ الدرس 3 ( الأبيات -٤-٥-٦-) ｜ الشيخ محمد البردوني الحسيمي",
+ "title_src": "filename",
+ "sha256": "16e802b16b6ca5056f43b759ddf8bc44d26d660507485219b5ffe23b8d7f0d90",
+ "nh": "4d561d34d8eb47000106b237b098e3618e12c10321815cc555472c79ae350f29",
+ "chars": 1638,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1006/008_شرح لامية العرب ｜ الدرس 3 ( الأبيات -٤-٥-٦-) ｜ الشيخ محمد البردوني الحسيمي.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1006/008_شرح لامية العرب ｜ الدرس 3 ( الأبيات -٤-٥-٦-) ｜ الشيخ محمد البردوني الحسيمي.txt",
+   "sha256": "16e802b16b6ca5056f43b759ddf8bc44d26d660507485219b5ffe23b8d7f0d90",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1006/2.txt",
+   "sha256": "16e802b16b6ca5056f43b759ddf8bc44d26d660507485219b5ffe23b8d7f0d90",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

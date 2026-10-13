@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:GaO1UcflFe4",
+ "vid": "GaO1UcflFe4",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 10,
+ "n_src": "read",
+ "title": "خطب منبرية ： أمراض القلوب ( الجزء الأول ) ⧸ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "b6ecb13b2ae4002acee430871d7cd4427dbb0303cb40161c366ae771601c1641",
+ "nh": "a1633ff938a775d7213f8f721bd378d8659c243203c10e66e2b5e6f2c65c3f09",
+ "chars": 10045,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/010_خطب منبرية ： أمراض القلوب ( الجزء الأول ) ⧸ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/010_خطب منبرية ： أمراض القلوب ( الجزء الأول ) ⧸ الشيخ العلامة مولود السريري.txt",
+   "sha256": "b6ecb13b2ae4002acee430871d7cd4427dbb0303cb40161c366ae771601c1641",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/9.txt",
+   "sha256": "b6ecb13b2ae4002acee430871d7cd4427dbb0303cb40161c366ae771601c1641",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

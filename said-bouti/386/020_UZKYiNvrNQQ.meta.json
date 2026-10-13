@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:UZKYiNvrNQQ",
+ "vid": "UZKYiNvrNQQ",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 20,
+ "n_src": "read",
+ "title": "الحكم العطائية للإمام البوطي ｜ الدرس 20 - الحكمة 11",
+ "title_src": "filename",
+ "sha256": "6452c2518b2920f5c618a85eff14c9176dc5b597426eebae1242594bf720bb1f",
+ "nh": "0f9017326ca8714fc677b655a53f31da5c18ec1f7e69880c3d8d81ff5b62cbed",
+ "chars": 18753,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/020_الحكم العطائية للإمام البوطي ｜ الدرس 20  - الحكمة 11.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/020_الحكم العطائية للإمام البوطي ｜ الدرس 20  - الحكمة 11.txt",
+   "sha256": "6452c2518b2920f5c618a85eff14c9176dc5b597426eebae1242594bf720bb1f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/hikam/020_الحكم العطائية للإمام البوطي ｜ الدرس 20  - الحكمة 11.txt",
+   "sha256": "6452c2518b2920f5c618a85eff14c9176dc5b597426eebae1242594bf720bb1f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/020_الحكم العطائية للإمام البوطي ｜ الدرس 20  - الحكمة 11.txt",
+   "sha256": "6452c2518b2920f5c618a85eff14c9176dc5b597426eebae1242594bf720bb1f",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/386/18.txt",
+   "sha256": "6452c2518b2920f5c618a85eff14c9176dc5b597426eebae1242594bf720bb1f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

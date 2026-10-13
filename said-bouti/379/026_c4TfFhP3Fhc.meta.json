@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:c4TfFhP3Fhc",
+ "vid": "c4TfFhP3Fhc",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--379",
+ "n": 26,
+ "n_src": "plpos",
+ "title": "26- تاريخ التشريع الإسلامي | الجانب العلمي من شخص الإمام أحمد بن حنبل (4)",
+ "title_src": "yt_titles",
+ "sha256": "7668a922242c5a0db54c35873a0f0a02ffbea99cdf5b4e9403cecadde94f9e55",
+ "nh": "0a13df0caff6d64733ed1430df7e3f5b14e70a6a629bceea14c6d0f7fe76451d",
+ "chars": 19547,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/379/026_26- تاريخ التشريع الإسلامي ｜ الجانب العلمي من شخص الإمام أحمد بن حنبل (4).txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/379/026_26- تاريخ التشريع الإسلامي ｜ الجانب العلمي من شخص الإمام أحمد بن حنبل (4).txt",
+   "sha256": "7668a922242c5a0db54c35873a0f0a02ffbea99cdf5b4e9403cecadde94f9e55",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/tari5Eltachri3-026/transcript.txt",
+   "sha256": "ca0a373c4e8d6d294f579d897b537211a718fdc82c0cb8135e47be3fa1b3fabb",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-tarikh/26.txt",
+   "sha256": "ca0a373c4e8d6d294f579d897b537211a718fdc82c0cb8135e47be3fa1b3fabb",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/379/3.txt",
+   "sha256": "7668a922242c5a0db54c35873a0f0a02ffbea99cdf5b4e9403cecadde94f9e55",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

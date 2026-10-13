@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:JXHtEMYL7qI",
+ "vid": "JXHtEMYL7qI",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--651",
+ "n": 13,
+ "n_src": "mutfile",
+ "title": "أم سليم ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "6112e48040eaa26090d616242a50452264244aed37fb51b172b843168a617e3c",
+ "nh": "a9e06e0dc9d2109f8a0a4f853f703209847c73f936159bebcd47769e8a4f8e55",
+ "chars": 22192,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/651/013_أم سليم ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/651/013_أم سليم ｜ أحمد السيد.txt",
+   "sha256": "6112e48040eaa26090d616242a50452264244aed37fb51b172b843168a617e3c",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/siyarWa3ibar-013/transcript.txt",
+   "sha256": "5936d80cb5c39191ad56ec605a67775adddb360f95c7ca2f50a44df72070f45f",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-651/013.txt",
+   "sha256": "5936d80cb5c39191ad56ec605a67775adddb360f95c7ca2f50a44df72070f45f",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

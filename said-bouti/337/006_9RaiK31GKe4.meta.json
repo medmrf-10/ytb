@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:9RaiK31GKe4",
+ "vid": "9RaiK31GKe4",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--337",
+ "n": 6,
+ "n_src": "mutfile",
+ "title": "5 - في رحاب القرآن تعلم تلاوة القرآن بالتلقي",
+ "title_src": "filename",
+ "sha256": "6d0161f63d39049399ba3d119adf0feb2f317c58103665940dc6084ab3312d44",
+ "nh": "516cc29eb6722275da094a6f3db6ebf1529d4f4f72ae7d447d9f15ef99168642",
+ "chars": 978,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/337/006_5 - في رحاب القرآن  تعلم تلاوة القرآن بالتلقي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/337/006_5 - في رحاب القرآن  تعلم تلاوة القرآن بالتلقي.txt",
+   "sha256": "6d0161f63d39049399ba3d119adf0feb2f317c58103665940dc6084ab3312d44",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/rihab/006_5 - في رحاب القرآن  تعلم تلاوة القرآن بالتلقي.txt",
+   "sha256": "6d0161f63d39049399ba3d119adf0feb2f317c58103665940dc6084ab3312d44",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-337/006.txt",
+   "sha256": "8173292304025226d8ac362b4ffa9deae51ddaf42ddde648c95edded93893148",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

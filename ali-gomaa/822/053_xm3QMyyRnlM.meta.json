@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:xm3QMyyRnlM",
+ "vid": "xm3QMyyRnlM",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 53,
+ "n_src": "plpos",
+ "title": "والله أعلم | فضيلة الدكتور علي جمعة  يوضح أحكام الاغتراب وحكم الخضوع لقوانين الغرب | الحلقة الكاملة",
+ "title_src": "yt_titles",
+ "sha256": "0dbc53fd897f23c82f8e7394459651b09cf906cd4c07088b73d989a65783a2f1",
+ "nh": "3e0d0772c01377f8c41c10cb4d63289faeb3f5e4047a08095188bbdd6a1517a6",
+ "chars": 25074,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/053_والله أعلم ｜ فضيلة الدكتور علي جمعة  يوضح أحكام الاغتراب وحكم الخضوع لقوانين الغ.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/053_والله أعلم ｜ فضيلة الدكتور علي جمعة  يوضح أحكام الاغتراب وحكم الخضوع لقوانين الغ.txt",
+   "sha256": "0dbc53fd897f23c82f8e7394459651b09cf906cd4c07088b73d989a65783a2f1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/053_والله أعلم ｜ فضيلة الدكتور علي جمعة  يوضح أحكام الاغتراب وحكم الخضوع لقوانين الغ.txt",
+   "sha256": "0dbc53fd897f23c82f8e7394459651b09cf906cd4c07088b73d989a65783a2f1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/053.txt",
+   "sha256": "972668651bcc500b46ce5a85d690e0c7751037dff6c8c82da6c9f3137a3f8cb9",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

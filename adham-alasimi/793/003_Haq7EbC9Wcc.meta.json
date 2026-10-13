@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:Haq7EbC9Wcc",
+ "vid": "Haq7EbC9Wcc",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--793",
+ "n": 3,
+ "n_src": "read",
+ "title": "(3) خاتم النبين ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "e389ca80ea42e2df257b92a92a777e14fabcd58b866f2438671ab31bac17eb8f",
+ "nh": "c8f3567a64656e9a3db08587740210b805b7e55c8f2b6e4d478bc09e9095df93",
+ "chars": 21956,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/793/003_(3) خاتم النبين ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/793/003_(3) خاتم النبين ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "e389ca80ea42e2df257b92a92a777e14fabcd58b866f2438671ab31bac17eb8f",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/793/2.txt",
+   "sha256": "e389ca80ea42e2df257b92a92a777e14fabcd58b866f2438671ab31bac17eb8f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:DtsjLqqzb-c",
+ "vid": "DtsjLqqzb-c",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-414",
+ "n": 124,
+ "n_src": "read",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 124",
+ "title_src": "filename",
+ "sha256": "4062a8b418a7e1a2c668a6cdf907447fc773f68d08c7bfadb2fd656f0961c706",
+ "nh": "6d3cf5d2c822f30cc5e1d01a0132ac265c2f032823ac880154cb2ee71b416041",
+ "chars": 19462,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/124_تفسير القرآن الكريم للدكتور البوطي - الدرس 124.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/124_تفسير القرآن الكريم للدكتور البوطي - الدرس 124.txt",
+   "sha256": "4062a8b418a7e1a2c668a6cdf907447fc773f68d08c7bfadb2fd656f0961c706",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/124.txt",
+   "sha256": "1f45ca0641d029cc2ee720b997f1fa45e38ef84ad5867f88ad0bf572263ec688",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

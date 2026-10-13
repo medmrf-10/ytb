@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:09bbSnIT63A",
+ "vid": "09bbSnIT63A",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 162,
+ "n_src": "read",
+ "title": "الحكم العطائية للإمام البوطي الدرس 52 - الحكمة 35",
+ "title_src": "filename",
+ "sha256": "b8be5fd2ee4b8fc246289afd4d161eb73a555dba967bc7df2d45dfde89297712",
+ "nh": "1b4d20ac005efc3ae08f90155b84c8072406452d2309395e5974d5e73a4812b6",
+ "chars": 20005,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/162_الحكم العطائية للإمام البوطي  الدرس 52  - الحكمة 35.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/162_الحكم العطائية للإمام البوطي  الدرس 52  - الحكمة 35.txt",
+   "sha256": "b8be5fd2ee4b8fc246289afd4d161eb73a555dba967bc7df2d45dfde89297712",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/162_الحكم العطائية للإمام البوطي  الدرس 52  - الحكمة 35.txt",
+   "sha256": "b8be5fd2ee4b8fc246289afd4d161eb73a555dba967bc7df2d45dfde89297712",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

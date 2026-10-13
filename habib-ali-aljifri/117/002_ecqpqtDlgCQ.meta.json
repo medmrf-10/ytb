@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:ecqpqtDlgCQ",
+ "vid": "ecqpqtDlgCQ",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--117",
+ "n": 2,
+ "n_src": "read",
+ "title": "حلقة 2- طبيب الأسنان الذي يعالج النفوس - سلسلة الإنسانية قبل التدين",
+ "title_src": "filename",
+ "sha256": "f48ec7d2453660bc360aab2a3976cf2bac2b5478b5d5592f8a5b63cb3b45dfa9",
+ "nh": "394f44058ae5d8a44b7ea69c0acee93ac8d3cc1dbb3a56842cb3642a059fe351",
+ "chars": 1242,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/117/002_حلقة 2- طبيب الأسنان الذي يعالج النفوس - سلسلة الإنسانية قبل التدين.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/117/002_حلقة 2- طبيب الأسنان الذي يعالج النفوس - سلسلة الإنسانية قبل التدين.txt",
+   "sha256": "f48ec7d2453660bc360aab2a3976cf2bac2b5478b5d5592f8a5b63cb3b45dfa9",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/insaniyya/14.txt",
+   "sha256": "f48ec7d2453660bc360aab2a3976cf2bac2b5478b5d5592f8a5b63cb3b45dfa9",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/112/14.txt",
+   "sha256": "f48ec7d2453660bc360aab2a3976cf2bac2b5478b5d5592f8a5b63cb3b45dfa9",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-ali-aljifri--112",
+  "k:117"
+ ]
+}

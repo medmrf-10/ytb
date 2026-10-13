@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:eVP8_uTIAM8",
+ "vid": "eVP8_uTIAM8",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--377",
+ "n": 30,
+ "n_src": "plpos",
+ "title": "24- كبرى اليقينيات الكونية | مصير نظرية النشوء والارتقاء",
+ "title_src": "yt_titles",
+ "sha256": "30e11fd9634721a31efe6ef0ae4bbffae4beec6ec26dbbcf52daa244af625abe",
+ "nh": "cf4d9bd4c68ed76b3a51eae81afb4d7dc940361980c331be03a060ae182a77b5",
+ "chars": 26346,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/377/030_24- كبرى اليقينيات الكونية ｜ مصير نظرية النشوء والارتقاء.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/377/030_24- كبرى اليقينيات الكونية ｜ مصير نظرية النشوء والارتقاء.txt",
+   "sha256": "30e11fd9634721a31efe6ef0ae4bbffae4beec6ec26dbbcf52daa244af625abe",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/kobraElya9inyat-030/transcript.txt",
+   "sha256": "70c8ba5952c5ee6b984c1ba30df42959be3ad39930871e4db1183363e10a4321",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/30.txt",
+   "sha256": "70c8ba5952c5ee6b984c1ba30df42959be3ad39930871e4db1183363e10a4321",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/377/29.txt",
+   "sha256": "30e11fd9634721a31efe6ef0ae4bbffae4beec6ec26dbbcf52daa244af625abe",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

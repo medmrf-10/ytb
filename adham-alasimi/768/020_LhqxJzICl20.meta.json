@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:LhqxJzICl20",
+ "vid": "LhqxJzICl20",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--768",
+ "n": 20,
+ "n_src": "read",
+ "title": "(20) العصمة ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "be773bd00a8b212dee1a1bfb4b719d200b2a066f5d46d717c443d6c881725186",
+ "nh": "c6fe6b03b10e392f462330587b5f002799afd7202d44bf3508f2d0637fbea167",
+ "chars": 23340,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/768/020_(20) العصمة ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/768/020_(20) العصمة ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "be773bd00a8b212dee1a1bfb4b719d200b2a066f5d46d717c443d6c881725186",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/768/19.txt",
+   "sha256": "be773bd00a8b212dee1a1bfb4b719d200b2a066f5d46d717c443d6c881725186",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

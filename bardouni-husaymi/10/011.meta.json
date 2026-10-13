@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--10:11",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--10",
+ "n": 11,
+ "n_src": "read",
+ "title": "الدرس 11 ｜ شرح منظومة الأجهوري في أصول الدين- صفات المعاني(الحياة)- ｜ الشيخ البر",
+ "title_src": "filename",
+ "sha256": "1b675a0e9be920f3f0cad49580c8ecf7f4f6711a797548966b282e46ed9957dc",
+ "nh": "1ad51f63e9cfe1b530212cee5b2b56ce3383bc6c97b30df131839080fd01a50a",
+ "chars": 12314,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/10/011_الدرس 11 ｜ شرح منظومة الأجهوري في أصول الدين- صفات المعاني(الحياة)- ｜ الشيخ البر.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/10/011_الدرس 11 ｜ شرح منظومة الأجهوري في أصول الدين- صفات المعاني(الحياة)- ｜ الشيخ البر.txt",
+   "sha256": "1b675a0e9be920f3f0cad49580c8ecf7f4f6711a797548966b282e46ed9957dc",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bardouni/ajhuri/10.txt",
+   "sha256": "1b675a0e9be920f3f0cad49580c8ecf7f4f6711a797548966b282e46ed9957dc",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/995/10.txt",
+   "sha256": "1b675a0e9be920f3f0cad49580c8ecf7f4f6711a797548966b282e46ed9957dc",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "k:10"
+ ]
+}

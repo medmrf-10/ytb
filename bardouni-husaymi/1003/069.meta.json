@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:69",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 69,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس57(قوله ＂والمرأة المسلمة تموت في السفر و لا نساء مع",
+ "title_src": "filename",
+ "sha256": "4312590297638cca5dfd4fada78400053f3da15be5a8b7c3573eefab4d883fbb",
+ "nh": "5874238ef2ca8fa5c28b0b21af9623c43fbcd6175b114a71b5856c9036b3ed91",
+ "chars": 14545,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/069_شرح رسالة ابن ابي زيد ｜ الدرس57(قوله ＂والمرأة المسلمة تموت في السفر و لا نساء مع.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/069_شرح رسالة ابن ابي زيد ｜ الدرس57(قوله ＂والمرأة المسلمة تموت في السفر و لا نساء مع.txt",
+   "sha256": "4312590297638cca5dfd4fada78400053f3da15be5a8b7c3573eefab4d883fbb",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/57.txt",
+   "sha256": "4312590297638cca5dfd4fada78400053f3da15be5a8b7c3573eefab4d883fbb",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

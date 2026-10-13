@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:-KONh6wfu4M",
+ "vid": "-KONh6wfu4M",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 112,
+ "n_src": "plpos",
+ "title": "#Friday_Talk | The concept of the inverted pyramid and its implications at Al-Azhar Al-Sharif",
+ "title_src": "yt_titles",
+ "sha256": "464e52ebce4f5a8baed6f89221f1d852071a26822c804f790e7626fc7a28d669",
+ "nh": "b8586d9ba0baa03e721a2b6c964ff8dabc2841494fe8357953607b61d8910326",
+ "chars": 10328,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/112_#حديث_الجمعة ｜ قاعدة الهرم المعدول ودلالاتها بالأزهر الشريف.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/112_#حديث_الجمعة ｜ قاعدة الهرم المعدول ودلالاتها بالأزهر الشريف.txt",
+   "sha256": "464e52ebce4f5a8baed6f89221f1d852071a26822c804f790e7626fc7a28d669",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/112_#حديث_الجمعة ｜ قاعدة الهرم المعدول ودلالاتها بالأزهر الشريف.txt",
+   "sha256": "464e52ebce4f5a8baed6f89221f1d852071a26822c804f790e7626fc7a28d669",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/112.txt",
+   "sha256": "10066ef1fe35abb3555afacd1c3cc720f1410d19d0754a0a238f1858e2578aed",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

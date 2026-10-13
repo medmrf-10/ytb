@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:1ZI-2A1Hhqg",
+ "vid": "1ZI-2A1Hhqg",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 83,
+ "n_src": "read",
+ "title": "خطب منبرية ： ＂ العبرة بالباطن ＂ ⧸ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "e0e340f81ba3f91991c62fbf749eef3f7998706503625088618520ef87c20f80",
+ "nh": "a65ed251c20cd531adfd62d2dfc212a02e56b3ebefa8a6b19a1d4549ba46b408",
+ "chars": 7745,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/083_خطب منبرية ： ＂ العبرة بالباطن ＂ ⧸ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/083_خطب منبرية ： ＂ العبرة بالباطن ＂ ⧸ الشيخ العلامة مولود السريري.txt",
+   "sha256": "e0e340f81ba3f91991c62fbf749eef3f7998706503625088618520ef87c20f80",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/82.txt",
+   "sha256": "e0e340f81ba3f91991c62fbf749eef3f7998706503625088618520ef87c20f80",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

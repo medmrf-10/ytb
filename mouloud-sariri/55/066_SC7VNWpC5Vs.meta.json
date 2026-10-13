@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:SC7VNWpC5Vs",
+ "vid": "SC7VNWpC5Vs",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 66,
+ "n_src": "read",
+ "title": "خطب منبرية： حسن الظن بالخلق ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "db3c0f1b271ff1b5c41a48ff50c7048bb1beeb6bcc5af1e18a9fabb391bde1c6",
+ "nh": "c619a9d6bc52c8debfe2ff39c59345380169d2bb37f3c7cb5680ee916e14447c",
+ "chars": 11039,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/066_خطب منبرية： حسن الظن بالخلق ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/066_خطب منبرية： حسن الظن بالخلق ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "db3c0f1b271ff1b5c41a48ff50c7048bb1beeb6bcc5af1e18a9fabb391bde1c6",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/65.txt",
+   "sha256": "db3c0f1b271ff1b5c41a48ff50c7048bb1beeb6bcc5af1e18a9fabb391bde1c6",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

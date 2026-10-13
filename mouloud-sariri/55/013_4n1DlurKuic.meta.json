@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:4n1DlurKuic",
+ "vid": "4n1DlurKuic",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 13,
+ "n_src": "read",
+ "title": "خطب منبرية ： حقوق الأموات في الإسلام ⧸ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "02d298425d4d1ea675bfc7eb7ef33c8b6f805d39bba74b9029d480ed89bdf82f",
+ "nh": "932f3cb5fdde256cf39f94d79fd21b1fdd430f3b62ce51062b3575b7c5f1b302",
+ "chars": 12295,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/013_خطب منبرية ：  حقوق الأموات في الإسلام ⧸ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/013_خطب منبرية ：  حقوق الأموات في الإسلام ⧸ الشيخ العلامة مولود السريري.txt",
+   "sha256": "02d298425d4d1ea675bfc7eb7ef33c8b6f805d39bba74b9029d480ed89bdf82f",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/12.txt",
+   "sha256": "02d298425d4d1ea675bfc7eb7ef33c8b6f805d39bba74b9029d480ed89bdf82f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:bU47Yf13p2E",
+ "vid": "bU47Yf13p2E",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--656",
+ "n": 31,
+ "n_src": "mutfile",
+ "title": "رياض الصالحين 31 ｜ باب في الاقتصاد في العبادة 1 ｜ أنوار السنة المحمدية ｜ أحمد ال",
+ "title_src": "filename",
+ "sha256": "a67747776359e8c261a3305d1a6b811ba22e766842f913732e5745b3b1e34704",
+ "nh": "f3dbf0af2a5f022c3914feba85af9db04eef65a9ad5b72be83c7aa8c7c69b270",
+ "chars": 31667,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/656/031_رياض الصالحين 31 ｜ باب في الاقتصاد في العبادة 1 ｜ أنوار السنة المحمدية ｜ أحمد ال.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/656/031_رياض الصالحين 31 ｜ باب في الاقتصاد في العبادة 1 ｜ أنوار السنة المحمدية ｜ أحمد ال.txt",
+   "sha256": "a67747776359e8c261a3305d1a6b811ba22e766842f913732e5745b3b1e34704",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/riyadElsali7in-031/transcript.txt",
+   "sha256": "9974758dd8daf2b3bcd5347cd55b427d7d157f57cbe84b1cf79f177ac3fd4e13",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-656/031.txt",
+   "sha256": "9974758dd8daf2b3bcd5347cd55b427d7d157f57cbe84b1cf79f177ac3fd4e13",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

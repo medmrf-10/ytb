@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:jmtIrE4ULE8",
+ "vid": "jmtIrE4ULE8",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-barahin-muqtatafat",
+ "n": 17,
+ "n_src": "trfile",
+ "title": "الدرس 17",
+ "title_src": "filename",
+ "sha256": "c8fa330fc3f90c6530e76138451a5caa720bdaebf616636726eb229d89b250e8",
+ "nh": "47be63b24043be519d888c4c725d6d41242c54853202f524bdc18f943fc7c1a3",
+ "chars": 1852,
+ "quality": "contaminated",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriBarahinMuqtatafat-017/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriBarahinMuqtatafat-017/transcript.txt",
+   "sha256": "c8fa330fc3f90c6530e76138451a5caa720bdaebf616636726eb229d89b250e8",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/barahin-muqtatafat/barahin-muqtatafat-17_AlAmri.txt",
+   "sha256": "c8fa330fc3f90c6530e76138451a5caa720bdaebf616636726eb229d89b250e8",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-barahin-muqtatafat/17.txt",
+   "sha256": "c8fa330fc3f90c6530e76138451a5caa720bdaebf616636726eb229d89b250e8",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

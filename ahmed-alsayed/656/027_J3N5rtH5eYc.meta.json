@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:J3N5rtH5eYc",
+ "vid": "J3N5rtH5eYc",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--656",
+ "n": 27,
+ "n_src": "mutfile",
+ "title": "رياض الصالحين 27 ｜ باب الحث على الازدياد من الخير في أواخر العمر ｜ أنوار السنة ا",
+ "title_src": "filename",
+ "sha256": "d4ff1cca6de577a54d2b448cac4a2ae604543a1c821aaeef64069ba2f8a5f080",
+ "nh": "fe56c78e2af6ecc0e36223013cb11709a488c2b220f6a30b405ad126a46a0f93",
+ "chars": 26691,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/656/027_رياض الصالحين 27 ｜ باب الحث على الازدياد من الخير في أواخر العمر ｜ أنوار السنة ا.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/656/027_رياض الصالحين 27 ｜ باب الحث على الازدياد من الخير في أواخر العمر ｜ أنوار السنة ا.txt",
+   "sha256": "d4ff1cca6de577a54d2b448cac4a2ae604543a1c821aaeef64069ba2f8a5f080",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/riyadElsali7in-027/transcript.txt",
+   "sha256": "514c36aa11d2cb9d88aea5d46eb44132ff7e5c0a4ba73e2deaf5b6f97fff7e5d",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-656/027.txt",
+   "sha256": "514c36aa11d2cb9d88aea5d46eb44132ff7e5c0a4ba73e2deaf5b6f97fff7e5d",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

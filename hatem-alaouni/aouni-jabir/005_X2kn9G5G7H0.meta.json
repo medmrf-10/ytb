@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:X2kn9G5G7H0",
+ "vid": "X2kn9G5G7H0",
+ "sheikh": "hatem-alaouni",
+ "row_id": "hatem-alaouni--aouni-jabir",
+ "n": 5,
+ "n_src": "trfile",
+ "title": "الدرس الخامس : الرد على من زعم أن المقصود بـ(الكَبَر) : الدف | أ.د الشريف حاتم العوني",
+ "title_src": "yt_titles",
+ "sha256": "346555415333ae2bfc5289b5038fa21330eb0ad1f6bf3d47c422933d3edbe5fb",
+ "nh": "be0f8ef0bbcf046a31ef5633dae43671ff63f7a79e98bc4347e16dae5c847fc5",
+ "chars": 10035,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/aouniJabir-005/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/aouniJabir-005/transcript.txt",
+   "sha256": "346555415333ae2bfc5289b5038fa21330eb0ad1f6bf3d47c422933d3edbe5fb",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/aouni/jabir/005_X2kn9G5G7H0.txt",
+   "sha256": "346555415333ae2bfc5289b5038fa21330eb0ad1f6bf3d47c422933d3edbe5fb",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/aouni-jabir/005.txt",
+   "sha256": "346555415333ae2bfc5289b5038fa21330eb0ad1f6bf3d47c422933d3edbe5fb",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

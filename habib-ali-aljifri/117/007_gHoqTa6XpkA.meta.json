@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:gHoqTa6XpkA",
+ "vid": "gHoqTa6XpkA",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--117",
+ "n": 7,
+ "n_src": "read",
+ "title": "حلقة 7- لماذا أنا متعصب - سلسلة الإنسانية قبل التدين",
+ "title_src": "filename",
+ "sha256": "8e0c9d4e40534a7ecf01b7defb907740381b66872a6b54332eb474d84d0eb0d6",
+ "nh": "5aac5248696387ab9d8bc9791865b44debe657712f33145d29d81ee2dddd3557",
+ "chars": 1880,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/117/007_حلقة 7- لماذا أنا متعصب - سلسلة الإنسانية قبل التدين.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/117/007_حلقة 7- لماذا أنا متعصب - سلسلة الإنسانية قبل التدين.txt",
+   "sha256": "8e0c9d4e40534a7ecf01b7defb907740381b66872a6b54332eb474d84d0eb0d6",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/insaniyya/19.txt",
+   "sha256": "8e0c9d4e40534a7ecf01b7defb907740381b66872a6b54332eb474d84d0eb0d6",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/112/19.txt",
+   "sha256": "8e0c9d4e40534a7ecf01b7defb907740381b66872a6b54332eb474d84d0eb0d6",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-ali-aljifri--112",
+  "k:117"
+ ]
+}

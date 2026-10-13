@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:emN2K2N99Ig",
+ "vid": "emN2K2N99Ig",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+ "n": 27,
+ "n_src": "trfile",
+ "title": "الدَّرس السابع والعشرون_ القطب الثَّاني_ تمام الحكم الأوَّل من الأحكام المشتركة بين الصفات",
+ "title_src": "yt_titles",
+ "sha256": "2ca0964883a4a035e1dc0dabf1d7492d94cce3df1d9fc182789f697837f5eadf",
+ "nh": "19aa9ee66ba74669ecfb592cec5d13c4bba7527b7f5fa0ba26a8449431f07b4b",
+ "chars": 45430,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriIqtisad-027/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriIqtisad-027/transcript.txt",
+   "sha256": "2ca0964883a4a035e1dc0dabf1d7492d94cce3df1d9fc182789f697837f5eadf",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-27_AlAmri.txt",
+   "sha256": "2ca0964883a4a035e1dc0dabf1d7492d94cce3df1d9fc182789f697837f5eadf",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-iqtisad/27.txt",
+   "sha256": "2ca0964883a4a035e1dc0dabf1d7492d94cce3df1d9fc182789f697837f5eadf",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

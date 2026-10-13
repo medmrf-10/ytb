@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:uYqJpWKfZPk",
+ "vid": "uYqJpWKfZPk",
+ "sheikh": "hatem-alaouni",
+ "row_id": "hatem-alaouni--aouni-jabir",
+ "n": 1,
+ "n_src": "trfile",
+ "title": "الدرس الأول حول حديث جابر في تفسير اللهو الوارد في آية {وَإِذَا رَأَوْا تِجَارَةً أَوْ لَهْوًا}",
+ "title_src": "yt_titles",
+ "sha256": "4fcc75d79900d070e5f266ee1a669082b1bc7676e092041be09be9179c40d679",
+ "nh": "cbdbc50fb31306ed416dcde7297d044623d0e98c6adccc16118814bfc9c4fd1e",
+ "chars": 13307,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/aouniJabir-001/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/aouniJabir-001/transcript.txt",
+   "sha256": "4fcc75d79900d070e5f266ee1a669082b1bc7676e092041be09be9179c40d679",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/aouni/jabir/001_uYqJpWKfZPk.txt",
+   "sha256": "4fcc75d79900d070e5f266ee1a669082b1bc7676e092041be09be9179c40d679",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/aouni-jabir/001.txt",
+   "sha256": "4fcc75d79900d070e5f266ee1a669082b1bc7676e092041be09be9179c40d679",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

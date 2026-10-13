@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:btZUATKJkLs",
+ "vid": "btZUATKJkLs",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--645",
+ "n": 5,
+ "n_src": "mutfile",
+ "title": "زمن الصحوة... من الريادة إلى مطرقة الحرب على الإرهاب｜ التجارب الإصلاحية في العصر",
+ "title_src": "filename",
+ "sha256": "fa99c66405c495a508b7e46baacf7fc6e5f55d801a682c8ee86098b7fad024f5",
+ "nh": "9204bcfaa3899323f364867f4ef884b7ff6dec43c7638968c4e8af2afeb15302",
+ "chars": 53867,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/645/005_زمن الصحوة... من الريادة إلى مطرقة الحرب على الإرهاب｜ التجارب الإصلاحية في العصر.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/645/005_زمن الصحوة... من الريادة إلى مطرقة الحرب على الإرهاب｜ التجارب الإصلاحية في العصر.txt",
+   "sha256": "fa99c66405c495a508b7e46baacf7fc6e5f55d801a682c8ee86098b7fad024f5",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/tajaribI9la7iya-005/transcript.txt",
+   "sha256": "7df886df1e56ae35e53fb046eb311bac0af040d0ff54f8cb31ff8970e88eccd6",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-645/005.txt",
+   "sha256": "7df886df1e56ae35e53fb046eb311bac0af040d0ff54f8cb31ff8970e88eccd6",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

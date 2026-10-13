@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:bsTNPnmFecI",
+ "vid": "bsTNPnmFecI",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--379",
+ "n": 1,
+ "n_src": "plpos",
+ "title": "1- تاريخ التشريع الإسلامي | أهمية دراسة تاريخ التشريع | الفرق بين الشريعة والفقه",
+ "title_src": "yt_titles",
+ "sha256": "c9f3bf123387bcb0a6a100d63d7b309c94cf343ae637ed57cc443159317edbd9",
+ "nh": "0ed1f41057c1e30ba18780f90963e59e12fa02c741570942a95b8e42dd84450f",
+ "chars": 16075,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/379/001_1- تاريخ التشريع الإسلامي ｜ أهمية دراسة تاريخ التشريع ｜ الفرق بين الشريعة والفقه.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/379/001_1- تاريخ التشريع الإسلامي ｜ أهمية دراسة تاريخ التشريع ｜ الفرق بين الشريعة والفقه.txt",
+   "sha256": "c9f3bf123387bcb0a6a100d63d7b309c94cf343ae637ed57cc443159317edbd9",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/tari5Eltachri3-001/transcript.txt",
+   "sha256": "72d57a5b416aa36eb84cfd7136c46b49d0ec2550de8fac2585e1fbb199a4652c",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-tarikh/01.txt",
+   "sha256": "72d57a5b416aa36eb84cfd7136c46b49d0ec2550de8fac2585e1fbb199a4652c",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:dHplEH8VIN8",
+ "vid": "dHplEH8VIN8",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 4,
+ "n_src": "plpos",
+ "title": "المتشددون | حـ 4 | التجربة المصرية في وضع قوانين حديثة منبثقة عن الشريعة الإسلامية | أ.د علي جمعة",
+ "title_src": "yt_titles",
+ "sha256": "ce33227a7d303fdef8693544071020770caa2c795a4a4a86acb14da8c8136354",
+ "nh": "c3d11a2226656595fe08ebac7ab571c3606a776984503344d7a2db18c79e2a64",
+ "chars": 16845,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/004_المتشددون ｜ حـ 4 ｜ التجربة المصرية في وضع قوانين حديثة منبثقة عن الشريعة الإسلام.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/004_المتشددون ｜ حـ 4 ｜ التجربة المصرية في وضع قوانين حديثة منبثقة عن الشريعة الإسلام.txt",
+   "sha256": "ce33227a7d303fdef8693544071020770caa2c795a4a4a86acb14da8c8136354",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/004_المتشددون ｜ حـ 4 ｜ التجربة المصرية في وضع قوانين حديثة منبثقة عن الشريعة الإسلام.txt",
+   "sha256": "ce33227a7d303fdef8693544071020770caa2c795a4a4a86acb14da8c8136354",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/004.txt",
+   "sha256": "dac12b15da81c4c8241dff41038d9a1da5d47f461817f6ea75a588a5ac3b4955",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

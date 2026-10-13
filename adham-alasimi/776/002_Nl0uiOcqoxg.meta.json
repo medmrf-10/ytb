@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:Nl0uiOcqoxg",
+ "vid": "Nl0uiOcqoxg",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--776",
+ "n": 2,
+ "n_src": "read",
+ "title": "(2) تعريف علم الحديث + الحديث الصحيح ⧸ تيسير علوم الحديث ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "3682a1b6e967c5a1a8455e4de8468a03039a5b9f8a397accc855ee68b5d2f143",
+ "nh": "26cdf5348df0beb7dcb966df041c0884901390cd9d756efe4daa2b39a39c3b4a",
+ "chars": 29262,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/776/002_(2) تعريف علم الحديث + الحديث الصحيح ⧸ تيسير علوم الحديث ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/776/002_(2) تعريف علم الحديث + الحديث الصحيح ⧸ تيسير علوم الحديث ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "3682a1b6e967c5a1a8455e4de8468a03039a5b9f8a397accc855ee68b5d2f143",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/776/1.txt",
+   "sha256": "3682a1b6e967c5a1a8455e4de8468a03039a5b9f8a397accc855ee68b5d2f143",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

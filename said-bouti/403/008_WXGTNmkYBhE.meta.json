@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:WXGTNmkYBhE",
+ "vid": "WXGTNmkYBhE",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--403",
+ "n": 8,
+ "n_src": "plpos",
+ "title": "6- فقه السيرة النبوية | الجهر بالدعوة",
+ "title_src": "yt_titles",
+ "sha256": "80932031e72b30636aab3610d951b062a61acb66ec92e070291aaafcec4c39b8",
+ "nh": "003a04dde084fca44249f6a6dcff65ae53d5804d08d0d10ee90cf26646b59fbc",
+ "chars": 21888,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/403/008_6- فقه السيرة النبوية ｜ الجهر بالدعوة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/403/008_6- فقه السيرة النبوية ｜ الجهر بالدعوة.txt",
+   "sha256": "80932031e72b30636aab3610d951b062a61acb66ec92e070291aaafcec4c39b8",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fi9hElsirah-008/transcript.txt",
+   "sha256": "77b04465aa002dd6e867b0424dfcd9bae90c11573366c79a83925fb531ef4197",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-sira/08.txt",
+   "sha256": "77b04465aa002dd6e867b0424dfcd9bae90c11573366c79a83925fb531ef4197",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/403/7.txt",
+   "sha256": "80932031e72b30636aab3610d951b062a61acb66ec92e070291aaafcec4c39b8",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:0fGVziBO3gs",
+ "vid": "0fGVziBO3gs",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--786",
+ "n": 25,
+ "n_src": "read",
+ "title": "مولد النبي ﷺ ومكانتة ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "65a08fdad10d30a19c4c9182af24ba29f7944df18777b35106d4e28083abb7f4",
+ "nh": "1c0c57d17e42fce7746f4f2406ec37f799f775548f68067325f99d8903107b47",
+ "chars": 14719,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/786/025_مولد النبي ﷺ ومكانتة ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/786/025_مولد النبي ﷺ ومكانتة ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "65a08fdad10d30a19c4c9182af24ba29f7944df18777b35106d4e28083abb7f4",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/786/24.txt",
+   "sha256": "65a08fdad10d30a19c4c9182af24ba29f7944df18777b35106d4e28083abb7f4",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

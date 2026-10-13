@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:IyBHJgXnStg",
+ "vid": "IyBHJgXnStg",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--984",
+ "n": 14,
+ "n_src": "read",
+ "title": "شرح أم البراهين ｜ الدرس 23 ( قوله ＂ برهان وجود الله ＂ ) ｜ الشيخ محمد البردوني",
+ "title_src": "filename",
+ "sha256": "a8d3a32671abff90c8bf53b80466192587b21bbc559f39f5c890436f99abce62",
+ "nh": "2edc13d3bf8bbdc722326a8e96a208ad04159979420a86970ab6e586715d946b",
+ "chars": 40860,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/984/014_شرح أم البراهين ｜ الدرس 23 ( قوله ＂ برهان وجود الله  ＂ ) ｜ الشيخ محمد البردوني.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/984/014_شرح أم البراهين ｜ الدرس 23 ( قوله ＂ برهان وجود الله  ＂ ) ｜ الشيخ محمد البردوني.txt",
+   "sha256": "a8d3a32671abff90c8bf53b80466192587b21bbc559f39f5c890436f99abce62",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasimi/um-baraheen/13.txt",
+   "sha256": "a8d3a32671abff90c8bf53b80466192587b21bbc559f39f5c890436f99abce62",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/743/13.txt",
+   "sha256": "a8d3a32671abff90c8bf53b80466192587b21bbc559f39f5c890436f99abce62",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "adham-alasimi--743",
+  "adham-alasimi--alasimi-um-baraheen"
+ ]
+}

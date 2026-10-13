@@ -1,0 +1,31 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:125",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 125,
+ "n_src": "read|renumbered",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 107 ( النذور ) ｜ الشيخ محمد البردوني",
+ "title_src": "filename",
+ "sha256": "3dcc3d030e4f69b66945439aeddd342ea8c7c75dd2c6dd943b1c94f04ec5f324",
+ "nh": "72c38035053aa0158961397c49e038bb73d723cc467e7c35c8aa78ae753f3b15",
+ "chars": 15360,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bardouni/sharh-risala-2/018_شرح رسالة ابن ابي زيد ｜ الدرس 107 (  النذور  ) ｜ الشيخ محمد البردوني.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bardouni/sharh-risala-2/018_شرح رسالة ابن ابي زيد ｜ الدرس 107 (  النذور  ) ｜ الشيخ محمد البردوني.txt",
+   "sha256": "3dcc3d030e4f69b66945439aeddd342ea8c7c75dd2c6dd943b1c94f04ec5f324",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

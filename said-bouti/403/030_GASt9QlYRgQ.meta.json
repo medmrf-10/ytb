@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:GASt9QlYRgQ",
+ "vid": "GASt9QlYRgQ",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--403",
+ "n": 30,
+ "n_src": "plpos",
+ "title": "28- فقه السيرة النبوية | يوم الرجيع وبئر معونة",
+ "title_src": "yt_titles",
+ "sha256": "9143fe4650657e3934a94aaf1b5159ecc433e17fc4d8d31c4303b043871bd952",
+ "nh": "a36cd8b501bdcebefe3e8b9b869fc0ca27441140dd015c928bb58c0f94160f1f",
+ "chars": 23334,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/403/030_28- فقه السيرة النبوية ｜ يوم الرجيع وبئر معونة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/403/030_28- فقه السيرة النبوية ｜ يوم الرجيع وبئر معونة.txt",
+   "sha256": "9143fe4650657e3934a94aaf1b5159ecc433e17fc4d8d31c4303b043871bd952",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fi9hElsirah-030/transcript.txt",
+   "sha256": "da4a07cac06bc321e0510f03a2ff36bad2289810c38778a9d3c8b6e221c9283c",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-sira/30.txt",
+   "sha256": "da4a07cac06bc321e0510f03a2ff36bad2289810c38778a9d3c8b6e221c9283c",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/403/29.txt",
+   "sha256": "9143fe4650657e3934a94aaf1b5159ecc433e17fc4d8d31c4303b043871bd952",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

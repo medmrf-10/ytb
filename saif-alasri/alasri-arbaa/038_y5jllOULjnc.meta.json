@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:y5jllOULjnc",
+ "vid": "y5jllOULjnc",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 38,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / نماذج من العبث في رد السنة / د. سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "1e98a790dc1ccac4d09a2b39dac05367e0aae00db60681e70e80fa396afa1250",
+ "nh": "baed1fbdfbcd56a188f4edc1a6d3ea916061eb986a18b3d33db770b9cac1cc81",
+ "chars": 26559,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-038/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-038/transcript.txt",
+   "sha256": "1e98a790dc1ccac4d09a2b39dac05367e0aae00db60681e70e80fa396afa1250",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/038_y5jllOULjnc.txt",
+   "sha256": "1e98a790dc1ccac4d09a2b39dac05367e0aae00db60681e70e80fa396afa1250",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/038.txt",
+   "sha256": "1e98a790dc1ccac4d09a2b39dac05367e0aae00db60681e70e80fa396afa1250",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

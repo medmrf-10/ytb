@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:lTMtPxCSh0s",
+ "vid": "lTMtPxCSh0s",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 29,
+ "n_src": "plpos",
+ "title": "المتشددون | حـ 29 | يصلح سيد قطب للقيادة الفكرية جـ2 | أ.د علي جمعة",
+ "title_src": "yt_titles",
+ "sha256": "b08297ad5d3468cc83d5514466104db0c4a82c41c472c3ee98f18c7e21a2f332",
+ "nh": "cf6cc4fd4a0d23ecf99d5b440bd0ad1e96708f0e52a3d3612c301f1bd878f2e3",
+ "chars": 14637,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/029_المتشددون ｜ حـ 29 ｜ يصلح سيد قطب للقيادة الفكرية جـ2 ｜ أ.د علي جمعة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/029_المتشددون ｜ حـ 29 ｜ يصلح سيد قطب للقيادة الفكرية جـ2 ｜ أ.د علي جمعة.txt",
+   "sha256": "b08297ad5d3468cc83d5514466104db0c4a82c41c472c3ee98f18c7e21a2f332",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/029_المتشددون ｜ حـ 29 ｜ يصلح سيد قطب للقيادة الفكرية جـ2 ｜ أ.د علي جمعة.txt",
+   "sha256": "b08297ad5d3468cc83d5514466104db0c4a82c41c472c3ee98f18c7e21a2f332",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/029.txt",
+   "sha256": "7aa6ab0f1b58d25e5b3964c8473dcfba802fd7e0f31b99acbc01e393b2ea625e",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

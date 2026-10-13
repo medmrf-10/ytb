@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:cYMfSWDvFsY",
+ "vid": "cYMfSWDvFsY",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--117",
+ "n": 20,
+ "n_src": "read",
+ "title": "حلقة 20 - نزاهة العمل الخيري - سلسلة الإنسانية قبل التدين",
+ "title_src": "filename",
+ "sha256": "e721dc31718b82a2d1270ae76c4d241fb47c269525ef160b121d9e4a40c18325",
+ "nh": "96af3e9e16687e8a12713660ae226cf6ba1f798bc160838e47c42a510c6f17fe",
+ "chars": 1486,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/117/020_حلقة 20 - نزاهة العمل الخيري - سلسلة الإنسانية قبل التدين.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/117/020_حلقة 20 - نزاهة العمل الخيري - سلسلة الإنسانية قبل التدين.txt",
+   "sha256": "e721dc31718b82a2d1270ae76c4d241fb47c269525ef160b121d9e4a40c18325",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/insaniyya/32.txt",
+   "sha256": "e721dc31718b82a2d1270ae76c4d241fb47c269525ef160b121d9e4a40c18325",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/112/32.txt",
+   "sha256": "e721dc31718b82a2d1270ae76c4d241fb47c269525ef160b121d9e4a40c18325",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-ali-aljifri--112",
+  "k:117"
+ ]
+}

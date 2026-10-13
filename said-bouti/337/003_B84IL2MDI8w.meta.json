@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:B84IL2MDI8w",
+ "vid": "B84IL2MDI8w",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--337",
+ "n": 3,
+ "n_src": "mutfile",
+ "title": "2- في رحاب القرآن القرآن ربيع القلب",
+ "title_src": "filename",
+ "sha256": "2e25f3a84f45feaf818dba2f9479ce66f2901a1215cd0b9e6cacd0b68a280aa0",
+ "nh": "7a20c696b8d6110f044540a6ca0d6a20db46164f999907edf5127db0ab4db7c0",
+ "chars": 1916,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/337/003_2- في رحاب القرآن  القرآن ربيع القلب.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/337/003_2- في رحاب القرآن  القرآن ربيع القلب.txt",
+   "sha256": "2e25f3a84f45feaf818dba2f9479ce66f2901a1215cd0b9e6cacd0b68a280aa0",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/rihab/003_2- في رحاب القرآن  القرآن ربيع القلب.txt",
+   "sha256": "2e25f3a84f45feaf818dba2f9479ce66f2901a1215cd0b9e6cacd0b68a280aa0",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-337/003.txt",
+   "sha256": "f8314ce76ed098fe2a88efe9b77230d78bdaa48fa07a0ba998df1ff6f4137cd1",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

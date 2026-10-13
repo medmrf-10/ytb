@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:9Kq94zrFnd8",
+ "vid": "9Kq94zrFnd8",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 76,
+ "n_src": "plpos",
+ "title": "والله أعلم | شعب الله المختار | الحلقة الكاملة",
+ "title_src": "yt_titles",
+ "sha256": "a5cf25fb6482a423b26eafb5fa971b4e11d282be23689981b986c76520a49ee7",
+ "nh": "35e75cde972c8593721ec93ddf4492bc44a19793ad6113bc4145893390971cc0",
+ "chars": 24303,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/076_والله أعلم ｜ شعب الله المختار ｜ الحلقة الكاملة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/076_والله أعلم ｜ شعب الله المختار ｜ الحلقة الكاملة.txt",
+   "sha256": "a5cf25fb6482a423b26eafb5fa971b4e11d282be23689981b986c76520a49ee7",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/076_والله أعلم ｜ شعب الله المختار ｜ الحلقة الكاملة.txt",
+   "sha256": "a5cf25fb6482a423b26eafb5fa971b4e11d282be23689981b986c76520a49ee7",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/076.txt",
+   "sha256": "1e08dd9a2f1a9c046d98fffa817ff5d622e607f40e24f4529ba382bf839588fe",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

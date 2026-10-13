@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:hb_7qy5-tpY",
+ "vid": "hb_7qy5-tpY",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--418",
+ "n": 1,
+ "n_src": "plpos",
+ "title": "1- الحب في القرآن | الخطوط العريضة التي سنتناولها مفصلة في هذه الدروس",
+ "title_src": "yt_titles",
+ "sha256": "0757d6e521ed7e99507eabce029da0faa44ab6c5eedde75c3837b5e135addb22",
+ "nh": "685c2c5314ccc190e819734068eafda46c6f8d0abe9bc1e0f46659d876e3c250",
+ "chars": 26093,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/418/001_1- الحب في القرآن ｜ الخطوط العريضة التي سنتناولها مفصلة في هذه الدروس.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/418/001_1- الحب في القرآن ｜ الخطوط العريضة التي سنتناولها مفصلة في هذه الدروس.txt",
+   "sha256": "0757d6e521ed7e99507eabce029da0faa44ab6c5eedde75c3837b5e135addb22",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/al7obFiEl9or1n-001/transcript.txt",
+   "sha256": "caa97669935d1520a211f7498e5a405d7133f71f9fe73d489951c7c3b994665b",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-hubb/01.txt",
+   "sha256": "caa97669935d1520a211f7498e5a405d7133f71f9fe73d489951c7c3b994665b",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

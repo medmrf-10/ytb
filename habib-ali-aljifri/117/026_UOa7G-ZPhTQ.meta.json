@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:UOa7G-ZPhTQ",
+ "vid": "UOa7G-ZPhTQ",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--117",
+ "n": 26,
+ "n_src": "read",
+ "title": "حلقة 25 - ميزان القيم - سلسلة الإنسانية قبل التدين",
+ "title_src": "filename",
+ "sha256": "8769325328cb641a61822d0e9c80d8531589e73d4a9edca6b009af4f7ce1f0c8",
+ "nh": "d6904606123dc8414f2354c0ee79a46388336ba878a70d8823bb024169c94202",
+ "chars": 1708,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/117/026_حلقة 25 - ميزان القيم - سلسلة الإنسانية قبل التدين.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/117/026_حلقة 25 - ميزان القيم - سلسلة الإنسانية قبل التدين.txt",
+   "sha256": "8769325328cb641a61822d0e9c80d8531589e73d4a9edca6b009af4f7ce1f0c8",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/insaniyya/38.txt",
+   "sha256": "8769325328cb641a61822d0e9c80d8531589e73d4a9edca6b009af4f7ce1f0c8",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/112/38.txt",
+   "sha256": "8769325328cb641a61822d0e9c80d8531589e73d4a9edca6b009af4f7ce1f0c8",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-ali-aljifri--112",
+  "k:117"
+ ]
+}

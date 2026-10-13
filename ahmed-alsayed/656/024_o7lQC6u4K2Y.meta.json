@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:o7lQC6u4K2Y",
+ "vid": "o7lQC6u4K2Y",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--656",
+ "n": 24,
+ "n_src": "mutfile",
+ "title": "رياض الصالحين 24 ｜ باب المجاهدة 2 ｜ أنوار السنة المحمدية ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "14494fc8ed7a629551c07a524b958d46fd621e357edc0fbedc9bd731cfa06ae9",
+ "nh": "ef574e03e07d066f65e5f7416d27fd21283bcd8d80f5da605026b4bbcd029c89",
+ "chars": 18963,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/656/024_رياض الصالحين 24 ｜ باب المجاهدة 2 ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/656/024_رياض الصالحين 24 ｜ باب المجاهدة 2 ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+   "sha256": "14494fc8ed7a629551c07a524b958d46fd621e357edc0fbedc9bd731cfa06ae9",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/riyadElsali7in-024/transcript.txt",
+   "sha256": "44dda6ad4d1286b80aafc9ad5bbbf026fec261d5479891667b77ec9dc287eacb",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-656/024.txt",
+   "sha256": "44dda6ad4d1286b80aafc9ad5bbbf026fec261d5479891667b77ec9dc287eacb",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

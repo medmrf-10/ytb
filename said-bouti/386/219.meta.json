@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:said-bouti--386:219",
+ "vid": null,
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 219,
+ "n_src": "read",
+ "title": "الحكم العطائية للإمام البوطي الدرس 110 - الحكمة 87 - 88",
+ "title_src": "filename",
+ "sha256": "00a0c9a8bbb86bcbbc7317e31c038b9b40185572e55922b5a3cf56d7cd326e07",
+ "nh": "23a4a8399acae9f7b5bf4139bcf9605af7719892afd6e2e18696efbdb91b05c5",
+ "chars": 13429,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/219_الحكم العطائية للإمام البوطي  الدرس 110  - الحكمة 87 - 88.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/219_الحكم العطائية للإمام البوطي  الدرس 110  - الحكمة 87 - 88.txt",
+   "sha256": "00a0c9a8bbb86bcbbc7317e31c038b9b40185572e55922b5a3cf56d7cd326e07",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/219_الحكم العطائية للإمام البوطي  الدرس 110  - الحكمة 87 - 88.txt",
+   "sha256": "00a0c9a8bbb86bcbbc7317e31c038b9b40185572e55922b5a3cf56d7cd326e07",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

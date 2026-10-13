@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:L6-IQ9oKXGA",
+ "vid": "L6-IQ9oKXGA",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+ "n": 2,
+ "n_src": "trfile",
+ "title": "الدَّرس الثَّاني شرح كتاب الاقتصاد في الاعتقاد لحجَّة الإسلام الإمام الغزالي رحمه الله تعالى",
+ "title_src": "yt_titles",
+ "sha256": "c7f3349c8285a1808a3aead1e1e217c47ac9587d5f74b0d446f739f6e222289e",
+ "nh": "2295d7326bba4c4fbe823dcdc7c187f2126d91fb0f3171e43b100c3e6553e61c",
+ "chars": 50028,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriIqtisad-002/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriIqtisad-002/transcript.txt",
+   "sha256": "c7f3349c8285a1808a3aead1e1e217c47ac9587d5f74b0d446f739f6e222289e",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-02_AlAmri.txt",
+   "sha256": "c7f3349c8285a1808a3aead1e1e217c47ac9587d5f74b0d446f739f6e222289e",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-iqtisad/02.txt",
+   "sha256": "c7f3349c8285a1808a3aead1e1e217c47ac9587d5f74b0d446f739f6e222289e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:R0bJYgyqlDo",
+ "vid": "R0bJYgyqlDo",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-khutab-2012",
+ "n": 40,
+ "n_src": "trfile",
+ "title": "خطبة الإمام البوطي | الافتتان بالدنيا أبرز العوائق أمام نهضة حضارتنا",
+ "title_src": "yt_titles",
+ "sha256": "26bf4ba7799294595907039b5d8547caa4051f7bd14c4d3c1de4964d7dd353dc",
+ "nh": "3e0fdf4fa583482e2182edb026f858a1ee92b7d5dbf81c602d9871e12fba34b5",
+ "chars": 12385,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/5o6ab-040/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/5o6ab-040/transcript.txt",
+   "sha256": "26bf4ba7799294595907039b5d8547caa4051f7bd14c4d3c1de4964d7dd353dc",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-khutab-2012/40.txt",
+   "sha256": "26bf4ba7799294595907039b5d8547caa4051f7bd14c4d3c1de4964d7dd353dc",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

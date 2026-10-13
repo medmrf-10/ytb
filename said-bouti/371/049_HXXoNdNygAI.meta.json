@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:HXXoNdNygAI",
+ "vid": "HXXoNdNygAI",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--371",
+ "n": 49,
+ "n_src": "plpos",
+ "title": "49- علوم القرآن الكريم | دراسات تطبيقية في المبادئ والإنسانيات (وَقَضَى رَبُّكَ أَلاَّ...)",
+ "title_src": "yt_titles",
+ "sha256": "dfbc8ee3d830244a4cd389a3da145210674f80c65d1c3ad75c6a3286cae87d8c",
+ "nh": "3e4558c9c29e375e3866ba1502877e9c6406e367d3f20cd98f9687f753cc7247",
+ "chars": 18464,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/371/049_49- علوم القرآن الكريم ｜ دراسات تطبيقية في المبادئ والإنسانيات (وَقَضَى رَبُّكَ .txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/371/049_49- علوم القرآن الكريم ｜ دراسات تطبيقية في المبادئ والإنسانيات (وَقَضَى رَبُّكَ .txt",
+   "sha256": "dfbc8ee3d830244a4cd389a3da145210674f80c65d1c3ad75c6a3286cae87d8c",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/3oloumEl9or1n-049/transcript.txt",
+   "sha256": "4f5950383a6671c92250bee71b3ba36b7b6209bdf9e937a904392ee6d9849848",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-ulum-quran/49.txt",
+   "sha256": "4f5950383a6671c92250bee71b3ba36b7b6209bdf9e937a904392ee6d9849848",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

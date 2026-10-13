@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:d5ec-69PXNI",
+ "vid": "d5ec-69PXNI",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--674",
+ "n": 4,
+ "n_src": "read",
+ "title": "الدرس 4",
+ "title_src": "filename",
+ "sha256": "eaf15b3c07e5241398363948a339e55e807e00f30e6ba4a2c68ada6486fcd284",
+ "nh": "68455042ca8b13d87b58463100c5cef394e7837e8ccde41165349f6ea3bce2a1",
+ "chars": 50093,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/alsayed/mut-674/004.txt",
+  "commit_ts": 1791587745,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alsayed/mut-674/004.txt",
+   "sha256": "eaf15b3c07e5241398363948a339e55e807e00f30e6ba4a2c68ada6486fcd284",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-674/004.txt",
+   "sha256": "eaf15b3c07e5241398363948a339e55e807e00f30e6ba4a2c68ada6486fcd284",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

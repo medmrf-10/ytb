@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:TZ_VUWptYAE",
+ "vid": "TZ_VUWptYAE",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--786",
+ "n": 28,
+ "n_src": "read",
+ "title": "أسس الدولة النبوية ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "3ce2325c73f28ab78b6f3dafb413e2371fb3aa6d7de619344709dff2f5f48279",
+ "nh": "0374d3bdba9d8635684aade9a6c301a774b4eee1032cfd76b92554dd67e146c5",
+ "chars": 12470,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/786/028_أسس الدولة النبوية ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/786/028_أسس الدولة النبوية ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "3ce2325c73f28ab78b6f3dafb413e2371fb3aa6d7de619344709dff2f5f48279",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/786/27.txt",
+   "sha256": "3ce2325c73f28ab78b6f3dafb413e2371fb3aa6d7de619344709dff2f5f48279",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

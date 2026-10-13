@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "yt:Sqx-KSJzARA",
+ "vid": "Sqx-KSJzARA",
+ "sheikh": "muhammad-abdelwahid-hanbali",
+ "row_id": "muhammad-abdelwahid-hanbali--abdelwahid-tawassul",
+ "n": 2,
+ "n_src": "trfile",
+ "title": "01 - مسالك بعض النابتة في النقل عن أهل العلم وتحريف مقاصدهم وتدليس كلامهم لتوافق قول النابتة الشاذ",
+ "title_src": "yt_titles",
+ "sha256": "378e53797407583eeac788d43d9857651428870eac8ff0bdcd3e16dcae7c4f9c",
+ "nh": "c5bf4a8e324d5d8b6357d965d4e6d8014479a1efac542ff1cca68866da9bd244",
+ "chars": 53683,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/abdelwahidTawassul-002/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/abdelwahidTawassul-002/transcript.txt",
+   "sha256": "378e53797407583eeac788d43d9857651428870eac8ff0bdcd3e16dcae7c4f9c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/abdelwahid/tawassul/NA_Sqx-KSJzARA.txt",
+   "sha256": "7f3aca91df8abd8e566366e8a59654b17ca5898a53e9ab4e3fd400f3b7081ef8",
+   "rel": "variant"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/abdelwahid-tawassul/002.txt",
+   "sha256": "378e53797407583eeac788d43d9857651428870eac8ff0bdcd3e16dcae7c4f9c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [
+  "_variants/002_Sqx-KSJzARA.hw-tr.txt"
+ ],
+ "also_in": []
+}

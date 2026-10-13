@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:-dMAMcGR4KI",
+ "vid": "-dMAMcGR4KI",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--371",
+ "n": 51,
+ "n_src": "plpos",
+ "title": "51- علوم القرآن الكريم | دراسات تطبيقية في المبادئ والإنسانيات (وَلا تَقْتُلُوا أَوْلادَكُمْ...)",
+ "title_src": "yt_titles",
+ "sha256": "1768347a6cea99552e9c05fed0998f4c945b5fb5cc15e5f0190b7dd1f866b559",
+ "nh": "19d52940ed81ca2dc9f4f69d6cd0549b06fcb40cfbf1e9d9724ac50f6e7cdd3d",
+ "chars": 20469,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/371/051_51- علوم القرآن الكريم ｜ دراسات تطبيقية في المبادئ والإنسانيات (وَلا تَقْتُلُوا .txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/371/051_51- علوم القرآن الكريم ｜ دراسات تطبيقية في المبادئ والإنسانيات (وَلا تَقْتُلُوا .txt",
+   "sha256": "1768347a6cea99552e9c05fed0998f4c945b5fb5cc15e5f0190b7dd1f866b559",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/3oloumEl9or1n-051/transcript.txt",
+   "sha256": "0366a0ec82ae4369cbc9440e84727d0b7f0a0ffb72013a84e306ebbaeed39d19",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-ulum-quran/51.txt",
+   "sha256": "0366a0ec82ae4369cbc9440e84727d0b7f0a0ffb72013a84e306ebbaeed39d19",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

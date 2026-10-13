@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:Wh_jpQCm9ms",
+ "vid": "Wh_jpQCm9ms",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-farsh",
+ "n": 8,
+ "n_src": "trfile",
+ "title": "تدبر فرش القراءات - الحلقة الثامنة - ملكِ/مالكِ يَوْمِ الدِّينِ -  #فاضل_سليمان",
+ "title_src": "yt_titles",
+ "sha256": "873dcb3cddadd3b714265f43fdb6a3a59aed055e7dff8afaf0f3a54afbdbef9f",
+ "nh": "78e1bc1d22bdb88f460ea9294db463e0f3267e7fc6a385b07145c1e49a4c5f13",
+ "chars": 9634,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelFarsh-008/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelFarsh-008/transcript.txt",
+   "sha256": "873dcb3cddadd3b714265f43fdb6a3a59aed055e7dff8afaf0f3a54afbdbef9f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-farsh/008.txt",
+   "sha256": "873dcb3cddadd3b714265f43fdb6a3a59aed055e7dff8afaf0f3a54afbdbef9f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

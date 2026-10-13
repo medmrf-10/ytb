@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:uS5BiK9YHi0",
+ "vid": "uS5BiK9YHi0",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-juz30",
+ "n": 3,
+ "n_src": "trfile",
+ "title": "فيديو # ٦١٨ من مقاطع حظر التجول   تدبر سورة النازعات # ١  الآيات ١-١٤",
+ "title_src": "yt_titles",
+ "sha256": "9f954e9e464040bb21549b98a5a064bc5963b48fe7d0f2bf5e26f6ae82562b51",
+ "nh": "271765a3f8af6c9ae522a67535503e35f35de8fb4c613a98aa39ddb4acd05a12",
+ "chars": 17594,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelJuz30-003/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelJuz30-003/transcript.txt",
+   "sha256": "9f954e9e464040bb21549b98a5a064bc5963b48fe7d0f2bf5e26f6ae82562b51",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-juz30/003.txt",
+   "sha256": "9f954e9e464040bb21549b98a5a064bc5963b48fe7d0f2bf5e26f6ae82562b51",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

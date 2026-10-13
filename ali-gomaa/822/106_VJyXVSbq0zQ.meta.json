@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:VJyXVSbq0zQ",
+ "vid": "VJyXVSbq0zQ",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 106,
+ "n_src": "mutfile",
+ "title": "#حديث_الجمعة | العقلية الفارقة بين المعاني والكلمات في الدين الإسلامي",
+ "title_src": "yt_titles",
+ "sha256": "c5bd8274028b59f12c8b8059b727a6730d8ed79e09ba0e4fe9b4a87e83db85ea",
+ "nh": "77939567d8ce13cc99ecca5d4a7343a158520f05a6fdeb9048341d79982b87b3",
+ "chars": 8359,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/106_#حديث_الجمعة ｜ العقلية الفارقة بين المعاني والكلمات في الدين الإسلامي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/106_#حديث_الجمعة ｜ العقلية الفارقة بين المعاني والكلمات في الدين الإسلامي.txt",
+   "sha256": "c5bd8274028b59f12c8b8059b727a6730d8ed79e09ba0e4fe9b4a87e83db85ea",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/106_#حديث_الجمعة ｜ العقلية الفارقة بين المعاني والكلمات في الدين الإسلامي.txt",
+   "sha256": "6ff6b60750ecec7ea80c30ca354eef6e30e8f172c4e39a922ec7d49dfc5957b5",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/106.txt",
+   "sha256": "c5bd8274028b59f12c8b8059b727a6730d8ed79e09ba0e4fe9b4a87e83db85ea",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:JH48p00CgdU",
+ "vid": "JH48p00CgdU",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-414",
+ "n": 154,
+ "n_src": "read",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 154",
+ "title_src": "filename",
+ "sha256": "abe470c0b8365cfd06e152ca57e6bc917234454cbf7a9649ba6aaac0b30bfa06",
+ "nh": "34a062ec198533c8abfe6658246c5c569fe3d11fa8e2e39b82e8c8045ec5208c",
+ "chars": 23228,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/154_تفسير القرآن الكريم للدكتور البوطي - الدرس 154.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/154_تفسير القرآن الكريم للدكتور البوطي - الدرس 154.txt",
+   "sha256": "abe470c0b8365cfd06e152ca57e6bc917234454cbf7a9649ba6aaac0b30bfa06",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/154.txt",
+   "sha256": "2bc322422880a33e923feda9054068d40ef159ae2c8f59c2e7912060f9db33fd",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

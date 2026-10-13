@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:oZu5hONj6-4",
+ "vid": "oZu5hONj6-4",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 49,
+ "n_src": "read",
+ "title": "الحكم العطائية للإمام البوطي ｜ الدرس 50 - الحكمة 33",
+ "title_src": "filename",
+ "sha256": "6a4b87d1b492d5a3816a02d2cecae0054a73f4072b3e9f7a02a94add3a557a9c",
+ "nh": "4a9edfb58d9634cb250b65813282df62b8640bad78ff42085af0d6dfa0712702",
+ "chars": 18853,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/049_الحكم العطائية للإمام البوطي ｜ الدرس 50  - الحكمة 33.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/049_الحكم العطائية للإمام البوطي ｜ الدرس 50  - الحكمة 33.txt",
+   "sha256": "6a4b87d1b492d5a3816a02d2cecae0054a73f4072b3e9f7a02a94add3a557a9c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/hikam/049_الحكم العطائية للإمام البوطي ｜ الدرس 50  - الحكمة 33.txt",
+   "sha256": "6a4b87d1b492d5a3816a02d2cecae0054a73f4072b3e9f7a02a94add3a557a9c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/049_الحكم العطائية للإمام البوطي ｜ الدرس 50  - الحكمة 33.txt",
+   "sha256": "6a4b87d1b492d5a3816a02d2cecae0054a73f4072b3e9f7a02a94add3a557a9c",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/386/48.txt",
+   "sha256": "6a4b87d1b492d5a3816a02d2cecae0054a73f4072b3e9f7a02a94add3a557a9c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

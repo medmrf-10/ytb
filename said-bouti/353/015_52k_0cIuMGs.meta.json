@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:52k_0cIuMGs",
+ "vid": "52k_0cIuMGs",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--353",
+ "n": 15,
+ "n_src": "trfile",
+ "title": "14 - الأخيرة الآداب الاجتماعية في القرآن الكريم آداب الأبناء مع الآباء",
+ "title_src": "filename",
+ "sha256": "4fd171514aaef8974ff3ab4feebabec153c7132e37038849cd3f601be0c11f64",
+ "nh": "30ee0fafa4c5e2bf9e390b3e99911a370a34f2aedbf216fcb8a89fc7d30692d5",
+ "chars": 12896,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/mut-353/015_14 - الأخيرة  الآداب الاجتماعية في القرآن الكريم  آداب الأبناء مع الآباء.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-353/015_14 - الأخيرة  الآداب الاجتماعية في القرآن الكريم  آداب الأبناء مع الآباء.txt",
+   "sha256": "4fd171514aaef8974ff3ab4feebabec153c7132e37038849cd3f601be0c11f64",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-353/015.txt",
+   "sha256": "8ce30a41f8eabc6c2a93470aa3847dd5cc5ede510722669059cd7b94ffc96aff",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

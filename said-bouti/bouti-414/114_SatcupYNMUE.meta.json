@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:SatcupYNMUE",
+ "vid": "SatcupYNMUE",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-414",
+ "n": 114,
+ "n_src": "read",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 114",
+ "title_src": "filename",
+ "sha256": "5369f1bec409113f25d09772d75283ac270ce4dfc253b1eab12c47ddeabc9333",
+ "nh": "b88cb0f02fcd975b02b81f0cc9ca7bb0eda8bac26f8fd92afb6adf4aba6d5110",
+ "chars": 21114,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/114_تفسير القرآن الكريم للدكتور البوطي - الدرس 114.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/114_تفسير القرآن الكريم للدكتور البوطي - الدرس 114.txt",
+   "sha256": "5369f1bec409113f25d09772d75283ac270ce4dfc253b1eab12c47ddeabc9333",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/114.txt",
+   "sha256": "4095ff488a68b4cbb437f44edb688b738468c4fd610987d668da47564b37eb5f",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

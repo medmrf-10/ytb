@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:QdnWF48xsGw",
+ "vid": "QdnWF48xsGw",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--370",
+ "n": 6,
+ "n_src": "plpos",
+ "title": "6- دورة مختصرة في العقيدة | العلامة البوطي | أشراط الساعة",
+ "title_src": "yt_titles",
+ "sha256": "af9400f36894bb3c85021b6d894db7b0067194d608ba78c7282aa171d4ac710f",
+ "nh": "da18da5356ff145ea1bf0f141c598e7d52da164a6322fd15599e11c6223d5931",
+ "chars": 24747,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/370/006_6- دورة مختصرة في العقيدة ｜ العلامة البوطي ｜ أشراط الساعة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/370/006_6- دورة مختصرة في العقيدة ｜ العلامة البوطي ｜ أشراط الساعة.txt",
+   "sha256": "af9400f36894bb3c85021b6d894db7b0067194d608ba78c7282aa171d4ac710f",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/dawraFiEl3a9ida-006/transcript.txt",
+   "sha256": "7a47d85d357432b0689a10cb7190fc4ebfa68ee38a5421aa25dd5f6627fa4589",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-aqeeda/06.txt",
+   "sha256": "7a47d85d357432b0689a10cb7190fc4ebfa68ee38a5421aa25dd5f6627fa4589",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/370/5.txt",
+   "sha256": "af9400f36894bb3c85021b6d894db7b0067194d608ba78c7282aa171d4ac710f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

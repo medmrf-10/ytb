@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:GwvaDsT6RyA",
+ "vid": "GwvaDsT6RyA",
+ "sheikh": "hatem-alaouni",
+ "row_id": "hatem-alaouni--aouni-jabir",
+ "n": 3,
+ "n_src": "trfile",
+ "title": "الدرس الثالث : في بيان أن الإمام محمد بن جرير الطبري صحح الحديث .",
+ "title_src": "yt_titles",
+ "sha256": "18f86793dfe2836d4526bbc555e175b5fb901173f96bc616bc2b42e3e65574ae",
+ "nh": "9b915197c9064533e46c683eed1d4e4974ba05654b7f46ac9e26051dd39bab9a",
+ "chars": 11757,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/aouniJabir-003/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/aouniJabir-003/transcript.txt",
+   "sha256": "18f86793dfe2836d4526bbc555e175b5fb901173f96bc616bc2b42e3e65574ae",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/aouni/jabir/003_GwvaDsT6RyA.txt",
+   "sha256": "18f86793dfe2836d4526bbc555e175b5fb901173f96bc616bc2b42e3e65574ae",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/aouni-jabir/003.txt",
+   "sha256": "18f86793dfe2836d4526bbc555e175b5fb901173f96bc616bc2b42e3e65574ae",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

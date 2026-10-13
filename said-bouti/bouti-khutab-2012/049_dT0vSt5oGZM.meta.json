@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:dT0vSt5oGZM",
+ "vid": "dT0vSt5oGZM",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-khutab-2012",
+ "n": 49,
+ "n_src": "trfile",
+ "title": "خطبة الإمام البوطي | هكذا أدّبنا الله في تعاملنا مع عباده",
+ "title_src": "yt_titles",
+ "sha256": "b5de22ab66d4cf865ac9200f9d39b18b40315878b281a71844e49594aab5e45a",
+ "nh": "fc9069873b7aa464c78f808ca2b645fa0a75cb489bf1fa7f0bc1ca7aac2467d7",
+ "chars": 11525,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/5o6ab-049/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/5o6ab-049/transcript.txt",
+   "sha256": "b5de22ab66d4cf865ac9200f9d39b18b40315878b281a71844e49594aab5e45a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-khutab-2012/49.txt",
+   "sha256": "b5de22ab66d4cf865ac9200f9d39b18b40315878b281a71844e49594aab5e45a",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:yQxd2lFdmYc",
+ "vid": "yQxd2lFdmYc",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 52,
+ "n_src": "plpos",
+ "title": "والله أعلم | الدكتور علي جمعة يتحدث عن الحوار بين الأديان وكيفية الاستفادة منه | الحلقة الكاملة",
+ "title_src": "yt_titles",
+ "sha256": "bc78d37bfbdd6baace22942748db1944fe7aae2126aa8d52db3ee06308b280e5",
+ "nh": "f80afcbb37256509bf7688675ec5012ea2c49f989bc5ee2fbbf9ce3a75d9d60c",
+ "chars": 26640,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/052_والله أعلم ｜ الدكتور علي جمعة يتحدث عن الحوار بين الأديان وكيفية الاستفادة منه ｜.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/052_والله أعلم ｜ الدكتور علي جمعة يتحدث عن الحوار بين الأديان وكيفية الاستفادة منه ｜.txt",
+   "sha256": "bc78d37bfbdd6baace22942748db1944fe7aae2126aa8d52db3ee06308b280e5",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/052_والله أعلم ｜ الدكتور علي جمعة يتحدث عن الحوار بين الأديان وكيفية الاستفادة منه ｜.txt",
+   "sha256": "bc78d37bfbdd6baace22942748db1944fe7aae2126aa8d52db3ee06308b280e5",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/052.txt",
+   "sha256": "e0854ee06c2dec9d9e9f33098c9fb3fdfaa281323b881fed4a029464d05a509d",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

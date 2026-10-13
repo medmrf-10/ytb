@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:PX0gG9fNnVg",
+ "vid": "PX0gG9fNnVg",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--403",
+ "n": 58,
+ "n_src": "plpos",
+ "title": "56- فقه السيرة النبوية | مسجد الضرار | وفد ثقيف ودخولهم في الإسلام (1)",
+ "title_src": "yt_titles",
+ "sha256": "4e6f92d838e7441b044864dab3cf7d50fcec3d051cd040381d9d144fd2c0cf2d",
+ "nh": "c0a06e4ed7cc235d911b2a2bac7f1e1f004af697ebda94c75bb5356ea482a080",
+ "chars": 19237,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/403/058_56- فقه السيرة النبوية ｜ مسجد الضرار ｜ وفد ثقيف ودخولهم في الإسلام (1).txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/403/058_56- فقه السيرة النبوية ｜ مسجد الضرار ｜ وفد ثقيف ودخولهم في الإسلام (1).txt",
+   "sha256": "4e6f92d838e7441b044864dab3cf7d50fcec3d051cd040381d9d144fd2c0cf2d",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fi9hElsirah-058/transcript.txt",
+   "sha256": "fcbae8bd6c3e90b6acc06c07bbf3f2c58f71ecca0aac65e7eb84fc5c5bfe8bac",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-sira/58.txt",
+   "sha256": "fcbae8bd6c3e90b6acc06c07bbf3f2c58f71ecca0aac65e7eb84fc5c5bfe8bac",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:-61vjq2ChlU",
+ "vid": "-61vjq2ChlU",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--379",
+ "n": 31,
+ "n_src": "plpos",
+ "title": "31- تاريخ التشريع الإسلامي | مزايا الدور  5 - الفرق بين قواعد تفسير النصوص والقواعد الفقهية",
+ "title_src": "yt_titles",
+ "sha256": "b39f4c27d2725dd63a3c828d49b92dcbb22461c0eb7484d08a1f047018d42474",
+ "nh": "bd0af19b9a28ed6daf8bec205f2e8a70d5b3520d1ef8bfa0e3bb38ac922dc7c2",
+ "chars": 23304,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/379/031_31- تاريخ التشريع الإسلامي ｜ مزايا الدور  5 - الفرق بين قواعد تفسير النصوص والقو.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/379/031_31- تاريخ التشريع الإسلامي ｜ مزايا الدور  5 - الفرق بين قواعد تفسير النصوص والقو.txt",
+   "sha256": "b39f4c27d2725dd63a3c828d49b92dcbb22461c0eb7484d08a1f047018d42474",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/tari5Eltachri3-031/transcript.txt",
+   "sha256": "cc7c62617f0778e281ee9759a515cb7faa81fe4d552d5e691e6814c6f6fe45c6",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-tarikh/31.txt",
+   "sha256": "cc7c62617f0778e281ee9759a515cb7faa81fe4d552d5e691e6814c6f6fe45c6",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/379/4.txt",
+   "sha256": "b39f4c27d2725dd63a3c828d49b92dcbb22461c0eb7484d08a1f047018d42474",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

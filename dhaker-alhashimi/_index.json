@@ -1,0 +1,45 @@
+{
+ "aliases": [
+  "الهاشمي"
+ ],
+ "name": "ذاكر الهاشمي",
+ "name_display": "ذاكر الهاشمي",
+ "series": [
+  {
+   "coverage": 0.3923,
+   "declared_total": 181,
+   "dir": "hashimi-fiqh-nafs/",
+   "key": "hashimi-fiqh-nafs",
+   "row_id": "dhaker-alhashimi--hashimi-fiqh-nafs",
+   "title": "مجالس فقه النفس",
+   "transcribed": 71
+  },
+  {
+   "coverage": 0.6667,
+   "declared_total": 108,
+   "dir": "hashimi-tarbiya/",
+   "key": "hashimi-tarbiya",
+   "row_id": "dhaker-alhashimi--hashimi-tarbiya",
+   "title": "ألف باء التربية",
+   "transcribed": 72
+  },
+  {
+   "coverage": 0.9867,
+   "declared_total": 75,
+   "dir": "hashimi-zawaj/",
+   "key": "hashimi-zawaj",
+   "row_id": "dhaker-alhashimi--hashimi-zawaj",
+   "title": "ألف باء الزواج",
+   "transcribed": 74
+  }
+ ],
+ "slug": "dhaker-alhashimi",
+ "totals": {
+  "chars": 14465886,
+  "lessons": 217,
+  "series": 3,
+  "unsorted": 0,
+  "with_vid": 217
+ },
+ "v": 1
+}

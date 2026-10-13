@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:YJBydL0MdgA",
+ "vid": "YJBydL0MdgA",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--369",
+ "n": 35,
+ "n_src": "plpos",
+ "title": "35- يغالطونك إذ يقولون : رسالة محمد إنما كانت ثورة عربية ولم تكن وحياً إلهياً",
+ "title_src": "yt_titles",
+ "sha256": "539793def537c53e5e38254c04b95e00eb445edf5b7248cced8e97aaa3fbe586",
+ "nh": "12b5334ed13aacfe6da8dc386bf77c762fcfdbf154e3204e96c201c56d479ea7",
+ "chars": 21762,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/369/035_35- يغالطونك إذ يقولون ： رسالة محمد إنما كانت ثورة عربية ولم تكن وحياً إلهياً.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/369/035_35- يغالطونك إذ يقولون ： رسالة محمد إنما كانت ثورة عربية ولم تكن وحياً إلهياً.txt",
+   "sha256": "539793def537c53e5e38254c04b95e00eb445edf5b7248cced8e97aaa3fbe586",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/yoghalitonak-035/transcript.txt",
+   "sha256": "664f4ccdfee86b1fd7f0b612c5f10f716a880af920730b6753765b43a9287446",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-yaghalitun/35.txt",
+   "sha256": "664f4ccdfee86b1fd7f0b612c5f10f716a880af920730b6753765b43a9287446",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/369/34.txt",
+   "sha256": "539793def537c53e5e38254c04b95e00eb445edf5b7248cced8e97aaa3fbe586",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

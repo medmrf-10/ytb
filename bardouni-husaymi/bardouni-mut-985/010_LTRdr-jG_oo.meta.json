@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "yt:LTRdr-jG_oo",
+ "vid": "LTRdr-jG_oo",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--bardouni-mut-985",
+ "n": 10,
+ "n_src": "read",
+ "title": "شرح المنهج المنتخب ｜ دس74 ( ق113 العادة هل هي كالشاهد الواحد أو كالشاهدين ) ｜ ا",
+ "title_src": "filename",
+ "sha256": "f2da921d7a0b301eb0b489179eb4d2fbf78229dbd318f139857669456df6b83e",
+ "nh": "14865284362d698dff0de08c45e96f8540d8908c9285916f42b314d8af150700",
+ "chars": 16892,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/985/010_شرح المنهج  المنتخب ｜ دس74 ( ق113 العادة هل هي كالشاهد الواحد أو كالشاهدين ) ｜ ا.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/985/010_شرح المنهج  المنتخب ｜ دس74 ( ق113 العادة هل هي كالشاهد الواحد أو كالشاهدين ) ｜ ا.txt",
+   "sha256": "f2da921d7a0b301eb0b489179eb4d2fbf78229dbd318f139857669456df6b83e",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bardouni/mut-985/010_شرح المنهج  المنتخب ｜ دس74 ( ق113 العادة هل هي كالشاهد الواحد أو كالشاهدين ) ｜ ا.txt",
+   "sha256": "f2da921d7a0b301eb0b489179eb4d2fbf78229dbd318f139857669456df6b83e",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/37/148.txt",
+   "sha256": "f2da921d7a0b301eb0b489179eb4d2fbf78229dbd318f139857669456df6b83e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "mouloud-sariri--37"
+ ]
+}

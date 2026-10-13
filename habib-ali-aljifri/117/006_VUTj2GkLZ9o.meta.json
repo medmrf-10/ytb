@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:VUTj2GkLZ9o",
+ "vid": "VUTj2GkLZ9o",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--117",
+ "n": 6,
+ "n_src": "read",
+ "title": "حلقة 6- همسة في أذن الشباب - سلسلة الإنسانية قبل التدين",
+ "title_src": "filename",
+ "sha256": "4474523eba5034e81e2e4d4f8834710bf2b5360d0849db634fbde5429c34546c",
+ "nh": "9a84d917ed829ead738777110ce43c911737858adfd6e0fc5830fd6c751a70f0",
+ "chars": 1377,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/117/006_حلقة 6- همسة في أذن الشباب - سلسلة الإنسانية قبل التدين.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/117/006_حلقة 6- همسة في أذن الشباب - سلسلة الإنسانية قبل التدين.txt",
+   "sha256": "4474523eba5034e81e2e4d4f8834710bf2b5360d0849db634fbde5429c34546c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/insaniyya/18.txt",
+   "sha256": "4474523eba5034e81e2e4d4f8834710bf2b5360d0849db634fbde5429c34546c",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/112/18.txt",
+   "sha256": "4474523eba5034e81e2e4d4f8834710bf2b5360d0849db634fbde5429c34546c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-ali-aljifri--112",
+  "k:117"
+ ]
+}

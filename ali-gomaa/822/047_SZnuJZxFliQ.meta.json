@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:SZnuJZxFliQ",
+ "vid": "SZnuJZxFliQ",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 47,
+ "n_src": "plpos",
+ "title": "والله أعلم | الدكتور علي جمعة يوضح حكم \"خلع الحجاب\" | الحلقة الكاملة",
+ "title_src": "yt_titles",
+ "sha256": "2898ff9b3e427c997de03a057112633e174544d389d6b01fdb48605c30e1bc09",
+ "nh": "c8e8c026a549b08c9d8fffc3e840f4e91c0f4cc0c6edbe3a4cdd497af5118b9f",
+ "chars": 25859,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/047_والله أعلم ｜ الدكتور علي جمعة يوضح حكم ＂خلع الحجاب＂ ｜ الحلقة الكاملة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/047_والله أعلم ｜ الدكتور علي جمعة يوضح حكم ＂خلع الحجاب＂ ｜ الحلقة الكاملة.txt",
+   "sha256": "2898ff9b3e427c997de03a057112633e174544d389d6b01fdb48605c30e1bc09",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/047_والله أعلم ｜ الدكتور علي جمعة يوضح حكم ＂خلع الحجاب＂ ｜ الحلقة الكاملة.txt",
+   "sha256": "2898ff9b3e427c997de03a057112633e174544d389d6b01fdb48605c30e1bc09",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/047.txt",
+   "sha256": "4c7f7e83c108505019ccdc8590a86b62e434a88d83247a49f0e82f0d5d56fe13",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

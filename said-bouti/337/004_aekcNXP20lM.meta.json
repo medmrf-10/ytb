@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:aekcNXP20lM",
+ "vid": "aekcNXP20lM",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--337",
+ "n": 4,
+ "n_src": "mutfile",
+ "title": "3 - في رحاب القرآن فضل القرآن على اللغة العربية",
+ "title_src": "filename",
+ "sha256": "a1d3d4490e4402c507d5a8437768ca363dea64213c4f7b3bad1b73e1e26b0685",
+ "nh": "d7e7fddb6dd454ac3fb073f5808d9c777b0ec4b7562953153a1f6f4add656ff9",
+ "chars": 1509,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/337/004_3 - في رحاب القرآن  فضل القرآن على اللغة العربية.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/337/004_3 - في رحاب القرآن  فضل القرآن على اللغة العربية.txt",
+   "sha256": "a1d3d4490e4402c507d5a8437768ca363dea64213c4f7b3bad1b73e1e26b0685",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/rihab/004_3 - في رحاب القرآن  فضل القرآن على اللغة العربية.txt",
+   "sha256": "a1d3d4490e4402c507d5a8437768ca363dea64213c4f7b3bad1b73e1e26b0685",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-337/004.txt",
+   "sha256": "38b3b32ce164f1234be931fea367a0a68f492abb6ec5c9da293ec2f6de27b788",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:0Hk1NrWfFdM",
+ "vid": "0Hk1NrWfFdM",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-farsh",
+ "n": 19,
+ "n_src": "trfile",
+ "title": "تدبر فرش القراءات-الحلقة 19 - فَلَا خوفٌ عليهم ولا هم يحزنونَ  -  #فاضل_سليمان",
+ "title_src": "yt_titles",
+ "sha256": "0ad04e5f18c7246661244d032813a6267c59db94d975f84047b73aea3cf7ece4",
+ "nh": "ef1335a7312709f63b320e028b1a52e12be7c74a041d1868ea86b8c1b403b567",
+ "chars": 13159,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelFarsh-019/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelFarsh-019/transcript.txt",
+   "sha256": "0ad04e5f18c7246661244d032813a6267c59db94d975f84047b73aea3cf7ece4",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-farsh/019.txt",
+   "sha256": "0ad04e5f18c7246661244d032813a6267c59db94d975f84047b73aea3cf7ece4",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

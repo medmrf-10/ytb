@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:dDIAE5BtbA4",
+ "vid": "dDIAE5BtbA4",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--787",
+ "n": 8,
+ "n_src": "read",
+ "title": "(8) فعلا التعجب ⧸ دورة النحو المستوى الثاني⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "bb9bff2827434a3550d663bf4c07d8a3bb869af2171ca8cade62df3f6cc2e961",
+ "nh": "da103df409460b5c8d85624f97d18ede3a7c223937b679726c403e6059bd3a91",
+ "chars": 18527,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/787/008_(8) فعلا التعجب ⧸ دورة النحو المستوى الثاني⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/787/008_(8) فعلا التعجب ⧸ دورة النحو المستوى الثاني⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "bb9bff2827434a3550d663bf4c07d8a3bb869af2171ca8cade62df3f6cc2e961",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/787/7.txt",
+   "sha256": "bb9bff2827434a3550d663bf4c07d8a3bb869af2171ca8cade62df3f6cc2e961",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

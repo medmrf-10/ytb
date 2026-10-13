@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:d5AO2OmWnP4",
+ "vid": "d5AO2OmWnP4",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--356",
+ "n": 1,
+ "n_src": "mutfile",
+ "title": "تشويقة برنامج التوبة في القرآن الكريم",
+ "title_src": "filename",
+ "sha256": "40026989849a0206ecafec9801b521d83ef753e7f0088d01fb943bd17737dab1",
+ "nh": "13e9403c0b2ddb9fdbc673ef04035ef8fa3041a88df8b8912feb4fd6eee0572b",
+ "chars": 1000,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/356/001_تشويقة برنامج التوبة في القرآن الكريم.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/356/001_تشويقة برنامج التوبة في القرآن الكريم.txt",
+   "sha256": "40026989849a0206ecafec9801b521d83ef753e7f0088d01fb943bd17737dab1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tawba/001_تشويقة برنامج التوبة في القرآن الكريم.txt",
+   "sha256": "40026989849a0206ecafec9801b521d83ef753e7f0088d01fb943bd17737dab1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-356/001.txt",
+   "sha256": "544db9a9f3763500fa313142f27b8604eec4bcfe19a5f09f1acc9e85faa2780e",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

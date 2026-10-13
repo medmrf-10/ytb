@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:1_8UUrkaXM4",
+ "vid": "1_8UUrkaXM4",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1006",
+ "n": 2,
+ "n_src": "read",
+ "title": "شرح لامية العرب ｜ الدرس 9 ( الأبيات -٢٥-٢٦-٢٧-) ｜ الشيخ محمد البردوني الحسيمي",
+ "title_src": "filename",
+ "sha256": "387141dbc26bb7c51b7e605b7c923dc689782f2c5674e943082efb67ca5d990b",
+ "nh": "675d3e6b72afe682970b0cb5316393d0e5b888af424c0527c8f11bae95ffc92b",
+ "chars": 3826,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1006/002_شرح لامية العرب ｜ الدرس 9 ( الأبيات -٢٥-٢٦-٢٧-) ｜ الشيخ محمد البردوني الحسيمي.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1006/002_شرح لامية العرب ｜ الدرس 9 ( الأبيات -٢٥-٢٦-٢٧-) ｜ الشيخ محمد البردوني الحسيمي.txt",
+   "sha256": "387141dbc26bb7c51b7e605b7c923dc689782f2c5674e943082efb67ca5d990b",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1006/8.txt",
+   "sha256": "387141dbc26bb7c51b7e605b7c923dc689782f2c5674e943082efb67ca5d990b",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

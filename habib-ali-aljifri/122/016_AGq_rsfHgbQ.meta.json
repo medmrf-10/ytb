@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:AGq_rsfHgbQ",
+ "vid": "AGq_rsfHgbQ",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--122",
+ "n": 16,
+ "n_src": "read",
+ "title": "كتاب قبس النور المبين مختصر إحياء علوم الدين - شرح الحبيب علي الجفري - الدرس الع",
+ "title_src": "filename",
+ "sha256": "341295384e4211e779bc9f5dea6f6740627a42c208ccfb557bde13a8d0db88b2",
+ "nh": "7cb205ca188c22d81f3cadc47f8f0bd93135d36dc054efdaf1de485a7d1af9d9",
+ "chars": 43243,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/122/016_كتاب قبس النور المبين مختصر إحياء علوم الدين - شرح الحبيب علي الجفري - الدرس الع.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/122/016_كتاب قبس النور المبين مختصر إحياء علوم الدين - شرح الحبيب علي الجفري - الدرس الع.txt",
+   "sha256": "341295384e4211e779bc9f5dea6f6740627a42c208ccfb557bde13a8d0db88b2",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/122/15.txt",
+   "sha256": "341295384e4211e779bc9f5dea6f6740627a42c208ccfb557bde13a8d0db88b2",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

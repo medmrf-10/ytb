@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "yt:-CbVnko-qtw",
+ "vid": "-CbVnko-qtw",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--414",
+ "n": 9,
+ "n_src": "trfile",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 9",
+ "title_src": "filename",
+ "sha256": "ffe59c5efcf9230c5b4ed9885ef41bc8d323373ab5ce69346b50dd30ce189ab4",
+ "nh": "6909a6f43086553fb5c5cbeff5b2d20c0eac66a12861754328cb6f5577e7ae14",
+ "chars": 19935,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/009_تفسير القرآن الكريم للدكتور البوطي - الدرس 9.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/009_تفسير القرآن الكريم للدكتور البوطي - الدرس 9.txt",
+   "sha256": "ffe59c5efcf9230c5b4ed9885ef41bc8d323373ab5ce69346b50dd30ce189ab4",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/009.txt",
+   "sha256": "d2b63b87472fca3ab62228b7076b7b5b9825671392a53e6932e4d2f1a8e532c3",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/414/8.txt",
+   "sha256": "ffe59c5efcf9230c5b4ed9885ef41bc8d323373ab5ce69346b50dd30ce189ab4",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "said-bouti--bouti-414"
+ ]
+}

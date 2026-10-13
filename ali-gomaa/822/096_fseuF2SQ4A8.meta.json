@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:fseuF2SQ4A8",
+ "vid": "fseuF2SQ4A8",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 96,
+ "n_src": "plpos",
+ "title": "Friday Sermon | The History and Conditions of Imamate in Islam | Full Episode",
+ "title_src": "yt_titles",
+ "sha256": "7a5f445b1a812f2f2b11193913d36f6d7ee3771607e0d24bc6d9f70acd100661",
+ "nh": "45a569707efc88042d991b76d1a53a0e770cbae31cad879de4960002905d5806",
+ "chars": 10665,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/096_حديث الجمعة ｜ تاريخ و شروط الإمامة في الإسلام ｜ حلقة كاملة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/096_حديث الجمعة ｜ تاريخ و شروط الإمامة في الإسلام ｜ حلقة كاملة.txt",
+   "sha256": "7a5f445b1a812f2f2b11193913d36f6d7ee3771607e0d24bc6d9f70acd100661",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/096_حديث الجمعة ｜ تاريخ و شروط الإمامة في الإسلام ｜ حلقة كاملة.txt",
+   "sha256": "7a5f445b1a812f2f2b11193913d36f6d7ee3771607e0d24bc6d9f70acd100661",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/096.txt",
+   "sha256": "3a008a0de43fe0a2f71b6fd05c4098a931673834e92e7d1d805eb2b32f82ab7f",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

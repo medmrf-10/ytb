@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:jZJ-54gGuek",
+ "vid": "jZJ-54gGuek",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--661",
+ "n": 20,
+ "n_src": "mutfile",
+ "title": "خير القرون 19 ｜ سيف الله المسلول ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "1aeda214bdc8a8b9b0526ca5a8ff0b89d1286e92c3412f04d73492fbcfc0547d",
+ "nh": "ca0bfc922d478216885b22fdfa262e160995cc5f094323f8902ae1df3131b4b6",
+ "chars": 60927,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/661/020_خير القرون 19 ｜ سيف الله المسلول ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/661/020_خير القرون 19 ｜ سيف الله المسلول ｜ أحمد السيد.txt",
+   "sha256": "1aeda214bdc8a8b9b0526ca5a8ff0b89d1286e92c3412f04d73492fbcfc0547d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-661/020.txt",
+   "sha256": "5bfe026e59984dd095c042123985bcc4a29e06cc1557e99c63b81da37632977e",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

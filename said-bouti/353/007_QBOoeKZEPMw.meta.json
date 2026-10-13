@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:QBOoeKZEPMw",
+ "vid": "QBOoeKZEPMw",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--353",
+ "n": 7,
+ "n_src": "mutfile",
+ "title": "6 - الآداب الاجتماعية في القرآن الكريم آداب الدخول للبيوت",
+ "title_src": "filename",
+ "sha256": "8c84d7b629eb74e2662f59f99836d5da2a9a9d6def85e0d3dcbe29e6ac1f33c8",
+ "nh": "4d68f9b753d0aad6cc89db9e7abef85bf563af986b79b05f776a44bda8f7a25b",
+ "chars": 11898,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/353/007_6 - الآداب الاجتماعية في القرآن الكريم  آداب الدخول للبيوت.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/353/007_6 - الآداب الاجتماعية في القرآن الكريم  آداب الدخول للبيوت.txt",
+   "sha256": "8c84d7b629eb74e2662f59f99836d5da2a9a9d6def85e0d3dcbe29e6ac1f33c8",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/rihab/007_6 - الآداب الاجتماعية في القرآن الكريم  آداب الدخول للبيوت.txt",
+   "sha256": "8c84d7b629eb74e2662f59f99836d5da2a9a9d6def85e0d3dcbe29e6ac1f33c8",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-353/007_6 - الآداب الاجتماعية في القرآن الكريم  آداب الدخول للبيوت.txt",
+   "sha256": "8c84d7b629eb74e2662f59f99836d5da2a9a9d6def85e0d3dcbe29e6ac1f33c8",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-353/007.txt",
+   "sha256": "13ce633d63ce04c5041422f67200e2eafefc599deca217c197f9ace97147f847",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

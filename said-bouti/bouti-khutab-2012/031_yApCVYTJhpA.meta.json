@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:yApCVYTJhpA",
+ "vid": "yApCVYTJhpA",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-khutab-2012",
+ "n": 31,
+ "n_src": "trfile",
+ "title": "خطبة الإمام البوطي | لطائف قرآنية",
+ "title_src": "yt_titles",
+ "sha256": "ce5c0a07f73a2a27531186cf730134888f1ffeb0a46de84eac46aea9d6ae1c14",
+ "nh": "0584e402dc15c55315ab73da040b46d971e093eef8098010601a486ed83d7c62",
+ "chars": 11250,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/5o6ab-031/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/5o6ab-031/transcript.txt",
+   "sha256": "ce5c0a07f73a2a27531186cf730134888f1ffeb0a46de84eac46aea9d6ae1c14",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-khutab-2012/31.txt",
+   "sha256": "ce5c0a07f73a2a27531186cf730134888f1ffeb0a46de84eac46aea9d6ae1c14",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:d4PJYbyu8Ac",
+ "vid": "d4PJYbyu8Ac",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-juz30",
+ "n": 6,
+ "n_src": "trfile",
+ "title": "فيديو # ٦٢١ من مقاطع حظر التجول   تدبر سورة عبس # ١  الآيات ١-١٠",
+ "title_src": "yt_titles",
+ "sha256": "1cffdcb791d863bc9ba40b33e203d3aef8feefe6c1a5d57751db618c9cde8dac",
+ "nh": "d1f896656aa9c71f93ad2a73d2a6d5ee2e7a92f80a8918e3948402c51ea9593b",
+ "chars": 21501,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelJuz30-006/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelJuz30-006/transcript.txt",
+   "sha256": "1cffdcb791d863bc9ba40b33e203d3aef8feefe6c1a5d57751db618c9cde8dac",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-juz30/006.txt",
+   "sha256": "1cffdcb791d863bc9ba40b33e203d3aef8feefe6c1a5d57751db618c9cde8dac",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

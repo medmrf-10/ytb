@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:6lQL7fAqnB8",
+ "vid": "6lQL7fAqnB8",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 92,
+ "n_src": "plpos",
+ "title": "#والله_أعلم | الحلقة الكاملة 12 ديسمبر 2015 | حقيقة الخلاف بين السنة والشيعة",
+ "title_src": "yt_titles",
+ "sha256": "65ea1cb012ecaa395f285b738a3ca85484388011cd1fc5de52d8a222343e044b",
+ "nh": "e2b86b90177b3e19acd02a9793811e2d697442072f00aada04a2cd6dc6ca07ec",
+ "chars": 29770,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/092_#والله_أعلم ｜ الحلقة الكاملة 12 ديسمبر 2015 ｜ حقيقة الخلاف بين السنة والشيعة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/092_#والله_أعلم ｜ الحلقة الكاملة 12 ديسمبر 2015 ｜ حقيقة الخلاف بين السنة والشيعة.txt",
+   "sha256": "65ea1cb012ecaa395f285b738a3ca85484388011cd1fc5de52d8a222343e044b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/092_#والله_أعلم ｜ الحلقة الكاملة 12 ديسمبر 2015 ｜ حقيقة الخلاف بين السنة والشيعة.txt",
+   "sha256": "65ea1cb012ecaa395f285b738a3ca85484388011cd1fc5de52d8a222343e044b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/092.txt",
+   "sha256": "cd2b52fb962f2eea4a752be29aaf838992edb80f5e4d0fac5b73b962f44349c0",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

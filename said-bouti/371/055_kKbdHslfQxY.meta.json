@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:kKbdHslfQxY",
+ "vid": "kKbdHslfQxY",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--371",
+ "n": 55,
+ "n_src": "plpos",
+ "title": "55- علوم القرآن الكريم | دراسات تطبيقية في المبادئ والإنسانيات (وَلاَ تَمْشِ فِي الأَرْضِ مَرَحاً)",
+ "title_src": "yt_titles",
+ "sha256": "ba828a5cfdc1210256e84150115b8c38f80805f66d289cb43c12bf951fc62b07",
+ "nh": "7fe6bcffd32af299f9d398a1a9e455cc8d610ebcd7a55d3316c879b295e33dc1",
+ "chars": 26103,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/371/055_55- علوم القرآن الكريم ｜ دراسات تطبيقية في المبادئ والإنسانيات (وَلاَ تَمْشِ فِي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/371/055_55- علوم القرآن الكريم ｜ دراسات تطبيقية في المبادئ والإنسانيات (وَلاَ تَمْشِ فِي.txt",
+   "sha256": "ba828a5cfdc1210256e84150115b8c38f80805f66d289cb43c12bf951fc62b07",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/3oloumEl9or1n-055/transcript.txt",
+   "sha256": "6882741aa9767f026bd0e8603cd388dc982cedf30c6b22eee8a989f1a8b1aded",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-ulum-quran/55.txt",
+   "sha256": "6882741aa9767f026bd0e8603cd388dc982cedf30c6b22eee8a989f1a8b1aded",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

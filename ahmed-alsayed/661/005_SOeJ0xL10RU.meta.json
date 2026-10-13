@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:SOeJ0xL10RU",
+ "vid": "SOeJ0xL10RU",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--661",
+ "n": 5,
+ "n_src": "mutfile",
+ "title": "خير القرون 04 ｜ الشهداء السابقون ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "5b71f4d0a2b18d7359ee827508720713fb87602c695742033dcba8c637157592",
+ "nh": "0a1aee8235e2cee7ef2106ace960459969d9faf59c8ee9b1e77f35e4eac88686",
+ "chars": 25011,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/661/005_خير القرون 04 ｜ الشهداء السابقون ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/661/005_خير القرون 04 ｜ الشهداء السابقون ｜ أحمد السيد.txt",
+   "sha256": "5b71f4d0a2b18d7359ee827508720713fb87602c695742033dcba8c637157592",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-661/005.txt",
+   "sha256": "8a0dec926f3d77d3e995e4c125695d85033b855ae267bafc46973808fe4493bb",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

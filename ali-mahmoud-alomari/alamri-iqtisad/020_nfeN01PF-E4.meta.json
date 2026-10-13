@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:nfeN01PF-E4",
+ "vid": "nfeN01PF-E4",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+ "n": 20,
+ "n_src": "trfile",
+ "title": "الدرس العشرون_ القطب الثاني _ صفة الإرادة",
+ "title_src": "yt_titles",
+ "sha256": "1f2c99e9c61ad619af750049c4a627465b2abd3df80d8c28b02755b272e545a3",
+ "nh": "bf608e54b0af93e9860270e87e4029e246499d6967ddddc10849a34b4a42f359",
+ "chars": 30968,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriIqtisad-020/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriIqtisad-020/transcript.txt",
+   "sha256": "1f2c99e9c61ad619af750049c4a627465b2abd3df80d8c28b02755b272e545a3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-20_AlAmri.txt",
+   "sha256": "1f2c99e9c61ad619af750049c4a627465b2abd3df80d8c28b02755b272e545a3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-iqtisad/20.txt",
+   "sha256": "1f2c99e9c61ad619af750049c4a627465b2abd3df80d8c28b02755b272e545a3",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

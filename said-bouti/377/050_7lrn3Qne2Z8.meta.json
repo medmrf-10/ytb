@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:7lrn3Qne2Z8",
+ "vid": "7lrn3Qne2Z8",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--377",
+ "n": 50,
+ "n_src": "plpos",
+ "title": "44- كبرى اليقينيات الكونية | الردة وأسبابها",
+ "title_src": "yt_titles",
+ "sha256": "741310a1e665db0fbd9af64988ac3281b1a9fbe02d44d0a60613ebd5027b4e1c",
+ "nh": "31982120760aa0b030ef6b81345e9e8ed51883c5f6da462c098b089636d74176",
+ "chars": 21140,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/377/050_44- كبرى اليقينيات الكونية ｜ الردة وأسبابها.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/377/050_44- كبرى اليقينيات الكونية ｜ الردة وأسبابها.txt",
+   "sha256": "741310a1e665db0fbd9af64988ac3281b1a9fbe02d44d0a60613ebd5027b4e1c",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/kobraElya9inyat-050/transcript.txt",
+   "sha256": "da959ab7e54aa9478dc3f13f0a7aa51e07d8ffc961078f17d8309c5184e2a08a",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/50.txt",
+   "sha256": "da959ab7e54aa9478dc3f13f0a7aa51e07d8ffc961078f17d8309c5184e2a08a",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/377/49.txt",
+   "sha256": "741310a1e665db0fbd9af64988ac3281b1a9fbe02d44d0a60613ebd5027b4e1c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

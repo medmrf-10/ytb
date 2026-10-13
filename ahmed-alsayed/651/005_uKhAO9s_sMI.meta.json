@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:uKhAO9s_sMI",
+ "vid": "uKhAO9s_sMI",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--651",
+ "n": 5,
+ "n_src": "mutfile",
+ "title": "ثم جئت على قدر يا موسى ٠٢ ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "84d860e86e6f26264c38c0702c6dd0c68f827d5f0f4804bac60cc7b9d9ed6f57",
+ "nh": "9afafc73fbcb4c22aa2f44648a81351e86223376973e353f93146e27b2a150ff",
+ "chars": 18110,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/651/005_ثم جئت على قدر يا موسى ٠٢ ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/651/005_ثم جئت على قدر يا موسى ٠٢ ｜ أحمد السيد.txt",
+   "sha256": "84d860e86e6f26264c38c0702c6dd0c68f827d5f0f4804bac60cc7b9d9ed6f57",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/siyarWa3ibar-005/transcript.txt",
+   "sha256": "ddd42d5fd004ba53be194a218ff8fa242fca9006f579f373be49ba41ee5cf54f",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-651/005.txt",
+   "sha256": "ddd42d5fd004ba53be194a218ff8fa242fca9006f579f373be49ba41ee5cf54f",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

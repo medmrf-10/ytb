@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:Yc3oS-2QAVE",
+ "vid": "Yc3oS-2QAVE",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--656",
+ "n": 37,
+ "n_src": "mutfile",
+ "title": "رياض الصالحين 37 ｜ باب في النهي عن البدع ومحدثات الأمور ｜ أنوار السنة المحمدية ｜",
+ "title_src": "filename",
+ "sha256": "74c5ae667c12d5b8c0611a1fe6686ff8bc930a372332a425e6bcf18c6d6335ac",
+ "nh": "c50bb3bbaa4efccf8c4ad7040536454695a45d2ed838d5bc74067de93f6411bf",
+ "chars": 38887,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/656/037_رياض الصالحين 37 ｜ باب في النهي عن البدع ومحدثات الأمور ｜ أنوار السنة المحمدية ｜.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/656/037_رياض الصالحين 37 ｜ باب في النهي عن البدع ومحدثات الأمور ｜ أنوار السنة المحمدية ｜.txt",
+   "sha256": "74c5ae667c12d5b8c0611a1fe6686ff8bc930a372332a425e6bcf18c6d6335ac",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/riyadElsali7in-037/transcript.txt",
+   "sha256": "c40b31890f8ea2309e197534900123c56eec33cd70d58dc467cfdff210ceec4d",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-656/037.txt",
+   "sha256": "c40b31890f8ea2309e197534900123c56eec33cd70d58dc467cfdff210ceec4d",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

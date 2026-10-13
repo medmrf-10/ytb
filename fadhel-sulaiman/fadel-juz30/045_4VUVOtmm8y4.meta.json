@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:4VUVOtmm8y4",
+ "vid": "4VUVOtmm8y4",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-juz30",
+ "n": 45,
+ "n_src": "trfile",
+ "title": "فيديو # ٦٦٠ من مقاطع حظر التجول   الحلقة الثانية من تدبر سورة الإخلاص",
+ "title_src": "yt_titles",
+ "sha256": "da68aa44b91b0102e42f136507b5a5ba108c7dbaa76111234edde6304dae54c3",
+ "nh": "032cbb4989708627d0cb65868a86ae840ea6b171d872bfda596a7b63d4a88269",
+ "chars": 15632,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelJuz30-045/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelJuz30-045/transcript.txt",
+   "sha256": "da68aa44b91b0102e42f136507b5a5ba108c7dbaa76111234edde6304dae54c3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-juz30/045.txt",
+   "sha256": "da68aa44b91b0102e42f136507b5a5ba108c7dbaa76111234edde6304dae54c3",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

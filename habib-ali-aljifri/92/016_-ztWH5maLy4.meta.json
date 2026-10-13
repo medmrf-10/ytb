@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:-ztWH5maLy4",
+ "vid": "-ztWH5maLy4",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--92",
+ "n": 16,
+ "n_src": "read",
+ "title": "10： الحرية في السياق السياسي - عمرو حمزاوي ｜ آمنت بالله ｜ الحبيب علي الجفري",
+ "title_src": "filename",
+ "sha256": "01f0e4ed9fd152fe6a4112f49ca92118bcd8f7cc02aa041400095380c59430ac",
+ "nh": "f21062bdce43371b78c1a95c3404c3adfb3fb0bca179f58cb43882f0d95b8a41",
+ "chars": 15612,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/92/016_10： الحرية في السياق السياسي - عمرو حمزاوي ｜ آمنت بالله ｜  الحبيب علي الجفري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/92/016_10： الحرية في السياق السياسي - عمرو حمزاوي ｜ آمنت بالله ｜  الحبيب علي الجفري.txt",
+   "sha256": "01f0e4ed9fd152fe6a4112f49ca92118bcd8f7cc02aa041400095380c59430ac",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/92/6.txt",
+   "sha256": "01f0e4ed9fd152fe6a4112f49ca92118bcd8f7cc02aa041400095380c59430ac",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

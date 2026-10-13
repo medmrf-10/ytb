@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:sCv0DE_BCew",
+ "vid": "sCv0DE_BCew",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-414",
+ "n": 18,
+ "n_src": "trfile",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 18",
+ "title_src": "filename",
+ "sha256": "d579783044227cf7273b643dfcfb043194fcb72c7125368fc24ea47a078fa8d1",
+ "nh": "d509b1200feedbc2cbba40f2a41b649b18e5af5ff4ed9ad2d7becac936fa5fef",
+ "chars": 20802,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/018_تفسير القرآن الكريم للدكتور البوطي - الدرس 18.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/018_تفسير القرآن الكريم للدكتور البوطي - الدرس 18.txt",
+   "sha256": "d579783044227cf7273b643dfcfb043194fcb72c7125368fc24ea47a078fa8d1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/018.txt",
+   "sha256": "b296be1330cf1d0a526029236516e7727f8dd1dd50ecb426557b07561f30b441",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

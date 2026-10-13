@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:YykSsqOrcTs",
+ "vid": "YykSsqOrcTs",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--787",
+ "n": 3,
+ "n_src": "read",
+ "title": "(3) الكلام على الحرف ⧸ دورة النحو المستوى الثاني⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "a3273e571dd8ad357144d6960e18f2a93eeed9ad008cf32b1f5dfd285f62bff3",
+ "nh": "cd12075baede6f333f547ac9dc31beb89b3988bce5ca9e43b34f439c45d63816",
+ "chars": 22913,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/787/003_(3) الكلام على الحرف ⧸ دورة النحو المستوى الثاني⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/787/003_(3) الكلام على الحرف ⧸ دورة النحو المستوى الثاني⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "a3273e571dd8ad357144d6960e18f2a93eeed9ad008cf32b1f5dfd285f62bff3",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/787/2.txt",
+   "sha256": "a3273e571dd8ad357144d6960e18f2a93eeed9ad008cf32b1f5dfd285f62bff3",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

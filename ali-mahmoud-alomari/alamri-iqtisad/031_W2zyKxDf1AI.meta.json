@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:W2zyKxDf1AI",
+ "vid": "W2zyKxDf1AI",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+ "n": 31,
+ "n_src": "trfile",
+ "title": "الدَّرس الواحد والثلاثون_ نهاية القطب الثَّاني.",
+ "title_src": "yt_titles",
+ "sha256": "7e7f8b499ea3ac5abf7722ec298dd68a2cd142ebf924cb5153f809f3086368fa",
+ "nh": "1183614b2ff8de27705157547d13db0cae230b020128da8b4b4c7974af4f0bbe",
+ "chars": 48291,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriIqtisad-031/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriIqtisad-031/transcript.txt",
+   "sha256": "7e7f8b499ea3ac5abf7722ec298dd68a2cd142ebf924cb5153f809f3086368fa",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-31_AlAmri.txt",
+   "sha256": "7e7f8b499ea3ac5abf7722ec298dd68a2cd142ebf924cb5153f809f3086368fa",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-iqtisad/31.txt",
+   "sha256": "7e7f8b499ea3ac5abf7722ec298dd68a2cd142ebf924cb5153f809f3086368fa",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

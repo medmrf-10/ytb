@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:IrxMj4I-dnI",
+ "vid": "IrxMj4I-dnI",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 4,
+ "n_src": "trfile",
+ "title": "الوقفة الثانية مع شحرور/ د.سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "7a2bb0efa0ba71d1df36b07c28b61d2c95172eb6cdae659b89b743578785075f",
+ "nh": "0483529745a726387c675d9410bd25ba335c038b08a74e70c78b0d2c3356d939",
+ "chars": 17142,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-004/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-004/transcript.txt",
+   "sha256": "7a2bb0efa0ba71d1df36b07c28b61d2c95172eb6cdae659b89b743578785075f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/004_IrxMj4I-dnI.txt",
+   "sha256": "7a2bb0efa0ba71d1df36b07c28b61d2c95172eb6cdae659b89b743578785075f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/004.txt",
+   "sha256": "7a2bb0efa0ba71d1df36b07c28b61d2c95172eb6cdae659b89b743578785075f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

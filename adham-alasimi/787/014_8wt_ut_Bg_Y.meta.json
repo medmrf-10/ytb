@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:8wt_ut_Bg_Y",
+ "vid": "8wt_ut_Bg_Y",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--787",
+ "n": 14,
+ "n_src": "read",
+ "title": "(14) إضمار أن ⧸ دورة النحو المستوى الثاني⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "9e5bd9c7e482cf054368eb72348b65046cd3ed661f49bdc4b0131114f46e1c7e",
+ "nh": "9e9239eca9cdb466ca32df85b7027e89aa2b7d31df05c2b857d2ff6abbfa7461",
+ "chars": 19583,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/787/014_(14) إضمار أن ⧸ دورة النحو المستوى الثاني⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/787/014_(14) إضمار أن ⧸ دورة النحو المستوى الثاني⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "9e5bd9c7e482cf054368eb72348b65046cd3ed661f49bdc4b0131114f46e1c7e",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/787/13.txt",
+   "sha256": "9e5bd9c7e482cf054368eb72348b65046cd3ed661f49bdc4b0131114f46e1c7e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

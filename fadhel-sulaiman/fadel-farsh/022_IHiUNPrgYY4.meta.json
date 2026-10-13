@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:IHiUNPrgYY4",
+ "vid": "IHiUNPrgYY4",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-farsh",
+ "n": 22,
+ "n_src": "trfile",
+ "title": "تدبر فرش القراءات-الحلقة 22 - وَيَقْتُلُونَ النَّبِيِّينَ بِغَيْرِ حَقٍّ وَيَقْتُلُونَ الَّذِينَ..",
+ "title_src": "yt_titles",
+ "sha256": "7d0828d054ad6fa5e82f94e4aae9b5a7632743f527b6119136bd543c0c3936e4",
+ "nh": "654c67ff408d7f6d03da8d294f937ddf8f432efbc4397b2ee2e48ea69d32b387",
+ "chars": 12830,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelFarsh-022/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelFarsh-022/transcript.txt",
+   "sha256": "7d0828d054ad6fa5e82f94e4aae9b5a7632743f527b6119136bd543c0c3936e4",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-farsh/022.txt",
+   "sha256": "7d0828d054ad6fa5e82f94e4aae9b5a7632743f527b6119136bd543c0c3936e4",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

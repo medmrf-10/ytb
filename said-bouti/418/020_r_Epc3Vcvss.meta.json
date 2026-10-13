@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:r_Epc3Vcvss",
+ "vid": "r_Epc3Vcvss",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--418",
+ "n": 20,
+ "n_src": "plpos",
+ "title": "20- الحب في القرآن | دور الحب في أعمال الدعوة والتعريف بالإسلام (1)",
+ "title_src": "yt_titles",
+ "sha256": "fc7f7fe9d79c1e81842e23babb3c39eb67ee4641dcbe5d4d320488236a6e07d6",
+ "nh": "25afa274198050a52590946cfae585cb8c5fa09116d6d148bdd277b0cb7cf20c",
+ "chars": 19184,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/418/020_20- الحب في القرآن ｜ دور الحب في أعمال الدعوة والتعريف بالإسلام (1).txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/418/020_20- الحب في القرآن ｜ دور الحب في أعمال الدعوة والتعريف بالإسلام (1).txt",
+   "sha256": "fc7f7fe9d79c1e81842e23babb3c39eb67ee4641dcbe5d4d320488236a6e07d6",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/al7obFiEl9or1n-020/transcript.txt",
+   "sha256": "7fb1f6a93145aa2141726a5968838a914a38c2c3a8bdcf2a117e548e36cf8e4e",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-hubb/20.txt",
+   "sha256": "7fb1f6a93145aa2141726a5968838a914a38c2c3a8bdcf2a117e548e36cf8e4e",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

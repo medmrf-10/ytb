@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:ft13Yfs4SUU",
+ "vid": "ft13Yfs4SUU",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--345",
+ "n": 21,
+ "n_src": "plpos",
+ "title": "21- مشاهد وعبر من القرآن والسنة | غزوة حنين",
+ "title_src": "yt_titles",
+ "sha256": "890f82811ab57227a2c511155a99859e998de781640747341617777884a331fc",
+ "nh": "551a533a712d88e6f27c8df7ad693d63acb673183b2c67703c7ec767e6f1082c",
+ "chars": 13306,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/345/021_21- مشاهد وعبر من القرآن والسنة ｜ غزوة حنين.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/345/021_21- مشاهد وعبر من القرآن والسنة ｜ غزوة حنين.txt",
+   "sha256": "890f82811ab57227a2c511155a99859e998de781640747341617777884a331fc",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-mashahid/21.txt",
+   "sha256": "45e719b780bb35474c74cba4e6a87ebd8fc1759a610f9c8266cfdbf4fe4f7ec5",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/345/20.txt",
+   "sha256": "890f82811ab57227a2c511155a99859e998de781640747341617777884a331fc",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

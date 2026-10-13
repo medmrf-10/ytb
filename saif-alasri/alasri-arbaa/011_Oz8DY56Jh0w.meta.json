@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:Oz8DY56Jh0w",
+ "vid": "Oz8DY56Jh0w",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 11,
+ "n_src": "trfile",
+ "title": "عقيدة الحافظ ابن كثير من نصوصه. د. سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "f52acb87d3df9786631cd7a8bfb45307f0064c3d9a2ebe45e0b062b50e72d6c7",
+ "nh": "ff9bdb3e6cbe4eddc95c69bdfb65e381f24d3c2b53b338c21cf2afba39c7f92a",
+ "chars": 17318,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-011/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-011/transcript.txt",
+   "sha256": "f52acb87d3df9786631cd7a8bfb45307f0064c3d9a2ebe45e0b062b50e72d6c7",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/011_Oz8DY56Jh0w.txt",
+   "sha256": "f52acb87d3df9786631cd7a8bfb45307f0064c3d9a2ebe45e0b062b50e72d6c7",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/011.txt",
+   "sha256": "f52acb87d3df9786631cd7a8bfb45307f0064c3d9a2ebe45e0b062b50e72d6c7",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

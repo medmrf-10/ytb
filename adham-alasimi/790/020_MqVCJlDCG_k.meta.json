@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:MqVCJlDCG_k",
+ "vid": "MqVCJlDCG_k",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--790",
+ "n": 20,
+ "n_src": "read",
+ "title": "شبهات حول سؤال القبر⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "733e7e8f17d2dab6d3ac1593a721b578a59382b56950af7e9d98964d4c41992f",
+ "nh": "a8685c9470dc081580986e5ba2e1b79112315ea77124c850420ddd6608867da0",
+ "chars": 12570,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/790/020_شبهات حول سؤال القبر⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/790/020_شبهات حول سؤال القبر⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "733e7e8f17d2dab6d3ac1593a721b578a59382b56950af7e9d98964d4c41992f",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/790/19.txt",
+   "sha256": "733e7e8f17d2dab6d3ac1593a721b578a59382b56950af7e9d98964d4c41992f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

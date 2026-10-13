@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:yIvr2FZ9NFU",
+ "vid": "yIvr2FZ9NFU",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-414",
+ "n": 143,
+ "n_src": "read",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 143",
+ "title_src": "filename",
+ "sha256": "87a72cd1b85646760f4986ffb606159b56bf28d3978e46190d82aa14440ca0d5",
+ "nh": "a01fb4fe907a73c7656c44550ffe73116f2f7411de0096b69103f6d53a00bb5d",
+ "chars": 27237,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/143_تفسير القرآن الكريم للدكتور البوطي - الدرس 143.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/143_تفسير القرآن الكريم للدكتور البوطي - الدرس 143.txt",
+   "sha256": "87a72cd1b85646760f4986ffb606159b56bf28d3978e46190d82aa14440ca0d5",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/143.txt",
+   "sha256": "528b647a68883f63fb70813e00046a2e9dd5373b5ac25f3bdeae7da3cf78e0f1",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:_9yuMdpAhFg",
+ "vid": "_9yuMdpAhFg",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--783",
+ "n": 14,
+ "n_src": "read",
+ "title": "(14) الدرس الرابع عشر ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "8b0c0555dec63478f13afac4122faa70171705d940b63fb9909fb542a77da127",
+ "nh": "a16aa656de2f92adba5be140b3b0bfe0e74d95c11d93e0fa2cd8c9c5fe3278ec",
+ "chars": 20729,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/783/014_(14) الدرس الرابع عشر ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/783/014_(14) الدرس الرابع عشر ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "8b0c0555dec63478f13afac4122faa70171705d940b63fb9909fb542a77da127",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/783/13.txt",
+   "sha256": "8b0c0555dec63478f13afac4122faa70171705d940b63fb9909fb542a77da127",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

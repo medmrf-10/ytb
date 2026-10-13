@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:oAX6ylTz9G4",
+ "vid": "oAX6ylTz9G4",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--339",
+ "n": 7,
+ "n_src": "mutfile",
+ "title": "6 - الكآبة .. أسباب وعلاج العلامة البوطي السبب الرابع : الخوف من الموت",
+ "title_src": "filename",
+ "sha256": "27c8d5bbad994267b655a30c30f4a243153d12eb76c6e8a7fd31389b1cb8c0c2",
+ "nh": "e5d0c843e0a0bd9c1c073aed83ae1cb0aae1cbb2906b01a33762f800e8eddcc2",
+ "chars": 11271,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/339/007_6 - الكآبة .. أسباب وعلاج  العلامة البوطي  السبب الرابع : الخوف من الموت.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/339/007_6 - الكآبة .. أسباب وعلاج  العلامة البوطي  السبب الرابع : الخوف من الموت.txt",
+   "sha256": "27c8d5bbad994267b655a30c30f4a243153d12eb76c6e8a7fd31389b1cb8c0c2",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/rihab/007_6 - الكآبة .. أسباب وعلاج  العلامة البوطي  السبب الرابع : الخوف من الموت.txt",
+   "sha256": "27c8d5bbad994267b655a30c30f4a243153d12eb76c6e8a7fd31389b1cb8c0c2",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-339/007.txt",
+   "sha256": "636a81580750b51f2eeebdd95ffb8527d4afa2c1f669696b53fbb260226bcd22",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

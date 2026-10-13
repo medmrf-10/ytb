@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:m7kXL8ewA3E",
+ "vid": "m7kXL8ewA3E",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--796",
+ "n": 10,
+ "n_src": "read",
+ "title": "(10) جمع الألف والتاء + الممنوع من الصرف ⧸ قطر الندى ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "64e30a79e03cd0fb0bdef22db08bd338661153ec27b04406655d1fd557c3b49e",
+ "nh": "43b3deb369533ed0a5a1ec4c62df68a6d022a8895ae54518d41b6e8eb354fe22",
+ "chars": 25095,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/796/010_(10) جمع الألف والتاء + الممنوع من الصرف ⧸ قطر الندى ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/796/010_(10) جمع الألف والتاء + الممنوع من الصرف ⧸ قطر الندى ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "64e30a79e03cd0fb0bdef22db08bd338661153ec27b04406655d1fd557c3b49e",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/796/9.txt",
+   "sha256": "64e30a79e03cd0fb0bdef22db08bd338661153ec27b04406655d1fd557c3b49e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

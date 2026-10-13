@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:OYvnegp4CTE",
+ "vid": "OYvnegp4CTE",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--117",
+ "n": 25,
+ "n_src": "read",
+ "title": "حلقة 24 - التكفير السياسي - سلسلة الإنسانية قبل التدين",
+ "title_src": "filename",
+ "sha256": "c71959e68f5c9bf0c1c38dc8da2c1d9b8e0091b44416baf9299b01c797460c39",
+ "nh": "8d9cf88e9207366028d279ae304090ef46db4d04007aee7a9111a4276bc9ecde",
+ "chars": 1656,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/117/025_حلقة 24 - التكفير السياسي - سلسلة الإنسانية قبل التدين.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/117/025_حلقة 24 - التكفير السياسي - سلسلة الإنسانية قبل التدين.txt",
+   "sha256": "c71959e68f5c9bf0c1c38dc8da2c1d9b8e0091b44416baf9299b01c797460c39",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/insaniyya/37.txt",
+   "sha256": "c71959e68f5c9bf0c1c38dc8da2c1d9b8e0091b44416baf9299b01c797460c39",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/112/37.txt",
+   "sha256": "c71959e68f5c9bf0c1c38dc8da2c1d9b8e0091b44416baf9299b01c797460c39",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-ali-aljifri--112",
+  "k:117"
+ ]
+}

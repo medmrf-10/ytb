@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:W1IOlhlix80",
+ "vid": "W1IOlhlix80",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--369",
+ "n": 16,
+ "n_src": "plpos",
+ "title": "16- يغالطونك إذ يقولون : القرآن يغني عن السنة",
+ "title_src": "yt_titles",
+ "sha256": "6be069f4e0f20651ce694f4f040079b07f5d5ac1c40d648b3617e0c1ed776356",
+ "nh": "74cc760bd567e439b0d8935485747f82166cfc059c470c5362a7f1db9e05c8d3",
+ "chars": 23717,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/369/016_16- يغالطونك إذ يقولون ： القرآن يغني عن السنة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/369/016_16- يغالطونك إذ يقولون ： القرآن يغني عن السنة.txt",
+   "sha256": "6be069f4e0f20651ce694f4f040079b07f5d5ac1c40d648b3617e0c1ed776356",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/yoghalitonak-016/transcript.txt",
+   "sha256": "a27519850a4132d5624df780bd98568a9f259374aa224cf687de2c1f970cb1f5",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-yaghalitun/16.txt",
+   "sha256": "a27519850a4132d5624df780bd98568a9f259374aa224cf687de2c1f970cb1f5",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/369/15.txt",
+   "sha256": "6be069f4e0f20651ce694f4f040079b07f5d5ac1c40d648b3617e0c1ed776356",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

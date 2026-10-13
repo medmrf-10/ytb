@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:L_iLur-QWEk",
+ "vid": "L_iLur-QWEk",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 27,
+ "n_src": "plpos",
+ "title": "المتشددون | حـ 27 | مفهوم التمكين | أ.د علي جمعة",
+ "title_src": "yt_titles",
+ "sha256": "cd78538866647f6669fb16a945dfc589c59baf1599ca00d2322935f9c9d67977",
+ "nh": "625463b07beeeda0b70788e19dade12e88fe8e6b1e46176053df1582a5609b47",
+ "chars": 14989,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/027_المتشددون ｜ حـ 27 ｜ مفهوم التمكين ｜ أ.د علي جمعة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/027_المتشددون ｜ حـ 27 ｜ مفهوم التمكين ｜ أ.د علي جمعة.txt",
+   "sha256": "cd78538866647f6669fb16a945dfc589c59baf1599ca00d2322935f9c9d67977",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/027_المتشددون ｜ حـ 27 ｜ مفهوم التمكين ｜ أ.د علي جمعة.txt",
+   "sha256": "cd78538866647f6669fb16a945dfc589c59baf1599ca00d2322935f9c9d67977",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/027.txt",
+   "sha256": "dca020160f966f9f148a711b5ad8a97a67c4a1a0266c9258265cbc0abc236616",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

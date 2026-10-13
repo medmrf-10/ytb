@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:0ViWCGXoSw4",
+ "vid": "0ViWCGXoSw4",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--790",
+ "n": 12,
+ "n_src": "read",
+ "title": "حُفاة عُراة⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "c10413c03970830d070e01a5c25088bc7c3e75af0e969ce37b3e5ca0cbbe907f",
+ "nh": "820532c95b45b43f595dec812592569ce4f35f1f6526a9f5a184a91be4823f5a",
+ "chars": 12100,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/790/012_حُفاة عُراة⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/790/012_حُفاة عُراة⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "c10413c03970830d070e01a5c25088bc7c3e75af0e969ce37b3e5ca0cbbe907f",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/790/11.txt",
+   "sha256": "c10413c03970830d070e01a5c25088bc7c3e75af0e969ce37b3e5ca0cbbe907f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

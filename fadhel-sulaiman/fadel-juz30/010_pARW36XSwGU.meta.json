@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:pARW36XSwGU",
+ "vid": "pARW36XSwGU",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-juz30",
+ "n": 10,
+ "n_src": "trfile",
+ "title": "مقطع ٦٢٥ من مقاطع حظر التجول تدبر سورة الانفطار كاملة",
+ "title_src": "yt_titles",
+ "sha256": "8380f8e382be0c068a74e1be95c47a55eb77e663a354717ec47d92a7f39939e0",
+ "nh": "3eddd0946e666c601b56867b349236715984ba2464a8d4b9c5c4965bfec7fbfc",
+ "chars": 21991,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelJuz30-010/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelJuz30-010/transcript.txt",
+   "sha256": "8380f8e382be0c068a74e1be95c47a55eb77e663a354717ec47d92a7f39939e0",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-juz30/010.txt",
+   "sha256": "8380f8e382be0c068a74e1be95c47a55eb77e663a354717ec47d92a7f39939e0",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

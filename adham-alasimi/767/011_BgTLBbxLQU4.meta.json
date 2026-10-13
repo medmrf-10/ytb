@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:BgTLBbxLQU4",
+ "vid": "BgTLBbxLQU4",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--767",
+ "n": 11,
+ "n_src": "read",
+ "title": "(11) أدوات الجزم ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "982eeee14a32432e29e642d56dcb4009b2fb557e73f50c5c78f577dcc3d78ee3",
+ "nh": "a1e7c6940d778de8030bfb05d6d84a47008a962c19ffb58cf61decbe7c01af71",
+ "chars": 11863,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/767/011_(11) أدوات الجزم ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/767/011_(11) أدوات الجزم ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "982eeee14a32432e29e642d56dcb4009b2fb557e73f50c5c78f577dcc3d78ee3",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/767/10.txt",
+   "sha256": "982eeee14a32432e29e642d56dcb4009b2fb557e73f50c5c78f577dcc3d78ee3",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

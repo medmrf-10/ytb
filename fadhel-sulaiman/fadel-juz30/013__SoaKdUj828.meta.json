@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:_SoaKdUj828",
+ "vid": "_SoaKdUj828",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-juz30",
+ "n": 13,
+ "n_src": "trfile",
+ "title": "مقطع ٦٢٨ من مقاطع حظر التجول  تدبر سورة الانشقاق كاملة",
+ "title_src": "yt_titles",
+ "sha256": "fb81b93d555404f2fe835d6170f15dbaa0e9ffa8f714d9b4659f016d41f8e352",
+ "nh": "e8c0234fdc0f6b4635cc402d9c111bc5e620ed8ea11665b8cd4378f945673d38",
+ "chars": 21503,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelJuz30-013/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelJuz30-013/transcript.txt",
+   "sha256": "fb81b93d555404f2fe835d6170f15dbaa0e9ffa8f714d9b4659f016d41f8e352",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-juz30/013.txt",
+   "sha256": "fb81b93d555404f2fe835d6170f15dbaa0e9ffa8f714d9b4659f016d41f8e352",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

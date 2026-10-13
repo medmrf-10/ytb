@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:d0EBXKc64wI",
+ "vid": "d0EBXKc64wI",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--99",
+ "n": 12,
+ "n_src": "read",
+ "title": "11： الدين وأخلاقيات التعامل ｜ #الشجرة الطيبة ｜ #الحبيب علي الجفري",
+ "title_src": "filename",
+ "sha256": "7f2ac10f47b978aa866e8fa2017e8bcc584d51dcd4e280b4b6b8bd6557523da8",
+ "nh": "4dab41d27c54cc40cdebe506f2da16a7ef84056d159ad93468373217e4471553",
+ "chars": 22564,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/99/012_11： الدين وأخلاقيات التعامل ｜ #الشجرة_الطيبة ｜ #الحبيب_علي_الجفري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/99/012_11： الدين وأخلاقيات التعامل ｜ #الشجرة_الطيبة ｜ #الحبيب_علي_الجفري.txt",
+   "sha256": "7f2ac10f47b978aa866e8fa2017e8bcc584d51dcd4e280b4b6b8bd6557523da8",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/99/6.txt",
+   "sha256": "7f2ac10f47b978aa866e8fa2017e8bcc584d51dcd4e280b4b6b8bd6557523da8",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:KuEoinDIIOM",
+ "vid": "KuEoinDIIOM",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 107,
+ "n_src": "read",
+ "title": "الحكم العطائية للعلامة البوطي ｜ الدرس 298 - المناجاة 7 - 12",
+ "title_src": "filename",
+ "sha256": "266f9470ddb6849ecdc1ac41671c5cc263f254273c177d1e4318753d2c566531",
+ "nh": "5b06976e68b4b9f8d767c3b5d5f7316ee22284d566a919fa248d695e7ca2abbe",
+ "chars": 25844,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/107_الحكم العطائية للعلامة البوطي ｜ الدرس 298 - المناجاة 7 - 12.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/107_الحكم العطائية للعلامة البوطي ｜ الدرس 298 - المناجاة 7 - 12.txt",
+   "sha256": "266f9470ddb6849ecdc1ac41671c5cc263f254273c177d1e4318753d2c566531",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/hikam/107_الحكم العطائية للعلامة البوطي ｜ الدرس 298 - المناجاة 7 - 12.txt",
+   "sha256": "266f9470ddb6849ecdc1ac41671c5cc263f254273c177d1e4318753d2c566531",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/107_الحكم العطائية للعلامة البوطي ｜ الدرس 298 - المناجاة 7 - 12.txt",
+   "sha256": "266f9470ddb6849ecdc1ac41671c5cc263f254273c177d1e4318753d2c566531",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/386/20.txt",
+   "sha256": "266f9470ddb6849ecdc1ac41671c5cc263f254273c177d1e4318753d2c566531",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

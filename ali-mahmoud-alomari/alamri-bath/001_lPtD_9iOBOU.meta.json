@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:lPtD_9iOBOU",
+ "vid": "lPtD_9iOBOU",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-bath",
+ "n": 1,
+ "n_src": "trfile",
+ "title": "الدرس 1",
+ "title_src": "filename",
+ "sha256": "8cf704f2d8f838e286543f7a9ba7f6b49b7d856baecd0d8b7300d442edebd446",
+ "nh": "f1f6e51382785e03775300f4589d6078f48a83fcedfb4ab853225405252133f2",
+ "chars": 50123,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriBath-001/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriBath-001/transcript.txt",
+   "sha256": "8cf704f2d8f838e286543f7a9ba7f6b49b7d856baecd0d8b7300d442edebd446",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/bath/bath-01_AlAmri.txt",
+   "sha256": "8cf704f2d8f838e286543f7a9ba7f6b49b7d856baecd0d8b7300d442edebd446",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-bath/01.txt",
+   "sha256": "8cf704f2d8f838e286543f7a9ba7f6b49b7d856baecd0d8b7300d442edebd446",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

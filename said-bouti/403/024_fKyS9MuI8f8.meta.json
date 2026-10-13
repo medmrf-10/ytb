@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:fKyS9MuI8f8",
+ "vid": "fKyS9MuI8f8",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--403",
+ "n": 24,
+ "n_src": "plpos",
+ "title": "22- فقه السيرة النبوية | أسس المجتمع الجديد: كتابة وثيقة بين المسلمين وغيرهم",
+ "title_src": "yt_titles",
+ "sha256": "4a23fe24caf3add5320f6cba246e38584e27b7204fd8c800b580aff91ceb9dc4",
+ "nh": "800f40295c751e57e323b2ea25fc0adf3433c319e3d1c1e5c2d5041ca54b3d93",
+ "chars": 28791,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/403/024_22- فقه السيرة النبوية ｜ أسس المجتمع الجديد： كتابة وثيقة بين المسلمين وغيرهم.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/403/024_22- فقه السيرة النبوية ｜ أسس المجتمع الجديد： كتابة وثيقة بين المسلمين وغيرهم.txt",
+   "sha256": "4a23fe24caf3add5320f6cba246e38584e27b7204fd8c800b580aff91ceb9dc4",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fi9hElsirah-024/transcript.txt",
+   "sha256": "9ebaa6dbbf6a39aefd6a104ad7d5ae36b14fb9b5a1dcde231680e2fc070d11d0",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-sira/24.txt",
+   "sha256": "9ebaa6dbbf6a39aefd6a104ad7d5ae36b14fb9b5a1dcde231680e2fc070d11d0",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/403/23.txt",
+   "sha256": "4a23fe24caf3add5320f6cba246e38584e27b7204fd8c800b580aff91ceb9dc4",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

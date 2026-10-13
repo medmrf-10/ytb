@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:SQNvqaILddA",
+ "vid": "SQNvqaILddA",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--370",
+ "n": 1,
+ "n_src": "plpos",
+ "title": "1- دورة مختصرة في العقيدة | العلامة البوطي | مقدمة في العقيدة",
+ "title_src": "yt_titles",
+ "sha256": "b718444e8d65e941d63a9aaae1a4de9d13af0c4aaf59d995df289d43b40331c0",
+ "nh": "11edd97dca2f3b78ee5faec92b738de113ed3323a89ac0332bc0640db0afa4ad",
+ "chars": 27593,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/370/001_1- دورة مختصرة في العقيدة ｜ العلامة البوطي ｜ مقدمة في العقيدة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/370/001_1- دورة مختصرة في العقيدة ｜ العلامة البوطي ｜ مقدمة في العقيدة.txt",
+   "sha256": "b718444e8d65e941d63a9aaae1a4de9d13af0c4aaf59d995df289d43b40331c0",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/dawraFiEl3a9ida-001/transcript.txt",
+   "sha256": "6b1e1ca23fca84e0deea932331e11f1a23d04d430f01ac654289d59b8dd05af6",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-aqeeda/01.txt",
+   "sha256": "6b1e1ca23fca84e0deea932331e11f1a23d04d430f01ac654289d59b8dd05af6",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/370/0.txt",
+   "sha256": "b718444e8d65e941d63a9aaae1a4de9d13af0c4aaf59d995df289d43b40331c0",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

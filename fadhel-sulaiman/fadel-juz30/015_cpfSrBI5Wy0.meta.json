@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:cpfSrBI5Wy0",
+ "vid": "cpfSrBI5Wy0",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-juz30",
+ "n": 15,
+ "n_src": "trfile",
+ "title": "فيديو # ٦٣٠ من مقاطع حظر التجول  تدبر سورة الطارق كاملة",
+ "title_src": "yt_titles",
+ "sha256": "e1dbf396f650426d6b2c8d95f11c5c42fb69ca306dbcdf59f7c7b7dc071742dc",
+ "nh": "dd10dd4b895ac5c0e74f45636b82c80db2bd3a83f2160fb3b703b47ff656edbf",
+ "chars": 20425,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelJuz30-015/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelJuz30-015/transcript.txt",
+   "sha256": "e1dbf396f650426d6b2c8d95f11c5c42fb69ca306dbcdf59f7c7b7dc071742dc",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-juz30/015.txt",
+   "sha256": "e1dbf396f650426d6b2c8d95f11c5c42fb69ca306dbcdf59f7c7b7dc071742dc",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

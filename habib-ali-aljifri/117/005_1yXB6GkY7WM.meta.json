@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:1yXB6GkY7WM",
+ "vid": "1yXB6GkY7WM",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--117",
+ "n": 5,
+ "n_src": "read",
+ "title": "حلقة 5- الإلحاد والبحث عن الحقيقة - سلسلة الإنسانية قبل التدين subtitled",
+ "title_src": "filename",
+ "sha256": "f923c737c972251810b246d42f7d1c591e82837129da2a1d8f9f4efe7e3acc3f",
+ "nh": "e62e11a11d5d582b996a88693b62ef21e2300a750ba03c650b0f79b19cf03a4e",
+ "chars": 2021,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/117/005_حلقة 5- الإلحاد والبحث عن الحقيقة - سلسلة الإنسانية قبل التدين subtitled.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/117/005_حلقة 5- الإلحاد والبحث عن الحقيقة - سلسلة الإنسانية قبل التدين subtitled.txt",
+   "sha256": "f923c737c972251810b246d42f7d1c591e82837129da2a1d8f9f4efe7e3acc3f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/insaniyya/17.txt",
+   "sha256": "f923c737c972251810b246d42f7d1c591e82837129da2a1d8f9f4efe7e3acc3f",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/112/17.txt",
+   "sha256": "f923c737c972251810b246d42f7d1c591e82837129da2a1d8f9f4efe7e3acc3f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-ali-aljifri--112",
+  "k:117"
+ ]
+}

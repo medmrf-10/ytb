@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:97",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 97,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 29 (صفة التيمم) ｜ الشيخ محمد البردوني",
+ "title_src": "filename",
+ "sha256": "45b350b92bef557829b2e6bc349f2f29db58ed98e5a4fc7db237a86ae4b99048",
+ "nh": "a5ea0436f094a7b7af07432b3e6841d61153ff59e6c4efcf4017a7bff5281487",
+ "chars": 17433,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/097_شرح رسالة ابن ابي زيد ｜ الدرس 29  (صفة التيمم) ｜ الشيخ  محمد البردوني.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/097_شرح رسالة ابن ابي زيد ｜ الدرس 29  (صفة التيمم) ｜ الشيخ  محمد البردوني.txt",
+   "sha256": "45b350b92bef557829b2e6bc349f2f29db58ed98e5a4fc7db237a86ae4b99048",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/29.txt",
+   "sha256": "45b350b92bef557829b2e6bc349f2f29db58ed98e5a4fc7db237a86ae4b99048",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

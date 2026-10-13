@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:P9_-_l1dG4c",
+ "vid": "P9_-_l1dG4c",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--415",
+ "n": 5,
+ "n_src": "mutfile",
+ "title": "4 - التزكية في القرآن الكريم الطريقة المثلى لذكر الله عز وجل",
+ "title_src": "filename",
+ "sha256": "51832a01870916c1a1779e96a575558c1d5f91ccba9ac6b90e4048249661236d",
+ "nh": "1f202909a11daef20298540bb50e47bfbaac83c7ea8d24eff5842d05add0f2c2",
+ "chars": 13805,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/415/005_4 - التزكية في القرآن الكريم  الطريقة المثلى لذكر الله عز وجل.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/415/005_4 - التزكية في القرآن الكريم  الطريقة المثلى لذكر الله عز وجل.txt",
+   "sha256": "51832a01870916c1a1779e96a575558c1d5f91ccba9ac6b90e4048249661236d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tawba/005_4 - التزكية في القرآن الكريم  الطريقة المثلى لذكر الله عز وجل.txt",
+   "sha256": "51832a01870916c1a1779e96a575558c1d5f91ccba9ac6b90e4048249661236d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tazkiya/005_4 - التزكية في القرآن الكريم  الطريقة المثلى لذكر الله عز وجل.txt",
+   "sha256": "51832a01870916c1a1779e96a575558c1d5f91ccba9ac6b90e4048249661236d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-415/004.txt",
+   "sha256": "7ae5c8609b25c3d2fc6326bf343f63cfe835a1fb251042025664619c477b4b57",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

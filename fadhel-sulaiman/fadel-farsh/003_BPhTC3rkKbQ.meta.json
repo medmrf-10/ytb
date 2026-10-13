@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:BPhTC3rkKbQ",
+ "vid": "BPhTC3rkKbQ",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-farsh",
+ "n": 3,
+ "n_src": "trfile",
+ "title": "تدبر فرش القراءات-الحلقة الثالثة-أئنك لأنت يوسف #فاضل_سليمان",
+ "title_src": "yt_titles",
+ "sha256": "e1a229c24a1bb3989d65240cf3d3b8a713d9929ba220ecc378be65ffe915e274",
+ "nh": "935253061d119b2e3ddb513ad756141b39b2468d6bb75ef83fa239d99a7da80e",
+ "chars": 13377,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelFarsh-003/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelFarsh-003/transcript.txt",
+   "sha256": "e1a229c24a1bb3989d65240cf3d3b8a713d9929ba220ecc378be65ffe915e274",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-farsh/003.txt",
+   "sha256": "e1a229c24a1bb3989d65240cf3d3b8a713d9929ba220ecc378be65ffe915e274",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

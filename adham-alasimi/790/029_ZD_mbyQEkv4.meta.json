@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:ZD_mbyQEkv4",
+ "vid": "ZD_mbyQEkv4",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--790",
+ "n": 29,
+ "n_src": "read",
+ "title": "لماذا الحديث عن الدار الآخرة ؟ ⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "fbc5ebe6171373a761fd845addb5513bd746dfccf9c36546d65cf364da6a9de6",
+ "nh": "48d720b84d2572e849139d6a0a0f7f78ea2d7f5c93e41040e2d8d8066d02752d",
+ "chars": 11649,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/790/029_لماذا الحديث عن الدار الآخرة ؟ ⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/790/029_لماذا الحديث عن الدار الآخرة ؟ ⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "fbc5ebe6171373a761fd845addb5513bd746dfccf9c36546d65cf364da6a9de6",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/790/28.txt",
+   "sha256": "fbc5ebe6171373a761fd845addb5513bd746dfccf9c36546d65cf364da6a9de6",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

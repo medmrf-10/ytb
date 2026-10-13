@@ -1,0 +1,59 @@
+{
+ "v": 1,
+ "lid": "yt:qe4QqpJgF_U",
+ "vid": "qe4QqpJgF_U",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--686",
+ "n": 2,
+ "n_src": "mutfile",
+ "title": "تدبر سورة التوبة 02 ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "09c61937893e463857e652708245ba64fae6d90f8c8eb8ff1a990639ba0ff68e",
+ "nh": "722e658770917bf7308b578a77716ef8e330f0a35974bcb7fc3d15385010369f",
+ "chars": 51335,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/686/002_تدبر سورة التوبة 02 ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/686/002_تدبر سورة التوبة 02 ｜ أحمد السيد.txt",
+   "sha256": "09c61937893e463857e652708245ba64fae6d90f8c8eb8ff1a990639ba0ff68e",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alsayed/mut-686/002_تدبر سورة التوبة 02 ｜ أحمد السيد.txt",
+   "sha256": "09c61937893e463857e652708245ba64fae6d90f8c8eb8ff1a990639ba0ff68e",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alsayed/mut-672/010.txt",
+   "sha256": "055b7b0dfcdd008adbe39f198235b58cc968c93e60621ac8a846a4dc760492e2",
+   "rel": "variant"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-672/010.txt",
+   "sha256": "055b7b0dfcdd008adbe39f198235b58cc968c93e60621ac8a846a4dc760492e2",
+   "rel": "variant"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-686/002.txt",
+   "sha256": "c1df13554bb9c04ac768cc92b81a419f195ebc808dbf922db293dfa120448d3c",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [
+  "_variants/002_qe4QqpJgF_U.hw-tr.txt"
+ ],
+ "also_in": [
+  "ahmed-alsayed--672"
+ ]
+}

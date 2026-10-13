@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:AMT_ssDICh4",
+ "vid": "AMT_ssDICh4",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 41,
+ "n_src": "read",
+ "title": "الحكم العطائية للإمام البوطي ｜ الدرس 41 - الحكمة 24",
+ "title_src": "filename",
+ "sha256": "6048cab73ca720d37f3f2197b20c96e724a0b2364e9d534d4aa2dfe035b12bb5",
+ "nh": "0e6f4337954a48732da6fdce207c3f11b0eb71f7daec2aee716d23a78557d2f6",
+ "chars": 20858,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/041_الحكم العطائية للإمام البوطي ｜ الدرس 41  - الحكمة 24.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/041_الحكم العطائية للإمام البوطي ｜ الدرس 41  - الحكمة 24.txt",
+   "sha256": "6048cab73ca720d37f3f2197b20c96e724a0b2364e9d534d4aa2dfe035b12bb5",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/hikam/041_الحكم العطائية للإمام البوطي ｜ الدرس 41  - الحكمة 24.txt",
+   "sha256": "6048cab73ca720d37f3f2197b20c96e724a0b2364e9d534d4aa2dfe035b12bb5",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/041_الحكم العطائية للإمام البوطي ｜ الدرس 41  - الحكمة 24.txt",
+   "sha256": "6048cab73ca720d37f3f2197b20c96e724a0b2364e9d534d4aa2dfe035b12bb5",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/386/40.txt",
+   "sha256": "6048cab73ca720d37f3f2197b20c96e724a0b2364e9d534d4aa2dfe035b12bb5",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

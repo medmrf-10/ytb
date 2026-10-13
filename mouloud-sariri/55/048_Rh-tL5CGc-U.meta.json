@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:Rh-tL5CGc-U",
+ "vid": "Rh-tL5CGc-U",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 48,
+ "n_src": "read",
+ "title": "صوم رمضان من أسباب تحصيل التقوى ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "04822959d7bf4ef3011ee753752ed1bf36f21838b1649ee63bb98c633ee1ca13",
+ "nh": "deb1304bdc5d1a85d61c679875e1e33ee15100cf1a8851d5a207d82bb5f56a0f",
+ "chars": 8333,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/048_صوم رمضان من أسباب تحصيل التقوى ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/048_صوم رمضان من أسباب تحصيل التقوى ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "04822959d7bf4ef3011ee753752ed1bf36f21838b1649ee63bb98c633ee1ca13",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/47.txt",
+   "sha256": "04822959d7bf4ef3011ee753752ed1bf36f21838b1649ee63bb98c633ee1ca13",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

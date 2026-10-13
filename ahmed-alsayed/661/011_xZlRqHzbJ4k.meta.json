@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:xZlRqHzbJ4k",
+ "vid": "xZlRqHzbJ4k",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--661",
+ "n": 11,
+ "n_src": "mutfile",
+ "title": "خير القرون 10 ｜ خارطة فتوح العراق وفارس ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "ec72bc5fdf849e5ebd415bdc94441167c1483fde17068d2fe3d0e7ebd0be54d0",
+ "nh": "be8825ab7dbc0dfc250047d9d38df881a4b40e25e5c998ba3d32b21623c4c8f1",
+ "chars": 60727,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/661/011_خير القرون 10 ｜ خارطة فتوح العراق وفارس ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/661/011_خير القرون 10 ｜ خارطة فتوح العراق وفارس ｜ أحمد السيد.txt",
+   "sha256": "ec72bc5fdf849e5ebd415bdc94441167c1483fde17068d2fe3d0e7ebd0be54d0",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-661/011.txt",
+   "sha256": "20e734b68e5ed6afc4f99779f53bf4e210fad1982cb408ec57aa2cd2cb0f487b",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

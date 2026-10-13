@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:101",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 101,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 25 ( باب في بيان صفة الغسل ) ｜ الشيخ محمد الب",
+ "title_src": "filename",
+ "sha256": "d4f893dcdb55a35d7e78e3ffd8eb11ee86d4976151346b3fe04244336b1c8a61",
+ "nh": "a5284c31e24cdd5982ce15cbec632e1f8bd9a37adc6fd10bf950eb1c90a5884b",
+ "chars": 16646,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/101_شرح رسالة ابن ابي زيد ｜  الدرس 25  ( باب في بيان صفة الغسل )  ｜ الشيخ  محمد  الب.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/101_شرح رسالة ابن ابي زيد ｜  الدرس 25  ( باب في بيان صفة الغسل )  ｜ الشيخ  محمد  الب.txt",
+   "sha256": "d4f893dcdb55a35d7e78e3ffd8eb11ee86d4976151346b3fe04244336b1c8a61",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/25.txt",
+   "sha256": "d4f893dcdb55a35d7e78e3ffd8eb11ee86d4976151346b3fe04244336b1c8a61",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

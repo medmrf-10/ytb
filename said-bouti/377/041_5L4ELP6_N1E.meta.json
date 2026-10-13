@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:5L4ELP6_N1E",
+ "vid": "5L4ELP6_N1E",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--377",
+ "n": 41,
+ "n_src": "plpos",
+ "title": "35- كبرى اليقينيات الكونية | يأجوج ومأجوج و الدابة وطلوع الشمس من مغربها",
+ "title_src": "yt_titles",
+ "sha256": "bf0215b1471c89e23390cb0e6745ef2b4fc8b9802119c4ce7f37f2326bf49d74",
+ "nh": "9bb8a750051ee87e243a2007b69fe2a8ddcf5c97ae2ffcc57fe17996d866e824",
+ "chars": 19608,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/377/041_35- كبرى اليقينيات الكونية ｜ يأجوج ومأجوج و الدابة وطلوع الشمس من مغربها.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/377/041_35- كبرى اليقينيات الكونية ｜ يأجوج ومأجوج و الدابة وطلوع الشمس من مغربها.txt",
+   "sha256": "bf0215b1471c89e23390cb0e6745ef2b4fc8b9802119c4ce7f37f2326bf49d74",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/kobraElya9inyat-041/transcript.txt",
+   "sha256": "0f89f671158462da77b78b400112787ecd66f66300f5eb0cbe1da6bafc2c4746",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/41.txt",
+   "sha256": "0f89f671158462da77b78b400112787ecd66f66300f5eb0cbe1da6bafc2c4746",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/377/40.txt",
+   "sha256": "bf0215b1471c89e23390cb0e6745ef2b4fc8b9802119c4ce7f37f2326bf49d74",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:fQQmIJKLno4",
+ "vid": "fQQmIJKLno4",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+ "n": 39,
+ "n_src": "trfile",
+ "title": "الدّرس التاسع والثلاثون_ القطب الأوَّل_ تمام دعوى أنَّ الله سبحانه وتعالى مرئي",
+ "title_src": "yt_titles",
+ "sha256": "2fe22a5fe2bf8a22addc9d56d473033c1c4b62447706e4c71fc157adc346ea48",
+ "nh": "e11685aabb83c8f420711a0ddd8d1cdbea21bb2a96f36b5a3f80fb0c0ff52fe5",
+ "chars": 31721,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriIqtisad-039/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriIqtisad-039/transcript.txt",
+   "sha256": "2fe22a5fe2bf8a22addc9d56d473033c1c4b62447706e4c71fc157adc346ea48",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-39_AlAmri.txt",
+   "sha256": "2fe22a5fe2bf8a22addc9d56d473033c1c4b62447706e4c71fc157adc346ea48",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-iqtisad/39.txt",
+   "sha256": "2fe22a5fe2bf8a22addc9d56d473033c1c4b62447706e4c71fc157adc346ea48",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

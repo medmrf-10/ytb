@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:9jyAXd3zr3Y",
+ "vid": "9jyAXd3zr3Y",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--408",
+ "n": 16,
+ "n_src": "read",
+ "title": "16- الجديد في إعجاز القرآن الكريم ｜ الجانب الملفت في الإعجاز التشريعي",
+ "title_src": "filename",
+ "sha256": "3955ed60133c516c1f16603a0028d511acf253763e871869bc94795a66f9b2c8",
+ "nh": "a5e0dac59014bf4c065fb7965d1edb49964b3242f9ea073f38ad01a5d253834b",
+ "chars": 9779,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/408/016_16- الجديد في إعجاز القرآن الكريم ｜ الجانب الملفت في الإعجاز التشريعي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/408/016_16- الجديد في إعجاز القرآن الكريم ｜ الجانب الملفت في الإعجاز التشريعي.txt",
+   "sha256": "3955ed60133c516c1f16603a0028d511acf253763e871869bc94795a66f9b2c8",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/408/15.txt",
+   "sha256": "3955ed60133c516c1f16603a0028d511acf253763e871869bc94795a66f9b2c8",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:XZHOuMlnkT4",
+ "vid": "XZHOuMlnkT4",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--377",
+ "n": 29,
+ "n_src": "plpos",
+ "title": "23- كبرى اليقينيات الكونية | الفرق بين الإسلام والإيمان",
+ "title_src": "yt_titles",
+ "sha256": "5e7a068d64cb13b5ce1fcb2e90848bfa488b93855c862d37d560749fbcd9e3ea",
+ "nh": "db98edafb93232e83f6fc7d51ab81b833e002504b2c653cc16554da8090ed02d",
+ "chars": 22620,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/377/029_23- كبرى اليقينيات الكونية ｜ الفرق بين الإسلام والإيمان.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/377/029_23- كبرى اليقينيات الكونية ｜ الفرق بين الإسلام والإيمان.txt",
+   "sha256": "5e7a068d64cb13b5ce1fcb2e90848bfa488b93855c862d37d560749fbcd9e3ea",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/kobraElya9inyat-029/transcript.txt",
+   "sha256": "24784ab68933f112b35403c6a34ab3c8d8607bae4bb21d26b7b3648dfb54ba6d",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/29.txt",
+   "sha256": "24784ab68933f112b35403c6a34ab3c8d8607bae4bb21d26b7b3648dfb54ba6d",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/377/28.txt",
+   "sha256": "5e7a068d64cb13b5ce1fcb2e90848bfa488b93855c862d37d560749fbcd9e3ea",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

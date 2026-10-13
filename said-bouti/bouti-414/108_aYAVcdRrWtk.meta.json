@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:aYAVcdRrWtk",
+ "vid": "aYAVcdRrWtk",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-414",
+ "n": 108,
+ "n_src": "read",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 108",
+ "title_src": "filename",
+ "sha256": "374aa125544fdb6c0b6c58cecc72abef257732e23ab52ec2c91e8cedd5b0147c",
+ "nh": "f3d2f30803abe9fdd0300381d1406d588303cd38040055b5e6853506b5cf4093",
+ "chars": 18372,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/108_تفسير القرآن الكريم للدكتور البوطي - الدرس 108.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/108_تفسير القرآن الكريم للدكتور البوطي - الدرس 108.txt",
+   "sha256": "374aa125544fdb6c0b6c58cecc72abef257732e23ab52ec2c91e8cedd5b0147c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/108.txt",
+   "sha256": "5320676b13d0b38df0defefe504f50e877d72919bf986341d825aa09cd9b5716",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

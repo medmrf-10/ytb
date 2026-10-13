@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:-0psVsWkaDY",
+ "vid": "-0psVsWkaDY",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-juz30",
+ "n": 20,
+ "n_src": "trfile",
+ "title": "فيديو # ٦٣٥ من مقاطع حظر التجول   تدبر سورة الفجر حلقة # ٢   الآيات ١٥-٣٠",
+ "title_src": "yt_titles",
+ "sha256": "6d2572fd563f63b32bfe4b3a1a43be94cd1bc4f5c574b99116133e326c9f3968",
+ "nh": "20ffc78699deea233b362034caacf0914cda853de9fc169b8768ac22814cabdb",
+ "chars": 20746,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelJuz30-020/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelJuz30-020/transcript.txt",
+   "sha256": "6d2572fd563f63b32bfe4b3a1a43be94cd1bc4f5c574b99116133e326c9f3968",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-juz30/020.txt",
+   "sha256": "6d2572fd563f63b32bfe4b3a1a43be94cd1bc4f5c574b99116133e326c9f3968",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

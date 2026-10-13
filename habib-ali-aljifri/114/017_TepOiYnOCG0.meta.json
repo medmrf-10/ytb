@@ -1,0 +1,39 @@
+{
+ "v": 1,
+ "lid": "yt:TepOiYnOCG0",
+ "vid": "TepOiYnOCG0",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--114",
+ "n": 17,
+ "n_src": "read",
+ "title": "الإنسانية قبل التدين ｜ الحلقة 16- التعامل مع مخالف العقيدة ｜ علي الجفري ｜ Englis",
+ "title_src": "filename",
+ "sha256": "6dc0d8ffe83c72ff88ea7a97eded60b426990b0319c868332c5ca01f4eaf1bd8",
+ "nh": "c00d3b821ca141a1b931f01ae637a53f92987475978182f9c8b3d521dc71b904",
+ "chars": 9838,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/114/017_الإنسانية قبل التدين ｜ الحلقة 16- التعامل مع مخالف العقيدة ｜ علي الجفري ｜ Englis.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/114/017_الإنسانية قبل التدين ｜ الحلقة 16- التعامل مع مخالف العقيدة ｜ علي الجفري ｜ Englis.txt",
+   "sha256": "6dc0d8ffe83c72ff88ea7a97eded60b426990b0319c868332c5ca01f4eaf1bd8",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/114/16.txt",
+   "sha256": "8d0af9c83e6433b63f4bb026fcb0ef76f4d48a8afcb06ff5ef4ead261cca2800",
+   "rel": "variant"
+  }
+ ],
+ "variants": [
+  "_variants/017_TepOiYnOCG0.des-dur.txt"
+ ],
+ "also_in": []
+}

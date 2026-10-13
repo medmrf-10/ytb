@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:nGwosV1Ilmk",
+ "vid": "nGwosV1Ilmk",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 54,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / موقف السلف والخلف من نصوص الصفات / الدكتور سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "bdd2f98aa79122560e03316a812b33d6ebd83557973821cfc9fadf14489d822a",
+ "nh": "6bf6e0c1555754dbb2ec3546f0b4d4aad3d1119f1219f06254a9c4ba5d8176d0",
+ "chars": 17723,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-054/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-054/transcript.txt",
+   "sha256": "bdd2f98aa79122560e03316a812b33d6ebd83557973821cfc9fadf14489d822a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/054_nGwosV1Ilmk.txt",
+   "sha256": "bdd2f98aa79122560e03316a812b33d6ebd83557973821cfc9fadf14489d822a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/054.txt",
+   "sha256": "bdd2f98aa79122560e03316a812b33d6ebd83557973821cfc9fadf14489d822a",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

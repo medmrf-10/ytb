@@ -1,0 +1,51 @@
+{
+ "v": 1,
+ "lid": "yt:aCqjlY1C7tI",
+ "vid": "aCqjlY1C7tI",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-khutab-2010",
+ "n": 17,
+ "n_src": "trfile",
+ "title": "خطبة الإمام البوطي | لكي لا تعود المحنة إذا غابت ...",
+ "title_src": "yt_titles",
+ "sha256": "5247f79b059444e2385825cf7006dcd2269db7ff781cc6579c6f88fa086d3036",
+ "nh": "c2fe3353807294f87e5d2c6bdc4d4a14b179d4503475e941f12ac596b344f10c",
+ "chars": 11408,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/5o6ab-017/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/5o6ab-017/transcript.txt",
+   "sha256": "5247f79b059444e2385825cf7006dcd2269db7ff781cc6579c6f88fa086d3036",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/khutab-2010/16.txt",
+   "sha256": "764a7d70bec38ae0ed23318d676e61ec0cbaaacf0c6f36e7d9a2c423952ea23a",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-khutab-2012/17.txt",
+   "sha256": "5247f79b059444e2385825cf7006dcd2269db7ff781cc6579c6f88fa086d3036",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/344/16.txt",
+   "sha256": "764a7d70bec38ae0ed23318d676e61ec0cbaaacf0c6f36e7d9a2c423952ea23a",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "said-bouti--bouti-khutab-2012"
+ ]
+}

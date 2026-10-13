@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:NvQ1C5RI0RA",
+ "vid": "NvQ1C5RI0RA",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--101",
+ "n": 13,
+ "n_src": "read",
+ "title": "أيها المريد ｜ الحلقة 12 ｜ سمات الشكر ｜ علي الجفري ｜",
+ "title_src": "filename",
+ "sha256": "e541c53f77c281151802420a569b18577364c498950c8ce936caee1c766f2a63",
+ "nh": "6d854a8e7746952bd53299f066de251286b3038377991e5557ff3ed2e664e9ea",
+ "chars": 8771,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/101/013_أيها المريد ｜ الحلقة 12 ｜ سمات الشكر ｜ علي الجفري ｜ English subtitle.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/101/013_أيها المريد ｜ الحلقة 12 ｜ سمات الشكر ｜ علي الجفري ｜ English subtitle.txt",
+   "sha256": "e541c53f77c281151802420a569b18577364c498950c8ce936caee1c766f2a63",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/101/12.txt",
+   "sha256": "6ac2cafd40486b0de54c34f245af7ddb1ade49dc84af049317d7c8696e7e16f6",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

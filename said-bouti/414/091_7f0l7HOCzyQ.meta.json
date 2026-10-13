@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "yt:7f0l7HOCzyQ",
+ "vid": "7f0l7HOCzyQ",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--414",
+ "n": 91,
+ "n_src": "read",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 91",
+ "title_src": "filename",
+ "sha256": "d6192de53bcc49eb62c2a2aa4dc4a35cae94a1c2a3c2449c96b440e44094737f",
+ "nh": "f4d79fe67d31e76e9a917b2fda1aa057f23e50ff59f8bf5ba2b0916cdc7ee699",
+ "chars": 27428,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/091_تفسير القرآن الكريم للدكتور البوطي - الدرس 91.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/091_تفسير القرآن الكريم للدكتور البوطي - الدرس 91.txt",
+   "sha256": "d6192de53bcc49eb62c2a2aa4dc4a35cae94a1c2a3c2449c96b440e44094737f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/091.txt",
+   "sha256": "48d685e6805f29101b3969f47d62b726c6453d832b5553d3fc581a09e0a8eeb7",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/414/92.txt",
+   "sha256": "d6192de53bcc49eb62c2a2aa4dc4a35cae94a1c2a3c2449c96b440e44094737f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "said-bouti--bouti-414"
+ ]
+}

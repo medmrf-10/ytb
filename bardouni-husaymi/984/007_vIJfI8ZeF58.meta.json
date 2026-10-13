@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:vIJfI8ZeF58",
+ "vid": "vIJfI8ZeF58",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--984",
+ "n": 7,
+ "n_src": "read",
+ "title": "شرح أم البراهين ｜ الدرس30(قوله＂برهان كون فعل الممكنات أو تركها جائزا في حقه سبحا",
+ "title_src": "filename",
+ "sha256": "44f215d13104f878c0eb459b2aa05a5b8fdf368831370fe344481c8a02edeedc",
+ "nh": "7cf6bd58ccc96362f6d8755d5fed0ea309e071ade789ed8806194c3e39cdf09b",
+ "chars": 41002,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/984/007_شرح أم البراهين ｜ الدرس30(قوله＂برهان كون فعل الممكنات أو تركها جائزا في حقه سبحا.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/984/007_شرح أم البراهين ｜ الدرس30(قوله＂برهان كون فعل الممكنات أو تركها جائزا في حقه سبحا.txt",
+   "sha256": "44f215d13104f878c0eb459b2aa05a5b8fdf368831370fe344481c8a02edeedc",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasimi/um-baraheen/6.txt",
+   "sha256": "44f215d13104f878c0eb459b2aa05a5b8fdf368831370fe344481c8a02edeedc",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/743/6.txt",
+   "sha256": "44f215d13104f878c0eb459b2aa05a5b8fdf368831370fe344481c8a02edeedc",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "adham-alasimi--743",
+  "adham-alasimi--alasimi-um-baraheen"
+ ]
+}

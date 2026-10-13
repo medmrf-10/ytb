@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:D2yFnc4_VQM",
+ "vid": "D2yFnc4_VQM",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 9,
+ "n_src": "read",
+ "title": "خطب منبرية： النفاق ومخالفة الباطن ( تتمة ) ⧸ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "ac72c09ea306437c35bf37ed5e8507d926f0836c3882bbdad80dc1f727a8c21e",
+ "nh": "8d3474d204503f518d101d515ded8930611976bbf15760052d96845240236db5",
+ "chars": 13633,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/009_خطب منبرية： النفاق ومخالفة الباطن (  تتمة ) ⧸ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/009_خطب منبرية： النفاق ومخالفة الباطن (  تتمة ) ⧸ الشيخ العلامة مولود السريري.txt",
+   "sha256": "ac72c09ea306437c35bf37ed5e8507d926f0836c3882bbdad80dc1f727a8c21e",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/8.txt",
+   "sha256": "ac72c09ea306437c35bf37ed5e8507d926f0836c3882bbdad80dc1f727a8c21e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

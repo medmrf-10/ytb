@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:MpUe18xBo8g",
+ "vid": "MpUe18xBo8g",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--371",
+ "n": 39,
+ "n_src": "plpos",
+ "title": "39- علوم القرآن الكريم | دراسات تطبيقية في الإلهيات",
+ "title_src": "yt_titles",
+ "sha256": "dbcb29bccf64e9f79af48de079aa682c9eb5a67169fc70263f25d4b24cf315a3",
+ "nh": "67c03da6bc33ccaf138740d4e4dcaf4f53e4ec52abfc226d05dad6774ea1665f",
+ "chars": 20053,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/371/039_39- علوم القرآن الكريم ｜ دراسات تطبيقية في الإلهيات.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/371/039_39- علوم القرآن الكريم ｜ دراسات تطبيقية في الإلهيات.txt",
+   "sha256": "dbcb29bccf64e9f79af48de079aa682c9eb5a67169fc70263f25d4b24cf315a3",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/3oloumEl9or1n-039/transcript.txt",
+   "sha256": "5d522f1367811a67fbb60fd0b6f747cc9707d2748911227ee6c18cc2421d6557",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-ulum-quran/39.txt",
+   "sha256": "5d522f1367811a67fbb60fd0b6f747cc9707d2748911227ee6c18cc2421d6557",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

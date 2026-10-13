@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:5bCGGGVdR6s",
+ "vid": "5bCGGGVdR6s",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--656",
+ "n": 5,
+ "n_src": "mutfile",
+ "title": "رياض الصالحين 05 ｜ باب التوبة 3 ｜ أنوار السنة المحمدية ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "da6f4044f78ee9f8b952205d9ea59351cac409c3804cb07dbf7a375b32b08562",
+ "nh": "62819e19a71c9b408a2a962e70eaf1b4464d761e275d2e9eddd994b00034db11",
+ "chars": 27831,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/656/005_رياض الصالحين 05 ｜ باب التوبة 3 ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/656/005_رياض الصالحين 05 ｜ باب التوبة 3 ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+   "sha256": "da6f4044f78ee9f8b952205d9ea59351cac409c3804cb07dbf7a375b32b08562",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/riyadElsali7in-005/transcript.txt",
+   "sha256": "1b6064c0890f15a02a1f6f38a12208e8ba1210af177db56c1ed002d248e0cb68",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-656/005.txt",
+   "sha256": "1b6064c0890f15a02a1f6f38a12208e8ba1210af177db56c1ed002d248e0cb68",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

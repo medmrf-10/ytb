@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:6HY8C2M0rsw",
+ "vid": "6HY8C2M0rsw",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--766",
+ "n": 5,
+ "n_src": "read",
+ "title": "الدرس الرابع ⧸ شرح متن السلم المنورق ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "e1c877811b410c66c6c95859b4098aaa0eaba6f5ee8b1a3a00ebf1903fcf8b63",
+ "nh": "df16f378a3c2e8ea8205d686e87c404c8207ea0cf74879b8fe931973ce4195d3",
+ "chars": 42011,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/766/005_الدرس الرابع ⧸ شرح متن السلم المنورق ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/766/005_الدرس الرابع ⧸ شرح متن السلم المنورق ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "e1c877811b410c66c6c95859b4098aaa0eaba6f5ee8b1a3a00ebf1903fcf8b63",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/766/4.txt",
+   "sha256": "e1c877811b410c66c6c95859b4098aaa0eaba6f5ee8b1a3a00ebf1903fcf8b63",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

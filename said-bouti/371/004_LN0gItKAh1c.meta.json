@@ -1,0 +1,57 @@
+{
+ "v": 1,
+ "lid": "yt:LN0gItKAh1c",
+ "vid": "LN0gItKAh1c",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--371",
+ "n": 4,
+ "n_src": "plpos",
+ "title": "4- علوم القرآن الكريم | ما هي الأحرف السبعة وهل تختلف عن القراءات العشر؟",
+ "title_src": "yt_titles",
+ "sha256": "e27c224ee254feae0362488e1254742a303e21b48aee126b9e4718bc70e1461b",
+ "nh": "d80ffad654396859763b09166759c6e2308ccf4b4e3c775541aed0cdea52bd4f",
+ "chars": 24408,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/371/004_4- علوم القرآن الكريم ｜ ما هي الأحرف السبعة وهل تختلف عن القراءات العشر؟.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/371/004_4- علوم القرآن الكريم ｜ ما هي الأحرف السبعة وهل تختلف عن القراءات العشر؟.txt",
+   "sha256": "e27c224ee254feae0362488e1254742a303e21b48aee126b9e4718bc70e1461b",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/3oloumEl9or1n-004/transcript.txt",
+   "sha256": "8f17e8b39d94a732783cee74515bb0c5033556eb960d5559efad2e5cd73769b3",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/muqtatafat-ulum/3.txt",
+   "sha256": "e27c224ee254feae0362488e1254742a303e21b48aee126b9e4718bc70e1461b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-ulum-quran/04.txt",
+   "sha256": "8f17e8b39d94a732783cee74515bb0c5033556eb960d5559efad2e5cd73769b3",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/355/3.txt",
+   "sha256": "e27c224ee254feae0362488e1254742a303e21b48aee126b9e4718bc70e1461b",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "said-bouti--bouti-muqtatafat-ulum"
+ ]
+}

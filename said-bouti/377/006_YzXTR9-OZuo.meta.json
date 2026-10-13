@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:YzXTR9-OZuo",
+ "vid": "YzXTR9-OZuo",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--377",
+ "n": 6,
+ "n_src": "plpos",
+ "title": "مقدمة 6 - كبرى اليقينيات الكونية |  برهان بطلان الدور + قانون العلة الغائية",
+ "title_src": "yt_titles",
+ "sha256": "2bb5f0557f38e4609f562e45efeaafbb195c07aabcdef94bc554d90d2ae4d2b3",
+ "nh": "c42b2d0c534c8ee64c1d82d7ca3249002f8c70f405ad03398024ef4cebdcc4cb",
+ "chars": 21317,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/377/006_مقدمة 6 - كبرى اليقينيات الكونية ｜  برهان بطلان الدور + قانون العلة الغائية.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/377/006_مقدمة 6 - كبرى اليقينيات الكونية ｜  برهان بطلان الدور + قانون العلة الغائية.txt",
+   "sha256": "2bb5f0557f38e4609f562e45efeaafbb195c07aabcdef94bc554d90d2ae4d2b3",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/kobraElya9inyat-006/transcript.txt",
+   "sha256": "a1fdc07f85b6d48f5b346d7fe26f177b87d2001e7fbda2888575ff37717ceba0",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/06.txt",
+   "sha256": "a1fdc07f85b6d48f5b346d7fe26f177b87d2001e7fbda2888575ff37717ceba0",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

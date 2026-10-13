@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:GDnebizzmgw",
+ "vid": "GDnebizzmgw",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--779",
+ "n": 4,
+ "n_src": "read",
+ "title": "(4) أقسام الإنشاء + خصائص همزتي التصور والتصديق ⧸ دروس البلاغة ⧸ الشيخ أدهم العا",
+ "title_src": "filename",
+ "sha256": "e8262fdd0deb177b2003fb7a403a8ead8d34553507040279fe359765745dec84",
+ "nh": "35821430267352dbcd19692cb7eb8b49c84c2799489a723372ed624226806e39",
+ "chars": 23347,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/779/004_(4) أقسام الإنشاء + خصائص همزتي التصور والتصديق ⧸ دروس البلاغة ⧸ الشيخ أدهم العا.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/779/004_(4) أقسام الإنشاء + خصائص همزتي التصور والتصديق ⧸ دروس البلاغة ⧸ الشيخ أدهم العا.txt",
+   "sha256": "e8262fdd0deb177b2003fb7a403a8ead8d34553507040279fe359765745dec84",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/779/3.txt",
+   "sha256": "e8262fdd0deb177b2003fb7a403a8ead8d34553507040279fe359765745dec84",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

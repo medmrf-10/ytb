@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:qfpvYEQYQIA",
+ "vid": "qfpvYEQYQIA",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--776",
+ "n": 3,
+ "n_src": "read",
+ "title": "(3) تتمة شروط الصحيح + تدوين الحديث ⧸ تيسير علوم الحديث ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "8a5bbebc29d66d020fd462a322e3b88d2199287ceb80a394881835aa09f7b961",
+ "nh": "c06b8050c00218242a11cebe24fade8fe1c486298cee68f42cb1e1b0b461bb8d",
+ "chars": 32333,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/776/003_(3) تتمة شروط الصحيح + تدوين الحديث ⧸ تيسير علوم الحديث ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/776/003_(3) تتمة شروط الصحيح + تدوين الحديث ⧸ تيسير علوم الحديث ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "8a5bbebc29d66d020fd462a322e3b88d2199287ceb80a394881835aa09f7b961",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/776/2.txt",
+   "sha256": "8a5bbebc29d66d020fd462a322e3b88d2199287ceb80a394881835aa09f7b961",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

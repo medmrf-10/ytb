@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:Tu-U4BS69jU",
+ "vid": "Tu-U4BS69jU",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 17,
+ "n_src": "read",
+ "title": "خطب منبرية ： المسارعة إلى الجنة ⧸ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "1b659126d0c30c6f287a124b54dcfec2e2d58a83a0a870f486aa2d4d8f0bf235",
+ "nh": "dbbafb5f732acf340f093f6c5ef668e684c8f45a1e6bf8d181baf9ba3a640af4",
+ "chars": 11893,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/017_خطب منبرية ： المسارعة إلى الجنة ⧸ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/017_خطب منبرية ： المسارعة إلى الجنة ⧸ الشيخ العلامة مولود السريري.txt",
+   "sha256": "1b659126d0c30c6f287a124b54dcfec2e2d58a83a0a870f486aa2d4d8f0bf235",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/16.txt",
+   "sha256": "1b659126d0c30c6f287a124b54dcfec2e2d58a83a0a870f486aa2d4d8f0bf235",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

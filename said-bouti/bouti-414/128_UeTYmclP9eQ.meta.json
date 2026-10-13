@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:UeTYmclP9eQ",
+ "vid": "UeTYmclP9eQ",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-414",
+ "n": 128,
+ "n_src": "read",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 128",
+ "title_src": "filename",
+ "sha256": "668baddc5330fd3b0f37edb35926df71912ce40177a8fec99dff46a5002c95a1",
+ "nh": "1c46ef309923845dc77ad0925415b18bce09472c04a70a28aba8a11b0e3f7fba",
+ "chars": 18014,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/128_تفسير القرآن الكريم للدكتور البوطي - الدرس 128.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/128_تفسير القرآن الكريم للدكتور البوطي - الدرس 128.txt",
+   "sha256": "668baddc5330fd3b0f37edb35926df71912ce40177a8fec99dff46a5002c95a1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/128.txt",
+   "sha256": "89a795e6e7752e16a7fe242a31042402a94566dcb6466deeb12267ae88cfd10c",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:uwx8E6BVJKE",
+ "vid": "uwx8E6BVJKE",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--790",
+ "n": 2,
+ "n_src": "read",
+ "title": "السؤال بلا ترجمان ⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "a2e80843a25fc46e0a474cb74424999646f6ec60dc46154f8a91a1b6570b1aae",
+ "nh": "fc85bc8f6dad12b89c9f784b4fdfc242ebdc159b2f4ac8667930d69095db7043",
+ "chars": 10847,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/790/002_السؤال بلا ترجمان ⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/790/002_السؤال بلا ترجمان ⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "a2e80843a25fc46e0a474cb74424999646f6ec60dc46154f8a91a1b6570b1aae",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/790/1.txt",
+   "sha256": "a2e80843a25fc46e0a474cb74424999646f6ec60dc46154f8a91a1b6570b1aae",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

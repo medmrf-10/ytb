@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:GdDUMVfD6os",
+ "vid": "GdDUMVfD6os",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-juz30",
+ "n": 27,
+ "n_src": "trfile",
+ "title": "فيديو # ٦٤٢ من مقاطع حظر التجول   تدبر سورة العلق الآيات ١-٥",
+ "title_src": "yt_titles",
+ "sha256": "042bf81459d9a8c48b38ab99cf7a446cd89949079f4a632cbbdca917c3e73502",
+ "nh": "1979bc6c6e7922e6efdc1152adce3cbb5ffbf5eb45c3b18cdc6879f61a4064d7",
+ "chars": 21310,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelJuz30-027/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelJuz30-027/transcript.txt",
+   "sha256": "042bf81459d9a8c48b38ab99cf7a446cd89949079f4a632cbbdca917c3e73502",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-juz30/027.txt",
+   "sha256": "042bf81459d9a8c48b38ab99cf7a446cd89949079f4a632cbbdca917c3e73502",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

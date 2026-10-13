@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:jk2cmiKPPbc",
+ "vid": "jk2cmiKPPbc",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-juz30",
+ "n": 16,
+ "n_src": "trfile",
+ "title": "فيديو # ٦٣١ من مقاطع حظر التجول  تدبر سورة الأعلى حلقة ١  الآيات ١-٦",
+ "title_src": "yt_titles",
+ "sha256": "d818e1f54be05fa206d2e2abcda63b9d4cc4d5f83c7ed6ecc38ffd66507dafb1",
+ "nh": "aa1b020570c0f31192fb82d29ce89e9516dfc9173a91e51b6e479d13bfe93cd5",
+ "chars": 8613,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelJuz30-016/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelJuz30-016/transcript.txt",
+   "sha256": "d818e1f54be05fa206d2e2abcda63b9d4cc4d5f83c7ed6ecc38ffd66507dafb1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-juz30/016.txt",
+   "sha256": "d818e1f54be05fa206d2e2abcda63b9d4cc4d5f83c7ed6ecc38ffd66507dafb1",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:E3du8E8vTJ4",
+ "vid": "E3du8E8vTJ4",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--775",
+ "n": 19,
+ "n_src": "read",
+ "title": "(19) الطعن في الراوي وأسبابه ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم العاس",
+ "title_src": "filename",
+ "sha256": "c3a2b6192d7324d06785403185d307ee5fb16935d193a3f383e826a8f7e0ae26",
+ "nh": "d7ff19dc5720bb4a32dae01203481600bd90a8ca92b729a487b81c2fa21abc5b",
+ "chars": 26866,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/775/019_(19) الطعن في الراوي وأسبابه ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم العاس.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/775/019_(19) الطعن في الراوي وأسبابه ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم العاس.txt",
+   "sha256": "c3a2b6192d7324d06785403185d307ee5fb16935d193a3f383e826a8f7e0ae26",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/775/18.txt",
+   "sha256": "c3a2b6192d7324d06785403185d307ee5fb16935d193a3f383e826a8f7e0ae26",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

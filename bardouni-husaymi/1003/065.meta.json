@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:65",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 65,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 61 ( باب الصيام ) ｜ الشيخ البردوني",
+ "title_src": "filename",
+ "sha256": "497b6f3cfe4eab35cc05663d6f57420a078445f44933a7ee88f0ca1aca2a8f3f",
+ "nh": "6a23a46be02b7a6e074841324bff580ac97388290341070c932c8351c48b998a",
+ "chars": 20624,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/065_شرح رسالة ابن ابي زيد ｜ الدرس 61 (  باب الصيام  ) ｜ الشيخ البردوني.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/065_شرح رسالة ابن ابي زيد ｜ الدرس 61 (  باب الصيام  ) ｜ الشيخ البردوني.txt",
+   "sha256": "497b6f3cfe4eab35cc05663d6f57420a078445f44933a7ee88f0ca1aca2a8f3f",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/61.txt",
+   "sha256": "497b6f3cfe4eab35cc05663d6f57420a078445f44933a7ee88f0ca1aca2a8f3f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

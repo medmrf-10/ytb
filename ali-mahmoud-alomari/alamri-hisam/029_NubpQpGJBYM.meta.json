@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:NubpQpGJBYM",
+ "vid": "NubpQpGJBYM",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-hisam",
+ "n": 29,
+ "n_src": "trfile",
+ "title": "( 3 )تتمة ج١ شرح الحسام الكاتي",
+ "title_src": "yt_titles",
+ "sha256": "c7b315803ef59a58283b66da712af805d0d70b7045e8de176b6ac3de85b5d60c",
+ "nh": "2f683b8f98d153d6da4c036107b2ecb01d2180209184c359f240577e7191cec4",
+ "chars": 777,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriHisam-029/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriHisam-029/transcript.txt",
+   "sha256": "c7b315803ef59a58283b66da712af805d0d70b7045e8de176b6ac3de85b5d60c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/hisam/hisam-29_AlAmri.txt",
+   "sha256": "c7b315803ef59a58283b66da712af805d0d70b7045e8de176b6ac3de85b5d60c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-hisam/29.txt",
+   "sha256": "c7b315803ef59a58283b66da712af805d0d70b7045e8de176b6ac3de85b5d60c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

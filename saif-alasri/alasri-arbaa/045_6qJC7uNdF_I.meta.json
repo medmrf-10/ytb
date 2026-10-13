@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:6qJC7uNdF_I",
+ "vid": "6qJC7uNdF_I",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 45,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / رد السهام عن سنة خير الأنام / الدكتور سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "7c543309ae9bf984d04bf9d4961ec1b3181f4edfe0665238c85b3493ffe9aa37",
+ "nh": "63549cae8f6fb7bac5a773a2cc3c56b03fe52953d3e70cd7b14c1bc7edab4d15",
+ "chars": 29761,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-045/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-045/transcript.txt",
+   "sha256": "7c543309ae9bf984d04bf9d4961ec1b3181f4edfe0665238c85b3493ffe9aa37",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/045_6qJC7uNdF_I.txt",
+   "sha256": "7c543309ae9bf984d04bf9d4961ec1b3181f4edfe0665238c85b3493ffe9aa37",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/045.txt",
+   "sha256": "7c543309ae9bf984d04bf9d4961ec1b3181f4edfe0665238c85b3493ffe9aa37",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:qfq5x3nHbN4",
+ "vid": "qfq5x3nHbN4",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--415",
+ "n": 4,
+ "n_src": "mutfile",
+ "title": "3 - التزكية في القرآن الكريم السبيل إلى تزكية النفس",
+ "title_src": "filename",
+ "sha256": "c55df36411fa327479ceb3eed9ec81c4b2b0bfd53f59e7c393be730cfe62d124",
+ "nh": "0a517b7c4003016cbaf1ddcca45a82d6007004f4acb6abdd30dbad8637b3ba93",
+ "chars": 12901,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/415/004_3 - التزكية في القرآن الكريم  السبيل إلى تزكية النفس.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/415/004_3 - التزكية في القرآن الكريم  السبيل إلى تزكية النفس.txt",
+   "sha256": "c55df36411fa327479ceb3eed9ec81c4b2b0bfd53f59e7c393be730cfe62d124",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tawba/004_3 - التزكية في القرآن الكريم  السبيل إلى تزكية النفس.txt",
+   "sha256": "c55df36411fa327479ceb3eed9ec81c4b2b0bfd53f59e7c393be730cfe62d124",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tazkiya/004_3 - التزكية في القرآن الكريم  السبيل إلى تزكية النفس.txt",
+   "sha256": "c55df36411fa327479ceb3eed9ec81c4b2b0bfd53f59e7c393be730cfe62d124",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-415/003.txt",
+   "sha256": "cbff5a53eb661ef0ee55001eb742759a67803bd4e555151aa4abffaac2f7ed94",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

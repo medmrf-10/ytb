@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:habib-ali-aljifri--101:6",
+ "vid": null,
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--101",
+ "n": 6,
+ "n_src": "read",
+ "title": "أيها المريد ｜ الحلقة 5 ｜ حقيقة الخوف من الله ｜ علي الجفري ｜",
+ "title_src": "filename",
+ "sha256": "4859ec5e18fbd2118ef3cdfef20c0c65097ce96994c4c5b1974c056fc872b726",
+ "nh": "8f125cef89ef80fec90d12e7b634509025ad7717d3e14aa25204daa58fc2ca5a",
+ "chars": 13687,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/101/006_أيها المريد ｜ الحلقة 5 ｜ حقيقة الخوف من الله ｜ علي الجفري ｜English subtitle.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/101/006_أيها المريد ｜ الحلقة 5 ｜ حقيقة الخوف من الله ｜ علي الجفري ｜English subtitle.txt",
+   "sha256": "4859ec5e18fbd2118ef3cdfef20c0c65097ce96994c4c5b1974c056fc872b726",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/101/5.txt",
+   "sha256": "4859ec5e18fbd2118ef3cdfef20c0c65097ce96994c4c5b1974c056fc872b726",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

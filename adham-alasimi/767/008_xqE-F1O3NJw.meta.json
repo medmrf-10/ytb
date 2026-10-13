@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:xqE-F1O3NJw",
+ "vid": "xqE-F1O3NJw",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--767",
+ "n": 8,
+ "n_src": "read",
+ "title": "(08) مراجعة للدروس الماضية ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "aad89b7f9c5681ab0581709952c909d0a57b1b8d3464c2f38622e07e7e6589be",
+ "nh": "a2be0ad25fa9b8fd1bdc2633b3a6c4ef38b10f989f91e160fe44bd7579bafc13",
+ "chars": 8979,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/767/008_(08) مراجعة للدروس الماضية ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/767/008_(08) مراجعة للدروس الماضية ⧸ دورة النحو المستوى الأول⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "aad89b7f9c5681ab0581709952c909d0a57b1b8d3464c2f38622e07e7e6589be",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/767/7.txt",
+   "sha256": "aad89b7f9c5681ab0581709952c909d0a57b1b8d3464c2f38622e07e7e6589be",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:ixGMquYQz_Q",
+ "vid": "ixGMquYQz_Q",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--379",
+ "n": 33,
+ "n_src": "plpos",
+ "title": "33- تاريخ التشريع الإسلامي | ملخص مزايا الدور الخامس",
+ "title_src": "yt_titles",
+ "sha256": "90071ff9eec05d62ce7796a886f88778f8941bdaf4d348d1f83d7ac7d7822b45",
+ "nh": "bd0b90e1f87ba72d70f5f9c2c29d3177f84ffbc408df623940cbca1c1ff5341c",
+ "chars": 19696,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/379/033_33- تاريخ التشريع الإسلامي ｜ ملخص مزايا الدور الخامس.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/379/033_33- تاريخ التشريع الإسلامي ｜ ملخص مزايا الدور الخامس.txt",
+   "sha256": "90071ff9eec05d62ce7796a886f88778f8941bdaf4d348d1f83d7ac7d7822b45",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/tari5Eltachri3-033/transcript.txt",
+   "sha256": "be424f433f6860680f2bc6f61a7667a1f7b6eace8cd7b4de382cc8470d62671a",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-tarikh/33.txt",
+   "sha256": "be424f433f6860680f2bc6f61a7667a1f7b6eace8cd7b4de382cc8470d62671a",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/379/32.txt",
+   "sha256": "90071ff9eec05d62ce7796a886f88778f8941bdaf4d348d1f83d7ac7d7822b45",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:Y5-mjArnETA",
+ "vid": "Y5-mjArnETA",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 9,
+ "n_src": "plpos",
+ "title": "المتشددون | حـ 9 | حسن البنا فيما أصاب وفيما أخطأ؟ جـ1 | أ.د علي جمعة",
+ "title_src": "yt_titles",
+ "sha256": "16a63deb8d6d2d894b0f8b6aaa7d1b26b214a1adcfbcc7bb93a23c45d6ec5358",
+ "nh": "627f023448168e94c3ba58f2339fe336bdb39591ff6612ca0f64d4c4f7871780",
+ "chars": 15471,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/009_المتشددون ｜ حـ 9 ｜ حسن البنا فيما أصاب وفيما أخطأ؟ جـ1 ｜ أ.د علي جمعة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/009_المتشددون ｜ حـ 9 ｜ حسن البنا فيما أصاب وفيما أخطأ؟ جـ1 ｜ أ.د علي جمعة.txt",
+   "sha256": "16a63deb8d6d2d894b0f8b6aaa7d1b26b214a1adcfbcc7bb93a23c45d6ec5358",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/009_المتشددون ｜ حـ 9 ｜ حسن البنا فيما أصاب وفيما أخطأ؟ جـ1 ｜ أ.د علي جمعة.txt",
+   "sha256": "16a63deb8d6d2d894b0f8b6aaa7d1b26b214a1adcfbcc7bb93a23c45d6ec5358",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/009.txt",
+   "sha256": "03815b12b3a02d6c5e6ee96ee581ff4c6093b1e1db606a2fc09be2a9140e3707",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

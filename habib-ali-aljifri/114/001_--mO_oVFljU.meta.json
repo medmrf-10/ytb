@@ -1,0 +1,39 @@
+{
+ "v": 1,
+ "lid": "yt:--mO_oVFljU",
+ "vid": "--mO_oVFljU",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--114",
+ "n": 1,
+ "n_src": "read",
+ "title": "في رمضان ｜ الإنسانية قبل التدين ｜ الحبيب علي الجفري ｜ Humanity Before Religiosit",
+ "title_src": "filename",
+ "sha256": "4f2f2ce191077da10a85aad0235554255c04f7f435b9fe2d821eac10ca25f35e",
+ "nh": "91676a195b197f81fbda2705785b131572b98cad4477fa0903f2b6b555da278e",
+ "chars": 562,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/114/001_في رمضان ｜ الإنسانية قبل التدين ｜ الحبيب علي الجفري ｜ Humanity Before Religiosit.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/114/001_في رمضان ｜ الإنسانية قبل التدين ｜ الحبيب علي الجفري ｜ Humanity Before Religiosit.txt",
+   "sha256": "4f2f2ce191077da10a85aad0235554255c04f7f435b9fe2d821eac10ca25f35e",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/114/0.txt",
+   "sha256": "7beae795cc71717c8e930ac5277e1f9570883dcb2c6a381d4d27e280ebfc7bd1",
+   "rel": "variant"
+  }
+ ],
+ "variants": [
+  "_variants/001_--mO_oVFljU.des-dur.txt"
+ ],
+ "also_in": []
+}

@@ -1,0 +1,57 @@
+{
+ "v": 1,
+ "lid": "yt:WhN9dS_MBGY",
+ "vid": "WhN9dS_MBGY",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--371",
+ "n": 5,
+ "n_src": "plpos",
+ "title": "5- علوم القرآن الكريم | التفسير",
+ "title_src": "yt_titles",
+ "sha256": "ac6649ea81ebd0c84d414195c68bdc18246c5d87304bf553c741164306fd3035",
+ "nh": "c16c07737546a4ce71cf3c6d1ff3b77955f2b8d1c8f9a2ac7cb93f523bb0421e",
+ "chars": 22897,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/371/005_5- علوم القرآن الكريم ｜ التفسير.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/371/005_5- علوم القرآن الكريم ｜ التفسير.txt",
+   "sha256": "ac6649ea81ebd0c84d414195c68bdc18246c5d87304bf553c741164306fd3035",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/3oloumEl9or1n-005/transcript.txt",
+   "sha256": "4a45f66593935360588aed41ae3b36dd400464b28d61090c725ad9e724dbaf12",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/muqtatafat-ulum/4.txt",
+   "sha256": "ac6649ea81ebd0c84d414195c68bdc18246c5d87304bf553c741164306fd3035",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-ulum-quran/05.txt",
+   "sha256": "4a45f66593935360588aed41ae3b36dd400464b28d61090c725ad9e724dbaf12",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/355/4.txt",
+   "sha256": "ac6649ea81ebd0c84d414195c68bdc18246c5d87304bf553c741164306fd3035",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "said-bouti--bouti-muqtatafat-ulum"
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:bJurrzGPKeA",
+ "vid": "bJurrzGPKeA",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-barahin-muqtatafat",
+ "n": 8,
+ "n_src": "trfile",
+ "title": "عدد الصفات عند الأشاعرة",
+ "title_src": "yt_titles",
+ "sha256": "65690a56343a2f80d5fde4de30995c1579ce5f4c95a0e1d0a4e8150f0113652a",
+ "nh": "be56e5f8cb61862545afd225af73849d3a7c3cb85ae7ed3b336e2348459b9657",
+ "chars": 1050,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriBarahinMuqtatafat-008/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriBarahinMuqtatafat-008/transcript.txt",
+   "sha256": "65690a56343a2f80d5fde4de30995c1579ce5f4c95a0e1d0a4e8150f0113652a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/barahin-muqtatafat/barahin-muqtatafat-08_AlAmri.txt",
+   "sha256": "65690a56343a2f80d5fde4de30995c1579ce5f4c95a0e1d0a4e8150f0113652a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-barahin-muqtatafat/08.txt",
+   "sha256": "65690a56343a2f80d5fde4de30995c1579ce5f4c95a0e1d0a4e8150f0113652a",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

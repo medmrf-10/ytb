@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:2YQIvNvWFzc",
+ "vid": "2YQIvNvWFzc",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 82,
+ "n_src": "mutfile",
+ "title": "Wallahu A'lam | Dr. Ali Gomaa responds to the most prominent Salafi claims... and the ruling on o...",
+ "title_src": "yt_titles",
+ "sha256": "4c2def07ffc8481cc5b4e3bd3917edfb0f30e6df5fc9d12c04084482bea7957b",
+ "nh": "93b4377809ebadd227445f2c5f444b02bcabfc192f499e3659fc1230889d1c79",
+ "chars": 27981,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/082_والله أعلم ｜ د. علي جمعة يرد على أبرز دعاوى السلفية .. وحكم مخالفة واقع  المجتمع.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/082_والله أعلم ｜ د. علي جمعة يرد على أبرز دعاوى السلفية .. وحكم مخالفة واقع  المجتمع.txt",
+   "sha256": "4c2def07ffc8481cc5b4e3bd3917edfb0f30e6df5fc9d12c04084482bea7957b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/082_والله أعلم ｜ د. علي جمعة يرد على أبرز دعاوى السلفية .. وحكم مخالفة واقع  المجتمع.txt",
+   "sha256": "b34dfffd3c280b53a0cd927ac8bb09b6bdc2b10410352253c485b0a0f533ebd0",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/082.txt",
+   "sha256": "4c2def07ffc8481cc5b4e3bd3917edfb0f30e6df5fc9d12c04084482bea7957b",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

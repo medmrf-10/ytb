@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:7qX1xlmSWpg",
+ "vid": "7qX1xlmSWpg",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--660",
+ "n": 15,
+ "n_src": "mutfile",
+ "title": "الأمة بين احتلالين 14 ｜ موالاة الكفار وإنكار العلماء ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "4e409251ec32cf4719b0da43e764333eceee636214921d7ec3d111de7c5f0e35",
+ "nh": "5e1515a23974b5531cbb524f9d2e80bbd1f38c5c5a47f732f2ab808b36ebf1b0",
+ "chars": 67682,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/660/015_الأمة بين احتلالين 14 ｜ موالاة الكفار وإنكار العلماء ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/660/015_الأمة بين احتلالين 14 ｜ موالاة الكفار وإنكار العلماء ｜ أحمد السيد.txt",
+   "sha256": "4e409251ec32cf4719b0da43e764333eceee636214921d7ec3d111de7c5f0e35",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/elommaBaynI7tilayn-015/transcript.txt",
+   "sha256": "efcb260fcf9b18b9e54acfde8bb85f77125b24c1c02ea5f9bf9f21579076f593",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-660/015.txt",
+   "sha256": "efcb260fcf9b18b9e54acfde8bb85f77125b24c1c02ea5f9bf9f21579076f593",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

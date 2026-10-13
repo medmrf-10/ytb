@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:habib-ali-aljifri--101:7",
+ "vid": null,
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--101",
+ "n": 7,
+ "n_src": "read",
+ "title": "أيها المريد ｜ الحلقة 6 ｜ مفهوم الرجاء ｜ علي الجفري ｜",
+ "title_src": "filename",
+ "sha256": "8dfc60b2ee4732e554b9e16b554fbffcf48a2c7a90c30e99253ff3dc260d1f6c",
+ "nh": "01012b84a3e7a391c06e666c9a3351fe5e645c3734f535e0619945e995334852",
+ "chars": 13453,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/101/007_أيها المريد ｜ الحلقة 6 ｜ مفهوم الرجاء ｜ علي الجفري ｜ English subtitle.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/101/007_أيها المريد ｜ الحلقة 6 ｜ مفهوم الرجاء ｜ علي الجفري ｜ English subtitle.txt",
+   "sha256": "8dfc60b2ee4732e554b9e16b554fbffcf48a2c7a90c30e99253ff3dc260d1f6c",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/101/6.txt",
+   "sha256": "8dfc60b2ee4732e554b9e16b554fbffcf48a2c7a90c30e99253ff3dc260d1f6c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

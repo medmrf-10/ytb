@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:FPAOS7VvqKI",
+ "vid": "FPAOS7VvqKI",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 18,
+ "n_src": "read",
+ "title": "خطب منبرية ： المشاركة في المعصية وصورها ⧸ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "bebef6c33b7700f6bfb4d495da8242f3d7a46dc06775136e6b9741fda487f5a3",
+ "nh": "4f8e30e2607496bbac927b05ed9659fee9239f513c1c13df739e174d1d3e35ad",
+ "chars": 14156,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/018_خطب منبرية ： المشاركة  في المعصية وصورها  ⧸  الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/018_خطب منبرية ： المشاركة  في المعصية وصورها  ⧸  الشيخ العلامة مولود السريري.txt",
+   "sha256": "bebef6c33b7700f6bfb4d495da8242f3d7a46dc06775136e6b9741fda487f5a3",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/17.txt",
+   "sha256": "bebef6c33b7700f6bfb4d495da8242f3d7a46dc06775136e6b9741fda487f5a3",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

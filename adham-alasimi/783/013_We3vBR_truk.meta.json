@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:We3vBR_truk",
+ "vid": "We3vBR_truk",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--783",
+ "n": 13,
+ "n_src": "read",
+ "title": "(13) الدرس الثالث عشر ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "15442c9ae71c64707ae63670ebd920c921b4d08a94152dcb0d90f7c60060068e",
+ "nh": "cd283e960d3e1c7a9321e387a1d51939570e0500e8a6d8f03c831dbfa3d276ee",
+ "chars": 18720,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/783/013_(13) الدرس الثالث عشر ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/783/013_(13) الدرس الثالث عشر ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "15442c9ae71c64707ae63670ebd920c921b4d08a94152dcb0d90f7c60060068e",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/783/12.txt",
+   "sha256": "15442c9ae71c64707ae63670ebd920c921b4d08a94152dcb0d90f7c60060068e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

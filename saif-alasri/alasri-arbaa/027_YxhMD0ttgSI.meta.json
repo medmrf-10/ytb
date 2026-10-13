@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:YxhMD0ttgSI",
+ "vid": "YxhMD0ttgSI",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 27,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / عاشوراء بين المشروع والممنوع / د. سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "3263e81d488ffa5cb6dcd7d3868e0793a0cc6f654d6dcef3dff2bd4553185960",
+ "nh": "2a2c084c7278ccc367129f50e0858b862ed64d32adb8d9a68d05acb37f70f260",
+ "chars": 15155,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-027/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-027/transcript.txt",
+   "sha256": "3263e81d488ffa5cb6dcd7d3868e0793a0cc6f654d6dcef3dff2bd4553185960",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/027_YxhMD0ttgSI.txt",
+   "sha256": "3263e81d488ffa5cb6dcd7d3868e0793a0cc6f654d6dcef3dff2bd4553185960",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/027.txt",
+   "sha256": "3263e81d488ffa5cb6dcd7d3868e0793a0cc6f654d6dcef3dff2bd4553185960",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

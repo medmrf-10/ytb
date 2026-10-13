@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:o4Au7yHxWpA",
+ "vid": "o4Au7yHxWpA",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--941",
+ "n": 23,
+ "n_src": "read",
+ "title": "شرح الأربعين النووية ｜ حلقة 23 ｜ حديث 27 - 28 ｜ أ.د علي جمعة ｜",
+ "title_src": "filename",
+ "sha256": "25bdd0da9aa1888ee1f38832cddcf7becd7bc7b77a64eb23afa80975ea9152ed",
+ "nh": "2874aa21542bbdace79addeee55a27d65b45f6c0284b2191960e95ec349e031f",
+ "chars": 4047,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/941/023_شرح الأربعين النووية ｜ حلقة 23 ｜ حديث 27 - 28 ｜ أ.د علي جمعة ｜ English Subtitle.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/941/023_شرح الأربعين النووية ｜ حلقة 23 ｜ حديث 27 - 28 ｜ أ.د علي جمعة ｜ English Subtitle.txt",
+   "sha256": "25bdd0da9aa1888ee1f38832cddcf7becd7bc7b77a64eb23afa80975ea9152ed",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/ali-gomaa--941/023.txt",
+   "sha256": "25bdd0da9aa1888ee1f38832cddcf7becd7bc7b77a64eb23afa80975ea9152ed",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

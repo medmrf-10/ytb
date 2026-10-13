@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:R_PnPB6fUmk",
+ "vid": "R_PnPB6fUmk",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-414",
+ "n": 179,
+ "n_src": "read",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 179",
+ "title_src": "filename",
+ "sha256": "c6ad9e8444dfdb51cb62c5d268c55bd5cb199df873d34266a5144bda153641bf",
+ "nh": "fa1336a3951e0c2906b6d19ddc2eae566b8e293f2473d364ffe38c25421a5553",
+ "chars": 21539,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/179_تفسير القرآن الكريم للدكتور البوطي - الدرس 179.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/179_تفسير القرآن الكريم للدكتور البوطي - الدرس 179.txt",
+   "sha256": "c6ad9e8444dfdb51cb62c5d268c55bd5cb199df873d34266a5144bda153641bf",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/179.txt",
+   "sha256": "6c783197423262a88abcc12d106d87cfa2af5ec627ebcfc57914fcb1fa6b7caa",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

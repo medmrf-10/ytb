@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:Cn2j0Uu9eQ4",
+ "vid": "Cn2j0Uu9eQ4",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--992",
+ "n": 2,
+ "n_src": "read",
+ "title": "شرح الرسالة العضدية ｜ الدرس 2 (المقدمة-تتمة-) ｜ الشيخ محمد البردوني الحسيمي",
+ "title_src": "filename",
+ "sha256": "214048ff266271df9f781adc1a58145b6253c37b7f93ce41790ae4c1ea25642c",
+ "nh": "851b5ed4ace10aa150b7b242b61269a5afb19d8b8d8da71c6f214c6ae447fd88",
+ "chars": 11595,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/992/002_شرح الرسالة العضدية ｜ الدرس 2 (المقدمة-تتمة-) ｜ الشيخ محمد البردوني الحسيمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/992/002_شرح الرسالة العضدية ｜ الدرس 2 (المقدمة-تتمة-) ｜ الشيخ محمد البردوني الحسيمي.txt",
+   "sha256": "214048ff266271df9f781adc1a58145b6253c37b7f93ce41790ae4c1ea25642c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/sariri/risala-adudiyya/2.txt",
+   "sha256": "214048ff266271df9f781adc1a58145b6253c37b7f93ce41790ae4c1ea25642c",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/36/2.txt",
+   "sha256": "214048ff266271df9f781adc1a58145b6253c37b7f93ce41790ae4c1ea25642c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "mouloud-sariri--36",
+  "mouloud-sariri--sariri-risala-adudiyya"
+ ]
+}

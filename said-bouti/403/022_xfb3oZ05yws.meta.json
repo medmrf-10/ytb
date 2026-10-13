@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:xfb3oZ05yws",
+ "vid": "xfb3oZ05yws",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--403",
+ "n": 22,
+ "n_src": "plpos",
+ "title": "20- فقه السيرة النبوية | هجرة الرسول للمدينة المنورة",
+ "title_src": "yt_titles",
+ "sha256": "94441ac2a0a0dc10a899764b10b143878491eb86d44a692888680c6d51bc4974",
+ "nh": "e3bcea1efa099be213e429998bccdac9d8de82e2db2cdc68825eb82285e9b5a8",
+ "chars": 25285,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/403/022_20- فقه السيرة النبوية ｜ هجرة الرسول للمدينة المنورة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/403/022_20- فقه السيرة النبوية ｜ هجرة الرسول للمدينة المنورة.txt",
+   "sha256": "94441ac2a0a0dc10a899764b10b143878491eb86d44a692888680c6d51bc4974",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fi9hElsirah-022/transcript.txt",
+   "sha256": "9b59df17620e295d452761f1135d6b8542cca7e0d8faa66301b20d6940cbcd13",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-sira/22.txt",
+   "sha256": "9b59df17620e295d452761f1135d6b8542cca7e0d8faa66301b20d6940cbcd13",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/403/21.txt",
+   "sha256": "94441ac2a0a0dc10a899764b10b143878491eb86d44a692888680c6d51bc4974",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

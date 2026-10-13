@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:ciY4eioPY4U",
+ "vid": "ciY4eioPY4U",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--656",
+ "n": 45,
+ "n_src": "mutfile",
+ "title": "رياض الصالحين 45 ｜ باب تغليظ عقوبة من خالف قوله فعله ｜ أنوار السنة المحمدية ｜ أح",
+ "title_src": "filename",
+ "sha256": "e864b0f1c743a9cb7edbc1a58c078641980184d6ba160ae1df99fd23a3a48dcd",
+ "nh": "a583e01169a8948624d72b01bd0fe5cc985e0fd9027b0c2c7388450e1cb42a82",
+ "chars": 35001,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/656/045_رياض الصالحين 45 ｜ باب تغليظ عقوبة من خالف قوله فعله ｜ أنوار السنة المحمدية ｜ أح.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/656/045_رياض الصالحين 45 ｜ باب تغليظ عقوبة من خالف قوله فعله ｜ أنوار السنة المحمدية ｜ أح.txt",
+   "sha256": "e864b0f1c743a9cb7edbc1a58c078641980184d6ba160ae1df99fd23a3a48dcd",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/riyadElsali7in-045/transcript.txt",
+   "sha256": "3194870fe790cac87e6c954998abaad88a89c0889a1d38fb0b14932fedbde310",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-656/045.txt",
+   "sha256": "3194870fe790cac87e6c954998abaad88a89c0889a1d38fb0b14932fedbde310",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

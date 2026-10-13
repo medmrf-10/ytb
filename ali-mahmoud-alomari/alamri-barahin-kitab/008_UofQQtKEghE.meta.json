@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:UofQQtKEghE",
+ "vid": "UofQQtKEghE",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-barahin-kitab",
+ "n": 8,
+ "n_src": "trfile",
+ "title": "الدرس الثامن كتاب أم البراهين",
+ "title_src": "yt_titles",
+ "sha256": "75fca88ee3158eb7872843bd044e6654890ef8d705c385510d03451bfd9a7f90",
+ "nh": "16dd75de7a3a9f64512c551bd976ddc3ef1b2ae062c88f30046648bf6cb3f12c",
+ "chars": 40095,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriBarahinKitab-008/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriBarahinKitab-008/transcript.txt",
+   "sha256": "75fca88ee3158eb7872843bd044e6654890ef8d705c385510d03451bfd9a7f90",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/barahin-kitab/barahin-kitab-08_AlAmri.txt",
+   "sha256": "75fca88ee3158eb7872843bd044e6654890ef8d705c385510d03451bfd9a7f90",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-barahin-kitab/08.txt",
+   "sha256": "75fca88ee3158eb7872843bd044e6654890ef8d705c385510d03451bfd9a7f90",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

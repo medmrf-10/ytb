@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:2jANY622ZAU",
+ "vid": "2jANY622ZAU",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1006",
+ "n": 10,
+ "n_src": "read",
+ "title": "شرح لامية العرب ｜ الدرس 1 ( البيت -٠١-) ｜ الشيخ محمد البردوني الحسيمي",
+ "title_src": "filename",
+ "sha256": "4e59f9a4956f7b26fce59db5c1b79141a93e8a85b461e5e31dd83c71377400f1",
+ "nh": "bbfd881f2720da6777371303a45780a25da6344ba126cd78649519abe7f96c5a",
+ "chars": 1716,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1006/010_شرح لامية العرب ｜ الدرس 1 ( البيت -٠١-) ｜ الشيخ محمد البردوني الحسيمي.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1006/010_شرح لامية العرب ｜ الدرس 1 ( البيت -٠١-) ｜ الشيخ محمد البردوني الحسيمي.txt",
+   "sha256": "4e59f9a4956f7b26fce59db5c1b79141a93e8a85b461e5e31dd83c71377400f1",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1006/0.txt",
+   "sha256": "4e59f9a4956f7b26fce59db5c1b79141a93e8a85b461e5e31dd83c71377400f1",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

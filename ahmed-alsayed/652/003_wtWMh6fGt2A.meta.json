@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:wtWMh6fGt2A",
+ "vid": "wtWMh6fGt2A",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--652",
+ "n": 3,
+ "n_src": "mutfile",
+ "title": "السنن الإلهية 03 ｜ موجبات حلول سنة الإهلاك ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "297958234e5eb30c52ed52b82e04a55178b1b0f33b3c72b3ae683107cb8e560d",
+ "nh": "4e822b091cfa6bff18cc10e264584ea6b139b8c244edf37b615326d705ff5ee9",
+ "chars": 61243,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/652/003_السنن الإلهية 03 ｜ موجبات حلول سنة الإهلاك ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/652/003_السنن الإلهية 03 ｜ موجبات حلول سنة الإهلاك ｜ أحمد السيد.txt",
+   "sha256": "297958234e5eb30c52ed52b82e04a55178b1b0f33b3c72b3ae683107cb8e560d",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/sonanIlahiya-003/transcript.txt",
+   "sha256": "6063ab37cfe9c97c5bb8cd2bae08d39e8e9261e25b8385846059ed26a91dd4d0",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-652/003.txt",
+   "sha256": "6063ab37cfe9c97c5bb8cd2bae08d39e8e9261e25b8385846059ed26a91dd4d0",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

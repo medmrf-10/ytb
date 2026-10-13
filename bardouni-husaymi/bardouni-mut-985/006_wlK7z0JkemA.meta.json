@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "yt:wlK7z0JkemA",
+ "vid": "wlK7z0JkemA",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--bardouni-mut-985",
+ "n": 6,
+ "n_src": "read",
+ "title": "شرح المنهج المنتخب ｜ دس77 ( ق123 الكتابة هل هي شراء رقبة أو شراء خدمة ) ｜ الشيخ",
+ "title_src": "filename",
+ "sha256": "5e4ee4d360322238ad9f7a2af2ac6c6fd1bf93ae8b84a82b56efb564a5dc5816",
+ "nh": "4798bbb4309ec686c1d165881dbc13703d6d436f26741948cc4bbbde47b59faf",
+ "chars": 17214,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/985/006_شرح المنهج  المنتخب ｜ دس77 ( ق123 الكتابة هل هي شراء رقبة أو شراء خدمة ) ｜ الشيخ.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/985/006_شرح المنهج  المنتخب ｜ دس77 ( ق123 الكتابة هل هي شراء رقبة أو شراء خدمة ) ｜ الشيخ.txt",
+   "sha256": "5e4ee4d360322238ad9f7a2af2ac6c6fd1bf93ae8b84a82b56efb564a5dc5816",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bardouni/mut-985/006_شرح المنهج  المنتخب ｜ دس77 ( ق123 الكتابة هل هي شراء رقبة أو شراء خدمة ) ｜ الشيخ.txt",
+   "sha256": "5e4ee4d360322238ad9f7a2af2ac6c6fd1bf93ae8b84a82b56efb564a5dc5816",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/37/154.txt",
+   "sha256": "5e4ee4d360322238ad9f7a2af2ac6c6fd1bf93ae8b84a82b56efb564a5dc5816",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "mouloud-sariri--37"
+ ]
+}

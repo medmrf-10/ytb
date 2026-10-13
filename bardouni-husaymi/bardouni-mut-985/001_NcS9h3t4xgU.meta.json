@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "yt:NcS9h3t4xgU",
+ "vid": "NcS9h3t4xgU",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--bardouni-mut-985",
+ "n": 1,
+ "n_src": "read",
+ "title": "شرح المنهج المنتخب ｜ دس83 ( ق136 الأص أن من أتلف مثليا فعليه مثله إلا في المصرا",
+ "title_src": "filename",
+ "sha256": "904a2cef45ca968ab36be32b653a49e46449e82e997d4516d58989615c90100c",
+ "nh": "86305c5f5b373323f9e6da3d12fac7ba56f8dc40d04a296c287bd7c3fd8a8375",
+ "chars": 15743,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/985/001_شرح المنهج  المنتخب ｜ دس83 ( ق136 الأص أن من أتلف مثليا فعليه مثله إلا في المصرا.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/985/001_شرح المنهج  المنتخب ｜ دس83 ( ق136 الأص أن من أتلف مثليا فعليه مثله إلا في المصرا.txt",
+   "sha256": "904a2cef45ca968ab36be32b653a49e46449e82e997d4516d58989615c90100c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bardouni/mut-985/001_شرح المنهج  المنتخب ｜ دس83 ( ق136 الأص أن من أتلف مثليا فعليه مثله إلا في المصرا.txt",
+   "sha256": "904a2cef45ca968ab36be32b653a49e46449e82e997d4516d58989615c90100c",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/37/166.txt",
+   "sha256": "904a2cef45ca968ab36be32b653a49e46449e82e997d4516d58989615c90100c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "mouloud-sariri--37"
+ ]
+}

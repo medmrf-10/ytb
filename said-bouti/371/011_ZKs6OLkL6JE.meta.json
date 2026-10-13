@@ -1,0 +1,57 @@
+{
+ "v": 1,
+ "lid": "yt:ZKs6OLkL6JE",
+ "vid": "ZKs6OLkL6JE",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--371",
+ "n": 11,
+ "n_src": "plpos",
+ "title": "11- علوم القرآن الكريم | المبهم والمتشابه والمحكم في القرآن الكريم",
+ "title_src": "yt_titles",
+ "sha256": "74b731f9aa0c62639dd921ab19ec33387d88d95cc10db4ebd323e4dfc81b71ed",
+ "nh": "95bcc7dde19436d6bd42bc64fef41bb903e72b4c0c395cdf9ee8339c8f0bb530",
+ "chars": 19221,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/371/011_11- علوم القرآن الكريم ｜ المبهم والمتشابه والمحكم في القرآن الكريم.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/371/011_11- علوم القرآن الكريم ｜ المبهم والمتشابه والمحكم في القرآن الكريم.txt",
+   "sha256": "74b731f9aa0c62639dd921ab19ec33387d88d95cc10db4ebd323e4dfc81b71ed",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/3oloumEl9or1n-011/transcript.txt",
+   "sha256": "2482ba12590970f16232721f92876ecbae6ea2baacf61d7d0dfcf26e14e9e9d8",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/muqtatafat-ulum/10.txt",
+   "sha256": "74b731f9aa0c62639dd921ab19ec33387d88d95cc10db4ebd323e4dfc81b71ed",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-ulum-quran/11.txt",
+   "sha256": "2482ba12590970f16232721f92876ecbae6ea2baacf61d7d0dfcf26e14e9e9d8",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/355/10.txt",
+   "sha256": "74b731f9aa0c62639dd921ab19ec33387d88d95cc10db4ebd323e4dfc81b71ed",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "said-bouti--bouti-muqtatafat-ulum"
+ ]
+}

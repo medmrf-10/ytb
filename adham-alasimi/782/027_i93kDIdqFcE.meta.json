@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:i93kDIdqFcE",
+ "vid": "i93kDIdqFcE",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--782",
+ "n": 27,
+ "n_src": "read",
+ "title": "(27) ما يعمل عمل ليس ⧸ شرح ابن عقيل ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "cdd593c82927444030c83148e91c6ee746cbb2d6973eda03c5fc555a6fb1ecbe",
+ "nh": "9d4550629bf016ed53b48009e00585aa3d558bbf1f08853b4745b2c3dabf40d2",
+ "chars": 13142,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/782/027_(27) ما يعمل عمل ليس ⧸ شرح ابن عقيل ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/782/027_(27) ما يعمل عمل ليس ⧸ شرح ابن عقيل ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "cdd593c82927444030c83148e91c6ee746cbb2d6973eda03c5fc555a6fb1ecbe",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/782/26.txt",
+   "sha256": "cdd593c82927444030c83148e91c6ee746cbb2d6973eda03c5fc555a6fb1ecbe",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

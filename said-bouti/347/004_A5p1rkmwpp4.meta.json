@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:A5p1rkmwpp4",
+ "vid": "A5p1rkmwpp4",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--347",
+ "n": 4,
+ "n_src": "mutfile",
+ "title": "3 - شكر الله تعالى في القرآن الكريم كيف يشكر القلب الله عز وجل ؟",
+ "title_src": "filename",
+ "sha256": "a2b56ff5c69a0f770ccfa02ee2082e00397c2ed03e99a7e4d3d761165fbdd420",
+ "nh": "16ae6839e6417d3ecfb1329d0782fe2cb0c0a9e791364a1c9b806aaceec30166",
+ "chars": 13437,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/347/004_3 - شكر الله تعالى في القرآن الكريم  كيف يشكر القلب الله عز وجل ؟.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/347/004_3 - شكر الله تعالى في القرآن الكريم  كيف يشكر القلب الله عز وجل ؟.txt",
+   "sha256": "a2b56ff5c69a0f770ccfa02ee2082e00397c2ed03e99a7e4d3d761165fbdd420",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/rihab/004_3 - شكر الله تعالى في القرآن الكريم  كيف يشكر القلب الله عز وجل ؟.txt",
+   "sha256": "a2b56ff5c69a0f770ccfa02ee2082e00397c2ed03e99a7e4d3d761165fbdd420",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-347/004.txt",
+   "sha256": "d36908491d7782b4b858afdf01029a93ab9616c8084d6558c3be4712bf4ebd51",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

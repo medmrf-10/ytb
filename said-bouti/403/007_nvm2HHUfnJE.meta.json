@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:nvm2HHUfnJE",
+ "vid": "nvm2HHUfnJE",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--403",
+ "n": 7,
+ "n_src": "plpos",
+ "title": "5- فقه السيرة النبوية | من البعثة إلى الهجرة: الدعوة سراً",
+ "title_src": "yt_titles",
+ "sha256": "020640d249648256af1ac053202bad112ec7b1239b655f6ff727216b741d352b",
+ "nh": "e2ce93b09c03641f72af3418549f8f91ba851f7a86188c22f5df71b864c5f68f",
+ "chars": 24872,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/403/007_5- فقه السيرة النبوية ｜ من البعثة إلى الهجرة： الدعوة سراً.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/403/007_5- فقه السيرة النبوية ｜ من البعثة إلى الهجرة： الدعوة سراً.txt",
+   "sha256": "020640d249648256af1ac053202bad112ec7b1239b655f6ff727216b741d352b",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fi9hElsirah-007/transcript.txt",
+   "sha256": "cf5d3b6c549f4248ea2aab55367070fbbc5ee65935ae8c29c480680a05f220ba",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-sira/07.txt",
+   "sha256": "cf5d3b6c549f4248ea2aab55367070fbbc5ee65935ae8c29c480680a05f220ba",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

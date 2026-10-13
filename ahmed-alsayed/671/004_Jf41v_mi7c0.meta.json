@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:Jf41v_mi7c0",
+ "vid": "Jf41v_mi7c0",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--671",
+ "n": 4,
+ "n_src": "mutfile",
+ "title": "البناء التزكوي للجيل الصاعد ٠٤ ｜ خطوات التزكية： الصلاة ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "b42b5ae1e501e1579de9fb2893636afa6d6737fc39b941dd714554a6ce2cacab",
+ "nh": "8ab2724abdbb66038bd9da71811543e0c35afb70ff97d970d3cb7b7ce23e74ec",
+ "chars": 6995,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/671/004_البناء التزكوي للجيل الصاعد ٠٤ ｜ خطوات التزكية： الصلاة ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/671/004_البناء التزكوي للجيل الصاعد ٠٤ ｜ خطوات التزكية： الصلاة ｜ أحمد السيد.txt",
+   "sha256": "b42b5ae1e501e1579de9fb2893636afa6d6737fc39b941dd714554a6ce2cacab",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/albina2Eltazkawi-004/transcript.txt",
+   "sha256": "f7c7564dd8f55254e777ce35131dbb845a5587d0e4c9bcd5b32a55abe4d9ca37",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-671/004.txt",
+   "sha256": "f7c7564dd8f55254e777ce35131dbb845a5587d0e4c9bcd5b32a55abe4d9ca37",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

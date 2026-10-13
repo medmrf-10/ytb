@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:MzRFVnpgwLg",
+ "vid": "MzRFVnpgwLg",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--775",
+ "n": 14,
+ "n_src": "read",
+ "title": "(14) الشاهد + مختلف الحديث ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "e8475f5d500734a8d60c75ef4c0e739e7d4c9df8c4e899a09aed739a278e6812",
+ "nh": "9538c04aef15ceacd1f291fe428de572ae6aa549be4078d5a59fcb69c1699ccd",
+ "chars": 20956,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/775/014_(14) الشاهد + مختلف الحديث ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/775/014_(14) الشاهد + مختلف الحديث ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "e8475f5d500734a8d60c75ef4c0e739e7d4c9df8c4e899a09aed739a278e6812",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/775/13.txt",
+   "sha256": "e8475f5d500734a8d60c75ef4c0e739e7d4c9df8c4e899a09aed739a278e6812",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

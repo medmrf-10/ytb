@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:habib-ali-aljifri--101:28",
+ "vid": null,
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--101",
+ "n": 28,
+ "n_src": "read",
+ "title": "أيها المريد ｜ الحلقة27 ｜ مراتب الدهش ｜ علي الجفري ｜",
+ "title_src": "filename",
+ "sha256": "93440b8a5734e4e34fc88410ec3762d7687c60b93bbfd3388d012457bcd61aab",
+ "nh": "fcb803e111288fac65acb6d33ef147bb68095febea73bfe2dd5fa856ffff7235",
+ "chars": 11586,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/101/028_أيها المريد ｜ الحلقة27 ｜ مراتب الدهش ｜ علي الجفري ｜ English subtitle.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/101/028_أيها المريد ｜ الحلقة27 ｜ مراتب الدهش ｜ علي الجفري ｜ English subtitle.txt",
+   "sha256": "93440b8a5734e4e34fc88410ec3762d7687c60b93bbfd3388d012457bcd61aab",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/101/27.txt",
+   "sha256": "93440b8a5734e4e34fc88410ec3762d7687c60b93bbfd3388d012457bcd61aab",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

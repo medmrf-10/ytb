@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:AwLGGCLZxdo",
+ "vid": "AwLGGCLZxdo",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--345",
+ "n": 1,
+ "n_src": "plpos",
+ "title": "1- مشاهد وعبر من القرآن والسنة | خليفة الله في الأرض",
+ "title_src": "yt_titles",
+ "sha256": "818574edd246e7fed221446554deff5261c6f541694990daeabe0747fdfafdf3",
+ "nh": "faabf4654e11fc3412c9a77839f084c53acd2687099f9383a8db39d60b373e2c",
+ "chars": 13074,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/345/001_1- مشاهد وعبر من القرآن والسنة ｜ خليفة الله في الأرض.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/345/001_1- مشاهد وعبر من القرآن والسنة ｜ خليفة الله في الأرض.txt",
+   "sha256": "818574edd246e7fed221446554deff5261c6f541694990daeabe0747fdfafdf3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-mashahid/01.txt",
+   "sha256": "063edb77b42ed067acefbc1951b3330208d8383af26d03e184aeab66ffaf1d13",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/345/0.txt",
+   "sha256": "818574edd246e7fed221446554deff5261c6f541694990daeabe0747fdfafdf3",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

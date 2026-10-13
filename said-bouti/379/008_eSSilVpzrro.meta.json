@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:eSSilVpzrro",
+ "vid": "eSSilVpzrro",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--379",
+ "n": 8,
+ "n_src": "plpos",
+ "title": "8- تاريخ التشريع الإسلامي | خصائص الدور الثالث: ظهور الفرق",
+ "title_src": "yt_titles",
+ "sha256": "da6f7fc33add39d4d41065b8b6180b69a2b1b7a474381fc68b105682e7bf87f3",
+ "nh": "1bb5060e2ca607bef6dde2adb258fbac03b20cd8d55c82eb55bedbe5eb283aa4",
+ "chars": 19165,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/379/008_8- تاريخ التشريع الإسلامي ｜ خصائص الدور الثالث： ظهور الفرق.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/379/008_8- تاريخ التشريع الإسلامي ｜ خصائص الدور الثالث： ظهور الفرق.txt",
+   "sha256": "da6f7fc33add39d4d41065b8b6180b69a2b1b7a474381fc68b105682e7bf87f3",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/tari5Eltachri3-008/transcript.txt",
+   "sha256": "789c0c8cbd4b54d20005c615237b37f92cc4dd1aa459aefb4a7fddf7cd4878cd",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-tarikh/08.txt",
+   "sha256": "789c0c8cbd4b54d20005c615237b37f92cc4dd1aa459aefb4a7fddf7cd4878cd",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/379/7.txt",
+   "sha256": "da6f7fc33add39d4d41065b8b6180b69a2b1b7a474381fc68b105682e7bf87f3",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

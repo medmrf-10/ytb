@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:lsb6xUPT93Q",
+ "vid": "lsb6xUPT93Q",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--379",
+ "n": 27,
+ "n_src": "plpos",
+ "title": "27- تاريخ التشريع الإسلامي | الإمام أحمد بن حنبل والمحنة التي ابتلي بها",
+ "title_src": "yt_titles",
+ "sha256": "d819223b71f5c17e6b3b5c9c9cce1d074da30f8cccb071b7af8493de64125a8c",
+ "nh": "8bfe5562165818c5e833dd4883ce3089f5cbbe0a076fae0716df74f29f85c19c",
+ "chars": 20208,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/379/027_27- تاريخ التشريع الإسلامي ｜ الإمام أحمد بن حنبل والمحنة التي ابتلي بها.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/379/027_27- تاريخ التشريع الإسلامي ｜ الإمام أحمد بن حنبل والمحنة التي ابتلي بها.txt",
+   "sha256": "d819223b71f5c17e6b3b5c9c9cce1d074da30f8cccb071b7af8493de64125a8c",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/tari5Eltachri3-027/transcript.txt",
+   "sha256": "048268619b3a7c0c513d2443093f2f4b29e1e40b7e19554244dd91ca39e9719f",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-tarikh/27.txt",
+   "sha256": "048268619b3a7c0c513d2443093f2f4b29e1e40b7e19554244dd91ca39e9719f",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/379/26.txt",
+   "sha256": "d819223b71f5c17e6b3b5c9c9cce1d074da30f8cccb071b7af8493de64125a8c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

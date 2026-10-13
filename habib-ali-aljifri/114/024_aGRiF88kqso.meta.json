@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:aGRiF88kqso",
+ "vid": "aGRiF88kqso",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--114",
+ "n": 24,
+ "n_src": "read",
+ "title": "الإنسانية قبل التدين ｜ الحلقة 23 صاحب الفضل - ميزان التدين والإنسانية في العطاء",
+ "title_src": "filename",
+ "sha256": "35c88bbbac99a8c5f2e8c2f7f99bb05abedc2634291e3c6423c6793f437a3993",
+ "nh": "b721a1f067ae87731fece18255ea3aa966e4fc337c52195ad14458bed7607216",
+ "chars": 9403,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/114/024_الإنسانية قبل التدين ｜ الحلقة 23 صاحب الفضل - ميزان التدين والإنسانية في العطاء .txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/114/024_الإنسانية قبل التدين ｜ الحلقة 23 صاحب الفضل - ميزان التدين والإنسانية في العطاء .txt",
+   "sha256": "35c88bbbac99a8c5f2e8c2f7f99bb05abedc2634291e3c6423c6793f437a3993",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/114/23.txt",
+   "sha256": "35c88bbbac99a8c5f2e8c2f7f99bb05abedc2634291e3c6423c6793f437a3993",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

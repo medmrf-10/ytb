@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:MlKXjYn-8d8",
+ "vid": "MlKXjYn-8d8",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 138,
+ "n_src": "plpos",
+ "title": "#والله_أعلم | الحلقة الكاملة 10 مايو 2015 | حكم الهجوم على العلماء",
+ "title_src": "yt_titles",
+ "sha256": "2047e8758477f4e04b241e26935cb6e0c03ab24cfbe143c880c80735d7ea795d",
+ "nh": "1100c0eee7f401d1d0b905d2a2c04d2d649f52a6140a85fc665d64ae8761fed5",
+ "chars": 28018,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/gomaa/mut-822/138_#والله_أعلم ｜ الحلقة الكاملة 10 مايو 2015 ｜ حكم الهجوم على العلماء.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/138_#والله_أعلم ｜ الحلقة الكاملة 10 مايو 2015 ｜ حكم الهجوم على العلماء.txt",
+   "sha256": "2047e8758477f4e04b241e26935cb6e0c03ab24cfbe143c880c80735d7ea795d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/138.txt",
+   "sha256": "96518049760db4b613e42b17294211809af58fc12ec12044a9c234ee506fca02",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

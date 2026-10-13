@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:dngXEW5pAI4",
+ "vid": "dngXEW5pAI4",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--796",
+ "n": 9,
+ "n_src": "read",
+ "title": "(09) المثنى + جمع المذكر السالم ⧸ قطر الندى ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "ecf31bb89120b44b0fd9bb6957a6875e4a7b3fa43ea4bf7c03ec122e03d41f78",
+ "nh": "249fa19478944a064500bf391b29fb335b882951da7826c13ac679cae1faa4b7",
+ "chars": 29626,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/796/009_(09) المثنى + جمع المذكر السالم ⧸ قطر الندى ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/796/009_(09) المثنى + جمع المذكر السالم ⧸ قطر الندى ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "ecf31bb89120b44b0fd9bb6957a6875e4a7b3fa43ea4bf7c03ec122e03d41f78",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/796/8.txt",
+   "sha256": "ecf31bb89120b44b0fd9bb6957a6875e4a7b3fa43ea4bf7c03ec122e03d41f78",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

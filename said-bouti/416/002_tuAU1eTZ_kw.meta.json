@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:tuAU1eTZ_kw",
+ "vid": "tuAU1eTZ_kw",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--416",
+ "n": 2,
+ "n_src": "mutfile",
+ "title": "2- العبادة والعبودية في القرآن الكريم مصير العبادة عندما تغيب العبودية",
+ "title_src": "filename",
+ "sha256": "ecf5a607a72d167c9bc074a15ff3ae434757ca756272c00b544f8d562c00cc74",
+ "nh": "c64639926a5988e1c2fefede252eca71fc05ed7619189a9d018bcc86f75e4d35",
+ "chars": 13481,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/416/002_2-  العبادة والعبودية في القرآن الكريم  مصير العبادة عندما تغيب العبودية.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/416/002_2-  العبادة والعبودية في القرآن الكريم  مصير العبادة عندما تغيب العبودية.txt",
+   "sha256": "ecf5a607a72d167c9bc074a15ff3ae434757ca756272c00b544f8d562c00cc74",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tawba/002_2-  العبادة والعبودية في القرآن الكريم  مصير العبادة عندما تغيب العبودية.txt",
+   "sha256": "ecf5a607a72d167c9bc074a15ff3ae434757ca756272c00b544f8d562c00cc74",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/ibada/002_2-  العبادة والعبودية في القرآن الكريم  مصير العبادة عندما تغيب العبودية.txt",
+   "sha256": "ecf5a607a72d167c9bc074a15ff3ae434757ca756272c00b544f8d562c00cc74",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-416/002.txt",
+   "sha256": "41fe50cdb87f336b01e62322ba282e2aa687993ca1bf14f14cbfdfd813b4a64e",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

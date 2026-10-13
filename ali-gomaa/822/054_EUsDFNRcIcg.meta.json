@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:EUsDFNRcIcg",
+ "vid": "EUsDFNRcIcg",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 54,
+ "n_src": "plpos",
+ "title": "والله أعلم | فضيلة الدكتور علي جمعة يتحدث عن مستقبل الوجود الإسلامي بالغرب | الحلقة الكاملة",
+ "title_src": "yt_titles",
+ "sha256": "00bccc063a49ae1f74acb9aea59f9e1358844b16fee278a715ea12ecca7355c8",
+ "nh": "b0769a377d9210f6867ebe6080ce7e8003030a8f9d248d69fbb71f533bb99d30",
+ "chars": 18786,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/054_والله أعلم ｜ فضيلة الدكتور علي جمعة يتحدث عن مستقبل الوجود الإسلامي بالغرب ｜ الح.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/054_والله أعلم ｜ فضيلة الدكتور علي جمعة يتحدث عن مستقبل الوجود الإسلامي بالغرب ｜ الح.txt",
+   "sha256": "00bccc063a49ae1f74acb9aea59f9e1358844b16fee278a715ea12ecca7355c8",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/054_والله أعلم ｜ فضيلة الدكتور علي جمعة يتحدث عن مستقبل الوجود الإسلامي بالغرب ｜ الح.txt",
+   "sha256": "00bccc063a49ae1f74acb9aea59f9e1358844b16fee278a715ea12ecca7355c8",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/054.txt",
+   "sha256": "dbda5cbfe06a07e3f274592af52e5d4f337023409896150da2bbccf4e2e9334c",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

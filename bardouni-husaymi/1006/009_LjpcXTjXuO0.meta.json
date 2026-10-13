@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:LjpcXTjXuO0",
+ "vid": "LjpcXTjXuO0",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1006",
+ "n": 9,
+ "n_src": "read",
+ "title": "شرح لامية العرب ｜ الدرس 2 ( البيتين -٢ و ٣-) ｜ الشيخ محمد البردوني الحسيمي",
+ "title_src": "filename",
+ "sha256": "0779ebd2a4045b5921b237a59d47a38f8b21600a541814a1a5438958e7cd8bb9",
+ "nh": "1f8350aa6d31c5bf9d0aabf93349226e0e5c07575db9beb81e5cb2049ebed454",
+ "chars": 23228,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1006/009_شرح لامية العرب ｜ الدرس 2 ( البيتين -٢ و ٣-) ｜ الشيخ محمد البردوني الحسيمي.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1006/009_شرح لامية العرب ｜ الدرس 2 ( البيتين -٢ و ٣-) ｜ الشيخ محمد البردوني الحسيمي.txt",
+   "sha256": "0779ebd2a4045b5921b237a59d47a38f8b21600a541814a1a5438958e7cd8bb9",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1006/1.txt",
+   "sha256": "0779ebd2a4045b5921b237a59d47a38f8b21600a541814a1a5438958e7cd8bb9",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

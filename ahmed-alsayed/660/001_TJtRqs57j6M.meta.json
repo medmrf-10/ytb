@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:TJtRqs57j6M",
+ "vid": "TJtRqs57j6M",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--660",
+ "n": 1,
+ "n_src": "mutfile",
+ "title": "الأمة بين احتلالين ｜ تشويقة ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "c8723ae578243c2c13bf61f5f39622d59c78430d634ed1a347609668d25a9753",
+ "nh": "f96f5b527fc2120b502232075f6c772ff9a798a07d1f2a9880dd5a469df7ddb1",
+ "chars": 4513,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/660/001_الأمة بين احتلالين ｜ تشويقة ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/660/001_الأمة بين احتلالين ｜ تشويقة ｜ أحمد السيد.txt",
+   "sha256": "c8723ae578243c2c13bf61f5f39622d59c78430d634ed1a347609668d25a9753",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/elommaBaynI7tilayn-001/transcript.txt",
+   "sha256": "f874e14a201d7a197bc57b29b5b886ef811588571acb3ce13ed8feefe0f7d17a",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-660/001.txt",
+   "sha256": "f874e14a201d7a197bc57b29b5b886ef811588571acb3ce13ed8feefe0f7d17a",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

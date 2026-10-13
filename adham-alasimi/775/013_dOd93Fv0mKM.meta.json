@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:dOd93Fv0mKM",
+ "vid": "dOd93Fv0mKM",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--775",
+ "n": 13,
+ "n_src": "read",
+ "title": "(13) الشاذ و المحفوظ و المعروف و المنكر و المتابعة ⧸ كتاب نزهة النظر شرح نخبة ال",
+ "title_src": "filename",
+ "sha256": "2fcf1e5145f4d742e665c9acc47c1f3c4edf8d162c22612a7aecc58cd7ed3df8",
+ "nh": "90f0253b29a7e621ea51cbeaaaf06b16f5fd7be22a515938d6a9dabb2ad6aead",
+ "chars": 19053,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/775/013_(13) الشاذ و المحفوظ و المعروف و المنكر و المتابعة ⧸ كتاب نزهة النظر شرح نخبة ال.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/775/013_(13) الشاذ و المحفوظ و المعروف و المنكر و المتابعة ⧸ كتاب نزهة النظر شرح نخبة ال.txt",
+   "sha256": "2fcf1e5145f4d742e665c9acc47c1f3c4edf8d162c22612a7aecc58cd7ed3df8",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/775/12.txt",
+   "sha256": "2fcf1e5145f4d742e665c9acc47c1f3c4edf8d162c22612a7aecc58cd7ed3df8",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

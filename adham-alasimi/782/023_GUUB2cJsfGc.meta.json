@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:GUUB2cJsfGc",
+ "vid": "GUUB2cJsfGc",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--782",
+ "n": 23,
+ "n_src": "read",
+ "title": "(23) المبتدأ والخبر (6) ⧸ شرح ابن عقيل ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "287005ad13d5070a40f0fa98888325f640ff56031e1358c450ea61b03e34380b",
+ "nh": "dfbbeb8685a0ea34eb52a23f7bb8f5698098a9800668df6232a92e8a6c78c1cc",
+ "chars": 21108,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/782/023_(23) المبتدأ والخبر (6) ⧸ شرح ابن عقيل ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/782/023_(23) المبتدأ والخبر (6) ⧸ شرح ابن عقيل ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "287005ad13d5070a40f0fa98888325f640ff56031e1358c450ea61b03e34380b",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/782/22.txt",
+   "sha256": "287005ad13d5070a40f0fa98888325f640ff56031e1358c450ea61b03e34380b",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

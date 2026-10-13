@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:tZQcwoVG4jg",
+ "vid": "tZQcwoVG4jg",
+ "sheikh": "hatem-alaouni",
+ "row_id": "hatem-alaouni--aouni-mousiqa",
+ "n": 5,
+ "n_src": "trfile",
+ "title": "مناقشة دعوى الإجماع في تحريم المعازف الغناء  الجزء الثالث والأخير من المناقشة",
+ "title_src": "yt_titles",
+ "sha256": "c31f3558744c44bd15eb4456e0d8a82ae5bf3b64a0dde126e7e6a98ef49154e2",
+ "nh": "ea6f1c0bf11013382678a32f670fe5f205e7fd90755cf8fb5632bbcf873f2ea1",
+ "chars": 24927,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/aouniMousiqa-005/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/aouniMousiqa-005/transcript.txt",
+   "sha256": "c31f3558744c44bd15eb4456e0d8a82ae5bf3b64a0dde126e7e6a98ef49154e2",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/aouni/mousiqa/005_tZQcwoVG4jg.txt",
+   "sha256": "c31f3558744c44bd15eb4456e0d8a82ae5bf3b64a0dde126e7e6a98ef49154e2",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/aouni-mousiqa/005.txt",
+   "sha256": "c31f3558744c44bd15eb4456e0d8a82ae5bf3b64a0dde126e7e6a98ef49154e2",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

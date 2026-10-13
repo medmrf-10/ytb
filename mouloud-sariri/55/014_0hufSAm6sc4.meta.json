@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:0hufSAm6sc4",
+ "vid": "0hufSAm6sc4",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 14,
+ "n_src": "read",
+ "title": "خطب منبرية ： التدرج في المعصية ⧸ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "73038f302c5591b366f1b6f1e9ed20942d0145e612ac695ae3817d74b5779d55",
+ "nh": "de884f1dc554e3030ce6a9150725788421936464e12765e4b37536f73721e9d5",
+ "chars": 13971,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/014_خطب منبرية ： التدرج في المعصية ⧸ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/014_خطب منبرية ： التدرج في المعصية ⧸ الشيخ العلامة مولود السريري.txt",
+   "sha256": "73038f302c5591b366f1b6f1e9ed20942d0145e612ac695ae3817d74b5779d55",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/13.txt",
+   "sha256": "73038f302c5591b366f1b6f1e9ed20942d0145e612ac695ae3817d74b5779d55",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

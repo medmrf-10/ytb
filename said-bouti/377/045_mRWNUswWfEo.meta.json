@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:mRWNUswWfEo",
+ "vid": "mRWNUswWfEo",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--377",
+ "n": 45,
+ "n_src": "plpos",
+ "title": "39- كبرى اليقينيات الكونية | أحداث يوم القيامة (4) ( هول الموقف - الميزان )",
+ "title_src": "yt_titles",
+ "sha256": "7e2266a6c6abd656d1e3a012b660fa3d92a9d2df89b191c340ad2813a877f3a5",
+ "nh": "0080c71fd504539aa17d454dd60c1c99235f9ce3b024a519c719da70414ffb5c",
+ "chars": 17994,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/377/045_39- كبرى اليقينيات الكونية ｜ أحداث يوم القيامة (4) ( هول الموقف - الميزان ).txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/377/045_39- كبرى اليقينيات الكونية ｜ أحداث يوم القيامة (4) ( هول الموقف - الميزان ).txt",
+   "sha256": "7e2266a6c6abd656d1e3a012b660fa3d92a9d2df89b191c340ad2813a877f3a5",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/kobraElya9inyat-045/transcript.txt",
+   "sha256": "97a06b56727d94c1e8d688bc2de8d420c8620e01d2e5141b5a8543009702a588",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/45.txt",
+   "sha256": "97a06b56727d94c1e8d688bc2de8d420c8620e01d2e5141b5a8543009702a588",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/377/3.txt",
+   "sha256": "7e2266a6c6abd656d1e3a012b660fa3d92a9d2df89b191c340ad2813a877f3a5",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

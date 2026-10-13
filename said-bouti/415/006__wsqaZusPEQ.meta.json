@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:_wsqaZusPEQ",
+ "vid": "_wsqaZusPEQ",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--415",
+ "n": 6,
+ "n_src": "mutfile",
+ "title": "5 - التزكية في القرآن الكريم من آثار التزكية - الأخوة الإيمانية",
+ "title_src": "filename",
+ "sha256": "1bc3d3bab2549ccc407a58ae9e760b0f9a81026f08892ff1aca192e1c515296d",
+ "nh": "2c435f1d27e96d126f636c3c6a0f509e80acc3b7249f6497273f9a6c246c093a",
+ "chars": 13215,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/415/006_5 - التزكية في القرآن الكريم  من آثار التزكية - الأخوة الإيمانية.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/415/006_5 - التزكية في القرآن الكريم  من آثار التزكية - الأخوة الإيمانية.txt",
+   "sha256": "1bc3d3bab2549ccc407a58ae9e760b0f9a81026f08892ff1aca192e1c515296d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tawba/006_5 - التزكية في القرآن الكريم  من آثار التزكية - الأخوة الإيمانية.txt",
+   "sha256": "1bc3d3bab2549ccc407a58ae9e760b0f9a81026f08892ff1aca192e1c515296d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tazkiya/006_5 - التزكية في القرآن الكريم  من آثار التزكية - الأخوة الإيمانية.txt",
+   "sha256": "1bc3d3bab2549ccc407a58ae9e760b0f9a81026f08892ff1aca192e1c515296d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-415/005.txt",
+   "sha256": "4276faa9ca917557fd528e31e37e764c478a0290be85234571ea6b972f39939c",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

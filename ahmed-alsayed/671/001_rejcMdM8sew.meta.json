@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:rejcMdM8sew",
+ "vid": "rejcMdM8sew",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--671",
+ "n": 1,
+ "n_src": "mutfile",
+ "title": "البناء التزكوي للجيل الصاعد ٠١ ｜ مفهوم التزكية ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "ebf6d5208c49538173487dbcd1718a876da049aa0861b8a54fad24f16a14d08b",
+ "nh": "9ffbd9708ea8214be7af4b88222c9ac631271dfb93e18aa23243ef51c5c7c295",
+ "chars": 16403,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/671/001_البناء التزكوي للجيل الصاعد ٠١ ｜ مفهوم التزكية ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/671/001_البناء التزكوي للجيل الصاعد ٠١ ｜ مفهوم التزكية ｜ أحمد السيد.txt",
+   "sha256": "ebf6d5208c49538173487dbcd1718a876da049aa0861b8a54fad24f16a14d08b",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/albina2Eltazkawi-001/transcript.txt",
+   "sha256": "560390360b456f9ad43416d5753ac4aa8d50959e0a80bbc238e063e6f02a5363",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-671/001.txt",
+   "sha256": "560390360b456f9ad43416d5753ac4aa8d50959e0a80bbc238e063e6f02a5363",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

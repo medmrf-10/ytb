@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:sbTAc8fJp2M",
+ "vid": "sbTAc8fJp2M",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-liqaat",
+ "n": 2,
+ "n_src": "trfile",
+ "title": "الدرس 2",
+ "title_src": "filename",
+ "sha256": "3d24011f2999ae49b86444ee1c8d8ee3d95a98226497e8c51f7292ebecbcb5b3",
+ "nh": "57fb7797eac1c3a91abcd1ca613fa8d9b64ce4e4448606493f6f65e382a3d508",
+ "chars": 3705,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriLiqaat-002/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriLiqaat-002/transcript.txt",
+   "sha256": "3d24011f2999ae49b86444ee1c8d8ee3d95a98226497e8c51f7292ebecbcb5b3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/liqaat/liqaat-02_AlAmri.txt",
+   "sha256": "3d24011f2999ae49b86444ee1c8d8ee3d95a98226497e8c51f7292ebecbcb5b3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-liqaat/02.txt",
+   "sha256": "3d24011f2999ae49b86444ee1c8d8ee3d95a98226497e8c51f7292ebecbcb5b3",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

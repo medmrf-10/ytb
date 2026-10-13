@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:LQbenSZoU00",
+ "vid": "LQbenSZoU00",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+ "n": 19,
+ "n_src": "trfile",
+ "title": "الدَّرس التَّاسع عشر _القطب الثَّاني_ صفة العلم والحياة",
+ "title_src": "yt_titles",
+ "sha256": "6346dcef33a76f9a68b061bc823839881eb640f0af37234543ad4eb2eb145285",
+ "nh": "6d5b1727a3be8906be6e07b374d2159954e2192d0b28adca7ec9f56a1cacd3b6",
+ "chars": 29104,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriIqtisad-019/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriIqtisad-019/transcript.txt",
+   "sha256": "6346dcef33a76f9a68b061bc823839881eb640f0af37234543ad4eb2eb145285",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-19_AlAmri.txt",
+   "sha256": "6346dcef33a76f9a68b061bc823839881eb640f0af37234543ad4eb2eb145285",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-iqtisad/19.txt",
+   "sha256": "6346dcef33a76f9a68b061bc823839881eb640f0af37234543ad4eb2eb145285",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

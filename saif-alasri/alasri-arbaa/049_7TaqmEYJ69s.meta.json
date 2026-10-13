@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:7TaqmEYJ69s",
+ "vid": "7TaqmEYJ69s",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 49,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / اللا مذهبية هي الفوضى / الدكتور سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "14c3b564d97bbe7a2ee5c34b30f5a05944d12cc2302568fa9ececf98aaba37ab",
+ "nh": "fcba52938c36b278aadb7db051260ae822f896b851ee4019d3b297c540ae14b1",
+ "chars": 21605,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-049/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-049/transcript.txt",
+   "sha256": "14c3b564d97bbe7a2ee5c34b30f5a05944d12cc2302568fa9ececf98aaba37ab",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/049_7TaqmEYJ69s.txt",
+   "sha256": "14c3b564d97bbe7a2ee5c34b30f5a05944d12cc2302568fa9ececf98aaba37ab",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/049.txt",
+   "sha256": "14c3b564d97bbe7a2ee5c34b30f5a05944d12cc2302568fa9ececf98aaba37ab",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

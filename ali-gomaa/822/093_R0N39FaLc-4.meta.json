@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:R0N39FaLc-4",
+ "vid": "R0N39FaLc-4",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 93,
+ "n_src": "plpos",
+ "title": "#والله_أعلم | الحلقة الكاملة 6 ديسمبر 2015 | حقيقة الخلاف السياسي في الإسلام",
+ "title_src": "yt_titles",
+ "sha256": "39089eaaeaeb73c53a4a099518c6fa62be173a6335be39a4a833d2ba06ef43a7",
+ "nh": "94265fd35e7edc5cd5c7eaa5d72bafc874d4c642d9e8f34e7ff8e374b580e4f5",
+ "chars": 32271,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/093_#والله_أعلم ｜ الحلقة الكاملة 6 ديسمبر 2015 ｜ حقيقة الخلاف السياسي في الإسلام.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/093_#والله_أعلم ｜ الحلقة الكاملة 6 ديسمبر 2015 ｜ حقيقة الخلاف السياسي في الإسلام.txt",
+   "sha256": "39089eaaeaeb73c53a4a099518c6fa62be173a6335be39a4a833d2ba06ef43a7",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/093_#والله_أعلم ｜ الحلقة الكاملة 6 ديسمبر 2015 ｜ حقيقة الخلاف السياسي في الإسلام.txt",
+   "sha256": "39089eaaeaeb73c53a4a099518c6fa62be173a6335be39a4a833d2ba06ef43a7",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/093.txt",
+   "sha256": "92922589ab2e6852fc84b925f8c3fd8f70a3c131b0d4aafc7cea739f6f7f9918",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

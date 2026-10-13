@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:wlNC4Gv-jLM",
+ "vid": "wlNC4Gv-jLM",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--941",
+ "n": 22,
+ "n_src": "read",
+ "title": "شرح الأربعين النووية ｜ حلقة 22 ｜ حديث 26 ｜ أ.د علي جمعة ｜",
+ "title_src": "filename",
+ "sha256": "7675ac706a3a5985b9378d046a78934ded6aeb69d46f5406f340f3bb9938d903",
+ "nh": "4cbcd4540d246e5f64b6eacec152e5dc14959d97a5b384f7ac00064514130859",
+ "chars": 3173,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/941/022_شرح الأربعين النووية ｜ حلقة 22 ｜ حديث 26 ｜ أ.د علي جمعة ｜ English Subtitle.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/941/022_شرح الأربعين النووية ｜ حلقة 22 ｜ حديث 26 ｜ أ.د علي جمعة ｜ English Subtitle.txt",
+   "sha256": "7675ac706a3a5985b9378d046a78934ded6aeb69d46f5406f340f3bb9938d903",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/ali-gomaa--941/022.txt",
+   "sha256": "7675ac706a3a5985b9378d046a78934ded6aeb69d46f5406f340f3bb9938d903",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

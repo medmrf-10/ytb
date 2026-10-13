@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:XG1qXIm5lLo",
+ "vid": "XG1qXIm5lLo",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-barahin-muqtatafat",
+ "n": 10,
+ "n_src": "trfile",
+ "title": "الفرق بين الصفات السلبية والمعاني من حيث جواز اتصاف الخلق بها",
+ "title_src": "yt_titles",
+ "sha256": "df2008f2f30193b4c84929859df46d77b86080e63b6911c624c81698d003f540",
+ "nh": "1519575a5bffabe18f4b2191ac183cd1f14faaf7a08750ff835530fb964c5133",
+ "chars": 1857,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriBarahinMuqtatafat-010/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriBarahinMuqtatafat-010/transcript.txt",
+   "sha256": "df2008f2f30193b4c84929859df46d77b86080e63b6911c624c81698d003f540",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/barahin-muqtatafat/barahin-muqtatafat-10_AlAmri.txt",
+   "sha256": "df2008f2f30193b4c84929859df46d77b86080e63b6911c624c81698d003f540",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-barahin-muqtatafat/10.txt",
+   "sha256": "df2008f2f30193b4c84929859df46d77b86080e63b6911c624c81698d003f540",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

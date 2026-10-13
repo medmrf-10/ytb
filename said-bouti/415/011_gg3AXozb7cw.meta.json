@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:gg3AXozb7cw",
+ "vid": "gg3AXozb7cw",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--415",
+ "n": 11,
+ "n_src": "mutfile",
+ "title": "10 - التزكية في القرآن الكريم طرب الأرواح",
+ "title_src": "filename",
+ "sha256": "82a060e9b7252622d4ee5ffe8a911e582731e60f15ecd178690b87cee3063868",
+ "nh": "4e192c531146f01e4ea4d084fef85b1216f26e36e0b2b2e99e265c4403f9632a",
+ "chars": 14048,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/415/011_10 - التزكية في القرآن الكريم  طرب الأرواح.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/415/011_10 - التزكية في القرآن الكريم  طرب الأرواح.txt",
+   "sha256": "82a060e9b7252622d4ee5ffe8a911e582731e60f15ecd178690b87cee3063868",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tawba/011_10 - التزكية في القرآن الكريم  طرب الأرواح.txt",
+   "sha256": "82a060e9b7252622d4ee5ffe8a911e582731e60f15ecd178690b87cee3063868",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tazkiya/011_10 - التزكية في القرآن الكريم  طرب الأرواح.txt",
+   "sha256": "82a060e9b7252622d4ee5ffe8a911e582731e60f15ecd178690b87cee3063868",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-415/009.txt",
+   "sha256": "6629a1ef22cde7b1e56fe2ee27939be77a71c778b3b93380a2bad1974d732096",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

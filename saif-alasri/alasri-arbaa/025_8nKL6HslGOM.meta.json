@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:8nKL6HslGOM",
+ "vid": "8nKL6HslGOM",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 25,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / الإعلام بمن لبس الخرقة من الأعلام / د. سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "8df28197df563a660f4a09127326595cbe843d5eaee215ac5ae82c66d8bde6c3",
+ "nh": "3e6939d391dd86d31535b7e744e6896df5b914add913d2ccd9028af9c75dab75",
+ "chars": 22860,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-025/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-025/transcript.txt",
+   "sha256": "8df28197df563a660f4a09127326595cbe843d5eaee215ac5ae82c66d8bde6c3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/025_8nKL6HslGOM.txt",
+   "sha256": "8df28197df563a660f4a09127326595cbe843d5eaee215ac5ae82c66d8bde6c3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/025.txt",
+   "sha256": "8df28197df563a660f4a09127326595cbe843d5eaee215ac5ae82c66d8bde6c3",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

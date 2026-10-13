@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:Xe-zkZxxARY",
+ "vid": "Xe-zkZxxARY",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 15,
+ "n_src": "read",
+ "title": "خطب منبرية ： حلاوة الإيمان ⧸ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "60ef61bb7a3e1d28b3b86149d63ecd26ed533325299c82c0a3569eacb4d7cabc",
+ "nh": "cb91be3f39eb6afeb27ae511a253b64a74770ff8990165c987889eae0fd244f4",
+ "chars": 12548,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/015_خطب منبرية ： حلاوة الإيمان ⧸ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/015_خطب منبرية ： حلاوة الإيمان ⧸ الشيخ العلامة مولود السريري.txt",
+   "sha256": "60ef61bb7a3e1d28b3b86149d63ecd26ed533325299c82c0a3569eacb4d7cabc",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/14.txt",
+   "sha256": "60ef61bb7a3e1d28b3b86149d63ecd26ed533325299c82c0a3569eacb4d7cabc",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

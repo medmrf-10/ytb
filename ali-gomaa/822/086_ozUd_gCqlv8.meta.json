@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:ozUd_gCqlv8",
+ "vid": "ozUd_gCqlv8",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 86,
+ "n_src": "plpos",
+ "title": "حديث الجمعة | كيفية التفرقة بين النص وتفسير النص وتطبيق النص",
+ "title_src": "yt_titles",
+ "sha256": "0330aa7f64e55d7c4a2c4c57506765425825f30cbca286ec561747d14c751021",
+ "nh": "de1f8dd6cfffdafebad2f9b152bbd9edd441b62ccefb00294bd4d4589b8a9140",
+ "chars": 9877,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/086_حديث الجمعة ｜ كيفية التفرقة بين النص وتفسير النص وتطبيق النص.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/086_حديث الجمعة ｜ كيفية التفرقة بين النص وتفسير النص وتطبيق النص.txt",
+   "sha256": "0330aa7f64e55d7c4a2c4c57506765425825f30cbca286ec561747d14c751021",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/086_حديث الجمعة ｜ كيفية التفرقة بين النص وتفسير النص وتطبيق النص.txt",
+   "sha256": "0330aa7f64e55d7c4a2c4c57506765425825f30cbca286ec561747d14c751021",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/086.txt",
+   "sha256": "14b3969a7afc532b07e5ba884173c20808845ad2bf440e140d2d9104e0c5bb8d",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

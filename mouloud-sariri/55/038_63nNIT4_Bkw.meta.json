@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:63nNIT4_Bkw",
+ "vid": "63nNIT4_Bkw",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 38,
+ "n_src": "read",
+ "title": "خطب منبرية： ＂ الأنس بالله ＂ ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "7a8df58dbfcce63a9e0fd264d239ddf5d4c1899511a6404db2755afd94928f7b",
+ "nh": "a058098a815e25df558bd161338c41a3b7bbd0d2573233a8cec6e15cb84f0f43",
+ "chars": 8676,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/038_خطب منبرية： ＂ الأنس بالله ＂ ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/038_خطب منبرية： ＂ الأنس بالله ＂ ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "7a8df58dbfcce63a9e0fd264d239ddf5d4c1899511a6404db2755afd94928f7b",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/37.txt",
+   "sha256": "7a8df58dbfcce63a9e0fd264d239ddf5d4c1899511a6404db2755afd94928f7b",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

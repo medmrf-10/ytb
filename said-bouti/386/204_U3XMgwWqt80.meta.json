@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:U3XMgwWqt80",
+ "vid": "U3XMgwWqt80",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 204,
+ "n_src": "read",
+ "title": "الحكم العطائية للإمام البوطي الدرس 95 - الحكمة 71",
+ "title_src": "filename",
+ "sha256": "1cb7b9e36b5e1bb46a92ca83ea981d95723016a124a1db9fc7ea9c50d0e5d6bb",
+ "nh": "d8f7aabbec2a8313c9bf161713d213795fe6b7e41e7e5e785f893026a422a20b",
+ "chars": 19478,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/204_الحكم العطائية للإمام البوطي  الدرس 95  - الحكمة 71.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/204_الحكم العطائية للإمام البوطي  الدرس 95  - الحكمة 71.txt",
+   "sha256": "1cb7b9e36b5e1bb46a92ca83ea981d95723016a124a1db9fc7ea9c50d0e5d6bb",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/204_الحكم العطائية للإمام البوطي  الدرس 95  - الحكمة 71.txt",
+   "sha256": "1cb7b9e36b5e1bb46a92ca83ea981d95723016a124a1db9fc7ea9c50d0e5d6bb",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

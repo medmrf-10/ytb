@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "yt:VAvUv-DViA0",
+ "vid": "VAvUv-DViA0",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--bardouni-mut-985",
+ "n": 9,
+ "n_src": "read",
+ "title": "شرح المنهج المنتخب ｜ دس75 ( ق115 الأرض هل هي مستهلكة أم مربية ) ｜ الشيخ محمدال",
+ "title_src": "filename",
+ "sha256": "e908d0bd83a354c7d17ebe690e834adf06ac72833f324de93773fb8c1252983f",
+ "nh": "d7c4cccfbf9300e9c07f37c8e210d917989e602643773850ff85e2a63f06e068",
+ "chars": 16501,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/985/009_شرح المنهج  المنتخب ｜ دس75 ( ق115 الأرض هل هي مستهلكة أم مربية  ) ｜ الشيخ محمدال.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/985/009_شرح المنهج  المنتخب ｜ دس75 ( ق115 الأرض هل هي مستهلكة أم مربية  ) ｜ الشيخ محمدال.txt",
+   "sha256": "e908d0bd83a354c7d17ebe690e834adf06ac72833f324de93773fb8c1252983f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bardouni/mut-985/009_شرح المنهج  المنتخب ｜ دس75 ( ق115 الأرض هل هي مستهلكة أم مربية  ) ｜ الشيخ محمدال.txt",
+   "sha256": "e908d0bd83a354c7d17ebe690e834adf06ac72833f324de93773fb8c1252983f",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/37/150.txt",
+   "sha256": "e908d0bd83a354c7d17ebe690e834adf06ac72833f324de93773fb8c1252983f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "mouloud-sariri--37"
+ ]
+}

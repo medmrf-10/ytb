@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:tWKjG2bvZ7c",
+ "vid": "tWKjG2bvZ7c",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 30,
+ "n_src": "read",
+ "title": "خطب منبرية： ＂ مرض التلون ＂ ⧸ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "136de9ac509c32e019fe9b30f68ce3ab87239af29f837f6402b385d691978aa0",
+ "nh": "35862c18e39667087c8a30ebb21e6225a37e6080fc522ec3a48b6eaf578725b5",
+ "chars": 11389,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/030_خطب منبرية： ＂ مرض التلون ＂ ⧸ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/030_خطب منبرية： ＂ مرض التلون ＂ ⧸ الشيخ العلامة مولود السريري.txt",
+   "sha256": "136de9ac509c32e019fe9b30f68ce3ab87239af29f837f6402b385d691978aa0",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/29.txt",
+   "sha256": "136de9ac509c32e019fe9b30f68ce3ab87239af29f837f6402b385d691978aa0",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

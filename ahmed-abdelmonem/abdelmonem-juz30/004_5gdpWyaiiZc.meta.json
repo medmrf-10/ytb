@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:5gdpWyaiiZc",
+ "vid": "5gdpWyaiiZc",
+ "sheikh": "ahmed-abdelmonem",
+ "row_id": "ahmed-abdelmonem--abdelmonem-juz30",
+ "n": 4,
+ "n_src": "trfile",
+ "title": "تفسير سورة النازعات (2) | د.أحمد عبدالمنعم",
+ "title_src": "yt_titles",
+ "sha256": "ff188ed3d83f3ab12522081205f85b325dc463d8adcecf1bfc38ad4dcaf63570",
+ "nh": "7dbb41cc639c05cfa237972fe179828225c0a4f743e8b0677d71b9d914806bc6",
+ "chars": 26836,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/abdelmonemJuz30-004/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/abdelmonemJuz30-004/transcript.txt",
+   "sha256": "ff188ed3d83f3ab12522081205f85b325dc463d8adcecf1bfc38ad4dcaf63570",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/abdelmonem/juz30/079-Naziat_p2_AbdelMonem.txt",
+   "sha256": "ff188ed3d83f3ab12522081205f85b325dc463d8adcecf1bfc38ad4dcaf63570",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/abdelmonem-juz30/04.txt",
+   "sha256": "ff188ed3d83f3ab12522081205f85b325dc463d8adcecf1bfc38ad4dcaf63570",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

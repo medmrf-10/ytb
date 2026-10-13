@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:4bDzzKxN7SM",
+ "vid": "4bDzzKxN7SM",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--793",
+ "n": 17,
+ "n_src": "read",
+ "title": "(17) بين الصفات الثلاثة عموم وخصوص وجهي ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "985d2e9feea83f22002c0e3512f25c83dc4816a3fa195ba58def0f8ca9232bd8",
+ "nh": "ca17fa89e1cbf4b1450dab44e1717e0f95c008076b0ae8f935015c115e2bed0d",
+ "chars": 17972,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/793/017_(17) بين الصفات الثلاثة عموم وخصوص وجهي  ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/793/017_(17) بين الصفات الثلاثة عموم وخصوص وجهي  ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "985d2e9feea83f22002c0e3512f25c83dc4816a3fa195ba58def0f8ca9232bd8",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/793/16.txt",
+   "sha256": "985d2e9feea83f22002c0e3512f25c83dc4816a3fa195ba58def0f8ca9232bd8",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

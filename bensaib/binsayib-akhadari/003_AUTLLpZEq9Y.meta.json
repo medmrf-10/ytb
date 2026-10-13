@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:AUTLLpZEq9Y",
+ "vid": "AUTLLpZEq9Y",
+ "sheikh": "bensaib",
+ "row_id": "bensaib--binsayib-akhadari",
+ "n": 3,
+ "n_src": "read",
+ "title": "الدرس [3]: فصل النجاسة 2 + فرائض الوضوء 1",
+ "title_src": "yt_titles",
+ "sha256": "a9c15cd1e3e2b32c654e38ebff20c6d586df5da9d7ca8f8f02e7afa3c62affe0",
+ "nh": "306a64538f82662c121cb0e1a94c7d3f7c3f094940bb1c973e8d2745dc418175",
+ "chars": 34011,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/binsayib/akhadari/NA_AUTLLpZEq9Y.txt",
+  "commit_ts": 1791587745,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/binsayib/akhadari/NA_AUTLLpZEq9Y.txt",
+   "sha256": "a9c15cd1e3e2b32c654e38ebff20c6d586df5da9d7ca8f8f02e7afa3c62affe0",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/binsayib-akhadari/003.txt",
+   "sha256": "a9c15cd1e3e2b32c654e38ebff20c6d586df5da9d7ca8f8f02e7afa3c62affe0",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

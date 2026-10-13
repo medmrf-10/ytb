@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:VQUZLMesIG8",
+ "vid": "VQUZLMesIG8",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--339",
+ "n": 8,
+ "n_src": "mutfile",
+ "title": "7 - الكآبة .. أسباب وعلاج العلامة البوطي السبب الخامس : الشعور بالعجز عن بلوغ الآمال والطموحات",
+ "title_src": "filename",
+ "sha256": "ec319bfd30b92cfc5735c6301bb57cb2f1d7f36274b71bdcceb7b6e6a00b9f3d",
+ "nh": "284eef0326180853d36e70f05a61c5d18411d61a6586a8b5c9cf2c27e12b77dc",
+ "chars": 17289,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/339/008_7 - الكآبة .. أسباب وعلاج  العلامة البوطي  السبب الخامس : الشعور بالعجز عن بلوغ الآمال والطموحات.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/339/008_7 - الكآبة .. أسباب وعلاج  العلامة البوطي  السبب الخامس : الشعور بالعجز عن بلوغ الآمال والطموحات.txt",
+   "sha256": "ec319bfd30b92cfc5735c6301bb57cb2f1d7f36274b71bdcceb7b6e6a00b9f3d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/rihab/008_7 - الكآبة .. أسباب وعلاج  العلامة البوطي  السبب الخامس : الشعور بالعجز عن بلوغ الآمال والطموحات.txt",
+   "sha256": "ec319bfd30b92cfc5735c6301bb57cb2f1d7f36274b71bdcceb7b6e6a00b9f3d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-339/008.txt",
+   "sha256": "50cd7c36e702356f3d557d82fcab4d7f87222ae879be7484bdb26b2f606b93e7",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

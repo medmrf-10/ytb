@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:YLyNJqSioks",
+ "vid": "YLyNJqSioks",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--661",
+ "n": 10,
+ "n_src": "mutfile",
+ "title": "خير القرون 09 ｜ من دار الأرقم كانت الفتوح ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "61b6a8e2786430ce56e5a895e7a851afb6b8712fb69bc2b27365b00fd2d361c6",
+ "nh": "3ec163bee2625337d6cc4dcd23a85205f6f7003a578f8bcd901127647201b56f",
+ "chars": 39605,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/661/010_خير القرون 09 ｜ من دار الأرقم كانت الفتوح ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/661/010_خير القرون 09 ｜ من دار الأرقم كانت الفتوح ｜ أحمد السيد.txt",
+   "sha256": "61b6a8e2786430ce56e5a895e7a851afb6b8712fb69bc2b27365b00fd2d361c6",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-661/010.txt",
+   "sha256": "9c54834a7e13d38b8ba4a81f1f7f7caba4338150ee57fd15be9ce9bcde1fe75f",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

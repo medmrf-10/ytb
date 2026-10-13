@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:WPH1TXu9Mhk",
+ "vid": "WPH1TXu9Mhk",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--371",
+ "n": 28,
+ "n_src": "plpos",
+ "title": "28- علوم القرآن الكريم |واجب العلماء تجاه ما يجري في غزة",
+ "title_src": "yt_titles",
+ "sha256": "6467024178375aa39705e3f5602dd7e4c318464cbd93dca25172a8aba21bfe7c",
+ "nh": "ba5130d05f78ea05afdd2ec36fa527d396d16d6c34031675a201bc8b25475b43",
+ "chars": 19494,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/371/028_28- علوم القرآن الكريم ｜واجب العلماء تجاه ما يجري في غزة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/371/028_28- علوم القرآن الكريم ｜واجب العلماء تجاه ما يجري في غزة.txt",
+   "sha256": "6467024178375aa39705e3f5602dd7e4c318464cbd93dca25172a8aba21bfe7c",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/3oloumEl9or1n-028/transcript.txt",
+   "sha256": "b4c8d6caa908c7d9763635f771a7d9324b95ab3165d42ab1c26ad227d328aa6a",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-ulum-quran/28.txt",
+   "sha256": "b4c8d6caa908c7d9763635f771a7d9324b95ab3165d42ab1c26ad227d328aa6a",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

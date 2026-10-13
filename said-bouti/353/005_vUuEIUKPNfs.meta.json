@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:vUuEIUKPNfs",
+ "vid": "vUuEIUKPNfs",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--353",
+ "n": 5,
+ "n_src": "mutfile",
+ "title": "4 - الآداب الاجتماعية في القرآن الكريم آداب الحوار والمجالسة",
+ "title_src": "filename",
+ "sha256": "6a7f5927b232614f8f3b7f88a994e9599acc4bb79601d10b7e890071eef5abed",
+ "nh": "8c412b0e219dc251e87592dc95db798aefdc627f9d19096e126f980293f06016",
+ "chars": 12524,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/353/005_4 - الآداب الاجتماعية في القرآن الكريم  آداب الحوار والمجالسة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/353/005_4 - الآداب الاجتماعية في القرآن الكريم  آداب الحوار والمجالسة.txt",
+   "sha256": "6a7f5927b232614f8f3b7f88a994e9599acc4bb79601d10b7e890071eef5abed",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/rihab/005_4 - الآداب الاجتماعية في القرآن الكريم  آداب الحوار والمجالسة.txt",
+   "sha256": "6a7f5927b232614f8f3b7f88a994e9599acc4bb79601d10b7e890071eef5abed",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-353/005_4 - الآداب الاجتماعية في القرآن الكريم  آداب الحوار والمجالسة.txt",
+   "sha256": "6a7f5927b232614f8f3b7f88a994e9599acc4bb79601d10b7e890071eef5abed",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-353/005.txt",
+   "sha256": "d8583220becb79cf0bb7ff4fb70aecc8d15d7f8253486be6288c69f8661a034a",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

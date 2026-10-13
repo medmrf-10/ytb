@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:PPuCtMciB54",
+ "vid": "PPuCtMciB54",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--781",
+ "n": 11,
+ "n_src": "read",
+ "title": "(11) ختم النبوة ⧸ السيرة النبوية ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "663bf23fb06bda98e98a8c40b424bdda441cd2d5ce4b7d2be2f869d02aad00b5",
+ "nh": "cf02378d7c1ae5f570bafa6e608719fc4dec3f1884688420ab7b9de8479d91fc",
+ "chars": 16428,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/781/011_(11) ختم النبوة ⧸ السيرة النبوية ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/781/011_(11) ختم النبوة ⧸ السيرة النبوية ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "663bf23fb06bda98e98a8c40b424bdda441cd2d5ce4b7d2be2f869d02aad00b5",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/hafiz/irshad-suluk/2.txt",
+   "sha256": "663bf23fb06bda98e98a8c40b424bdda441cd2d5ce4b7d2be2f869d02aad00b5",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/173/2.txt",
+   "sha256": "663bf23fb06bda98e98a8c40b424bdda441cd2d5ce4b7d2be2f869d02aad00b5",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-omar-ibn-hafiz--173",
+  "habib-omar-ibn-hafiz--hafiz-irshad-suluk"
+ ]
+}

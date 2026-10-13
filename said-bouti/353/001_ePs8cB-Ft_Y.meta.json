@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:ePs8cB-Ft_Y",
+ "vid": "ePs8cB-Ft_Y",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--353",
+ "n": 1,
+ "n_src": "mutfile",
+ "title": "برومو برنامج الآداب الاجتماعية في القرآن الكريم",
+ "title_src": "filename",
+ "sha256": "9b00b9b223826fc96c189bb52cb46ac4ce1327a4bf24be1d3bc6cd17246f3630",
+ "nh": "c6d3041103dcce53e671a977e77f1d2615568e4264d55137feea2a97a9eb0b32",
+ "chars": 989,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/353/001_برومو برنامج الآداب الاجتماعية في القرآن الكريم.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/353/001_برومو برنامج الآداب الاجتماعية في القرآن الكريم.txt",
+   "sha256": "9b00b9b223826fc96c189bb52cb46ac4ce1327a4bf24be1d3bc6cd17246f3630",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/rihab/001_برومو برنامج الآداب الاجتماعية في القرآن الكريم.txt",
+   "sha256": "9b00b9b223826fc96c189bb52cb46ac4ce1327a4bf24be1d3bc6cd17246f3630",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-353/001_برومو برنامج الآداب الاجتماعية في القرآن الكريم.txt",
+   "sha256": "9b00b9b223826fc96c189bb52cb46ac4ce1327a4bf24be1d3bc6cd17246f3630",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-353/001.txt",
+   "sha256": "bfa51e48d8eb6f957863a16efbc53a8363c089b7780953a2edc71bcefba97fe6",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

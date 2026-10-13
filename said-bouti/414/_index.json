@@ -1,0 +1,894 @@
+{
+ "coverage": 0.4783,
+ "declared_total": 184,
+ "lessons": [
+  {
+   "chars": 26791,
+   "file": "001_MgujOjDesPA.txt",
+   "n": 1,
+   "quality": "ok",
+   "sha256": "7348dd2d95cdfea9d1f4d0946f7c0bbe0d492b2c9e9193a1d556acca0f9f03dd",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 1",
+   "variants": 0,
+   "vid": "MgujOjDesPA"
+  },
+  {
+   "chars": 25654,
+   "file": "003_mOPGsFX-UlE.txt",
+   "n": 3,
+   "quality": "ok",
+   "sha256": "40426ae61fc789fa77ba56535a9299e9a4ae5b6592dbd3d3ee77a0b8ae064f24",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 3",
+   "variants": 0,
+   "vid": "mOPGsFX-UlE"
+  },
+  {
+   "chars": 28261,
+   "file": "004_RNN7_lA3-WI.txt",
+   "n": 4,
+   "quality": "ok",
+   "sha256": "3fce02d53bffd0525bbcc7c1d5c3c4551c803a548013b87e0b80e6add26d628d",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 4",
+   "variants": 0,
+   "vid": "RNN7_lA3-WI"
+  },
+  {
+   "chars": 23554,
+   "file": "005_-3qbXXlqGCU.txt",
+   "n": 5,
+   "quality": "ok",
+   "sha256": "f66988996f40a004cb64d972703dcc017d4f23e68e14a02ff932cc330aefbe23",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 5",
+   "variants": 0,
+   "vid": "-3qbXXlqGCU"
+  },
+  {
+   "chars": 25831,
+   "file": "006_hRWKSF60lXU.txt",
+   "n": 6,
+   "quality": "ok",
+   "sha256": "0dc3a7488f73f8f1e7dd265e8b4a7e2e5cbcf090598d9bff4638b02f399364f5",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 6",
+   "variants": 0,
+   "vid": "hRWKSF60lXU"
+  },
+  {
+   "chars": 26659,
+   "file": "007_21kvuGp3H0Y.txt",
+   "n": 7,
+   "quality": "ok",
+   "sha256": "aa528b2ed7c5d61f722bacad502961f0825a5fa82b5150761d615a8c29a911a1",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 7",
+   "variants": 0,
+   "vid": "21kvuGp3H0Y"
+  },
+  {
+   "chars": 23282,
+   "file": "008_rRS471UO0so.txt",
+   "n": 8,
+   "quality": "ok",
+   "sha256": "f5d4c48d2419599f04db870fac50b47cdfe26482657056d01b5145456fd5ab43",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 8",
+   "variants": 0,
+   "vid": "rRS471UO0so"
+  },
+  {
+   "chars": 19935,
+   "file": "009_-CbVnko-qtw.txt",
+   "n": 9,
+   "quality": "ok",
+   "sha256": "ffe59c5efcf9230c5b4ed9885ef41bc8d323373ab5ce69346b50dd30ce189ab4",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 9",
+   "variants": 0,
+   "vid": "-CbVnko-qtw"
+  },
+  {
+   "chars": 20061,
+   "file": "010_xQ3bWRzHSRQ.txt",
+   "n": 10,
+   "quality": "ok",
+   "sha256": "9d137e8cbabe55e380c3de2960079aad8cda227cb963cba7df74e2ed4af50cd0",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 10",
+   "variants": 0,
+   "vid": "xQ3bWRzHSRQ"
+  },
+  {
+   "chars": 13269,
+   "file": "011_69WL7Hqzmms.txt",
+   "n": 11,
+   "quality": "ok",
+   "sha256": "39c57cde6ee9c9fcdd9bfa7fdd23857b07e76ed8059262928e02975bf6f87900",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 11",
+   "variants": 0,
+   "vid": "69WL7Hqzmms"
+  },
+  {
+   "chars": 19187,
+   "file": "012_fk6XggTV84M.txt",
+   "n": 12,
+   "quality": "ok",
+   "sha256": "b81a07290b8ce5989b893c663635a37941f6efb7f5a5eb2cd0db440a39461d01",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 12",
+   "variants": 0,
+   "vid": "fk6XggTV84M"
+  },
+  {
+   "chars": 19889,
+   "file": "013_DU-J_n7hx8U.txt",
+   "n": 13,
+   "quality": "ok",
+   "sha256": "6b45ea823624dc748e1006589e236cb18c53ffa45ea7aa9793ee9573a46ef15d",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 13",
+   "variants": 0,
+   "vid": "DU-J_n7hx8U"
+  },
+  {
+   "chars": 20625,
+   "file": "014_RdJ7sAzRLrM.txt",
+   "n": 14,
+   "quality": "ok",
+   "sha256": "f6182f5de4297892d35043743b7e9286cbf16b8ad5ba080b608917da68fe7cc7",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 14",
+   "variants": 0,
+   "vid": "RdJ7sAzRLrM"
+  },
+  {
+   "chars": 19894,
+   "file": "015_FJY6i5TmFxM.txt",
+   "n": 15,
+   "quality": "ok",
+   "sha256": "6cb0d764e78c1fefcfc58d291012498adbfda79680db324c029ce2761091cdcb",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 15",
+   "variants": 0,
+   "vid": "FJY6i5TmFxM"
+  },
+  {
+   "chars": 20124,
+   "file": "033_1YQSRSKV9PY.txt",
+   "n": 33,
+   "quality": "ok",
+   "sha256": "5e114406dbfdc2ac5ff4073bf15944d38de76bbfa8dee8ba2ff4490b8a77f149",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 33",
+   "variants": 0,
+   "vid": "1YQSRSKV9PY"
+  },
+  {
+   "chars": 18360,
+   "file": "034_w1yC3UdWGMk.txt",
+   "n": 34,
+   "quality": "ok",
+   "sha256": "5deeb4f95b28438ff94d81705495fa848db855bde70158825eaddaa71b4b906a",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 34",
+   "variants": 0,
+   "vid": "w1yC3UdWGMk"
+  },
+  {
+   "chars": 20311,
+   "file": "035_Ria4iAGKnZI.txt",
+   "n": 35,
+   "quality": "ok",
+   "sha256": "26bed627383b26e375aafeef03d2153d92738d6ecb4c9b3d54d3a40e8c795385",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 35",
+   "variants": 0,
+   "vid": "Ria4iAGKnZI"
+  },
+  {
+   "chars": 23498,
+   "file": "036_MU8jK5H9zhU.txt",
+   "n": 36,
+   "quality": "ok",
+   "sha256": "aa674a89848c78ed78d4fd7cd8d8b5fd6ef3ac2755408264ca8a8b69f2ffac9f",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 36",
+   "variants": 0,
+   "vid": "MU8jK5H9zhU"
+  },
+  {
+   "chars": 20786,
+   "file": "037_VYCZAxNz2os.txt",
+   "n": 37,
+   "quality": "ok",
+   "sha256": "cb6157bd9562816ad4a2bded4192cf9c1cdc0e5783280d220cfbca91c878e066",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 37",
+   "variants": 0,
+   "vid": "VYCZAxNz2os"
+  },
+  {
+   "chars": 24874,
+   "file": "038_K3Q0U88mfSM.txt",
+   "n": 38,
+   "quality": "ok",
+   "sha256": "f497f30543e6bf7cd9b53e4a9a85cbeed8fc73a9fd99facad0fb23a8537c71ea",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 38",
+   "variants": 0,
+   "vid": "K3Q0U88mfSM"
+  },
+  {
+   "chars": 23463,
+   "file": "039_TCHAX866XL4.txt",
+   "n": 39,
+   "quality": "ok",
+   "sha256": "507baa33404a65f0755852079c40a969abfc81b3d34337249e612f3023af6cdf",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 39",
+   "variants": 0,
+   "vid": "TCHAX866XL4"
+  },
+  {
+   "chars": 23250,
+   "file": "040_hEsyH8kiRDg.txt",
+   "n": 40,
+   "quality": "ok",
+   "sha256": "738d82fc71de33310304b85ccbf704006c3f9fd6ba7f7e2b3af4e45ce3531e8b",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 40",
+   "variants": 0,
+   "vid": "hEsyH8kiRDg"
+  },
+  {
+   "chars": 26264,
+   "file": "041_OQVgov3R1kM.txt",
+   "n": 41,
+   "quality": "ok",
+   "sha256": "ceee7e1abfa107ed13805bdce16ae37e5450843d2bbd9dcb036c425a9849539b",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 41",
+   "variants": 0,
+   "vid": "OQVgov3R1kM"
+  },
+  {
+   "chars": 13030,
+   "file": "042_Hd-bB3QBaQM.txt",
+   "n": 42,
+   "quality": "ok",
+   "sha256": "51becc71fcb58ce78999cebc3b3722b50e4a67022d6dfd6e6244fd1a1f6454cc",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 42",
+   "variants": 0,
+   "vid": "Hd-bB3QBaQM"
+  },
+  {
+   "chars": 24459,
+   "file": "043_T3ybKXxl5Ls.txt",
+   "n": 43,
+   "quality": "ok",
+   "sha256": "34d1820135172e72877560c0670be6dc189d32243b7b6c750db9a93a46ae2d1d",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 43",
+   "variants": 0,
+   "vid": "T3ybKXxl5Ls"
+  },
+  {
+   "chars": 23838,
+   "file": "044_tBgTQd4IrRU.txt",
+   "n": 44,
+   "quality": "ok",
+   "sha256": "c3a97751fb21fe4369a7672ee3e8451884fa88bde88ae491b045f633694777d7",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 44",
+   "variants": 0,
+   "vid": "tBgTQd4IrRU"
+  },
+  {
+   "chars": 20392,
+   "file": "045_HCTUiVinB-k.txt",
+   "n": 45,
+   "quality": "ok",
+   "sha256": "813d8d4c73b9cfc7b30dd56ea31237451accde1a2870de5bb9c54180705a52c9",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 45",
+   "variants": 0,
+   "vid": "HCTUiVinB-k"
+  },
+  {
+   "chars": 25127,
+   "file": "046_Ap2DgkDANnE.txt",
+   "n": 46,
+   "quality": "ok",
+   "sha256": "c3425632128a318791cd8cc8ed8eaea6f448dc009b5feb6b010531e6684873c0",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 46",
+   "variants": 0,
+   "vid": "Ap2DgkDANnE"
+  },
+  {
+   "chars": 20250,
+   "file": "047_VIqmdcfLrSA.txt",
+   "n": 47,
+   "quality": "ok",
+   "sha256": "eec303d852b6d82710a6afaba83ebfeb2b45cd58f394ed46686ecff0b62a54ee",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 47",
+   "variants": 0,
+   "vid": "VIqmdcfLrSA"
+  },
+  {
+   "chars": 14828,
+   "file": "048_MXtX1cMuyfc.txt",
+   "n": 48,
+   "quality": "ok",
+   "sha256": "8e0b946ef488905dda1408588c37d49cd3c2f679e63646497cc3b62638870589",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 48",
+   "variants": 0,
+   "vid": "MXtX1cMuyfc"
+  },
+  {
+   "chars": 9534,
+   "file": "049_pbz4OSSt9Mo.txt",
+   "n": 49,
+   "quality": "ok",
+   "sha256": "7c2f982040503157119913c09908c0bf44170c0b9b670e759bd5bbc94a2767bb",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 49",
+   "variants": 0,
+   "vid": "pbz4OSSt9Mo"
+  },
+  {
+   "chars": 13290,
+   "file": "050_wnlnfnTVtco.txt",
+   "n": 50,
+   "quality": "ok",
+   "sha256": "4018d919e498c28d6c00ced1afae740319639892c9f5a749b6f3215dcb51d02d",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 50",
+   "variants": 0,
+   "vid": "wnlnfnTVtco"
+  },
+  {
+   "chars": 17854,
+   "file": "051_wFWinzh5Jjg.txt",
+   "n": 51,
+   "quality": "ok",
+   "sha256": "b34ca2b016550f2f9d05145e50c986264c91397f946716ad8c33e6951d4a94bf",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 51",
+   "variants": 0,
+   "vid": "wFWinzh5Jjg"
+  },
+  {
+   "chars": 14931,
+   "file": "052_k2DXsa1nZS8.txt",
+   "n": 52,
+   "quality": "ok",
+   "sha256": "84a912d17405beba2748cec3a0c9d0f156225d426e0d9e8e59a00a3aebbbb0a4",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 52",
+   "variants": 0,
+   "vid": "k2DXsa1nZS8"
+  },
+  {
+   "chars": 14580,
+   "file": "053_JkPq5MVx95g.txt",
+   "n": 53,
+   "quality": "ok",
+   "sha256": "5b700e9722d556cb68769e78f0fbcd8d8fa5620e653212dad1c5de7a03c6f0c3",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 53",
+   "variants": 0,
+   "vid": "JkPq5MVx95g"
+  },
+  {
+   "chars": 7744,
+   "file": "054_Mp88V0MVmCg.txt",
+   "n": 54,
+   "quality": "ok",
+   "sha256": "9226705f0d402ffa1937c4d187daa06eecc4bd51dd2b5055388cdc1202a21f6b",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 54",
+   "variants": 0,
+   "vid": "Mp88V0MVmCg"
+  },
+  {
+   "chars": 20152,
+   "file": "055_PLNz_qMVS08.txt",
+   "n": 55,
+   "quality": "ok",
+   "sha256": "26f6569f3cce602146a2955be407c34a36725f6cb9d4e6f73a93428fab750988",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 55",
+   "variants": 0,
+   "vid": "PLNz_qMVS08"
+  },
+  {
+   "chars": 16997,
+   "file": "056_TebnhqvQP64.txt",
+   "n": 56,
+   "quality": "ok",
+   "sha256": "13d6a7bd6acd98ad85472ea033d7f437149e896946225e79d93460d7a8d95970",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 56",
+   "variants": 0,
+   "vid": "TebnhqvQP64"
+  },
+  {
+   "chars": 2944,
+   "file": "057_Q4BTfxWLd6Q.txt",
+   "n": 57,
+   "quality": "ok",
+   "sha256": "562d6c44e14c414d1c82b39271e3e4fe36b69c687aaa10f0e2d859c88d1e5783",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 57",
+   "variants": 0,
+   "vid": "Q4BTfxWLd6Q"
+  },
+  {
+   "chars": 10653,
+   "file": "058_WDpjI-5AvOs.txt",
+   "n": 58,
+   "quality": "ok",
+   "sha256": "5997c877fadaed22277f639f7fc22efd646023792a59a062b34c123516213e4a",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 58",
+   "variants": 0,
+   "vid": "WDpjI-5AvOs"
+  },
+  {
+   "chars": 17092,
+   "file": "059_F6cVJTrpVcY.txt",
+   "n": 59,
+   "quality": "ok",
+   "sha256": "9e06c29bd9a38043b732096c0369764bc2931dd1ee17dde3a1e521e6181c4a21",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 59",
+   "variants": 0,
+   "vid": "F6cVJTrpVcY"
+  },
+  {
+   "chars": 1985,
+   "file": "060_gCpa3dG8hLc.txt",
+   "n": 60,
+   "quality": "ok",
+   "sha256": "a55d2dd663e76b1124741abe0244df88112c67efc49d749966dff10026a157a7",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 60",
+   "variants": 0,
+   "vid": "gCpa3dG8hLc"
+  },
+  {
+   "chars": 18079,
+   "file": "061_Pa6LOZz_POg.txt",
+   "n": 61,
+   "quality": "ok",
+   "sha256": "d52d4a9a139b1bfb47ed1d915a173e6faae0d53d9b309c590be5a2642f5f4d50",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 61",
+   "variants": 0,
+   "vid": "Pa6LOZz_POg"
+  },
+  {
+   "chars": 16391,
+   "file": "062_89T6a301VDI.txt",
+   "n": 62,
+   "quality": "ok",
+   "sha256": "c6fa00a23757483a695374f2f15367572ed0aa20af387c54de64829f818e5807",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 62",
+   "variants": 0,
+   "vid": "89T6a301VDI"
+  },
+  {
+   "chars": 12522,
+   "file": "063_y4_tx-dsjiw.txt",
+   "n": 63,
+   "quality": "ok",
+   "sha256": "c1ecf8ac3ad85e34b473cd21a9998fa4f889ea183f45421be116ca9e0a1d22f3",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 63",
+   "variants": 0,
+   "vid": "y4_tx-dsjiw"
+  },
+  {
+   "chars": 20727,
+   "file": "064_oUy3AX4W7qo.txt",
+   "n": 64,
+   "quality": "ok",
+   "sha256": "b75caa80d6a5b56ecbffb6801f139878c353f3316d7d57b3d0876cea1bbae34c",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 64",
+   "variants": 0,
+   "vid": "oUy3AX4W7qo"
+  },
+  {
+   "chars": 14899,
+   "file": "065_TNVZgM-sl74.txt",
+   "n": 65,
+   "quality": "ok",
+   "sha256": "07d1aa7b1b8e3af6f31120c0b2b51450956571f8e48b10c5790f31dd31bc926c",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 65",
+   "variants": 0,
+   "vid": "TNVZgM-sl74"
+  },
+  {
+   "chars": 22725,
+   "file": "066_V32-KW5xQTA.txt",
+   "n": 66,
+   "quality": "ok",
+   "sha256": "4cefafb810143844e58bd9212667555e5e4fef59a6b9d05b4d95992296ceb115",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 66",
+   "variants": 0,
+   "vid": "V32-KW5xQTA"
+  },
+  {
+   "chars": 10454,
+   "file": "067_O9YmFgz5lfs.txt",
+   "n": 67,
+   "quality": "ok",
+   "sha256": "39cf0d1c4c98c75d6c174a023db862df2154060253c548e5e221e5cdb3eda786",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 67",
+   "variants": 0,
+   "vid": "O9YmFgz5lfs"
+  },
+  {
+   "chars": 5064,
+   "file": "068_x4JN5f-peE0.txt",
+   "n": 68,
+   "quality": "ok",
+   "sha256": "5f1ec599fcce919a51ffb80c2ba0cc4be078f05c06f718d409dc8a827596e4b1",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 68",
+   "variants": 0,
+   "vid": "x4JN5f-peE0"
+  },
+  {
+   "chars": 1582,
+   "file": "069_gMJ-Qq1k6UM.txt",
+   "n": 69,
+   "quality": "ok",
+   "sha256": "685e61376e29ae5b3edf3218dfc0a62f40a73c01d205d9895caafec7b8fe92aa",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 69",
+   "variants": 0,
+   "vid": "gMJ-Qq1k6UM"
+  },
+  {
+   "chars": 5230,
+   "file": "070_6qnjwB7IQ2M.txt",
+   "n": 70,
+   "quality": "ok",
+   "sha256": "f10bab4d2909dbe823bad42ea5f8344153052bd0e6eb12eb525985f327132fb5",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 70",
+   "variants": 0,
+   "vid": "6qnjwB7IQ2M"
+  },
+  {
+   "chars": 1831,
+   "file": "071_q43z_FXJ58A.txt",
+   "n": 71,
+   "quality": "ok",
+   "sha256": "17ab46966c9f88f91f9f08384d39ab3f28a44b6cb6b8b99b1129354e6d415ca4",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 71",
+   "variants": 0,
+   "vid": "q43z_FXJ58A"
+  },
+  {
+   "chars": 21662,
+   "file": "072_1oncWRaRFuY.txt",
+   "n": 72,
+   "quality": "ok",
+   "sha256": "1578717e4deee9bff69dbf7dc5763bd00fb277eb1731a31e4ce784790bae5df3",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 72",
+   "variants": 0,
+   "vid": "1oncWRaRFuY"
+  },
+  {
+   "chars": 19080,
+   "file": "073_ePwB5meeR40.txt",
+   "n": 73,
+   "quality": "ok",
+   "sha256": "8f1c87a45cce0bd186783c4c5e8350c98a4e6d1146e8461218b6bbcc7a49287f",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 73",
+   "variants": 0,
+   "vid": "ePwB5meeR40"
+  },
+  {
+   "chars": 3167,
+   "file": "074_-zshGQu2JmA.txt",
+   "n": 74,
+   "quality": "ok",
+   "sha256": "e5370ac44a2657341a2d389a88f95f9f2289bb046c2db6660ac1b9b33f5fb673",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 74",
+   "variants": 0,
+   "vid": "-zshGQu2JmA"
+  },
+  {
+   "chars": 3581,
+   "file": "075_46m0aXZX64s.txt",
+   "n": 75,
+   "quality": "ok",
+   "sha256": "dcca2135f7a507c6ed32eee2bdd5833c98c018b74feef2cbaecd2d2c41aa40fa",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 75",
+   "variants": 0,
+   "vid": "46m0aXZX64s"
+  },
+  {
+   "chars": 3400,
+   "file": "076_g_rMyXFLb8Y.txt",
+   "n": 76,
+   "quality": "ok",
+   "sha256": "ea30768e8b38649af58f4520c10f101ff59cb0dcae6497e762e690c734d8ba00",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 76",
+   "variants": 0,
+   "vid": "g_rMyXFLb8Y"
+  },
+  {
+   "chars": 18981,
+   "file": "077_29DNh3pZvGQ.txt",
+   "n": 77,
+   "quality": "ok",
+   "sha256": "be804d7c5bdbd5c8a6daa267608e76507a3671cae647b42d57afe1d08bd36a37",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 77",
+   "variants": 0,
+   "vid": "29DNh3pZvGQ"
+  },
+  {
+   "chars": 17336,
+   "file": "078_BrQr52PuvgM.txt",
+   "n": 78,
+   "quality": "ok",
+   "sha256": "ec23b4e56c4c5bd555897b7bd58f67ad0bf054ac03881bfaeec66a441c3481e7",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 78",
+   "variants": 0,
+   "vid": "BrQr52PuvgM"
+  },
+  {
+   "chars": 21152,
+   "file": "079_LKlc6tKa7Mc.txt",
+   "n": 79,
+   "quality": "ok",
+   "sha256": "3f33fee1166fdcfa4d320b47383f40281e8fa248e417c477a50cd2eec29b315b",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 79",
+   "variants": 0,
+   "vid": "LKlc6tKa7Mc"
+  },
+  {
+   "chars": 18663,
+   "file": "080_-BS7Vu4z2hI.txt",
+   "n": 80,
+   "quality": "ok",
+   "sha256": "1cf4a127fe94d0c4ba02421344b70a0eb43b125f6d90c3c5a5327bfeaab1895e",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 80",
+   "variants": 0,
+   "vid": "-BS7Vu4z2hI"
+  },
+  {
+   "chars": 18923,
+   "file": "081_ubWOyt7lmB8.txt",
+   "n": 81,
+   "quality": "ok",
+   "sha256": "446832bc2ae90f44085ad1ce5cb7503c7985fecbc6641a74fae1f3d9cde0ebd7",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 81",
+   "variants": 0,
+   "vid": "ubWOyt7lmB8"
+  },
+  {
+   "chars": 16027,
+   "file": "082_BiHK9dj6NIs.txt",
+   "n": 82,
+   "quality": "ok",
+   "sha256": "176d989f44ae9728e867b6c0b84794df91945e45eca72cb58dbf5565b0c10eb0",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 82",
+   "variants": 0,
+   "vid": "BiHK9dj6NIs"
+  },
+  {
+   "chars": 22564,
+   "file": "083_o3JNZeOSOHo.txt",
+   "n": 83,
+   "quality": "ok",
+   "sha256": "d2d8cd39ea5c4734a8289612f086448793ed9461516dfdbf5347baca44b0482a",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 83",
+   "variants": 0,
+   "vid": "o3JNZeOSOHo"
+  },
+  {
+   "chars": 16398,
+   "file": "084_60iU8O1fSJg.txt",
+   "n": 84,
+   "quality": "ok",
+   "sha256": "39912770431e3acccaa69cbda5ae3eb8324b19699627babcd846779c4a0812a1",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 84",
+   "variants": 0,
+   "vid": "60iU8O1fSJg"
+  },
+  {
+   "chars": 24021,
+   "file": "085_EC47GMlrmw8.txt",
+   "n": 85,
+   "quality": "ok",
+   "sha256": "73d3fbd5c1edee8d3884d8fc0a3b3308582984f9b07ca8d493c089c155b8d904",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 85",
+   "variants": 0,
+   "vid": "EC47GMlrmw8"
+  },
+  {
+   "chars": 21805,
+   "file": "086_y-nhDhgxitM.txt",
+   "n": 86,
+   "quality": "ok",
+   "sha256": "ab8de7795c9720340d1997d0784daad9c2e9e305eaf329b3045b055f7e752020",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 86",
+   "variants": 0,
+   "vid": "y-nhDhgxitM"
+  },
+  {
+   "chars": 23424,
+   "file": "087_jeHAsNVcowk.txt",
+   "n": 87,
+   "quality": "ok",
+   "sha256": "379cebc6980b0163ebdbb3662a4d41a88799f56b4c32f27a658bb9ec7e8c7dbf",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 87",
+   "variants": 0,
+   "vid": "jeHAsNVcowk"
+  },
+  {
+   "chars": 25301,
+   "file": "088_rgDkNsr8bZE.txt",
+   "n": 88,
+   "quality": "ok",
+   "sha256": "355cfaae7c26b148bcb96135fad17ddec15c21436057cfc9cc6c4c5352ba40fb",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 88",
+   "variants": 0,
+   "vid": "rgDkNsr8bZE"
+  },
+  {
+   "chars": 28872,
+   "file": "089_OjUwO2dG3zk.txt",
+   "n": 89,
+   "quality": "ok",
+   "sha256": "d249334342e7470994f86c97cd46448efdf59b99c9a4b5352ec5af2b07e67572",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 89",
+   "variants": 0,
+   "vid": "OjUwO2dG3zk"
+  },
+  {
+   "chars": 22690,
+   "file": "090_3OlIBN6uuXU.txt",
+   "n": 90,
+   "quality": "ok",
+   "sha256": "634c254da462465afd7aba18da9ae3a439df877110562bfc5795edc3caa0a6ee",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 90",
+   "variants": 0,
+   "vid": "3OlIBN6uuXU"
+  },
+  {
+   "chars": 27428,
+   "file": "091_7f0l7HOCzyQ.txt",
+   "n": 91,
+   "quality": "ok",
+   "sha256": "d6192de53bcc49eb62c2a2aa4dc4a35cae94a1c2a3c2449c96b440e44094737f",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 91",
+   "variants": 0,
+   "vid": "7f0l7HOCzyQ"
+  },
+  {
+   "chars": 29756,
+   "file": "092_zqYITQLLsN0.txt",
+   "n": 92,
+   "quality": "ok",
+   "sha256": "65d58ec635dafc29559aaad445e70fbc62243ef491f910798e869c49284848ce",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 92",
+   "variants": 0,
+   "vid": "zqYITQLLsN0"
+  },
+  {
+   "chars": 27111,
+   "file": "093_U3YJVVLao1k.txt",
+   "n": 93,
+   "quality": "ok",
+   "sha256": "a1109e412d6c300120b761eabbc245dd85a3666e5784fadb3dc95c49c6b66321",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 93",
+   "variants": 0,
+   "vid": "U3YJVVLao1k"
+  },
+  {
+   "chars": 22888,
+   "file": "094_AsWWCKYO-Ro.txt",
+   "n": 94,
+   "quality": "ok",
+   "sha256": "c4ec908840403fc667afa30bdc083448988c85a94867908490bb3c5102bb3a6b",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 94",
+   "variants": 0,
+   "vid": "AsWWCKYO-Ro"
+  },
+  {
+   "chars": 27149,
+   "file": "095_HjRuqoib1zo.txt",
+   "n": 95,
+   "quality": "ok",
+   "sha256": "9af7b6203d6778844a847070d3359bb5f04446292d5a1943d48f43938026c605",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 95",
+   "variants": 0,
+   "vid": "HjRuqoib1zo"
+  },
+  {
+   "chars": 13263,
+   "file": "096_YAkp31SNibE.txt",
+   "n": 96,
+   "quality": "ok",
+   "sha256": "070eb87194b250bbc3cc944786663559e904f94ee5e69493ca9ebcaf48cce8b0",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 96",
+   "variants": 0,
+   "vid": "YAkp31SNibE"
+  },
+  {
+   "chars": 16930,
+   "file": "097_16hnOOM-mjQ.txt",
+   "n": 97,
+   "quality": "ok",
+   "sha256": "fafb8b8546abffe2574eb160e6d664e2d3f7c33d2bbe3759c87397a851167b0a",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 97",
+   "variants": 0,
+   "vid": "16hnOOM-mjQ"
+  },
+  {
+   "chars": 18743,
+   "file": "098_-4URThj9Clg.txt",
+   "n": 98,
+   "quality": "ok",
+   "sha256": "8ccabd5fb97c329079dcf8faae12a4c9a78eb67745ee470defada20cfe3a44a7",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 98",
+   "variants": 0,
+   "vid": "-4URThj9Clg"
+  },
+  {
+   "chars": 128,
+   "file": "099.txt",
+   "n": 99,
+   "quality": "short",
+   "sha256": "05f5b0a43b07f1c71ed1a2da27a5ef825122df344682a2c0878698ee0e00bc0a",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 99",
+   "variants": 0,
+   "vid": null
+  },
+  {
+   "chars": 17445,
+   "file": "100_2oH4Sg5OPFs.txt",
+   "n": 100,
+   "quality": "ok",
+   "sha256": "b029ac3599e65c04daa6e9b2119fcb53added85263469dc4272f8a2d11d7a6ac",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 100",
+   "variants": 0,
+   "vid": "2oH4Sg5OPFs"
+  },
+  {
+   "chars": 18347,
+   "file": "101_8KOSRW650CU.txt",
+   "n": 101,
+   "quality": "ok",
+   "sha256": "f6ab991ce1aa316e4f78a8d9d3c5ead40f96d274dc87d408ffd29b6eb78f4c25",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 101",
+   "variants": 0,
+   "vid": "8KOSRW650CU"
+  },
+  {
+   "chars": 20443,
+   "file": "102_EcYgzB2CEXc.txt",
+   "n": 102,
+   "quality": "ok",
+   "sha256": "bbd0f329b1e5e4fb1d22172e777a146776f6e47addd4e03848dc60cc3c8efa2c",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 102",
+   "variants": 0,
+   "vid": "EcYgzB2CEXc"
+  },
+  {
+   "chars": 19024,
+   "file": "103_f7wnxRWn83c.txt",
+   "n": 103,
+   "quality": "ok",
+   "sha256": "01c0194862e7362c1f113748c8ad9340eaa5c364b78557d148b02b9ffb6e3672",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 103",
+   "variants": 0,
+   "vid": "f7wnxRWn83c"
+  },
+  {
+   "chars": 18685,
+   "file": "104_F3VkZ4mi0h0.txt",
+   "n": 104,
+   "quality": "ok",
+   "sha256": "f66e19e0e623fe1643dd4d4695dfbbb2d829afb4d7736fe9f26eea448bc9da82",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 104",
+   "variants": 0,
+   "vid": "F3VkZ4mi0h0"
+  },
+  {
+   "chars": 19076,
+   "file": "105_J9sdeTO3VmQ.txt",
+   "n": 105,
+   "quality": "ok",
+   "sha256": "14c156b82a873cb94a4149d5f32f35752d9cea203019e94d8d71d7e35bf62a77",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 105",
+   "variants": 0,
+   "vid": "J9sdeTO3VmQ"
+  },
+  {
+   "chars": 21017,
+   "file": "106_OGjJePaTaD4.txt",
+   "n": 106,
+   "quality": "ok",
+   "sha256": "ef4c509ffb6ccb6ee2df7be316c286e5ec4a56f52ef9d52a3d0e7da691321ad7",
+   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 106",
+   "variants": 0,
+   "vid": "OGjJePaTaD4"
+  }
+ ],
+ "playlists": [
+  "PL01kYZIehH-rlXyk7SjyQL1GG2AuwSIqy"
+ ],
+ "row_id": "said-bouti--414",
+ "sheikh": "said-bouti",
+ "title": "تفسير القرآن الكريم",
+ "transcribed": 88,
+ "v": 1
+}

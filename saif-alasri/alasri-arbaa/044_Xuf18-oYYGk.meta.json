@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:Xuf18-oYYGk",
+ "vid": "Xuf18-oYYGk",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 44,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / الانتماء والتحزب / الدكتور سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "47f8ab93b538167f705c3ad9525b3e56dd153b885d17f79f171eac34dfb8d073",
+ "nh": "f780a555b0f3ef7139e5ae782769b1ef25a68299fad66194542d6ea7201c8632",
+ "chars": 18058,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-044/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-044/transcript.txt",
+   "sha256": "47f8ab93b538167f705c3ad9525b3e56dd153b885d17f79f171eac34dfb8d073",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/044_Xuf18-oYYGk.txt",
+   "sha256": "47f8ab93b538167f705c3ad9525b3e56dd153b885d17f79f171eac34dfb8d073",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/044.txt",
+   "sha256": "47f8ab93b538167f705c3ad9525b3e56dd153b885d17f79f171eac34dfb8d073",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

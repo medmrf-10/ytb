@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:2chIp4-Abzk",
+ "vid": "2chIp4-Abzk",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--766",
+ "n": 6,
+ "n_src": "read",
+ "title": "الدرس الثالث ⧸ شرح متن السلم المنورق ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "27dd8d79768886d91961af016e0a428244e5473e9390754b80404dcc91c4c67e",
+ "nh": "fd415eb358ca1728495b4a48ca29def641d2a696e54f32bd1367617529fd85a9",
+ "chars": 39336,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/766/006_الدرس الثالث ⧸ شرح متن السلم المنورق ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/766/006_الدرس الثالث ⧸ شرح متن السلم المنورق ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "27dd8d79768886d91961af016e0a428244e5473e9390754b80404dcc91c4c67e",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/766/5.txt",
+   "sha256": "27dd8d79768886d91961af016e0a428244e5473e9390754b80404dcc91c4c67e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

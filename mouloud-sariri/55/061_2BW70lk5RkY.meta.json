@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:2BW70lk5RkY",
+ "vid": "2BW70lk5RkY",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 61,
+ "n_src": "read",
+ "title": "خطب منبرية： قانون رفع الظلم في الإسلام ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "483b9b3d1dfa2ceb448dcca7adfb4f2c8ac06ca7837e80e8c04a02c3362ea565",
+ "nh": "583fa7c516493d78567b118b56f163e90ab7ea40d66ed5202b797ed5d3b0c185",
+ "chars": 9302,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/061_خطب منبرية： قانون رفع الظلم في الإسلام  ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/061_خطب منبرية： قانون رفع الظلم في الإسلام  ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "483b9b3d1dfa2ceb448dcca7adfb4f2c8ac06ca7837e80e8c04a02c3362ea565",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/60.txt",
+   "sha256": "483b9b3d1dfa2ceb448dcca7adfb4f2c8ac06ca7837e80e8c04a02c3362ea565",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

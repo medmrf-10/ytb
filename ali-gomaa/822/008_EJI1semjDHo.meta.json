@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:EJI1semjDHo",
+ "vid": "EJI1semjDHo",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 8,
+ "n_src": "plpos",
+ "title": "المتشددون | حـ 8 | الشيخ أحمد زروق والنهضة من خلال سفينة النجا لمن إلى الله إلتجا | أ.د علي جمعة",
+ "title_src": "yt_titles",
+ "sha256": "a4b2d97f9e95ffbaf79ca33056059064e901bd7c9a18fcac47561f5c8946f5c2",
+ "nh": "e870629ba317eab046c307429da0f7df31b9bbc3fd45331496900c7b5500e175",
+ "chars": 17609,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/008_المتشددون ｜ حـ 8 ｜ الشيخ أحمد زروق والنهضة من خلال سفينة النجا لمن إلى الله إلتج.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/008_المتشددون ｜ حـ 8 ｜ الشيخ أحمد زروق والنهضة من خلال سفينة النجا لمن إلى الله إلتج.txt",
+   "sha256": "a4b2d97f9e95ffbaf79ca33056059064e901bd7c9a18fcac47561f5c8946f5c2",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/008_المتشددون ｜ حـ 8 ｜ الشيخ أحمد زروق والنهضة من خلال سفينة النجا لمن إلى الله إلتج.txt",
+   "sha256": "a4b2d97f9e95ffbaf79ca33056059064e901bd7c9a18fcac47561f5c8946f5c2",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/008.txt",
+   "sha256": "c2b0b3d980f30e95df1aa043c5d41a124996be5e9bbdc48f803bf9c8d3ac33ae",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

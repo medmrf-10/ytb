@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:yhe5o0tL-n0",
+ "vid": "yhe5o0tL-n0",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--775",
+ "n": 4,
+ "n_src": "read",
+ "title": "(04) العزيز ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "b9fe064b247e979dd1ac660d72713520c50704b88c1c6a12c1a022f2c5a5e0b4",
+ "nh": "8e8d12423c83b4ef5158de9adc028d36bd8d1aeda16b351f1183aca07c5cf406",
+ "chars": 23855,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/775/004_(04) العزيز ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/775/004_(04) العزيز ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "b9fe064b247e979dd1ac660d72713520c50704b88c1c6a12c1a022f2c5a5e0b4",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/775/3.txt",
+   "sha256": "b9fe064b247e979dd1ac660d72713520c50704b88c1c6a12c1a022f2c5a5e0b4",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

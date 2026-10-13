@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:obT3_yrNrhE",
+ "vid": "obT3_yrNrhE",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--661",
+ "n": 1,
+ "n_src": "mutfile",
+ "title": "تشويقة سلسلة خير القرون ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "fbe1880ebe90f4daaf7a8444f2b04357b1c8fa7ff1c036fba6eb21ac3bec60b3",
+ "nh": "bd2e843f7bd7a0d927a67e89da96cfb55cffbb868c1232b917b84063fa002e06",
+ "chars": 7773,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/661/001_تشويقة سلسلة خير القرون ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/661/001_تشويقة سلسلة خير القرون ｜ أحمد السيد.txt",
+   "sha256": "fbe1880ebe90f4daaf7a8444f2b04357b1c8fa7ff1c036fba6eb21ac3bec60b3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-661/001.txt",
+   "sha256": "9245d90212fbe003fb32cf6f9c3cfa8845882d31d556d26c12bf158ac484b5d9",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

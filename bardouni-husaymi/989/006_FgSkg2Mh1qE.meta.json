@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:FgSkg2Mh1qE",
+ "vid": "FgSkg2Mh1qE",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--989",
+ "n": 6,
+ "n_src": "read",
+ "title": "شرح فتح الوهاب بشرح الآداب ｜ الدرس 07 ( تتمة تعريف المناظرة ) ｜ الشيخ محمد ال",
+ "title_src": "filename",
+ "sha256": "c12bca8157cc8326b5cf830796c3098e5f67e6c6a69cdc93853e88ea4d548add",
+ "nh": "00c5727e2bb4816d958cff50cc6901b56248e9df825c71fbf2cb84fd0e33d519",
+ "chars": 5301,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/989/006_شرح فتح الوهاب بشرح الآداب ｜ الدرس 07 (  تتمة تعريف المناظرة   ) ｜ الشيخ محمد ال.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/989/006_شرح فتح الوهاب بشرح الآداب ｜ الدرس 07 (  تتمة تعريف المناظرة   ) ｜ الشيخ محمد ال.txt",
+   "sha256": "c12bca8157cc8326b5cf830796c3098e5f67e6c6a69cdc93853e88ea4d548add",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/989/6.txt",
+   "sha256": "c12bca8157cc8326b5cf830796c3098e5f67e6c6a69cdc93853e88ea4d548add",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

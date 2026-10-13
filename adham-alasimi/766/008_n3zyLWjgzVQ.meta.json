@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:n3zyLWjgzVQ",
+ "vid": "n3zyLWjgzVQ",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--766",
+ "n": 8,
+ "n_src": "read",
+ "title": "الدرس الأول ⧸ شرح متن السلم المنورق ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "1b191985427269b68f83cfa5e43b62c191d60fc7f5cd852d42b4fee1a65b91d8",
+ "nh": "28a971ddee335132570838c8d2b7a3a276984c8d6764bf9254516468d7fb1203",
+ "chars": 29329,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/766/008_الدرس الأول ⧸ شرح متن السلم المنورق ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/766/008_الدرس الأول ⧸ شرح متن السلم المنورق ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "1b191985427269b68f83cfa5e43b62c191d60fc7f5cd852d42b4fee1a65b91d8",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/766/7.txt",
+   "sha256": "1b191985427269b68f83cfa5e43b62c191d60fc7f5cd852d42b4fee1a65b91d8",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

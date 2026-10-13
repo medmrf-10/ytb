@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:B4LDv3rRLyg",
+ "vid": "B4LDv3rRLyg",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 51,
+ "n_src": "plpos",
+ "title": "والله أعلم |  الدكتور علي جمعة يتحدث عن اضطهاد المسلمين وكيفية دعم مسلمي بورما  | الحلقة الكاملة",
+ "title_src": "yt_titles",
+ "sha256": "e1e4baff919c691d21aed6f97b32840fc656e37e1b9f0b26a91d2477ce0a6da5",
+ "nh": "9f491dc495ebee1472f2dc21531a9f572c2955f91b68ef49ddcabfb647be4481",
+ "chars": 23955,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/051_والله أعلم ｜  الدكتور علي جمعة يتحدث عن اضطهاد المسلمين وكيفية دعم مسلمي بورما  .txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/051_والله أعلم ｜  الدكتور علي جمعة يتحدث عن اضطهاد المسلمين وكيفية دعم مسلمي بورما  .txt",
+   "sha256": "e1e4baff919c691d21aed6f97b32840fc656e37e1b9f0b26a91d2477ce0a6da5",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/051_والله أعلم ｜  الدكتور علي جمعة يتحدث عن اضطهاد المسلمين وكيفية دعم مسلمي بورما  .txt",
+   "sha256": "e1e4baff919c691d21aed6f97b32840fc656e37e1b9f0b26a91d2477ce0a6da5",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/051.txt",
+   "sha256": "3cbae441b087b61ce7802684ccca83965996b8d4dcc370d7723e56b0b983cf37",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

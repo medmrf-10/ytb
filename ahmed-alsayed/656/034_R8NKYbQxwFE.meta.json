@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:R8NKYbQxwFE",
+ "vid": "R8NKYbQxwFE",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--656",
+ "n": 34,
+ "n_src": "mutfile",
+ "title": "رياض الصالحين 34 ｜ باب في المحافظة على الأعمال ｜ أنوار السنة المحمدية ｜ أحمد الس",
+ "title_src": "filename",
+ "sha256": "385937c829751036b01290175980737320332741206de0d7761460b769e2b90e",
+ "nh": "f1bcbee91b3165302228228351723cb351d0757f5606ed84d7a34266f5837523",
+ "chars": 25361,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/656/034_رياض الصالحين 34 ｜ باب في المحافظة على الأعمال ｜ أنوار السنة المحمدية ｜ أحمد الس.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/656/034_رياض الصالحين 34 ｜ باب في المحافظة على الأعمال ｜ أنوار السنة المحمدية ｜ أحمد الس.txt",
+   "sha256": "385937c829751036b01290175980737320332741206de0d7761460b769e2b90e",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/riyadElsali7in-034/transcript.txt",
+   "sha256": "385937c829751036b01290175980737320332741206de0d7761460b769e2b90e",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-656/034.txt",
+   "sha256": "385937c829751036b01290175980737320332741206de0d7761460b769e2b90e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

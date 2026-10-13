@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:eHRc0nNah1Y",
+ "vid": "eHRc0nNah1Y",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--123",
+ "n": 21,
+ "n_src": "read",
+ "title": "أيها المريد ｜ الحلقة 21 ｜ النفس، تقوى اللسان والأذن ｜ علي الجفري ｜ English Subti",
+ "title_src": "filename",
+ "sha256": "240a42cc50be336ac194314eac8b68ae2df3b4bc261379487bb8cb82aad9e80d",
+ "nh": "5f97cf170e50d94407f41a024814185e377d60ca80b87ca2889c00ed264c14ab",
+ "chars": 13698,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/123/021_أيها المريد ｜ الحلقة 21 ｜ النفس، تقوى اللسان والأذن ｜ علي الجفري ｜ English Subti.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/123/021_أيها المريد ｜ الحلقة 21 ｜ النفس، تقوى اللسان والأذن ｜ علي الجفري ｜ English Subti.txt",
+   "sha256": "240a42cc50be336ac194314eac8b68ae2df3b4bc261379487bb8cb82aad9e80d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/mut-123/021_أيها المريد ｜ الحلقة 21 ｜ النفس، تقوى اللسان والأذن ｜ علي الجفري ｜ English Subti.txt",
+   "sha256": "240a42cc50be336ac194314eac8b68ae2df3b4bc261379487bb8cb82aad9e80d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

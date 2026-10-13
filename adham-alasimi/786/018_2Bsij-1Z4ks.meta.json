@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:2Bsij-1Z4ks",
+ "vid": "2Bsij-1Z4ks",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--786",
+ "n": 18,
+ "n_src": "read",
+ "title": "حفظ النعم ورفع العقوبات ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "6de43f8ccc4139363de785d1ebb085a6f7ffefcd8ccf6c60c168fddd7cd915cb",
+ "nh": "44f75a2eb53348612f78799c7a60777f605a021157f2efac5aba73ed3049815e",
+ "chars": 7826,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/786/018_حفظ النعم ورفع العقوبات ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/786/018_حفظ النعم ورفع العقوبات ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "6de43f8ccc4139363de785d1ebb085a6f7ffefcd8ccf6c60c168fddd7cd915cb",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/786/17.txt",
+   "sha256": "6de43f8ccc4139363de785d1ebb085a6f7ffefcd8ccf6c60c168fddd7cd915cb",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

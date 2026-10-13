@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:Kp7rT9KlJ4Q",
+ "vid": "Kp7rT9KlJ4Q",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--651",
+ "n": 3,
+ "n_src": "mutfile",
+ "title": "إبراهيم الذي وفّى ٠٣ ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "925b234bcc7a1a56fb156cc0c6c6143b557c3d7d21c64644a68513a82e6e0416",
+ "nh": "84168aeab7a6f1002fdc52e299f531f66c61525d4fed105d25736f16012904c4",
+ "chars": 14791,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/651/003_إبراهيم الذي وفّى ٠٣ ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/651/003_إبراهيم الذي وفّى ٠٣ ｜ أحمد السيد.txt",
+   "sha256": "925b234bcc7a1a56fb156cc0c6c6143b557c3d7d21c64644a68513a82e6e0416",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/siyarWa3ibar-003/transcript.txt",
+   "sha256": "0f22204c0c77f04a06120f2eaf9db0b20efb285426fdf5fc7117633fe7c24c5c",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-651/003.txt",
+   "sha256": "0f22204c0c77f04a06120f2eaf9db0b20efb285426fdf5fc7117633fe7c24c5c",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:dLtiPIQtQKc",
+ "vid": "dLtiPIQtQKc",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--765",
+ "n": 23,
+ "n_src": "read",
+ "title": "(23) في المسند وأحواله (1) ⧸ جواهر البلاغة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "c4bbf7a1222ad34be49e0fa3be1f528e5a3aa78460b067ce48f3b46f07f9c1a4",
+ "nh": "2e2dfda8a098689c75b528c541fd723b90ee5cbfb6198278ad82c2c325e8b980",
+ "chars": 16300,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/765/023_(23) في المسند وأحواله (1) ⧸ جواهر البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/765/023_(23) في المسند وأحواله (1) ⧸ جواهر البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "c4bbf7a1222ad34be49e0fa3be1f528e5a3aa78460b067ce48f3b46f07f9c1a4",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/765/0.txt",
+   "sha256": "c4bbf7a1222ad34be49e0fa3be1f528e5a3aa78460b067ce48f3b46f07f9c1a4",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

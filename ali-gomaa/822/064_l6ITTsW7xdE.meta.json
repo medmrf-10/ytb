@@ -1,0 +1,55 @@
+{
+ "v": 1,
+ "lid": "yt:l6ITTsW7xdE",
+ "vid": "l6ITTsW7xdE",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 64,
+ "n_src": "mutfile",
+ "title": "والله أعلم | فضيلة د.علي جمعة ‎يرد على فتوى داعش بقتل علماء الدين | الحلقة الكاملة",
+ "title_src": "yt_titles",
+ "sha256": "cd6419f703c2ac5611f514d59ca44722fbc4f30fdb0a05544fd76548b9f5943c",
+ "nh": "9d11e7adb09701efcfe54e1aa973d760b2d38bd1e11f10696ec83b491c2f0382",
+ "chars": 25542,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/064_والله أعلم ｜ فضيلة د.علي جمعة يرد على فتوى داعش بقتل علماء الدين ｜ الحلقة الكام.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/064_والله أعلم ｜ فضيلة د.علي جمعة يرد على فتوى داعش بقتل علماء الدين ｜ الحلقة الكام.txt",
+   "sha256": "cd6419f703c2ac5611f514d59ca44722fbc4f30fdb0a05544fd76548b9f5943c",
+   "rel": "identical"
+  },
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/064_والله أعلم ｜ فضيلة د.علي جمعة ‎يرد على فتوى داعش بقتل علماء الدين ｜ الحلقة الكام.txt",
+   "sha256": "39812810f118b3fcc6ba554a3b034f495b8fc3d8e2357bd4580e0dc67cbb2bc1",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/064_والله أعلم ｜ فضيلة د.علي جمعة يرد على فتوى داعش بقتل علماء الدين ｜ الحلقة الكام.txt",
+   "sha256": "cd6419f703c2ac5611f514d59ca44722fbc4f30fdb0a05544fd76548b9f5943c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/064_والله أعلم ｜ فضيلة د.علي جمعة ‎يرد على فتوى داعش بقتل علماء الدين ｜ الحلقة الكام.txt",
+   "sha256": "39812810f118b3fcc6ba554a3b034f495b8fc3d8e2357bd4580e0dc67cbb2bc1",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/064.txt",
+   "sha256": "cd6419f703c2ac5611f514d59ca44722fbc4f30fdb0a05544fd76548b9f5943c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

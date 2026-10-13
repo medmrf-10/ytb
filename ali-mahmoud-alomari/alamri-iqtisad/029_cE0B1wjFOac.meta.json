@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:cE0B1wjFOac",
+ "vid": "cE0B1wjFOac",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+ "n": 29,
+ "n_src": "trfile",
+ "title": "الدَّرس التاسع والعشرون_ القطب الثَّاني_ تتمَّة الكلام على الحكم الثََّاني",
+ "title_src": "yt_titles",
+ "sha256": "16753e460620eec8b781df0628161493628b783de54fbf098e9d06e77528b92a",
+ "nh": "a1c6cef7ad12494428437db159e3ca224acfc0106c520671d20be81831ca546b",
+ "chars": 17633,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriIqtisad-029/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriIqtisad-029/transcript.txt",
+   "sha256": "16753e460620eec8b781df0628161493628b783de54fbf098e9d06e77528b92a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-29_AlAmri.txt",
+   "sha256": "16753e460620eec8b781df0628161493628b783de54fbf098e9d06e77528b92a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-iqtisad/29.txt",
+   "sha256": "16753e460620eec8b781df0628161493628b783de54fbf098e9d06e77528b92a",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

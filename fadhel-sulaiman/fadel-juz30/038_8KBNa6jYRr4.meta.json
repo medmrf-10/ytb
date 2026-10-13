@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:8KBNa6jYRr4",
+ "vid": "8KBNa6jYRr4",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-juz30",
+ "n": 38,
+ "n_src": "trfile",
+ "title": "فيديو # ٦٥٣ من مقاطع حظر التجول   تدبر سورة قريش",
+ "title_src": "yt_titles",
+ "sha256": "7d31cd8075e89d11ea9604a076a2e72912150e2273648881659e1313386cb8eb",
+ "nh": "b6027994db49a011e5461bb29a7f7b90a14c8ab289b4fa4912155de6a4d0b420",
+ "chars": 16357,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelJuz30-038/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelJuz30-038/transcript.txt",
+   "sha256": "7d31cd8075e89d11ea9604a076a2e72912150e2273648881659e1313386cb8eb",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-juz30/038.txt",
+   "sha256": "7d31cd8075e89d11ea9604a076a2e72912150e2273648881659e1313386cb8eb",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:iZieazNcoPY",
+ "vid": "iZieazNcoPY",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--345",
+ "n": 25,
+ "n_src": "plpos",
+ "title": "25- مشاهد وعبر من القرآن والسنة | سراقة وسواري كسرى",
+ "title_src": "yt_titles",
+ "sha256": "ecc1f8fff3cac45967b7c4c3c7f4038ee683f2fcbe2c99257c97eccab33bccd8",
+ "nh": "221a888d8d28bcd4e394ac0fc221669d688d7427277ff019cb2b3237403c5b0e",
+ "chars": 13667,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/345/025_25- مشاهد وعبر من القرآن والسنة ｜ سراقة وسواري كسرى.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/345/025_25- مشاهد وعبر من القرآن والسنة ｜ سراقة وسواري كسرى.txt",
+   "sha256": "ecc1f8fff3cac45967b7c4c3c7f4038ee683f2fcbe2c99257c97eccab33bccd8",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-mashahid/25.txt",
+   "sha256": "41eb0c305bfdeb33f9cd89c21b57855940a8fa14e07e212a9c5a93bbc126e32f",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/345/24.txt",
+   "sha256": "ecc1f8fff3cac45967b7c4c3c7f4038ee683f2fcbe2c99257c97eccab33bccd8",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

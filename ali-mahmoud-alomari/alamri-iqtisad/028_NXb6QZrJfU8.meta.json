@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:NXb6QZrJfU8",
+ "vid": "NXb6QZrJfU8",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+ "n": 28,
+ "n_src": "trfile",
+ "title": "الدَّرس الثَّامن والعشرون_ القطب الثَّاني_ الحكم الثاني من أحكام الصِّفات المشتركة",
+ "title_src": "yt_titles",
+ "sha256": "082fcef478f8468e89b728e2d80e1267d1c0725590ac9014b0bd901c4581942b",
+ "nh": "19af926f97eb232cb756370807a426033aa01b1a919dd5f9de099d12e60e8666",
+ "chars": 31725,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriIqtisad-028/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriIqtisad-028/transcript.txt",
+   "sha256": "082fcef478f8468e89b728e2d80e1267d1c0725590ac9014b0bd901c4581942b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-28_AlAmri.txt",
+   "sha256": "082fcef478f8468e89b728e2d80e1267d1c0725590ac9014b0bd901c4581942b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-iqtisad/28.txt",
+   "sha256": "082fcef478f8468e89b728e2d80e1267d1c0725590ac9014b0bd901c4581942b",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

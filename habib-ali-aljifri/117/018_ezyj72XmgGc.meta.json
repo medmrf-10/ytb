@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:ezyj72XmgGc",
+ "vid": "ezyj72XmgGc",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--117",
+ "n": 18,
+ "n_src": "read",
+ "title": "حلقة 18 - لا غفر الله لك - سلسلة حلقات الإنسانية قبل التدين",
+ "title_src": "filename",
+ "sha256": "d9c0d5c78614f2acf9dfebdae9c56836950226a0114cdd992e80bc33c9eaa950",
+ "nh": "da78ee759c4f70a42b6ee417f44b871be681b402dece8382ac9a9ea28f250070",
+ "chars": 1224,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/117/018_حلقة 18 - لا غفر الله لك - سلسلة حلقات الإنسانية قبل التدين.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/117/018_حلقة 18 - لا غفر الله لك - سلسلة حلقات الإنسانية قبل التدين.txt",
+   "sha256": "d9c0d5c78614f2acf9dfebdae9c56836950226a0114cdd992e80bc33c9eaa950",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/insaniyya/30.txt",
+   "sha256": "d9c0d5c78614f2acf9dfebdae9c56836950226a0114cdd992e80bc33c9eaa950",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/112/30.txt",
+   "sha256": "d9c0d5c78614f2acf9dfebdae9c56836950226a0114cdd992e80bc33c9eaa950",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-ali-aljifri--112",
+  "k:117"
+ ]
+}

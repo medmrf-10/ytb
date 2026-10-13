@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:1wtOsTwZUhA",
+ "vid": "1wtOsTwZUhA",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-414",
+ "n": 29,
+ "n_src": "trfile",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 29",
+ "title_src": "filename",
+ "sha256": "826fce86b8e4c65b34c45770e1aa9590a02e43e1977e165ed303e26b92e67878",
+ "nh": "87784f72a966cc57e7b01c5b8440dfffad17f1646589f833e00ee36bc1c17cfb",
+ "chars": 20368,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/029_تفسير القرآن الكريم للدكتور البوطي - الدرس 29.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/029_تفسير القرآن الكريم للدكتور البوطي - الدرس 29.txt",
+   "sha256": "826fce86b8e4c65b34c45770e1aa9590a02e43e1977e165ed303e26b92e67878",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/029.txt",
+   "sha256": "c863aaa42e7205d1c5587091dbde02f7d2e9561f0d7e2fca6cb809679fcb5af2",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

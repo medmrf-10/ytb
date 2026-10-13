@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:5azJt4b5zfg",
+ "vid": "5azJt4b5zfg",
+ "sheikh": "ahmed-abdelmonem",
+ "row_id": "ahmed-abdelmonem--abdelmonem-juz30",
+ "n": 11,
+ "n_src": "trfile",
+ "title": "تفسير سورة البروج | د. أحمد عبد المنعم",
+ "title_src": "yt_titles",
+ "sha256": "2c83944b0d24636094b71d74eee0d19b944a1411c4ec2165388710b32cd508f7",
+ "nh": "f5b59b6db673f45ca61119f52c1380a300f0f5f71af2866b9adb6991004d0375",
+ "chars": 42844,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/abdelmonemJuz30-011/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/abdelmonemJuz30-011/transcript.txt",
+   "sha256": "2c83944b0d24636094b71d74eee0d19b944a1411c4ec2165388710b32cd508f7",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/abdelmonem/juz30/085-Buruj_AbdelMonem.txt",
+   "sha256": "2c83944b0d24636094b71d74eee0d19b944a1411c4ec2165388710b32cd508f7",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/abdelmonem-juz30/11.txt",
+   "sha256": "2c83944b0d24636094b71d74eee0d19b944a1411c4ec2165388710b32cd508f7",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

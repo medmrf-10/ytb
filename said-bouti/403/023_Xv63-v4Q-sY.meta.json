@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:Xv63-v4Q-sY",
+ "vid": "Xv63-v4Q-sY",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--403",
+ "n": 23,
+ "n_src": "plpos",
+ "title": "21- فقه السيرة النبوية | أسس المجتمع الجديد: بناء المسجد، الأخوة بين المسلمين",
+ "title_src": "yt_titles",
+ "sha256": "a98692c97b7762ff3f0414d9070dc56f11a0a8b3ee74acfc93b6bdffae685bb3",
+ "nh": "1e3204abf50976a4ec3a392c5da93775ccb3e3efedbbdd8e63501ac2b4ff261b",
+ "chars": 26052,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/403/023_21- فقه السيرة النبوية ｜ أسس المجتمع الجديد： بناء المسجد، الأخوة بين المسلمين.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/403/023_21- فقه السيرة النبوية ｜ أسس المجتمع الجديد： بناء المسجد، الأخوة بين المسلمين.txt",
+   "sha256": "a98692c97b7762ff3f0414d9070dc56f11a0a8b3ee74acfc93b6bdffae685bb3",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fi9hElsirah-023/transcript.txt",
+   "sha256": "cfe6f0a06cedd4a758e28df5f000fec27595266b17ebc7d8a7cfc490585196d0",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-sira/23.txt",
+   "sha256": "cfe6f0a06cedd4a758e28df5f000fec27595266b17ebc7d8a7cfc490585196d0",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/403/22.txt",
+   "sha256": "a98692c97b7762ff3f0414d9070dc56f11a0a8b3ee74acfc93b6bdffae685bb3",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

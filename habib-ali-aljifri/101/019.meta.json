@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:habib-ali-aljifri--101:19",
+ "vid": null,
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--101",
+ "n": 19,
+ "n_src": "read",
+ "title": "أيها المريد ｜ الحلقة 18 ｜مفهوم الرضا 2 ｜ علي الجفري ｜",
+ "title_src": "filename",
+ "sha256": "0a2bd2ee70c3e5ca0c6183fb8dfb52fe3111db63667703ba43de4a62f7738237",
+ "nh": "37a76ad2fe00601a5f08ccdb3176277cf64bc6d635a6f9fd93489a189acf2e44",
+ "chars": 11716,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/101/019_أيها المريد ｜ الحلقة 18 ｜مفهوم  الرضا 2 ｜ علي الجفري ｜ English subtitle.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/101/019_أيها المريد ｜ الحلقة 18 ｜مفهوم  الرضا 2 ｜ علي الجفري ｜ English subtitle.txt",
+   "sha256": "0a2bd2ee70c3e5ca0c6183fb8dfb52fe3111db63667703ba43de4a62f7738237",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/101/2.txt",
+   "sha256": "0a2bd2ee70c3e5ca0c6183fb8dfb52fe3111db63667703ba43de4a62f7738237",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

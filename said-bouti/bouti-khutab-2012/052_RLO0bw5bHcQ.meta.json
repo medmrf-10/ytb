@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:RLO0bw5bHcQ",
+ "vid": "RLO0bw5bHcQ",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-khutab-2012",
+ "n": 52,
+ "n_src": "trfile",
+ "title": "خطبة الإمام الشهيد |  يَا أَيُّهَا الَّذِينَ آمَنُواْ اتَّقُواْ اللّهَ وَكُونُواْ مَعَ الصَّادِقِينَ",
+ "title_src": "yt_titles",
+ "sha256": "f6e34656a2fc88a02b28de16836909eb3bfe18ceac1b9eccea1f181655a80929",
+ "nh": "436e05992d031854905363b2013e7ff2b219f94838c2e61255564aaa3c4f0d86",
+ "chars": 12036,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/5o6ab-052/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/5o6ab-052/transcript.txt",
+   "sha256": "f6e34656a2fc88a02b28de16836909eb3bfe18ceac1b9eccea1f181655a80929",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-khutab-2012/52.txt",
+   "sha256": "f6e34656a2fc88a02b28de16836909eb3bfe18ceac1b9eccea1f181655a80929",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

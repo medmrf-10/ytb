@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "yt:OnIJviRxPx0",
+ "vid": "OnIJviRxPx0",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--bardouni-mut-985",
+ "n": 13,
+ "n_src": "read",
+ "title": "شرح المنهج المنتخب ｜ دس 71 ( ق105 هل ظن الكمال كالتحقق أم لا ) ｜ الشيخ محمد ا",
+ "title_src": "filename",
+ "sha256": "e41051cc060ecc04c791e8bc7411f3580d23b633217c8b77aef045e0e3206508",
+ "nh": "70a0fcb73ca8d75a32c60bd594c454ab574bbf9a153959e7819f090d37a02be3",
+ "chars": 18245,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/985/013_شرح المنهج  المنتخب ｜ دس 71 ( ق105 هل ظن الكمال كالتحقق أم لا   ) ｜ الشيخ محمد ا.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/985/013_شرح المنهج  المنتخب ｜ دس 71 ( ق105 هل ظن الكمال كالتحقق أم لا   ) ｜ الشيخ محمد ا.txt",
+   "sha256": "e41051cc060ecc04c791e8bc7411f3580d23b633217c8b77aef045e0e3206508",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bardouni/mut-985/013_شرح المنهج  المنتخب ｜ دس 71 ( ق105 هل ظن الكمال كالتحقق أم لا   ) ｜ الشيخ محمد ا.txt",
+   "sha256": "e41051cc060ecc04c791e8bc7411f3580d23b633217c8b77aef045e0e3206508",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/37/142.txt",
+   "sha256": "e41051cc060ecc04c791e8bc7411f3580d23b633217c8b77aef045e0e3206508",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "mouloud-sariri--37"
+ ]
+}

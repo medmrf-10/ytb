@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:UQ5hJOVERNQ",
+ "vid": "UQ5hJOVERNQ",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--345",
+ "n": 11,
+ "n_src": "plpos",
+ "title": "11- مشاهد وعبر من القرآن والسنة | الفرق بين حب الرسول صلى الله عليه وسلم واتباعه",
+ "title_src": "yt_titles",
+ "sha256": "28573ccc1f20077027be9f41415d21ea7564e44d29d40e40f02b94c1ca0a7168",
+ "nh": "0473cdb47406c7f671a56fce08165bdac47f9d80482f2caac9676ed002769bf8",
+ "chars": 13107,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/345/011_11- مشاهد وعبر من القرآن والسنة ｜ الفرق بين حب الرسول صلى الله عليه وسلم واتباعه.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/345/011_11- مشاهد وعبر من القرآن والسنة ｜ الفرق بين حب الرسول صلى الله عليه وسلم واتباعه.txt",
+   "sha256": "28573ccc1f20077027be9f41415d21ea7564e44d29d40e40f02b94c1ca0a7168",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-mashahid/11.txt",
+   "sha256": "9113b5b4576fea851f8b44d454c5f50169a84b4b29ee136cfa160afcee7e89fe",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/345/10.txt",
+   "sha256": "28573ccc1f20077027be9f41415d21ea7564e44d29d40e40f02b94c1ca0a7168",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

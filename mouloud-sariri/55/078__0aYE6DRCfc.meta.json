@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:_0aYE6DRCfc",
+ "vid": "_0aYE6DRCfc",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 78,
+ "n_src": "read",
+ "title": "خطب منبرية： قبح الغدر ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "e0355c9179934bc1a8252ec6c0602be2cf9417f3dc12d78b857153c00ff82a37",
+ "nh": "bfd033b3bbd1147ebc14accdfc8c0d1c11f4b44a43c43e6b052cfcb2cfe175f1",
+ "chars": 8708,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/078_خطب منبرية： قبح الغدر ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/078_خطب منبرية： قبح الغدر ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "e0355c9179934bc1a8252ec6c0602be2cf9417f3dc12d78b857153c00ff82a37",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/77.txt",
+   "sha256": "e0355c9179934bc1a8252ec6c0602be2cf9417f3dc12d78b857153c00ff82a37",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

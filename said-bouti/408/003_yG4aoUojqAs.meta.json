@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:yG4aoUojqAs",
+ "vid": "yG4aoUojqAs",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--408",
+ "n": 3,
+ "n_src": "read",
+ "title": "3- الجديد في إعجاز القرآن الكريم ｜ دليل التجربة والمشاهدة على إعجاز القرآن الكري",
+ "title_src": "filename",
+ "sha256": "53493f4abfb01c7f542fb19399014c2ed5df92926fe63d7af139b7b1246011bb",
+ "nh": "0b90f2a6ad9e5b0598022af05599dac64db9568a4e4ad4ccbc2984b5c66771e5",
+ "chars": 11835,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/408/003_3- الجديد في إعجاز القرآن الكريم ｜ دليل التجربة والمشاهدة على إعجاز القرآن الكري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/408/003_3- الجديد في إعجاز القرآن الكريم ｜ دليل التجربة والمشاهدة على إعجاز القرآن الكري.txt",
+   "sha256": "53493f4abfb01c7f542fb19399014c2ed5df92926fe63d7af139b7b1246011bb",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/408/2.txt",
+   "sha256": "53493f4abfb01c7f542fb19399014c2ed5df92926fe63d7af139b7b1246011bb",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

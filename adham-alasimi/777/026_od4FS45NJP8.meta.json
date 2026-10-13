@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:od4FS45NJP8",
+ "vid": "od4FS45NJP8",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--777",
+ "n": 26,
+ "n_src": "read",
+ "title": "درس (1) من شرح كتاب ＂مقاصد الرعاية لحقوق الله عز وجل＂ ⧸الشيخ أدهم العاسمي - رمضا",
+ "title_src": "filename",
+ "sha256": "d908ff18aa2fd794a80ec62f8357540640c234615cc007f9d94b5d7587368ed2",
+ "nh": "da1af4ed642a7df77bb9f2aa102bfbfaeaa1355856be04bda61e26f261fc39c2",
+ "chars": 10258,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/777/026_درس (1) من شرح كتاب ＂مقاصد الرعاية لحقوق الله عز وجل＂ ⧸الشيخ أدهم العاسمي - رمضا.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/777/026_درس (1) من شرح كتاب ＂مقاصد الرعاية لحقوق الله عز وجل＂ ⧸الشيخ أدهم العاسمي - رمضا.txt",
+   "sha256": "d908ff18aa2fd794a80ec62f8357540640c234615cc007f9d94b5d7587368ed2",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/777/25.txt",
+   "sha256": "d908ff18aa2fd794a80ec62f8357540640c234615cc007f9d94b5d7587368ed2",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

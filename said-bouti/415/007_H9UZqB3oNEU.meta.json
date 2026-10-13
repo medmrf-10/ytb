@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:H9UZqB3oNEU",
+ "vid": "H9UZqB3oNEU",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--415",
+ "n": 7,
+ "n_src": "mutfile",
+ "title": "6 - التزكية في القرآن الكريم من آثار التزكية - حسن الظن",
+ "title_src": "filename",
+ "sha256": "39acdfc97f397127255ea49122082dfe1334de7d8c024e56568f1b1d916fede4",
+ "nh": "929273c03d9cbeed3f7d01ba7732be5475a622ce1969b0de040c46e557590ae8",
+ "chars": 13722,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/415/007_6 - التزكية في القرآن الكريم  من آثار التزكية - حسن الظن.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/415/007_6 - التزكية في القرآن الكريم  من آثار التزكية - حسن الظن.txt",
+   "sha256": "39acdfc97f397127255ea49122082dfe1334de7d8c024e56568f1b1d916fede4",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tawba/007_6 - التزكية في القرآن الكريم  من آثار التزكية - حسن الظن.txt",
+   "sha256": "39acdfc97f397127255ea49122082dfe1334de7d8c024e56568f1b1d916fede4",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tazkiya/007_6 - التزكية في القرآن الكريم  من آثار التزكية - حسن الظن.txt",
+   "sha256": "39acdfc97f397127255ea49122082dfe1334de7d8c024e56568f1b1d916fede4",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-415/006.txt",
+   "sha256": "9207594b3298d3a254ba987dfe37d103fd5429232f0f127175e12b27a178af2c",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

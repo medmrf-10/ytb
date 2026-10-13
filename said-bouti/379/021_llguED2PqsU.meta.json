@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:llguED2PqsU",
+ "vid": "llguED2PqsU",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--379",
+ "n": 21,
+ "n_src": "plpos",
+ "title": "21- تاريخ التشريع الإسلامي | الإمام أحمد بن حنبل رحلاته العلمية - آراؤه في العقيدة والسياسة",
+ "title_src": "yt_titles",
+ "sha256": "1ef37d9a8c9d2f6ec10214310ae5cfba5e86ec98589cf50530ac49d0aa6d85c1",
+ "nh": "d71cc1aced39e79014b97ae8421727f600e485fd62396295e31fc06f986155a6",
+ "chars": 19241,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/379/021_21- تاريخ التشريع الإسلامي ｜ الإمام أحمد بن حنبل رحلاته العلمية - آراؤه في العقي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/379/021_21- تاريخ التشريع الإسلامي ｜ الإمام أحمد بن حنبل رحلاته العلمية - آراؤه في العقي.txt",
+   "sha256": "1ef37d9a8c9d2f6ec10214310ae5cfba5e86ec98589cf50530ac49d0aa6d85c1",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/tari5Eltachri3-021/transcript.txt",
+   "sha256": "9c4891187e783adb22187a5e03c704f79257044d141066c3b78606c1060dae9e",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-tarikh/21.txt",
+   "sha256": "9c4891187e783adb22187a5e03c704f79257044d141066c3b78606c1060dae9e",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/379/20.txt",
+   "sha256": "1ef37d9a8c9d2f6ec10214310ae5cfba5e86ec98589cf50530ac49d0aa6d85c1",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

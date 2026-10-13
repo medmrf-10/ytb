@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:FtK0FBtXJ9w",
+ "vid": "FtK0FBtXJ9w",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-414",
+ "n": 199,
+ "n_src": "read",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 199",
+ "title_src": "filename",
+ "sha256": "f5db96ec74a2ddd23e92d46446bc8d023eee7df0499966b0a55029d0f4259a7c",
+ "nh": "91d6f9b62d6bc5ae3f980ceeae1025aa16327f796b8fdbfe19f8e6b63b65c0c0",
+ "chars": 18630,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/199_تفسير القرآن الكريم للدكتور البوطي - الدرس 199.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/199_تفسير القرآن الكريم للدكتور البوطي - الدرس 199.txt",
+   "sha256": "f5db96ec74a2ddd23e92d46446bc8d023eee7df0499966b0a55029d0f4259a7c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/199.txt",
+   "sha256": "ac6580bf30b090776a90a6d4bc07ac5174cf3460fdb5aad1c47306dad5274626",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

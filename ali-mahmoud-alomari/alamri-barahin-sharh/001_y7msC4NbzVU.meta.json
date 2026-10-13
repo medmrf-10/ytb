@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:y7msC4NbzVU",
+ "vid": "y7msC4NbzVU",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-barahin-sharh",
+ "n": 1,
+ "n_src": "trfile",
+ "title": "الدرس الأول شرح كتاب أم البراهين للشيخ أبي عبد الله السَّنوسي رضي الله عنه",
+ "title_src": "yt_titles",
+ "sha256": "d10a4318e226b8a77b8cfe2249d137c50dc825f79a846a89e8d0863a818cfe08",
+ "nh": "ee1bbf0163557c2c2e3a9c98d790d3992ac79b6034ece90af786880175c6550f",
+ "chars": 44811,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriBarahinSharh-001/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriBarahinSharh-001/transcript.txt",
+   "sha256": "d10a4318e226b8a77b8cfe2249d137c50dc825f79a846a89e8d0863a818cfe08",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/barahin-sharh/barahin-sharh-01_AlAmri.txt",
+   "sha256": "d10a4318e226b8a77b8cfe2249d137c50dc825f79a846a89e8d0863a818cfe08",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-barahin-sharh/01.txt",
+   "sha256": "d10a4318e226b8a77b8cfe2249d137c50dc825f79a846a89e8d0863a818cfe08",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

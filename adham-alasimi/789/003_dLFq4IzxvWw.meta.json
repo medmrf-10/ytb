@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:dLFq4IzxvWw",
+ "vid": "dLFq4IzxvWw",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--789",
+ "n": 3,
+ "n_src": "read",
+ "title": "تربية الأولاد على حب النبي ﷺ ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "d342cb4e6aea93d9b8703dce17faded1e00c828618186586f7386b4f761b44ba",
+ "nh": "3e10eb66b781e98e46876ae698ef7a267a5853835308820296bad43dc0b7b173",
+ "chars": 18940,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/789/003_تربية الأولاد على حب النبي ﷺ ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/789/003_تربية الأولاد على حب النبي ﷺ ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "d342cb4e6aea93d9b8703dce17faded1e00c828618186586f7386b4f761b44ba",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/789/2.txt",
+   "sha256": "d342cb4e6aea93d9b8703dce17faded1e00c828618186586f7386b4f761b44ba",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

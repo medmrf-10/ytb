@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:IxScDDWPeXM",
+ "vid": "IxScDDWPeXM",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--366",
+ "n": 4,
+ "n_src": "read",
+ "title": "3 - محمد ﷺ في القرآن الكريم العلامة البوطي أمّـيّـة النبي محمد ﷺ",
+ "title_src": "filename",
+ "sha256": "70c98155b7ad329570d170df24d47964a6e97dd177dae327b8a7760659a861ab",
+ "nh": "e18049131ba24c7016ae4f8f91d4ca43966549252dbc2aadb4e0904a87fabec8",
+ "chars": 14207,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/366/004_3 - محمد ﷺ في القرآن الكريم  العلامة البوطي  أمّـيّـة النبي محمد ﷺ.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/366/004_3 - محمد ﷺ في القرآن الكريم  العلامة البوطي  أمّـيّـة النبي محمد ﷺ.txt",
+   "sha256": "70c98155b7ad329570d170df24d47964a6e97dd177dae327b8a7760659a861ab",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tawba/004_3 - محمد ﷺ في القرآن الكريم  العلامة البوطي  أمّـيّـة النبي محمد ﷺ.txt",
+   "sha256": "70c98155b7ad329570d170df24d47964a6e97dd177dae327b8a7760659a861ab",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/muhammad/004_3 - محمد ﷺ في القرآن الكريم  العلامة البوطي  أمّـيّـة النبي محمد ﷺ.txt",
+   "sha256": "70c98155b7ad329570d170df24d47964a6e97dd177dae327b8a7760659a861ab",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

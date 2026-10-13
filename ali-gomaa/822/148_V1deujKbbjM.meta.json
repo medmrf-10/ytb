@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:V1deujKbbjM",
+ "vid": "V1deujKbbjM",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 148,
+ "n_src": "plpos",
+ "title": "#حديث_الجمعة | الفرق بين المناهج والمسائل",
+ "title_src": "yt_titles",
+ "sha256": "135780373952eb935b608014f4e29aef6b84fd818ad2be1c87e32e856b6dcef4",
+ "nh": "28297a87c627cb216481f25602ef080190e2d5c380007e6a82560e2bb910960b",
+ "chars": 10093,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/gomaa/mut-822/148_#حديث_الجمعة ｜ الفرق بين المناهج والمسائل.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/148_#حديث_الجمعة ｜ الفرق بين المناهج والمسائل.txt",
+   "sha256": "135780373952eb935b608014f4e29aef6b84fd818ad2be1c87e32e856b6dcef4",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/148.txt",
+   "sha256": "466468ff31ad6a8e6f797f3dab3c74904026eb0b805fd3ecf0312629d43e9d57",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

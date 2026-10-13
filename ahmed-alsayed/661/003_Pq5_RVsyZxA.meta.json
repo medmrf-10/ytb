@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:Pq5_RVsyZxA",
+ "vid": "Pq5_RVsyZxA",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--661",
+ "n": 3,
+ "n_src": "mutfile",
+ "title": "خير القرون 02 ｜ بيعة السقيفة قاعدة الانطلاق والاتفاق ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "2d0f3803f5eb111927c99413b95a831625ce11ad0e3d1c74746ee4a0254032fb",
+ "nh": "ed009b1e3150ce926f53186d6ad0c29207f8ad516b45cf5c59c3e9bd81d9b4ca",
+ "chars": 54633,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/661/003_خير القرون 02 ｜ بيعة السقيفة قاعدة الانطلاق والاتفاق ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/661/003_خير القرون 02 ｜ بيعة السقيفة قاعدة الانطلاق والاتفاق ｜ أحمد السيد.txt",
+   "sha256": "2d0f3803f5eb111927c99413b95a831625ce11ad0e3d1c74746ee4a0254032fb",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-661/003.txt",
+   "sha256": "8c3c445f982ecb7859b85047f06333f617e2b53767b528cffbb38842e204f16c",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

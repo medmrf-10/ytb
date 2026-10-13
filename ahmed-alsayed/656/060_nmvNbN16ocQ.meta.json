@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:nmvNbN16ocQ",
+ "vid": "nmvNbN16ocQ",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--656",
+ "n": 60,
+ "n_src": "mutfile",
+ "title": "رياض الصالحين 60 ｜ باب قضاء حوائج المسلمين ｜ أنوار السنة المحمدية ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "cb75301de2a0950c05fafc68f21046a355dfe9a99a33b1f39e0b8d25ba0a14c0",
+ "nh": "4be806023ca42fc129301de12fb2db61d9c6a84f88c28c6c8309e0c78f7e9635",
+ "chars": 24580,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/656/060_رياض الصالحين 60 ｜ باب قضاء حوائج المسلمين ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/656/060_رياض الصالحين 60 ｜ باب قضاء حوائج المسلمين ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+   "sha256": "cb75301de2a0950c05fafc68f21046a355dfe9a99a33b1f39e0b8d25ba0a14c0",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/riyadElsali7in-060/transcript.txt",
+   "sha256": "398ab6096b9f270cc0f398f84aa6776e169f320e71502e7966cf3d3f59a4415b",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-656/060.txt",
+   "sha256": "398ab6096b9f270cc0f398f84aa6776e169f320e71502e7966cf3d3f59a4415b",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

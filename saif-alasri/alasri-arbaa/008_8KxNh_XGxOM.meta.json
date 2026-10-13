@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:8KxNh_XGxOM",
+ "vid": "8KxNh_XGxOM",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 8,
+ "n_src": "trfile",
+ "title": "الكلام عن نسبة كتاب الرد على الجهمية والزنادقة للإمام أحمد/ د. سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "7bf19f8a8f12a189113a6aae36f41214fbedd67334faab4bd1cb5b047fdd35e3",
+ "nh": "11da77d6095c83cfc032201af8afabf0245625e753557785652ff8943ec64e08",
+ "chars": 23513,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-008/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-008/transcript.txt",
+   "sha256": "7bf19f8a8f12a189113a6aae36f41214fbedd67334faab4bd1cb5b047fdd35e3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/008_8KxNh_XGxOM.txt",
+   "sha256": "7bf19f8a8f12a189113a6aae36f41214fbedd67334faab4bd1cb5b047fdd35e3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/008.txt",
+   "sha256": "7bf19f8a8f12a189113a6aae36f41214fbedd67334faab4bd1cb5b047fdd35e3",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:3H_DEtNKixU",
+ "vid": "3H_DEtNKixU",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--776",
+ "n": 7,
+ "n_src": "read",
+ "title": "(7) التدليس ⧸ تيسير علوم الحديث ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "f84e96b4647e0c90ab96aaa46b25e138d49d1321e89f337b300a3f5030fc1bec",
+ "nh": "37af60d16450031bc621ecc5a4d6c4c73386f1582d0cd285c915292f6a84a18d",
+ "chars": 28570,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/776/007_(7) التدليس ⧸ تيسير علوم الحديث ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/776/007_(7) التدليس ⧸ تيسير علوم الحديث ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "f84e96b4647e0c90ab96aaa46b25e138d49d1321e89f337b300a3f5030fc1bec",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/776/6.txt",
+   "sha256": "f84e96b4647e0c90ab96aaa46b25e138d49d1321e89f337b300a3f5030fc1bec",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

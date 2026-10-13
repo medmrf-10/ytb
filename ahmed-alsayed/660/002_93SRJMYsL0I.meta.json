@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:93SRJMYsL0I",
+ "vid": "93SRJMYsL0I",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--660",
+ "n": 2,
+ "n_src": "mutfile",
+ "title": "الأمة بين احتلالين 01 ｜ كيف ندرس أحوال الأمة في ظروف الاحتلال؟ ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "d3b7161d5add1fb7043d0de4d57017e56ca6bff12cbb85a6f77f6413f2057ee0",
+ "nh": "a661980ae2beb4050873db17d7418de8776d33f357025600c1cb017d6117875a",
+ "chars": 78470,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/660/002_الأمة بين احتلالين 01 ｜ كيف ندرس أحوال الأمة في ظروف الاحتلال؟ ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/660/002_الأمة بين احتلالين 01 ｜ كيف ندرس أحوال الأمة في ظروف الاحتلال؟ ｜ أحمد السيد.txt",
+   "sha256": "d3b7161d5add1fb7043d0de4d57017e56ca6bff12cbb85a6f77f6413f2057ee0",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/elommaBaynI7tilayn-002/transcript.txt",
+   "sha256": "d6c87af8782449a95058d6e4d53dfe70d350c8ed95ed2758508978ba73a6f4f0",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-660/002.txt",
+   "sha256": "d6c87af8782449a95058d6e4d53dfe70d350c8ed95ed2758508978ba73a6f4f0",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

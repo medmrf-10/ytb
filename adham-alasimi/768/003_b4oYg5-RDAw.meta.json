@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:b4oYg5-RDAw",
+ "vid": "b4oYg5-RDAw",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--768",
+ "n": 3,
+ "n_src": "read",
+ "title": "(3) أقسام الحكم ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "63f89869ce37eb08687d6de8816913ad0198f75f5f82fe8502764c718c76885d",
+ "nh": "ac4ea44a9d17cc842c03cae62364c542b514b44b6ea8429445855ca316ae4928",
+ "chars": 21903,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/768/003_(3) أقسام الحكم ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/768/003_(3) أقسام الحكم ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "63f89869ce37eb08687d6de8816913ad0198f75f5f82fe8502764c718c76885d",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/768/2.txt",
+   "sha256": "63f89869ce37eb08687d6de8816913ad0198f75f5f82fe8502764c718c76885d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

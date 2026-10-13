@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:6SOCzyajuC4",
+ "vid": "6SOCzyajuC4",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--337",
+ "n": 2,
+ "n_src": "mutfile",
+ "title": "1- في رحاب القرآن شهر رمضان شهر القرآن",
+ "title_src": "filename",
+ "sha256": "0a3ada507e273d9f482a63f209eb072c9a6830ddc09d07ce7f1ae1e5311b3961",
+ "nh": "9c94694e4a35ecf57f889c890c0abaf6815014da5f5675566b01e85a64dd06bc",
+ "chars": 1460,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/337/002_1- في رحاب القرآن  شهر رمضان شهر القرآن.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/337/002_1- في رحاب القرآن  شهر رمضان شهر القرآن.txt",
+   "sha256": "0a3ada507e273d9f482a63f209eb072c9a6830ddc09d07ce7f1ae1e5311b3961",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/rihab/002_1- في رحاب القرآن  شهر رمضان شهر القرآن.txt",
+   "sha256": "0a3ada507e273d9f482a63f209eb072c9a6830ddc09d07ce7f1ae1e5311b3961",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-337/002.txt",
+   "sha256": "eb22d4240336dcf82e2fb01aae1a99f00618e8425f9ca5d1fd9cf6e0232a41ac",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

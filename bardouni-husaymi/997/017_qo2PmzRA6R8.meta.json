@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:qo2PmzRA6R8",
+ "vid": "qo2PmzRA6R8",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--997",
+ "n": 17,
+ "n_src": "read",
+ "title": "شرح الحكم ｜دس17 ＂ما ترك من الجهل شيئا من أراد أن يحدث في الوقت غير ما أظهره الله",
+ "title_src": "filename",
+ "sha256": "14ea22f0764a70f90c0fe03862292e98810b5b79273259a6bc9d63c8bd2f53af",
+ "nh": "70eb14cddc17ab103e44153458820a8d5465ffc73eeab3e0cd1251b6bba1d2c9",
+ "chars": 16396,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/997/017_شرح الحكم ｜دس17 ＂ما ترك من الجهل شيئا من أراد أن يحدث في الوقت غير ما أظهره الله.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/997/017_شرح الحكم ｜دس17 ＂ما ترك من الجهل شيئا من أراد أن يحدث في الوقت غير ما أظهره الله.txt",
+   "sha256": "14ea22f0764a70f90c0fe03862292e98810b5b79273259a6bc9d63c8bd2f53af",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/hikam-azhar/16.txt",
+   "sha256": "14ea22f0764a70f90c0fe03862292e98810b5b79273259a6bc9d63c8bd2f53af",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/871/16.txt",
+   "sha256": "14ea22f0764a70f90c0fe03862292e98810b5b79273259a6bc9d63c8bd2f53af",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "ali-gomaa--871",
+  "ali-gomaa--gomaa-hikam-azhar"
+ ]
+}

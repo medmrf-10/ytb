@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:EdOim-DNH-g",
+ "vid": "EdOim-DNH-g",
+ "sheikh": "hatem-alaouni",
+ "row_id": "hatem-alaouni--aouni-ibada",
+ "n": 1,
+ "n_src": "trfile",
+ "title": "المجلس الأول في تحرير مفهوم العبادة (تمهيد ومقدمات) | أ.د الشريف حاتم العوني",
+ "title_src": "yt_titles",
+ "sha256": "c5521d84f91f23cac0700e7eea16be7b93dd8fd52f5591712f233a4d6b517c3c",
+ "nh": "476b2ca4b8f86b608141dbb77825a8936a9207b05ad131f95e042c2613c28e31",
+ "chars": 66054,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/aouniIbada-001/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/aouniIbada-001/transcript.txt",
+   "sha256": "c5521d84f91f23cac0700e7eea16be7b93dd8fd52f5591712f233a4d6b517c3c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/aouni/ibada/001_EdOim-DNH-g.txt",
+   "sha256": "c5521d84f91f23cac0700e7eea16be7b93dd8fd52f5591712f233a4d6b517c3c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/aouni-ibada/001.txt",
+   "sha256": "c5521d84f91f23cac0700e7eea16be7b93dd8fd52f5591712f233a4d6b517c3c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

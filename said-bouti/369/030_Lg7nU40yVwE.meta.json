@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:Lg7nU40yVwE",
+ "vid": "Lg7nU40yVwE",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--369",
+ "n": 30,
+ "n_src": "plpos",
+ "title": "30- يغالطونك إذ يقولون : الإسلام إنما انتشر بسلطان القهر والسيف",
+ "title_src": "yt_titles",
+ "sha256": "1530059fd1596740bac7ca3b8b9c0ee72226a9df72a58da2b1e73247329abd72",
+ "nh": "8398e878afdc14677cec4ac2e88088e1f16151bf3f80ad1bcc783f06bd2c5e2e",
+ "chars": 19044,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/369/030_30- يغالطونك إذ يقولون ： الإسلام إنما انتشر بسلطان القهر والسيف.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/369/030_30- يغالطونك إذ يقولون ： الإسلام إنما انتشر بسلطان القهر والسيف.txt",
+   "sha256": "1530059fd1596740bac7ca3b8b9c0ee72226a9df72a58da2b1e73247329abd72",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/yoghalitonak-030/transcript.txt",
+   "sha256": "479c923ad9a6bf02e24ef5dfe07a841e44040bc293c42d5a0f876bd27653acdb",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-yaghalitun/30.txt",
+   "sha256": "479c923ad9a6bf02e24ef5dfe07a841e44040bc293c42d5a0f876bd27653acdb",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/369/0.txt",
+   "sha256": "1530059fd1596740bac7ca3b8b9c0ee72226a9df72a58da2b1e73247329abd72",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

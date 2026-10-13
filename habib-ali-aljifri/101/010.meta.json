@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:habib-ali-aljifri--101:10",
+ "vid": null,
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--101",
+ "n": 10,
+ "n_src": "read",
+ "title": "أيها المريد ｜ الحلقة 9 ｜ ثمار الصبر ｜ علي الجفري ｜",
+ "title_src": "filename",
+ "sha256": "fdabcde5b5cbd1a4b40a2ed438747a74b2073ad6a14df07aab570808094dd56a",
+ "nh": "8cc48d4b035d8c453b285418b843b920b3956bcc9219b35c4f9bffaadd43ffa5",
+ "chars": 12557,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/101/010_أيها المريد ｜ الحلقة 9 ｜ ثمار الصبر ｜ علي الجفري ｜ English subtitle.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/101/010_أيها المريد ｜ الحلقة 9 ｜ ثمار الصبر ｜ علي الجفري ｜ English subtitle.txt",
+   "sha256": "fdabcde5b5cbd1a4b40a2ed438747a74b2073ad6a14df07aab570808094dd56a",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/101/9.txt",
+   "sha256": "fdabcde5b5cbd1a4b40a2ed438747a74b2073ad6a14df07aab570808094dd56a",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

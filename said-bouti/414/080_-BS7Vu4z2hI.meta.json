@@ -1,0 +1,45 @@
+{
+ "v": 1,
+ "lid": "yt:-BS7Vu4z2hI",
+ "vid": "-BS7Vu4z2hI",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--414",
+ "n": 80,
+ "n_src": "read",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 80",
+ "title_src": "filename",
+ "sha256": "1cf4a127fe94d0c4ba02421344b70a0eb43b125f6d90c3c5a5327bfeaab1895e",
+ "nh": "d4eb9102da92777a0ca468f2ce189ca290ae99b00c558fed45a8e535b7842f24",
+ "chars": 18663,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/080_تفسير القرآن الكريم للدكتور البوطي - الدرس 80.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/080_تفسير القرآن الكريم للدكتور البوطي - الدرس 80.txt",
+   "sha256": "1cf4a127fe94d0c4ba02421344b70a0eb43b125f6d90c3c5a5327bfeaab1895e",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/080.txt",
+   "sha256": "890e3d905153c6d9bcbd9067ac79c182c49a2afaed25da6d4b82c5c27d971a8d",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/414/81.txt",
+   "sha256": "1cf4a127fe94d0c4ba02421344b70a0eb43b125f6d90c3c5a5327bfeaab1895e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "said-bouti--bouti-414"
+ ]
+}

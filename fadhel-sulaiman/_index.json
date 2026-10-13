@@ -1,0 +1,46 @@
+{
+ "aliases": [
+  "فاضل سليمان",
+  "fadel"
+ ],
+ "name": "فاضل سليمان",
+ "name_display": "فاضل سليمان",
+ "series": [
+  {
+   "coverage": 1.0,
+   "declared_total": 14,
+   "dir": "fadel-dawra/",
+   "key": "fadel-dawra",
+   "row_id": "fadhel-sulaiman--fadel-dawra",
+   "title": "دورة مفاتح التدبر",
+   "transcribed": 14
+  },
+  {
+   "coverage": 1.0,
+   "declared_total": 28,
+   "dir": "fadel-farsh/",
+   "key": "fadel-farsh",
+   "row_id": "fadhel-sulaiman--fadel-farsh",
+   "title": "تدبر فرش القراءات",
+   "transcribed": 28
+  },
+  {
+   "coverage": 1.0,
+   "declared_total": 47,
+   "dir": "fadel-juz30/",
+   "key": "fadel-juz30",
+   "row_id": "fadhel-sulaiman--fadel-juz30",
+   "title": "تدبر سور الجزء الثلاثين",
+   "transcribed": 47
+  }
+ ],
+ "slug": "fadhel-sulaiman",
+ "totals": {
+  "chars": 1305075,
+  "lessons": 89,
+  "series": 3,
+  "unsorted": 0,
+  "with_vid": 89
+ },
+ "v": 1
+}

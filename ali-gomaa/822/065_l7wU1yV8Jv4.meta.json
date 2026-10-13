@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:l7wU1yV8Jv4",
+ "vid": "l7wU1yV8Jv4",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 65,
+ "n_src": "plpos",
+ "title": "والله أعلم | فضيلة د. علي جمعة يتحدث عن أحكام الطلاق وحكم الطلاق الشفوي | الحلقة الكاملة",
+ "title_src": "yt_titles",
+ "sha256": "2257c77b548f46367fc2fa862e4ca3f1a9cc7b32fbbaba3734ec3dfcebd07158",
+ "nh": "87208ff70a65349c23fea791bdfc8f192d75b0b9363a09bba04b3fa5249010c6",
+ "chars": 25279,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/065_والله أعلم ｜ فضيلة د. علي جمعة يتحدث عن أحكام الطلاق وحكم الطلاق الشفوي ｜ الحلقة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/065_والله أعلم ｜ فضيلة د. علي جمعة يتحدث عن أحكام الطلاق وحكم الطلاق الشفوي ｜ الحلقة.txt",
+   "sha256": "2257c77b548f46367fc2fa862e4ca3f1a9cc7b32fbbaba3734ec3dfcebd07158",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/065_والله أعلم ｜ فضيلة د. علي جمعة يتحدث عن أحكام الطلاق وحكم الطلاق الشفوي ｜ الحلقة.txt",
+   "sha256": "2257c77b548f46367fc2fa862e4ca3f1a9cc7b32fbbaba3734ec3dfcebd07158",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/065.txt",
+   "sha256": "a43fc427e9d771f53b9e524c46cf40dda1b0eff4f5aaaa4313fb5049572d76c9",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

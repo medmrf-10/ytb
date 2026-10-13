@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:dkfEjSklDaQ",
+ "vid": "dkfEjSklDaQ",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 114,
+ "n_src": "plpos",
+ "title": "#حديث_الجمعة | ما أحدث في أمرنا هذا ... عند النابتة",
+ "title_src": "yt_titles",
+ "sha256": "374a51c47c7ae4a21ebcac4ae72927046627b178a7e83ce463ad1bcefc0a5ceb",
+ "nh": "de9f35b4a9d057545d1489d6b5ce0b45b1857e057795217056607075f8f07ae3",
+ "chars": 9162,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/gomaa/mut-822/114_#حديث_الجمعة ｜ ما أحدث في أمرنا هذا ... عند النابتة.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/114_#حديث_الجمعة ｜ ما أحدث في أمرنا هذا ... عند النابتة.txt",
+   "sha256": "374a51c47c7ae4a21ebcac4ae72927046627b178a7e83ce463ad1bcefc0a5ceb",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/114.txt",
+   "sha256": "7da1e788823f912fabcfa07dd7ce5e74774e9f515823980eac5223165776bb2e",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

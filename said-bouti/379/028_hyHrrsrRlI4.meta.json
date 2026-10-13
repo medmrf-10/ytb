@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:hyHrrsrRlI4",
+ "vid": "hyHrrsrRlI4",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--379",
+ "n": 28,
+ "n_src": "mutfile",
+ "title": "28- تاريخ التشريع الإسلامي | سبب تمركز المحنة في حق الإمام أحمد بن حنبل وعدد من أمثاله",
+ "title_src": "yt_titles",
+ "sha256": "c4868cf91ebb7c10054e52acc6a6ae630fe6a4547549a62deee60a18433905da",
+ "nh": "31cc29eb0ea9c6917b3af24b67ddb0d714b00153ad06a03023adf7fb5a27fa3e",
+ "chars": 20782,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/379/028_28- تاريخ التشريع الإسلامي ｜ سبب تمركز المحنة في حق الإمام أحمد بن حنبل وعدد من .txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/379/028_28- تاريخ التشريع الإسلامي ｜ سبب تمركز المحنة في حق الإمام أحمد بن حنبل وعدد من .txt",
+   "sha256": "c4868cf91ebb7c10054e52acc6a6ae630fe6a4547549a62deee60a18433905da",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/tari5Eltachri3-028/transcript.txt",
+   "sha256": "9a04f17728927db03f07511f60c1683446e0f4af7d906bbac5710d204695d60f",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-tarikh/28.txt",
+   "sha256": "9a04f17728927db03f07511f60c1683446e0f4af7d906bbac5710d204695d60f",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/379/27.txt",
+   "sha256": "c4868cf91ebb7c10054e52acc6a6ae630fe6a4547549a62deee60a18433905da",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:vNxL806-y6s",
+ "vid": "vNxL806-y6s",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--765",
+ "n": 13,
+ "n_src": "read",
+ "title": "(13) الاستفهام ، الهمزة ⧸ جواهر البلاغة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "873345717cc151e2848c734bd11364509ef17d7b0449a36ebc694938ac77cd7f",
+ "nh": "95eeb0a98d8afee4897f2aa273220926c96cdcb0e64a933bbba0ff24909404ac",
+ "chars": 12598,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/765/013_(13) الاستفهام ، الهمزة ⧸ جواهر البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/765/013_(13) الاستفهام ، الهمزة ⧸ جواهر البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "873345717cc151e2848c734bd11364509ef17d7b0449a36ebc694938ac77cd7f",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/765/12.txt",
+   "sha256": "873345717cc151e2848c734bd11364509ef17d7b0449a36ebc694938ac77cd7f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

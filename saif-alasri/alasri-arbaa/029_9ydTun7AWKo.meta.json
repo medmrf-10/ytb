@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:9ydTun7AWKo",
+ "vid": "9ydTun7AWKo",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 29,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / غدير خم   (من كنت مولاه فعلي مولاه) / د. سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "748ddeee70ac501a8fab3bfde4baec6079937f581db226a547ffd4068b042f58",
+ "nh": "b0e5e9a8edbbc32b4d52fb6ce15f0f9155f7dc2be2a651d924cc21aaedae4d42",
+ "chars": 17015,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-029/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-029/transcript.txt",
+   "sha256": "748ddeee70ac501a8fab3bfde4baec6079937f581db226a547ffd4068b042f58",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/029_9ydTun7AWKo.txt",
+   "sha256": "748ddeee70ac501a8fab3bfde4baec6079937f581db226a547ffd4068b042f58",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/029.txt",
+   "sha256": "748ddeee70ac501a8fab3bfde4baec6079937f581db226a547ffd4068b042f58",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

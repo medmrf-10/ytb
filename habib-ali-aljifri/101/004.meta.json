@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:habib-ali-aljifri--101:4",
+ "vid": null,
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--101",
+ "n": 4,
+ "n_src": "read",
+ "title": "أيها المريد ｜ الحلقة 3 ｜ مفهوم التوبة ｜ علي الجفري ｜",
+ "title_src": "filename",
+ "sha256": "015fabf4154a8ce434f81f7262e45591859d75a44476d0ce220eac91177f4610",
+ "nh": "68328c644fc7bd635a8a7d7880b9232e3fa2dfd1abcab908287246280b087615",
+ "chars": 13308,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/101/004_أيها المريد ｜ الحلقة 3 ｜ مفهوم التوبة ｜ علي الجفري ｜ English subtitle.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/101/004_أيها المريد ｜ الحلقة 3 ｜ مفهوم التوبة ｜ علي الجفري ｜ English subtitle.txt",
+   "sha256": "015fabf4154a8ce434f81f7262e45591859d75a44476d0ce220eac91177f4610",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/101/0.txt",
+   "sha256": "015fabf4154a8ce434f81f7262e45591859d75a44476d0ce220eac91177f4610",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:89",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 89,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 37 ( باب في الإمامة ) ｜ الشيخ محمد البردوني",
+ "title_src": "filename",
+ "sha256": "3c88eed5abaeded13594e2a50d5c68da37835d65a0088b66bbae48dee7e5b8e8",
+ "nh": "27ae036501537eee72ebccb084da2afe1ecb34b170296429ffb150d306048935",
+ "chars": 21441,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/089_شرح رسالة ابن ابي زيد ｜ الدرس 37  (  باب في الإمامة  ) ｜ الشيخ  محمد البردوني.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/089_شرح رسالة ابن ابي زيد ｜ الدرس 37  (  باب في الإمامة  ) ｜ الشيخ  محمد البردوني.txt",
+   "sha256": "3c88eed5abaeded13594e2a50d5c68da37835d65a0088b66bbae48dee7e5b8e8",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/37.txt",
+   "sha256": "3c88eed5abaeded13594e2a50d5c68da37835d65a0088b66bbae48dee7e5b8e8",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

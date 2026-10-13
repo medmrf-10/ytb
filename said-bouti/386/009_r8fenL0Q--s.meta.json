@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:r8fenL0Q--s",
+ "vid": "r8fenL0Q--s",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 9,
+ "n_src": "read",
+ "title": "الحكم العطائية للإمام البوطي ｜ الدرس 9 - الحكمة 4",
+ "title_src": "filename",
+ "sha256": "cdbea1efce3d3b526de8623fb66ea37bd732aa08768a4d44a42a95789a1b7225",
+ "nh": "a16354e41e3358a1e6126015353ded9ec7651a9208ce4272f2e8b32d8bd666d7",
+ "chars": 11845,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/009_الحكم العطائية للإمام البوطي ｜ الدرس 9  - الحكمة 4.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/009_الحكم العطائية للإمام البوطي ｜ الدرس 9  - الحكمة 4.txt",
+   "sha256": "cdbea1efce3d3b526de8623fb66ea37bd732aa08768a4d44a42a95789a1b7225",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/hikam/009_الحكم العطائية للإمام البوطي ｜ الدرس 9  - الحكمة 4.txt",
+   "sha256": "cdbea1efce3d3b526de8623fb66ea37bd732aa08768a4d44a42a95789a1b7225",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/009_الحكم العطائية للإمام البوطي ｜ الدرس 9  - الحكمة 4.txt",
+   "sha256": "cdbea1efce3d3b526de8623fb66ea37bd732aa08768a4d44a42a95789a1b7225",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/386/8.txt",
+   "sha256": "cdbea1efce3d3b526de8623fb66ea37bd732aa08768a4d44a42a95789a1b7225",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

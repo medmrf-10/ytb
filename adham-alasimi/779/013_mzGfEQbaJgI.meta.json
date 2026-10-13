@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:mzGfEQbaJgI",
+ "vid": "mzGfEQbaJgI",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--779",
+ "n": 13,
+ "n_src": "read",
+ "title": "(13) إخراج الكلام على خلاف مقتضى الظاهر ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "11a09363bf13ae7c492e6e7f48bf7f92fd994bc29596a3f350884b9e4b452eed",
+ "nh": "e13f0d97b40336422ac17dcd1d64778122e71c241e442152b6327e74a557f3e4",
+ "chars": 19359,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/779/013_(13) إخراج الكلام على خلاف مقتضى الظاهر ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/779/013_(13) إخراج الكلام على خلاف مقتضى الظاهر ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "11a09363bf13ae7c492e6e7f48bf7f92fd994bc29596a3f350884b9e4b452eed",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/779/12.txt",
+   "sha256": "11a09363bf13ae7c492e6e7f48bf7f92fd994bc29596a3f350884b9e4b452eed",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

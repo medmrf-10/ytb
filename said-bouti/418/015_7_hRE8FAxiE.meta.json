@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:7_hRE8FAxiE",
+ "vid": "7_hRE8FAxiE",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--418",
+ "n": 15,
+ "n_src": "plpos",
+ "title": "15- الحب في القرآن | العقل مصدر الإيمان والحب مصدر الالتزام (1)",
+ "title_src": "yt_titles",
+ "sha256": "7f2080739df85cfe05c11ce741bea7abad8aec25f45c67207a559b9033defe9c",
+ "nh": "08202e0ae8158f1993f64068ed042d3deca126651644fdde1f597381f3c308ce",
+ "chars": 18019,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/418/015_15- الحب في القرآن ｜ العقل مصدر الإيمان والحب مصدر الالتزام (1).txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/418/015_15- الحب في القرآن ｜ العقل مصدر الإيمان والحب مصدر الالتزام (1).txt",
+   "sha256": "7f2080739df85cfe05c11ce741bea7abad8aec25f45c67207a559b9033defe9c",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/al7obFiEl9or1n-015/transcript.txt",
+   "sha256": "9349c83aacb77415dee060d7750f5637ed26eaa232b3a955d4c9139bbc524d3c",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-hubb/15.txt",
+   "sha256": "9349c83aacb77415dee060d7750f5637ed26eaa232b3a955d4c9139bbc524d3c",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

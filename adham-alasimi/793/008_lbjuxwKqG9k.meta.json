@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:lbjuxwKqG9k",
+ "vid": "lbjuxwKqG9k",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--793",
+ "n": 8,
+ "n_src": "read",
+ "title": "(8) القدم والبقاء ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "28443b019f08ebf34ee49693117323bc31fd4e95314279ba63ca67a9633f463c",
+ "nh": "80d581c232aafaeb31d9236eb9959b4925da32f1763515abdd639a3615645d21",
+ "chars": 19735,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/793/008_(8) القدم والبقاء ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/793/008_(8) القدم والبقاء ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "28443b019f08ebf34ee49693117323bc31fd4e95314279ba63ca67a9633f463c",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/793/7.txt",
+   "sha256": "28443b019f08ebf34ee49693117323bc31fd4e95314279ba63ca67a9633f463c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

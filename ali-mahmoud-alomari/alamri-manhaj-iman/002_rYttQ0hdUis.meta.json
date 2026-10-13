@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:rYttQ0hdUis",
+ "vid": "rYttQ0hdUis",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-manhaj-iman",
+ "n": 2,
+ "n_src": "trfile",
+ "title": "الدرس 2",
+ "title_src": "filename",
+ "sha256": "52f8db69d60767bd2eac18534bc3c68efed3010e4969e6aad3421fce29a05c8f",
+ "nh": "fa0c9c3bcd16855c1b1716dde1b53d88136b370c65e3ae4c2610206f8cd6617e",
+ "chars": 39664,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriManhajIman-002/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriManhajIman-002/transcript.txt",
+   "sha256": "52f8db69d60767bd2eac18534bc3c68efed3010e4969e6aad3421fce29a05c8f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/manhaj-iman/manhaj-iman-02_AlAmri.txt",
+   "sha256": "52f8db69d60767bd2eac18534bc3c68efed3010e4969e6aad3421fce29a05c8f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-manhaj-iman/02.txt",
+   "sha256": "52f8db69d60767bd2eac18534bc3c68efed3010e4969e6aad3421fce29a05c8f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

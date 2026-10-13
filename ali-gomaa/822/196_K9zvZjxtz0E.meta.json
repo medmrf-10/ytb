@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:K9zvZjxtz0E",
+ "vid": "K9zvZjxtz0E",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 196,
+ "n_src": "plpos|renumbered",
+ "title": "#حديث_الجمعة | صفات خوارج العصر و كيفية التعامل معهم",
+ "title_src": "yt_titles",
+ "sha256": "36ff310a40879d9d72545f566ac42870283b6c6d9a82f9ed32a32b46f90f2124",
+ "nh": "74a575458fbe58758c041e04a845ab3b8d1263c5f5296bfa94fffceefef06a35",
+ "chars": 9392,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/gomaa/mut-822/104_#حديث_الجمعة ｜ صفات خوارج العصر و كيفية التعامل معهم.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/104_#حديث_الجمعة ｜ صفات خوارج العصر و كيفية التعامل معهم.txt",
+   "sha256": "36ff310a40879d9d72545f566ac42870283b6c6d9a82f9ed32a32b46f90f2124",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/104.txt",
+   "sha256": "9c09474bdf0d3590347a5da9393b23f91604fc7fa64840468dddee4d2ea64f31",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

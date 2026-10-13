@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:FFijUbItX_8",
+ "vid": "FFijUbItX_8",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 145,
+ "n_src": "plpos",
+ "title": "#حديث_الجمعة | المحجة البيضاء بين الإسناد وفهم الخوارج الخاطئ لها",
+ "title_src": "yt_titles",
+ "sha256": "01e20cb65d09269db2dadf83deccb079fd77cb95cc4a1d68fc69d1688d36fa6b",
+ "nh": "e54302d22a10460e3200628c67b611b51448686d2c34595e938d333daeed699c",
+ "chars": 9518,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/gomaa/mut-822/145_#حديث_الجمعة ｜ المحجة البيضاء بين الإسناد وفهم الخوارج الخاطئ لها.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/145_#حديث_الجمعة ｜ المحجة البيضاء بين الإسناد وفهم الخوارج الخاطئ لها.txt",
+   "sha256": "01e20cb65d09269db2dadf83deccb079fd77cb95cc4a1d68fc69d1688d36fa6b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/145.txt",
+   "sha256": "d417980273386435ef32d62a1bc4ba4c250231947a1559102fa5f0723b0507ae",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

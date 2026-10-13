@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:DFjq0eFtG_k",
+ "vid": "DFjq0eFtG_k",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 32,
+ "n_src": "read",
+ "title": "خطب منبرية ： ＂ الوقاية النفسية ＂ ⧸ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "3a8a7f1526fd8a81f18b39e7cc9688cd07b451fd453e54670a97700f22865342",
+ "nh": "e5a9e0ddca981522fd9f1f3d38225caba07d5a2fade18869a8cd0a2fd95e3c39",
+ "chars": 11351,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/032_خطب منبرية ： ＂ الوقاية النفسية ＂ ⧸ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/032_خطب منبرية ： ＂ الوقاية النفسية ＂ ⧸ الشيخ العلامة مولود السريري.txt",
+   "sha256": "3a8a7f1526fd8a81f18b39e7cc9688cd07b451fd453e54670a97700f22865342",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/31.txt",
+   "sha256": "3a8a7f1526fd8a81f18b39e7cc9688cd07b451fd453e54670a97700f22865342",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:IDqchK7Wfa8",
+ "vid": "IDqchK7Wfa8",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--415",
+ "n": 10,
+ "n_src": "mutfile",
+ "title": "9 - التزكية في القرآن الكريم التمييز بين متطلبات الروح والنفس",
+ "title_src": "filename",
+ "sha256": "f7213b4d619f6978a61a28de05e19f949e226ca9117603519a4442de850a3334",
+ "nh": "a489afb498cca2647a24c604b5aa800405d93184af14721c32ef3d38717d3ca9",
+ "chars": 12323,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/415/010_9 - التزكية في القرآن الكريم  التمييز بين متطلبات الروح والنفس.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/415/010_9 - التزكية في القرآن الكريم  التمييز بين متطلبات الروح والنفس.txt",
+   "sha256": "f7213b4d619f6978a61a28de05e19f949e226ca9117603519a4442de850a3334",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tawba/010_9 - التزكية في القرآن الكريم  التمييز بين متطلبات الروح والنفس.txt",
+   "sha256": "f7213b4d619f6978a61a28de05e19f949e226ca9117603519a4442de850a3334",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tazkiya/010_9 - التزكية في القرآن الكريم  التمييز بين متطلبات الروح والنفس.txt",
+   "sha256": "f7213b4d619f6978a61a28de05e19f949e226ca9117603519a4442de850a3334",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-415/008.txt",
+   "sha256": "51f731a4f600df73706feae8a0014b810d226427e3df0cb47f401c7b9e2e5366",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

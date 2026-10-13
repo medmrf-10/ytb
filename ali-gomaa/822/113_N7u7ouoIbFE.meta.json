@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:N7u7ouoIbFE",
+ "vid": "N7u7ouoIbFE",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 113,
+ "n_src": "plpos",
+ "title": "#حديث_الجمعة | العقلية القارقة عند علماء الدين",
+ "title_src": "yt_titles",
+ "sha256": "318c98495c4d986c0e8772a7904060a7d8ee4a990dc561f9b20f1d79645260b3",
+ "nh": "e53ec894547c86de1a2be88d753883e54b8f1058caf6b75c8097a58f0891cd97",
+ "chars": 10057,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/gomaa/mut-822/113_#حديث_الجمعة ｜ العقلية القارقة عند علماء الدين.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/113_#حديث_الجمعة ｜ العقلية القارقة عند علماء الدين.txt",
+   "sha256": "318c98495c4d986c0e8772a7904060a7d8ee4a990dc561f9b20f1d79645260b3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/113.txt",
+   "sha256": "79b36708eed843d118adbf6fda267dd3b154a992e33b422bd6b97e96a096e8a1",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

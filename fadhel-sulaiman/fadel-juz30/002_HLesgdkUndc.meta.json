@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:HLesgdkUndc",
+ "vid": "HLesgdkUndc",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-juz30",
+ "n": 2,
+ "n_src": "trfile",
+ "title": "فيديو # ٦١٧ من مقاطع حظر التجول   تدبر سورة النبأ # ٢  الآيات ١٨-٤٠",
+ "title_src": "yt_titles",
+ "sha256": "f9220f6671605b083aa451fabc2b6779d371b975d04ab09dc7e56313b248e60d",
+ "nh": "7af24b0a19f751fd4d8d2b0dfc9443815e932c337709700ddb38ecf1d6fa2f74",
+ "chars": 19761,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelJuz30-002/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelJuz30-002/transcript.txt",
+   "sha256": "f9220f6671605b083aa451fabc2b6779d371b975d04ab09dc7e56313b248e60d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-juz30/002.txt",
+   "sha256": "f9220f6671605b083aa451fabc2b6779d371b975d04ab09dc7e56313b248e60d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

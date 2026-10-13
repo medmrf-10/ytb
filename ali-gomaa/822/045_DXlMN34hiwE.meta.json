@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:DXlMN34hiwE",
+ "vid": "DXlMN34hiwE",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 45,
+ "n_src": "plpos",
+ "title": "والله اعلم | الدكتور علي جمعة يوضح حكم إتباع \"الطرق الصوفية\" | الحلقة الكاملة",
+ "title_src": "yt_titles",
+ "sha256": "d0ae39494c5d547f7152f395bbb78e28c71b917b7c50b7b42dee5178fe4103e5",
+ "nh": "81e09756733e73f9e81eb717fbc93160e9a2628a19c0b33c44b7c6c48b421ce7",
+ "chars": 27125,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/045_والله اعلم ｜ الدكتور علي جمعة يوضح حكم إتباع ＂الطرق الصوفية＂ ｜ الحلقة الكاملة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/045_والله اعلم ｜ الدكتور علي جمعة يوضح حكم إتباع ＂الطرق الصوفية＂ ｜ الحلقة الكاملة.txt",
+   "sha256": "d0ae39494c5d547f7152f395bbb78e28c71b917b7c50b7b42dee5178fe4103e5",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/045_والله اعلم ｜ الدكتور علي جمعة يوضح حكم إتباع ＂الطرق الصوفية＂ ｜ الحلقة الكاملة.txt",
+   "sha256": "d0ae39494c5d547f7152f395bbb78e28c71b917b7c50b7b42dee5178fe4103e5",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/045.txt",
+   "sha256": "d0ae39494c5d547f7152f395bbb78e28c71b917b7c50b7b42dee5178fe4103e5",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

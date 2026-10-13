@@ -1,0 +1,51 @@
+{
+ "v": 1,
+ "lid": "yt:bdo4sNVEuQs",
+ "vid": "bdo4sNVEuQs",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-khutab-2010",
+ "n": 6,
+ "n_src": "trfile",
+ "title": "خطبة الإمام البوطي | مكان الجهاد الإسلامي غزة لا دمشق",
+ "title_src": "yt_titles",
+ "sha256": "b06850ad218d211b39e6dc4fdb35814c0b86f799440809448be5894c7b8aaf67",
+ "nh": "0f95e80f6a48589a55a4ae2ddc9335a27216a0eef070cf4e794a7ebd6549624c",
+ "chars": 11281,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/5o6ab-006/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/5o6ab-006/transcript.txt",
+   "sha256": "b06850ad218d211b39e6dc4fdb35814c0b86f799440809448be5894c7b8aaf67",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/khutab-2010/5.txt",
+   "sha256": "8442f021024d26dcf0451ba28be2e77527b6a0b6dae955f81a2e69b2d7e808eb",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-khutab-2012/06.txt",
+   "sha256": "b06850ad218d211b39e6dc4fdb35814c0b86f799440809448be5894c7b8aaf67",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/344/5.txt",
+   "sha256": "8442f021024d26dcf0451ba28be2e77527b6a0b6dae955f81a2e69b2d7e808eb",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "said-bouti--bouti-khutab-2012"
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:yOIhEizk_fY",
+ "vid": "yOIhEizk_fY",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-sulam",
+ "n": 4,
+ "n_src": "trfile",
+ "title": "الدرس 4",
+ "title_src": "filename",
+ "sha256": "efcac66c931627020c0e4920f79600933bd38618c57691118e9da80148eff777",
+ "nh": "7c5960db06384e1759bdd25d1a4d79128a74ff5d8076497dbd0814fe1921752d",
+ "chars": 41465,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriSulam-004/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriSulam-004/transcript.txt",
+   "sha256": "efcac66c931627020c0e4920f79600933bd38618c57691118e9da80148eff777",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/sulam/sulam-04_AlAmri.txt",
+   "sha256": "efcac66c931627020c0e4920f79600933bd38618c57691118e9da80148eff777",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-sulam/04.txt",
+   "sha256": "efcac66c931627020c0e4920f79600933bd38618c57691118e9da80148eff777",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

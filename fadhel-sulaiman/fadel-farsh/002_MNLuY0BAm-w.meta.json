@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:MNLuY0BAm-w",
+ "vid": "MNLuY0BAm-w",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-farsh",
+ "n": 2,
+ "n_src": "trfile",
+ "title": "تدبر فرش القراءات-الحلقة الثانية-ويضيقُ صدري ولا ينطلقُ لساني #فاضل_سليمان",
+ "title_src": "yt_titles",
+ "sha256": "d2eb5e73bb6b9cd64e79cc1959beaa7bd4286cc78e84d0173a45dc9999e5b0f4",
+ "nh": "07b6f002dce8bf13aca26db3f864b812fe6117542ee194131c5ec26db64081f4",
+ "chars": 13189,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelFarsh-002/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelFarsh-002/transcript.txt",
+   "sha256": "d2eb5e73bb6b9cd64e79cc1959beaa7bd4286cc78e84d0173a45dc9999e5b0f4",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-farsh/002.txt",
+   "sha256": "d2eb5e73bb6b9cd64e79cc1959beaa7bd4286cc78e84d0173a45dc9999e5b0f4",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

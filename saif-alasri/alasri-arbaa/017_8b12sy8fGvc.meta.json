@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:8b12sy8fGvc",
+ "vid": "8b12sy8fGvc",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 17,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / لماذا اختلف العلماء، وهل اختلافهم رحمة ؟ / د. سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "6807ba070795184eb73ca831cb2ebca7f4356b67f22107880294689136645f0a",
+ "nh": "5944a6928c783bdc14faf8f1f69cff28ac6dad4fd5139218f98e7a0ca3ef7c76",
+ "chars": 14805,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-017/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-017/transcript.txt",
+   "sha256": "6807ba070795184eb73ca831cb2ebca7f4356b67f22107880294689136645f0a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/017_8b12sy8fGvc.txt",
+   "sha256": "6807ba070795184eb73ca831cb2ebca7f4356b67f22107880294689136645f0a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/017.txt",
+   "sha256": "6807ba070795184eb73ca831cb2ebca7f4356b67f22107880294689136645f0a",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

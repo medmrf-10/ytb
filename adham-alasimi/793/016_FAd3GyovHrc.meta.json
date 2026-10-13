@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:FAd3GyovHrc",
+ "vid": "FAd3GyovHrc",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--793",
+ "n": 16,
+ "n_src": "read",
+ "title": "(16) الصدق + الأمانة + التبليغ ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "4d8604597dbb7cee7060e142f0851f4e23d27c835787a04e0d81f52a7bbab641",
+ "nh": "fad377a01e28470e383fa9fbb8e32eee52f8cc1761f7e9249eb5e70320d70e90",
+ "chars": 26812,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/793/016_(16) الصدق + الأمانة + التبليغ  ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/793/016_(16) الصدق + الأمانة + التبليغ  ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "4d8604597dbb7cee7060e142f0851f4e23d27c835787a04e0d81f52a7bbab641",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/793/15.txt",
+   "sha256": "4d8604597dbb7cee7060e142f0851f4e23d27c835787a04e0d81f52a7bbab641",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

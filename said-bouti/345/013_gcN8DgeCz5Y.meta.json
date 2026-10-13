@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:gcN8DgeCz5Y",
+ "vid": "gcN8DgeCz5Y",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--345",
+ "n": 13,
+ "n_src": "plpos",
+ "title": "13- مشاهد وعبر من القرآن والسنة | قل أطيعوا الله والرسول",
+ "title_src": "yt_titles",
+ "sha256": "9e27ae9ffe550ecf1094429eebf6a0c26b0581714cde22bb5f2fb0932f392bba",
+ "nh": "ecc8cdf8962d0445cd490ce4210604dabee01610a41711009b91ef3614d074cf",
+ "chars": 13288,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/345/013_13- مشاهد وعبر من القرآن والسنة ｜ قل أطيعوا الله والرسول.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/345/013_13- مشاهد وعبر من القرآن والسنة ｜ قل أطيعوا الله والرسول.txt",
+   "sha256": "9e27ae9ffe550ecf1094429eebf6a0c26b0581714cde22bb5f2fb0932f392bba",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-mashahid/13.txt",
+   "sha256": "36f6782dac7a5c8b5df684a8638fc56afa2f2fe22bacf2e6c45d44371c7ff629",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/345/12.txt",
+   "sha256": "9e27ae9ffe550ecf1094429eebf6a0c26b0581714cde22bb5f2fb0932f392bba",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

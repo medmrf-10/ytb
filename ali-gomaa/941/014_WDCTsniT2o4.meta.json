@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:WDCTsniT2o4",
+ "vid": "WDCTsniT2o4",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--941",
+ "n": 14,
+ "n_src": "read",
+ "title": "شرح الأربعين النووية ｜ حلقة 14 ｜ حديث 15 ｜ أ.د علي جمعة ｜",
+ "title_src": "filename",
+ "sha256": "90de33120ea32b1d9c061f7edb70c426710384d850a49a2a2d08246c275fb5d3",
+ "nh": "94f5f2c88c6051684fc54569930679af04c8b0153cd60865341bf7b2b70f4398",
+ "chars": 4352,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/941/014_شرح الأربعين النووية ｜ حلقة 14 ｜ حديث 15 ｜ أ.د علي جمعة ｜ English Subtitle.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/941/014_شرح الأربعين النووية ｜ حلقة 14 ｜ حديث 15 ｜ أ.د علي جمعة ｜ English Subtitle.txt",
+   "sha256": "90de33120ea32b1d9c061f7edb70c426710384d850a49a2a2d08246c275fb5d3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/ali-gomaa--941/014.txt",
+   "sha256": "90de33120ea32b1d9c061f7edb70c426710384d850a49a2a2d08246c275fb5d3",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

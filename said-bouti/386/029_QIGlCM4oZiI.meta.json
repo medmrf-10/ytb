@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:QIGlCM4oZiI",
+ "vid": "QIGlCM4oZiI",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 29,
+ "n_src": "read",
+ "title": "الحكم العطائية للإمام البوطي ｜ الدرس 29 - الحكمة 16",
+ "title_src": "filename",
+ "sha256": "1e9308aba03e84b660e80e5837bb778f12a56019859420dbbd2915f9fbaf1c92",
+ "nh": "23b7f7fdcf5cf53c1cc9cfe7bd00e290535e669a8ea007d4f5403598379975ca",
+ "chars": 18207,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/029_الحكم العطائية للإمام البوطي ｜ الدرس 29  - الحكمة 16.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/029_الحكم العطائية للإمام البوطي ｜ الدرس 29  - الحكمة 16.txt",
+   "sha256": "1e9308aba03e84b660e80e5837bb778f12a56019859420dbbd2915f9fbaf1c92",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/hikam/029_الحكم العطائية للإمام البوطي ｜ الدرس 29  - الحكمة 16.txt",
+   "sha256": "1e9308aba03e84b660e80e5837bb778f12a56019859420dbbd2915f9fbaf1c92",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/029_الحكم العطائية للإمام البوطي ｜ الدرس 29  - الحكمة 16.txt",
+   "sha256": "1e9308aba03e84b660e80e5837bb778f12a56019859420dbbd2915f9fbaf1c92",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

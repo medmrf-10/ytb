@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:E8pCzVTXq9A",
+ "vid": "E8pCzVTXq9A",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--403",
+ "n": 2,
+ "n_src": "plpos",
+ "title": "مقدمة 2- فقه السيرة النبوية | سر اختيار الجزيرة العربية مهداً لنشأة الإسلام",
+ "title_src": "yt_titles",
+ "sha256": "f2521dbfc199928d5c5ba20af68619877dbaf8ebcd0f45a5a9ef60e476c02e4a",
+ "nh": "9ba5b5745b1e6011aaa1162e507e2fec035009496dd36bb3d0043950b1775c65",
+ "chars": 21796,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/403/002_مقدمة 2- فقه السيرة النبوية ｜ سر اختيار الجزيرة العربية مهداً لنشأة الإسلام.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/403/002_مقدمة 2- فقه السيرة النبوية ｜ سر اختيار الجزيرة العربية مهداً لنشأة الإسلام.txt",
+   "sha256": "f2521dbfc199928d5c5ba20af68619877dbaf8ebcd0f45a5a9ef60e476c02e4a",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fi9hElsirah-002/transcript.txt",
+   "sha256": "29de388ce4d41cf42d436fb03b08ada37f1bd64e539faa600e7a9e6ba3502caa",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-sira/02.txt",
+   "sha256": "29de388ce4d41cf42d436fb03b08ada37f1bd64e539faa600e7a9e6ba3502caa",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:BZz0tmxhAgU",
+ "vid": "BZz0tmxhAgU",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--418",
+ "n": 8,
+ "n_src": "plpos",
+ "title": "8- الحب في القرآن | وجه التنسيق بين ما قضى الله به من حب الأغيار ومادعا إليه من الترفع",
+ "title_src": "yt_titles",
+ "sha256": "3ff28fba6e4d0cfb68e57904cafaca0d4ee16736f054fdf6f4fa110635ae2dc3",
+ "nh": "66408f842e3b1e230c3a54c668a7480ce12836074eb64d2ee2f77b39dee89c90",
+ "chars": 17596,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/418/008_8- الحب في القرآن ｜ وجه التنسيق بين ما قضى الله به من حب الأغيار ومادعا إليه من .txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/418/008_8- الحب في القرآن ｜ وجه التنسيق بين ما قضى الله به من حب الأغيار ومادعا إليه من .txt",
+   "sha256": "3ff28fba6e4d0cfb68e57904cafaca0d4ee16736f054fdf6f4fa110635ae2dc3",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/al7obFiEl9or1n-008/transcript.txt",
+   "sha256": "6b22f5b2223e13373de2ff4a8f8c727cb834a96dbba71359e0e3697b19f571a3",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-hubb/08.txt",
+   "sha256": "6b22f5b2223e13373de2ff4a8f8c727cb834a96dbba71359e0e3697b19f571a3",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/418/7.txt",
+   "sha256": "3ff28fba6e4d0cfb68e57904cafaca0d4ee16736f054fdf6f4fa110635ae2dc3",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

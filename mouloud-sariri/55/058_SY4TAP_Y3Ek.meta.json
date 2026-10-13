@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:SY4TAP_Y3Ek",
+ "vid": "SY4TAP_Y3Ek",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 58,
+ "n_src": "read",
+ "title": "خطب منبرية： أسباب اليأس والإحباط عند الشباب ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "101cd3b0ef337ab40d514c52e2440d5c335b27715d5786b3d3795c820904d3e5",
+ "nh": "98aec7946caddf3ec004b06697c8f16e859088ee0aa615f98438d522880d8ef0",
+ "chars": 11921,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/058_خطب منبرية： أسباب اليأس والإحباط عند الشباب ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/058_خطب منبرية： أسباب اليأس والإحباط عند الشباب ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "101cd3b0ef337ab40d514c52e2440d5c335b27715d5786b3d3795c820904d3e5",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/57.txt",
+   "sha256": "101cd3b0ef337ab40d514c52e2440d5c335b27715d5786b3d3795c820904d3e5",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

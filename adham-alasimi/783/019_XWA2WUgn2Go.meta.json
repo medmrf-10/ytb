@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:XWA2WUgn2Go",
+ "vid": "XWA2WUgn2Go",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--783",
+ "n": 19,
+ "n_src": "read",
+ "title": "(19) الدرس التاسع عشر ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "47cfcdea45fd70f78f51272aa06795b2187160daf33b0a0f9b42c452e6d1c7dc",
+ "nh": "30d2fcee336e34e4c8900096da290b2517183b0f6ffb7a1e4ea1e873b0681674",
+ "chars": 14073,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/783/019_(19) الدرس التاسع عشر ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/783/019_(19) الدرس التاسع عشر ⧸ متن المقدمات ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "47cfcdea45fd70f78f51272aa06795b2187160daf33b0a0f9b42c452e6d1c7dc",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/783/18.txt",
+   "sha256": "47cfcdea45fd70f78f51272aa06795b2187160daf33b0a0f9b42c452e6d1c7dc",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

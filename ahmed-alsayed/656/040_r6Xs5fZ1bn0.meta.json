@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:r6Xs5fZ1bn0",
+ "vid": "r6Xs5fZ1bn0",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--656",
+ "n": 40,
+ "n_src": "mutfile",
+ "title": "رياض الصالحين 40 ｜ باب في النصيحة ｜ أنوار السنة المحمدية ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "92c42db5c11bb2c9e35b3b85c0bb38968663dc4a1fe80786afb538532f9d4344",
+ "nh": "57b8b74e338a4d419138aeef270dbbc9fa204ac8c14245c405cb8835d15d128b",
+ "chars": 29553,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/656/040_رياض الصالحين 40 ｜ باب في النصيحة ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/656/040_رياض الصالحين 40 ｜ باب في النصيحة ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+   "sha256": "92c42db5c11bb2c9e35b3b85c0bb38968663dc4a1fe80786afb538532f9d4344",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/riyadElsali7in-040/transcript.txt",
+   "sha256": "47cdf627bfc027a14594b604b2a9cb04130348108177ca42407c930c1af8592d",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-656/040.txt",
+   "sha256": "47cdf627bfc027a14594b604b2a9cb04130348108177ca42407c930c1af8592d",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

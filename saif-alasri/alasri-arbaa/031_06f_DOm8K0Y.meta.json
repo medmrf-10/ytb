@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:06f_DOm8K0Y",
+ "vid": "06f_DOm8K0Y",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 31,
+ "n_src": "trfile",
+ "title": "فضائل بيت المقدس / د. سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "a9ba42b018d8aa346725238e53e4af6edac33df6a05e36c496d233691eac56a3",
+ "nh": "2d0ae0dee97ebb4b6ab8528acb3b5c0172cf99a59bcd79c5b8efbab071f907f5",
+ "chars": 13606,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-031/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-031/transcript.txt",
+   "sha256": "a9ba42b018d8aa346725238e53e4af6edac33df6a05e36c496d233691eac56a3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/031_06f_DOm8K0Y.txt",
+   "sha256": "a9ba42b018d8aa346725238e53e4af6edac33df6a05e36c496d233691eac56a3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/031.txt",
+   "sha256": "a9ba42b018d8aa346725238e53e4af6edac33df6a05e36c496d233691eac56a3",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

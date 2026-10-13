@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:eidp1TABj10",
+ "vid": "eidp1TABj10",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--387",
+ "n": 7,
+ "n_src": "mutfile",
+ "title": "6 - الصحابة في القرآن الكريم شهادة القرآن لأصحاب غزوة الأحزاب",
+ "title_src": "filename",
+ "sha256": "91f8c704466ce5d8216f79074458e0e938d918d282a371a21f00b593bc5c8b9c",
+ "nh": "566c27d6b27d77e910f5b5deba84debcbeb20644d178b448843138243aab5097",
+ "chars": 14158,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/387/007_6 - الصحابة في القرآن الكريم  شهادة القرآن لأصحاب غزوة الأحزاب.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/387/007_6 - الصحابة في القرآن الكريم  شهادة القرآن لأصحاب غزوة الأحزاب.txt",
+   "sha256": "91f8c704466ce5d8216f79074458e0e938d918d282a371a21f00b593bc5c8b9c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tawba/007_6 - الصحابة في القرآن الكريم  شهادة القرآن لأصحاب غزوة الأحزاب.txt",
+   "sha256": "91f8c704466ce5d8216f79074458e0e938d918d282a371a21f00b593bc5c8b9c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/sahaba/007_6 - الصحابة في القرآن الكريم  شهادة القرآن لأصحاب غزوة الأحزاب.txt",
+   "sha256": "91f8c704466ce5d8216f79074458e0e938d918d282a371a21f00b593bc5c8b9c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-387/001.txt",
+   "sha256": "6a4efa94c4a5d35d93b8fb3b754c9a5c918270fcba52f841bb329d8210aa2a7d",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:0vTimDu5v6g",
+ "vid": "0vTimDu5v6g",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 24,
+ "n_src": "read",
+ "title": "خطب منبربة ： مفهوم الزنا في الإسلام ⧸ العلامة الشيخ مولود السريري",
+ "title_src": "filename",
+ "sha256": "f495cc7167beffc545ed1fd192ad6cd9e5ae9eb85902d485d63131647d73a810",
+ "nh": "c569e50e7598301b4951cb99420e92e7b8635e5713a000c6af499d2472021274",
+ "chars": 10940,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/024_خطب منبربة ： مفهوم الزنا في الإسلام  ⧸ العلامة الشيخ مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/024_خطب منبربة ： مفهوم الزنا في الإسلام  ⧸ العلامة الشيخ مولود السريري.txt",
+   "sha256": "f495cc7167beffc545ed1fd192ad6cd9e5ae9eb85902d485d63131647d73a810",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/23.txt",
+   "sha256": "f495cc7167beffc545ed1fd192ad6cd9e5ae9eb85902d485d63131647d73a810",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

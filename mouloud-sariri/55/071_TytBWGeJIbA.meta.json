@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:TytBWGeJIbA",
+ "vid": "TytBWGeJIbA",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 71,
+ "n_src": "read",
+ "title": "خطب منبرية： خطورة الشرك المتشعب في الأعراف ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "a684eff95e873d5384a2a98d25787beca595f4e5eea4ce75f2be5ed923ece438",
+ "nh": "4da905b2da66f1b833612bb5f334a45f85be044795454ad9837c6dcc01e1440e",
+ "chars": 10545,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/071_خطب منبرية： خطورة الشرك المتشعب في الأعراف ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/071_خطب منبرية： خطورة الشرك المتشعب في الأعراف ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "a684eff95e873d5384a2a98d25787beca595f4e5eea4ce75f2be5ed923ece438",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/70.txt",
+   "sha256": "a684eff95e873d5384a2a98d25787beca595f4e5eea4ce75f2be5ed923ece438",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:15",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 15,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد｜ الدرس 110( باب النكاح قوله＂ و للاب انكاح البكرلمن شاء＂",
+ "title_src": "filename",
+ "sha256": "64ed104450bc9098c0e3df897ef6a82692be59f4cd4e37c48fbb7c80d785887b",
+ "nh": "fe0106b5fab3c6ead6e505f69d3cff136822e33775c7c7e5d0bb4bf343d10461",
+ "chars": 11930,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/015_شرح رسالة ابن ابي زيد｜ الدرس 110(  باب النكاح  قوله＂ و للاب انكاح البكرلمن شاء＂ .txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/015_شرح رسالة ابن ابي زيد｜ الدرس 110(  باب النكاح  قوله＂ و للاب انكاح البكرلمن شاء＂ .txt",
+   "sha256": "64ed104450bc9098c0e3df897ef6a82692be59f4cd4e37c48fbb7c80d785887b",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/111.txt",
+   "sha256": "64ed104450bc9098c0e3df897ef6a82692be59f4cd4e37c48fbb7c80d785887b",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

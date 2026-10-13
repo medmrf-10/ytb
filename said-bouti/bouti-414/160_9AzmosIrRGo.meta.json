@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:9AzmosIrRGo",
+ "vid": "9AzmosIrRGo",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-414",
+ "n": 160,
+ "n_src": "read",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 160",
+ "title_src": "filename",
+ "sha256": "9b066891546f98d994ee15904fc783fc0841035456bb53600c5833200dfa7345",
+ "nh": "91197305fadbd6848993e72ec0a4c1ecd615466d81398e8f6027b8a426e9b134",
+ "chars": 18339,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/160_تفسير القرآن الكريم للدكتور البوطي - الدرس 160.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/160_تفسير القرآن الكريم للدكتور البوطي - الدرس 160.txt",
+   "sha256": "9b066891546f98d994ee15904fc783fc0841035456bb53600c5833200dfa7345",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/160.txt",
+   "sha256": "1f2831f6f2b267a4a52692f581c92f0ba277ea669fbe1957ca8390439ccef355",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

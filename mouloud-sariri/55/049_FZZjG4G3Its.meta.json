@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:FZZjG4G3Its",
+ "vid": "FZZjG4G3Its",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 49,
+ "n_src": "read",
+ "title": "خطب منبرية： سنة الابتلاء｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "d190449b8b054ad2496cfbafe8ff4bb864a3a1f5202f94b45654a04f27971950",
+ "nh": "cff18501a42c6d44a38664bb5d1a14e5b979eebc4fe741ce909a009df19c07ad",
+ "chars": 10753,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/049_خطب منبرية： سنة الابتلاء｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/049_خطب منبرية： سنة الابتلاء｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "d190449b8b054ad2496cfbafe8ff4bb864a3a1f5202f94b45654a04f27971950",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/48.txt",
+   "sha256": "d190449b8b054ad2496cfbafe8ff4bb864a3a1f5202f94b45654a04f27971950",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

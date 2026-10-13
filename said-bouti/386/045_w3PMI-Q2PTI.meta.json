@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:w3PMI-Q2PTI",
+ "vid": "w3PMI-Q2PTI",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 45,
+ "n_src": "read",
+ "title": "الحكم العطائية للإمام البوطي ｜ الدرس 45 - الحكمة 28",
+ "title_src": "filename",
+ "sha256": "44f8900a6fcca6372e92288397e154723bbc241062d2d7d6dc8a6489e245c982",
+ "nh": "5e729a95f1258673c475d3730c97fb0590b05dde6d80c584dbf2477c4284ea0b",
+ "chars": 18736,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/045_الحكم العطائية للإمام البوطي ｜ الدرس 45 - الحكمة 28.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/045_الحكم العطائية للإمام البوطي ｜ الدرس 45 - الحكمة 28.txt",
+   "sha256": "44f8900a6fcca6372e92288397e154723bbc241062d2d7d6dc8a6489e245c982",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/hikam/045_الحكم العطائية للإمام البوطي ｜ الدرس 45 - الحكمة 28.txt",
+   "sha256": "44f8900a6fcca6372e92288397e154723bbc241062d2d7d6dc8a6489e245c982",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/045_الحكم العطائية للإمام البوطي ｜ الدرس 45 - الحكمة 28.txt",
+   "sha256": "44f8900a6fcca6372e92288397e154723bbc241062d2d7d6dc8a6489e245c982",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

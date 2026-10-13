@@ -1,0 +1,394 @@
+{
+ "coverage": 1.0,
+ "declared_total": 38,
+ "lessons": [
+  {
+   "chars": 16075,
+   "file": "001_bsTNPnmFecI.txt",
+   "n": 1,
+   "quality": "ok",
+   "sha256": "c9f3bf123387bcb0a6a100d63d7b309c94cf343ae637ed57cc443159317edbd9",
+   "title": "1- تاريخ التشريع الإسلامي | أهمية دراسة تاريخ التشريع | الفرق بين الشريعة والفقه",
+   "variants": 0,
+   "vid": "bsTNPnmFecI"
+  },
+  {
+   "chars": 19992,
+   "file": "002_GCcMLgBNfZI.txt",
+   "n": 2,
+   "quality": "ok",
+   "sha256": "c9ee0a50fef803e694c5d50ff06ca65979c6c4f8fa4af7fa1585c31164b00141",
+   "title": "2- تاريخ التشريع الإسلامي | أدوار التشريع الإسلامي و أقسامه",
+   "variants": 0,
+   "vid": "GCcMLgBNfZI"
+  },
+  {
+   "chars": 18072,
+   "file": "003_xRYI7exqTgI.txt",
+   "n": 3,
+   "quality": "ok",
+   "sha256": "990b54cbe55f1199a5e839098af76844335cd84d8d9adb7b27c4e9e63096cb8c",
+   "title": "3- تاريخ التشريع الإسلامي | الدور الأول: القسم الأول: حياة رسول الله ﷺ",
+   "variants": 0,
+   "vid": "xRYI7exqTgI"
+  },
+  {
+   "chars": 19749,
+   "file": "004_CTzx4kF1cvM.txt",
+   "n": 4,
+   "quality": "ok",
+   "sha256": "f16745a57394ae3cf9204e6253c9b087693576ec725280424d3e39a4dcfee0a3",
+   "title": "4- تاريخ التشريع الإسلامي | الدور الأول: القسم الثاني: أسباب الخلاف بين الصحابة",
+   "variants": 0,
+   "vid": "CTzx4kF1cvM"
+  },
+  {
+   "chars": 19529,
+   "file": "005_ehaSqBDkhEY.txt",
+   "n": 5,
+   "quality": "ok",
+   "sha256": "9f595c7466cb825f0339462c4a5edd00d22be1c2c6f71341376fe82c27971716",
+   "title": "5- تاريخ التشريع الإسلامي | الدور الثاني: الجديد الذي حصل في التشريع والقرآن",
+   "variants": 0,
+   "vid": "ehaSqBDkhEY"
+  },
+  {
+   "chars": 10333,
+   "file": "006_QW7ZpuOLXcQ.txt",
+   "n": 6,
+   "quality": "ok",
+   "sha256": "2568401abd93996e28205a73e48304eb809c6b3e3529dd66e996b03f97d4e3df",
+   "title": "6- تاريخ التشريع الإسلامي | الدور الثاني: بعض النماذج للخلافات التي كانت في عصر الصحابة",
+   "variants": 0,
+   "vid": "QW7ZpuOLXcQ"
+  },
+  {
+   "chars": 20159,
+   "file": "007_yvYXOnVOfx4.txt",
+   "n": 7,
+   "quality": "ok",
+   "sha256": "b5ae677aee63680c8f09c36c490b04f42ea6e1ece1080cca6576a59e67dc5204",
+   "title": "7- تاريخ التشريع الإسلامي | الدور الثالث وخصائصه",
+   "variants": 0,
+   "vid": "yvYXOnVOfx4"
+  },
+  {
+   "chars": 19165,
+   "file": "008_eSSilVpzrro.txt",
+   "n": 8,
+   "quality": "ok",
+   "sha256": "da6f7fc33add39d4d41065b8b6180b69a2b1b7a474381fc68b105682e7bf87f3",
+   "title": "8- تاريخ التشريع الإسلامي | خصائص الدور الثالث: ظهور الفرق",
+   "variants": 0,
+   "vid": "eSSilVpzrro"
+  },
+  {
+   "chars": 22625,
+   "file": "009_JMqrHsQr2GM.txt",
+   "n": 9,
+   "quality": "ok",
+   "sha256": "825c9bb9b26db6b97ee8b4a2101f2ffd7584b419aeb2e2a4d5fa3f3c0b75a1e7",
+   "title": "9- تاريخ التشريع الإسلامي | خصائص الدور الثالث: شيوع رواية الحديث_ظهور الوضاعين",
+   "variants": 0,
+   "vid": "JMqrHsQr2GM"
+  },
+  {
+   "chars": 23356,
+   "file": "010__j3L5nqwMnw.txt",
+   "n": 10,
+   "quality": "ok",
+   "sha256": "a1bbd2b94596c7361224c10e4aaa923fce1f7d9da9ec97b30b0cca2076e15a53",
+   "title": "10- تاريخ التشريع الإسلامي | مدرسة الحديث في الحجاز ومدرسة الرأي في العراق",
+   "variants": 0,
+   "vid": "_j3L5nqwMnw"
+  },
+  {
+   "chars": 21760,
+   "file": "011_n8wTZofIM_c.txt",
+   "n": 11,
+   "quality": "ok",
+   "sha256": "c9e6599a86ceb6cb36e5e0343174f5a4346f6c1573a50c733fef9174cc1b33c4",
+   "title": "11- تاريخ التشريع الإسلامي | الدور الرابع: اتحاد مدرستا الرأي والحديث",
+   "variants": 0,
+   "vid": "n8wTZofIM_c"
+  },
+  {
+   "chars": 24440,
+   "file": "012_FrlJ1Z7feyk.txt",
+   "n": 12,
+   "quality": "ok",
+   "sha256": "d6c5f7018b404a58ab9395379df672aa96b4f39a0976c0c3477f296779a0364d",
+   "title": "12- تاريخ التشريع الإسلامي | اتساع العلوم الإسلامية | أئمة المذاهب: الإمام أبو حنيفة",
+   "variants": 0,
+   "vid": "FrlJ1Z7feyk"
+  },
+  {
+   "chars": 25546,
+   "file": "013_El7MH_q3PPo.txt",
+   "n": 13,
+   "quality": "ok",
+   "sha256": "834f9504b9aa4a9696f7a9cb06a2456a8cd3923d2481c0494b498168ad17ad01",
+   "title": "13- تاريخ التشريع الإسلامي | الإمام أبو حنيفة منهجه و تلامذته",
+   "variants": 0,
+   "vid": "El7MH_q3PPo"
+  },
+  {
+   "chars": 26502,
+   "file": "014_LTwV8kTjQUo.txt",
+   "n": 14,
+   "quality": "ok",
+   "sha256": "084d395e66d4d54b7ac3979b3781df1f1cbfb1a3e6bd4378a94a9619cea66041",
+   "title": "14- تاريخ التشريع الإسلامي | الإمام أبو حنيفة منهجه وتلامذته | الإمام مالك و منهجه",
+   "variants": 0,
+   "vid": "LTwV8kTjQUo"
+  },
+  {
+   "chars": 25628,
+   "file": "015_IvSUKXBll_Q.txt",
+   "n": 15,
+   "quality": "ok",
+   "sha256": "67148685ab775999119b1252e9543d8a8eedc151a6818b9746b53550d062277c",
+   "title": "15- تاريخ التشريع الإسلامي | الإمام مالك منهجه والمحنة التي مر بها",
+   "variants": 0,
+   "vid": "IvSUKXBll_Q"
+  },
+  {
+   "chars": 27347,
+   "file": "016_IoBylymDQss.txt",
+   "n": 16,
+   "quality": "ok",
+   "sha256": "a38737053e7a3b71c289abbcb66664fe14b222e374dcdf1048c54d790ec436c5",
+   "title": "16- تاريخ التشريع الإسلامي | منهج الإمام مالك في الاجتهاد",
+   "variants": 0,
+   "vid": "IoBylymDQss"
+  },
+  {
+   "chars": 25218,
+   "file": "017_qGJW8g368ts.txt",
+   "n": 17,
+   "quality": "ok",
+   "sha256": "39a79cd0dc30c257c0ee1979440db7bb4ce26dc96fb2a372f8aabbf7b0721794",
+   "title": "17- تاريخ التشريع الإسلامي | الإمام الشافعي لمحة عن حياته",
+   "variants": 0,
+   "vid": "qGJW8g368ts"
+  },
+  {
+   "chars": 24572,
+   "file": "018_lLJeBZzvVc4.txt",
+   "n": 18,
+   "quality": "ok",
+   "sha256": "b595eb7f2b82e93e93a39734bbcdb92d2855af6c96c78665692fc0fb4a2f0b16",
+   "title": "18- تاريخ التشريع الإسلامي | الجانب العلمي في شخص الإمام الشافعي",
+   "variants": 0,
+   "vid": "lLJeBZzvVc4"
+  },
+  {
+   "chars": 20029,
+   "file": "019_tYhNMrl0aKk.txt",
+   "n": 19,
+   "quality": "ok",
+   "sha256": "5ec374699f16ccd5e1692a012194e753e8569c803c59d6b0e1eb70988e2fc223",
+   "title": "19- تاريخ التشريع الإسلامي | الإمام الشافعي حياته في مصر وأصحاب الإمام الشافعي",
+   "variants": 0,
+   "vid": "tYhNMrl0aKk"
+  },
+  {
+   "chars": 20923,
+   "file": "020_lOEYTPGgTQc.txt",
+   "n": 20,
+   "quality": "ok",
+   "sha256": "7f7c629b506aed1f5c6483b7ea4dd0e8f6f80794b3704cace6b4d8a82c46debc",
+   "title": "20- تاريخ التشريع الإسلامي | موقف الإمام الشافعي من علم الكلام | الإمام أحمد بن حنبل",
+   "variants": 0,
+   "vid": "lOEYTPGgTQc"
+  },
+  {
+   "chars": 19241,
+   "file": "021_llguED2PqsU.txt",
+   "n": 21,
+   "quality": "ok",
+   "sha256": "1ef37d9a8c9d2f6ec10214310ae5cfba5e86ec98589cf50530ac49d0aa6d85c1",
+   "title": "21- تاريخ التشريع الإسلامي | الإمام أحمد بن حنبل رحلاته العلمية - آراؤه في العقيدة والسياسة",
+   "variants": 0,
+   "vid": "llguED2PqsU"
+  },
+  {
+   "chars": 18185,
+   "file": "022_ZB9OWwLe4u8.txt",
+   "n": 22,
+   "quality": "ok",
+   "sha256": "1cbb439e83aa8e294eccb6233172ca2943edd5a565c8b6b23a72a16891c886b3",
+   "title": "22- تاريخ التشريع الإسلامي | الجانب العلمي من شخص الإمام أحمد بن حنبل (1)",
+   "variants": 0,
+   "vid": "ZB9OWwLe4u8"
+  },
+  {
+   "chars": 15502,
+   "file": "023_lznJF4OYmeE.txt",
+   "n": 23,
+   "quality": "ok",
+   "sha256": "0bf11a572a1dd7288121c3261397f80d66f40ea959fd3fe9fb706fe124bcb81b",
+   "title": "23- تاريخ التشريع الإسلامي | الجانب العلمي من شخص الإمام أحمد بن حنبل (2)",
+   "variants": 0,
+   "vid": "lznJF4OYmeE"
+  },
+  {
+   "chars": 21870,
+   "file": "024__HpBcbN9y88.txt",
+   "n": 24,
+   "quality": "ok",
+   "sha256": "56de38569432d6312b4972c00a75f99175882ec60bdc1acef1944bc6968d046a",
+   "title": "24- تاريخ التشريع الإسلامي | الجانب العلمي من شخص الإمام أحمد بن حنبل (3)",
+   "variants": 0,
+   "vid": "_HpBcbN9y88"
+  },
+  {
+   "chars": 19650,
+   "file": "025_EQGjafQTP4g.txt",
+   "n": 25,
+   "quality": "ok",
+   "sha256": "2f801cc77b45afd55567d6a11af9afafbc8c0038b94f34abf3015776a9188e50",
+   "title": "25- تاريخ التشريع الإسلامي | الجانب العلمي من شخص الإمام أحمد بن حنبل (3)",
+   "variants": 0,
+   "vid": "EQGjafQTP4g"
+  },
+  {
+   "chars": 19547,
+   "file": "026_c4TfFhP3Fhc.txt",
+   "n": 26,
+   "quality": "ok",
+   "sha256": "7668a922242c5a0db54c35873a0f0a02ffbea99cdf5b4e9403cecadde94f9e55",
+   "title": "26- تاريخ التشريع الإسلامي | الجانب العلمي من شخص الإمام أحمد بن حنبل (4)",
+   "variants": 0,
+   "vid": "c4TfFhP3Fhc"
+  },
+  {
+   "chars": 20208,
+   "file": "027_lsb6xUPT93Q.txt",
+   "n": 27,
+   "quality": "ok",
+   "sha256": "d819223b71f5c17e6b3b5c9c9cce1d074da30f8cccb071b7af8493de64125a8c",
+   "title": "27- تاريخ التشريع الإسلامي | الإمام أحمد بن حنبل والمحنة التي ابتلي بها",
+   "variants": 0,
+   "vid": "lsb6xUPT93Q"
+  },
+  {
+   "chars": 20782,
+   "file": "028_hyHrrsrRlI4.txt",
+   "n": 28,
+   "quality": "ok",
+   "sha256": "c4868cf91ebb7c10054e52acc6a6ae630fe6a4547549a62deee60a18433905da",
+   "title": "28- تاريخ التشريع الإسلامي | سبب تمركز المحنة في حق الإمام أحمد بن حنبل وعدد من أمثاله",
+   "variants": 0,
+   "vid": "hyHrrsrRlI4"
+  },
+  {
+   "chars": 20176,
+   "file": "029__NAYoxm2yJU.txt",
+   "n": 29,
+   "quality": "ok",
+   "sha256": "deb85493d5e06459a9c44133532a28811d42c18dcf851fffac012b99863f017e",
+   "title": "29- تاريخ التشريع الإسلامي | الاختلافات الفقهية | آفات لحقت بالمذاهب الأربعة",
+   "variants": 0,
+   "vid": "_NAYoxm2yJU"
+  },
+  {
+   "chars": 6817,
+   "file": "030_dU-X1ZIFZvY.txt",
+   "n": 30,
+   "quality": "ok",
+   "sha256": "01aa3c99672075fa42740a3794bf1f92fa638b0c5096121f293921c0e6babef5",
+   "title": "30- تاريخ التشريع الإسلامي | خصائص الدور الخامس",
+   "variants": 0,
+   "vid": "dU-X1ZIFZvY"
+  },
+  {
+   "chars": 23304,
+   "file": "031_-61vjq2ChlU.txt",
+   "n": 31,
+   "quality": "ok",
+   "sha256": "b39f4c27d2725dd63a3c828d49b92dcbb22461c0eb7484d08a1f047018d42474",
+   "title": "31- تاريخ التشريع الإسلامي | مزايا الدور  5 - الفرق بين قواعد تفسير النصوص والقواعد الفقهية",
+   "variants": 0,
+   "vid": "-61vjq2ChlU"
+  },
+  {
+   "chars": 21700,
+   "file": "032_84Eg1N0c1bY.txt",
+   "n": 32,
+   "quality": "ok",
+   "sha256": "ab5e71e326533680ceb962272ef1913c116f67962862d92a878ca0480838de00",
+   "title": "32- تاريخ التشريع الإسلامي | مزايا الدور الخامس (2)",
+   "variants": 0,
+   "vid": "84Eg1N0c1bY"
+  },
+  {
+   "chars": 19696,
+   "file": "033_ixGMquYQz_Q.txt",
+   "n": 33,
+   "quality": "ok",
+   "sha256": "90071ff9eec05d62ce7796a886f88778f8941bdaf4d348d1f83d7ac7d7822b45",
+   "title": "33- تاريخ التشريع الإسلامي | ملخص مزايا الدور الخامس",
+   "variants": 0,
+   "vid": "ixGMquYQz_Q"
+  },
+  {
+   "chars": 19962,
+   "file": "034_E5VNljbDLGY.txt",
+   "n": 34,
+   "quality": "ok",
+   "sha256": "5f791df249835fa2c1f2c608fb6acc58b75e0a66555f48fc0461282f638db8f0",
+   "title": "34- تاريخ التشريع الإسلامي | سلبيات الدور السادس (1)",
+   "variants": 0,
+   "vid": "E5VNljbDLGY"
+  },
+  {
+   "chars": 20489,
+   "file": "035_WQNqgppEuU8.txt",
+   "n": 35,
+   "quality": "ok",
+   "sha256": "555a3cec64efd4ee24ddd380b8a5baf9e89cf74f2a247aa361ae7510fce7ea08",
+   "title": "35- تاريخ التشريع الإسلامي | درس خاص بمناسبة المولد النبوي الشريف",
+   "variants": 0,
+   "vid": "WQNqgppEuU8"
+  },
+  {
+   "chars": 19141,
+   "file": "036_lM88GEonHaI.txt",
+   "n": 36,
+   "quality": "ok",
+   "sha256": "e3971f2c70ae6240cbd0bc0e613204e22bf3dd959ed574121642e7a9a18c91e8",
+   "title": "36- تاريخ التشريع الإسلامي | سلبيات الدور السادس (2)",
+   "variants": 0,
+   "vid": "lM88GEonHaI"
+  },
+  {
+   "chars": 18662,
+   "file": "037_7liFAtwz0iI.txt",
+   "n": 37,
+   "quality": "ok",
+   "sha256": "e55ac8c19c4c325139bc484deca70d5a03791393c1024e0dae6e9e5f31ac9699",
+   "title": "37- تاريخ التشريع الإسلامي | إيجابيات الدور السادس (1)",
+   "variants": 0,
+   "vid": "7liFAtwz0iI"
+  },
+  {
+   "chars": 19640,
+   "file": "038_PbF-ZdZkMqM.txt",
+   "n": 38,
+   "quality": "ok",
+   "sha256": "c1b96df0f2c924545706978357dcad225feb6e26c02799ea80a2974d5dd915a0",
+   "title": "38- تاريخ التشريع الإسلامي | إيجابيات الدور السادس (2)",
+   "variants": 0,
+   "vid": "PbF-ZdZkMqM"
+  }
+ ],
+ "playlists": [
+  "PL01kYZIehH-ptiDGKwazK6NsUaHeXxqVM"
+ ],
+ "row_id": "said-bouti--379",
+ "sheikh": "said-bouti",
+ "title": "تاريخ التشريع الإسلامي",
+ "transcribed": 38,
+ "v": 1
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:xZe_UEaLEkI",
+ "vid": "xZe_UEaLEkI",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--796",
+ "n": 14,
+ "n_src": "read",
+ "title": "(14) إضمار (أن) بعد (حتى و أو) ⧸ قطر الندى ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "78fd11cb6f091f2918db26827d8bc7f876b3b16b7324c8b674543c91422faf5b",
+ "nh": "ad10d9a0eb658aea580e4d819e14061f7d6f4f7da7d58927bc8aa8ab4d60373e",
+ "chars": 22928,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/796/014_(14) إضمار (أن) بعد (حتى و أو) ⧸ قطر الندى ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/796/014_(14) إضمار (أن) بعد (حتى و أو) ⧸ قطر الندى ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "78fd11cb6f091f2918db26827d8bc7f876b3b16b7324c8b674543c91422faf5b",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/796/13.txt",
+   "sha256": "78fd11cb6f091f2918db26827d8bc7f876b3b16b7324c8b674543c91422faf5b",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

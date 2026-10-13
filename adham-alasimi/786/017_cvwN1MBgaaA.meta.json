@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:cvwN1MBgaaA",
+ "vid": "cvwN1MBgaaA",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--786",
+ "n": 17,
+ "n_src": "read",
+ "title": "الغفلة، حالاتها وعلائمها وعلاجها ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "ac6cc706217c15cdf70f4ac6e09ce57bff86b79c9c2b292e01ff2443f73d3732",
+ "nh": "dcb88c9d5bacb9484f7ffa18994b054071f8a2f505801b52f0137fc60620378c",
+ "chars": 9824,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/786/017_الغفلة، حالاتها وعلائمها وعلاجها ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/786/017_الغفلة، حالاتها وعلائمها وعلاجها ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "ac6cc706217c15cdf70f4ac6e09ce57bff86b79c9c2b292e01ff2443f73d3732",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/786/16.txt",
+   "sha256": "ac6cc706217c15cdf70f4ac6e09ce57bff86b79c9c2b292e01ff2443f73d3732",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

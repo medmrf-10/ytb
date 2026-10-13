@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:TElZWaDdUNs",
+ "vid": "TElZWaDdUNs",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-qushayriyya",
+ "n": 1,
+ "n_src": "trfile",
+ "title": "الدرس 1",
+ "title_src": "filename",
+ "sha256": "1644d5d03e7462a435d6d0b8ddd7c2ca400fffd187b1705258c5c5e6f9ea2575",
+ "nh": "12f479df37da7ed7b45d9e2186d52ad8569b8d14292ca44f03f4a21682a0cc95",
+ "chars": 74161,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriQushayriyya-001/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriQushayriyya-001/transcript.txt",
+   "sha256": "1644d5d03e7462a435d6d0b8ddd7c2ca400fffd187b1705258c5c5e6f9ea2575",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/qushayriyya/qushayriyya-01_AlAmri.txt",
+   "sha256": "1644d5d03e7462a435d6d0b8ddd7c2ca400fffd187b1705258c5c5e6f9ea2575",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-qushayriyya/01.txt",
+   "sha256": "1644d5d03e7462a435d6d0b8ddd7c2ca400fffd187b1705258c5c5e6f9ea2575",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

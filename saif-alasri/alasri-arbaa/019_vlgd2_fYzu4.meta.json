@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:vlgd2_fYzu4",
+ "vid": "vlgd2_fYzu4",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 19,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / هل يدخل القياس في العبادات / د. سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "ee2e09ea77a1f922d5f6d5891ebee8a788fe041058f450bf82ed8a6c5c7f02d9",
+ "nh": "216ef9a233390e545095f43267d2cac39ad5914d9e283e91f5ed39f7c19d08a9",
+ "chars": 12263,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-019/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-019/transcript.txt",
+   "sha256": "ee2e09ea77a1f922d5f6d5891ebee8a788fe041058f450bf82ed8a6c5c7f02d9",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/019_vlgd2_fYzu4.txt",
+   "sha256": "ee2e09ea77a1f922d5f6d5891ebee8a788fe041058f450bf82ed8a6c5c7f02d9",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/019.txt",
+   "sha256": "ee2e09ea77a1f922d5f6d5891ebee8a788fe041058f450bf82ed8a6c5c7f02d9",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

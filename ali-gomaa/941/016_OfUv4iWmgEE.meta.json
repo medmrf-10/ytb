@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:OfUv4iWmgEE",
+ "vid": "OfUv4iWmgEE",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--941",
+ "n": 16,
+ "n_src": "read",
+ "title": "شرح الأربعين النووية ｜ حلقة 16 ｜ حديث 18 ｜ د. علي جمعة ｜",
+ "title_src": "filename",
+ "sha256": "444ab5f28318e3d7d68f76aea4ee86aabaaa61247cddcc6cdeb6ce48dffc944e",
+ "nh": "24601c9d75065cf63546b49fcb69d219c107fad3ca9004e272b4824da0675b8b",
+ "chars": 3703,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/941/016_شرح الأربعين النووية ｜ حلقة 16 ｜ حديث 18 ｜ د. علي جمعة ｜ English Subtitle.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/941/016_شرح الأربعين النووية ｜ حلقة 16 ｜ حديث 18 ｜ د. علي جمعة ｜ English Subtitle.txt",
+   "sha256": "444ab5f28318e3d7d68f76aea4ee86aabaaa61247cddcc6cdeb6ce48dffc944e",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/ali-gomaa--941/016.txt",
+   "sha256": "444ab5f28318e3d7d68f76aea4ee86aabaaa61247cddcc6cdeb6ce48dffc944e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:gwfuv2L_xZc",
+ "vid": "gwfuv2L_xZc",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--768",
+ "n": 8,
+ "n_src": "read",
+ "title": "(8) النطق بالشهادتين + مقدمات عن الصفات ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "c41055720490a7c7f43d29adc31f420a507b02d74249eeb954c3fa468ae87e36",
+ "nh": "a8854a8f6d75001efd42584d0c1f7dd75191d4d4dc15256b428450e3556863d6",
+ "chars": 27235,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/768/008_(8) النطق بالشهادتين + مقدمات عن الصفات ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/768/008_(8) النطق بالشهادتين + مقدمات عن الصفات ⧸ عقيدة أهل السنة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "c41055720490a7c7f43d29adc31f420a507b02d74249eeb954c3fa468ae87e36",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/768/7.txt",
+   "sha256": "c41055720490a7c7f43d29adc31f420a507b02d74249eeb954c3fa468ae87e36",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

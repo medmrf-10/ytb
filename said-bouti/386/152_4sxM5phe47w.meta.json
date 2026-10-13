@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:4sxM5phe47w",
+ "vid": "4sxM5phe47w",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 152,
+ "n_src": "read",
+ "title": "الحكم العطائية للعلامة البوطي الدرس 279 - الحكمة 251",
+ "title_src": "filename",
+ "sha256": "4060e2d6bd4af74e07dd7e0a542e225b69a3a2d742ecc4f7424e9a061bbc0942",
+ "nh": "714168fd75becfb336fa262033411fbac8a77088899d949809951abe5701e034",
+ "chars": 15512,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/152_الحكم العطائية للعلامة البوطي  الدرس 279 - الحكمة 251.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/152_الحكم العطائية للعلامة البوطي  الدرس 279 - الحكمة 251.txt",
+   "sha256": "4060e2d6bd4af74e07dd7e0a542e225b69a3a2d742ecc4f7424e9a061bbc0942",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/152_الحكم العطائية للعلامة البوطي  الدرس 279 - الحكمة 251.txt",
+   "sha256": "4060e2d6bd4af74e07dd7e0a542e225b69a3a2d742ecc4f7424e9a061bbc0942",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:R35HqD8V5bw",
+ "vid": "R35HqD8V5bw",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 105,
+ "n_src": "plpos",
+ "title": "#حديث_الجمعة | قواعد لغة العرب أساس لفهم كتاب الله وسنة الرسول",
+ "title_src": "yt_titles",
+ "sha256": "84459a19973cc021c922ac4d6f63a935889907b3c48713e095a3708deb2c7f2d",
+ "nh": "1ad6031a45ed25ce0745ae44ff6fd9b07dfe8ff2a3175dcbbd609ec1a3d3c005",
+ "chars": 9229,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/105_#حديث_الجمعة ｜ قواعد لغة العرب أساس لفهم كتاب الله وسنة الرسول.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/105_#حديث_الجمعة ｜ قواعد لغة العرب أساس لفهم كتاب الله وسنة الرسول.txt",
+   "sha256": "84459a19973cc021c922ac4d6f63a935889907b3c48713e095a3708deb2c7f2d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/105_#حديث_الجمعة ｜ قواعد لغة العرب أساس لفهم كتاب الله وسنة الرسول.txt",
+   "sha256": "84459a19973cc021c922ac4d6f63a935889907b3c48713e095a3708deb2c7f2d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/105.txt",
+   "sha256": "9b0e8c4f46291abc9316b1e953119942a26a79967aa25a1e884a35abe6102a99",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

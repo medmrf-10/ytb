@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:bfRQuCgoHmw",
+ "vid": "bfRQuCgoHmw",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--790",
+ "n": 26,
+ "n_src": "read",
+ "title": "الاحتضار ⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "43e0825aeb77488f937d1888e1bc51a86cef99d07e4fce13a3ddcc325c72ff11",
+ "nh": "4192199c37424bc3ab8c6ba34dabe131762e63ceed0cc7253d3a43844dddca0f",
+ "chars": 11555,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/790/026_الاحتضار ⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/790/026_الاحتضار ⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "43e0825aeb77488f937d1888e1bc51a86cef99d07e4fce13a3ddcc325c72ff11",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/790/25.txt",
+   "sha256": "43e0825aeb77488f937d1888e1bc51a86cef99d07e4fce13a3ddcc325c72ff11",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,39 @@
+{
+ "v": 1,
+ "lid": "yt:bMQoeUePP2g",
+ "vid": "bMQoeUePP2g",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--114",
+ "n": 25,
+ "n_src": "read",
+ "title": "الإنسانية قبل التدين ｜ الحلقة 24 - ثقافة الوقف ｜ علي الجفري ｜",
+ "title_src": "filename",
+ "sha256": "b4cada2480077699cd0642d98b076ae8a0711131f34a6464defdde040ef8d37d",
+ "nh": "e9524011d441f90b68888a38118033973a1d2ed36874b16fe1f9f00dc73c33a6",
+ "chars": 10365,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/114/025_الإنسانية قبل التدين ｜ الحلقة 24 - ثقافة الوقف ｜ علي الجفري ｜ English Subtitle.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/114/025_الإنسانية قبل التدين ｜ الحلقة 24 - ثقافة الوقف ｜ علي الجفري ｜ English Subtitle.txt",
+   "sha256": "b4cada2480077699cd0642d98b076ae8a0711131f34a6464defdde040ef8d37d",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/114/24.txt",
+   "sha256": "0cda67cfd694d973e65f450fb6613178256f57b6f31b59a8a15b8fa92810ec43",
+   "rel": "variant"
+  }
+ ],
+ "variants": [
+  "_variants/025_bMQoeUePP2g.des-dur.txt"
+ ],
+ "also_in": []
+}

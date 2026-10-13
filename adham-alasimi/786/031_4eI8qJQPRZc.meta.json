@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:4eI8qJQPRZc",
+ "vid": "4eI8qJQPRZc",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--786",
+ "n": 31,
+ "n_src": "read",
+ "title": "الفرح بالنصر والحفاظ عليه ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "87f503565a7461534698cbfa2f718a8fe67c756e013f8669ca8b1fb9cbb3e7f8",
+ "nh": "609c7e1cb4ad93b66a84319caa1cadf8decab13f59b4d7139896b541c08398d3",
+ "chars": 15797,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/786/031_الفرح بالنصر والحفاظ عليه ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/786/031_الفرح بالنصر والحفاظ عليه ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "87f503565a7461534698cbfa2f718a8fe67c756e013f8669ca8b1fb9cbb3e7f8",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/786/30.txt",
+   "sha256": "87f503565a7461534698cbfa2f718a8fe67c756e013f8669ca8b1fb9cbb3e7f8",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:X02Ihzs90uk",
+ "vid": "X02Ihzs90uk",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-414",
+ "n": 2,
+ "n_src": "trfile",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 2",
+ "title_src": "filename",
+ "sha256": "da3c07831a9d71673d94bbb464eac65d06da712eb8984880d0acb871d3041f30",
+ "nh": "11ae0c41b77b346ce4da5c3541cda28f8cb57c43e013712207906a67cb97142b",
+ "chars": 27634,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/002_تفسير القرآن الكريم للدكتور البوطي - الدرس 2.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/002_تفسير القرآن الكريم للدكتور البوطي - الدرس 2.txt",
+   "sha256": "da3c07831a9d71673d94bbb464eac65d06da712eb8984880d0acb871d3041f30",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/002.txt",
+   "sha256": "fba4f8a0497067ae6bb89a2d3e4ad1fe7d52930da71cc664a118cfaa417c8a7e",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

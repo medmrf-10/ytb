@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:fwc_masHxbM",
+ "vid": "fwc_masHxbM",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 2,
+ "n_src": "read",
+ "title": "خطب منبرية ： الحب في الله و مكانته في الإسلام ⧸ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "7295e2888c0871d8cab4d3fc7e2487673c77fdb75f328b6d28cf9f0bd4f6bd54",
+ "nh": "0219b32d582606c818c7ba95f9f9383e669daa7ec3cdf503bc4823ea9e3d9a54",
+ "chars": 10431,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/002_خطب منبرية ： الحب في الله و مكانته في الإسلام ⧸ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/002_خطب منبرية ： الحب في الله و مكانته في الإسلام ⧸ الشيخ العلامة مولود السريري.txt",
+   "sha256": "7295e2888c0871d8cab4d3fc7e2487673c77fdb75f328b6d28cf9f0bd4f6bd54",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/1.txt",
+   "sha256": "7295e2888c0871d8cab4d3fc7e2487673c77fdb75f328b6d28cf9f0bd4f6bd54",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

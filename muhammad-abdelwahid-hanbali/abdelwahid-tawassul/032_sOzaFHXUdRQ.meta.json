@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:sOzaFHXUdRQ",
+ "vid": "sOzaFHXUdRQ",
+ "sheikh": "muhammad-abdelwahid-hanbali",
+ "row_id": "muhammad-abdelwahid-hanbali--abdelwahid-tawassul",
+ "n": 32,
+ "n_src": "trfile",
+ "title": "01 - الدفاع عن البردة الشريفة والتعليق على بعض الأبيات التي يكفر بها الوهابية العلماء",
+ "title_src": "yt_titles",
+ "sha256": "a6801b2627db520765d21bf0307859c6f5f7ba9529114d9537cc5e8d052850ea",
+ "nh": "2d8be662c3683ef71df809cc64bccd633a0d6a4b270144b30c0dd2d151f1b505",
+ "chars": 73745,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/abdelwahidTawassul-032/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/abdelwahidTawassul-032/transcript.txt",
+   "sha256": "a6801b2627db520765d21bf0307859c6f5f7ba9529114d9537cc5e8d052850ea",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/abdelwahid-tawassul/032.txt",
+   "sha256": "a6801b2627db520765d21bf0307859c6f5f7ba9529114d9537cc5e8d052850ea",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

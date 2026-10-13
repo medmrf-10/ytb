@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:Rdq271Hkj2E",
+ "vid": "Rdq271Hkj2E",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 13,
+ "n_src": "plpos",
+ "title": "المتشددون | حـ 13 | مفهوم نظرية الهرم المقلوب | أ.د علي جمعة",
+ "title_src": "yt_titles",
+ "sha256": "b5895fd5fd8641429d7617630bb6d408c596db676b12dae90c3e9e9518f52695",
+ "nh": "d31436be2614d8988e0ae3682dd8f44c0bfef8bea6cc58ef0b977db0d3f1d47b",
+ "chars": 15314,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/013_المتشددون ｜ حـ 13 ｜ مفهوم نظرية الهرم المقلوب ｜ أ.د علي جمعة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/013_المتشددون ｜ حـ 13 ｜ مفهوم نظرية الهرم المقلوب ｜ أ.د علي جمعة.txt",
+   "sha256": "b5895fd5fd8641429d7617630bb6d408c596db676b12dae90c3e9e9518f52695",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/013_المتشددون ｜ حـ 13 ｜ مفهوم نظرية الهرم المقلوب ｜ أ.د علي جمعة.txt",
+   "sha256": "b5895fd5fd8641429d7617630bb6d408c596db676b12dae90c3e9e9518f52695",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/013.txt",
+   "sha256": "63488cce763893d81dc92af386b771af7dce12c55a045da012b024e9dc077fca",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

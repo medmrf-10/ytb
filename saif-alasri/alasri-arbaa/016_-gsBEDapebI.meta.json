@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:-gsBEDapebI",
+ "vid": "-gsBEDapebI",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 16,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / أثر إبن مسعود فى حصب الذاكرين سندا ومتنا / د. سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "3d24dc3f418eb8b71dd8738212d998cfca122678000fe38c6c495d53c69afdac",
+ "nh": "08d43e71389dbf36ffab1e4856d6302abc7ffcdfec79ba2ce3992d718610f5ed",
+ "chars": 24168,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-016/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-016/transcript.txt",
+   "sha256": "3d24dc3f418eb8b71dd8738212d998cfca122678000fe38c6c495d53c69afdac",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/016_-gsBEDapebI.txt",
+   "sha256": "3d24dc3f418eb8b71dd8738212d998cfca122678000fe38c6c495d53c69afdac",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/016.txt",
+   "sha256": "3d24dc3f418eb8b71dd8738212d998cfca122678000fe38c6c495d53c69afdac",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

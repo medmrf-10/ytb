@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:4J6BJfjv0Hg",
+ "vid": "4J6BJfjv0Hg",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-414",
+ "n": 158,
+ "n_src": "read",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 158",
+ "title_src": "filename",
+ "sha256": "a59466bf465351b51d8f960e6e0196083be1c4df8f25725773adadab07ce8cbb",
+ "nh": "a824ebe4174f5022b166b380751eb734303968bcf6fb6043baa64ca3faa0ca23",
+ "chars": 18834,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/158_تفسير القرآن الكريم للدكتور البوطي - الدرس 158.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/158_تفسير القرآن الكريم للدكتور البوطي - الدرس 158.txt",
+   "sha256": "a59466bf465351b51d8f960e6e0196083be1c4df8f25725773adadab07ce8cbb",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/158.txt",
+   "sha256": "8683f146659d5ec442104ca2b875bb069341f82235b7048f11c6c10813c2c971",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

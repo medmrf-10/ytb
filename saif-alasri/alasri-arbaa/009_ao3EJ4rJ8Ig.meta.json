@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:ao3EJ4rJ8Ig",
+ "vid": "ao3EJ4rJ8Ig",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 9,
+ "n_src": "trfile",
+ "title": "قواعد التصوف وشواهد التعرف/ د.سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "c3cdf0e0be4de1cc1620a3735148f77d94915d94eef181ddf7bca9780b3cb9f5",
+ "nh": "5d40beeeae6b592684e9e352ca3bcbddc667c001f981410b05ed5f66090c40ce",
+ "chars": 18625,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-009/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-009/transcript.txt",
+   "sha256": "c3cdf0e0be4de1cc1620a3735148f77d94915d94eef181ddf7bca9780b3cb9f5",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/009_ao3EJ4rJ8Ig.txt",
+   "sha256": "c3cdf0e0be4de1cc1620a3735148f77d94915d94eef181ddf7bca9780b3cb9f5",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/009.txt",
+   "sha256": "c3cdf0e0be4de1cc1620a3735148f77d94915d94eef181ddf7bca9780b3cb9f5",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

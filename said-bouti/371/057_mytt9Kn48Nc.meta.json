@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:mytt9Kn48Nc",
+ "vid": "mytt9Kn48Nc",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--371",
+ "n": 57,
+ "n_src": "plpos",
+ "title": "57- علوم القرآن الكريم | دراسات تطبيقية في القصص (وَقَالَ ارْكَبُوا فِيهَا بِسْمِ اللَّهِ...)",
+ "title_src": "yt_titles",
+ "sha256": "5ca1d672c519d25584accf0d57ed29dd98fccc0a9856fa08583b803008e5e1a8",
+ "nh": "7ae7729aee691cbd895244c47e98c394593c3ac5fee5fce035c78772c2f2c1c1",
+ "chars": 24496,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/371/057_57- علوم القرآن الكريم ｜ دراسات تطبيقية في القصص (وَقَالَ ارْكَبُوا فِيهَا بِسْم.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/371/057_57- علوم القرآن الكريم ｜ دراسات تطبيقية في القصص (وَقَالَ ارْكَبُوا فِيهَا بِسْم.txt",
+   "sha256": "5ca1d672c519d25584accf0d57ed29dd98fccc0a9856fa08583b803008e5e1a8",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/3oloumEl9or1n-057/transcript.txt",
+   "sha256": "e893a637b88ed8908042de89779d4233982a94dd4f0a4d7a6b68a543b2bbacc2",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-ulum-quran/57.txt",
+   "sha256": "e893a637b88ed8908042de89779d4233982a94dd4f0a4d7a6b68a543b2bbacc2",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

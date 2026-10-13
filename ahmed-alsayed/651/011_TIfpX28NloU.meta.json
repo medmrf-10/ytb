@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:TIfpX28NloU",
+ "vid": "TIfpX28NloU",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--651",
+ "n": 11,
+ "n_src": "mutfile",
+ "title": "عمر حامي بوابة الإسلام ٠١ ｜أحمد السيد",
+ "title_src": "filename",
+ "sha256": "ec90d9bd56a9dd446ed6b9c9c1539ba51fbfaf6aef580a7d7ad8b89ce38444de",
+ "nh": "1eaad07ea257729d6d79927881f87402afffce8385c462b1f238d4f3cc84d5cb",
+ "chars": 15612,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/651/011_عمر حامي بوابة الإسلام ٠١ ｜أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/651/011_عمر حامي بوابة الإسلام ٠١ ｜أحمد السيد.txt",
+   "sha256": "ec90d9bd56a9dd446ed6b9c9c1539ba51fbfaf6aef580a7d7ad8b89ce38444de",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/siyarWa3ibar-011/transcript.txt",
+   "sha256": "3e4a0d2847789b12fcc19a295b172fbbcd6bd67c92fde46a4056a9619dbd464f",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-651/011.txt",
+   "sha256": "3e4a0d2847789b12fcc19a295b172fbbcd6bd67c92fde46a4056a9619dbd464f",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

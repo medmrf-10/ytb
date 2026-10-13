@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:KM8dSg0az0Y",
+ "vid": "KM8dSg0az0Y",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-414",
+ "n": 188,
+ "n_src": "read",
+ "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 188",
+ "title_src": "filename",
+ "sha256": "23030c9db186bc1217d33b265380812c8d008379b9ffe4a9c15c854d33a2537a",
+ "nh": "ac1aa9d821e6177e7f7c959444347938e3ebe25473d6b1884c85eeafda9a4abc",
+ "chars": 22763,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/bouti/tafsir/188_تفسير القرآن الكريم للدكتور البوطي - الدرس 188.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tafsir/188_تفسير القرآن الكريم للدكتور البوطي - الدرس 188.txt",
+   "sha256": "23030c9db186bc1217d33b265380812c8d008379b9ffe4a9c15c854d33a2537a",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-414/188.txt",
+   "sha256": "8085f27214fceeaea3b5322c16c70dca185f861c9471b1bbbcf5bbd2f385270b",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

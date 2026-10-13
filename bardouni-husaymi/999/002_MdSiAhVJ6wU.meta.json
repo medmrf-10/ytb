@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:MdSiAhVJ6wU",
+ "vid": "MdSiAhVJ6wU",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--999",
+ "n": 2,
+ "n_src": "read",
+ "title": "شرح البناني على السلم ｜ الدرس 17 ( الكليات ) ｜ الشيخ محمد البردوني الحسيمي",
+ "title_src": "filename",
+ "sha256": "bd5ed52ca319846f55d8fedb4c941fb70b029901e772781fa4c39377707102ec",
+ "nh": "2bdc7b59b702c051889105ca39ba1879ac2a7869ce06dcf9f5e9d83b50229d51",
+ "chars": 15209,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/999/002_شرح البناني على السلم  ｜ الدرس 17 ( الكليات ) ｜ الشيخ محمد البردوني الحسيمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/999/002_شرح البناني على السلم  ｜ الدرس 17 ( الكليات ) ｜ الشيخ محمد البردوني الحسيمي.txt",
+   "sha256": "bd5ed52ca319846f55d8fedb4c941fb70b029901e772781fa4c39377707102ec",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/999/16.txt",
+   "sha256": "bd5ed52ca319846f55d8fedb4c941fb70b029901e772781fa4c39377707102ec",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

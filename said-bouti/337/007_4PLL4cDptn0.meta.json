@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:4PLL4cDptn0",
+ "vid": "4PLL4cDptn0",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--337",
+ "n": 7,
+ "n_src": "mutfile",
+ "title": "6 - في رحاب القرآن وهل يفترس القرآن أحداً ؟!!",
+ "title_src": "filename",
+ "sha256": "962fa374b358d1e916a7ff924dab15163a2ad18e88aa3db5f8cb70a42ce42e57",
+ "nh": "e67ab65067e8242a4097e9bde49d6ec8cb417192a428723b3258344769cd115a",
+ "chars": 1765,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/337/007_6 - في رحاب القرآن  وهل يفترس القرآن أحداً ؟!!.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/337/007_6 - في رحاب القرآن  وهل يفترس القرآن أحداً ؟!!.txt",
+   "sha256": "962fa374b358d1e916a7ff924dab15163a2ad18e88aa3db5f8cb70a42ce42e57",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/rihab/007_6 - في رحاب القرآن  وهل يفترس القرآن أحداً ؟!!.txt",
+   "sha256": "962fa374b358d1e916a7ff924dab15163a2ad18e88aa3db5f8cb70a42ce42e57",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-337/007.txt",
+   "sha256": "8686f60e6f98fdaf2af8dbc6779fb717b31096d63bcae8471cfbd4d3b8209db2",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

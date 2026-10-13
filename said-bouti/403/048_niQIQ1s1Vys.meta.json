@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:niQIQ1s1Vys",
+ "vid": "niQIQ1s1Vys",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--403",
+ "n": 48,
+ "n_src": "plpos",
+ "title": "46 - فقه السيرة النبوية | فتح مكة (2)",
+ "title_src": "yt_titles",
+ "sha256": "436726e5bbdd0ff203f1a7f922e2e2643b1b685ddb99bc338ffd04ee1c3b1f3b",
+ "nh": "a6a9263c8e4886e0a9f57c28ccc362295b310070e2d7610889eac2abde82f20d",
+ "chars": 22120,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/403/048_46 - فقه السيرة النبوية ｜ فتح مكة (2).txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/403/048_46 - فقه السيرة النبوية ｜ فتح مكة (2).txt",
+   "sha256": "436726e5bbdd0ff203f1a7f922e2e2643b1b685ddb99bc338ffd04ee1c3b1f3b",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fi9hElsirah-048/transcript.txt",
+   "sha256": "fa9e8b4f6a1f24ba084e7f7d9554a8d0867c2121a9741a3eeb6fb0cb8d311298",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-sira/48.txt",
+   "sha256": "fa9e8b4f6a1f24ba084e7f7d9554a8d0867c2121a9741a3eeb6fb0cb8d311298",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

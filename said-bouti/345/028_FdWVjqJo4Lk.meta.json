@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:FdWVjqJo4Lk",
+ "vid": "FdWVjqJo4Lk",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--345",
+ "n": 28,
+ "n_src": "plpos",
+ "title": "28- مشاهد وعبر من القرآن والسنة | مشهد وفاة سيدنا رسول الله صلى الله عليه وسلم",
+ "title_src": "yt_titles",
+ "sha256": "bd84c39246db7f6ecda1b0b620eb408bea683609a77830fd26c173588d1b3481",
+ "nh": "7b8e76892c1c40906a4fdd94081999ad7d02a6323b5f26e29bff5dbdc0a27515",
+ "chars": 13045,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/345/028_28- مشاهد وعبر من القرآن والسنة ｜ مشهد وفاة سيدنا رسول الله صلى الله عليه وسلم.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/345/028_28- مشاهد وعبر من القرآن والسنة ｜ مشهد وفاة سيدنا رسول الله صلى الله عليه وسلم.txt",
+   "sha256": "bd84c39246db7f6ecda1b0b620eb408bea683609a77830fd26c173588d1b3481",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-mashahid/28.txt",
+   "sha256": "6536262ee9b137b59f78dac6919876e9365cc969bc82a4e4403690134875dd13",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/345/27.txt",
+   "sha256": "bd84c39246db7f6ecda1b0b620eb408bea683609a77830fd26c173588d1b3481",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

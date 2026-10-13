@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:o5HVHNi5px4",
+ "vid": "o5HVHNi5px4",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--656",
+ "n": 62,
+ "n_src": "mutfile",
+ "title": "رياض الصالحين 62 ｜ باب الإصلاح بين الناس ｜ أنوار السنة المحمدية ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "90805405dcf7acac6f8782c5259f623d4f7fb1b0132d34bc3ee8aa9d1bab6f87",
+ "nh": "4fc830ef40643e13a15e36c996145606b6eaf2dd73ef9ebc806a08935bab92f5",
+ "chars": 44273,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/656/062_رياض الصالحين 62 ｜ باب الإصلاح بين الناس ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/656/062_رياض الصالحين 62 ｜ باب الإصلاح بين الناس ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+   "sha256": "90805405dcf7acac6f8782c5259f623d4f7fb1b0132d34bc3ee8aa9d1bab6f87",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/riyadElsali7in-062/transcript.txt",
+   "sha256": "90805405dcf7acac6f8782c5259f623d4f7fb1b0132d34bc3ee8aa9d1bab6f87",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-656/062.txt",
+   "sha256": "90805405dcf7acac6f8782c5259f623d4f7fb1b0132d34bc3ee8aa9d1bab6f87",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

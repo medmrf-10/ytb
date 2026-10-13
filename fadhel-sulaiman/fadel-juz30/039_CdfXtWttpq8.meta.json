@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:CdfXtWttpq8",
+ "vid": "CdfXtWttpq8",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-juz30",
+ "n": 39,
+ "n_src": "trfile",
+ "title": "فيديو # ٦٥٤ من مقاطع حظر التجول  تدبر سورة الماعون",
+ "title_src": "yt_titles",
+ "sha256": "a40321f5ed0407329aed1ae49826879eb0dbc3b47ec6c5945d8f264be882b079",
+ "nh": "b74b8168b9a92237e72c1ef77931be94b1bb8ef896e6a64439da4473ec772708",
+ "chars": 15992,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelJuz30-039/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelJuz30-039/transcript.txt",
+   "sha256": "a40321f5ed0407329aed1ae49826879eb0dbc3b47ec6c5945d8f264be882b079",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-juz30/039.txt",
+   "sha256": "a40321f5ed0407329aed1ae49826879eb0dbc3b47ec6c5945d8f264be882b079",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

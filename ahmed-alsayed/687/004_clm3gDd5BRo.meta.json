@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:clm3gDd5BRo",
+ "vid": "clm3gDd5BRo",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--687",
+ "n": 4,
+ "n_src": "mutfile",
+ "title": "مقاصد السور ｜ سورة المزمل ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "9e4995b410c99f3b41c6f2e8b7683613e8b80164a167008569d7046090d37782",
+ "nh": "29002b7364592102b2fe27bc456e7d1368f3031b16d8ba18774c880951481f15",
+ "chars": 18390,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/687/004_مقاصد السور ｜ سورة المزمل ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/687/004_مقاصد السور ｜ سورة المزمل ｜ أحمد السيد.txt",
+   "sha256": "9e4995b410c99f3b41c6f2e8b7683613e8b80164a167008569d7046090d37782",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/ma9asidElssowar-004/transcript.txt",
+   "sha256": "7d01eb6ea7aeab109a895a64427707de1796d3f81505b3572e5777622facf153",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-687/004.txt",
+   "sha256": "7d01eb6ea7aeab109a895a64427707de1796d3f81505b3572e5777622facf153",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

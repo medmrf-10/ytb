@@ -1,0 +1,39 @@
+{
+ "v": 1,
+ "lid": "yt:RlEKVnSDL3g",
+ "vid": "RlEKVnSDL3g",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--114",
+ "n": 12,
+ "n_src": "read",
+ "title": "الإنسانية قبل التدين ｜ الحلقة 11 - كيف نتعامل مع جموح الشباب؟ ｜ علي الجفري ｜ En",
+ "title_src": "filename",
+ "sha256": "3a503b3fe4083a68beaadd59f6724254cf102248c4a6ad8a2c84e80014ddd724",
+ "nh": "417c1602353fea9307ce381a13611d08c5d37cecce1a432641c4727ee59d2ed7",
+ "chars": 8554,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/114/012_الإنسانية قبل التدين ｜ الحلقة 11 - كيف نتعامل مع جموح الشباب؟  ｜ علي الجفري ｜ En.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/114/012_الإنسانية قبل التدين ｜ الحلقة 11 - كيف نتعامل مع جموح الشباب؟  ｜ علي الجفري ｜ En.txt",
+   "sha256": "3a503b3fe4083a68beaadd59f6724254cf102248c4a6ad8a2c84e80014ddd724",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/114/11.txt",
+   "sha256": "1cec94672c01212f2ad09e7a93047e15cdab39a9c2c394cc736146c7df2eeb64",
+   "rel": "variant"
+  }
+ ],
+ "variants": [
+  "_variants/012_RlEKVnSDL3g.des-dur.txt"
+ ],
+ "also_in": []
+}

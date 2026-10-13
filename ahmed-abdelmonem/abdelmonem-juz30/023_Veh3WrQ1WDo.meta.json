@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:Veh3WrQ1WDo",
+ "vid": "Veh3WrQ1WDo",
+ "sheikh": "ahmed-abdelmonem",
+ "row_id": "ahmed-abdelmonem--abdelmonem-juz30",
+ "n": 23,
+ "n_src": "trfile",
+ "title": "تفسير سورة التين | د. أحمد عبد المنعم",
+ "title_src": "yt_titles",
+ "sha256": "40d874d337004205365ab13311ba6d333422c253fbbb9ec9ca3d4850a0de6ca6",
+ "nh": "dbc102630b664e1e74b2fe7a8f567c3106e570d928f0c5e33a9b624a0035c7df",
+ "chars": 37473,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/abdelmonemJuz30-023/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/abdelmonemJuz30-023/transcript.txt",
+   "sha256": "40d874d337004205365ab13311ba6d333422c253fbbb9ec9ca3d4850a0de6ca6",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/abdelmonem/juz30/095-Tin_AbdelMonem.txt",
+   "sha256": "40d874d337004205365ab13311ba6d333422c253fbbb9ec9ca3d4850a0de6ca6",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/abdelmonem-juz30/23.txt",
+   "sha256": "40d874d337004205365ab13311ba6d333422c253fbbb9ec9ca3d4850a0de6ca6",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

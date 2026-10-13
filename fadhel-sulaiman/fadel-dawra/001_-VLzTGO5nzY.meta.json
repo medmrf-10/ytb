@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:-VLzTGO5nzY",
+ "vid": "-VLzTGO5nzY",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-dawra",
+ "n": 1,
+ "n_src": "trfile",
+ "title": "الدرس الأول من دورة مفاتح التدبر | المقدمة | فاضل سليمان",
+ "title_src": "yt_titles",
+ "sha256": "afd4158bcfc39e2e9013b611d43daa1118ce94b063a72ce4590d9c173fe7f663",
+ "nh": "7275194bd1b3999964f2211de6476651892e4db52f314380741617882bb7896c",
+ "chars": 10948,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelDawra-001/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelDawra-001/transcript.txt",
+   "sha256": "afd4158bcfc39e2e9013b611d43daa1118ce94b063a72ce4590d9c173fe7f663",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-dawra/001.txt",
+   "sha256": "afd4158bcfc39e2e9013b611d43daa1118ce94b063a72ce4590d9c173fe7f663",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

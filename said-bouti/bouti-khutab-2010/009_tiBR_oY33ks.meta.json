@@ -1,0 +1,51 @@
+{
+ "v": 1,
+ "lid": "yt:tiBR_oY33ks",
+ "vid": "tiBR_oY33ks",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--bouti-khutab-2010",
+ "n": 9,
+ "n_src": "trfile",
+ "title": "خطبة الإمام البوطي | قصة الطابور المستأجَر لتشويه الإسلام",
+ "title_src": "yt_titles",
+ "sha256": "1c59ec1da9d892a522d71c43233a8f4fa766506c03895c072c20ef063b12bf8d",
+ "nh": "91b8c728c38518773ca805261f0d7c9e13baf2a907311d101c85641ed86da881",
+ "chars": 12254,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/5o6ab-009/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/5o6ab-009/transcript.txt",
+   "sha256": "1c59ec1da9d892a522d71c43233a8f4fa766506c03895c072c20ef063b12bf8d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/khutab-2010/8.txt",
+   "sha256": "5a3d5065f08c54ce7c8190acf808d23641b016411aab579f91fed8dd097cc48d",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-khutab-2012/09.txt",
+   "sha256": "1c59ec1da9d892a522d71c43233a8f4fa766506c03895c072c20ef063b12bf8d",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/344/8.txt",
+   "sha256": "5a3d5065f08c54ce7c8190acf808d23641b016411aab579f91fed8dd097cc48d",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "said-bouti--bouti-khutab-2012"
+ ]
+}

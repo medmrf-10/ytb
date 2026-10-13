@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:IWbkaFf08W4",
+ "vid": "IWbkaFf08W4",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--779",
+ "n": 8,
+ "n_src": "read",
+ "title": "(8) التعريف والتنكير (2) ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "151bbb106744a9ec9a2c4351118f87181685b0fde5bfda4244360412b0f1c9dd",
+ "nh": "309d50b707b992dcddcecff5888f2f4ae811ed4fac2c6f53da7ba0e9181af93a",
+ "chars": 17257,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/779/008_(8) التعريف والتنكير (2) ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/779/008_(8) التعريف والتنكير (2) ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "151bbb106744a9ec9a2c4351118f87181685b0fde5bfda4244360412b0f1c9dd",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/779/1.txt",
+   "sha256": "151bbb106744a9ec9a2c4351118f87181685b0fde5bfda4244360412b0f1c9dd",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

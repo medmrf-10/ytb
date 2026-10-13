@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:zOZaVFtLNvU",
+ "vid": "zOZaVFtLNvU",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--347",
+ "n": 1,
+ "n_src": "mutfile",
+ "title": "تشويقة برنامج شكر الله تعالى في القرآن الكريم الإمام الشهيد البوطي",
+ "title_src": "filename",
+ "sha256": "1cb885bfff84fe152428ea0443d1dedcd316c7e9cdd612e3dc9e4460e89a7959",
+ "nh": "1c5a6b37a9b948efe9505fd31fc56f7a10babbaa6ffb9b6071c07aa6785bad51",
+ "chars": 1056,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/347/001_تشويقة برنامج شكر الله تعالى في القرآن الكريم  الإمام الشهيد البوطي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/347/001_تشويقة برنامج شكر الله تعالى في القرآن الكريم  الإمام الشهيد البوطي.txt",
+   "sha256": "1cb885bfff84fe152428ea0443d1dedcd316c7e9cdd612e3dc9e4460e89a7959",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/rihab/001_تشويقة برنامج شكر الله تعالى في القرآن الكريم  الإمام الشهيد البوطي.txt",
+   "sha256": "1cb885bfff84fe152428ea0443d1dedcd316c7e9cdd612e3dc9e4460e89a7959",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-347/001.txt",
+   "sha256": "b67a0b791a36572b08dec9d954358970279d4baf349e6417317ddeaa636bd960",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:DN4wqzNofC4",
+ "vid": "DN4wqzNofC4",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 112,
+ "n_src": "read",
+ "title": "الحكم العطائية للعلامة البوطي الدرس 297 - المناجاة 5 - 6",
+ "title_src": "filename",
+ "sha256": "cec4ff1785db44c09a8f0cfbca27a071c85a1c3d77f57c9d2845be196e828eed",
+ "nh": "60986e37d94576e74b09640932cffbce3c13b24da4cb0ab3f089bea0845500e5",
+ "chars": 26943,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/112_الحكم العطائية للعلامة البوطي  الدرس 297 - المناجاة 5 - 6.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/112_الحكم العطائية للعلامة البوطي  الدرس 297 - المناجاة 5 - 6.txt",
+   "sha256": "cec4ff1785db44c09a8f0cfbca27a071c85a1c3d77f57c9d2845be196e828eed",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/112_الحكم العطائية للعلامة البوطي  الدرس 297 - المناجاة 5 - 6.txt",
+   "sha256": "cec4ff1785db44c09a8f0cfbca27a071c85a1c3d77f57c9d2845be196e828eed",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

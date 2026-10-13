@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:vJ35UuSCwv8",
+ "vid": "vJ35UuSCwv8",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 33,
+ "n_src": "plpos",
+ "title": "المتشددون | حـ 33 | أفكار سيد قطب وما أنتجته جـ2 | أ.د علي جمعة",
+ "title_src": "yt_titles",
+ "sha256": "53a19cfe8d3531f635ac945f01797787bc817157338ee5ca36aef6e695134f61",
+ "nh": "b6c31fcb49bc538d914ecd84d6bdf6f2b81a98b07b27ffbf8645ec9e5ce01319",
+ "chars": 15878,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/gomaa/mut-822/033_المتشددون ｜ حـ 33 ｜ أفكار سيد قطب وما أنتجته جـ2 ｜ أ.د علي جمعة.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/033_المتشددون ｜ حـ 33 ｜ أفكار سيد قطب وما أنتجته جـ2 ｜ أ.د علي جمعة.txt",
+   "sha256": "53a19cfe8d3531f635ac945f01797787bc817157338ee5ca36aef6e695134f61",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/033.txt",
+   "sha256": "1cb05dd6fce27893dd9977b6c53916dc834471d75318f731b6045bf020c4f1fe",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

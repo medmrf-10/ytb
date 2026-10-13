@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:SfiILrA4rnc",
+ "vid": "SfiILrA4rnc",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--796",
+ "n": 15,
+ "n_src": "read",
+ "title": "(15) إضمار (أن) بعد (أو - فاء السببية - واو الجماعة) ⧸ قطر الندى ⧸ الشيخ أدهم ال",
+ "title_src": "filename",
+ "sha256": "fa06f8c51289417d17a8a3fb705b1532eeb0abbaf5797de47ed07796f7507f1e",
+ "nh": "add54939c74aa5fe8999b1f26730599c8325421bcb53e598b9225f340701fd07",
+ "chars": 20602,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/796/015_(15) إضمار (أن) بعد (أو - فاء السببية - واو الجماعة) ⧸ قطر الندى ⧸ الشيخ أدهم ال.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/796/015_(15) إضمار (أن) بعد (أو - فاء السببية - واو الجماعة) ⧸ قطر الندى ⧸ الشيخ أدهم ال.txt",
+   "sha256": "fa06f8c51289417d17a8a3fb705b1532eeb0abbaf5797de47ed07796f7507f1e",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/796/14.txt",
+   "sha256": "fa06f8c51289417d17a8a3fb705b1532eeb0abbaf5797de47ed07796f7507f1e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

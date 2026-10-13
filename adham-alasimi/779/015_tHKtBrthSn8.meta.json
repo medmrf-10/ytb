@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:tHKtBrthSn8",
+ "vid": "tHKtBrthSn8",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--779",
+ "n": 15,
+ "n_src": "read",
+ "title": "(15) أغراض االتشبيه -المجاز والإستعارة ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "8072a22cc898d81ab2828ab9c3897acac64580608fe40505f350f43605034748",
+ "nh": "4de8efc53d48bbd1b5f7363419673ae5bf1ed83bf781128548984b1cfab4c150",
+ "chars": 19285,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/779/015_(15) أغراض االتشبيه -المجاز والإستعارة ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/779/015_(15) أغراض االتشبيه -المجاز والإستعارة ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "8072a22cc898d81ab2828ab9c3897acac64580608fe40505f350f43605034748",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/779/14.txt",
+   "sha256": "8072a22cc898d81ab2828ab9c3897acac64580608fe40505f350f43605034748",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:CxhQ6xzPaJs",
+ "vid": "CxhQ6xzPaJs",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--988",
+ "n": 2,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد القيرواني ｜ الدرس الثاني｜ الشيخ محمد البردوني الحسيمي",
+ "title_src": "filename",
+ "sha256": "2669d3ae5ad34feba655856f6a2a17418850356074e395e2b0b4588d7b2c0820",
+ "nh": "3ce877a2ec387c31942862c89e955b0a8aaaf4abcc5226ccec4c72d3e98c1b58",
+ "chars": 10550,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/988/002_شرح رسالة ابن ابي زيد القيرواني ｜ الدرس الثاني｜ الشيخ محمد البردوني الحسيمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/988/002_شرح رسالة ابن ابي زيد القيرواني ｜ الدرس الثاني｜ الشيخ محمد البردوني الحسيمي.txt",
+   "sha256": "2669d3ae5ad34feba655856f6a2a17418850356074e395e2b0b4588d7b2c0820",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/sariri/risala-adudiyya/1.txt",
+   "sha256": "2669d3ae5ad34feba655856f6a2a17418850356074e395e2b0b4588d7b2c0820",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/36/1.txt",
+   "sha256": "2669d3ae5ad34feba655856f6a2a17418850356074e395e2b0b4588d7b2c0820",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "mouloud-sariri--36",
+  "mouloud-sariri--sariri-risala-adudiyya"
+ ]
+}

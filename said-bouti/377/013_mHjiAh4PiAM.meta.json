@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:mHjiAh4PiAM",
+ "vid": "mHjiAh4PiAM",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--377",
+ "n": 13,
+ "n_src": "plpos",
+ "title": "7- كبرى اليقينيات الكونية | صفات الله المعنوية (الكلام - الحياة) | متعلقات الصفات",
+ "title_src": "yt_titles",
+ "sha256": "9b3ff5a99fffe99bf58cc774f74bb15d974daf9b673a6916119ac155b4fe7c43",
+ "nh": "d8e55e5bf0e8fb0af556aec68b2bbc95ed2563d291f4a779a22e5422131abd79",
+ "chars": 24207,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/377/013_7- كبرى اليقينيات الكونية ｜ صفات الله المعنوية (الكلام - الحياة) ｜ متعلقات الصفا.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/377/013_7- كبرى اليقينيات الكونية ｜ صفات الله المعنوية (الكلام - الحياة) ｜ متعلقات الصفا.txt",
+   "sha256": "9b3ff5a99fffe99bf58cc774f74bb15d974daf9b673a6916119ac155b4fe7c43",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/kobraElya9inyat-013/transcript.txt",
+   "sha256": "b9f66cb1c8202529d1d82106e53bdbc0e25d45fa27f940d6152d0b0804fe47c9",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/13.txt",
+   "sha256": "b9f66cb1c8202529d1d82106e53bdbc0e25d45fa27f940d6152d0b0804fe47c9",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

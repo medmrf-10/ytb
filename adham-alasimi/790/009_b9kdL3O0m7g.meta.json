@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:b9kdL3O0m7g",
+ "vid": "b9kdL3O0m7g",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--790",
+ "n": 9,
+ "n_src": "read",
+ "title": "وقفة مع أسماء القيامة(2)⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "ab7a7395bb313f112d022917c71afb3e0722174d34520fec0e1aee72977f531d",
+ "nh": "ddc6b12c085decec9ba16f396511ac18f4a1a6bfb62644377c91259c30b258e0",
+ "chars": 10106,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/790/009_وقفة مع أسماء القيامة(2)⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/790/009_وقفة مع أسماء القيامة(2)⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "ab7a7395bb313f112d022917c71afb3e0722174d34520fec0e1aee72977f531d",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/790/8.txt",
+   "sha256": "ab7a7395bb313f112d022917c71afb3e0722174d34520fec0e1aee72977f531d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

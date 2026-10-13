@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:YRhF0_N0_Xk",
+ "vid": "YRhF0_N0_Xk",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--117",
+ "n": 30,
+ "n_src": "read",
+ "title": "حلقة 29 - أوقفوا الكراهية - الإنسانية قبل التدين",
+ "title_src": "filename",
+ "sha256": "3b2c0a82f6c9ca1ecc182540efe28b0c0f63d5a52320d252e78cd4b2493edd7b",
+ "nh": "b70ac7998d9f4eb41eb374f20c25ff072e854ec911f76ee91326cf7de02cf7f6",
+ "chars": 1736,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/117/030_حلقة 29 - أوقفوا الكراهية - الإنسانية قبل التدين.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/117/030_حلقة 29 - أوقفوا الكراهية - الإنسانية قبل التدين.txt",
+   "sha256": "3b2c0a82f6c9ca1ecc182540efe28b0c0f63d5a52320d252e78cd4b2493edd7b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/insaniyya/42.txt",
+   "sha256": "3b2c0a82f6c9ca1ecc182540efe28b0c0f63d5a52320d252e78cd4b2493edd7b",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/112/42.txt",
+   "sha256": "3b2c0a82f6c9ca1ecc182540efe28b0c0f63d5a52320d252e78cd4b2493edd7b",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-ali-aljifri--112",
+  "k:117"
+ ]
+}

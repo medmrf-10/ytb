@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:zZPpzVgtujY",
+ "vid": "zZPpzVgtujY",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--345",
+ "n": 12,
+ "n_src": "plpos",
+ "title": "12- مشاهد وعبر من القرآن والسنة | محبة الرسول صلى الله عليه وسلم",
+ "title_src": "yt_titles",
+ "sha256": "4b246915370bbe28bfed2f5efe685c8f0d17eb148d65ec6fdf48fff06ed14b7e",
+ "nh": "0e86cd9422937d421dcc9d3ad71d2c434b229342b3022a5f7c0a3c36101e8073",
+ "chars": 12862,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/345/012_12- مشاهد وعبر من القرآن والسنة ｜ محبة الرسول صلى الله عليه وسلم.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/345/012_12- مشاهد وعبر من القرآن والسنة ｜ محبة الرسول صلى الله عليه وسلم.txt",
+   "sha256": "4b246915370bbe28bfed2f5efe685c8f0d17eb148d65ec6fdf48fff06ed14b7e",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-mashahid/12.txt",
+   "sha256": "e53e5d71beb21497559de3cb614f3fef303c5a4daf43ce009c88ec3526f1204a",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/345/11.txt",
+   "sha256": "4b246915370bbe28bfed2f5efe685c8f0d17eb148d65ec6fdf48fff06ed14b7e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

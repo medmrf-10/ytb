@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:8kPoa_BlCTA",
+ "vid": "8kPoa_BlCTA",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--92",
+ "n": 13,
+ "n_src": "read",
+ "title": "حلقة 7： المواطنة - د. نادر الفرجاني ｜ آمنت بالله ｜ الحبيب علي الجفري",
+ "title_src": "filename",
+ "sha256": "5a107dd74c1e15b5912ec83da6f96477dce9a1b67f991fe10686e122e6c52dbf",
+ "nh": "e13164c45969192a2cc56a2d7068af549c4663e55c57d74643de98ecd25d2838",
+ "chars": 14080,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/92/013_حلقة 7： المواطنة - د. نادر الفرجاني ｜ آمنت بالله ｜  الحبيب علي الجفري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/92/013_حلقة 7： المواطنة - د. نادر الفرجاني ｜ آمنت بالله ｜  الحبيب علي الجفري.txt",
+   "sha256": "5a107dd74c1e15b5912ec83da6f96477dce9a1b67f991fe10686e122e6c52dbf",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/92/30.txt",
+   "sha256": "5a107dd74c1e15b5912ec83da6f96477dce9a1b67f991fe10686e122e6c52dbf",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

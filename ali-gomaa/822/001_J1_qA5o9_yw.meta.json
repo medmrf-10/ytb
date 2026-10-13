@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:J1_qA5o9_yw",
+ "vid": "J1_qA5o9_yw",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 1,
+ "n_src": "plpos",
+ "title": "المتشددون | حـ 1 | لمحة تاريخية حول النهضة وأثر الحملة الفرنسية عليها | أ.د علي جمعة",
+ "title_src": "yt_titles",
+ "sha256": "ff6a6dd119726ac7b7ee2d297d3a47fc894aa11c0d85ab63340b40317695a1fe",
+ "nh": "f7f5a3a0e0e2a8a4dc8569a31161dc5fd2e01368d4feacb8cf38b2f4361701c5",
+ "chars": 17103,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/001_المتشددون ｜ حـ 1 ｜ لمحة تاريخية حول النهضة وأثر الحملة الفرنسية عليها ｜ أ.د علي .txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/001_المتشددون ｜ حـ 1 ｜ لمحة تاريخية حول النهضة وأثر الحملة الفرنسية عليها ｜ أ.د علي .txt",
+   "sha256": "ff6a6dd119726ac7b7ee2d297d3a47fc894aa11c0d85ab63340b40317695a1fe",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/001_المتشددون ｜ حـ 1 ｜ لمحة تاريخية حول النهضة وأثر الحملة الفرنسية عليها ｜ أ.د علي .txt",
+   "sha256": "ff6a6dd119726ac7b7ee2d297d3a47fc894aa11c0d85ab63340b40317695a1fe",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/001.txt",
+   "sha256": "d204c28cab222fd8818ffc7b61c514d64bfa27af169b0c6fda5332a117df0778",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

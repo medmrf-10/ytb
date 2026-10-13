@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:wcBBTOWsuCM",
+ "vid": "wcBBTOWsuCM",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--775",
+ "n": 23,
+ "n_src": "read",
+ "title": "(23) المُصَحّف و المحرّف و الرواية بالمعنى ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ ا",
+ "title_src": "filename",
+ "sha256": "ddfa911ecc0e45bf029c040059eb426de4bc3c8501b60da05dc1f4d5c7604de4",
+ "nh": "d36e06e5e07b92127e5b9b7a4912db2baf3257afbdcdfe768ced6ad48930f453",
+ "chars": 23681,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/775/023_(23) المُصَحّف و المحرّف و الرواية بالمعنى  ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ ا.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/775/023_(23) المُصَحّف و المحرّف و الرواية بالمعنى  ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ ا.txt",
+   "sha256": "ddfa911ecc0e45bf029c040059eb426de4bc3c8501b60da05dc1f4d5c7604de4",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/775/22.txt",
+   "sha256": "ddfa911ecc0e45bf029c040059eb426de4bc3c8501b60da05dc1f4d5c7604de4",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

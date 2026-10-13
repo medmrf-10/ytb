@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:PX-rkexWy-Y",
+ "vid": "PX-rkexWy-Y",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+ "n": 35,
+ "n_src": "trfile",
+ "title": "الدرس الخامس والثلاثون_ القطب الثالث_ الدعوة الخامسة",
+ "title_src": "yt_titles",
+ "sha256": "316bb9701404540ccbfae3f035390bbcf6b0555e0485ecdb1db7f516c567b3a4",
+ "nh": "83caa4279145bcd7e9585c51b4316ff1dddc7e55dcd30f16b7ad767dd6308e75",
+ "chars": 32554,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriIqtisad-035/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriIqtisad-035/transcript.txt",
+   "sha256": "316bb9701404540ccbfae3f035390bbcf6b0555e0485ecdb1db7f516c567b3a4",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-35_AlAmri.txt",
+   "sha256": "316bb9701404540ccbfae3f035390bbcf6b0555e0485ecdb1db7f516c567b3a4",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-iqtisad/35.txt",
+   "sha256": "316bb9701404540ccbfae3f035390bbcf6b0555e0485ecdb1db7f516c567b3a4",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

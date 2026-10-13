@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:1R45ERYqQOY",
+ "vid": "1R45ERYqQOY",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 52,
+ "n_src": "read",
+ "title": "خطب منبرية： تقديس اسم الله ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "8d23120ac46800135c18e54fb40ce2da002e53c29dd3a78cb6eaf26bfc333297",
+ "nh": "25bbc55a265e6b72f701b6d4f736c27538343512850f03405fc638d53ef85fb1",
+ "chars": 11519,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/052_خطب منبرية： تقديس اسم الله  ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/052_خطب منبرية： تقديس اسم الله  ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "8d23120ac46800135c18e54fb40ce2da002e53c29dd3a78cb6eaf26bfc333297",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/51.txt",
+   "sha256": "8d23120ac46800135c18e54fb40ce2da002e53c29dd3a78cb6eaf26bfc333297",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

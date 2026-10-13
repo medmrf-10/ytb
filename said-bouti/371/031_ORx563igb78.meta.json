@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:ORx563igb78",
+ "vid": "ORx563igb78",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--371",
+ "n": 31,
+ "n_src": "plpos",
+ "title": "31- علوم القرآن الكريم | المنهج التربوي في القرآن الكريم",
+ "title_src": "yt_titles",
+ "sha256": "f57d548a758599c61f64a61eb91f7b19321b34be0c6ae6957ae449e97b90d854",
+ "nh": "dd8d789a831361ee215d3e02937194b65ecade30d170ff4dbbb54ffc06d1dce2",
+ "chars": 23172,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/371/031_31- علوم القرآن الكريم ｜ المنهج التربوي في القرآن الكريم.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/371/031_31- علوم القرآن الكريم ｜ المنهج التربوي في القرآن الكريم.txt",
+   "sha256": "f57d548a758599c61f64a61eb91f7b19321b34be0c6ae6957ae449e97b90d854",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/3oloumEl9or1n-031/transcript.txt",
+   "sha256": "5ea2e1b74570f597a3a8551ee3da2d5bdced950df5bc8b83d4e889e579f94fe6",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-ulum-quran/31.txt",
+   "sha256": "5ea2e1b74570f597a3a8551ee3da2d5bdced950df5bc8b83d4e889e579f94fe6",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

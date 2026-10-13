@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:Ou-gQ4pF218",
+ "vid": "Ou-gQ4pF218",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--403",
+ "n": 70,
+ "n_src": "plpos",
+ "title": "68 - الأخير - فقه السيرة النبوية | خلافة سيدنا علي بن أبي طالب",
+ "title_src": "yt_titles",
+ "sha256": "3ea8da1e77ab520dbe11d28962f164837db83b94708db1dd0230ab8f9eced187",
+ "nh": "4a6d3ea05a9c2b1024c0c867b8c5f34ff1833c3138282d82a02f1d53167b578b",
+ "chars": 25596,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/403/070_68 - الأخير - فقه السيرة النبوية ｜ خلافة سيدنا علي بن أبي طالب.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/403/070_68 - الأخير - فقه السيرة النبوية ｜ خلافة سيدنا علي بن أبي طالب.txt",
+   "sha256": "3ea8da1e77ab520dbe11d28962f164837db83b94708db1dd0230ab8f9eced187",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fi9hElsirah-070/transcript.txt",
+   "sha256": "d89baf1dd5b19ad7fefdd2583ed391a2acebadaebd93c72757c43f5f51dabead",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-sira/70.txt",
+   "sha256": "d89baf1dd5b19ad7fefdd2583ed391a2acebadaebd93c72757c43f5f51dabead",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/403/69.txt",
+   "sha256": "3ea8da1e77ab520dbe11d28962f164837db83b94708db1dd0230ab8f9eced187",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

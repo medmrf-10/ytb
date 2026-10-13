@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:kqnkxX-jqb4",
+ "vid": "kqnkxX-jqb4",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-dawra",
+ "n": 3,
+ "n_src": "trfile",
+ "title": "الدرس الثالث من دورة مفاتح التدبر | التدبر العقلي شروطه وأدواته | فاضل سليمان",
+ "title_src": "yt_titles",
+ "sha256": "64a9774ddaa3652eddf6bcda1baf806e48e9ca3906ecf962ec2778419e110386",
+ "nh": "7daea36bbb2add0cc584ae130cf63d431319152fdaff3c0cac3234da04c3f1ab",
+ "chars": 13801,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelDawra-003/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelDawra-003/transcript.txt",
+   "sha256": "64a9774ddaa3652eddf6bcda1baf806e48e9ca3906ecf962ec2778419e110386",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-dawra/003.txt",
+   "sha256": "64a9774ddaa3652eddf6bcda1baf806e48e9ca3906ecf962ec2778419e110386",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

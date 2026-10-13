@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:68",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 68,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 58 ( قوله ＂ و لا يغسل الشهيد في المعترك ＂ ) ｜ ال",
+ "title_src": "filename",
+ "sha256": "bab2299dca8fcdef4a76d1b358e46886785b9e69f2a484c2fe3b814082c361f0",
+ "nh": "0549611be426f65f179f8c4aacbebde2178bda878cf864e1af692ae1005fd616",
+ "chars": 22760,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/068_شرح رسالة ابن ابي زيد ｜ الدرس 58 (  قوله ＂ و لا يغسل الشهيد في المعترك ＂  ) ｜ ال.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/068_شرح رسالة ابن ابي زيد ｜ الدرس 58 (  قوله ＂ و لا يغسل الشهيد في المعترك ＂  ) ｜ ال.txt",
+   "sha256": "bab2299dca8fcdef4a76d1b358e46886785b9e69f2a484c2fe3b814082c361f0",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/58.txt",
+   "sha256": "bab2299dca8fcdef4a76d1b358e46886785b9e69f2a484c2fe3b814082c361f0",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

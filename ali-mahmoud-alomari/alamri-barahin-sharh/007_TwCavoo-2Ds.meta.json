@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:TwCavoo-2Ds",
+ "vid": "TwCavoo-2Ds",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-barahin-sharh",
+ "n": 7,
+ "n_src": "trfile",
+ "title": "الدرس 7",
+ "title_src": "filename",
+ "sha256": "bc87d1e514413245350cbfa80663dead554dbfedf950674ec9155e14cab47520",
+ "nh": "eb68d7ac38b627ea273d27b770a1903b035614e4563d1b4b179dfa699bc580ac",
+ "chars": 45577,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriBarahinSharh-007/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriBarahinSharh-007/transcript.txt",
+   "sha256": "bc87d1e514413245350cbfa80663dead554dbfedf950674ec9155e14cab47520",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/barahin-sharh/barahin-sharh-07_AlAmri.txt",
+   "sha256": "bc87d1e514413245350cbfa80663dead554dbfedf950674ec9155e14cab47520",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-barahin-sharh/07.txt",
+   "sha256": "bc87d1e514413245350cbfa80663dead554dbfedf950674ec9155e14cab47520",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

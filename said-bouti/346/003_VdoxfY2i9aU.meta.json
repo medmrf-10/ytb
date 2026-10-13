@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:VdoxfY2i9aU",
+ "vid": "VdoxfY2i9aU",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--346",
+ "n": 3,
+ "n_src": "plpos",
+ "title": "2 - رحلة الخلود | العلامة البوطي | نعيم القبر وعذابه",
+ "title_src": "yt_titles",
+ "sha256": "0f3cf30fd7e6fbb9bb41673dda94206dcaa201fa92ad57b9d785c55b9da97d92",
+ "nh": "295715ab0396204bd2113782dfb6567b9fe3b55437dba487f338ce3190e86233",
+ "chars": 14248,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/346/003_2 - رحلة الخلود ｜ العلامة البوطي ｜ نعيم القبر وعذابه.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/346/003_2 - رحلة الخلود ｜ العلامة البوطي ｜ نعيم القبر وعذابه.txt",
+   "sha256": "0f3cf30fd7e6fbb9bb41673dda94206dcaa201fa92ad57b9d785c55b9da97d92",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/ri7latEl5oloud-003/transcript.txt",
+   "sha256": "21fda9c5ca09b53881311c4f60b8609493d28108bfd1699b8683df452e08bdf4",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-rihla/03.txt",
+   "sha256": "21fda9c5ca09b53881311c4f60b8609493d28108bfd1699b8683df452e08bdf4",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/346/2.txt",
+   "sha256": "0f3cf30fd7e6fbb9bb41673dda94206dcaa201fa92ad57b9d785c55b9da97d92",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

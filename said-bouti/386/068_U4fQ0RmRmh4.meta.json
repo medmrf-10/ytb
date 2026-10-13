@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:U4fQ0RmRmh4",
+ "vid": "U4fQ0RmRmh4",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--386",
+ "n": 68,
+ "n_src": "read",
+ "title": "الحكم العطائية للعلامة البوطي ｜ الدرس 212 - الحكمة 189",
+ "title_src": "filename",
+ "sha256": "8fc178ac17a6adbe5054c924363c54d462862177bd5e0d82f9fae37a1b4df46c",
+ "nh": "1898e9fcae8fe6ac68b8a3ad5f10db4a2c2a0b462ec52713dea14b89351d0c34",
+ "chars": 19085,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/386/068_الحكم العطائية للعلامة البوطي ｜ الدرس 212 - الحكمة 189.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/386/068_الحكم العطائية للعلامة البوطي ｜ الدرس 212 - الحكمة 189.txt",
+   "sha256": "8fc178ac17a6adbe5054c924363c54d462862177bd5e0d82f9fae37a1b4df46c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/hikam/068_الحكم العطائية للعلامة البوطي ｜ الدرس 212 - الحكمة 189.txt",
+   "sha256": "8fc178ac17a6adbe5054c924363c54d462862177bd5e0d82f9fae37a1b4df46c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-386/068_الحكم العطائية للعلامة البوطي ｜ الدرس 212 - الحكمة 189.txt",
+   "sha256": "8fc178ac17a6adbe5054c924363c54d462862177bd5e0d82f9fae37a1b4df46c",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/386/209.txt",
+   "sha256": "8fc178ac17a6adbe5054c924363c54d462862177bd5e0d82f9fae37a1b4df46c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

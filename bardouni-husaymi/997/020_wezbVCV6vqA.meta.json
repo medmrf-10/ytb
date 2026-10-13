@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:wezbVCV6vqA",
+ "vid": "wezbVCV6vqA",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--997",
+ "n": 20,
+ "n_src": "read",
+ "title": "شرح الحكم ｜ دس20 ＂ طلبك منه اتهام له و طلبك له غيبة منك عنه ＂ ｜ الشيخ محمد ال",
+ "title_src": "filename",
+ "sha256": "f496c8428c707d2f060759ba41d5d384935badb994b2d4bacf717cf106e0903e",
+ "nh": "c919f603050cc8f968a77e1850be71f3e0936f823eb9792c462a13b1501e5006",
+ "chars": 9733,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/997/020_شرح الحكم ｜ دس20 ＂  طلبك منه اتهام له و طلبك له غيبة منك عنه   ＂ ｜ الشيخ محمد ال.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/997/020_شرح الحكم ｜ دس20 ＂  طلبك منه اتهام له و طلبك له غيبة منك عنه   ＂ ｜ الشيخ محمد ال.txt",
+   "sha256": "f496c8428c707d2f060759ba41d5d384935badb994b2d4bacf717cf106e0903e",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/hikam-azhar/4.txt",
+   "sha256": "f496c8428c707d2f060759ba41d5d384935badb994b2d4bacf717cf106e0903e",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/871/4.txt",
+   "sha256": "f496c8428c707d2f060759ba41d5d384935badb994b2d4bacf717cf106e0903e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "ali-gomaa--871",
+  "ali-gomaa--gomaa-hikam-azhar"
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:FQNDXu45jsM",
+ "vid": "FQNDXu45jsM",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--345",
+ "n": 20,
+ "n_src": "plpos",
+ "title": "20- مشاهد وعبر من القرآن والسنة | وددت إنا قد رأينا إخواننا",
+ "title_src": "yt_titles",
+ "sha256": "401d163019a571935d67936f426597bb074fe08f4de0b28451ea196d09caac1b",
+ "nh": "9551403c72e22efb45cacff0bc7c84face247c324d75daa07fca1016135c2f6e",
+ "chars": 13331,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/345/020_20- مشاهد وعبر من القرآن والسنة ｜ وددت إنا قد رأينا إخواننا.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/345/020_20- مشاهد وعبر من القرآن والسنة ｜ وددت إنا قد رأينا إخواننا.txt",
+   "sha256": "401d163019a571935d67936f426597bb074fe08f4de0b28451ea196d09caac1b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-mashahid/20.txt",
+   "sha256": "b7b869503feabf88afa5a613091205411fb609cfef7f2d738054dfd691ec0dbf",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/345/19.txt",
+   "sha256": "401d163019a571935d67936f426597bb074fe08f4de0b28451ea196d09caac1b",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

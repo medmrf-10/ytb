@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:93",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 93,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 33 ( باب في بيان صفة العمل في الصلوات المفروضة) ｜",
+ "title_src": "filename",
+ "sha256": "501de1ce35a4dc906fe796e30ccbf3cfbe230e2c9fbb3daa1f2a9fd095280122",
+ "nh": "5036de5e83aac43d2975731a1911910c71132070a4c7cfbb2f412392df0de938",
+ "chars": 24925,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/093_شرح رسالة ابن ابي زيد ｜ الدرس 33 ( باب في بيان صفة العمل في الصلوات المفروضة) ｜ .txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/093_شرح رسالة ابن ابي زيد ｜ الدرس 33 ( باب في بيان صفة العمل في الصلوات المفروضة) ｜ .txt",
+   "sha256": "501de1ce35a4dc906fe796e30ccbf3cfbe230e2c9fbb3daa1f2a9fd095280122",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/33.txt",
+   "sha256": "501de1ce35a4dc906fe796e30ccbf3cfbe230e2c9fbb3daa1f2a9fd095280122",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

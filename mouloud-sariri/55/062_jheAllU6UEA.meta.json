@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:jheAllU6UEA",
+ "vid": "jheAllU6UEA",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 62,
+ "n_src": "read",
+ "title": "خطب منبرية： أخطاء المصلين + خطورة السحر ｜ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "fb841d1d4e0af0e13e324cf6eed6513aeb4a2e7410eb58a2e72bcdecb231d063",
+ "nh": "94b699fb54b741b1fb9dd5f331a2035b0ca5be5a3c80a6ffea18da65478f42be",
+ "chars": 10388,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/062_خطب منبرية：  أخطاء المصلين + خطورة السحر ｜ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/062_خطب منبرية：  أخطاء المصلين + خطورة السحر ｜ الشيخ العلامة مولود السريري.txt",
+   "sha256": "fb841d1d4e0af0e13e324cf6eed6513aeb4a2e7410eb58a2e72bcdecb231d063",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/61.txt",
+   "sha256": "fb841d1d4e0af0e13e324cf6eed6513aeb4a2e7410eb58a2e72bcdecb231d063",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

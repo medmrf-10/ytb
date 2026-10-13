@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--1003:79",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--1003",
+ "n": 79,
+ "n_src": "read",
+ "title": "شرح رسالة ابن ابي زيد ｜ الدرس 47 ( باب في سجود القرآن ) ｜ الشيخ البردوني",
+ "title_src": "filename",
+ "sha256": "5add01008595381b7d0153288f9245bd16a9c741c90fbcb742776ec54eab8c09",
+ "nh": "134f945dcb0d4bcbbb455b80c4754df76f5095fd052a789764fbb6f889179563",
+ "chars": 16086,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/1003/079_شرح رسالة ابن ابي زيد ｜ الدرس 47 ( باب في سجود القرآن ) ｜ الشيخ البردوني.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/1003/079_شرح رسالة ابن ابي زيد ｜ الدرس 47 ( باب في سجود القرآن ) ｜ الشيخ البردوني.txt",
+   "sha256": "5add01008595381b7d0153288f9245bd16a9c741c90fbcb742776ec54eab8c09",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/1003/47.txt",
+   "sha256": "5add01008595381b7d0153288f9245bd16a9c741c90fbcb742776ec54eab8c09",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

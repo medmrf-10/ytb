@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:Dd-4NosRPYo",
+ "vid": "Dd-4NosRPYo",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--377",
+ "n": 17,
+ "n_src": "plpos",
+ "title": "11- كبرى اليقينيات الكونية | مصير الإرادة الإنسانية أمام إرادة الله جل جلاله",
+ "title_src": "yt_titles",
+ "sha256": "dbb7c6b3a6186f81566dd0cbe09f946a14b363edb12ffd3c6af3ef6799e2aa6b",
+ "nh": "946c33854a6a35022d303f60bd54e78db19a176f9ae7e5a77b166837a38d4bb3",
+ "chars": 20573,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/377/017_11- كبرى اليقينيات الكونية ｜ مصير الإرادة الإنسانية أمام إرادة الله جل جلاله.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/377/017_11- كبرى اليقينيات الكونية ｜ مصير الإرادة الإنسانية أمام إرادة الله جل جلاله.txt",
+   "sha256": "dbb7c6b3a6186f81566dd0cbe09f946a14b363edb12ffd3c6af3ef6799e2aa6b",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/kobraElya9inyat-017/transcript.txt",
+   "sha256": "758afcb7ba6796809100bbbfd790526025890124353e3b0cc368bc6a07dda031",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/17.txt",
+   "sha256": "758afcb7ba6796809100bbbfd790526025890124353e3b0cc368bc6a07dda031",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/377/16.txt",
+   "sha256": "dbb7c6b3a6186f81566dd0cbe09f946a14b363edb12ffd3c6af3ef6799e2aa6b",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

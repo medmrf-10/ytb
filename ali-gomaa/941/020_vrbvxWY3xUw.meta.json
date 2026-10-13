@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:vrbvxWY3xUw",
+ "vid": "vrbvxWY3xUw",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--941",
+ "n": 20,
+ "n_src": "read",
+ "title": "شرح الأربعين النووية ｜ حلقة 20 ｜ حديث 24 ｜ أ.د علي جمعة ｜",
+ "title_src": "filename",
+ "sha256": "68b151fbe61a41b4d1957ac9bf053f0f58d14f734526caa942e9ffd8e5a0e416",
+ "nh": "abc6d246ebc921be2489ae1ebbf2e3e6fd4177a81fade57263610faf86fe0ba8",
+ "chars": 3951,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/941/020_شرح الأربعين النووية ｜ حلقة 20 ｜ حديث 24 ｜ أ.د علي جمعة ｜ English Subtitle.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/941/020_شرح الأربعين النووية ｜ حلقة 20 ｜ حديث 24 ｜ أ.د علي جمعة ｜ English Subtitle.txt",
+   "sha256": "68b151fbe61a41b4d1957ac9bf053f0f58d14f734526caa942e9ffd8e5a0e416",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/ali-gomaa--941/020.txt",
+   "sha256": "68b151fbe61a41b4d1957ac9bf053f0f58d14f734526caa942e9ffd8e5a0e416",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

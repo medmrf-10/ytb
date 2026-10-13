@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "rn:habib-ali-aljifri--92:32",
+ "vid": null,
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--92",
+ "n": 32,
+ "n_src": "read",
+ "title": "26： ليلة القدر ｜ آمنت بالله ｜ الحبيب علي الجفري",
+ "title_src": "filename",
+ "sha256": "4ddfdb8e3347bb4f9c731d4a333d2651fa389b031a15d3b1270766ab0aefb07b",
+ "nh": "9a0b17b0e4646f71273232f230ced2a5f5716f2ebfa172d641c9c754b928ed6d",
+ "chars": 17133,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/92/032_26： ليلة القدر ｜ آمنت بالله ｜ الحبيب علي الجفري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/92/032_26： ليلة القدر ｜ آمنت بالله ｜ الحبيب علي الجفري.txt",
+   "sha256": "4ddfdb8e3347bb4f9c731d4a333d2651fa389b031a15d3b1270766ab0aefb07b",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/92/19.txt",
+   "sha256": "4ddfdb8e3347bb4f9c731d4a333d2651fa389b031a15d3b1270766ab0aefb07b",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

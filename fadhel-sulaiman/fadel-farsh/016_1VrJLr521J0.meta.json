@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:1VrJLr521J0",
+ "vid": "1VrJLr521J0",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-farsh",
+ "n": 16,
+ "n_src": "trfile",
+ "title": "تدبر فرش القراءات-الحلقة 16 -قل لو شاء اللَّهُ ما تلوتُهُ عَليكم ولا أَدْرَاكُمْ بهِ -  #فاضل_سليمان",
+ "title_src": "yt_titles",
+ "sha256": "9d76097893cca83e92f1389b7c53e5c47e8fcb88d8406673966a8c49665f4e84",
+ "nh": "524ae2264090981043e8737967a1e75ea5c15054e63cfd871f01d9ba8b35d976",
+ "chars": 13153,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelFarsh-016/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelFarsh-016/transcript.txt",
+   "sha256": "9d76097893cca83e92f1389b7c53e5c47e8fcb88d8406673966a8c49665f4e84",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-farsh/016.txt",
+   "sha256": "9d76097893cca83e92f1389b7c53e5c47e8fcb88d8406673966a8c49665f4e84",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

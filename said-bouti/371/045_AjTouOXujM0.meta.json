@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:AjTouOXujM0",
+ "vid": "AjTouOXujM0",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--371",
+ "n": 45,
+ "n_src": "plpos",
+ "title": "45- علوم القرآن الكريم | دراسات تطبيقية في الوصف (لِيُنذِرَ يَوْمَ التَّلاقِ..)",
+ "title_src": "yt_titles",
+ "sha256": "4606df627c89316b521c13a02264de18f66c0099fe1ab37f089c758bd577b2ca",
+ "nh": "5d24d0bcd2ea701feaefdc8f9d04da28821dde7b21e411d3c8c766f87f4ccd18",
+ "chars": 18012,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/371/045_45- علوم القرآن الكريم ｜ دراسات تطبيقية في الوصف (لِيُنذِرَ يَوْمَ التَّلاقِ..).txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/371/045_45- علوم القرآن الكريم ｜ دراسات تطبيقية في الوصف (لِيُنذِرَ يَوْمَ التَّلاقِ..).txt",
+   "sha256": "4606df627c89316b521c13a02264de18f66c0099fe1ab37f089c758bd577b2ca",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/3oloumEl9or1n-045/transcript.txt",
+   "sha256": "06d58d05ceafdb24d98dd3824d52557f77e8e8b6edba2e4186d97aa82713a308",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-ulum-quran/45.txt",
+   "sha256": "06d58d05ceafdb24d98dd3824d52557f77e8e8b6edba2e4186d97aa82713a308",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

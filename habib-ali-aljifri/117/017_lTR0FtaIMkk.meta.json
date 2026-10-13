@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:lTR0FtaIMkk",
+ "vid": "lTR0FtaIMkk",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--117",
+ "n": 17,
+ "n_src": "read",
+ "title": "حلقة 17 - من هو الكافر - سلسلة حلقات الإنسانية قبل التدين",
+ "title_src": "filename",
+ "sha256": "a6619073b36c06185ff98afda8537b7a37aa9592fda36555a64d5bd962637971",
+ "nh": "c19932d84293bd18f3ad26d5ccb1b9a9daf8281fe9569375d05dc79c338f37d1",
+ "chars": 1992,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/117/017_حلقة 17 - من هو الكافر - سلسلة حلقات الإنسانية قبل التدين.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/117/017_حلقة 17 - من هو الكافر - سلسلة حلقات الإنسانية قبل التدين.txt",
+   "sha256": "a6619073b36c06185ff98afda8537b7a37aa9592fda36555a64d5bd962637971",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/insaniyya/29.txt",
+   "sha256": "a6619073b36c06185ff98afda8537b7a37aa9592fda36555a64d5bd962637971",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/112/29.txt",
+   "sha256": "a6619073b36c06185ff98afda8537b7a37aa9592fda36555a64d5bd962637971",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-ali-aljifri--112",
+  "k:117"
+ ]
+}

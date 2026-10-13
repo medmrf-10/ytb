@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:P2PJ4-5XaQc",
+ "vid": "P2PJ4-5XaQc",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--117",
+ "n": 3,
+ "n_src": "read",
+ "title": "حلقة 3- هل يفهم الشباب أنفسهم - سلسلة الإنسانية قبل التدين",
+ "title_src": "filename",
+ "sha256": "4f769c2eb4d7081b134b3acc10da6be8d02ca014605ef99fb9e279631db505a5",
+ "nh": "0c90f309c5c8e23643d0651fc2286e9f8bf56a879435748c9632a7da73826712",
+ "chars": 1710,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/117/003_حلقة 3- هل يفهم الشباب أنفسهم - سلسلة الإنسانية قبل التدين.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/117/003_حلقة 3- هل يفهم الشباب أنفسهم - سلسلة الإنسانية قبل التدين.txt",
+   "sha256": "4f769c2eb4d7081b134b3acc10da6be8d02ca014605ef99fb9e279631db505a5",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/insaniyya/15.txt",
+   "sha256": "4f769c2eb4d7081b134b3acc10da6be8d02ca014605ef99fb9e279631db505a5",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/112/15.txt",
+   "sha256": "4f769c2eb4d7081b134b3acc10da6be8d02ca014605ef99fb9e279631db505a5",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-ali-aljifri--112",
+  "k:117"
+ ]
+}

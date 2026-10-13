@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:SDKxFLBLGrc",
+ "vid": "SDKxFLBLGrc",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--661",
+ "n": 38,
+ "n_src": "mutfile",
+ "title": "خير القرون 37 ｜ كيف ننظر إلى الفتنة التي جرت بين الصحابة ؟ ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "cec4c119ca4b4e4b6292375ef1440872d2d0364823676ae5bd9388aa5d8a74fd",
+ "nh": "a62db2c1eaacce186ecafb945c8b797cbadff9332390f7ab8dc04ae8a63363eb",
+ "chars": 52048,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/661/038_خير القرون 37 ｜ كيف ننظر إلى الفتنة التي جرت بين الصحابة ؟ ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/661/038_خير القرون 37 ｜ كيف ننظر إلى الفتنة التي جرت بين الصحابة ؟ ｜ أحمد السيد.txt",
+   "sha256": "cec4c119ca4b4e4b6292375ef1440872d2d0364823676ae5bd9388aa5d8a74fd",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-661/038.txt",
+   "sha256": "5297610b891505c6d78fbc9668d9be759e1b38a2fc300c7d2a2c670c37031c54",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

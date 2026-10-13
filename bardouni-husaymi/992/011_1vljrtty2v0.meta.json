@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:1vljrtty2v0",
+ "vid": "1vljrtty2v0",
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--992",
+ "n": 11,
+ "n_src": "read",
+ "title": "شرح الرسالة العضدية ｜ الدرس 11 (قوله ＂ اللفظ قد يوضع لشخص بعينه-تتمة-＂ ) ｜ الشيخ",
+ "title_src": "filename",
+ "sha256": "7b16e554ec1c0f04ffd9a2415ddd236c54f4188b4ab7cb3874c5f80e433882c5",
+ "nh": "bbe8a6935f06a997dcbad5be37911a72235bcd3e5fb7f67c2e4e13eff18c518a",
+ "chars": 11010,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/992/011_شرح الرسالة العضدية ｜ الدرس 11 (قوله ＂ اللفظ قد يوضع لشخص بعينه-تتمة-＂ ) ｜ الشيخ.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/992/011_شرح الرسالة العضدية ｜ الدرس 11 (قوله ＂ اللفظ قد يوضع لشخص بعينه-تتمة-＂ ) ｜ الشيخ.txt",
+   "sha256": "7b16e554ec1c0f04ffd9a2415ddd236c54f4188b4ab7cb3874c5f80e433882c5",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/sariri/risala-adudiyya/20.txt",
+   "sha256": "7b16e554ec1c0f04ffd9a2415ddd236c54f4188b4ab7cb3874c5f80e433882c5",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/36/20.txt",
+   "sha256": "7b16e554ec1c0f04ffd9a2415ddd236c54f4188b4ab7cb3874c5f80e433882c5",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "mouloud-sariri--36",
+  "mouloud-sariri--sariri-risala-adudiyya"
+ ]
+}

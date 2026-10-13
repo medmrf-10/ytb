@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:jvU7V3sd-ws",
+ "vid": "jvU7V3sd-ws",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--122",
+ "n": 4,
+ "n_src": "read",
+ "title": "قبس النور المبين من احياء علوم الدين 4 الحبيب علي الجفري",
+ "title_src": "filename",
+ "sha256": "1f608cc796e6251c37b5fcd33693493c791c5539790bcd19f203787832187f8f",
+ "nh": "afcbea814523c490bd4114620226b4b42bad6603342eb288bf3bcbdc05c79773",
+ "chars": 14554,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/122/004_قبس النور المبين من احياء علوم الدين 4 الحبيب علي الجفري.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/122/004_قبس النور المبين من احياء علوم الدين 4 الحبيب علي الجفري.txt",
+   "sha256": "1f608cc796e6251c37b5fcd33693493c791c5539790bcd19f203787832187f8f",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/122/3.txt",
+   "sha256": "1f608cc796e6251c37b5fcd33693493c791c5539790bcd19f203787832187f8f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

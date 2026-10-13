@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:YQInmcOGnSE",
+ "vid": "YQInmcOGnSE",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--779",
+ "n": 3,
+ "n_src": "read",
+ "title": "(3) الخبر والإنشاء ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "6a931f3f174c990a7b37aab253c2cbf9d0562a07fa7345ec37cbe4b9dc569af1",
+ "nh": "dfbcd49457cb95f431f8633e551d9038b04bb06957a17102db751dbc09d555f3",
+ "chars": 20257,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/779/003_(3) الخبر والإنشاء ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/779/003_(3) الخبر والإنشاء ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "6a931f3f174c990a7b37aab253c2cbf9d0562a07fa7345ec37cbe4b9dc569af1",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/779/2.txt",
+   "sha256": "6a931f3f174c990a7b37aab253c2cbf9d0562a07fa7345ec37cbe4b9dc569af1",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:wLUaMp5XzQU",
+ "vid": "wLUaMp5XzQU",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-nasafiyya",
+ "n": 7,
+ "n_src": "trfile",
+ "title": "الدرس 7",
+ "title_src": "filename",
+ "sha256": "884307228a9e44a1e583305780bb058678306065679065e948063c7081e389ce",
+ "nh": "35fb48de02350937c7683e9c8cdd9263e1544cfa5eeac783d368f95bb2450937",
+ "chars": 34026,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriNasafiyya-007/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriNasafiyya-007/transcript.txt",
+   "sha256": "884307228a9e44a1e583305780bb058678306065679065e948063c7081e389ce",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/nasafiyya/nasafiyya-07_AlAmri.txt",
+   "sha256": "884307228a9e44a1e583305780bb058678306065679065e948063c7081e389ce",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-nasafiyya/07.txt",
+   "sha256": "884307228a9e44a1e583305780bb058678306065679065e948063c7081e389ce",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

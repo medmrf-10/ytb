@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:uoRUGVKyQUo",
+ "vid": "uoRUGVKyQUo",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 47,
+ "n_src": "read",
+ "title": "أسباب الشقاء في الدنيا ｜ الشيخ العلامة مولود السريريـ خطبة اليوم ـ",
+ "title_src": "filename",
+ "sha256": "b7a0c52e27905ffc8a66144a4409e83229e15f4a625900ac855d9f0cdfc55aa2",
+ "nh": "fa0ba61cd6d8f59d990308feb01b63a31a6ab40a7ee31c64ef90c1be61685f42",
+ "chars": 11026,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/047_أسباب الشقاء في الدنيا  ｜ الشيخ العلامة مولود السريريـ خطبة اليوم ـ.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/047_أسباب الشقاء في الدنيا  ｜ الشيخ العلامة مولود السريريـ خطبة اليوم ـ.txt",
+   "sha256": "b7a0c52e27905ffc8a66144a4409e83229e15f4a625900ac855d9f0cdfc55aa2",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/46.txt",
+   "sha256": "b7a0c52e27905ffc8a66144a4409e83229e15f4a625900ac855d9f0cdfc55aa2",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

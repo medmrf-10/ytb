@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:mqHBgQk3eWw",
+ "vid": "mqHBgQk3eWw",
+ "sheikh": "mouloud-sariri",
+ "row_id": "mouloud-sariri--55",
+ "n": 25,
+ "n_src": "read",
+ "title": "خطب منبرية ： ＂ مقام الصبر عند البلاء ＂ ⧸ الشيخ العلامة مولود السريري",
+ "title_src": "filename",
+ "sha256": "4e2d00d5702fba871c0c500c989a572cc5658e8747aa856c49798f5e051606ea",
+ "nh": "26c5a48b6d08897f7c71adbf536e25b9379084582ce947c71d210cf816447ac0",
+ "chars": 14261,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/55/025_خطب منبرية ： ＂ مقام الصبر عند البلاء ＂ ⧸ الشيخ العلامة مولود السريري.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/55/025_خطب منبرية ： ＂ مقام الصبر عند البلاء ＂ ⧸ الشيخ العلامة مولود السريري.txt",
+   "sha256": "4e2d00d5702fba871c0c500c989a572cc5658e8747aa856c49798f5e051606ea",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/55/24.txt",
+   "sha256": "4e2d00d5702fba871c0c500c989a572cc5658e8747aa856c49798f5e051606ea",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,57 @@
+{
+ "v": 1,
+ "lid": "yt:1ARoi9n6vPg",
+ "vid": "1ARoi9n6vPg",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--371",
+ "n": 17,
+ "n_src": "plpos",
+ "title": "17- علوم القرآن الكريم | مظاهر الإعجاز البلاغي : الجملة القرآنية",
+ "title_src": "yt_titles",
+ "sha256": "dcdae0007189ce2d4a9c865af9b16bcfcbcae0f57f6adac59a3fcc4019111146",
+ "nh": "cecea318f7892b41ba5a8c9b5548760993aede57d734c53079148196a6ba2cd0",
+ "chars": 18783,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/371/017_17- علوم القرآن الكريم ｜ مظاهر الإعجاز البلاغي ： الجملة القرآنية.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/371/017_17- علوم القرآن الكريم ｜ مظاهر الإعجاز البلاغي ： الجملة القرآنية.txt",
+   "sha256": "dcdae0007189ce2d4a9c865af9b16bcfcbcae0f57f6adac59a3fcc4019111146",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/3oloumEl9or1n-017/transcript.txt",
+   "sha256": "21b1995bb7dd19f55dad0cf6ec4122a5ebd5ba21768b47ca041abe96342c70bf",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/muqtatafat-ulum/16.txt",
+   "sha256": "dcdae0007189ce2d4a9c865af9b16bcfcbcae0f57f6adac59a3fcc4019111146",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-ulum-quran/17.txt",
+   "sha256": "21b1995bb7dd19f55dad0cf6ec4122a5ebd5ba21768b47ca041abe96342c70bf",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/355/16.txt",
+   "sha256": "dcdae0007189ce2d4a9c865af9b16bcfcbcae0f57f6adac59a3fcc4019111146",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "said-bouti--bouti-muqtatafat-ulum"
+ ]
+}

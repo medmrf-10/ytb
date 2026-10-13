@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:NFCV9p71SZY",
+ "vid": "NFCV9p71SZY",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 17,
+ "n_src": "plpos",
+ "title": "المتشددون | حـ 17 | سيد قطب ماله وما عليه جـ 4 | أ.د علي جمعة",
+ "title_src": "yt_titles",
+ "sha256": "6caa8349c73016ca7f671feda3987cf79213250c4301c187abf916da9c93e029",
+ "nh": "9950daca6d356a7effd742ffbe684e0c5cb4672a3736d65799bb40bcf9fe5146",
+ "chars": 14272,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/822/017_المتشددون ｜ حـ 17 ｜ سيد قطب ماله وما عليه جـ 4 ｜ أ.د علي جمعة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/822/017_المتشددون ｜ حـ 17 ｜ سيد قطب ماله وما عليه جـ 4 ｜ أ.د علي جمعة.txt",
+   "sha256": "6caa8349c73016ca7f671feda3987cf79213250c4301c187abf916da9c93e029",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/017_المتشددون ｜ حـ 17 ｜ سيد قطب ماله وما عليه جـ 4 ｜ أ.د علي جمعة.txt",
+   "sha256": "6caa8349c73016ca7f671feda3987cf79213250c4301c187abf916da9c93e029",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/017.txt",
+   "sha256": "c352911a7a6e850720a7cf0923fa486c2c5e48327f38f9b312586e17df62a99a",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

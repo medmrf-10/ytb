@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:NQqj1LYO2V8",
+ "vid": "NQqj1LYO2V8",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 197,
+ "n_src": "plpos|renumbered",
+ "title": "#حديث_الجمعة | مقاصد المكلفين فيما يتعبد به لرب العالمين",
+ "title_src": "yt_titles",
+ "sha256": "cab64fafb1c5ed1ed35327ff24a88ac1e7b7fcf03935e61b648331d466326294",
+ "nh": "3cca0744b263d847dfd4392e2039b085ae530d1686985d4f2a7ecba9723b1ce2",
+ "chars": 9131,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/gomaa/mut-822/109_#حديث_الجمعة ｜ مقاصد المكلفين فيما يتعبد به لرب العالمين.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/109_#حديث_الجمعة ｜ مقاصد المكلفين فيما يتعبد به لرب العالمين.txt",
+   "sha256": "cab64fafb1c5ed1ed35327ff24a88ac1e7b7fcf03935e61b648331d466326294",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/109.txt",
+   "sha256": "8ad0808383bd81a7b3fe64138cdc4d9b6c245c7f10a57d8023be636e9d1dec55",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

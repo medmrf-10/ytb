@@ -1,0 +1,57 @@
+{
+ "v": 1,
+ "lid": "yt:tCgMC2BxmZQ",
+ "vid": "tCgMC2BxmZQ",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--371",
+ "n": 19,
+ "n_src": "plpos",
+ "title": "19- علوم القرآن الكريم | الإعجاز بالغيبيات",
+ "title_src": "yt_titles",
+ "sha256": "7b65d48ff9ee148eb309d9e561497ec4f42c369e38ea6ce6fe689f26eeab6142",
+ "nh": "41ce639bfbde10613929664a93db0d420374a90957b7a6b73e4ea903115ac355",
+ "chars": 22119,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/371/019_19- علوم القرآن الكريم ｜ الإعجاز بالغيبيات.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/371/019_19- علوم القرآن الكريم ｜ الإعجاز بالغيبيات.txt",
+   "sha256": "7b65d48ff9ee148eb309d9e561497ec4f42c369e38ea6ce6fe689f26eeab6142",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/3oloumEl9or1n-019/transcript.txt",
+   "sha256": "32a4e9264ff4e4366cce779bf9524bc1de42a241b7dcc683b973d3fd805ae6ee",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/muqtatafat-ulum/18.txt",
+   "sha256": "7b65d48ff9ee148eb309d9e561497ec4f42c369e38ea6ce6fe689f26eeab6142",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-ulum-quran/19.txt",
+   "sha256": "32a4e9264ff4e4366cce779bf9524bc1de42a241b7dcc683b973d3fd805ae6ee",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/355/18.txt",
+   "sha256": "7b65d48ff9ee148eb309d9e561497ec4f42c369e38ea6ce6fe689f26eeab6142",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "said-bouti--bouti-muqtatafat-ulum"
+ ]
+}

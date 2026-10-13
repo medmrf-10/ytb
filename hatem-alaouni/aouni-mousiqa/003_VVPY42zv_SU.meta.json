@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:VVPY42zv_SU",
+ "vid": "VVPY42zv_SU",
+ "sheikh": "hatem-alaouni",
+ "row_id": "hatem-alaouni--aouni-mousiqa",
+ "n": 3,
+ "n_src": "trfile",
+ "title": "مناقشة دعوى الإجماع في تحريم المعازف الغناء  الجزء الأول من المناقشة | أ.د الشريف حاتم العوني",
+ "title_src": "yt_titles",
+ "sha256": "4b590b12b0c79c77af10884642e45e3965591fcb7bce97459b6b9d2489a9ad61",
+ "nh": "7d689d91454df14de931cb25fcfd661b7840319a5af54c52decabc3b33bd0671",
+ "chars": 15869,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/aouniMousiqa-003/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/aouniMousiqa-003/transcript.txt",
+   "sha256": "4b590b12b0c79c77af10884642e45e3965591fcb7bce97459b6b9d2489a9ad61",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/aouni/mousiqa/003_VVPY42zv_SU.txt",
+   "sha256": "4b590b12b0c79c77af10884642e45e3965591fcb7bce97459b6b9d2489a9ad61",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/aouni-mousiqa/003.txt",
+   "sha256": "4b590b12b0c79c77af10884642e45e3965591fcb7bce97459b6b9d2489a9ad61",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

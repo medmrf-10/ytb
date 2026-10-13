@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:vQxIy3du5No",
+ "vid": "vQxIy3du5No",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-juz30",
+ "n": 41,
+ "n_src": "trfile",
+ "title": "فيديو # ٦٥٦ من مقاطع حظر التجول   تدبر سورة الكافرون",
+ "title_src": "yt_titles",
+ "sha256": "eab24342d48d3b18af6ea1bfb08e257d07ff876ff823502b94c5074cb5e6c5b3",
+ "nh": "2a38f66763795c25f4216a2f196954a42da46b84a285a9276e8cc2bb093ed26b",
+ "chars": 16362,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelJuz30-041/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelJuz30-041/transcript.txt",
+   "sha256": "eab24342d48d3b18af6ea1bfb08e257d07ff876ff823502b94c5074cb5e6c5b3",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-juz30/041.txt",
+   "sha256": "eab24342d48d3b18af6ea1bfb08e257d07ff876ff823502b94c5074cb5e6c5b3",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

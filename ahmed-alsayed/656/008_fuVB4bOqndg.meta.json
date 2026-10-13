@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:fuVB4bOqndg",
+ "vid": "fuVB4bOqndg",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--656",
+ "n": 8,
+ "n_src": "mutfile",
+ "title": "رياض الصالحين 08 ｜ باب الصبر 3 ｜ أنوار السنة المحمدية ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "cbab98c81a7b65c0aa48b7d23782f6bb176db9e998826a6a407765a14ac1aff3",
+ "nh": "169f65be5e46941d9e898ea597200fe25e9ed464af5887982a6618a01f835813",
+ "chars": 40681,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/656/008_رياض الصالحين 08 ｜ باب الصبر 3 ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/656/008_رياض الصالحين 08 ｜ باب الصبر 3 ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+   "sha256": "cbab98c81a7b65c0aa48b7d23782f6bb176db9e998826a6a407765a14ac1aff3",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/riyadElsali7in-008/transcript.txt",
+   "sha256": "3dbfba401e74bc94c93349009524d1a07361774f32e2260ceb8c1c2a42dc5eda",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-656/008.txt",
+   "sha256": "3dbfba401e74bc94c93349009524d1a07361774f32e2260ceb8c1c2a42dc5eda",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

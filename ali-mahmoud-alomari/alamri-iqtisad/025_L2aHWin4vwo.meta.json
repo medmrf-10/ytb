@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:L2aHWin4vwo",
+ "vid": "L2aHWin4vwo",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+ "n": 25,
+ "n_src": "trfile",
+ "title": "الدَّرس الخامس والعشرون_ القطب الثَّاني _ حلُّ إعتراضات على مسألة صفة الكلام",
+ "title_src": "yt_titles",
+ "sha256": "1b3d85c0639a30abf4d649f0412e71a2851346240d0172c6de4ae25f34c27b1d",
+ "nh": "1d125c2743bbcd801c51baffe1f63853ce7ea79f3f2b35a5d082e9a6a0ebcca8",
+ "chars": 39844,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriIqtisad-025/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriIqtisad-025/transcript.txt",
+   "sha256": "1b3d85c0639a30abf4d649f0412e71a2851346240d0172c6de4ae25f34c27b1d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-25_AlAmri.txt",
+   "sha256": "1b3d85c0639a30abf4d649f0412e71a2851346240d0172c6de4ae25f34c27b1d",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-iqtisad/25.txt",
+   "sha256": "1b3d85c0639a30abf4d649f0412e71a2851346240d0172c6de4ae25f34c27b1d",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

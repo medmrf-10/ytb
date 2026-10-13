@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:lBnvQ7MtbKU",
+ "vid": "lBnvQ7MtbKU",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--775",
+ "n": 16,
+ "n_src": "read",
+ "title": "(16) المعلق ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "c2f4e12a99f5ba1450cf9d48a6e7e393c31f7e8727c4b5c341ac884640d136a5",
+ "nh": "09233fd5911e770beca81443415522a4dd6eec30ef8fd8ebf23e13ad1951ffc7",
+ "chars": 21174,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/775/016_(16) المعلق ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/775/016_(16) المعلق ⧸ كتاب نزهة النظر شرح نخبة الفكر ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "c2f4e12a99f5ba1450cf9d48a6e7e393c31f7e8727c4b5c341ac884640d136a5",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/775/15.txt",
+   "sha256": "c2f4e12a99f5ba1450cf9d48a6e7e393c31f7e8727c4b5c341ac884640d136a5",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

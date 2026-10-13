@@ -1,0 +1,46 @@
+{
+ "v": 1,
+ "lid": "yt:Katn70bfMCg",
+ "vid": "Katn70bfMCg",
+ "sheikh": "habib-ali-aljifri",
+ "row_id": "habib-ali-aljifri--117",
+ "n": 14,
+ "n_src": "read",
+ "title": "حلقة 14 - مسؤولية كل جيل عن تربية الجيل التالي - سلسلة الإنسانية قبل التدين",
+ "title_src": "filename",
+ "sha256": "d48540ada7adf7022de23a9c7316aebb0328be5a51872ada41ee65dd8d2e2bb2",
+ "nh": "9cff5332f912f26fab377259760defdb8ac248f4046273171373e82f26597878",
+ "chars": 1905,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/117/014_حلقة 14 - مسؤولية كل جيل عن تربية الجيل التالي - سلسلة الإنسانية قبل التدين.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/117/014_حلقة 14 - مسؤولية كل جيل عن تربية الجيل التالي - سلسلة الإنسانية قبل التدين.txt",
+   "sha256": "d48540ada7adf7022de23a9c7316aebb0328be5a51872ada41ee65dd8d2e2bb2",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/jifri/insaniyya/26.txt",
+   "sha256": "d48540ada7adf7022de23a9c7316aebb0328be5a51872ada41ee65dd8d2e2bb2",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/112/26.txt",
+   "sha256": "d48540ada7adf7022de23a9c7316aebb0328be5a51872ada41ee65dd8d2e2bb2",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "habib-ali-aljifri--112",
+  "k:117"
+ ]
+}

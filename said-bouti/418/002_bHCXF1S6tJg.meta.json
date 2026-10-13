@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:bHCXF1S6tJg",
+ "vid": "bHCXF1S6tJg",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--418",
+ "n": 2,
+ "n_src": "plpos",
+ "title": "2- الحب في القرآن | هل يستطيع الإنسان أن يعلم مدى محبة الله عز وجل له في الحياة الدنيا؟",
+ "title_src": "yt_titles",
+ "sha256": "64d22f74c7566c25d1c0748f55fe61a4eab218efdad2270f43b969746aae16e3",
+ "nh": "9874295c9b8ef23ad55350dcb8e26ffbde961e275e20cdc3d62d0531b4a1aa8f",
+ "chars": 23042,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/418/002_2- الحب في القرآن ｜ هل يستطيع الإنسان أن يعلم مدى محبة الله عز وجل له في الحياة .txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/418/002_2- الحب في القرآن ｜ هل يستطيع الإنسان أن يعلم مدى محبة الله عز وجل له في الحياة .txt",
+   "sha256": "64d22f74c7566c25d1c0748f55fe61a4eab218efdad2270f43b969746aae16e3",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/al7obFiEl9or1n-002/transcript.txt",
+   "sha256": "38b5cabf42539ac3b1123880fbbf6b70f8aa95665c943f3eb073b6d53532bb53",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-hubb/02.txt",
+   "sha256": "38b5cabf42539ac3b1123880fbbf6b70f8aa95665c943f3eb073b6d53532bb53",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

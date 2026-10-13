@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:cjpf6QQfBVk",
+ "vid": "cjpf6QQfBVk",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--353",
+ "n": 2,
+ "n_src": "mutfile",
+ "title": "1 - الآداب الاجتماعية في القرآن الكريم آداب الطريق",
+ "title_src": "filename",
+ "sha256": "30442f66745f2846fb51201739238ed6a107125d186d9b366ce83dc9bfa84379",
+ "nh": "db4174ae26e250640a4710e4fdf11baec2f3812b6e9c266ac11c475dfa6c04c3",
+ "chars": 7106,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/353/002_1 - الآداب الاجتماعية في القرآن الكريم  آداب الطريق.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/353/002_1 - الآداب الاجتماعية في القرآن الكريم  آداب الطريق.txt",
+   "sha256": "30442f66745f2846fb51201739238ed6a107125d186d9b366ce83dc9bfa84379",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/rihab/002_1 - الآداب الاجتماعية في القرآن الكريم  آداب الطريق.txt",
+   "sha256": "30442f66745f2846fb51201739238ed6a107125d186d9b366ce83dc9bfa84379",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/mut-353/002_1 - الآداب الاجتماعية في القرآن الكريم  آداب الطريق.txt",
+   "sha256": "30442f66745f2846fb51201739238ed6a107125d186d9b366ce83dc9bfa84379",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-353/002.txt",
+   "sha256": "e7d8cd5d2a097f2e12eab89ad4ad775da82c5b734064eb95ed1143e7dd764663",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

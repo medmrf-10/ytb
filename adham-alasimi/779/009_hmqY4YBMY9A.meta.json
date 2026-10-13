@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:hmqY4YBMY9A",
+ "vid": "hmqY4YBMY9A",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--779",
+ "n": 9,
+ "n_src": "read",
+ "title": "(9) الإطلاق والتقييد ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "2c72514c56b487805c7d923bd58ca262779d832e4568c475f6e87a5c677800c5",
+ "nh": "ee67be6709eaca880a4113e6cbfad21ac8297aa6572fa6cbc87d4448edd71246",
+ "chars": 16759,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/779/009_(9) الإطلاق والتقييد ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/779/009_(9) الإطلاق والتقييد ⧸ دروس البلاغة ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "2c72514c56b487805c7d923bd58ca262779d832e4568c475f6e87a5c677800c5",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/779/8.txt",
+   "sha256": "2c72514c56b487805c7d923bd58ca262779d832e4568c475f6e87a5c677800c5",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

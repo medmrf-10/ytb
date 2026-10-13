@@ -1,0 +1,49 @@
+{
+ "v": 1,
+ "lid": "yt:_j3L5nqwMnw",
+ "vid": "_j3L5nqwMnw",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--379",
+ "n": 10,
+ "n_src": "plpos",
+ "title": "10- تاريخ التشريع الإسلامي | مدرسة الحديث في الحجاز ومدرسة الرأي في العراق",
+ "title_src": "yt_titles",
+ "sha256": "a1bbd2b94596c7361224c10e4aaa923fce1f7d9da9ec97b30b0cca2076e15a53",
+ "nh": "aadeabcdfd375cfcc1da8a7f814a672aa87de9ab06370bad640155e31ef72cf4",
+ "chars": 23356,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/379/010_10- تاريخ التشريع الإسلامي ｜ مدرسة الحديث في الحجاز ومدرسة الرأي في العراق.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/379/010_10- تاريخ التشريع الإسلامي ｜ مدرسة الحديث في الحجاز ومدرسة الرأي في العراق.txt",
+   "sha256": "a1bbd2b94596c7361224c10e4aaa923fce1f7d9da9ec97b30b0cca2076e15a53",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/tari5Eltachri3-010/transcript.txt",
+   "sha256": "a78f87e7cad65362ed3081f6cb4d40242cf30fbdce0ca3c46ebdb0ed03de739b",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/bouti-tarikh/10.txt",
+   "sha256": "a78f87e7cad65362ed3081f6cb4d40242cf30fbdce0ca3c46ebdb0ed03de739b",
+   "rel": "same-body"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/379/9.txt",
+   "sha256": "a1bbd2b94596c7361224c10e4aaa923fce1f7d9da9ec97b30b0cca2076e15a53",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

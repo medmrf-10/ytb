@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:IYpvIDKcaRU",
+ "vid": "IYpvIDKcaRU",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-farsh",
+ "n": 26,
+ "n_src": "trfile",
+ "title": "تدبر فرش القراءات-الحلقة 26 - ولا يحسَبَنَّ الذينَ قُتِّلُوا في سبيلِ اللَّهِ أمواتا -  #فاضل_سليمان",
+ "title_src": "yt_titles",
+ "sha256": "515e3267983e95ec2b33275d71a3e3c23a73a7be34a817cb94124eb59e3ac55c",
+ "nh": "169c9ee86e9bc7e701bec78b2895b0144e811430497dc714fc29778578d74366",
+ "chars": 11183,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelFarsh-026/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelFarsh-026/transcript.txt",
+   "sha256": "515e3267983e95ec2b33275d71a3e3c23a73a7be34a817cb94124eb59e3ac55c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-farsh/026.txt",
+   "sha256": "515e3267983e95ec2b33275d71a3e3c23a73a7be34a817cb94124eb59e3ac55c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

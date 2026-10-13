@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:mY4yQSX4gN0",
+ "vid": "mY4yQSX4gN0",
+ "sheikh": "bensaib",
+ "row_id": "bensaib--binsayib-akhadari",
+ "n": 5,
+ "n_src": "read",
+ "title": "الدرس (5) :سنن الوضوء",
+ "title_src": "yt_titles",
+ "sha256": "c67a84dd0fbffd79d8dd68b975af6b27a60a0c13991a032851b54c68cf54f07b",
+ "nh": "a8176e18ab7a781628f61cb46995fcfb67dbfebb7902c3122fda57d6851796ec",
+ "chars": 30936,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/binsayib/akhadari/NA_mY4yQSX4gN0.txt",
+  "commit_ts": 1791587745,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/binsayib/akhadari/NA_mY4yQSX4gN0.txt",
+   "sha256": "c67a84dd0fbffd79d8dd68b975af6b27a60a0c13991a032851b54c68cf54f07b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/binsayib-akhadari/005.txt",
+   "sha256": "c67a84dd0fbffd79d8dd68b975af6b27a60a0c13991a032851b54c68cf54f07b",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

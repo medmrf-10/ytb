@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:F1hgM_zEezY",
+ "vid": "F1hgM_zEezY",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--661",
+ "n": 39,
+ "n_src": "mutfile",
+ "title": "خير القرون 38 ｜ المصادر الصحيحة لدراسة تاريخ الصحابة ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "dd45c8604ce34005124f0edd392b0cb9bbb75418b041fbf42e5aaaaeacadc235",
+ "nh": "b48d0ce870fc5300a17bb64818481675af6f7fda47fee4f8883307e1ba8043c4",
+ "chars": 33425,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/661/039_خير القرون 38 ｜ المصادر الصحيحة لدراسة تاريخ الصحابة ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/661/039_خير القرون 38 ｜ المصادر الصحيحة لدراسة تاريخ الصحابة ｜ أحمد السيد.txt",
+   "sha256": "dd45c8604ce34005124f0edd392b0cb9bbb75418b041fbf42e5aaaaeacadc235",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-661/039.txt",
+   "sha256": "016441cfc125a55fd5417902094a20c0e34ffaabb80c9bdc34bfeca99a5604fa",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

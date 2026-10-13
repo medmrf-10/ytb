@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:fUzzlyXg9_Y",
+ "vid": "fUzzlyXg9_Y",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-barahin-kitab",
+ "n": 10,
+ "n_src": "trfile",
+ "title": "الدرس العاشر كتاب أم البراهين",
+ "title_src": "yt_titles",
+ "sha256": "d7648a76e11fa34e60b8e81db2dcca051e162c7b68cac76c78183b756992636e",
+ "nh": "9ffc8499fc991c12d581613fde1f52b1f2a3f6f209efcb35766ff0083eec32c7",
+ "chars": 36791,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriBarahinKitab-010/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriBarahinKitab-010/transcript.txt",
+   "sha256": "d7648a76e11fa34e60b8e81db2dcca051e162c7b68cac76c78183b756992636e",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/barahin-kitab/barahin-kitab-10_AlAmri.txt",
+   "sha256": "d7648a76e11fa34e60b8e81db2dcca051e162c7b68cac76c78183b756992636e",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-barahin-kitab/10.txt",
+   "sha256": "d7648a76e11fa34e60b8e81db2dcca051e162c7b68cac76c78183b756992636e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:yITLZiK_uRc",
+ "vid": "yITLZiK_uRc",
+ "sheikh": "adham-alasimi",
+ "row_id": "adham-alasimi--793",
+ "n": 13,
+ "n_src": "read",
+ "title": "(13) العلم والسمع والبصر ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي",
+ "title_src": "filename",
+ "sha256": "f7a0a421c70bd69f695592a322381fcd47e7aea4e54fbb961607579138742c61",
+ "nh": "7f444f7f604c648577fcea3c262b064fe8371f6699586c2c19245a4abeace937",
+ "chars": 27651,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/793/013_(13) العلم والسمع والبصر ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/793/013_(13) العلم والسمع والبصر ⧸ صغرى الصغرى ⧸ الشيخ أدهم العاسمي.txt",
+   "sha256": "f7a0a421c70bd69f695592a322381fcd47e7aea4e54fbb961607579138742c61",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/793/12.txt",
+   "sha256": "f7a0a421c70bd69f695592a322381fcd47e7aea4e54fbb961607579138742c61",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:lwLSy6jfe6k",
+ "vid": "lwLSy6jfe6k",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--941",
+ "n": 12,
+ "n_src": "read",
+ "title": "شرح الأربعين النووية ｜ حلقة 12 ｜ حديث 11 - 12 ｜ أ.د علي جمعة ｜",
+ "title_src": "filename",
+ "sha256": "7777a5879c46aef837d51e991222cc398984c5197052b12a5a42b1b91b5d6111",
+ "nh": "ef4e9a8c187a563b45e4aa445ba8549be2dfeb703915430035ad0572b445074a",
+ "chars": 3177,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/941/012_شرح الأربعين النووية ｜ حلقة 12 ｜ حديث 11 - 12 ｜ أ.د علي جمعة ｜ English Subtitle.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/941/012_شرح الأربعين النووية ｜ حلقة 12 ｜ حديث 11 - 12 ｜ أ.د علي جمعة ｜ English Subtitle.txt",
+   "sha256": "7777a5879c46aef837d51e991222cc398984c5197052b12a5a42b1b91b5d6111",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/ali-gomaa--941/012.txt",
+   "sha256": "7777a5879c46aef837d51e991222cc398984c5197052b12a5a42b1b91b5d6111",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

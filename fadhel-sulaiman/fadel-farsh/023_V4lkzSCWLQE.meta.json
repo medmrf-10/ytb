@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:V4lkzSCWLQE",
+ "vid": "V4lkzSCWLQE",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-farsh",
+ "n": 23,
+ "n_src": "trfile",
+ "title": "تدبر فرش القراءات-الحلقة 23 - أئنَّ لَنَا لَأَجْرًا إِنْ كُنَّا نَحْنُ الْغَالِبِينَ -  #فاضل_سليمان",
+ "title_src": "yt_titles",
+ "sha256": "61d53619ffeb98bebb0931d9db7d341dd3dbc5c78b20ecfe650aae1dbaac90e1",
+ "nh": "6663fe918cb4a43843ae17eb68547c42abbf4beb384abff700506bea5806da55",
+ "chars": 12397,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelFarsh-023/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelFarsh-023/transcript.txt",
+   "sha256": "61d53619ffeb98bebb0931d9db7d341dd3dbc5c78b20ecfe650aae1dbaac90e1",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-farsh/023.txt",
+   "sha256": "61d53619ffeb98bebb0931d9db7d341dd3dbc5c78b20ecfe650aae1dbaac90e1",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

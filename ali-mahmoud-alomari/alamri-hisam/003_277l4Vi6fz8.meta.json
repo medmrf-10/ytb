@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:277l4Vi6fz8",
+ "vid": "277l4Vi6fz8",
+ "sheikh": "ali-mahmoud-alomari",
+ "row_id": "ali-mahmoud-alomari--alamri-hisam",
+ "n": 3,
+ "n_src": "trfile",
+ "title": "( 1 ) ج٣ شرح الحسام الكاتي على إيساغوجي",
+ "title_src": "yt_titles",
+ "sha256": "17b66278045d23cbac37ccd27a215399eccabec3f9796562a2a98a532d36d55c",
+ "nh": "ec8bdc69c91d385c827fa61f0ee614c5ae4d97aec1d2d6ae8ecbd3c906888b9e",
+ "chars": 8592,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alamriHisam-003/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alamriHisam-003/transcript.txt",
+   "sha256": "17b66278045d23cbac37ccd27a215399eccabec3f9796562a2a98a532d36d55c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alamri/hisam/hisam-03_AlAmri.txt",
+   "sha256": "17b66278045d23cbac37ccd27a215399eccabec3f9796562a2a98a532d36d55c",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alamri-hisam/03.txt",
+   "sha256": "17b66278045d23cbac37ccd27a215399eccabec3f9796562a2a98a532d36d55c",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

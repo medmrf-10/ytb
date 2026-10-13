@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:aRz-tTJfMIg",
+ "vid": "aRz-tTJfMIg",
+ "sheikh": "ahmed-alsayed",
+ "row_id": "ahmed-alsayed--656",
+ "n": 15,
+ "n_src": "mutfile",
+ "title": "رياض الصالحين 15 ｜ باب المراقبة 3 ｜ أنوار السنة المحمدية ｜ أحمد السيد",
+ "title_src": "filename",
+ "sha256": "0811085fdbb5dd206a12c7f23df27a8e7e15128c543165299cbf45892ac62b04",
+ "nh": "41ef89bb0741510f4977de2da55c34b8c1f70dcfa6f23ecd19a58c5a88ab82a9",
+ "chars": 24079,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/656/015_رياض الصالحين 15 ｜ باب المراقبة 3 ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/656/015_رياض الصالحين 15 ｜ باب المراقبة 3 ｜ أنوار السنة المحمدية ｜ أحمد السيد.txt",
+   "sha256": "0811085fdbb5dd206a12c7f23df27a8e7e15128c543165299cbf45892ac62b04",
+   "rel": "identical"
+  },
+  {
+   "store": "irth",
+   "path": "irth/content/tube/riyadElsali7in-015/transcript.txt",
+   "sha256": "286db67a49757415ecde84022b4a6193aacd3e1c8e4b89648a3460bd77447b17",
+   "rel": "same-body"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alsayed-mut-656/015.txt",
+   "sha256": "286db67a49757415ecde84022b4a6193aacd3e1c8e4b89648a3460bd77447b17",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

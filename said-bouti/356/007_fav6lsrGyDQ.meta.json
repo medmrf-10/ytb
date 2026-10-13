@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:fav6lsrGyDQ",
+ "vid": "fav6lsrGyDQ",
+ "sheikh": "said-bouti",
+ "row_id": "said-bouti--356",
+ "n": 7,
+ "n_src": "mutfile",
+ "title": "6 - التوبة في القرآن جرائم الشرف في ميزان الشريعة",
+ "title_src": "filename",
+ "sha256": "a84a1e019a95c751ed896fc34fac4843fe8ca921c382bb6e800feeccd4b7911b",
+ "nh": "f5ec6ceba7300451383cf4d65a962926e6fe97df5cb724cb0d28f4ac1164e473",
+ "chars": 14348,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/356/007_6 - التوبة في القرآن  جرائم الشرف في ميزان الشريعة.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/356/007_6 - التوبة في القرآن  جرائم الشرف في ميزان الشريعة.txt",
+   "sha256": "a84a1e019a95c751ed896fc34fac4843fe8ca921c382bb6e800feeccd4b7911b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bouti/tawba/007_6 - التوبة في القرآن  جرائم الشرف في ميزان الشريعة.txt",
+   "sha256": "a84a1e019a95c751ed896fc34fac4843fe8ca921c382bb6e800feeccd4b7911b",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

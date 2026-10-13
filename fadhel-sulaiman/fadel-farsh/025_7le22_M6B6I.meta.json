@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:7le22_M6B6I",
+ "vid": "7le22_M6B6I",
+ "sheikh": "fadhel-sulaiman",
+ "row_id": "fadhel-sulaiman--fadel-farsh",
+ "n": 25,
+ "n_src": "trfile",
+ "title": "تدبر فرش القراءات-الحلقة 25 - وكأيِن من نبِيٍّ قَاتَلَ مَعَهُ رِبِّيُّونَ كثِير -  #فاضل_سليمان",
+ "title_src": "yt_titles",
+ "sha256": "5e5b5247a91598789284b695468d82f378598737a69591d25e343b52e4849f1e",
+ "nh": "1df02a9edb86db6566fd4a73e7c370be3d58fd0d846fe96a9dd6f7d64a58cbf2",
+ "chars": 10347,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/fadelFarsh-025/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/fadelFarsh-025/transcript.txt",
+   "sha256": "5e5b5247a91598789284b695468d82f378598737a69591d25e343b52e4849f1e",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/fadel-farsh/025.txt",
+   "sha256": "5e5b5247a91598789284b695468d82f378598737a69591d25e343b52e4849f1e",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

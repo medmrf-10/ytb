@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:GK5OkDkSFxw",
+ "vid": "GK5OkDkSFxw",
+ "sheikh": "saif-alasri",
+ "row_id": "saif-alasri--alasri-arbaa",
+ "n": 36,
+ "n_src": "trfile",
+ "title": "لقاء الأربعاء / الإسراء والمعراج / د. سيف العصري",
+ "title_src": "yt_titles",
+ "sha256": "8f18d4789d4478216ac67b8dc4b90cb51a08cdefbbdff68f69cfa2cd11cfe818",
+ "nh": "35b1f75ce8dd5c78a978ccf1b679569a1af2372e6204a27aab111f15c88bb955",
+ "chars": 17083,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/alasriArbaa-036/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/alasriArbaa-036/transcript.txt",
+   "sha256": "8f18d4789d4478216ac67b8dc4b90cb51a08cdefbbdff68f69cfa2cd11cfe818",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/alasri/arbaa/036_GK5OkDkSFxw.txt",
+   "sha256": "8f18d4789d4478216ac67b8dc4b90cb51a08cdefbbdff68f69cfa2cd11cfe818",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/alasri-arbaa/036.txt",
+   "sha256": "8f18d4789d4478216ac67b8dc4b90cb51a08cdefbbdff68f69cfa2cd11cfe818",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

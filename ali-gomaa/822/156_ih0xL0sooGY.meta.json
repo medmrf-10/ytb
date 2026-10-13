@@ -1,0 +1,37 @@
+{
+ "v": 1,
+ "lid": "yt:ih0xL0sooGY",
+ "vid": "ih0xL0sooGY",
+ "sheikh": "ali-gomaa",
+ "row_id": "ali-gomaa--822",
+ "n": 156,
+ "n_src": "plpos",
+ "title": "#والله_أعلم | التعايش في الوطن | الجزء الأول",
+ "title_src": "yt_titles",
+ "sha256": "43ac60a665aef2f6e024d99de32c1f1dbb02f03be2ff2f6c2455ee4e39370a9f",
+ "nh": "2f79bb0611a38e0ed3ea56949d553c80c7fea54d5cb49bcc25b03548784b8245",
+ "chars": 12929,
+ "quality": "ok",
+ "winner": {
+  "store": "hw-tr",
+  "path": "hawshat/transcripts/gomaa/mut-822/156_#والله_أعلم ｜ التعايش في الوطن ｜ الجزء الأول.txt",
+  "commit_ts": 1791841975,
+  "head": "8a8b281"
+ },
+ "sources": [
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/gomaa/mut-822/156_#والله_أعلم ｜ التعايش في الوطن ｜ الجزء الأول.txt",
+   "sha256": "43ac60a665aef2f6e024d99de32c1f1dbb02f03be2ff2f6c2455ee4e39370a9f",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/gomaa-khawarij/156.txt",
+   "sha256": "35f9133a8d75bb1c61dff0efe018d289d36b302a97bcee1581c6c4a01fea4731",
+   "rel": "same-body"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}

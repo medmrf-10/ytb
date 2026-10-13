@@ -1,0 +1,43 @@
+{
+ "v": 1,
+ "lid": "yt:05YZI4BevOE",
+ "vid": "05YZI4BevOE",
+ "sheikh": "hatem-alaouni",
+ "row_id": "hatem-alaouni--aouni-jabir",
+ "n": 6,
+ "n_src": "trfile",
+ "title": "الدرس السادس : بيان أن المقصود بالمزامير آلة المعازف المعروفة بهذا الاسم حتى اليوم | أ.د حاتم العوني",
+ "title_src": "yt_titles",
+ "sha256": "b991514cbce0ae597d0609c42978df81f25092324632de477a5912bd1f0fdb1b",
+ "nh": "01cd4b1e69fd1c95f727db14203e6ed1ddb96628d0762966d8775295a679dcc9",
+ "chars": 10969,
+ "quality": "ok",
+ "winner": {
+  "store": "irth",
+  "path": "irth/content/tube/aouniJabir-006/transcript.txt",
+  "commit_ts": 1791601929,
+  "head": "e35ede5"
+ },
+ "sources": [
+  {
+   "store": "irth",
+   "path": "irth/content/tube/aouniJabir-006/transcript.txt",
+   "sha256": "b991514cbce0ae597d0609c42978df81f25092324632de477a5912bd1f0fdb1b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/aouni/jabir/006_05YZI4BevOE.txt",
+   "sha256": "b991514cbce0ae597d0609c42978df81f25092324632de477a5912bd1f0fdb1b",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-ls",
+   "path": "hawshat/playlists/lessons/aouni-jabir/006.txt",
+   "sha256": "b991514cbce0ae597d0609c42978df81f25092324632de477a5912bd1f0fdb1b",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
+}
