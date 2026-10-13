@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:DWW7Td-TE5M",
+ "vid": "DWW7Td-TE5M",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--539",
+ "n": 2,
+ "n_src": "playlist",
+ "title": "تفسير سورة الكهف للشيخ الشعراوي - من آية 5 إلى آية 11",
+ "title_src": "youtube",
+ "sha256": "a12ecb5ad87e2d34b2aeba100bc4a3f1dd78e97dc226f4726dbd4ca541329a4e",
+ "chars": 18043,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/539/002_DWW7Td-TE5M.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/DWW7Td-TE5M",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--539",
+ "series_slug": "sharawi--539",
+ "lesson_no": 2,
+ "yt": "DWW7Td-TE5M",
+ "transcribed": "2026-10-13 13:45:17",
+ "audio": "ytb-build/audio/sharawi--539/002.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "usage after: {\"Gemini Models / Weekly Limit Remaining\": 83.801, \"Gemini Models / Five Hour Limit Remaining\": 97.738, \"Claude and GPT models / Weekly Limit Remaining\": 60.868, \"Claude and GPT models / Five Hour Limit Remaining\": 83.624}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 0.079, \"Gemini Models / Weekly Limit Remaining\": 0.019, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 18042 | words: 3234\nduplicate 8/12-gram runs: 24\nwrote /root/workspace/ytb/sharawi/539/002_DWW7Td-TE5M.txt\n"
+}

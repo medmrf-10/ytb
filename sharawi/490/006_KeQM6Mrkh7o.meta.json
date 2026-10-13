@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:KeQM6Mrkh7o",
+ "vid": "KeQM6Mrkh7o",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--490",
+ "n": 6,
+ "n_src": "playlist",
+ "title": "تفسير سورة مريم للشيخ الشعراوي - من آية 46 إلى آية 52",
+ "title_src": "youtube",
+ "sha256": "9b371d49c9f1ad03862bccfd51b988f13aa73a1c832d8aa2ea4904e96635f70c",
+ "chars": 28115,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/490/006_KeQM6Mrkh7o.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/KeQM6Mrkh7o",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--490",
+ "series_slug": "sharawi--490",
+ "lesson_no": 6,
+ "yt": "KeQM6Mrkh7o",
+ "transcribed": "2026-10-13 14:24:21",
+ "audio": "ytb-build/audio/sharawi--490/006.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "usage after: {\"Gemini Models / Weekly Limit Remaining\": 83.42, \"Gemini Models / Five Hour Limit Remaining\": 96.216, \"Claude and GPT models / Weekly Limit Remaining\": 60.868, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Claude and GPT models / Five Hour Limit Remaining\": -16.376, \"Gemini Models / Weekly Limit Remaining\": 0.064, \"Gemini Models / Five Hour Limit Remaining\": 0.256}\nchars: 28114 | words: 4804\nduplicate 8/12-gram runs: 21\nwrote /root/workspace/ytb/sharawi/490/006_KeQM6Mrkh7o.txt\n"
+}

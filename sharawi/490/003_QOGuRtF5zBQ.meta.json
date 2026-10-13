@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:QOGuRtF5zBQ",
+ "vid": "QOGuRtF5zBQ",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--490",
+ "n": 3,
+ "n_src": "playlist",
+ "title": "تفسير سورة مريم للشيخ الشعراوي - من آية 16 إلى آية 23",
+ "title_src": "youtube",
+ "sha256": "8546031e1b21e1c8b6ab17ee01650d86b34abe186258b51130f1c7c5e580440a",
+ "chars": 27922,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/490/003_QOGuRtF5zBQ.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/QOGuRtF5zBQ",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--490",
+ "series_slug": "sharawi--490",
+ "lesson_no": 3,
+ "yt": "QOGuRtF5zBQ",
+ "transcribed": "2026-10-13 14:16:55",
+ "audio": "ytb-build/audio/sharawi--490/003.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "usage after: {\"Gemini Models / Weekly Limit Remaining\": 83.299, \"Gemini Models / Five Hour Limit Remaining\": 96.234, \"Claude and GPT models / Weekly Limit Remaining\": 60.868, \"Claude and GPT models / Five Hour Limit Remaining\": 83.624}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.286, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.642}\nchars: 27921 | words: 4921\nduplicate 8/12-gram runs: 20\nwrote /root/workspace/ytb/sharawi/490/003_QOGuRtF5zBQ.txt\n"
+}
