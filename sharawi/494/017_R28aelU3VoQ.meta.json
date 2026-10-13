@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:R28aelU3VoQ",
+ "vid": "R28aelU3VoQ",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--494",
+ "n": 17,
+ "n_src": "playlist",
+ "title": "تفسير سورة الحج للشيخ الشعراوي - من آية 52 إلى آية 55",
+ "title_src": "youtube",
+ "sha256": "6be60e1c214aa80ada5091000d839e94ee4cf54ffbe9d6cf96539ee66dc02efc",
+ "chars": 31247,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/494/017_R28aelU3VoQ.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/R28aelU3VoQ",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--494",
+ "series_slug": "sharawi--494",
+ "lesson_no": 17,
+ "yt": "R28aelU3VoQ",
+ "transcribed": "2026-10-13 18:21:15",
+ "audio": "ytb-build/audio/sharawi--494/017.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "age after: {\"Gemini Models / Weekly Limit Remaining\": 81.284, \"Gemini Models / Five Hour Limit Remaining\": 94.292, \"Claude and GPT models / Weekly Limit Remaining\": 59.594, \"Claude and GPT models / Five Hour Limit Remaining\": 97.743}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.178, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.045}\nchars: 31246 | words: 5498\nduplicate 8/12-gram runs: 4244\nwrote /root/workspace/ytb/sharawi/494/017_R28aelU3VoQ.txt\n"
+}
