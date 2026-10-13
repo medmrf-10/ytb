@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:UB-oCwSGyPg",
+ "vid": "UB-oCwSGyPg",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--490",
+ "n": 9,
+ "n_src": "playlist",
+ "title": "تفسير سورة مريم للشيخ الشعراوي - من آية 71 إلى آية 74",
+ "title_src": "youtube",
+ "sha256": "125512d2901d1db3ce704d855d09ed85e2c7ed05208845907934c19fcb932e80",
+ "chars": 27168,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/490/009_UB-oCwSGyPg.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/UB-oCwSGyPg",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--490",
+ "series_slug": "sharawi--490",
+ "lesson_no": 9,
+ "yt": "UB-oCwSGyPg",
+ "transcribed": "2026-10-13 15:57:40",
+ "audio": "ytb-build/audio/sharawi--490/009.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": ": None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 82.718, \"Gemini Models / Five Hour Limit Remaining\": 99.04, \"Claude and GPT models / Weekly Limit Remaining\": 60.868, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Five Hour Limit Remaining\": 0.079, \"Gemini Models / Weekly Limit Remaining\": 0.02}\nchars: 27167 | words: 5094\nduplicate 8/12-gram runs: 57\nwrote /root/workspace/ytb/sharawi/490/009_UB-oCwSGyPg.txt\n"
+}

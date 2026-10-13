@@ -8,9 +8,9 @@
  "n_src": "playlist",
  "title": "تفسير سورة مريم للشيخ الشعراوي - من آية 62 إلى آية 70",
  "title_src": "youtube",
- "sha256": null,
- "chars": 0,
- "quality": "failed",
+ "sha256": "e9a8812fb1aeedca6caee6068f85f011cf89061828178614f7c74a152f7bfaee",
+ "chars": 24705,
+ "quality": "ok",
  "winner": {
   "store": "ytb-transcribe",
   "path": "ytb/sharawi/490/008_TlmjgTaqoTw.txt",
@@ -27,8 +27,8 @@
  "series_slug": "sharawi--490",
  "lesson_no": 8,
  "yt": "TlmjgTaqoTw",
- "transcribed": "2026-10-13 14:24:38",
+ "transcribed": "2026-10-13 15:53:35",
  "audio": "ytb-build/audio/sharawi--490/008.mp3",
  "job": "agy+gemini عبر agy",
- "usage_tail": "usage before: {\"Gemini Models / Weekly Limit Remaining\": 83.452, \"Gemini Models / Five Hour Limit Remaining\": 96.342, \"Claude and GPT models / Weekly Limit Remaining\": 60.868, \"Claude and GPT models / Five Hour Limit Remaining\": 83.624}\n"
+ "usage_tail": "ne\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 82.729, \"Gemini Models / Five Hour Limit Remaining\": 99.086, \"Claude and GPT models / Weekly Limit Remaining\": 60.868, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": -0.405, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": -0.016}\nchars: 24704 | words: 4790\nduplicate 8/12-gram runs: 34\nwrote /root/workspace/ytb/sharawi/490/008_TlmjgTaqoTw.txt\n"
 }

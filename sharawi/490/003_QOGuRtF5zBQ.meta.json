@@ -8,8 +8,8 @@
  "n_src": "playlist",
  "title": "تفسير سورة مريم للشيخ الشعراوي - من آية 16 إلى آية 23",
  "title_src": "youtube",
- "sha256": "8546031e1b21e1c8b6ab17ee01650d86b34abe186258b51130f1c7c5e580440a",
- "chars": 27922,
+ "sha256": "5a006442b40278ed6fcff1e569ebaa0b8bd43ac6f553fcb55a1219b4338fbb18",
+ "chars": 24816,
  "quality": "ok",
  "winner": {
   "store": "ytb-transcribe",
@@ -27,8 +27,8 @@
  "series_slug": "sharawi--490",
  "lesson_no": 3,
  "yt": "QOGuRtF5zBQ",
- "transcribed": "2026-10-13 14:16:55",
+ "transcribed": "2026-10-13 15:39:06",
  "audio": "ytb-build/audio/sharawi--490/003.mp3",
  "job": "agy+gemini عبر agy",
- "usage_tail": "usage after: {\"Gemini Models / Weekly Limit Remaining\": 83.299, \"Gemini Models / Five Hour Limit Remaining\": 96.234, \"Claude and GPT models / Weekly Limit Remaining\": 60.868, \"Claude and GPT models / Five Hour Limit Remaining\": 83.624}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.286, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.642}\nchars: 27921 | words: 4921\nduplicate 8/12-gram runs: 20\nwrote /root/workspace/ytb/sharawi/490/003_QOGuRtF5zBQ.txt\n"
+ "usage_tail": "None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 82.798, \"Gemini Models / Five Hour Limit Remaining\": 99.362, \"Claude and GPT models / Weekly Limit Remaining\": 60.868, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 0.135, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Weekly Limit Remaining\": 0.034, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 24815 | words: 4748\nduplicate 8/12-gram runs: 16\nwrote /root/workspace/ytb/sharawi/490/003_QOGuRtF5zBQ.txt\n"
 }
