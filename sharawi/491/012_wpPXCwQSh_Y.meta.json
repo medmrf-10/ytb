@@ -8,8 +8,8 @@
  "n_src": "playlist",
  "title": "تفسير سورة طه للشيخ الشعراوي - من آية 98 إلى آية 105",
  "title_src": "youtube",
- "sha256": "4b7591e478d3ab5cee61014d8a87565011bb0089e888dafc0467e3f15f73d724",
- "chars": 25728,
+ "sha256": "940faeb13ccc87022c828a44f386204b79113d2f16a434fec35d72a1986f54a0",
+ "chars": 25266,
  "quality": "ok",
  "winner": {
   "store": "ytb-transcribe",
@@ -27,8 +27,8 @@
  "series_slug": "sharawi--491",
  "lesson_no": 12,
  "yt": "wpPXCwQSh_Y",
- "transcribed": "2026-10-13 15:20:13",
+ "transcribed": "2026-10-13 16:39:00",
  "audio": "ytb-build/audio/sharawi--491/012.mp3",
  "job": "agy+gemini عبر agy",
- "usage_tail": " None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 82.976, \"Gemini Models / Five Hour Limit Remaining\": 94.44, \"Claude and GPT models / Weekly Limit Remaining\": 60.868, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 0.117, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.469}\nchars: 25727 | words: 4571\nduplicate 8/12-gram runs: 19\nwrote /root/workspace/ytb/sharawi/491/012_wpPXCwQSh_Y.txt\n"
+ "usage_tail": "one\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 82.434, \"Gemini Models / Five Hour Limit Remaining\": 97.612, \"Claude and GPT models / Weekly Limit Remaining\": 60.868, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": -0.034, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.532, \"Claude and GPT models / Five Hour Limit Remaining\": 0}\nchars: 25265 | words: 4502\nduplicate 8/12-gram runs: 23\nwrote /root/workspace/ytb/sharawi/491/012_wpPXCwQSh_Y.txt\n"
 }
