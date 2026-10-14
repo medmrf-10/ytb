@@ -42,17 +42,17 @@
   "cov_strict": 0.554,
   "words": 3104,
   "model": "whisper-large-v3-turbo-q4",
-  "at": "2026-10-14 19:09"
+  "at": "2026-10-14 20:48"
  },
  "align_force": {
-  "cov": 0.664,
-  "acoustic": 2062,
+  "cov": 0.97,
+  "acoustic": 3012,
   "strict": null,
-  "fallback": 1042,
-  "windows": 116,
-  "chunks": 116,
-  "prob_mean": 0.529,
+  "fallback": 92,
+  "windows": 99,
+  "chunks": 99,
+  "prob_mean": 0.625,
   "model": "large-v3-8bit",
-  "at": "2026-10-14 19:09"
+  "at": "2026-10-14 20:48"
  }
 }

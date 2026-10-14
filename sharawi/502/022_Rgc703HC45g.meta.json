@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:Rgc703HC45g",
+ "vid": "Rgc703HC45g",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--502",
+ "n": 22,
+ "n_src": "playlist",
+ "title": "تفسير سورة الاسراء للشيخ الشعراوي - من آية 79 إلى آية 85",
+ "title_src": "youtube",
+ "sha256": "a0e83855b49f10743cde111fbeebcb715e72456fe47015e972887cb821c8028f",
+ "chars": 24613,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/502/022_Rgc703HC45g.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/Rgc703HC45g",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--502",
+ "series_slug": "sharawi--502",
+ "lesson_no": 22,
+ "yt": "Rgc703HC45g",
+ "transcribed": "2026-10-14 19:48:06",
+ "audio": "ytb-build/audio/sharawi--502/022.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "e\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 16.336, \"Gemini Models / Five Hour Limit Remaining\": 69.12, \"Claude and GPT models / Weekly Limit Remaining\": 19.884, \"Claude and GPT models / Five Hour Limit Remaining\": 83.43}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 1.493, \"Gemini Models / Weekly Limit Remaining\": 0.373}\nchars: 24612 | words: 4334\nduplicate 8/12-gram runs: 54\nwrote /root/workspace/ytb/sharawi/502/022_Rgc703HC45g.txt\n"
+}

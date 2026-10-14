@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:kBlOosj39dc",
+ "vid": "kBlOosj39dc",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--502",
+ "n": 25,
+ "n_src": "playlist",
+ "title": "تفسير سورة الاسراء للشيخ الشعراوي - من آية 97 إلى آية 101",
+ "title_src": "youtube",
+ "sha256": "6e3086e80df8b57b1b115cb3eae39247134f244ae22758c8999fe9df043f66d5",
+ "chars": 24599,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/502/025_kBlOosj39dc.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/kBlOosj39dc",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--502",
+ "series_slug": "sharawi--502",
+ "lesson_no": 25,
+ "yt": "kBlOosj39dc",
+ "transcribed": "2026-10-14 19:54:00",
+ "audio": "ytb-build/audio/sharawi--502/025.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 16.016, \"Gemini Models / Five Hour Limit Remaining\": 67.842, \"Claude and GPT models / Weekly Limit Remaining\": 19.884, \"Claude and GPT models / Five Hour Limit Remaining\": 83.43}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 1.076, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.269, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 24598 | words: 4392\nduplicate 8/12-gram runs: 40\nwrote /root/workspace/ytb/sharawi/502/025_kBlOosj39dc.txt\n"
+}

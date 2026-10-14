@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:bXEnL0vndf4",
+ "vid": "bXEnL0vndf4",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--533",
+ "n": 20,
+ "n_src": "playlist",
+ "title": "تفسير سورة النحل للشيخ الشعراوي - من آية 80 إلى آية 89",
+ "title_src": "youtube",
+ "sha256": "7c64dc4e22fa9451ec2d0a688d30284911702b7a87998b8a24b2f00f59b6b17a",
+ "chars": 28464,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/533/020_bXEnL0vndf4.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/bXEnL0vndf4",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--533",
+ "series_slug": "sharawi--533",
+ "lesson_no": 20,
+ "yt": "bXEnL0vndf4",
+ "transcribed": "2026-10-14 20:31:02",
+ "audio": "ytb-build/audio/sharawi--533/020.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 12.894, \"Gemini Models / Five Hour Limit Remaining\": 56.496, \"Claude and GPT models / Weekly Limit Remaining\": 19.884, \"Claude and GPT models / Five Hour Limit Remaining\": 83.43}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 1.735, \"Gemini Models / Weekly Limit Remaining\": 0.434, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 28463 | words: 4979\nduplicate 8/12-gram runs: 37\nwrote /root/workspace/ytb/sharawi/533/020_bXEnL0vndf4.txt\n"
+}
