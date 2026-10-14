@@ -10,7 +10,7 @@
  "title_src": "youtube",
  "sha256": "4ac7197dd8cf58f332d417035ce90e35180b008f3e1b6815602b5c615bb28f2b",
  "chars": 364,
- "quality": "ok",
+ "quality": "failed",
  "winner": {
   "store": "ytb-transcribe",
   "path": "ytb/sharawi/497/001_gJzWUJxeoY4.txt",
@@ -23,12 +23,12 @@
    "rel": "source"
   }
  ],
- "series": "sharawi--497",
- "series_slug": "sharawi--497",
+ "series": "sharawi--POOL",
+ "series_slug": "sharawi--POOL",
  "lesson_no": 1,
  "yt": "gJzWUJxeoY4",
- "transcribed": "2026-10-14 08:46:04",
- "audio": "ytb-build/audio/sharawi--497/001.mp3",
+ "transcribed": "2026-10-14 10:34:16",
+ "audio": "ytb-build/audio/sharawi--POOL/001.mp3",
  "job": "agy+gemini عبر agy",
- "usage_tail": "ied: None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 53.758, \"Gemini Models / Five Hour Limit Remaining\": 96.229, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 0.056, \"Gemini Models / Five Hour Limit Remaining\": 0.223, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 363 | words: 36\nduplicate 8/12-gram runs: 0\nwrote /root/workspace/ytb/sharawi/497/001_gJzWUJxeoY4.txt\n"
+ "usage_tail": "ns': 77681, 'total_tokens': 125712}\ndenied: None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 52.463, \"Gemini Models / Five Hour Limit Remaining\": 92.402, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Five Hour Limit Remaining\": -0.131, \"Gemini Models / Weekly Limit Remaining\": -0.291, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 0 | words: 0\nduplicate 8/12-gram runs: 0\nEMPTY transcription\n"
 }

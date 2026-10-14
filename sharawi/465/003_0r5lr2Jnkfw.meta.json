@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:0r5lr2Jnkfw",
+ "vid": "0r5lr2Jnkfw",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--465",
+ "n": 3,
+ "n_src": "playlist",
+ "title": "الشيخ الشعراوي | تفسير سورة الدّخان، (آية ١٩-٣٥)",
+ "title_src": "youtube",
+ "sha256": "eff046154ccd04adb878f1ea9e7580760f8616d74702d758c6e80d6bf52c84db",
+ "chars": 26103,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/465/003_0r5lr2Jnkfw.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/0r5lr2Jnkfw",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--465",
+ "series_slug": "sharawi--465",
+ "lesson_no": 3,
+ "yt": "0r5lr2Jnkfw",
+ "transcribed": "2026-10-14 09:43:16",
+ "audio": "ytb-build/audio/sharawi--465/003.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": " None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 53.403, \"Gemini Models / Five Hour Limit Remaining\": 94.809, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 0.036, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.142}\nchars: 26102 | words: 4622\nduplicate 8/12-gram runs: 1\nwrote /root/workspace/ytb/sharawi/465/003_0r5lr2Jnkfw.txt\n"
+}

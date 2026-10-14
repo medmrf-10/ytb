@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:zf2IuHwpw4k",
+ "vid": "zf2IuHwpw4k",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--536",
+ "n": 1,
+ "n_src": "playlist",
+ "title": "تفسير سورة الزخرف للشيخ الشعراوي - من آية 1 إلى آية 51",
+ "title_src": "youtube",
+ "sha256": "8fec3a0bce85b5973e559976a52078329a424252d888d76ceecc17cc803ac0cc",
+ "chars": 116964,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/536/001_zf2IuHwpw4k.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/zf2IuHwpw4k",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--536",
+ "series_slug": "sharawi--536",
+ "lesson_no": 1,
+ "yt": "zf2IuHwpw4k",
+ "transcribed": "2026-10-14 09:32:39",
+ "audio": "ytb-build/audio/sharawi--536/001.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "ne\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 53.451, \"Gemini Models / Five Hour Limit Remaining\": 94.999, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Weekly Limit Remaining\": 0.106, \"Gemini Models / Five Hour Limit Remaining\": 0.426, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 116963 | words: 20328\nduplicate 8/12-gram runs: 80\nwrote /root/workspace/ytb/sharawi/536/001_zf2IuHwpw4k.txt\n"
+}

@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:b1bJCez5MFQ",
+ "vid": "b1bJCez5MFQ",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--522",
+ "n": 7,
+ "n_src": "playlist",
+ "title": "تفسير سورة الجاثية للشيخ الشعراوي - من آية 27 إلى آية 37",
+ "title_src": "youtube",
+ "sha256": "f663e77251ba8ecf63840c80a071a11fb1516c62b08f1492135290e5baf0ddab",
+ "chars": 26718,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/522/007_b1bJCez5MFQ.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/b1bJCez5MFQ",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--522",
+ "series_slug": "sharawi--522",
+ "lesson_no": 7,
+ "yt": "b1bJCez5MFQ",
+ "transcribed": "2026-10-14 10:07:14",
+ "audio": "ytb-build/audio/sharawi--522/007.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "ne\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 53.313, \"Gemini Models / Five Hour Limit Remaining\": 94.446, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": -0.014, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": -0.148, \"Claude and GPT models / Five Hour Limit Remaining\": 0}\nchars: 26717 | words: 4624\nduplicate 8/12-gram runs: 30\nwrote /root/workspace/ytb/sharawi/522/007_b1bJCez5MFQ.txt\n"
+}
