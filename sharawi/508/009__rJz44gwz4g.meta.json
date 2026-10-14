@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:_rJz44gwz4g",
+ "vid": "_rJz44gwz4g",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--508",
+ "n": 9,
+ "n_src": "playlist",
+ "title": "تفسير سورة الرعد للشيخ الشعراوي - من آية 28 إلى آية 31",
+ "title_src": "youtube",
+ "sha256": "860e51928c7767f1a9865ca20c55a2e833c532adeea037a67ea7927f37094950",
+ "chars": 29573,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/508/009__rJz44gwz4g.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/_rJz44gwz4g",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--508",
+ "series_slug": "sharawi--508",
+ "lesson_no": 9,
+ "yt": "_rJz44gwz4g",
+ "transcribed": "2026-10-14 23:47:40",
+ "audio": "ytb-build/audio/sharawi--508/009.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": " None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 10.672, \"Gemini Models / Five Hour Limit Remaining\": 94.101, \"Claude and GPT models / Weekly Limit Remaining\": 19.884, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Five Hour Limit Remaining\": 0.159, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.04}\nchars: 29572 | words: 5295\nduplicate 8/12-gram runs: 80\nwrote /root/workspace/ytb/sharawi/508/009__rJz44gwz4g.txt\n"
+}
