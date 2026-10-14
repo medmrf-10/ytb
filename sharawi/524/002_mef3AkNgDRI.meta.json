@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:mef3AkNgDRI",
+ "vid": "mef3AkNgDRI",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--524",
+ "n": 2,
+ "n_src": "playlist",
+ "title": "تفسير سورة ص للشيخ الشعراوي - من آية 4 إلى آية 16",
+ "title_src": "youtube",
+ "sha256": "7a531981e88ea18a1c92d46f247e4a003ad28f84c2e8c35fb9663407480c4849",
+ "chars": 17629,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/524/002_mef3AkNgDRI.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/mef3AkNgDRI",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--524",
+ "series_slug": "sharawi--524",
+ "lesson_no": 2,
+ "yt": "mef3AkNgDRI",
+ "transcribed": "2026-10-14 16:59:40",
+ "audio": "ytb-build/audio/sharawi--524/002.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 24.243, \"Gemini Models / Five Hour Limit Remaining\": 99.571, \"Claude and GPT models / Weekly Limit Remaining\": 19.884, \"Claude and GPT models / Five Hour Limit Remaining\": 83.43}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 0.053, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.215}\nchars: 17628 | words: 2957\nduplicate 8/12-gram runs: 16\nwrote /root/workspace/ytb/sharawi/524/002_mef3AkNgDRI.txt\n"
+}

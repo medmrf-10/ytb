@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:DEMj9WNhGQo",
+ "vid": "DEMj9WNhGQo",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--482",
+ "n": 1,
+ "n_src": "playlist",
+ "title": "الشيخ الشعراوي | تفسير سورة القمر، (آية ١-٧)",
+ "title_src": "youtube",
+ "sha256": "faca4c057eb06cc4748ddb2e2b4b4c9d3703e60b099153e93e5baace35fe2878",
+ "chars": 22001,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/482/001_DEMj9WNhGQo.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/DEMj9WNhGQo",
+   "rel": "source"
+  }
+ ],
+ "series": "_pool--482",
+ "series_slug": "_pool--482",
+ "lesson_no": 1,
+ "yt": "DEMj9WNhGQo",
+ "transcribed": "2026-10-14 16:54:02",
+ "audio": "ytb-build/audio/_pool--482/001.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 24.298, \"Gemini Models / Five Hour Limit Remaining\": 99.792, \"Claude and GPT models / Weekly Limit Remaining\": 19.884, \"Claude and GPT models / Five Hour Limit Remaining\": 83.43}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.052, \"Gemini Models / Five Hour Limit Remaining\": 0.208, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 22000 | words: 3941\nduplicate 8/12-gram runs: 16\nwrote /root/workspace/ytb/sharawi/482/001_DEMj9WNhGQo.txt\n"
+}
