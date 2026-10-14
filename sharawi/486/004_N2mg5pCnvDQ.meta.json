@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:N2mg5pCnvDQ",
+ "vid": "N2mg5pCnvDQ",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--486",
+ "n": 4,
+ "n_src": "playlist",
+ "title": "الشيخ الشعراوي | تفسير النجم، (آية ٣٢-٤٢)",
+ "title_src": "youtube",
+ "sha256": "f2e942c1caf3a1a8f39669fd4c678b032e791901c59d06432729562235e63c02",
+ "chars": 18539,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/486/004_N2mg5pCnvDQ.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/N2mg5pCnvDQ",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--486",
+ "series_slug": "sharawi--486",
+ "lesson_no": 4,
+ "yt": "N2mg5pCnvDQ",
+ "transcribed": "2026-10-14 15:05:45",
+ "audio": "ytb-build/audio/sharawi--486/004.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "ne\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 24.304, \"Gemini Models / Five Hour Limit Remaining\": 7.027, \"Claude and GPT models / Weekly Limit Remaining\": 34.028, \"Claude and GPT models / Five Hour Limit Remaining\": 51.72}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 0.151, \"Gemini Models / Five Hour Limit Remaining\": 0.604, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 18538 | words: 3222\nduplicate 8/12-gram runs: 9\nwrote /root/workspace/ytb/sharawi/486/004_N2mg5pCnvDQ.txt\n"
+}

@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:Vwqp9li0Qpc",
+ "vid": "Vwqp9li0Qpc",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--486",
+ "n": 1,
+ "n_src": "playlist",
+ "title": "الشيخ الشعراوي | تفسير سورة النجم، (آية ١)",
+ "title_src": "youtube",
+ "sha256": "194d0a15c3f5201c59ffc50be3eb764a83a81322d36489af915175ebbb3aab44",
+ "chars": 1954,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/486/001_Vwqp9li0Qpc.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/Vwqp9li0Qpc",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--486",
+ "series_slug": "sharawi--486",
+ "lesson_no": 1,
+ "yt": "Vwqp9li0Qpc",
+ "transcribed": "2026-10-14 14:59:29",
+ "audio": "ytb-build/audio/sharawi--486/001.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 24.568, \"Gemini Models / Five Hour Limit Remaining\": 8.084, \"Claude and GPT models / Weekly Limit Remaining\": 34.028, \"Claude and GPT models / Five Hour Limit Remaining\": 51.72}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 0.026, \"Gemini Models / Five Hour Limit Remaining\": 0.104, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0}\nchars: 1953 | words: 352\nduplicate 8/12-gram runs: 0\nwrote /root/workspace/ytb/sharawi/486/001_Vwqp9li0Qpc.txt\n"
+}

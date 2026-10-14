@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:hd_tHoyg1UI",
+ "vid": "hd_tHoyg1UI",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--515",
+ "n": 88,
+ "n_src": "playlist",
+ "title": "تفسير سورة البقرة للشيخ الشعراوي - من الآية 217 إلى الآية 220",
+ "title_src": "youtube",
+ "sha256": "498685fd928aa455d0ce30a34e577f6b2c309a83a39c1bd9a0070685fa823b10",
+ "chars": 22891,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/515/088_hd_tHoyg1UI.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/hd_tHoyg1UI",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--POOL",
+ "series_slug": "sharawi--POOL",
+ "lesson_no": 88,
+ "yt": "hd_tHoyg1UI",
+ "transcribed": "2026-10-14 13:13:40",
+ "audio": "ytb-build/audio/sharawi--POOL/088.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "e\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 35.928, \"Gemini Models / Five Hour Limit Remaining\": 53.787, \"Claude and GPT models / Weekly Limit Remaining\": 39.69, \"Claude and GPT models / Five Hour Limit Remaining\": 64.045}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 0.02, \"Gemini Models / Five Hour Limit Remaining\": 2.079, \"Claude and GPT models / Weekly Limit Remaining\": 2.0, \"Claude and GPT models / Five Hour Limit Remaining\": 3.0}\nchars: 22890 | words: 4030\nduplicate 8/12-gram runs: 24\nwrote /root/workspace/ytb/sharawi/515/088_hd_tHoyg1UI.txt\n"
+}

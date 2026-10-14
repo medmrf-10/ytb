@@ -8,8 +8,8 @@
  "n_src": "playlist",
  "title": "تفسير سورة النمل للشيخ الشعراوي - من آية 19 إلى آية 25",
  "title_src": "youtube",
- "sha256": "29cc38c4a5d599799a59c499b982f57c782b5fb4f089c08bc4e3f5d69842d06d",
- "chars": 17074,
+ "sha256": "e6fe3b02de9c31e5dbdddb58fc20306851ab8920d28d375261e1d59b430a8f64",
+ "chars": 16936,
  "quality": "ok",
  "winner": {
   "store": "ytb-transcribe",
@@ -30,5 +30,10 @@
  "transcribed": "2026-10-13 23:30:27",
  "audio": "ytb-build/audio/sharawi--499/004.mp3",
  "job": "agy+gemini عبر agy",
- "usage_tail": "None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 62.409, \"Gemini Models / Five Hour Limit Remaining\": 35.092, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 0.497, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Weekly Limit Remaining\": 0.125}\nchars: 17073 | words: 2985\nduplicate 8/12-gram runs: 41\nwrote /root/workspace/ytb/sharawi/499/004_okgnSEwDJ_M.txt\n"
+ "usage_tail": "None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 62.409, \"Gemini Models / Five Hour Limit Remaining\": 35.092, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 0.497, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Weekly Limit Remaining\": 0.125}\nchars: 17073 | words: 2985\nduplicate 8/12-gram runs: 41\nwrote /root/workspace/ytb/sharawi/499/004_okgnSEwDJ_M.txt\n",
+ "cleaned": {
+  "what": "english_agent_preamble_removed",
+  "removed_chars": 138,
+  "when": "2026-10-14 13:18:56"
+ }
 }

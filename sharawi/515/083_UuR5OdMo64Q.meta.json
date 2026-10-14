@@ -8,9 +8,9 @@
  "n_src": "playlist",
  "title": "تفسير سورة البقرة للشيخ الشعراوي - من الآية 205 إلى الآية 208",
  "title_src": "youtube",
- "sha256": "3ecff15d04b5ff506c78769e9c23c45e7d93530428fe2f8417635f8021f91f58",
- "chars": 624,
- "quality": "failed",
+ "sha256": "f87b71aa8876116f87afe19d59820ee72a8fe880029d46413be80312f7f75ca4",
+ "chars": 1248,
+ "quality": "ok",
  "winner": {
   "store": "ytb-transcribe",
   "path": "ytb/sharawi/515/083_UuR5OdMo64Q.txt",
@@ -23,12 +23,12 @@
    "rel": "source"
   }
  ],
- "series": "sharawi--515",
- "series_slug": "sharawi--515",
+ "series": "sharawi--POOL",
+ "series_slug": "sharawi--POOL",
  "lesson_no": 83,
  "yt": "UuR5OdMo64Q",
- "transcribed": "2026-10-14 13:02:33",
- "audio": "ytb-build/audio/sharawi--515/083.mp3",
+ "transcribed": "2026-10-14 14:49:57",
+ "audio": "ytb-build/audio/sharawi--POOL/083.mp3",
  "job": "agy+gemini عبر agy",
- "usage_tail": "e\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 37.819, \"Gemini Models / Five Hour Limit Remaining\": 59.655, \"Claude and GPT models / Weekly Limit Remaining\": 43.872, \"Claude and GPT models / Five Hour Limit Remaining\": 71.409}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0.739, \"Gemini Models / Five Hour Limit Remaining\": 2.787, \"Claude and GPT models / Weekly Limit Remaining\": 0.37, \"Gemini Models / Weekly Limit Remaining\": 0.414}\nchars: 623 | words: 93\nduplicate 8/12-gram runs: 0\nwrote /root/workspace/ytb/sharawi/515/083_UuR5OdMo64Q.txt\n"
+ "usage_tail": "ne\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 25.276, \"Gemini Models / Five Hour Limit Remaining\": 9.28, \"Claude and GPT models / Weekly Limit Remaining\": 33.975, \"Claude and GPT models / Five Hour Limit Remaining\": 51.614}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.379, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.025}\nchars: 1247 | words: 186\nduplicate 8/12-gram runs: 166\nwrote /root/workspace/ytb/sharawi/515/083_UuR5OdMo64Q.txt\n"
 }

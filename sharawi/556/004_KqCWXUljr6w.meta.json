@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:KqCWXUljr6w",
+ "vid": "KqCWXUljr6w",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--556",
+ "n": 4,
+ "n_src": "playlist",
+ "title": "الشيخ الشعراوي | تفسير سورة الطور، (آية ٣١-٤٩)",
+ "title_src": "youtube",
+ "sha256": "6fc2a743e3088160672c50180427b15e54d4cc1af6a3e70869c70585a474026b",
+ "chars": 16814,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/556/004_KqCWXUljr6w.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/KqCWXUljr6w",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--556",
+ "series_slug": "sharawi--556",
+ "lesson_no": 4,
+ "yt": "KqCWXUljr6w",
+ "transcribed": "2026-10-14 14:48:50",
+ "audio": "ytb-build/audio/sharawi--556/004.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "e\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 24.689, \"Gemini Models / Five Hour Limit Remaining\": 8.569, \"Claude and GPT models / Weekly Limit Remaining\": 34.028, \"Claude and GPT models / Five Hour Limit Remaining\": 51.72}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.022, \"Gemini Models / Five Hour Limit Remaining\": 0.089}\nchars: 16813 | words: 2764\nduplicate 8/12-gram runs: 10\nwrote /root/workspace/ytb/sharawi/556/004_KqCWXUljr6w.txt\n"
+}

@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:lz3_BnJ6uJs",
+ "vid": "lz3_BnJ6uJs",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--488",
+ "n": 4,
+ "n_src": "playlist",
+ "title": "الشيخ الشعراوي | تفسير سورة الذاريات، (آية ٣١-٤١)",
+ "title_src": "youtube",
+ "sha256": "09650c52d5ececbf10b97640b6eb538cfdfd85d0895bc42e5539383602433911",
+ "chars": 26410,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/488/004_lz3_BnJ6uJs.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/lz3_BnJ6uJs",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--488",
+ "series_slug": "sharawi--488",
+ "lesson_no": 4,
+ "yt": "lz3_BnJ6uJs",
+ "transcribed": "2026-10-14 14:40:13",
+ "audio": "ytb-build/audio/sharawi--488/004.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "ge after: {\"Gemini Models / Weekly Limit Remaining\": 24.749, \"Gemini Models / Five Hour Limit Remaining\": 8.808, \"Claude and GPT models / Weekly Limit Remaining\": 34.028, \"Claude and GPT models / Five Hour Limit Remaining\": 51.72}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 0.973, \"Gemini Models / Weekly Limit Remaining\": 0.582, \"Claude and GPT models / Five Hour Limit Remaining\": -0.106, \"Claude and GPT models / Weekly Limit Remaining\": -0.053}\nchars: 26409 | words: 4589\nduplicate 8/12-gram runs: 0\nwrote /root/workspace/ytb/sharawi/488/004_lz3_BnJ6uJs.txt\n"
+}
