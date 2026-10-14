@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:UNFnRJnDndY",
+ "vid": "UNFnRJnDndY",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--543",
+ "n": 1,
+ "n_src": "playlist",
+ "title": "تفسير سورة الصافات للشيخ الشعراوي - من آية 1 إلى آية 6",
+ "title_src": "youtube",
+ "sha256": "32124bd10b09f2b865a566d9f16dd3fe2a6f90a7561f4d2c07c207223e3db762",
+ "chars": 19766,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/543/001_UNFnRJnDndY.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/UNFnRJnDndY",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--543",
+ "series_slug": "sharawi--543",
+ "lesson_no": 1,
+ "yt": "UNFnRJnDndY",
+ "transcribed": "2026-10-14 04:49:54",
+ "audio": "ytb-build/audio/sharawi--543/001.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 55.018, \"Gemini Models / Five Hour Limit Remaining\": 93.315, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 0.023, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Five Hour Limit Remaining\": 0.091, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 19765 | words: 3734\nduplicate 8/12-gram runs: 19\nwrote /root/workspace/ytb/sharawi/543/001_UNFnRJnDndY.txt\n"
+}

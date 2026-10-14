@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:oka28glAGX8",
+ "vid": "oka28glAGX8",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--593",
+ "n": 2,
+ "n_src": "playlist",
+ "title": "عقاب البخل - تفسير الشعراوي لسورة يس - 2",
+ "title_src": "youtube",
+ "sha256": "6256c8cf8ca0de686c00e550e8eeef5ce625f23ddf24f1106c64045b42647f08",
+ "chars": 22354,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/593/002_oka28glAGX8.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/oka28glAGX8",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--593",
+ "series_slug": "sharawi--593",
+ "lesson_no": 2,
+ "yt": "oka28glAGX8",
+ "transcribed": "2026-10-14 04:33:24",
+ "audio": "ytb-build/audio/sharawi--593/002.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 55.134, \"Gemini Models / Five Hour Limit Remaining\": 93.776, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Weekly Limit Remaining\": 0.024, \"Gemini Models / Five Hour Limit Remaining\": 0.099}\nchars: 22353 | words: 4028\nduplicate 8/12-gram runs: 47\nwrote /root/workspace/ytb/sharawi/593/002_oka28glAGX8.txt\n"
+}

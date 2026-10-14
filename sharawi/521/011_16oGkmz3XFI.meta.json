@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:16oGkmz3XFI",
+ "vid": "16oGkmz3XFI",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--521",
+ "n": 11,
+ "n_src": "playlist",
+ "title": "تفسير سورة فاطر للشيخ الشعراوي - من آية 44 إلى آية 45",
+ "title_src": "youtube",
+ "sha256": "30ffd63426fa3b16e42f3ee79864a2331e33a9c90f99fd9ec0b2373ca7115577",
+ "chars": 20476,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/521/011_16oGkmz3XFI.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/16oGkmz3XFI",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--521",
+ "series_slug": "sharawi--521",
+ "lesson_no": 11,
+ "yt": "16oGkmz3XFI",
+ "transcribed": "2026-10-14 04:24:26",
+ "audio": "ytb-build/audio/sharawi--521/011.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": " None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 55.174, \"Gemini Models / Five Hour Limit Remaining\": 93.936, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 0.13, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.032}\nchars: 20475 | words: 3707\nduplicate 8/12-gram runs: 42\nwrote /root/workspace/ytb/sharawi/521/011_16oGkmz3XFI.txt\n"
+}

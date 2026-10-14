@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:zPXC-J-iMDE",
+ "vid": "zPXC-J-iMDE",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--527",
+ "n": 20,
+ "n_src": "playlist",
+ "title": "تفسير سورة الأحزاب للشيخ الشعراوي - من آية 59 إلى آية 63",
+ "title_src": "youtube",
+ "sha256": "5f8b3e612d2cb133558117f2c5e49872afd3aae9f8ec67c16c8265061c63f3d0",
+ "chars": 23302,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/527/020_zPXC-J-iMDE.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/zPXC-J-iMDE",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--527",
+ "series_slug": "sharawi--527",
+ "lesson_no": 20,
+ "yt": "zPXC-J-iMDE",
+ "transcribed": "2026-10-14 03:26:02",
+ "audio": "ytb-build/audio/sharawi--527/020.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "one\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 55.603, \"Gemini Models / Five Hour Limit Remaining\": 95.652, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Five Hour Limit Remaining\": -0.544, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": -0.574}\nchars: 23301 | words: 4040\nduplicate 8/12-gram runs: 7\nwrote /root/workspace/ytb/sharawi/527/020_zPXC-J-iMDE.txt\n"
+}

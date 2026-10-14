@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:13ClnHjUMy8",
+ "vid": "13ClnHjUMy8",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--593",
+ "n": 1,
+ "n_src": "playlist",
+ "title": "لماذا سمي القرآن قرآنًا؟ - تفسير الشعراوي لسورة يس - 1",
+ "title_src": "youtube",
+ "sha256": "b6117c284d5f3b65c2d07841c1dfcac7f8bac1a2449d76fca19abab5da11f051",
+ "chars": 23314,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/593/001_13ClnHjUMy8.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/13ClnHjUMy8",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--593",
+ "series_slug": "sharawi--593",
+ "lesson_no": 1,
+ "yt": "13ClnHjUMy8",
+ "transcribed": "2026-10-14 04:32:41",
+ "audio": "ytb-build/audio/sharawi--593/001.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": " None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 55.142, \"Gemini Models / Five Hour Limit Remaining\": 93.808, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.015, \"Gemini Models / Five Hour Limit Remaining\": 0.063}\nchars: 23313 | words: 4389\nduplicate 8/12-gram runs: 4\nwrote /root/workspace/ytb/sharawi/593/001_13ClnHjUMy8.txt\n"
+}

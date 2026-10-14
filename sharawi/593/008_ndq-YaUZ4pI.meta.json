@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:ndq-YaUZ4pI",
+ "vid": "ndq-YaUZ4pI",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--593",
+ "n": 8,
+ "n_src": "playlist",
+ "title": "شرح \"اتقوا ما بين أيديكم\" - تفسير الشعراوي لسورة يس - 8",
+ "title_src": "youtube",
+ "sha256": "3f04748c8a87a12b889fb989e06107dddca859882d3b51c7a07da2d81a3f4855",
+ "chars": 24501,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/593/008_ndq-YaUZ4pI.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/ndq-YaUZ4pI",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--593",
+ "series_slug": "sharawi--593",
+ "lesson_no": 8,
+ "yt": "ndq-YaUZ4pI",
+ "transcribed": "2026-10-14 04:45:16",
+ "audio": "ytb-build/audio/sharawi--593/008.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": " None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 55.044, \"Gemini Models / Five Hour Limit Remaining\": 93.419, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 0.18, \"Gemini Models / Weekly Limit Remaining\": 0.045, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 24500 | words: 4287\nduplicate 8/12-gram runs: 90\nwrote /root/workspace/ytb/sharawi/593/008_ndq-YaUZ4pI.txt\n"
+}

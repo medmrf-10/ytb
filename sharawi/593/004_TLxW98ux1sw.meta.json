@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:TLxW98ux1sw",
+ "vid": "TLxW98ux1sw",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--593",
+ "n": 4,
+ "n_src": "playlist",
+ "title": "لماذا لم يرسل الله ملاكًا لإبلاغ الرسالة؟ - تفسير الشعراوي لسورة يس - 4",
+ "title_src": "youtube",
+ "sha256": "945c51fd2af7d0ee1415bc029aecf0f909c47f2a5d7d655231f7d0bed7628f70",
+ "chars": 22976,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/593/004_TLxW98ux1sw.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/TLxW98ux1sw",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--593",
+ "series_slug": "sharawi--593",
+ "lesson_no": 4,
+ "yt": "TLxW98ux1sw",
+ "transcribed": "2026-10-14 04:39:11",
+ "audio": "ytb-build/audio/sharawi--593/004.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": ": None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 55.074, \"Gemini Models / Five Hour Limit Remaining\": 93.536, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Five Hour Limit Remaining\": 0.24, \"Gemini Models / Weekly Limit Remaining\": 0.06, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 22975 | words: 4250\nduplicate 8/12-gram runs: 42\nwrote /root/workspace/ytb/sharawi/593/004_TLxW98ux1sw.txt\n"
+}

@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:WqnwOP6PF98",
+ "vid": "WqnwOP6PF98",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--525",
+ "n": 12,
+ "n_src": "playlist",
+ "title": "تفسير سورة سبأ للشيخ الشعراوي - من آية 52 إلى آية 54",
+ "title_src": "youtube",
+ "sha256": "44f9ba83a70f38021b2507de24e3728cddb3c97a83b68673a4b069f6abfd6d0a",
+ "chars": 26455,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/525/012_WqnwOP6PF98.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/WqnwOP6PF98",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--525",
+ "series_slug": "sharawi--525",
+ "lesson_no": 12,
+ "yt": "WqnwOP6PF98",
+ "transcribed": "2026-10-14 03:44:45",
+ "audio": "ytb-build/audio/sharawi--525/012.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 55.461, \"Gemini Models / Five Hour Limit Remaining\": 95.084, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Five Hour Limit Remaining\": 0.088, \"Gemini Models / Weekly Limit Remaining\": 0.022}\nchars: 26454 | words: 4727\nduplicate 8/12-gram runs: 47\nwrote /root/workspace/ytb/sharawi/525/012_WqnwOP6PF98.txt\n"
+}

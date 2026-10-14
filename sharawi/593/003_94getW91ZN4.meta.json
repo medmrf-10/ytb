@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:94getW91ZN4",
+ "vid": "94getW91ZN4",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--593",
+ "n": 3,
+ "n_src": "playlist",
+ "title": "معنى \"مَا قَدَّمُوا وَآثَارَهُمْ\" - تفسير الشعراوي لسورة يس - 3",
+ "title_src": "youtube",
+ "sha256": "bd7d5a26992b935286f9941911f730ea7b28d51347ebbc36a3a1d4fb323d60a0",
+ "chars": 23420,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/593/003_94getW91ZN4.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/94getW91ZN4",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--593",
+ "series_slug": "sharawi--593",
+ "lesson_no": 3,
+ "yt": "94getW91ZN4",
+ "transcribed": "2026-10-14 04:32:51",
+ "audio": "ytb-build/audio/sharawi--593/003.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": ": None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 55.137, \"Gemini Models / Five Hour Limit Remaining\": 93.788, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 0.083, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Weekly Limit Remaining\": 0.02}\nchars: 23419 | words: 4224\nduplicate 8/12-gram runs: 0\nwrote /root/workspace/ytb/sharawi/593/003_94getW91ZN4.txt\n"
+}

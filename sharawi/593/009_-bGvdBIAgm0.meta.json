@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:-bGvdBIAgm0",
+ "vid": "-bGvdBIAgm0",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--593",
+ "n": 9,
+ "n_src": "playlist",
+ "title": "الفرق بين \"الواحد\" و \"الأحد\" - تفسير الشعراوي لسورة يس - 10",
+ "title_src": "youtube",
+ "sha256": "c607b88331ef0a34496bb1e8b0fc53deaeb3e19c24aece19544959ed40f7e219",
+ "chars": 21714,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/593/009_-bGvdBIAgm0.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/-bGvdBIAgm0",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--593",
+ "series_slug": "sharawi--593",
+ "lesson_no": 9,
+ "yt": "-bGvdBIAgm0",
+ "transcribed": "2026-10-14 04:46:18",
+ "audio": "ytb-build/audio/sharawi--593/009.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 55.041, \"Gemini Models / Five Hour Limit Remaining\": 93.406, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 0.103, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.026, \"Claude and GPT models / Five Hour Limit Remaining\": 0}\nchars: 21713 | words: 4117\nduplicate 8/12-gram runs: 40\nwrote /root/workspace/ytb/sharawi/593/009_-bGvdBIAgm0.txt\n"
+}
