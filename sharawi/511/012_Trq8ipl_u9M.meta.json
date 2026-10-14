@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:Trq8ipl_u9M",
+ "vid": "Trq8ipl_u9M",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--511",
+ "n": 12,
+ "n_src": "playlist",
+ "title": "تفسير سورة الحجر للشيخ الشعراوي - من آية 80 إلى آية 87",
+ "title_src": "youtube",
+ "sha256": "90a1a4ed372738dad7eb81cc8ea8bef3779b78b46f9a8804536966003b3122de",
+ "chars": 17485,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/511/012_Trq8ipl_u9M.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/Trq8ipl_u9M",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--511",
+ "series_slug": "sharawi--511",
+ "lesson_no": 12,
+ "yt": "Trq8ipl_u9M",
+ "transcribed": "2026-10-14 22:03:00",
+ "audio": "ytb-build/audio/sharawi--511/012.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 11.409, \"Gemini Models / Five Hour Limit Remaining\": 98.779, \"Claude and GPT models / Weekly Limit Remaining\": 19.884, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 0.078, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": -0.047, \"Claude and GPT models / Five Hour Limit Remaining\": 0}\nchars: 17484 | words: 3056\nduplicate 8/12-gram runs: 4\nwrote /root/workspace/ytb/sharawi/511/012_Trq8ipl_u9M.txt\n"
+}

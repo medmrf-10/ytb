@@ -36,23 +36,23 @@
   "cov_strict": 0.673,
   "words": 3222,
   "model": "whisper-large-v3-mlx-8bit",
-  "at": "2026-10-14 21:00"
+  "at": "2026-10-14 22:21"
  },
  "align_force": {
-  "cov": 0.906,
-  "acoustic": 2919,
+  "cov": 0.9,
+  "acoustic": 2900,
   "strict": null,
-  "fallback": 303,
-  "windows": 109,
-  "chunks": 108,
-  "prob_mean": 0.605,
+  "fallback": 322,
+  "windows": 93,
+  "chunks": 91,
+  "prob_mean": 0.618,
   "model": "large-v3-8bit",
   "anchors": 1636,
   "anchors_good": 269,
-  "near_promoted": 117,
-  "fallback_left": 186,
-  "maxwin": 20.0,
+  "near_promoted": 139,
+  "fallback_left": 183,
+  "maxwin": 24.0,
   "cut_points": 1905,
-  "at": "2026-10-14 21:00"
+  "at": "2026-10-14 22:21"
  }
 }

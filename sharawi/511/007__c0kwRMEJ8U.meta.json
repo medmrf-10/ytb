@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:_c0kwRMEJ8U",
+ "vid": "_c0kwRMEJ8U",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--511",
+ "n": 7,
+ "n_src": "playlist",
+ "title": "تفسير سورة الحجر للشيخ الشعراوي - من آية 26 إلى آية 29",
+ "title_src": "youtube",
+ "sha256": "d3f396071930df8471d247e4256ce6b6d6c59d050ceb149eea06f4c7919e7550",
+ "chars": 16233,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/511/007__c0kwRMEJ8U.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/_c0kwRMEJ8U",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--511",
+ "series_slug": "sharawi--511",
+ "lesson_no": 7,
+ "yt": "_c0kwRMEJ8U",
+ "transcribed": "2026-10-14 21:52:00",
+ "audio": "ytb-build/audio/sharawi--511/007.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 11.542, \"Gemini Models / Five Hour Limit Remaining\": 99.312, \"Claude and GPT models / Weekly Limit Remaining\": 19.884, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.046, \"Gemini Models / Five Hour Limit Remaining\": 0.181, \"Claude and GPT models / Five Hour Limit Remaining\": 0}\nchars: 16232 | words: 3099\nduplicate 8/12-gram runs: 17\nwrote /root/workspace/ytb/sharawi/511/007__c0kwRMEJ8U.txt\n"
+}

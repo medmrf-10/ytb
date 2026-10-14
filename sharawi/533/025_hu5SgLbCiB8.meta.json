@@ -8,9 +8,9 @@
  "n_src": "playlist",
  "title": "تفسير سورة النحل للشيخ الشعراوي - من آية 112 إلى آية 119",
  "title_src": "youtube",
- "sha256": null,
- "chars": 0,
- "quality": "failed",
+ "sha256": "6da339bb43ac3375f4801ca32b7cc8370e16b5acaf3ff95dcc08088b8238bca6",
+ "chars": 26888,
+ "quality": "ok",
  "winner": {
   "store": "ytb-transcribe",
   "path": "ytb/sharawi/533/025_hu5SgLbCiB8.txt",
@@ -23,12 +23,12 @@
    "rel": "source"
   }
  ],
- "series": "sharawi--533",
- "series_slug": "sharawi--533",
+ "series": "_pool--533",
+ "series_slug": "_pool--533",
  "lesson_no": 25,
  "yt": "hu5SgLbCiB8",
- "transcribed": "2026-10-14 20:44:40",
- "audio": "ytb-build/audio/sharawi--533/025.mp3",
+ "transcribed": "2026-10-14 21:47:38",
+ "audio": "ytb-build/audio/_pool--533/025.mp3",
  "job": "agy+gemini عبر agy",
- "usage_tail": " 1588774, 'total_tokens': 459058}\ndenied: None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 12.168, \"Gemini Models / Five Hour Limit Remaining\": 53.59, \"Claude and GPT models / Weekly Limit Remaining\": 19.884, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": -16.57, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.459, \"Gemini Models / Five Hour Limit Remaining\": 1.838}\nchars: 0 | words: 0\nduplicate 8/12-gram runs: 0\nEMPTY transcription\n"
+ "usage_tail": "None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 11.582, \"Gemini Models / Five Hour Limit Remaining\": 99.472, \"Claude and GPT models / Weekly Limit Remaining\": 19.884, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 0.528, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Weekly Limit Remaining\": 0.061, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 26887 | words: 4747\nduplicate 8/12-gram runs: 32\nwrote /root/workspace/ytb/sharawi/533/025_hu5SgLbCiB8.txt\n"
 }
