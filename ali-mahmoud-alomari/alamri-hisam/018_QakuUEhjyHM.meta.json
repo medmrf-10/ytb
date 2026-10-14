@@ -8,9 +8,9 @@
  "n_src": "trfile",
  "title": "( 7 ) ج١ شرح الحسام الكاتي",
  "title_src": "yt_titles",
- "sha256": "97b8ed2ebfc142271016ab9b0305524d37f2ea7fe1ff4b82fbae2a4e5321de89",
+ "sha256": "2b8653d66cc35f365739bfd5ac1ccdf561a48901cdf408526915fe6c072e34eb",
  "nh": "4ee7f592c3b3e1e63ffff7ce8f8f0198ae0eda9e0dc353dd6a7ea73898c76101",
- "chars": 14964,
+ "chars": 14351,
  "quality": "contaminated",
  "winner": {
   "store": "irth",
@@ -39,5 +39,11 @@
   }
  ],
  "variants": [],
- "also_in": []
+ "also_in": [],
+ "cleaned": {
+  "what": "english_agent_preamble_removed",
+  "removed_chars": 613,
+  "when": "2026-10-14 13:09:26",
+  "archive": "_fix/english-preamble/ali-mahmoud-alomari__alamri-hisam__018_QakuUEhjyHM.txt.orig"
+ }
 }

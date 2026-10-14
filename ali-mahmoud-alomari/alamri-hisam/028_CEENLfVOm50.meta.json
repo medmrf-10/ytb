@@ -8,9 +8,9 @@
  "n_src": "trfile",
  "title": "الدرس 28",
  "title_src": "filename",
- "sha256": "0f43f2bca80e7c04c52c11ee5b386beefe6e6c30b2fdcb9a75f6dc9d9c5db697",
+ "sha256": "26b62475c3729e907a0ac5dbe6e7781682614f3b0caa880ec4aa2a6a575037df",
  "nh": "a2422180fc2ef286ce9b91faa6e1e7a93429cd0b5bfd41b33c73ab6467e00fa0",
- "chars": 8763,
+ "chars": 8216,
  "quality": "contaminated",
  "winner": {
   "store": "irth",
@@ -39,5 +39,11 @@
   }
  ],
  "variants": [],
- "also_in": []
+ "also_in": [],
+ "cleaned": {
+  "what": "english_agent_preamble_removed",
+  "removed_chars": 547,
+  "when": "2026-10-14 13:09:25",
+  "archive": "_fix/english-preamble/ali-mahmoud-alomari__alamri-hisam__028_CEENLfVOm50.txt.orig"
+ }
 }

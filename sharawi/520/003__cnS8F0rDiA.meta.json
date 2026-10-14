@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:_cnS8F0rDiA",
+ "vid": "_cnS8F0rDiA",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--520",
+ "n": 3,
+ "n_src": "playlist",
+ "title": "تفسير سورة الفتح للشيخ الشعراوي - من آية 27 إلى آية 29",
+ "title_src": "youtube",
+ "sha256": "4fe2c6f935d087980e1f1b841daaf5b20c8a180a4d63a97618e83b801592fe0d",
+ "chars": 63035,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/520/003__cnS8F0rDiA.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/_cnS8F0rDiA",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--520",
+ "series_slug": "sharawi--520",
+ "lesson_no": 3,
+ "yt": "_cnS8F0rDiA",
+ "transcribed": "2026-10-14 12:12:12",
+ "audio": "ytb-build/audio/sharawi--520/003.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "e after: {\"Gemini Models / Weekly Limit Remaining\": 41.565, \"Gemini Models / Five Hour Limit Remaining\": 74.266, \"Claude and GPT models / Weekly Limit Remaining\": 44.242, \"Claude and GPT models / Five Hour Limit Remaining\": 72.148}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 1.463, \"Gemini Models / Five Hour Limit Remaining\": 7.749, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 63034 | words: 11221\nduplicate 8/12-gram runs: 12586\nwrote /root/workspace/ytb/sharawi/520/003__cnS8F0rDiA.txt\n"
+}

@@ -8,9 +8,9 @@
  "n_src": "trfile",
  "title": "الدَّرس الواحد والأربعون_ القطب الرابع_ تتمَّة الكلام على نبوة مولانا رسول الله صلى الله عليه وسلم",
  "title_src": "yt_titles",
- "sha256": "245bf7e58341f3a2e2008723ca8c16dbfcf43aadebbc655ee98ae48916b59e11",
+ "sha256": "15a5047f0e034de34d53eec4e3592071ff1852f6291ec21184497f94ea0bf659",
  "nh": "15ce6058ed889b1794facf1a21c543e6acae49d1439dde425d840bbaf10b81bc",
- "chars": 28878,
+ "chars": 28345,
  "quality": "contaminated",
  "winner": {
   "store": "irth",
@@ -39,5 +39,11 @@
   }
  ],
  "variants": [],
- "also_in": []
+ "also_in": [],
+ "cleaned": {
+  "what": "english_agent_preamble_removed",
+  "removed_chars": 533,
+  "when": "2026-10-14 13:09:26",
+  "archive": "_fix/english-preamble/ali-mahmoud-alomari__alamri-iqtisad__041_wKkyeiDZulw.txt.orig"
+ }
 }

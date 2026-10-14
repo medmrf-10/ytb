@@ -8,9 +8,9 @@
  "n_src": "trfile",
  "title": "( 10 )٣شرح الحسام الكاتي على إيساغوجي",
  "title_src": "yt_titles",
- "sha256": "3c816936f87f854264841fdf7ba0e9be25bcdc1a750ec010b6d1b4fc95cfd83f",
+ "sha256": "b02fc4ef8cc29b0ba670b5b023bc12e5fe6427fa503687ad34176e73b5caafa9",
  "nh": "c2590ee64a4b1e0d29e947564f0593089dbcec1b6a764e1473f203cd55d932fa",
- "chars": 7911,
+ "chars": 7746,
  "quality": "ok",
  "winner": {
   "store": "irth",
@@ -39,5 +39,11 @@
   }
  ],
  "variants": [],
- "also_in": []
+ "also_in": [],
+ "cleaned": {
+  "what": "english_agent_preamble_removed",
+  "removed_chars": 165,
+  "when": "2026-10-14 13:09:25",
+  "archive": "_fix/english-preamble/ali-mahmoud-alomari__alamri-hisam__013_kEUeVav0Y9E.txt.orig"
+ }
 }

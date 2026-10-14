@@ -8,9 +8,9 @@
  "n_src": "trfile",
  "title": "الدَّرس الثَّاني عشر _ القطب الأول_ الدَّعوة الثَّامنة",
  "title_src": "yt_titles",
- "sha256": "2a5c421ab74eb9fa14dcf68510ab36c23b699a97cd902f7d5dbb7fc7987b2367",
+ "sha256": "88307ce78643a6910a3d2ec9dac2543e18647d7cd0d01bc5de133fa9581619f3",
  "nh": "57a942ecaf7deaf02430cbcaf1e93d95b6bd319d86ac14f5730c5b5efaf3ec2c",
- "chars": 41997,
+ "chars": 41825,
  "quality": "ok",
  "winner": {
   "store": "irth",
@@ -39,5 +39,11 @@
   }
  ],
  "variants": [],
- "also_in": []
+ "also_in": [],
+ "cleaned": {
+  "what": "english_agent_preamble_removed",
+  "removed_chars": 172,
+  "when": "2026-10-14 13:09:27",
+  "archive": "_fix/english-preamble/ali-mahmoud-alomari__alamri-iqtisad__012_a0M54CBocu0.txt.orig"
+ }
 }

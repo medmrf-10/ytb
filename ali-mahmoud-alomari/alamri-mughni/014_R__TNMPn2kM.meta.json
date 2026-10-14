@@ -8,9 +8,9 @@
  "n_src": "trfile",
  "title": "الدرس 14",
  "title_src": "filename",
- "sha256": "38d575042a0724ef6749983d86eb39f09da2745ce4c4e8c64504c03d7f84b0f9",
+ "sha256": "93091d8ee4351fb3ac2d740c0b156cf602d6f9013558a54f1a3c6f9d86d72d70",
  "nh": "3b7e58fa0073d11f399cfd4a1ee98ed978587119aac6e681c481ed7389dafbdf",
- "chars": 33058,
+ "chars": 32755,
  "quality": "ok",
  "winner": {
   "store": "irth",
@@ -39,5 +39,11 @@
   }
  ],
  "variants": [],
- "also_in": []
+ "also_in": [],
+ "cleaned": {
+  "what": "english_agent_preamble_removed",
+  "removed_chars": 303,
+  "when": "2026-10-14 13:09:26",
+  "archive": "_fix/english-preamble/ali-mahmoud-alomari__alamri-mughni__014_R__TNMPn2kM.txt.orig"
+ }
 }

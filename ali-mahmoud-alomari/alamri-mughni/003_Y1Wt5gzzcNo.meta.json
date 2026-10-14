@@ -8,9 +8,9 @@
  "n_src": "trfile",
  "title": "تتمة الدرس الثاني/ مغني الطلاب شرح متن إيساغوجي",
  "title_src": "yt_titles",
- "sha256": "7380fd7dc103c30c857d989d1acddb0823bc8b778b411b63e452c51a05e2dcf5",
+ "sha256": "66d721828da2d68fd321db99c152e5ba2f8bc06f9d97d13ce3d4c0321090ce2c",
  "nh": "7cabb59d153fe230273ae2d47a9b3687b6097e9bf91bbd200ee24305bb7ed108",
- "chars": 5428,
+ "chars": 5353,
  "quality": "ok",
  "winner": {
   "store": "irth",
@@ -39,5 +39,11 @@
   }
  ],
  "variants": [],
- "also_in": []
+ "also_in": [],
+ "cleaned": {
+  "what": "english_agent_preamble_removed",
+  "removed_chars": 75,
+  "when": "2026-10-14 13:09:26",
+  "archive": "_fix/english-preamble/ali-mahmoud-alomari__alamri-mughni__003_Y1Wt5gzzcNo.txt.orig"
+ }
 }

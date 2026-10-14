@@ -8,9 +8,9 @@
  "n_src": "trfile",
  "title": "الدرس الرابع شرح كتاب الاقتصاد في الاعتقاد لحجَّة الإسلام الإمام الغزالي رحمه الله تعالى",
  "title_src": "yt_titles",
- "sha256": "953404468fb6117519cb26beb264d3d16e48ad9ee6c7892dc9eb545df896b72d",
+ "sha256": "89d477c407a0923aeda2fb59109334b754114c43a8fa277af689d8e654078730",
  "nh": "6344da04af52a2d7f604d9bed68b9c24ccad392ec119234edd264353b1906b54",
- "chars": 28850,
+ "chars": 28747,
  "quality": "ok",
  "winner": {
   "store": "irth",
@@ -39,5 +39,11 @@
   }
  ],
  "variants": [],
- "also_in": []
+ "also_in": [],
+ "cleaned": {
+  "what": "english_agent_preamble_removed",
+  "removed_chars": 103,
+  "when": "2026-10-14 13:09:27",
+  "archive": "_fix/english-preamble/ali-mahmoud-alomari__alamri-iqtisad__004_OsVMKRtOYaA.txt.orig"
+ }
 }

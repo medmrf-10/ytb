@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:VqYhhm1NCcM",
+ "vid": "VqYhhm1NCcM",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--553",
+ "n": 5,
+ "n_src": "playlist",
+ "title": "الشيخ الشعراوي | تفسير سورة الحجرات، (آية ١٨)",
+ "title_src": "youtube",
+ "sha256": "4141e425ef133b681fd37f30bdfa655975853dd0927aa54918d3b91213b91246",
+ "chars": 3584,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/553/005_VqYhhm1NCcM.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/VqYhhm1NCcM",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--553",
+ "series_slug": "sharawi--553",
+ "lesson_no": 5,
+ "yt": "VqYhhm1NCcM",
+ "transcribed": "2026-10-14 12:19:23",
+ "audio": "ytb-build/audio/sharawi--553/005.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "ne\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 41.458, \"Gemini Models / Five Hour Limit Remaining\": 73.774, \"Claude and GPT models / Weekly Limit Remaining\": 44.242, \"Claude and GPT models / Five Hour Limit Remaining\": 72.148}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 0.085, \"Gemini Models / Five Hour Limit Remaining\": 0.405, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 3583 | words: 638\nduplicate 8/12-gram runs: 0\nwrote /root/workspace/ytb/sharawi/553/005_VqYhhm1NCcM.txt\n"
+}

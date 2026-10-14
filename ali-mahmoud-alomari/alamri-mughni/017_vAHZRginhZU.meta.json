@@ -8,9 +8,9 @@
  "n_src": "trfile",
  "title": "الدرس 17",
  "title_src": "filename",
- "sha256": "f41ec28ae4b1a7abdb66a2b6b49a69583b5cf3cd92453443b26572a90f6ecd07",
+ "sha256": "ac7ceda379e70a7df0ff7f0866fab7aad4737c9f8f10a5aab7d7945f20287e1a",
  "nh": "19fbf6db6c78e2f0dcde54c8232141c8b6a5aff0ca5be7192e4b3d8ee9280fea",
- "chars": 66195,
+ "chars": 64164,
  "quality": "ok",
  "winner": {
   "store": "irth",
@@ -39,5 +39,11 @@
   }
  ],
  "variants": [],
- "also_in": []
+ "also_in": [],
+ "cleaned": {
+  "what": "english_agent_preamble_removed",
+  "removed_chars": 2031,
+  "when": "2026-10-14 13:09:26",
+  "archive": "_fix/english-preamble/ali-mahmoud-alomari__alamri-mughni__017_vAHZRginhZU.txt.orig"
+ }
 }

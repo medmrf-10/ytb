@@ -8,9 +8,9 @@
  "n_src": "trfile",
  "title": "الدَّرس التَّاسع عشر _القطب الثَّاني_ صفة العلم والحياة",
  "title_src": "yt_titles",
- "sha256": "6346dcef33a76f9a68b061bc823839881eb640f0af37234543ad4eb2eb145285",
+ "sha256": "a9ec970f07cca76a8f4db3ede701a1835d2175d02cd5f32263567ef482c469f8",
  "nh": "6d5b1727a3be8906be6e07b374d2159954e2192d0b28adca7ec9f56a1cacd3b6",
- "chars": 29104,
+ "chars": 28964,
  "quality": "ok",
  "winner": {
   "store": "irth",
@@ -39,5 +39,11 @@
   }
  ],
  "variants": [],
- "also_in": []
+ "also_in": [],
+ "cleaned": {
+  "what": "english_agent_preamble_removed",
+  "removed_chars": 140,
+  "when": "2026-10-14 13:09:27",
+  "archive": "_fix/english-preamble/ali-mahmoud-alomari__alamri-iqtisad__019_LQbenSZoU00.txt.orig"
+ }
 }

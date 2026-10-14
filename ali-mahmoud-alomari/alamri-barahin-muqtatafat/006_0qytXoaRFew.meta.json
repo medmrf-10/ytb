@@ -8,9 +8,9 @@
  "n_src": "trfile",
  "title": "الدرس 6",
  "title_src": "filename",
- "sha256": "e551958887b1b6b5217dea43c7334384a30ce805cfcd0af7a28ece81b4f4a844",
+ "sha256": "c9c0229e877f1ad711855ed4e2b037b6f508241d0e9399d299b9d93c6cc8fac0",
  "nh": "9ae13509d5c8ad0dd525d5547d90be555db95c3817010d44b1774e23de97f464",
- "chars": 3351,
+ "chars": 2848,
  "quality": "ok",
  "winner": {
   "store": "irth",
@@ -39,5 +39,11 @@
   }
  ],
  "variants": [],
- "also_in": []
+ "also_in": [],
+ "cleaned": {
+  "what": "english_agent_preamble_removed",
+  "removed_chars": 503,
+  "when": "2026-10-14 13:09:28",
+  "archive": "_fix/english-preamble/ali-mahmoud-alomari__alamri-barahin-muqtatafat__006_0qytXoaRFew.txt.orig"
+ }
 }

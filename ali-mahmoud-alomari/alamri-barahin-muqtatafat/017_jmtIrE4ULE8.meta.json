@@ -8,9 +8,9 @@
  "n_src": "trfile",
  "title": "الدرس 17",
  "title_src": "filename",
- "sha256": "c8fa330fc3f90c6530e76138451a5caa720bdaebf616636726eb229d89b250e8",
+ "sha256": "d30996b063e631bed81c59cf8c69d5d87122d364c3c30e70605d4fc3f2aa7060",
  "nh": "47be63b24043be519d888c4c725d6d41242c54853202f524bdc18f943fc7c1a3",
- "chars": 1852,
+ "chars": 1815,
  "quality": "contaminated",
  "winner": {
   "store": "irth",
@@ -39,5 +39,11 @@
   }
  ],
  "variants": [],
- "also_in": []
+ "also_in": [],
+ "cleaned": {
+  "what": "english_agent_preamble_removed",
+  "removed_chars": 37,
+  "when": "2026-10-14 13:09:28",
+  "archive": "_fix/english-preamble/ali-mahmoud-alomari__alamri-barahin-muqtatafat__017_jmtIrE4ULE8.txt.orig"
+ }
 }

@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:IU3LY4ZEygk",
+ "vid": "IU3LY4ZEygk",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--515",
+ "n": 41,
+ "n_src": "playlist",
+ "title": "تفسير سورة البقرة للشيخ الشعراوي - من الآية 67 إلى الآية 73",
+ "title_src": "youtube",
+ "sha256": "c8c62b4088998cde2f2b870508b19e38b01069b08cd7fd79a25e934804d17173",
+ "chars": 25273,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/515/041_IU3LY4ZEygk.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/IU3LY4ZEygk",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--POOL",
+ "series_slug": "sharawi--POOL",
+ "lesson_no": 41,
+ "yt": "IU3LY4ZEygk",
+ "transcribed": "2026-10-14 11:55:22",
+ "audio": "ytb-build/audio/sharawi--POOL/041.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 44.214, \"Gemini Models / Five Hour Limit Remaining\": 84.759, \"Claude and GPT models / Weekly Limit Remaining\": 44.242, \"Claude and GPT models / Five Hour Limit Remaining\": 72.148}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 1.0, \"Gemini Models / Weekly Limit Remaining\": 0.947, \"Gemini Models / Five Hour Limit Remaining\": 3.524, \"Claude and GPT models / Five Hour Limit Remaining\": 3.0}\nchars: 25272 | words: 4714\nduplicate 8/12-gram runs: 0\nwrote /root/workspace/ytb/sharawi/515/041_IU3LY4ZEygk.txt\n"
+}
