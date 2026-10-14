@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:E-XX5QA3wW4",
+ "vid": "E-XX5QA3wW4",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--505",
+ "n": 5,
+ "n_src": "playlist",
+ "title": "تفسير سورة فصلت للشيخ الشعراوي - خواطر الاية 30",
+ "title_src": "youtube",
+ "sha256": "b489d6c21d2ad60a05ca3c0af7737372b4a017dbe81fbe542466da031f9cbf8f",
+ "chars": 24645,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/505/005_E-XX5QA3wW4.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/E-XX5QA3wW4",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--505",
+ "series_slug": "sharawi--505",
+ "lesson_no": 5,
+ "yt": "E-XX5QA3wW4",
+ "transcribed": "2026-10-14 08:28:07",
+ "audio": "ytb-build/audio/sharawi--505/005.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": " None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 53.909, \"Gemini Models / Five Hour Limit Remaining\": 96.832, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 0.151, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Weekly Limit Remaining\": 0.038, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 24644 | words: 4431\nduplicate 8/12-gram runs: 0\nwrote /root/workspace/ytb/sharawi/505/005_E-XX5QA3wW4.txt\n"
+}
