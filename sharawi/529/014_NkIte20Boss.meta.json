@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:NkIte20Boss",
+ "vid": "NkIte20Boss",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--529",
+ "n": 14,
+ "n_src": "playlist",
+ "title": "تفسير سورة العنكبوت للشيخ الشعراوي - من آية 58 إلى آية 63",
+ "title_src": "youtube",
+ "sha256": "9e6b8a3cfe16f3cb5e4da805fc707550b5e107bb4e2e768965145eda660f37c8",
+ "chars": 25507,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/529/014_NkIte20Boss.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/NkIte20Boss",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--529",
+ "series_slug": "sharawi--529",
+ "lesson_no": 14,
+ "yt": "NkIte20Boss",
+ "transcribed": "2026-10-14 01:15:16",
+ "audio": "ytb-build/audio/sharawi--529/014.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": " None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 56.349, \"Gemini Models / Five Hour Limit Remaining\": 11.377, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 0.11, \"Gemini Models / Weekly Limit Remaining\": 0.027, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Claude and GPT models / Five Hour Limit Remaining\": 0}\nchars: 25506 | words: 4567\nduplicate 8/12-gram runs: 58\nwrote /root/workspace/ytb/sharawi/529/014_NkIte20Boss.txt\n"
+}

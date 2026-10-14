@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:TNJew8oquHY",
+ "vid": "TNJew8oquHY",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--545",
+ "n": 13,
+ "n_src": "playlist",
+ "title": "تفسير سورة الروم للشيخ الشعراوي - من آية 36 إلى آية 38",
+ "title_src": "youtube",
+ "sha256": "db4a98b174374c68d52ff39e32dae2920180f90a5c05a95318da16fc0007bb47",
+ "chars": 23364,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/545/013_TNJew8oquHY.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/TNJew8oquHY",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--545",
+ "series_slug": "sharawi--545",
+ "lesson_no": 13,
+ "yt": "TNJew8oquHY",
+ "transcribed": "2026-10-14 01:54:40",
+ "audio": "ytb-build/audio/sharawi--545/013.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 55.728, \"Gemini Models / Five Hour Limit Remaining\": 97.903, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.156, \"Gemini Models / Weekly Limit Remaining\": 0.039}\nchars: 23363 | words: 4184\nduplicate 8/12-gram runs: 17\nwrote /root/workspace/ytb/sharawi/545/013_TNJew8oquHY.txt\n"
+}

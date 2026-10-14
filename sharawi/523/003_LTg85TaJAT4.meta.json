@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:LTg85TaJAT4",
+ "vid": "LTg85TaJAT4",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--523",
+ "n": 3,
+ "n_src": "playlist",
+ "title": "تفسير سورة لقمان للشيخ الشعراوي - من آية 5 إلى آية 6",
+ "title_src": "youtube",
+ "sha256": "e8ea5af432e3747dc0719c285864125d601c30f00d2355a302ab3b2dbc1c3cd0",
+ "chars": 35572,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/523/003_LTg85TaJAT4.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/LTg85TaJAT4",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--523",
+ "series_slug": "sharawi--523",
+ "lesson_no": 3,
+ "yt": "LTg85TaJAT4",
+ "transcribed": "2026-10-14 02:20:46",
+ "audio": "ytb-build/audio/sharawi--523/003.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "ne\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 55.555, \"Gemini Models / Five Hour Limit Remaining\": 97.212, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Five Hour Limit Remaining\": 0.209, \"Gemini Models / Weekly Limit Remaining\": 0.052}\nchars: 35571 | words: 6308\nduplicate 8/12-gram runs: 6313\nwrote /root/workspace/ytb/sharawi/523/003_LTg85TaJAT4.txt\n"
+}
