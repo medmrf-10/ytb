@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:aE2oaHZ4ayo",
+ "vid": "aE2oaHZ4ayo",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--557",
+ "n": 2,
+ "n_src": "playlist",
+ "title": "الشيخ الشعراوي | تفسير سورة الممتحنة، (آية ٧-١٣)",
+ "title_src": "youtube",
+ "sha256": "9087710c2ca2e4f83d2000426fae47b215b57426b64b037669fa6cd7692a1b41",
+ "chars": 22495,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/557/002_aE2oaHZ4ayo.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/aE2oaHZ4ayo",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--557",
+ "series_slug": "sharawi--557",
+ "lesson_no": 2,
+ "yt": "aE2oaHZ4ayo",
+ "transcribed": "2026-10-14 19:12:46",
+ "audio": "ytb-build/audio/sharawi--557/002.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "sage after: {\"Gemini Models / Weekly Limit Remaining\": 18.969, \"Gemini Models / Five Hour Limit Remaining\": 79.652, \"Claude and GPT models / Weekly Limit Remaining\": 19.884, \"Claude and GPT models / Five Hour Limit Remaining\": 83.43}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": -0.089, \"Gemini Models / Five Hour Limit Remaining\": 0.697, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 22494 | words: 3805\nduplicate 8/12-gram runs: 100\nwrote /root/workspace/ytb/sharawi/557/002_aE2oaHZ4ayo.txt\n"
+}

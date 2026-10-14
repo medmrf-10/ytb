@@ -8,9 +8,9 @@
  "n_src": "playlist",
  "title": "تفسير سورة الشورى للشيخ الشعراوي - من آية 1 إلى آية 3",
  "title_src": "youtube",
- "sha256": "4ac7197dd8cf58f332d417035ce90e35180b008f3e1b6815602b5c615bb28f2b",
- "chars": 364,
- "quality": "failed",
+ "sha256": "9c0d6c60a5035214c608a03c64b8228f0effa7768ea4b7ee057b0637dc917c96",
+ "chars": 23165,
+ "quality": "ok",
  "winner": {
   "store": "ytb-transcribe",
   "path": "ytb/sharawi/497/001_gJzWUJxeoY4.txt",
@@ -27,8 +27,8 @@
  "series_slug": "_pool--497",
  "lesson_no": 1,
  "yt": "gJzWUJxeoY4",
- "transcribed": "2026-10-14 16:47:33",
+ "transcribed": "2026-10-14 19:09:25",
  "audio": "ytb-build/audio/_pool--497/001.mp3",
  "job": "agy+gemini عبر agy",
- "usage_tail": " None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 24.305, \"Gemini Models / Five Hour Limit Remaining\": 99.821, \"Claude and GPT models / Weekly Limit Remaining\": 19.884, \"Claude and GPT models / Five Hour Limit Remaining\": 83.43}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.044, \"Gemini Models / Five Hour Limit Remaining\": 0.177, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0}\nchars: 363 | words: 36\nduplicate 8/12-gram runs: 0\nwrote /root/workspace/ytb/sharawi/497/001_gJzWUJxeoY4.txt\n"
+ "usage_tail": "\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 18.741, \"Gemini Models / Five Hour Limit Remaining\": 79.791, \"Claude and GPT models / Weekly Limit Remaining\": 19.884, \"Claude and GPT models / Five Hour Limit Remaining\": 83.43}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.524, \"Gemini Models / Five Hour Limit Remaining\": 2.098, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0}\nchars: 23164 | words: 4197\nduplicate 8/12-gram runs: 11\nwrote /root/workspace/ytb/sharawi/497/001_gJzWUJxeoY4.txt\n"
 }

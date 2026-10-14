@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:6L-vT_ankWE",
+ "vid": "6L-vT_ankWE",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--472",
+ "n": 1,
+ "n_src": "playlist",
+ "title": "الشيخ الشعراوي | تفسير سورة الحديد، (آية ١-٥)",
+ "title_src": "youtube",
+ "sha256": "f127e9a8c783978dbba2cf722d72c07ac756d7a5d13b912415a8b44e9c9674cd",
+ "chars": 23686,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/472/001_6L-vT_ankWE.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/6L-vT_ankWE",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--472",
+ "series_slug": "sharawi--472",
+ "lesson_no": 1,
+ "yt": "6L-vT_ankWE",
+ "transcribed": "2026-10-14 18:04:17",
+ "audio": "ytb-build/audio/sharawi--472/001.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 22.945, \"Gemini Models / Five Hour Limit Remaining\": 95.557, \"Claude and GPT models / Weekly Limit Remaining\": 19.884, \"Claude and GPT models / Five Hour Limit Remaining\": 83.43}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.122, \"Gemini Models / Five Hour Limit Remaining\": 0.487}\nchars: 23685 | words: 4026\nduplicate 8/12-gram runs: 20\nwrote /root/workspace/ytb/sharawi/472/001_6L-vT_ankWE.txt\n"
+}

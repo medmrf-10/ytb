@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:QV4xJGrx7bg",
+ "vid": "QV4xJGrx7bg",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--559",
+ "n": 4,
+ "n_src": "playlist",
+ "title": "الشيخ الشعراوي | تفسير سورة الحشر، (آية ٢٣-٢٤)",
+ "title_src": "youtube",
+ "sha256": "d629e8252e473e0afce17b78f2c08b33172bcd816048d0c04777de603aafc90f",
+ "chars": 27410,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/559/004_QV4xJGrx7bg.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/QV4xJGrx7bg",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--559",
+ "series_slug": "sharawi--559",
+ "lesson_no": 4,
+ "yt": "QV4xJGrx7bg",
+ "transcribed": "2026-10-14 19:04:11",
+ "audio": "ytb-build/audio/sharawi--559/004.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "e\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 18.967, \"Gemini Models / Five Hour Limit Remaining\": 80.696, \"Claude and GPT models / Weekly Limit Remaining\": 19.884, \"Claude and GPT models / Five Hour Limit Remaining\": 83.43}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 4.39, \"Gemini Models / Weekly Limit Remaining\": 1.098, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 27409 | words: 5010\nduplicate 8/12-gram runs: 62\nwrote /root/workspace/ytb/sharawi/559/004_QV4xJGrx7bg.txt\n"
+}

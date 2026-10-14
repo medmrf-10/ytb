@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:nbS6kQmEbY8",
+ "vid": "nbS6kQmEbY8",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--472",
+ "n": 4,
+ "n_src": "playlist",
+ "title": "الشيخ الشعراوي | تفسير سورة الحديد، (آية ١١-٢٠)",
+ "title_src": "youtube",
+ "sha256": "43fa7de2d8fe6bf0d28ecd15723af60f1f29b5c3e684fa88add122e16e673788",
+ "chars": 19919,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/472/004_nbS6kQmEbY8.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/nbS6kQmEbY8",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--472",
+ "series_slug": "sharawi--472",
+ "lesson_no": 4,
+ "yt": "nbS6kQmEbY8",
+ "transcribed": "2026-10-14 18:05:15",
+ "audio": "ytb-build/audio/sharawi--472/004.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 22.926, \"Gemini Models / Five Hour Limit Remaining\": 95.482, \"Claude and GPT models / Weekly Limit Remaining\": 19.884, \"Claude and GPT models / Five Hour Limit Remaining\": 83.43}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.165, \"Gemini Models / Five Hour Limit Remaining\": 0.657}\nchars: 19918 | words: 3196\nduplicate 8/12-gram runs: 22\nwrote /root/workspace/ytb/sharawi/472/004_nbS6kQmEbY8.txt\n"
+}

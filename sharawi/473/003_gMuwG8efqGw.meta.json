@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:gMuwG8efqGw",
+ "vid": "gMuwG8efqGw",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--473",
+ "n": 3,
+ "n_src": "playlist",
+ "title": "الشيخ الشعراوي | تفسير سورة الواقعة، (آية ٧٧-٩٦)",
+ "title_src": "youtube",
+ "sha256": "100ce7efcf435638bb37e5560b4beca386cdd29302cc4ea589a95e37a2be471c",
+ "chars": 61984,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/473/003_gMuwG8efqGw.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/gMuwG8efqGw",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--473",
+ "series_slug": "sharawi--473",
+ "lesson_no": 3,
+ "yt": "gMuwG8efqGw",
+ "transcribed": "2026-10-14 17:57:31",
+ "audio": "ytb-build/audio/sharawi--473/003.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "ge after: {\"Gemini Models / Weekly Limit Remaining\": 22.834, \"Gemini Models / Five Hour Limit Remaining\": 97.011, \"Claude and GPT models / Weekly Limit Remaining\": 19.884, \"Claude and GPT models / Five Hour Limit Remaining\": 83.43}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 0.569, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.376}\nchars: 61983 | words: 10752\nduplicate 8/12-gram runs: 10796\nwrote /root/workspace/ytb/sharawi/473/003_gMuwG8efqGw.txt\n"
+}

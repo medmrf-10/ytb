@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:wtOIjHQqrSU",
+ "vid": "wtOIjHQqrSU",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--537",
+ "n": 3,
+ "n_src": "playlist",
+ "title": "تفسير سورة ق للشيخ الشعراوي - من آية 11 إلى آية 14",
+ "title_src": "youtube",
+ "sha256": "9c9b138b1e276ee3d26d734e62b0cece01087b4270363728ccb5ba47971b9107",
+ "chars": 26764,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/537/003_wtOIjHQqrSU.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/wtOIjHQqrSU",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--537",
+ "series_slug": "sharawi--537",
+ "lesson_no": 3,
+ "yt": "wtOIjHQqrSU",
+ "transcribed": "2026-10-14 17:23:59",
+ "audio": "ytb-build/audio/sharawi--537/003.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 23.525, \"Gemini Models / Five Hour Limit Remaining\": 97.879, \"Claude and GPT models / Weekly Limit Remaining\": 19.884, \"Claude and GPT models / Five Hour Limit Remaining\": 83.43}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 0.589, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 1.177}\nchars: 26763 | words: 4772\nduplicate 8/12-gram runs: 10\nwrote /root/workspace/ytb/sharawi/537/003_wtOIjHQqrSU.txt\n"
+}

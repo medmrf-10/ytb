@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:bFyI1cSwDg4",
+ "vid": "bFyI1cSwDg4",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--471",
+ "n": 2,
+ "n_src": "playlist",
+ "title": "الشيخ الشعراوي | تفسير سورة الرحمن، (آية ١-٥)",
+ "title_src": "youtube",
+ "sha256": "50f9fceff9bc79d3867a0bc93fdd40a23b9eb259994b3ed39d62c89842b85306",
+ "chars": 16409,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/471/002_bFyI1cSwDg4.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/bFyI1cSwDg4",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--471",
+ "series_slug": "sharawi--471",
+ "lesson_no": 2,
+ "yt": "bFyI1cSwDg4",
+ "transcribed": "2026-10-14 17:41:45",
+ "audio": "ytb-build/audio/sharawi--471/002.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "e\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 23.434, \"Gemini Models / Five Hour Limit Remaining\": 97.512, \"Claude and GPT models / Weekly Limit Remaining\": 19.884, \"Claude and GPT models / Five Hour Limit Remaining\": 83.43}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 0.055, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.221}\nchars: 16408 | words: 2971\nduplicate 8/12-gram runs: 5\nwrote /root/workspace/ytb/sharawi/471/002_bFyI1cSwDg4.txt\n"
+}

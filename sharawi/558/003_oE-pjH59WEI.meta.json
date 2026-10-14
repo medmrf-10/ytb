@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:oE-pjH59WEI",
+ "vid": "oE-pjH59WEI",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--558",
+ "n": 3,
+ "n_src": "playlist",
+ "title": "الشيخ الشعراوي | تفسير سورة المجادلة، (آية ١٢-٢٢)",
+ "title_src": "youtube",
+ "sha256": "d47e0bd28b0d7fc9d3706cad7089380957a8870dd18e7b13f0d0964836aa94e6",
+ "chars": 27512,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/558/003_oE-pjH59WEI.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/oE-pjH59WEI",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--558",
+ "series_slug": "sharawi--558",
+ "lesson_no": 3,
+ "yt": "oE-pjH59WEI",
+ "transcribed": "2026-10-14 18:47:58",
+ "audio": "ytb-build/audio/sharawi--558/003.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 20.442, \"Gemini Models / Five Hour Limit Remaining\": 86.596, \"Claude and GPT models / Weekly Limit Remaining\": 19.884, \"Claude and GPT models / Five Hour Limit Remaining\": 83.43}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 1.388, \"Gemini Models / Five Hour Limit Remaining\": 5.552, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0}\nchars: 27511 | words: 4461\nduplicate 8/12-gram runs: 68\nwrote /root/workspace/ytb/sharawi/558/003_oE-pjH59WEI.txt\n"
+}

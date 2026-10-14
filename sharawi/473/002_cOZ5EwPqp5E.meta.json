@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:cOZ5EwPqp5E",
+ "vid": "cOZ5EwPqp5E",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--473",
+ "n": 2,
+ "n_src": "playlist",
+ "title": "الشيخ الشعراوي | تفسير سورة الواقعة، (آية ٥٩-٨٥)",
+ "title_src": "youtube",
+ "sha256": "3ff80fd189c62ebdb3a4ac7968d1605b7b70c8cc578aec9444927ba99d74b29d",
+ "chars": 18378,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/473/002_cOZ5EwPqp5E.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/cOZ5EwPqp5E",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--473",
+ "series_slug": "sharawi--473",
+ "lesson_no": 2,
+ "yt": "cOZ5EwPqp5E",
+ "transcribed": "2026-10-14 17:54:09",
+ "audio": "ytb-build/audio/sharawi--473/002.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 23.263, \"Gemini Models / Five Hour Limit Remaining\": 96.828, \"Claude and GPT models / Weekly Limit Remaining\": 19.884, \"Claude and GPT models / Five Hour Limit Remaining\": 83.43}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 0.622, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.155}\nchars: 18377 | words: 3049\nduplicate 8/12-gram runs: 14\nwrote /root/workspace/ytb/sharawi/473/002_cOZ5EwPqp5E.txt\n"
+}

@@ -30,5 +30,23 @@
  "transcribed": "2026-10-13 14:00:41",
  "audio": "ytb-build/audio/sharawi--539/003.mp3",
  "job": "agy+gemini عبر agy",
- "usage_tail": "usage after: {\"Gemini Models / Weekly Limit Remaining\": 83.693, \"Gemini Models / Five Hour Limit Remaining\": 97.307, \"Claude and GPT models / Weekly Limit Remaining\": 60.868, \"Claude and GPT models / Five Hour Limit Remaining\": 83.624}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 0.508, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.127, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 18591 | words: 3148\nduplicate 8/12-gram runs: 31\nwrote /root/workspace/ytb/sharawi/539/003_wlYKOpfIau0.txt\n"
+ "usage_tail": "usage after: {\"Gemini Models / Weekly Limit Remaining\": 83.693, \"Gemini Models / Five Hour Limit Remaining\": 97.307, \"Claude and GPT models / Weekly Limit Remaining\": 60.868, \"Claude and GPT models / Five Hour Limit Remaining\": 83.624}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 0.508, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.127, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 18591 | words: 3148\nduplicate 8/12-gram runs: 31\nwrote /root/workspace/ytb/sharawi/539/003_wlYKOpfIau0.txt\n",
+ "align": {
+  "cov": 0.784,
+  "cov_strict": 0.54,
+  "words": 3148,
+  "model": "whisper-large-v3-turbo-q4",
+  "at": "2026-10-14 19:09"
+ },
+ "align_force": {
+  "cov": 0.871,
+  "acoustic": 2741,
+  "strict": null,
+  "fallback": 407,
+  "windows": 114,
+  "chunks": 114,
+  "prob_mean": 0.568,
+  "model": "large-v3-8bit",
+  "at": "2026-10-14 19:09"
+ }
 }

@@ -36,5 +36,23 @@
   "removed_chars": 29,
   "when": "2026-10-14 13:09:45",
   "archive": "_fix/english-preamble/sharawi__539__005_k27ANM6OzlQ.txt.orig"
+ },
+ "align": {
+  "cov": 0.748,
+  "cov_strict": 0.554,
+  "words": 3104,
+  "model": "whisper-large-v3-turbo-q4",
+  "at": "2026-10-14 19:09"
+ },
+ "align_force": {
+  "cov": 0.664,
+  "acoustic": 2062,
+  "strict": null,
+  "fallback": 1042,
+  "windows": 116,
+  "chunks": 116,
+  "prob_mean": 0.529,
+  "model": "large-v3-8bit",
+  "at": "2026-10-14 19:09"
  }
 }
