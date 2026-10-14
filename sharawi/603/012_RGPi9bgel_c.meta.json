@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:RGPi9bgel_c",
+ "vid": "RGPi9bgel_c",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--603",
+ "n": 12,
+ "n_src": "playlist",
+ "title": "شرح \"واتبعوا أحسن ما أنُزل إليكم\" - تفسير الشعراوي لسورة الزمر - 14",
+ "title_src": "youtube",
+ "sha256": "52a9502d18c087f2ff24a54561e2e6fa5a87616ed177a529704b81d1925aa501",
+ "chars": 25235,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/603/012_RGPi9bgel_c.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/RGPi9bgel_c",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--603",
+ "series_slug": "sharawi--603",
+ "lesson_no": 12,
+ "yt": "RGPi9bgel_c",
+ "transcribed": "2026-10-14 06:52:43",
+ "audio": "ytb-build/audio/sharawi--603/012.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 54.486, \"Gemini Models / Five Hour Limit Remaining\": 99.137, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Weekly Limit Remaining\": 0.017, \"Gemini Models / Five Hour Limit Remaining\": 0.069, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 25234 | words: 4555\nduplicate 8/12-gram runs: 40\nwrote /root/workspace/ytb/sharawi/603/012_RGPi9bgel_c.txt\n"
+}

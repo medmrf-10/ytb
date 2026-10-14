@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:DLyyCBrU-YQ",
+ "vid": "DLyyCBrU-YQ",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--603",
+ "n": 6,
+ "n_src": "playlist",
+ "title": "المقصود بـ \"كتابًا متشابهًا\"  - تفسير الشعراوي لسورة الزمر - 8",
+ "title_src": "youtube",
+ "sha256": "c128a42df74440c02b777847cb9908ffd0f8bdecb5b0f932380bf3040d66a490",
+ "chars": 18322,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/603/006_DLyyCBrU-YQ.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/DLyyCBrU-YQ",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--603",
+ "series_slug": "sharawi--603",
+ "lesson_no": 6,
+ "yt": "DLyyCBrU-YQ",
+ "transcribed": "2026-10-14 06:40:25",
+ "audio": "ytb-build/audio/sharawi--603/006.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": " None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 54.582, \"Gemini Models / Five Hour Limit Remaining\": 99.524, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 0.035, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.14}\nchars: 18321 | words: 3093\nduplicate 8/12-gram runs: 29\nwrote /root/workspace/ytb/sharawi/603/006_DLyyCBrU-YQ.txt\n"
+}

@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:6FD7hhqJsp4",
+ "vid": "6FD7hhqJsp4",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--603",
+ "n": 3,
+ "n_src": "playlist",
+ "title": "متى ظلم الإنسان نفسه؟ - تفسير الشعراوي لسورة الزمر - 3",
+ "title_src": "youtube",
+ "sha256": "bbe160c881a1049af548315bcbd57d482cc4add846db1a1922d188893773cdad",
+ "chars": 16059,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/603/003_6FD7hhqJsp4.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/6FD7hhqJsp4",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--603",
+ "series_slug": "sharawi--603",
+ "lesson_no": 3,
+ "yt": "6FD7hhqJsp4",
+ "transcribed": "2026-10-14 06:30:40",
+ "audio": "ytb-build/audio/sharawi--603/003.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 54.659, \"Gemini Models / Five Hour Limit Remaining\": 99.829, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.076, \"Gemini Models / Weekly Limit Remaining\": 0.019}\nchars: 16058 | words: 2852\nduplicate 8/12-gram runs: 10\nwrote /root/workspace/ytb/sharawi/603/003_6FD7hhqJsp4.txt\n"
+}

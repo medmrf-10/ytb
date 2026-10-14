@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:DkCkByC_hIk",
+ "vid": "DkCkByC_hIk",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--603",
+ "n": 16,
+ "n_src": "playlist",
+ "title": "لماذا طلب الله من الملائكة السجود لآدم؟ - تفسير الشعراوي لسورة الزمر - 18",
+ "title_src": "youtube",
+ "sha256": "53ba1f9ee8c3bed57c04614119120618bfda3ef3d4183750748f85f907893bdb",
+ "chars": 9762,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/603/016_DkCkByC_hIk.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/DkCkByC_hIk",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--603",
+ "series_slug": "sharawi--603",
+ "lesson_no": 16,
+ "yt": "DkCkByC_hIk",
+ "transcribed": "2026-10-14 07:04:18",
+ "audio": "ytb-build/audio/sharawi--603/016.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": ": None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 54.427, \"Gemini Models / Five Hour Limit Remaining\": 98.905, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 0.037, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.146, \"Claude and GPT models / Five Hour Limit Remaining\": 0}\nchars: 9761 | words: 1620\nduplicate 8/12-gram runs: 7\nwrote /root/workspace/ytb/sharawi/603/016_DkCkByC_hIk.txt\n"
+}

@@ -8,8 +8,8 @@
  "n_src": "playlist",
  "title": "تفسير سورة الصافات للشيخ الشعراوي - من آية 151 إلى آية 174",
  "title_src": "youtube",
- "sha256": "b8e5fc86f6ef063a9397c8085910a69bca312e98356d39a433bf03c6bf4016c2",
- "chars": 16353,
+ "sha256": "defad600762d3c138458b56c85ce44f804fc696b35db1dbd56b5bc6ecb3fc407",
+ "chars": 16106,
  "quality": "ok",
  "winner": {
   "store": "ytb-transcribe",
@@ -27,8 +27,8 @@
  "series_slug": "sharawi--543",
  "lesson_no": 11,
  "yt": "eLNlCaZw14k",
- "transcribed": "2026-10-14 05:02:07",
+ "transcribed": "2026-10-14 05:47:08",
  "audio": "ytb-build/audio/sharawi--543/011.mp3",
  "job": "agy+gemini عبر agy",
- "usage_tail": " None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 54.928, \"Gemini Models / Five Hour Limit Remaining\": 92.953, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.021, \"Gemini Models / Five Hour Limit Remaining\": 0.083}\nchars: 16352 | words: 2679\nduplicate 8/12-gram runs: 2\nwrote /root/workspace/ytb/sharawi/543/011_eLNlCaZw14k.txt\n"
+ "usage_tail": ": None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 54.84, \"Gemini Models / Five Hour Limit Remaining\": 92.602, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Weekly Limit Remaining\": 0.006, \"Gemini Models / Five Hour Limit Remaining\": 0.023}\nchars: 16105 | words: 2643\nduplicate 8/12-gram runs: 2\nwrote /root/workspace/ytb/sharawi/543/011_eLNlCaZw14k.txt\n"
 }

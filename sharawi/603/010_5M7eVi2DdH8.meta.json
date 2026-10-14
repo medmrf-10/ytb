@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:5M7eVi2DdH8",
+ "vid": "5M7eVi2DdH8",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--603",
+ "n": 10,
+ "n_src": "playlist",
+ "title": "شرح \"الله يتوفى الأنفس حين موتها\" - تفسير الشعراوي لسورة الزمر - 12",
+ "title_src": "youtube",
+ "sha256": "47943f7c0f57c35d8a7b400deedb1f9d95851300603769c14e2499862424fbe4",
+ "chars": 24571,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/603/010_5M7eVi2DdH8.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/5M7eVi2DdH8",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--603",
+ "series_slug": "sharawi--603",
+ "lesson_no": 10,
+ "yt": "5M7eVi2DdH8",
+ "transcribed": "2026-10-14 06:48:47",
+ "audio": "ytb-build/audio/sharawi--603/010.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 54.503, \"Gemini Models / Five Hour Limit Remaining\": 99.206, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.049, \"Gemini Models / Five Hour Limit Remaining\": 0.197}\nchars: 24570 | words: 4372\nduplicate 8/12-gram runs: 20\nwrote /root/workspace/ytb/sharawi/603/010_5M7eVi2DdH8.txt\n"
+}

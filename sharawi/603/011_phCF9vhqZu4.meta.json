@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:phCF9vhqZu4",
+ "vid": "phCF9vhqZu4",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--603",
+ "n": 11,
+ "n_src": "playlist",
+ "title": "\"فاطر السماوات والأرض\" - تفسير الشعراوي لسورة الزمر - 13",
+ "title_src": "youtube",
+ "sha256": "53b8f2cfd90320e1ad0b25554150192bd7fdbed1ff17cc3917fbec6428db6c8b",
+ "chars": 26693,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/603/011_phCF9vhqZu4.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/phCF9vhqZu4",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--603",
+ "series_slug": "sharawi--603",
+ "lesson_no": 11,
+ "yt": "phCF9vhqZu4",
+ "transcribed": "2026-10-14 06:52:58",
+ "audio": "ytb-build/audio/sharawi--603/011.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 54.477, \"Gemini Models / Five Hour Limit Remaining\": 99.103, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.026, \"Gemini Models / Five Hour Limit Remaining\": 0.103, \"Claude and GPT models / Five Hour Limit Remaining\": 0}\nchars: 26692 | words: 4667\nduplicate 8/12-gram runs: 63\nwrote /root/workspace/ytb/sharawi/603/011_phCF9vhqZu4.txt\n"
+}

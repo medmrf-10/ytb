@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:r-gnVsAmJKQ",
+ "vid": "r-gnVsAmJKQ",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--603",
+ "n": 2,
+ "n_src": "playlist",
+ "title": "الفرق بين \"أنزل لكم\" و \"أنزل عليكم\" - تفسير الشعراوي لسورة الزمر - 2",
+ "title_src": "youtube",
+ "sha256": "01b73f73f26072fdc97e604fcc45261bbe52bda2874c51a2a400e64f13f45fc4",
+ "chars": 17326,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/603/002_r-gnVsAmJKQ.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/r-gnVsAmJKQ",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--603",
+ "series_slug": "sharawi--603",
+ "lesson_no": 2,
+ "yt": "r-gnVsAmJKQ",
+ "transcribed": "2026-10-14 06:34:03",
+ "audio": "ytb-build/audio/sharawi--603/002.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": " None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 54.634, \"Gemini Models / Five Hour Limit Remaining\": 99.731, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.174, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Weekly Limit Remaining\": 0.044}\nchars: 17325 | words: 2982\nduplicate 8/12-gram runs: 9\nwrote /root/workspace/ytb/sharawi/603/002_r-gnVsAmJKQ.txt\n"
+}
