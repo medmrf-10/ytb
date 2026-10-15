@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:HXxfIN1wqnY",
+ "vid": "HXxfIN1wqnY",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--571",
+ "n": 10,
+ "n_src": "playlist",
+ "title": "الشيخ الشعراوي | تفسير سورة الأنفال، (آية ٤٩-٥٤)",
+ "title_src": "youtube",
+ "sha256": "172c2aaeafce17d8c4f258b29a33dc982fac68868374ed3f4a216a60c1efe1a6",
+ "chars": 14196,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/571/010_HXxfIN1wqnY.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/HXxfIN1wqnY",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--571",
+ "series_slug": "sharawi--571",
+ "lesson_no": 10,
+ "yt": "HXxfIN1wqnY",
+ "transcribed": "2026-10-15 19:36:24",
+ "audio": "ytb-build/audio/sharawi--571/010.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": ": None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 88.883, \"Gemini Models / Five Hour Limit Remaining\": 67.417, \"Claude and GPT models / Weekly Limit Remaining\": 8.07, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.579, \"Gemini Models / Weekly Limit Remaining\": 0.144, \"Claude and GPT models / Five Hour Limit Remaining\": 0}\nchars: 14195 | words: 2369\nduplicate 8/12-gram runs: 28\nwrote /root/workspace/ytb/sharawi/571/010_HXxfIN1wqnY.txt\n"
+}

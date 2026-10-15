@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:2ZindNhR0mM",
+ "vid": "2ZindNhR0mM",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--510",
+ "n": 45,
+ "n_src": "playlist",
+ "title": "تفسير سورة الأعراف للشيخ الشعراوي - من الآية 199 إلى الآية 205",
+ "title_src": "youtube",
+ "sha256": "dd97ac55eee6657a91b5950112e799ad95c71bf2af11b968f3c281566b02658e",
+ "chars": 25306,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/510/045_2ZindNhR0mM.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/2ZindNhR0mM",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--510",
+ "series_slug": "sharawi--510",
+ "lesson_no": 45,
+ "yt": "2ZindNhR0mM",
+ "transcribed": "2026-10-15 21:23:15",
+ "audio": "ytb-build/audio/sharawi--510/045.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": ": None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 82.135, \"Gemini Models / Five Hour Limit Remaining\": 42.435, \"Claude and GPT models / Weekly Limit Remaining\": 8.07, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 0.545, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.137, \"Claude and GPT models / Five Hour Limit Remaining\": 0}\nchars: 25305 | words: 4364\nduplicate 8/12-gram runs: 28\nwrote /root/workspace/ytb/sharawi/510/045_2ZindNhR0mM.txt\n"
+}

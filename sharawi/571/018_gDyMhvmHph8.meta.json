@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:gDyMhvmHph8",
+ "vid": "gDyMhvmHph8",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--571",
+ "n": 18,
+ "n_src": "playlist",
+ "title": "الشيخ الشعراوي | تفسير سورة التوبة، (آية ٦)",
+ "title_src": "youtube",
+ "sha256": "97a344d357dd4ad5d100b611d776f7c6681e22ba7442d60238a018f0da5367ec",
+ "chars": 15684,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/571/018_gDyMhvmHph8.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/gDyMhvmHph8",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--571",
+ "series_slug": "sharawi--571",
+ "lesson_no": 18,
+ "yt": "gDyMhvmHph8",
+ "transcribed": "2026-10-15 19:55:06",
+ "audio": "ytb-build/audio/sharawi--571/018.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "d: None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 88.24, \"Gemini Models / Five Hour Limit Remaining\": 63.848, \"Claude and GPT models / Weekly Limit Remaining\": 8.07, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.604, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Five Hour Limit Remaining\": 3.414}\nchars: 15683 | words: 2783\nduplicate 8/12-gram runs: 22\nwrote /root/workspace/ytb/sharawi/571/018_gDyMhvmHph8.txt\n"
+}
