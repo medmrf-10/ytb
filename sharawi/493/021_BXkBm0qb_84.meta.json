@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:BXkBm0qb_84",
+ "vid": "BXkBm0qb_84",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--493",
+ "n": 21,
+ "n_src": "playlist",
+ "title": "تفسير سورة التوبة للشيخ الشعراوي - خواطر الاية 36 - 2/2",
+ "title_src": "youtube",
+ "sha256": "1926928c1333e6cfc7f5b65c51982e7c167a392eb1eebeaaaaef24dc6c39c163",
+ "chars": 16977,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/493/021_BXkBm0qb_84.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/BXkBm0qb_84",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--493",
+ "series_slug": "sharawi--493",
+ "lesson_no": 21,
+ "yt": "BXkBm0qb_84",
+ "transcribed": "2026-10-15 17:23:51",
+ "audio": "ytb-build/audio/sharawi--493/021.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": ": SUCCESS | conversation: b76fe7ca-94a1-4d1a-91f0-e05a695645b7\nusage tokens: {'input_tokens': 200519, 'output_tokens': 12625, 'thinking_tokens': 3842, 'cache_read_tokens': 708090, 'total_tokens': 213144}\ndenied: None\nusage after: {}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 96.075, \"Claude and GPT models / Five Hour Limit Remaining\": 100, \"Claude and GPT models / Weekly Limit Remaining\": 8.07, \"Gemini Models / Weekly Limit Remaining\": 98.767}\nchars: 16976 | words: 3100\nduplicate 8/12-gram runs: 12\nwrote /root/workspace/ytb/sharawi/493/021_BXkBm0qb_84.txt\n"
+}

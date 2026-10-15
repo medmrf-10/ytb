@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:vCUBlX4DOec",
+ "vid": "vCUBlX4DOec",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--493",
+ "n": 15,
+ "n_src": "playlist",
+ "title": "تفسير سورة التوبة للشيخ الشعراوي - من الآية 28 إلى الآية 29",
+ "title_src": "youtube",
+ "sha256": null,
+ "chars": 0,
+ "quality": "failed",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/493/015_vCUBlX4DOec.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/vCUBlX4DOec",
+   "rel": "source"
+  }
+ ],
+ "series": "_pool--493",
+ "series_slug": "_pool--493",
+ "lesson_no": 15,
+ "yt": "vCUBlX4DOec",
+ "transcribed": "2026-10-15 17:15:24",
+ "audio": "ytb-build/audio/_pool--493/015.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "che_read_tokens': 0, 'total_tokens': 0}\ndenied: None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 99.146, \"Gemini Models / Five Hour Limit Remaining\": 96.486, \"Claude and GPT models / Weekly Limit Remaining\": 8.07, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 0.008, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Weekly Limit Remaining\": 0.002, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 0 | words: 0\nduplicate 8/12-gram runs: 0\nEMPTY transcription\n"
+}
