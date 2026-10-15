@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:u4XFxRCUAT0",
+ "vid": "u4XFxRCUAT0",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--540",
+ "n": 33,
+ "n_src": "playlist",
+ "title": "تفسير سورة الأنعام للشيخ الشعراوي - من الآية 118 إلى الآية 120",
+ "title_src": "youtube",
+ "sha256": "913031b6a3210ad4ba6d77d680af719bc79bb241f823801bf4569bf4d1aa3a54",
+ "chars": 23082,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/540/033_u4XFxRCUAT0.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/u4XFxRCUAT0",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--540",
+ "series_slug": "sharawi--540",
+ "lesson_no": 33,
+ "yt": "u4XFxRCUAT0",
+ "transcribed": "2026-10-15 23:39:48",
+ "audio": "ytb-build/audio/sharawi--540/033.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "ne\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 80.358, \"Gemini Models / Five Hour Limit Remaining\": 95.048, \"Claude and GPT models / Weekly Limit Remaining\": 7.556, \"Claude and GPT models / Five Hour Limit Remaining\": 98.972}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.401, \"Gemini Models / Weekly Limit Remaining\": 0.1, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 23081 | words: 4272\nduplicate 8/12-gram runs: 11\nwrote /root/workspace/ytb/sharawi/540/033_u4XFxRCUAT0.txt\n"
+}

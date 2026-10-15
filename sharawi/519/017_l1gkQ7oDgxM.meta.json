@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:l1gkQ7oDgxM",
+ "vid": "l1gkQ7oDgxM",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--519",
+ "n": 17,
+ "n_src": "playlist",
+ "title": "تفسير سورة المائدة للشيخ الشعراوي - من الآية 31 إلى الآية 32",
+ "title_src": "youtube",
+ "sha256": "9748f943e46a1a2f884d945f42c4f6ddbad9d147243c94a3414cf87620c7fc38",
+ "chars": 27553,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/519/017_l1gkQ7oDgxM.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/l1gkQ7oDgxM",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--519",
+ "series_slug": "sharawi--519",
+ "lesson_no": 17,
+ "yt": "l1gkQ7oDgxM",
+ "transcribed": "2026-10-16 01:24:35",
+ "audio": "ytb-build/audio/sharawi--519/017.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 72.945, \"Gemini Models / Five Hour Limit Remaining\": 65.265, \"Claude and GPT models / Weekly Limit Remaining\": 7.556, \"Claude and GPT models / Five Hour Limit Remaining\": 98.972}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 0.073, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.292, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 27552 | words: 4940\nduplicate 8/12-gram runs: 53\nwrote /root/workspace/ytb/sharawi/519/017_l1gkQ7oDgxM.txt\n"
+}

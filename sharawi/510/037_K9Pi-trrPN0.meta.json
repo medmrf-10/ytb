@@ -8,9 +8,9 @@
  "n_src": "playlist",
  "title": "تفسير سورة الأعراف للشيخ الشعراوي - من الآية 170 إلى الآية 171",
  "title_src": "youtube",
- "sha256": "15b31be86ae598385f195def1e1ee0a1b186d1b55fba06965daaa4569f324170",
- "chars": 10160,
- "quality": "failed",
+ "sha256": "4eccc9219e8486a14b1e2831c5394284cfe2e63d00b2da8e2a2e679888f3db99",
+ "chars": 26720,
+ "quality": "ok",
  "winner": {
   "store": "ytb-transcribe",
   "path": "ytb/sharawi/510/037_K9Pi-trrPN0.txt",
@@ -27,8 +27,8 @@
  "series_slug": "_pool--510",
  "lesson_no": 37,
  "yt": "K9Pi-trrPN0",
- "transcribed": "2026-10-15 21:57:11",
+ "transcribed": "2026-10-16 00:07:05",
  "audio": "ytb-build/audio/_pool--510/037.mp3",
  "job": "agy+gemini عبر agy",
- "usage_tail": "one\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 80.711, \"Gemini Models / Five Hour Limit Remaining\": 37.07, \"Claude and GPT models / Weekly Limit Remaining\": 7.556, \"Claude and GPT models / Five Hour Limit Remaining\": 98.972}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 0.02, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.079, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 10159 | words: 1810\nduplicate 8/12-gram runs: 8\nwrote /root/workspace/ytb/sharawi/510/037_K9Pi-trrPN0.txt\n"
+ "usage_tail": "\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 79.512, \"Gemini Models / Five Hour Limit Remaining\": 91.667, \"Claude and GPT models / Weekly Limit Remaining\": 7.556, \"Claude and GPT models / Five Hour Limit Remaining\": 98.972}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 2.682, \"Gemini Models / Weekly Limit Remaining\": 0.671, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0}\nchars: 26719 | words: 4877\nduplicate 8/12-gram runs: 25\nwrote /root/workspace/ytb/sharawi/510/037_K9Pi-trrPN0.txt\n"
 }
