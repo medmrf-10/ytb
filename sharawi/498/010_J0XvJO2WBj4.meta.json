@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:J0XvJO2WBj4",
+ "vid": "J0XvJO2WBj4",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--498",
+ "n": 10,
+ "n_src": "playlist",
+ "title": "تفسير سورة يوسف للشيخ الشعراوي - من آية 85 إلى آية 100",
+ "title_src": "youtube",
+ "sha256": "247552ffb73cfff367be93b609b4e6a05aad114d1454bbddbf7b3944bbae0107",
+ "chars": 27951,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/498/010_J0XvJO2WBj4.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/J0XvJO2WBj4",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--498",
+ "series_slug": "sharawi--498",
+ "lesson_no": 10,
+ "yt": "J0XvJO2WBj4",
+ "transcribed": "2026-10-15 01:28:17",
+ "audio": "ytb-build/audio/sharawi--498/010.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "age after: {\"Gemini Models / Weekly Limit Remaining\": 7.544, \"Gemini Models / Five Hour Limit Remaining\": 81.59, \"Claude and GPT models / Weekly Limit Remaining\": 8.07, \"Claude and GPT models / Five Hour Limit Remaining\": 76.371}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 6.967, \"Claude and GPT models / Five Hour Limit Remaining\": 23.629, \"Gemini Models / Weekly Limit Remaining\": 1.742, \"Claude and GPT models / Weekly Limit Remaining\": 11.814}\nchars: 27950 | words: 4907\nduplicate 8/12-gram runs: 68\nwrote /root/workspace/ytb/sharawi/498/010_J0XvJO2WBj4.txt\n"
+}
