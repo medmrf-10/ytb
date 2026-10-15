@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:Po8My-VaNh0",
+ "vid": "Po8My-VaNh0",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--506",
+ "n": 22,
+ "n_src": "playlist",
+ "title": "تفسير سورة هود للشيخ الشعراوي - من آية 95 إلى آية 97",
+ "title_src": "youtube",
+ "sha256": "db3a524025af1e581cd2a4fa295ce9338e63def47f0a2ef7aa3b425db5308fe8",
+ "chars": 28627,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/506/022_Po8My-VaNh0.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/Po8My-VaNh0",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--506",
+ "series_slug": "sharawi--506",
+ "lesson_no": 22,
+ "yt": "Po8My-VaNh0",
+ "transcribed": "2026-10-15 07:26:55",
+ "audio": "ytb-build/audio/sharawi--506/022.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "ied: None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 2.296, \"Gemini Models / Five Hour Limit Remaining\": 99.664, \"Claude and GPT models / Weekly Limit Remaining\": 8.07, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.322, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Weekly Limit Remaining\": 0.08}\nchars: 28626 | words: 4965\nduplicate 8/12-gram runs: 8\nwrote /root/workspace/ytb/sharawi/506/022_Po8My-VaNh0.txt\n"
+}
