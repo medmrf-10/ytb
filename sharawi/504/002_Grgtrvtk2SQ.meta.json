@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:Grgtrvtk2SQ",
+ "vid": "Grgtrvtk2SQ",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--504",
+ "n": 2,
+ "n_src": "playlist",
+ "title": "تفسير سورة يونس للشيخ الشعراوي - من آية 2 إلى آية 3",
+ "title_src": "youtube",
+ "sha256": "349ab90388557dc520c89e755cc0c7fc4dcfd7c8825617f02753e3c71e7fded7",
+ "chars": 27586,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/504/002_Grgtrvtk2SQ.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/Grgtrvtk2SQ",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--504",
+ "series_slug": "sharawi--504",
+ "lesson_no": 2,
+ "yt": "Grgtrvtk2SQ",
+ "transcribed": "2026-10-15 15:18:05",
+ "audio": "ytb-build/audio/sharawi--504/002.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "d: None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 99.793, \"Gemini Models / Five Hour Limit Remaining\": 98.98, \"Claude and GPT models / Weekly Limit Remaining\": 8.07, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.083, \"Gemini Models / Weekly Limit Remaining\": 0.021, \"Claude and GPT models / Five Hour Limit Remaining\": 0}\nchars: 27585 | words: 4910\nduplicate 8/12-gram runs: 21\nwrote /root/workspace/ytb/sharawi/504/002_Grgtrvtk2SQ.txt\n"
+}
