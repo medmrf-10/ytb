@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:uGBK6i8s-DQ",
+ "vid": "uGBK6i8s-DQ",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--506",
+ "n": 9,
+ "n_src": "playlist",
+ "title": "تفسير سورة هود للشيخ الشعراوي - من آية 19 إلى آية 23",
+ "title_src": "youtube",
+ "sha256": "6f7a640775e81bf01f388f1b1f1b19275155a8cd885f38c80b98063df95e6a5f",
+ "chars": 34608,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/506/009_uGBK6i8s-DQ.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/uGBK6i8s-DQ",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--506",
+ "series_slug": "sharawi--506",
+ "lesson_no": 9,
+ "yt": "uGBK6i8s-DQ",
+ "transcribed": "2026-10-15 07:06:10",
+ "audio": "ytb-build/audio/sharawi--506/009.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": " None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 2.535, \"Gemini Models / Five Hour Limit Remaining\": 87.338, \"Claude and GPT models / Weekly Limit Remaining\": 8.07, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.057, \"Gemini Models / Five Hour Limit Remaining\": 0.228}\nchars: 34607 | words: 6128\nduplicate 8/12-gram runs: 6150\nwrote /root/workspace/ytb/sharawi/506/009_uGBK6i8s-DQ.txt\n"
+}
