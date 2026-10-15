@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:tQuwK_TDb1Q",
+ "vid": "tQuwK_TDb1Q",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--510",
+ "n": 29,
+ "n_src": "playlist",
+ "title": "تفسير سورة الأعراف للشيخ الشعراوي - من الآية 134 إلى الآية 142",
+ "title_src": "youtube",
+ "sha256": "a1a6a77bd3e11bde3e6350d44fc75199b182199d2d2611328f1aa5a240b3570c",
+ "chars": 26221,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/510/029_tQuwK_TDb1Q.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/tQuwK_TDb1Q",
+   "rel": "source"
+  }
+ ],
+ "series": "_pool--510",
+ "series_slug": "_pool--510",
+ "lesson_no": 29,
+ "yt": "tQuwK_TDb1Q",
+ "transcribed": "2026-10-15 21:46:11",
+ "audio": "ytb-build/audio/_pool--510/029.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "ge after: {\"Gemini Models / Weekly Limit Remaining\": 81.106, \"Gemini Models / Five Hour Limit Remaining\": 38.315, \"Claude and GPT models / Weekly Limit Remaining\": 7.556, \"Claude and GPT models / Five Hour Limit Remaining\": 98.972}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.148, \"Claude and GPT models / Five Hour Limit Remaining\": 0.297, \"Gemini Models / Weekly Limit Remaining\": 0.107, \"Gemini Models / Five Hour Limit Remaining\": 0.429}\nchars: 26220 | words: 4290\nduplicate 8/12-gram runs: 47\nwrote /root/workspace/ytb/sharawi/510/029_tQuwK_TDb1Q.txt\n"
+}

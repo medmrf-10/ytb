@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:OlgJ2MbHDl8",
+ "vid": "OlgJ2MbHDl8",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--540",
+ "n": 22,
+ "n_src": "playlist",
+ "title": "تفسير سورة الأنعام للشيخ الشعراوي - من الآية 88 إلى الآية 91",
+ "title_src": "youtube",
+ "sha256": "9a47c0a015776f0d50ab6020223818a96d4ad5773ad06e3374e90dccb4164e08",
+ "chars": 29810,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/540/022_OlgJ2MbHDl8.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/OlgJ2MbHDl8",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--540",
+ "series_slug": "sharawi--540",
+ "lesson_no": 22,
+ "yt": "OlgJ2MbHDl8",
+ "transcribed": "2026-10-15 23:09:32",
+ "audio": "ytb-build/audio/sharawi--540/022.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 81.187, \"Gemini Models / Five Hour Limit Remaining\": 99.364, \"Claude and GPT models / Weekly Limit Remaining\": 7.556, \"Claude and GPT models / Five Hour Limit Remaining\": 98.972}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 0.607, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.109, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0}\nchars: 29809 | words: 5391\nduplicate 8/12-gram runs: 78\nwrote /root/workspace/ytb/sharawi/540/022_OlgJ2MbHDl8.txt\n"
+}
