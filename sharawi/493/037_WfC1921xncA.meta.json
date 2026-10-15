@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:WfC1921xncA",
+ "vid": "WfC1921xncA",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--493",
+ "n": 37,
+ "n_src": "playlist",
+ "title": "تفسير سورة التوبة للشيخ الشعراوي - من الآية 74 إلى الآية 79",
+ "title_src": "youtube",
+ "sha256": "aa5f9227a6fd8dc929b8bebdab809d984049f9d86297cc9329a015a7749ee353",
+ "chars": 24554,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/493/037_WfC1921xncA.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/WfC1921xncA",
+   "rel": "source"
+  }
+ ],
+ "series": "_pool--493",
+ "series_slug": "_pool--493",
+ "lesson_no": 37,
+ "yt": "WfC1921xncA",
+ "transcribed": "2026-10-15 18:33:30",
+ "audio": "ytb-build/audio/_pool--493/037.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": ": None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 93.206, \"Gemini Models / Five Hour Limit Remaining\": 85.507, \"Claude and GPT models / Weekly Limit Remaining\": 8.07, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Five Hour Limit Remaining\": 4.643, \"Gemini Models / Weekly Limit Remaining\": 1.739}\nchars: 24553 | words: 4440\nduplicate 8/12-gram runs: 26\nwrote /root/workspace/ytb/sharawi/493/037_WfC1921xncA.txt\n"
+}

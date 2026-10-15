@@ -8,9 +8,9 @@
  "n_src": "playlist",
  "title": "تفسير سورة التوبة للشيخ الشعراوي - من الآية 29 إلى الآية 30",
  "title_src": "youtube",
- "sha256": "4ac7197dd8cf58f332d417035ce90e35180b008f3e1b6815602b5c615bb28f2b",
- "chars": 364,
- "quality": "failed",
+ "sha256": "3ccff61a0abcd59b936c10eb56d82482d16b4a4cc71c22f985b010add0a15ca6",
+ "chars": 18601,
+ "quality": "ok",
  "winner": {
   "store": "ytb-transcribe",
   "path": "ytb/sharawi/493/016_BYQ7e9EFJBc.txt",
@@ -23,12 +23,12 @@
    "rel": "source"
   }
  ],
- "series": "sharawi--493",
- "series_slug": "sharawi--493",
+ "series": "_pool--493",
+ "series_slug": "_pool--493",
  "lesson_no": 16,
  "yt": "BYQ7e9EFJBc",
- "transcribed": "2026-10-15 17:17:51",
- "audio": "ytb-build/audio/sharawi--493/016.mp3",
+ "transcribed": "2026-10-15 18:53:20",
+ "audio": "ytb-build/audio/_pool--493/016.mp3",
  "job": "agy+gemini عبر agy",
- "usage_tail": "nied: None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 99.085, \"Gemini Models / Five Hour Limit Remaining\": 96.242, \"Claude and GPT models / Weekly Limit Remaining\": 8.07, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 0.052, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": -0.154, \"Claude and GPT models / Five Hour Limit Remaining\": 0}\nchars: 363 | words: 36\nduplicate 8/12-gram runs: 0\nwrote /root/workspace/ytb/sharawi/493/016_BYQ7e9EFJBc.txt\n"
+ "usage_tail": "d: None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 89.584, \"Gemini Models / Five Hour Limit Remaining\": 70.221, \"Claude and GPT models / Weekly Limit Remaining\": 8.07, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.95, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Weekly Limit Remaining\": 0.237}\nchars: 18600 | words: 3368\nduplicate 8/12-gram runs: 27\nwrote /root/workspace/ytb/sharawi/493/016_BYQ7e9EFJBc.txt\n"
 }

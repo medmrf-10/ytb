@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:MIhOlPpyv8A",
+ "vid": "MIhOlPpyv8A",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--493",
+ "n": 26,
+ "n_src": "playlist",
+ "title": "تفسير سورة التوبة للشيخ الشعراوي - من الآية 43 إلى الآية 47",
+ "title_src": "youtube",
+ "sha256": "634edf50e0d32906540458d6f997ebd1b144a689e09765ee7282cd56a0936149",
+ "chars": 18499,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/493/026_MIhOlPpyv8A.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/MIhOlPpyv8A",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--493",
+ "series_slug": "sharawi--493",
+ "lesson_no": 26,
+ "yt": "MIhOlPpyv8A",
+ "transcribed": "2026-10-15 17:31:13",
+ "audio": "ytb-build/audio/sharawi--493/026.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "d: None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 98.715, \"Gemini Models / Five Hour Limit Remaining\": 94.76, \"Claude and GPT models / Weekly Limit Remaining\": 8.07, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 0.464, \"Gemini Models / Weekly Limit Remaining\": 0.116, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 18498 | words: 3253\nduplicate 8/12-gram runs: 13\nwrote /root/workspace/ytb/sharawi/493/026_MIhOlPpyv8A.txt\n"
+}

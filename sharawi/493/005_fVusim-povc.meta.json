@@ -8,9 +8,9 @@
  "n_src": "playlist",
  "title": "تفسير سورة التوبة للشيخ الشعراوي - من الآية 6 إلى الآية 8",
  "title_src": "youtube",
- "sha256": null,
- "chars": 0,
- "quality": "failed",
+ "sha256": "aee36bc722ecfffadcc224d57eea13f5ceda1132f847fa00d1ece9b36c4c813b",
+ "chars": 16952,
+ "quality": "ok",
  "winner": {
   "store": "ytb-transcribe",
   "path": "ytb/sharawi/493/005_fVusim-povc.txt",
@@ -27,8 +27,8 @@
  "series_slug": "sharawi--493",
  "lesson_no": 5,
  "yt": "fVusim-povc",
- "transcribed": "2026-10-15 17:01:03",
+ "transcribed": "2026-10-15 18:06:54",
  "audio": "ytb-build/audio/sharawi--493/005.mp3",
  "job": "agy+gemini عبر agy",
- "usage_tail": "ache_read_tokens': 0, 'total_tokens': 0}\ndenied: None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 99.024, \"Gemini Models / Five Hour Limit Remaining\": 96.13, \"Claude and GPT models / Weekly Limit Remaining\": 8.07, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 0.002, \"Gemini Models / Five Hour Limit Remaining\": 0.009, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Claude and GPT models / Five Hour Limit Remaining\": 0}\nchars: 0 | words: 0\nduplicate 8/12-gram runs: 0\nEMPTY transcription\n"
+ "usage_tail": " None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 97.076, \"Gemini Models / Five Hour Limit Remaining\": 98.461, \"Claude and GPT models / Weekly Limit Remaining\": 8.07, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Five Hour Limit Remaining\": -0.465, \"Gemini Models / Weekly Limit Remaining\": -0.456, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 16951 | words: 3121\nduplicate 8/12-gram runs: 0\nwrote /root/workspace/ytb/sharawi/493/005_fVusim-povc.txt\n"
 }
