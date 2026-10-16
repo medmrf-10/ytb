@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:OxmYuORb3Ug",
+ "vid": "OxmYuORb3Ug",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--528",
+ "n": 65,
+ "n_src": "playlist",
+ "title": "تفسير سورة النساء للشيخ الشعراوي - من الآية 171 إلى الآية 176",
+ "title_src": "youtube",
+ "sha256": "b6a3d20f66b31198d64514400f5a6659a4b0edff35a55242597ede1df7b98110",
+ "chars": 29449,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/528/065_OxmYuORb3Ug.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/OxmYuORb3Ug",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--528",
+ "series_slug": "sharawi--528",
+ "lesson_no": 65,
+ "yt": "OxmYuORb3Ug",
+ "transcribed": "2026-10-16 06:03:53",
+ "audio": "ytb-build/audio/sharawi--528/065.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "d: None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 70.355, \"Gemini Models / Five Hour Limit Remaining\": 95.882, \"Claude and GPT models / Weekly Limit Remaining\": 7.556, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 0.13, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Weekly Limit Remaining\": 0.032}\nchars: 29448 | words: 5355\nduplicate 8/12-gram runs: 9\nwrote /root/workspace/ytb/sharawi/528/065_OxmYuORb3Ug.txt\n"
+}

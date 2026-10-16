@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:wL8eFdfuX04",
+ "vid": "wL8eFdfuX04",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--528",
+ "n": 55,
+ "n_src": "playlist",
+ "title": "تفسير سورة النساء للشيخ الشعراوي - من الآية 141 إلى الآية 145",
+ "title_src": "youtube",
+ "sha256": "6ba626a07233ca0e4991acd5e8f47f27005531fdf3acd8c2cd92d47f5709a72f",
+ "chars": 28763,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/528/055_wL8eFdfuX04.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/wL8eFdfuX04",
+   "rel": "source"
+  }
+ ],
+ "series": "_pool--528",
+ "series_slug": "_pool--528",
+ "lesson_no": 55,
+ "yt": "wL8eFdfuX04",
+ "transcribed": "2026-10-16 05:41:56",
+ "audio": "ytb-build/audio/_pool--528/055.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": " None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 70.542, \"Gemini Models / Five Hour Limit Remaining\": 96.631, \"Claude and GPT models / Weekly Limit Remaining\": 7.556, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 0.049, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.196, \"Claude and GPT models / Five Hour Limit Remaining\": 0}\nchars: 28762 | words: 5195\nduplicate 8/12-gram runs: 51\nwrote /root/workspace/ytb/sharawi/528/055_wL8eFdfuX04.txt\n"
+}

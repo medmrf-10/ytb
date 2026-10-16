@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:vrDuEYz8mhI",
+ "vid": "vrDuEYz8mhI",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--528",
+ "n": 58,
+ "n_src": "playlist",
+ "title": "تفسير سورة النساء للشيخ الشعراوي - من الآية 154 إلى الآية 156",
+ "title_src": "youtube",
+ "sha256": "faa11296f088b3e5e9ed92ca89319ecaaa5ce52a4a16ed52b08a0c4b7edc70a1",
+ "chars": 28882,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/528/058_vrDuEYz8mhI.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/vrDuEYz8mhI",
+   "rel": "source"
+  }
+ ],
+ "series": "_pool--528",
+ "series_slug": "_pool--528",
+ "lesson_no": 58,
+ "yt": "vrDuEYz8mhI",
+ "transcribed": "2026-10-16 05:46:30",
+ "audio": "ytb-build/audio/_pool--528/058.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": " None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 70.491, \"Gemini Models / Five Hour Limit Remaining\": 96.427, \"Claude and GPT models / Weekly Limit Remaining\": 7.556, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 0.028, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Five Hour Limit Remaining\": 0.113, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 28881 | words: 5178\nduplicate 8/12-gram runs: 32\nwrote /root/workspace/ytb/sharawi/528/058_vrDuEYz8mhI.txt\n"
+}
