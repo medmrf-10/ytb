@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:1BywTiv-YiA",
+ "vid": "1BywTiv-YiA",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--501",
+ "n": 24,
+ "n_src": "playlist",
+ "title": "تفسير سورة آل عمران للشيخ الشعراوي - من الآية 96 إلى الآية 101",
+ "title_src": "youtube",
+ "sha256": "fdd9005e8323e17a0afb2d57090f53224c130cd180112aef38ba20311e031562",
+ "chars": 22076,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/501/024_1BywTiv-YiA.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/1BywTiv-YiA",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--501",
+ "series_slug": "sharawi--501",
+ "lesson_no": 24,
+ "yt": "1BywTiv-YiA",
+ "transcribed": "2026-10-16 07:43:27",
+ "audio": "ytb-build/audio/sharawi--501/024.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": " None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 68.975, \"Gemini Models / Five Hour Limit Remaining\": 90.362, \"Claude and GPT models / Weekly Limit Remaining\": 7.556, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 0.319, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Five Hour Limit Remaining\": 1.277}\nchars: 22075 | words: 3890\nduplicate 8/12-gram runs: 21\nwrote /root/workspace/ytb/sharawi/501/024_1BywTiv-YiA.txt\n"
+}

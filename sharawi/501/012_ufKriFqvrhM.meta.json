@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:ufKriFqvrhM",
+ "vid": "ufKriFqvrhM",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--501",
+ "n": 12,
+ "n_src": "playlist",
+ "title": "تفسير سورة آل عمران للشيخ الشعراوي - من الآية 35 إلى الآية 41",
+ "title_src": "youtube",
+ "sha256": "210ce90ba7d6288a9707d821a5a7a3a7d483ffe8d5bbdbe3bdbf41e44d045b46",
+ "chars": 22595,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/501/012_ufKriFqvrhM.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/ufKriFqvrhM",
+   "rel": "source"
+  }
+ ],
+ "series": "_pool--501",
+ "series_slug": "_pool--501",
+ "lesson_no": 12,
+ "yt": "ufKriFqvrhM",
+ "transcribed": "2026-10-16 08:35:44",
+ "audio": "ytb-build/audio/_pool--501/012.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 66.015, \"Gemini Models / Five Hour Limit Remaining\": 78.525, \"Claude and GPT models / Weekly Limit Remaining\": 5.358, \"Claude and GPT models / Five Hour Limit Remaining\": 95.605}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 2.101, \"Gemini Models / Weekly Limit Remaining\": 0.526}\nchars: 22594 | words: 4005\nduplicate 8/12-gram runs: 12\nwrote /root/workspace/ytb/sharawi/501/012_ufKriFqvrhM.txt\n"
+}

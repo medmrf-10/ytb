@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:Q3V9O8kM20s",
+ "vid": "Q3V9O8kM20s",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--501",
+ "n": 22,
+ "n_src": "playlist",
+ "title": "تفسير سورة آل عمران للشيخ الشعراوي - من الآية 84 إلى الآية 91",
+ "title_src": "youtube",
+ "sha256": "d079ad9d6f1634ebcbebb0516e1a2aa54710f814c82c8c080ff454bafff953a0",
+ "chars": 24326,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/501/022_Q3V9O8kM20s.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/Q3V9O8kM20s",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--501",
+ "series_slug": "sharawi--501",
+ "lesson_no": 22,
+ "yt": "Q3V9O8kM20s",
+ "transcribed": "2026-10-16 07:38:34",
+ "audio": "ytb-build/audio/sharawi--501/022.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": " None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 69.456, \"Gemini Models / Five Hour Limit Remaining\": 92.286, \"Claude and GPT models / Weekly Limit Remaining\": 7.556, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.129, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Five Hour Limit Remaining\": 0.517}\nchars: 24325 | words: 4340\nduplicate 8/12-gram runs: 27\nwrote /root/workspace/ytb/sharawi/501/022_Q3V9O8kM20s.txt\n"
+}

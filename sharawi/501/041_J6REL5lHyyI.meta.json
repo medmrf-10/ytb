@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:J6REL5lHyyI",
+ "vid": "J6REL5lHyyI",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--501",
+ "n": 41,
+ "n_src": "playlist",
+ "title": "تفسير سورة آل عمران للشيخ الشعراوي - من الآية 177 إلى الآية 181",
+ "title_src": "youtube",
+ "sha256": "5cda74a3820b43b19a4924322cbde16e828b675645cf955299852d3c5c64e19f",
+ "chars": 23640,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/501/041_J6REL5lHyyI.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/J6REL5lHyyI",
+   "rel": "source"
+  }
+ ],
+ "series": "_pool--501",
+ "series_slug": "_pool--501",
+ "lesson_no": 41,
+ "yt": "J6REL5lHyyI",
+ "transcribed": "2026-10-16 08:12:21",
+ "audio": "ytb-build/audio/_pool--501/041.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": " ERROR | conversation: 043a5f5f-545d-4246-b8b8-c89bba8a6f71\nusage tokens: {'input_tokens': 263752, 'output_tokens': 30385, 'thinking_tokens': 15894, 'cache_read_tokens': 2394539, 'total_tokens': 294137}\ndenied: None\nusage after: {}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 67.759, \"Gemini Models / Five Hour Limit Remaining\": 85.501, \"Claude and GPT models / Weekly Limit Remaining\": 7.556, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nchars: 23639 | words: 4161\nduplicate 8/12-gram runs: 50\nwrote /root/workspace/ytb/sharawi/501/041_J6REL5lHyyI.txt\n"
+}

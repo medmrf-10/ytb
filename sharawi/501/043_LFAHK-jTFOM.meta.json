@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:LFAHK-jTFOM",
+ "vid": "LFAHK-jTFOM",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--501",
+ "n": 43,
+ "n_src": "playlist",
+ "title": "تفسير سورة آل عمران للشيخ الشعراوي - من الآية 184 إلى الآية 188",
+ "title_src": "youtube",
+ "sha256": "5f6521cd38850c2546fbda2a5b5ccc76a472ab8e118bbd778e952b8507850023",
+ "chars": 22552,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/501/043_LFAHK-jTFOM.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/LFAHK-jTFOM",
+   "rel": "source"
+  }
+ ],
+ "series": "_pool--501",
+ "series_slug": "_pool--501",
+ "lesson_no": 43,
+ "yt": "LFAHK-jTFOM",
+ "transcribed": "2026-10-16 08:59:39",
+ "audio": "ytb-build/audio/_pool--501/043.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "usage after: {\"Gemini Models / Weekly Limit Remaining\": 61.175, \"Gemini Models / Five Hour Limit Remaining\": 99.759, \"Claude and GPT models / Weekly Limit Remaining\": 5.358, \"Claude and GPT models / Five Hour Limit Remaining\": 95.605}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": -32.85, \"Gemini Models / Weekly Limit Remaining\": 0.436, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0}\nchars: 22551 | words: 3950\nduplicate 8/12-gram runs: 19\nwrote /root/workspace/ytb/sharawi/501/043_LFAHK-jTFOM.txt\n"
+}

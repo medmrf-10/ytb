@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:V36dRhq-Si0",
+ "vid": "V36dRhq-Si0",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--503",
+ "n": 4,
+ "n_src": "playlist",
+ "title": "تفسير سورة الفاتحة للشيخ الشعراوي - من آية 3 إلى آية 5",
+ "title_src": "youtube",
+ "sha256": "222dd5910b85ec38e11285a284f375f559096847ac2cb7204d3241b583a7ef99",
+ "chars": 26598,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/503/004_V36dRhq-Si0.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/V36dRhq-Si0",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--503",
+ "series_slug": "sharawi--503",
+ "lesson_no": 4,
+ "yt": "V36dRhq-Si0",
+ "transcribed": "2026-10-16 09:11:12",
+ "audio": "ytb-build/audio/sharawi--503/004.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "e\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 60.586, \"Gemini Models / Five Hour Limit Remaining\": 97.403, \"Claude and GPT models / Weekly Limit Remaining\": 5.358, \"Claude and GPT models / Five Hour Limit Remaining\": 95.605}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 1.015, \"Gemini Models / Weekly Limit Remaining\": 0.253, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0}\nchars: 26597 | words: 4792\nduplicate 8/12-gram runs: 7\nwrote /root/workspace/ytb/sharawi/503/004_V36dRhq-Si0.txt\n"
+}
