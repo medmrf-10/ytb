@@ -1,0 +1,28 @@
+{
+  "chars": 8957,
+  "words": 1541,
+  "wpm": 75.8,
+  "model": "gemini-3.8-flash-high",
+  "ok": true,
+  "v": 1,
+  "lid": "yt:BXECr6A5uI0",
+  "vid": "BXECr6A5uI0",
+  "sheikh": "mouloud-sariri",
+  "row_id": "mouloud-sariri--15",
+  "n": 10,
+  "title": "الجلسة الافتتاحية // شرح نظم الورقات",
+  "dur_s": 1220.0,
+  "sha256": "6440e95ed156cffcb0cea4d950a08188c1731129e8728072b158751ae754f348",
+  "quality": "ok",
+  "align": {
+    "engine": "ctc-pure",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9719,
+    "spoken_align_pct": 97.19,
+    "audio_span_pct": 99.93,
+    "words": 1541,
+    "aligned": 1488,
+    "interpolated": 43,
+    "at": "2026-10-16 12:15"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "chars": 48568,
+  "words": 8897,
+  "wpm": 96.8,
+  "model": "gemini-3.8-flash-high",
+  "ok": true,
+  "v": 1,
+  "lid": "yt:S1xCKgnMPTk",
+  "vid": "S1xCKgnMPTk",
+  "sheikh": "mouloud-sariri",
+  "row_id": "mouloud-sariri--15",
+  "n": 5,
+  "title": "باب الخاص والمجمل والمبين، وباب الأفعال والنسخ // شرح نظم الورقات [3]",
+  "dur_s": 5513.0,
+  "sha256": "1c3eadc1a45178e3045e6160db926ac14e8228df10919b8b600c6960129a4174",
+  "quality": "ok",
+  "align": {
+    "engine": "ctc-pure",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9844,
+    "spoken_align_pct": 98.44,
+    "audio_span_pct": 99.93,
+    "words": 8897,
+    "aligned": 8747,
+    "interpolated": 139,
+    "at": "2026-10-16 12:15"
+  }
+}

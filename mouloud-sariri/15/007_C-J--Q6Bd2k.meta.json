@@ -1,0 +1,28 @@
+{
+  "chars": 58440,
+  "words": 10525,
+  "wpm": 95.3,
+  "model": "gemini-3.8-flash-high",
+  "ok": true,
+  "v": 1,
+  "lid": "yt:C-J--Q6Bd2k",
+  "vid": "C-J--Q6Bd2k",
+  "sheikh": "mouloud-sariri",
+  "row_id": "mouloud-sariri--15",
+  "n": 7,
+  "title": "باب الأخبار وحكمها، وباب القياس // شرح نظم الورقات [5]",
+  "dur_s": 6629.0,
+  "sha256": "77d32fc32a2388c464fe6a4a039ba148b48c5fbfc906113114157f2f117dd91c",
+  "quality": "ok",
+  "align": {
+    "engine": "ctc-pure",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9761,
+    "spoken_align_pct": 97.61,
+    "audio_span_pct": 99.93,
+    "words": 10525,
+    "aligned": 10264,
+    "interpolated": 251,
+    "at": "2026-10-16 12:15"
+  }
+}

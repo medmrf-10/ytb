@@ -1,0 +1,28 @@
+{
+  "chars": 43182,
+  "words": 7995,
+  "wpm": 103.3,
+  "model": "gemini-3.8-flash-high",
+  "ok": true,
+  "v": 1,
+  "lid": "yt:_QffbqprHwg",
+  "vid": "_QffbqprHwg",
+  "sheikh": "mouloud-sariri",
+  "row_id": "mouloud-sariri--15",
+  "n": 9,
+  "title": "باب في المفتي والمستفتي والتقليد، وفصل الاجتهاد // شرح نظم الورقات",
+  "dur_s": 4644.0,
+  "sha256": "18dca5a36db281af304c40d5d4e3e22bd7be2adde57de2e39a48cb27ecc710d6",
+  "quality": "ok",
+  "align": {
+    "engine": "ctc-pure",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9748,
+    "spoken_align_pct": 97.48,
+    "audio_span_pct": 99.93,
+    "words": 7995,
+    "aligned": 7790,
+    "interpolated": 201,
+    "at": "2026-10-16 12:15"
+  }
+}

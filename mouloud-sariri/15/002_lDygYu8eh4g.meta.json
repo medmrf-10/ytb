@@ -1,0 +1,28 @@
+{
+  "chars": 51479,
+  "words": 9322,
+  "wpm": 118.0,
+  "model": "gemini-3.8-flash-high",
+  "ok": true,
+  "v": 1,
+  "lid": "yt:lDygYu8eh4g",
+  "vid": "lDygYu8eh4g",
+  "sheikh": "mouloud-sariri",
+  "row_id": "mouloud-sariri--15",
+  "n": 2,
+  "title": "الإجابة على أسئلة الجلسة الافتتاحية  //  شرح نظم الورقات",
+  "dur_s": 4742.0,
+  "sha256": "03e94b491fa4578e9aafb3055403e82583b4a02978e18a50647a73c39b83cae5",
+  "quality": "ok",
+  "align": {
+    "engine": "ctc-pure",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9663,
+    "spoken_align_pct": 96.63,
+    "audio_span_pct": 99.93,
+    "words": 9322,
+    "aligned": 9006,
+    "interpolated": 314,
+    "at": "2026-10-16 12:15"
+  }
+}

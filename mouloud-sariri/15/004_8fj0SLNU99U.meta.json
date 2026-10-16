@@ -1,0 +1,28 @@
+{
+  "chars": 54287,
+  "words": 9900,
+  "wpm": 104.6,
+  "model": "gemini-3.8-flash-high",
+  "ok": true,
+  "v": 1,
+  "lid": "yt:8fj0SLNU99U",
+  "vid": "8fj0SLNU99U",
+  "sheikh": "mouloud-sariri",
+  "row_id": "mouloud-sariri--15",
+  "n": 4,
+  "title": "باب أقسام الكلام، وباب الأمر والنهي والعام // شرح نظم الورقات [2]",
+  "dur_s": 5681.0,
+  "sha256": "c4f79171ba3323bb2f289457ed8b56dae97b62dda314526ba3876c9add195ece",
+  "quality": "ok",
+  "align": {
+    "engine": "ctc-pure",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9851,
+    "spoken_align_pct": 98.51,
+    "audio_span_pct": 99.93,
+    "words": 9900,
+    "aligned": 9740,
+    "interpolated": 147,
+    "at": "2026-10-16 12:15"
+  }
+}

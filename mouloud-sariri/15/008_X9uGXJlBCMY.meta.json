@@ -1,0 +1,28 @@
+{
+  "chars": 38333,
+  "words": 6981,
+  "wpm": 105.7,
+  "model": "gemini-3.8-flash-high",
+  "ok": true,
+  "v": 1,
+  "lid": "yt:X9uGXJlBCMY",
+  "vid": "X9uGXJlBCMY",
+  "sheikh": "mouloud-sariri",
+  "row_id": "mouloud-sariri--15",
+  "n": 8,
+  "title": "أركان القياس والحظر والإباحة، وباب ترتيب الأدلة // شرح نظم الورقات [6]",
+  "dur_s": 3961.0,
+  "sha256": "46d722549db42528466d86a5ece0bfd1bcd10e49e0e6717918d7a2f04f674792",
+  "quality": "ok",
+  "align": {
+    "engine": "ctc-pure",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9737,
+    "spoken_align_pct": 97.37,
+    "audio_span_pct": 99.91,
+    "words": 6981,
+    "aligned": 6786,
+    "interpolated": 183,
+    "at": "2026-10-16 12:15"
+  }
+}

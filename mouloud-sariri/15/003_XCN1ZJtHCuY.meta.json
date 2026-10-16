@@ -1,0 +1,28 @@
+{
+  "chars": 50888,
+  "words": 9139,
+  "wpm": 99.8,
+  "model": "gemini-3.8-flash-high",
+  "ok": true,
+  "v": 1,
+  "lid": "yt:XCN1ZJtHCuY",
+  "vid": "XCN1ZJtHCuY",
+  "sheikh": "mouloud-sariri",
+  "row_id": "mouloud-sariri--15",
+  "n": 3,
+  "title": "أبواب أصول الفقه // شرح نظم الورقات",
+  "dur_s": 5495.0,
+  "sha256": "45ca27f07b27ceedf733283b9aaa2eb582b889a697f0eccb3d66c1a48a3f9250",
+  "quality": "ok",
+  "align": {
+    "engine": "ctc-pure",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9848,
+    "spoken_align_pct": 98.48,
+    "audio_span_pct": 99.93,
+    "words": 9139,
+    "aligned": 8980,
+    "interpolated": 139,
+    "at": "2026-10-16 12:15"
+  }
+}
