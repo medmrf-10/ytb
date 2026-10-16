@@ -8,9 +8,9 @@
  "n_src": "playlist",
  "title": "تفسير سورة المائدة للشيخ الشعراوي - من الآية 94 إلى الآية 97",
  "title_src": "youtube",
- "sha256": null,
- "chars": 0,
- "quality": "failed",
+ "sha256": "2f5aa3e81542c6ad79139bedef28e85d145b933a9ca5f702b283e118e822ae88",
+ "chars": 12158,
+ "quality": "ok",
  "winner": {
   "store": "ytb-transcribe",
   "path": "ytb/sharawi/519/048_QgSeW9eMwk4.txt",
@@ -27,8 +27,8 @@
  "series_slug": "sharawi--519",
  "lesson_no": 48,
  "yt": "QgSeW9eMwk4",
- "transcribed": "2026-10-16 02:37:07",
+ "transcribed": "2026-10-16 04:32:54",
  "audio": "ytb-build/audio/sharawi--519/048.mp3",
  "job": "agy+gemini عبر agy",
- "usage_tail": "read_tokens': 0, 'total_tokens': 0}\ndenied: None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 71.949, \"Gemini Models / Five Hour Limit Remaining\": 61.281, \"Claude and GPT models / Weekly Limit Remaining\": 7.556, \"Claude and GPT models / Five Hour Limit Remaining\": 98.972}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.01, \"Gemini Models / Five Hour Limit Remaining\": 0.04, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0}\nchars: 0 | words: 0\nduplicate 8/12-gram runs: 0\nEMPTY transcription\n"
+ "usage_tail": " None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 71.299, \"Gemini Models / Five Hour Limit Remaining\": 99.659, \"Claude and GPT models / Weekly Limit Remaining\": 7.556, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.287, \"Gemini Models / Weekly Limit Remaining\": 0.072}\nchars: 12157 | words: 2066\nduplicate 8/12-gram runs: 18\nwrote /root/workspace/ytb/sharawi/519/048_QgSeW9eMwk4.txt\n"
 }

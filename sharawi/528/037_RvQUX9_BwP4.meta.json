@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:RvQUX9_BwP4",
+ "vid": "RvQUX9_BwP4",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--528",
+ "n": 37,
+ "n_src": "playlist",
+ "title": "تفسير سورة النساء للشيخ الشعراوي - من الآية 83 إلى الآية 85",
+ "title_src": "youtube",
+ "sha256": "d932592c92e1e18f0a23f9e2a53740bc33dd92b9987a0e6639259abf2ec4c5d0",
+ "chars": 28,
+ "quality": "failed",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/528/037_RvQUX9_BwP4.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/RvQUX9_BwP4",
+   "rel": "source"
+  }
+ ],
+ "series": "_pool--528",
+ "series_slug": "_pool--528",
+ "lesson_no": 37,
+ "yt": "RvQUX9_BwP4",
+ "transcribed": "2026-10-16 05:19:37",
+ "audio": "ytb-build/audio/_pool--528/037.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "denied: None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 70.815, \"Gemini Models / Five Hour Limit Remaining\": 97.722, \"Claude and GPT models / Weekly Limit Remaining\": 7.556, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.017, \"Gemini Models / Five Hour Limit Remaining\": 0.069, \"Claude and GPT models / Five Hour Limit Remaining\": 0}\nchars: 27 | words: 4\nduplicate 8/12-gram runs: 0\nwrote /root/workspace/ytb/sharawi/528/037_RvQUX9_BwP4.txt\n"
+}

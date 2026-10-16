@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:oV-In9580VE",
+ "vid": "oV-In9580VE",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--528",
+ "n": 39,
+ "n_src": "playlist",
+ "title": "تفسير سورة النساء للشيخ الشعراوي - من الآية 87 إلى الآية 88",
+ "title_src": "youtube",
+ "sha256": "c7b2b6c8c19e38dc02a666094bf8596bfb1bfab6feaffe8d0d3a0fd22008d57c",
+ "chars": 25491,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/528/039_oV-In9580VE.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/oV-In9580VE",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--528",
+ "series_slug": "sharawi--528",
+ "lesson_no": 39,
+ "yt": "oV-In9580VE",
+ "transcribed": "2026-10-16 05:25:02",
+ "audio": "ytb-build/audio/sharawi--528/039.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": ": None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 70.723, \"Gemini Models / Five Hour Limit Remaining\": 97.357, \"Claude and GPT models / Weekly Limit Remaining\": 7.556, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.092, \"Gemini Models / Five Hour Limit Remaining\": 0.365}\nchars: 25490 | words: 4740\nduplicate 8/12-gram runs: 8\nwrote /root/workspace/ytb/sharawi/528/039_oV-In9580VE.txt\n"
+}

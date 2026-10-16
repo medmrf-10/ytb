@@ -8,9 +8,9 @@
  "n_src": "playlist",
  "title": "تفسير سورة المائدة للشيخ الشعراوي - من الآية 82 إلى الآية 83",
  "title_src": "youtube",
- "sha256": null,
- "chars": 0,
- "quality": "failed",
+ "sha256": "f6376f3b8036693b2a56fb84fa0fbb839e94793ae88241e299d1d7bcd731cf56",
+ "chars": 17198,
+ "quality": "ok",
  "winner": {
   "store": "ytb-transcribe",
   "path": "ytb/sharawi/519/042_v_9LbjQ2qk0.txt",
@@ -23,12 +23,12 @@
    "rel": "source"
   }
  ],
- "series": "_pool--519",
- "series_slug": "_pool--519",
+ "series": "sharawi--519",
+ "series_slug": "sharawi--519",
  "lesson_no": 42,
  "yt": "v_9LbjQ2qk0",
- "transcribed": "2026-10-16 02:54:37",
- "audio": "ytb-build/audio/_pool--519/042.mp3",
+ "transcribed": "2026-10-16 03:51:18",
+ "audio": "ytb-build/audio/sharawi--519/042.mp3",
  "job": "agy+gemini عبر agy",
- "usage_tail": "ead_tokens': 0, 'total_tokens': 99676}\ndenied: None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 71.683, \"Gemini Models / Five Hour Limit Remaining\": 60.215, \"Claude and GPT models / Weekly Limit Remaining\": 7.556, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 0.013, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Weekly Limit Remaining\": 0.003, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 0 | words: 0\nduplicate 8/12-gram runs: 0\nEMPTY transcription\n"
+ "usage_tail": " None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 71.387, \"Gemini Models / Five Hour Limit Remaining\": 59.033, \"Claude and GPT models / Weekly Limit Remaining\": 7.556, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.047, \"Gemini Models / Five Hour Limit Remaining\": 0.188, \"Claude and GPT models / Five Hour Limit Remaining\": 0}\nchars: 17197 | words: 3055\nduplicate 8/12-gram runs: 44\nwrote /root/workspace/ytb/sharawi/519/042_v_9LbjQ2qk0.txt\n"
 }
