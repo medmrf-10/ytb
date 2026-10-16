@@ -8,9 +8,9 @@
  "n_src": "playlist",
  "title": "تفسير سورة آل عمران للشيخ الشعراوي - من الآية 190 إلى الآية 199",
  "title_src": "youtube",
- "sha256": "c0a577bd40a42ed1f04a8272eb8c3e75cc7b33a68a93864704b2202571742f9d",
- "chars": 7,
- "quality": "failed",
+ "sha256": "6b0842afdf1df6242fdb8a81c00dcb1b0c3b88ac55535536506140f757c58cae",
+ "chars": 22006,
+ "quality": "ok",
  "winner": {
   "store": "ytb-transcribe",
   "path": "ytb/sharawi/501/045_Q7CekwvO-wI.txt",
@@ -27,8 +27,8 @@
  "series_slug": "_pool--501",
  "lesson_no": 45,
  "yt": "Q7CekwvO-wI",
- "transcribed": "2026-10-16 09:05:39",
+ "transcribed": "2026-10-16 10:00:10",
  "audio": "ytb-build/audio/_pool--501/045.mp3",
  "job": "agy+gemini عبر agy",
- "usage_tail": "ed: None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 60.871, \"Gemini Models / Five Hour Limit Remaining\": 98.545, \"Claude and GPT models / Weekly Limit Remaining\": 5.358, \"Claude and GPT models / Five Hour Limit Remaining\": 95.605}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 0.247, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.988, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0}\nchars: 6 | words: 1\nduplicate 8/12-gram runs: 0\nwrote /root/workspace/ytb/sharawi/501/045_Q7CekwvO-wI.txt\n"
+ "usage_tail": "e\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 59.049, \"Gemini Models / Five Hour Limit Remaining\": 91.019, \"Claude and GPT models / Weekly Limit Remaining\": 4.714, \"Claude and GPT models / Five Hour Limit Remaining\": 94.316}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 0.11, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 1.438}\nchars: 22005 | words: 3848\nduplicate 8/12-gram runs: 30\nwrote /root/workspace/ytb/sharawi/501/045_Q7CekwvO-wI.txt\n"
 }
