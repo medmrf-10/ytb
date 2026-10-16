@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:Xmv2qTVLEQk",
+ "vid": "Xmv2qTVLEQk",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--519",
+ "n": 49,
+ "n_src": "playlist",
+ "title": "تفسير سورة المائدة للشيخ الشعراوي - من الآية 97 إلى الآية 102",
+ "title_src": "youtube",
+ "sha256": null,
+ "chars": 0,
+ "quality": "failed",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/519/049_Xmv2qTVLEQk.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/Xmv2qTVLEQk",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--519",
+ "series_slug": "sharawi--519",
+ "lesson_no": 49,
+ "yt": "Xmv2qTVLEQk",
+ "transcribed": "2026-10-16 02:45:14",
+ "audio": "ytb-build/audio/sharawi--519/049.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": "r Limit Remaining\": 98.972}\nwall: 407s\nstatus: ERROR | conversation: ea70fa61-9bf9-468a-873d-14beb31266ab\nusage tokens: {'input_tokens': 144143, 'output_tokens': 7626, 'thinking_tokens': 4112, 'cache_read_tokens': 784949, 'total_tokens': 151769}\ndenied: None\nusage after: {}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 71.937, \"Claude and GPT models / Five Hour Limit Remaining\": 98.972, \"Gemini Models / Five Hour Limit Remaining\": 61.231, \"Claude and GPT models / Weekly Limit Remaining\": 7.556}\nchars: 0 | words: 0\nduplicate 8/12-gram runs: 0\nEMPTY transcription\n"
+}

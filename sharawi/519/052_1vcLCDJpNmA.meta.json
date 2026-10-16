@@ -1,0 +1,34 @@
+{
+ "v": 1,
+ "lid": "yt:1vcLCDJpNmA",
+ "vid": "1vcLCDJpNmA",
+ "sheikh": "sharawi",
+ "row_id": "sharawi--519",
+ "n": 52,
+ "n_src": "playlist",
+ "title": "تفسير سورة المائدة للشيخ الشعراوي - من الآية 110 إلى الآية 113",
+ "title_src": "youtube",
+ "sha256": "bc2ed6b067c2f0729fce220f94e98bc75f4b8cb75f4cb08bb261d9f4cf0731b8",
+ "chars": 30019,
+ "quality": "ok",
+ "winner": {
+  "store": "ytb-transcribe",
+  "path": "ytb/sharawi/519/052_1vcLCDJpNmA.txt",
+  "model": "gemini-3.8-flash-high"
+ },
+ "sources": [
+  {
+   "store": "youtube",
+   "path": "https://youtu.be/1vcLCDJpNmA",
+   "rel": "source"
+  }
+ ],
+ "series": "sharawi--519",
+ "series_slug": "sharawi--519",
+ "lesson_no": 52,
+ "yt": "1vcLCDJpNmA",
+ "transcribed": "2026-10-16 03:06:12",
+ "audio": "ytb-build/audio/sharawi--519/052.mp3",
+ "job": "agy+gemini عبر agy",
+ "usage_tail": " None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 71.607, \"Gemini Models / Five Hour Limit Remaining\": 59.912, \"Claude and GPT models / Weekly Limit Remaining\": 7.556, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Gemini Models / Five Hour Limit Remaining\": 0.136, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Weekly Limit Remaining\": 0.034}\nchars: 30018 | words: 5457\nduplicate 8/12-gram runs: 13\nwrote /root/workspace/ytb/sharawi/519/052_1vcLCDJpNmA.txt\n"
+}
