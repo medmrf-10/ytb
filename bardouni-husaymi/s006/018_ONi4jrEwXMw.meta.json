@@ -4,5 +4,33 @@
   "words": 5780,
   "wpm": 110.9,
   "model": "gemini-3.8-flash-high",
-  "ok": true
+  "ok": true,
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9495,
+    "spoken_align_pct": 94.95,
+    "audio_span_pct": 99.97,
+    "words": 5467,
+    "aligned": 5189,
+    "interpolated": 276,
+    "retried_without_silence_compact": true,
+    "local_agc_applied": true,
+    "at": "2026-10-19 00:12",
+    "low_coverage_diagnosis": {
+      "spoken_align_pct": 94.95,
+      "interpolated_words": 276,
+      "unaligned_clusters_count": 6,
+      "max_cluster_words": 29,
+      "wpm": 104.8,
+      "audio_span_pct": 99.97,
+      "forced_steps": 0,
+      "causes": [
+        "TEXT_HALLUCINATION_OR_CHUNK_REPEAT(clusters=6, max_run=29w @ 1634.96s: «\"واستثنوا آبار ثمود، ماء آبار ثمود، قالوا: لا يجوز التطهر به»)"
+      ]
+    },
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
+  }
 }

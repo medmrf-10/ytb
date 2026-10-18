@@ -8,26 +8,17 @@
   "align": {
     "engine": "ctc-pure-mac-mps",
     "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
-    "cov": 0.8397,
-    "spoken_align_pct": 83.97,
-    "audio_span_pct": 99.97,
-    "words": 7246,
-    "aligned": 6071,
-    "interpolated": 1159,
-    "retried_without_silence_compact": true,
-    "local_agc_applied": true,
-    "at": "2026-10-18 23:10",
-    "low_coverage_diagnosis": {
-      "spoken_align_pct": 83.97,
-      "interpolated_words": 1159,
-      "unaligned_clusters_count": 2,
-      "max_cluster_words": 27,
-      "wpm": 93.9,
-      "audio_span_pct": 99.97,
-      "forced_steps": 0,
-      "causes": [
-        "TEXT_HALLUCINATION_OR_CHUNK_REPEAT(clusters=2, max_run=27w @ 227.96s: «ويرسلهم كذلك بالعقوبة، وهم عباده المكرمون، المطيعون لأمره. و»)"
-      ]
-    }
+    "cov": 0.9911,
+    "spoken_align_pct": 99.11,
+    "audio_span_pct": 99.98,
+    "words": 7242,
+    "aligned": 7162,
+    "interpolated": 64,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 00:28",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
 }
