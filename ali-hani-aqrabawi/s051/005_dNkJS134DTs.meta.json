@@ -4,5 +4,16 @@
   "words": 1463,
   "wpm": 126.0,
   "model": "gemini-3.8-flash-high",
-  "ok": true
+  "ok": true,
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9897,
+    "spoken_align_pct": 98.97,
+    "audio_span_pct": 100.0,
+    "words": 1463,
+    "aligned": 1442,
+    "interpolated": 15,
+    "at": "2026-10-18 13:01"
+  }
 }
