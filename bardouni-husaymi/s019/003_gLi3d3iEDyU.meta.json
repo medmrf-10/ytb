@@ -1,37 +1,48 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--994:2",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--994",
- "n": 2,
- "n_src": "read",
- "title": "＂إقبار الاِنتصار＂ مناقشة لكتابة 'الانتصار للتدمرية' (الحلقة الثالثة) ｜｜ الشيخ مح",
- "title_src": "filename",
- "sha256": "e276342dbec11a94e05bc283451408cad5007ec5eb17775702b45bbeeeaddb36",
- "nh": "3a6d8f8b18373547930f6a1387d86c4ce84641e29384c7b8107a076e8613bae1",
- "chars": 9494,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/994/002_＂إقبار الاِنتصار＂ مناقشة لكتابة 'الانتصار للتدمرية' (الحلقة الثالثة) ｜｜ الشيخ مح.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/994/002_＂إقبار الاِنتصار＂ مناقشة لكتابة 'الانتصار للتدمرية' (الحلقة الثالثة) ｜｜ الشيخ مح.txt",
-   "sha256": "e276342dbec11a94e05bc283451408cad5007ec5eb17775702b45bbeeeaddb36",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--994:2",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--994",
+  "n": 2,
+  "n_src": "read",
+  "title": "＂إقبار الاِنتصار＂ مناقشة لكتابة 'الانتصار للتدمرية' (الحلقة الثالثة) ｜｜ الشيخ مح",
+  "title_src": "filename",
+  "sha256": "e276342dbec11a94e05bc283451408cad5007ec5eb17775702b45bbeeeaddb36",
+  "nh": "3a6d8f8b18373547930f6a1387d86c4ce84641e29384c7b8107a076e8613bae1",
+  "chars": 9494,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/994/002_＂إقبار الاِنتصار＂ مناقشة لكتابة 'الانتصار للتدمرية' (الحلقة الثالثة) ｜｜ الشيخ مح.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/994/1.txt",
-   "sha256": "e276342dbec11a94e05bc283451408cad5007ec5eb17775702b45bbeeeaddb36",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/994/002_＂إقبار الاِنتصار＂ مناقشة لكتابة 'الانتصار للتدمرية' (الحلقة الثالثة) ｜｜ الشيخ مح.txt",
+      "sha256": "e276342dbec11a94e05bc283451408cad5007ec5eb17775702b45bbeeeaddb36",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/994/1.txt",
+      "sha256": "e276342dbec11a94e05bc283451408cad5007ec5eb17775702b45bbeeeaddb36",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9994,
+    "spoken_align_pct": 99.94,
+    "audio_span_pct": 100.0,
+    "words": 1766,
+    "aligned": 1762,
+    "interpolated": 1,
+    "at": "2026-10-18 09:17"
   }
- ],
- "variants": [],
- "also_in": []
 }
