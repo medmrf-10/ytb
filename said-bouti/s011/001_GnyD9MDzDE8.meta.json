@@ -1,43 +1,54 @@
 {
- "v": 1,
- "lid": "yt:GnyD9MDzDE8",
- "vid": "GnyD9MDzDE8",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--366",
- "n": 2,
- "n_src": "read",
- "title": "1 - محمد ﷺ في القرآن الكريم العلامة البوطي من هو محمد ﷺ في القرآن الكريم ؟",
- "title_src": "filename",
- "sha256": "becc013635b456d07b6bb48b2740bef2c6c8a00dddf81d029ec4e28e130c4a11",
- "nh": "c5a3288a92c167bb4d16c5e6ccdc8a16a075e2176a239fb66c6f9db86ebf31b0",
- "chars": 14559,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/366/002_1 - محمد ﷺ في القرآن الكريم  العلامة البوطي  من هو محمد ﷺ في القرآن الكريم ؟.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/366/002_1 - محمد ﷺ في القرآن الكريم  العلامة البوطي  من هو محمد ﷺ في القرآن الكريم ؟.txt",
-   "sha256": "becc013635b456d07b6bb48b2740bef2c6c8a00dddf81d029ec4e28e130c4a11",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:GnyD9MDzDE8",
+  "vid": "GnyD9MDzDE8",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--366",
+  "n": 2,
+  "n_src": "read",
+  "title": "1 - محمد ﷺ في القرآن الكريم العلامة البوطي من هو محمد ﷺ في القرآن الكريم ؟",
+  "title_src": "filename",
+  "sha256": "becc013635b456d07b6bb48b2740bef2c6c8a00dddf81d029ec4e28e130c4a11",
+  "nh": "c5a3288a92c167bb4d16c5e6ccdc8a16a075e2176a239fb66c6f9db86ebf31b0",
+  "chars": 14559,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/366/002_1 - محمد ﷺ في القرآن الكريم  العلامة البوطي  من هو محمد ﷺ في القرآن الكريم ؟.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/tawba/002_1 - محمد ﷺ في القرآن الكريم  العلامة البوطي  من هو محمد ﷺ في القرآن الكريم ؟.txt",
-   "sha256": "becc013635b456d07b6bb48b2740bef2c6c8a00dddf81d029ec4e28e130c4a11",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/muhammad/002_1 - محمد ﷺ في القرآن الكريم  العلامة البوطي  من هو محمد ﷺ في القرآن الكريم ؟.txt",
-   "sha256": "becc013635b456d07b6bb48b2740bef2c6c8a00dddf81d029ec4e28e130c4a11",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/366/002_1 - محمد ﷺ في القرآن الكريم  العلامة البوطي  من هو محمد ﷺ في القرآن الكريم ؟.txt",
+      "sha256": "becc013635b456d07b6bb48b2740bef2c6c8a00dddf81d029ec4e28e130c4a11",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/tawba/002_1 - محمد ﷺ في القرآن الكريم  العلامة البوطي  من هو محمد ﷺ في القرآن الكريم ؟.txt",
+      "sha256": "becc013635b456d07b6bb48b2740bef2c6c8a00dddf81d029ec4e28e130c4a11",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/muhammad/002_1 - محمد ﷺ في القرآن الكريم  العلامة البوطي  من هو محمد ﷺ في القرآن الكريم ؟.txt",
+      "sha256": "becc013635b456d07b6bb48b2740bef2c6c8a00dddf81d029ec4e28e130c4a11",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9993,
+    "spoken_align_pct": 99.93,
+    "audio_span_pct": 100.0,
+    "words": 2814,
+    "aligned": 2812,
+    "interpolated": 2,
+    "at": "2026-10-18 14:00"
   }
- ],
- "variants": [],
- "also_in": []
 }
