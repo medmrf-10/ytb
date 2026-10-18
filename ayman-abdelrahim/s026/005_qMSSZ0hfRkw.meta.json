@@ -4,5 +4,29 @@
   "words": 10362,
   "wpm": 116.8,
   "model": "gemini-3.8-flash-high",
-  "ok": true
+  "ok": true,
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.7905,
+    "spoken_align_pct": 79.05,
+    "audio_span_pct": 99.9,
+    "words": 10362,
+    "aligned": 8174,
+    "interpolated": 2166,
+    "retried_without_silence_compact": true,
+    "at": "2026-10-18 23:04",
+    "low_coverage_diagnosis": {
+      "spoken_align_pct": 79.05,
+      "interpolated_words": 2166,
+      "unaligned_clusters_count": 0,
+      "max_cluster_words": 0,
+      "wpm": 116.5,
+      "audio_span_pct": 99.9,
+      "forced_steps": 0,
+      "causes": [
+        "ACOUSTIC_MISMATCH_OR_DUBBED_TRACK(forced=0, cov=79.0%)"
+      ]
+    }
+  }
 }

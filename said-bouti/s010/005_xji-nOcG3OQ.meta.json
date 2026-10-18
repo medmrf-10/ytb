@@ -4,5 +4,30 @@
   "words": 3232,
   "wpm": 114.2,
   "model": "gemini-3.8-flash-high",
-  "ok": true
+  "ok": true,
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.8433,
+    "spoken_align_pct": 84.33,
+    "audio_span_pct": 99.91,
+    "words": 3232,
+    "aligned": 2717,
+    "interpolated": 505,
+    "retried_without_silence_compact": true,
+    "local_agc_applied": true,
+    "at": "2026-10-18 23:14",
+    "low_coverage_diagnosis": {
+      "spoken_align_pct": 84.33,
+      "interpolated_words": 505,
+      "unaligned_clusters_count": 5,
+      "max_cluster_words": 16,
+      "wpm": 113.8,
+      "audio_span_pct": 99.91,
+      "forced_steps": 0,
+      "causes": [
+        "TEXT_HALLUCINATION_OR_CHUNK_REPEAT(clusters=5, max_run=16w @ 1156.22s: «{تَوَلَّوْا وَأَعْيُنُهُمْ تَفِيضُ مِنَ الدَّمْعِ حَزَناً أَ»)"
+      ]
+    }
+  }
 }
