@@ -4,5 +4,33 @@
   "words": 8332,
   "wpm": 178.4,
   "model": "gemini-3.8-flash-high",
-  "ok": true
+  "ok": true,
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9442,
+    "spoken_align_pct": 94.42,
+    "audio_span_pct": 99.97,
+    "words": 6626,
+    "aligned": 5872,
+    "interpolated": 347,
+    "retried_without_silence_compact": true,
+    "local_agc_applied": true,
+    "at": "2026-10-19 01:12",
+    "low_coverage_diagnosis": {
+      "spoken_align_pct": 94.42,
+      "interpolated_words": 347,
+      "unaligned_clusters_count": 8,
+      "max_cluster_words": 19,
+      "wpm": 133.1,
+      "audio_span_pct": 99.97,
+      "forced_steps": 0,
+      "causes": [
+        "TEXT_HALLUCINATION_OR_CHUNK_REPEAT(clusters=8, max_run=19w @ 1017.52s: «ووطئتَ سهلاً». الله! ما شاء الله. هذا فـ... محذوف وجوباً»)"
+      ]
+    },
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
+  }
 }

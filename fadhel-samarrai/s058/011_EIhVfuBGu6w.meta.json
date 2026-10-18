@@ -4,5 +4,33 @@
   "words": 2798,
   "wpm": 184.9,
   "model": "gemini-3.8-flash-high",
-  "ok": true
+  "ok": true,
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9316,
+    "spoken_align_pct": 93.16,
+    "audio_span_pct": 99.99,
+    "words": 2310,
+    "aligned": 2110,
+    "interpolated": 155,
+    "retried_without_silence_compact": true,
+    "local_agc_applied": true,
+    "at": "2026-10-19 01:16",
+    "low_coverage_diagnosis": {
+      "spoken_align_pct": 93.16,
+      "interpolated_words": 155,
+      "unaligned_clusters_count": 3,
+      "max_cluster_words": 16,
+      "wpm": 149.7,
+      "audio_span_pct": 99.99,
+      "forced_steps": 0,
+      "causes": [
+        "TEXT_HALLUCINATION_OR_CHUNK_REPEAT(clusters=3, max_run=16w @ 0.18s: «ونكتب كل كلمة قيلت حرفياً من البداية حتى النهاية. فلنفرغ الم»)"
+      ]
+    },
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
+  }
 }
