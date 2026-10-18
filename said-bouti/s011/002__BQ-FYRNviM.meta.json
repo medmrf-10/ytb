@@ -1,43 +1,54 @@
 {
- "v": 1,
- "lid": "yt:_BQ-FYRNviM",
- "vid": "_BQ-FYRNviM",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--366",
- "n": 3,
- "n_src": "read",
- "title": "2 - محمد ﷺ في القرآن الكريم العلامة البوطي وظائف النبي محمد ﷺ في القرآن الكريم",
- "title_src": "filename",
- "sha256": "1f5b032264f0216210c5147480a50f24bddb07aca7e00a2dd8e7792a4779b8c1",
- "nh": "cdc635260e9d1d1d12ce293d5e35dde6a9e0a4a046fd4279074a5f7cce980252",
- "chars": 13984,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/366/003_2 - محمد ﷺ في القرآن الكريم  العلامة البوطي  وظائف النبي محمد ﷺ في القرآن الكريم.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/366/003_2 - محمد ﷺ في القرآن الكريم  العلامة البوطي  وظائف النبي محمد ﷺ في القرآن الكريم.txt",
-   "sha256": "1f5b032264f0216210c5147480a50f24bddb07aca7e00a2dd8e7792a4779b8c1",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:_BQ-FYRNviM",
+  "vid": "_BQ-FYRNviM",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--366",
+  "n": 3,
+  "n_src": "read",
+  "title": "2 - محمد ﷺ في القرآن الكريم العلامة البوطي وظائف النبي محمد ﷺ في القرآن الكريم",
+  "title_src": "filename",
+  "sha256": "1f5b032264f0216210c5147480a50f24bddb07aca7e00a2dd8e7792a4779b8c1",
+  "nh": "cdc635260e9d1d1d12ce293d5e35dde6a9e0a4a046fd4279074a5f7cce980252",
+  "chars": 13984,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/366/003_2 - محمد ﷺ في القرآن الكريم  العلامة البوطي  وظائف النبي محمد ﷺ في القرآن الكريم.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/tawba/003_2 - محمد ﷺ في القرآن الكريم  العلامة البوطي  وظائف النبي محمد ﷺ في القرآن الكريم.txt",
-   "sha256": "1f5b032264f0216210c5147480a50f24bddb07aca7e00a2dd8e7792a4779b8c1",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/muhammad/003_2 - محمد ﷺ في القرآن الكريم  العلامة البوطي  وظائف النبي محمد ﷺ في القرآن الكريم.txt",
-   "sha256": "1f5b032264f0216210c5147480a50f24bddb07aca7e00a2dd8e7792a4779b8c1",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/366/003_2 - محمد ﷺ في القرآن الكريم  العلامة البوطي  وظائف النبي محمد ﷺ في القرآن الكريم.txt",
+      "sha256": "1f5b032264f0216210c5147480a50f24bddb07aca7e00a2dd8e7792a4779b8c1",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/tawba/003_2 - محمد ﷺ في القرآن الكريم  العلامة البوطي  وظائف النبي محمد ﷺ في القرآن الكريم.txt",
+      "sha256": "1f5b032264f0216210c5147480a50f24bddb07aca7e00a2dd8e7792a4779b8c1",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/muhammad/003_2 - محمد ﷺ في القرآن الكريم  العلامة البوطي  وظائف النبي محمد ﷺ في القرآن الكريم.txt",
+      "sha256": "1f5b032264f0216210c5147480a50f24bddb07aca7e00a2dd8e7792a4779b8c1",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9886,
+    "spoken_align_pct": 98.86,
+    "audio_span_pct": 100.0,
+    "words": 2534,
+    "aligned": 2505,
+    "interpolated": 29,
+    "at": "2026-10-18 14:01"
   }
- ],
- "variants": [],
- "also_in": []
 }

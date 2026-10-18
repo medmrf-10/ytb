@@ -1,43 +1,54 @@
 {
- "v": 1,
- "lid": "rn:said-bouti--366:7",
- "vid": null,
- "sheikh": "said-bouti",
- "row_id": "said-bouti--366",
- "n": 7,
- "n_src": "read",
- "title": "6 - محمد ﷺ في القرآن الكريم العلامة البوطي أخلاق النبي محمد ﷺ",
- "title_src": "filename",
- "sha256": "7ca253a89bb736029bf13284679f680ee5fcdc6ab06184bd84103940ef062c4c",
- "nh": "1a8d7cd7ff0266cb733fd31a057e2dc32720ed05d0112c9f055ce9018773b985",
- "chars": 14089,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/366/007_6 - محمد ﷺ في القرآن الكريم  العلامة البوطي  أخلاق النبي محمد ﷺ.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/366/007_6 - محمد ﷺ في القرآن الكريم  العلامة البوطي  أخلاق النبي محمد ﷺ.txt",
-   "sha256": "7ca253a89bb736029bf13284679f680ee5fcdc6ab06184bd84103940ef062c4c",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:said-bouti--366:7",
+  "vid": null,
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--366",
+  "n": 7,
+  "n_src": "read",
+  "title": "6 - محمد ﷺ في القرآن الكريم العلامة البوطي أخلاق النبي محمد ﷺ",
+  "title_src": "filename",
+  "sha256": "7ca253a89bb736029bf13284679f680ee5fcdc6ab06184bd84103940ef062c4c",
+  "nh": "1a8d7cd7ff0266cb733fd31a057e2dc32720ed05d0112c9f055ce9018773b985",
+  "chars": 14089,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/366/007_6 - محمد ﷺ في القرآن الكريم  العلامة البوطي  أخلاق النبي محمد ﷺ.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/tawba/007_6 - محمد ﷺ في القرآن الكريم  العلامة البوطي  أخلاق النبي محمد ﷺ.txt",
-   "sha256": "7ca253a89bb736029bf13284679f680ee5fcdc6ab06184bd84103940ef062c4c",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/muhammad/007_6 - محمد ﷺ في القرآن الكريم  العلامة البوطي  أخلاق النبي محمد ﷺ.txt",
-   "sha256": "7ca253a89bb736029bf13284679f680ee5fcdc6ab06184bd84103940ef062c4c",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/366/007_6 - محمد ﷺ في القرآن الكريم  العلامة البوطي  أخلاق النبي محمد ﷺ.txt",
+      "sha256": "7ca253a89bb736029bf13284679f680ee5fcdc6ab06184bd84103940ef062c4c",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/tawba/007_6 - محمد ﷺ في القرآن الكريم  العلامة البوطي  أخلاق النبي محمد ﷺ.txt",
+      "sha256": "7ca253a89bb736029bf13284679f680ee5fcdc6ab06184bd84103940ef062c4c",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/muhammad/007_6 - محمد ﷺ في القرآن الكريم  العلامة البوطي  أخلاق النبي محمد ﷺ.txt",
+      "sha256": "7ca253a89bb736029bf13284679f680ee5fcdc6ab06184bd84103940ef062c4c",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.8051,
+    "spoken_align_pct": 80.51,
+    "audio_span_pct": 100.0,
+    "words": 3581,
+    "aligned": 2883,
+    "interpolated": 698,
+    "at": "2026-10-18 14:04"
   }
- ],
- "variants": [],
- "also_in": []
 }

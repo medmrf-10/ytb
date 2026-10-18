@@ -1,43 +1,54 @@
 {
- "v": 1,
- "lid": "yt:0e-s36mciKw",
- "vid": "0e-s36mciKw",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--366",
- "n": 6,
- "n_src": "read",
- "title": "5 - محمد ﷺ في القرآن الكريم العلامة البوطي مكانة النبي محمد ﷺ عند الله",
- "title_src": "filename",
- "sha256": "85ecf88990fab33a2a845de1345cb626e84a05253a4b8253a8ac1a3ece11a366",
- "nh": "300d188e8d2f752cc44b54f90e03201fcb6f789a87d2418dda0727a978ff0c55",
- "chars": 3867,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/366/006_5 - محمد ﷺ في القرآن الكريم  العلامة البوطي  مكانة النبي محمد ﷺ عند الله.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/366/006_5 - محمد ﷺ في القرآن الكريم  العلامة البوطي  مكانة النبي محمد ﷺ عند الله.txt",
-   "sha256": "85ecf88990fab33a2a845de1345cb626e84a05253a4b8253a8ac1a3ece11a366",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:0e-s36mciKw",
+  "vid": "0e-s36mciKw",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--366",
+  "n": 6,
+  "n_src": "read",
+  "title": "5 - محمد ﷺ في القرآن الكريم العلامة البوطي مكانة النبي محمد ﷺ عند الله",
+  "title_src": "filename",
+  "sha256": "85ecf88990fab33a2a845de1345cb626e84a05253a4b8253a8ac1a3ece11a366",
+  "nh": "300d188e8d2f752cc44b54f90e03201fcb6f789a87d2418dda0727a978ff0c55",
+  "chars": 3867,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/366/006_5 - محمد ﷺ في القرآن الكريم  العلامة البوطي  مكانة النبي محمد ﷺ عند الله.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/tawba/006_5 - محمد ﷺ في القرآن الكريم  العلامة البوطي  مكانة النبي محمد ﷺ عند الله.txt",
-   "sha256": "85ecf88990fab33a2a845de1345cb626e84a05253a4b8253a8ac1a3ece11a366",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/muhammad/006_5 - محمد ﷺ في القرآن الكريم  العلامة البوطي  مكانة النبي محمد ﷺ عند الله.txt",
-   "sha256": "85ecf88990fab33a2a845de1345cb626e84a05253a4b8253a8ac1a3ece11a366",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/366/006_5 - محمد ﷺ في القرآن الكريم  العلامة البوطي  مكانة النبي محمد ﷺ عند الله.txt",
+      "sha256": "85ecf88990fab33a2a845de1345cb626e84a05253a4b8253a8ac1a3ece11a366",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/tawba/006_5 - محمد ﷺ في القرآن الكريم  العلامة البوطي  مكانة النبي محمد ﷺ عند الله.txt",
+      "sha256": "85ecf88990fab33a2a845de1345cb626e84a05253a4b8253a8ac1a3ece11a366",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/muhammad/006_5 - محمد ﷺ في القرآن الكريم  العلامة البوطي  مكانة النبي محمد ﷺ عند الله.txt",
+      "sha256": "85ecf88990fab33a2a845de1345cb626e84a05253a4b8253a8ac1a3ece11a366",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9899,
+    "spoken_align_pct": 98.99,
+    "audio_span_pct": 100.0,
+    "words": 695,
+    "aligned": 688,
+    "interpolated": 7,
+    "at": "2026-10-18 14:03"
   }
- ],
- "variants": [],
- "also_in": []
 }
