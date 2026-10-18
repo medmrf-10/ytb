@@ -3,25 +3,29 @@
   "sheikh_id": "sariri",
   "sheikh": "مولود السريري",
   "series": "سلسلة مفهوم فهم السلف والسنة والجماعة واللامذهبية (3 مجالس)",
-  "yt_playlist_id": null,
+  "category": "العقيدة والفكر والمنهج",
+  "state": "completed",
   "videos": [
     {
       "n": 1,
       "vid": "MRd37Yato0E",
       "title": "المجلس 1: الاستفسار عن معنى فهم السلف",
-      "dur_s": 2558
+      "dur_s": 2558,
+      "url": "https://www.youtube.com/watch?v=MRd37Yato0E"
     },
     {
       "n": 2,
       "vid": "6ohPrJYvZZ0",
       "title": "المجلس 2: مفهوم اللامذهبية والتعليق على فهم السلف والسنة والجماعة",
-      "dur_s": 2001
+      "dur_s": 2001,
+      "url": "https://www.youtube.com/watch?v=6ohPrJYvZZ0"
     },
     {
       "n": 3,
       "vid": "bC87tYJFC6Y",
       "title": "المجلس 3: بيان وجه السؤال عن حقيقة لفظ السنة والجماعة وفهم السلف",
-      "dur_s": 1652
+      "dur_s": 1652,
+      "url": "https://www.youtube.com/watch?v=bC87tYJFC6Y"
     }
   ]
 }

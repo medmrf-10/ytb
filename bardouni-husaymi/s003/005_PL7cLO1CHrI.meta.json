@@ -1,8 +1,45 @@
 {
-  "dur_s": 1807.4,
-  "chars": 19185,
-  "words": 3440,
-  "wpm": 114.2,
-  "model": "gemini-3.8-flash-high",
-  "ok": true
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--10:5",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--10",
+ "n": 5,
+ "n_src": "read",
+ "title": "الدرس 5 ｜ شرح منظومة الأجهوري في أصول الدين- مسألة إيمان المقلد- ｜ الشيخ محمد ال",
+ "title_src": "filename",
+ "sha256": "7b8722b40e44208c2d7183af2d5d9c8ac99a1a2e77c6304fe6cf05162639d843",
+ "nh": "d155296988f5cef44d01bc67322a6c705df3aad48f869b2321cbd8bcd319e4b5",
+ "chars": 12818,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/10/005_الدرس 5 ｜ شرح منظومة الأجهوري في أصول الدين- مسألة إيمان المقلد- ｜ الشيخ محمد ال.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/10/005_الدرس 5 ｜ شرح منظومة الأجهوري في أصول الدين- مسألة إيمان المقلد- ｜ الشيخ محمد ال.txt",
+   "sha256": "7b8722b40e44208c2d7183af2d5d9c8ac99a1a2e77c6304fe6cf05162639d843",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bardouni/ajhuri/4.txt",
+   "sha256": "7b8722b40e44208c2d7183af2d5d9c8ac99a1a2e77c6304fe6cf05162639d843",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/995/4.txt",
+   "sha256": "7b8722b40e44208c2d7183af2d5d9c8ac99a1a2e77c6304fe6cf05162639d843",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "k:10"
+ ]
 }

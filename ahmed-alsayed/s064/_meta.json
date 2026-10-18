@@ -3,55 +3,64 @@
   "sheikh_id": "sayed",
   "sheikh": "أحمد السيد",
   "series": "صناعة المربي",
-  "yt_playlist_id": null,
+  "category": "سلسلة علمية",
+  "state": "completed",
   "videos": [
     {
       "n": 1,
       "vid": "T_bnmtTj7T4",
       "title": "صناعة المربي ٠١ | ثغر التربية",
-      "dur_s": 2311
+      "dur_s": 2311,
+      "url": "https://www.youtube.com/watch?v=T_bnmtTj7T4"
     },
     {
       "n": 2,
       "vid": "x1c6EPVdVfM",
       "title": "صناعة المربي ٢ | التربية النبوية",
-      "dur_s": 5490
+      "dur_s": 5490,
+      "url": "https://www.youtube.com/watch?v=x1c6EPVdVfM"
     },
     {
       "n": 3,
       "vid": "R-ubp8KpmNA",
       "title": "صناعة المربي ٣ | التربية في التراث الإسلامي",
-      "dur_s": 4292
+      "dur_s": 4292,
+      "url": "https://www.youtube.com/watch?v=R-ubp8KpmNA"
     },
     {
       "n": 4,
       "vid": "3-TNWhWNvD0",
       "title": "صناعة المربي ٤ | التربية بين الغايات والوسائل",
-      "dur_s": 4039
+      "dur_s": 4039,
+      "url": "https://www.youtube.com/watch?v=3-TNWhWNvD0"
     },
     {
       "n": 5,
       "vid": "sKBwC3pncjs",
       "title": "صناعة المربي ٥ | ما ينبغي أن يكون عليه المربي",
-      "dur_s": 4414
+      "dur_s": 4414,
+      "url": "https://www.youtube.com/watch?v=sKBwC3pncjs"
     },
     {
       "n": 6,
       "vid": "DSz8YbP5RBo",
       "title": "صناعة المربي ٦ | احتياجات المربي",
-      "dur_s": 4129
+      "dur_s": 4129,
+      "url": "https://www.youtube.com/watch?v=DSz8YbP5RBo"
     },
     {
       "n": 7,
       "vid": "Vkswj_xnAbo",
       "title": "صناعة المربي ٧ | المحاضن التربوية ١",
-      "dur_s": 4834
+      "dur_s": 4834,
+      "url": "https://www.youtube.com/watch?v=Vkswj_xnAbo"
     },
     {
       "n": 8,
       "vid": "UaTKLmy8cpk",
       "title": "صناعة المربي ٨ | المحاضن التربوية ٢",
-      "dur_s": 4459
+      "dur_s": 4459,
+      "url": "https://www.youtube.com/watch?v=UaTKLmy8cpk"
     }
   ]
 }

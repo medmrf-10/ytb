@@ -3,49 +3,57 @@
   "sheikh_id": "sayed",
   "sheikh": "أحمد السيد",
   "series": "زاد المصلحين",
-  "yt_playlist_id": null,
+  "category": "سلسلة علمية",
+  "state": "completed",
   "videos": [
     {
       "n": 1,
       "vid": "rjDgsWtyJYU",
       "title": "زاد المصلحين 01 | اليقين",
-      "dur_s": 3138
+      "dur_s": 3138,
+      "url": "https://www.youtube.com/watch?v=rjDgsWtyJYU"
     },
     {
       "n": 2,
       "vid": "nK0MKk99Mi4",
       "title": "زاد المصلحين 02 | الإخلاص",
-      "dur_s": 2476
+      "dur_s": 2476,
+      "url": "https://www.youtube.com/watch?v=nK0MKk99Mi4"
     },
     {
       "n": 3,
       "vid": "vwxxBfmNnNQ",
       "title": "زاد المصلحين 03 | التوكل",
-      "dur_s": 2595
+      "dur_s": 2595,
+      "url": "https://www.youtube.com/watch?v=vwxxBfmNnNQ"
     },
     {
       "n": 4,
       "vid": "SmWIux-6E8s",
       "title": "زاد المصلحين 04 | الدعاء",
-      "dur_s": 2145
+      "dur_s": 2145,
+      "url": "https://www.youtube.com/watch?v=SmWIux-6E8s"
     },
     {
       "n": 5,
       "vid": "oZdG0cbFHbE",
       "title": "زاد المصلحين 05 | الذكر",
-      "dur_s": 2030
+      "dur_s": 2030,
+      "url": "https://www.youtube.com/watch?v=oZdG0cbFHbE"
     },
     {
       "n": 6,
       "vid": "2zAtQCyCuqo",
       "title": "زاد المصلحين 06 | الصبر",
-      "dur_s": 1934
+      "dur_s": 1934,
+      "url": "https://www.youtube.com/watch?v=2zAtQCyCuqo"
     },
     {
       "n": 7,
       "vid": "5mh0RFBLxF0",
       "title": "زاد المصلحين 07 | الصلاة",
-      "dur_s": 1599
+      "dur_s": 1599,
+      "url": "https://www.youtube.com/watch?v=5mh0RFBLxF0"
     }
   ]
 }

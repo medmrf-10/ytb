@@ -3,31 +3,36 @@
   "sheikh_id": "ayman",
   "sheikh": "أيمن عبد الرحيم",
   "series": "دورة العشرة المبشرون بالجنة (شتاء 2016 - شيخ العمود)",
-  "yt_playlist_id": null,
+  "category": "السيرة والتاريخ الإسلامي",
+  "state": "completed",
   "videos": [
     {
       "n": 1,
       "vid": "34rYLjK1vmY",
       "title": "المحاضرة 1: العشرة المبشرون بالجنة | شيخ العمود",
-      "dur_s": 7415
+      "dur_s": 7415,
+      "url": "https://www.youtube.com/watch?v=34rYLjK1vmY"
     },
     {
       "n": 2,
       "vid": "n_9oJZ3WNjw",
       "title": "المحاضرة 2: العشرة المبشرون بالجنة | شيخ العمود",
-      "dur_s": 6201
+      "dur_s": 6201,
+      "url": "https://www.youtube.com/watch?v=n_9oJZ3WNjw"
     },
     {
       "n": 3,
       "vid": "l9r5zrGkzD4",
       "title": "المحاضرة 3: العشرة المبشرون بالجنة | شيخ العمود",
-      "dur_s": 6633
+      "dur_s": 6633,
+      "url": "https://www.youtube.com/watch?v=l9r5zrGkzD4"
     },
     {
       "n": 4,
       "vid": "p0WAsuVb91Y",
       "title": "المحاضرة 4 والأخيرة: العشرة المبشرون بالجنة | شيخ العمود",
-      "dur_s": 7463
+      "dur_s": 7463,
+      "url": "https://www.youtube.com/watch?v=p0WAsuVb91Y"
     }
   ]
 }

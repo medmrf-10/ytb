@@ -3,25 +3,29 @@
   "sheikh_id": "ayman",
   "sheikh": "أيمن عبد الرحيم",
   "series": "دورة الهندسة باللغة العبرية الفصحى",
-  "yt_playlist_id": null,
+  "category": "اللغة العربية واللسانيات",
+  "state": "completed",
   "videos": [
     {
       "n": 1,
       "vid": "iudu3om6zD4",
       "title": "المحاضرة 1: الهندسة باللغة العبرية الفصحى",
-      "dur_s": 1970
+      "dur_s": 1970,
+      "url": "https://www.youtube.com/watch?v=iudu3om6zD4"
     },
     {
       "n": 2,
       "vid": "NVOoJpfh3A8",
       "title": "المحاضرة 2: الهندسة باللغة العبرية الفصحى",
-      "dur_s": 3910
+      "dur_s": 3910,
+      "url": "https://www.youtube.com/watch?v=NVOoJpfh3A8"
     },
     {
       "n": 3,
       "vid": "2Hm-1aZCnuE",
       "title": "المحاضرة 3 والأخيرة: الهندسة باللغة العبرية الفصحى",
-      "dur_s": 1689
+      "dur_s": 1689,
+      "url": "https://www.youtube.com/watch?v=2Hm-1aZCnuE"
     }
   ]
 }

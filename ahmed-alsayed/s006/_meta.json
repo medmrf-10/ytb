@@ -3,19 +3,22 @@
   "sheikh_id": "sayed",
   "sheikh": "أحمد السيد",
   "series": "الشرح المختصر على كتاب المنهاج من ميراث النبوة",
-  "yt_playlist_id": null,
+  "category": "شرح علمي",
+  "state": "completed",
   "videos": [
     {
       "n": 1,
       "vid": "yRQH7g4SL3w",
       "title": "المنهاج من ميراث النبوة | الشرح المختصر 01",
-      "dur_s": 13828
+      "dur_s": 13828,
+      "url": "https://www.youtube.com/watch?v=yRQH7g4SL3w"
     },
     {
       "n": 2,
       "vid": "sUpJIMUJKSE",
       "title": "المنهاج من ميراث النبوة | الشرح المختصر 02",
-      "dur_s": 9915
+      "dur_s": 9915,
+      "url": "https://www.youtube.com/watch?v=sUpJIMUJKSE"
     }
   ]
 }

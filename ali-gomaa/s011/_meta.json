@@ -3,25 +3,29 @@
   "sheikh_id": "gomaa",
   "sheikh": "علي جمعة",
   "series": "دورة أفكار إحياء علوم الدين للإمام الغزالي (ماليزيا 2023)",
-  "yt_playlist_id": null,
+  "category": "تزكية",
+  "state": "completed",
   "videos": [
     {
       "n": 1,
       "vid": "n1rJK8ZFGiM",
       "title": "دورة أفكار إحياء علوم الدين | 1 | دولة ماليزيا | 20 - 05 - 2023 | أ.د علي جمعة",
-      "dur_s": 8354
+      "dur_s": 8354,
+      "url": "https://www.youtube.com/watch?v=n1rJK8ZFGiM"
     },
     {
       "n": 2,
       "vid": "3oOAOj3mcMw",
       "title": "دورة أفكار إحياء علوم الدين | 2 | دولة ماليزيا | 20 - 05 - 2023 | أ.د علي جمعة",
-      "dur_s": 4499
+      "dur_s": 4499,
+      "url": "https://www.youtube.com/watch?v=3oOAOj3mcMw"
     },
     {
       "n": 3,
       "vid": "Qq4m3yl9enc",
       "title": "دورة أفكار إحياء علوم الدين | 3 | دولة ماليزيا | 21 - 05 - 2023 | أ.د علي جمعة",
-      "dur_s": 5144
+      "dur_s": 5144,
+      "url": "https://www.youtube.com/watch?v=Qq4m3yl9enc"
     }
   ]
 }

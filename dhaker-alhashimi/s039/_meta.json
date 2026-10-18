@@ -3,25 +3,29 @@
   "sheikh_id": "hashemi",
   "sheikh": "ذاكر الهاشمي",
   "series": "مُدارَسة كتيب «أفراح الروح» لسيد قطب",
-  "yt_playlist_id": null,
+  "category": "ألف باء العلوم والمدارسات",
+  "state": "completed",
   "videos": [
     {
       "n": 1,
       "vid": "jo3Kueh-dXA",
       "title": "مناقشة كتيب أفراح الروح - سيد قطب | الجزء الأول | عبدالرحمن ذاكر الهاشمي",
-      "dur_s": 8055
+      "dur_s": 8055,
+      "url": "https://www.youtube.com/watch?v=jo3Kueh-dXA"
     },
     {
       "n": 2,
       "vid": "4SggNqfeiXU",
       "title": "مناقشة كتيب أفراح الروح | الجزء الثاني | عبدالرحمن ذاكر الهاشمي",
-      "dur_s": 4161
+      "dur_s": 4161,
+      "url": "https://www.youtube.com/watch?v=4SggNqfeiXU"
     },
     {
       "n": 3,
       "vid": "WEkevnRjPzQ",
       "title": "مناقشة كتيب أفراح الروح | الجزء الثالث | عبدالرحمن ذاكر الهاشمي",
-      "dur_s": 3873
+      "dur_s": 3873,
+      "url": "https://www.youtube.com/watch?v=WEkevnRjPzQ"
     }
   ]
 }

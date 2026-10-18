@@ -1,7 +1,37 @@
 {
-  "chars": 9016,
-  "words": 1613,
-  "wpm": 84.5,
-  "model": "gemini-3.8-flash-high",
-  "ok": true
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--994:3",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--994",
+ "n": 3,
+ "n_src": "read",
+ "title": "＂إقبارُ الاِنتصار＂ مناقشة لكتاب 'الانتصار للتدمرية' (الحلقة الثانية) ｜｜ الشيخ مح",
+ "title_src": "filename",
+ "sha256": "12742cfbbc6fee38df765d3cf9da828322556d4f63a5eedb205e666a26b4670f",
+ "nh": "ee6b5cfab77082da08992fac4f8b863b6c345e629d3227a9b00acf513818aca1",
+ "chars": 12202,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/994/003_＂إقبارُ الاِنتصار＂ مناقشة لكتاب 'الانتصار للتدمرية' (الحلقة الثانية) ｜｜ الشيخ مح.txt",
+  "commit_ts": 1791881885,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/994/003_＂إقبارُ الاِنتصار＂ مناقشة لكتاب 'الانتصار للتدمرية' (الحلقة الثانية) ｜｜ الشيخ مح.txt",
+   "sha256": "12742cfbbc6fee38df765d3cf9da828322556d4f63a5eedb205e666a26b4670f",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/994/2.txt",
+   "sha256": "12742cfbbc6fee38df765d3cf9da828322556d4f63a5eedb205e666a26b4670f",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": []
 }

@@ -3,25 +3,29 @@
   "sheikh_id": "alihani",
   "sheikh": "علي هاني العقرباوي",
   "series": "صرف (1): الشرح المختصر لكتاب الأمثلة المختلفة في الصرف",
-  "yt_playlist_id": null,
+  "category": "الصرف والاشتقاق",
+  "state": "completed",
   "videos": [
     {
       "n": 1,
       "vid": "VjUb8btvocM",
       "title": "1) شرح كتاب الأمثلة المختلفة في الصرف الشيخ علي هاني العقرباوي",
-      "dur_s": 6583
+      "dur_s": 6583,
+      "url": "https://www.youtube.com/watch?v=VjUb8btvocM"
     },
     {
       "n": 2,
       "vid": "CHLlP-9YgIo",
       "title": "2) شرح كتاب الأمثلة المختلفة في الصرف/ الشيخ علي هاني العقرباوي",
-      "dur_s": 6294
+      "dur_s": 6294,
+      "url": "https://www.youtube.com/watch?v=CHLlP-9YgIo"
     },
     {
       "n": 3,
       "vid": "AdltgKRLDbw",
       "title": "(3) شرح الأمثلة المختلفة في الصرف",
-      "dur_s": 5378
+      "dur_s": 5378,
+      "url": "https://www.youtube.com/watch?v=AdltgKRLDbw"
     }
   ]
 }

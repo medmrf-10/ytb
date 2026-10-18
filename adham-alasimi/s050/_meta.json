@@ -3,25 +3,29 @@
   "sheikh_id": "asimi",
   "sheikh": "أدهم العاسمي",
   "series": "خطب الجمعة (2017 – 2018م)",
-  "yt_playlist_id": null,
+  "category": "خطب ومواعظ",
+  "state": "completed",
   "videos": [
     {
       "n": 1,
       "vid": "9ZHFEpzUBCo",
       "title": "خطبة الجمعة / الشيخ أدهم العاسمي",
-      "dur_s": 1503
+      "dur_s": 1503,
+      "url": "https://www.youtube.com/watch?v=9ZHFEpzUBCo"
     },
     {
       "n": 2,
       "vid": "LpTjz27ghTE",
       "title": "ماذا نفعل في رأس السنة / خطبة الجمعة / الشيخ أدهم العاسمي",
-      "dur_s": 1439
+      "dur_s": 1439,
+      "url": "https://www.youtube.com/watch?v=LpTjz27ghTE"
     },
     {
       "n": 3,
       "vid": "rdaIMLG2VEA",
       "title": "2018 10 12",
-      "dur_s": 1326
+      "dur_s": 1326,
+      "url": "https://www.youtube.com/watch?v=rdaIMLG2VEA"
     }
   ]
 }

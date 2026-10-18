@@ -3,55 +3,64 @@
   "sheikh_id": "sayed",
   "sheikh": "أحمد السيد",
   "series": "أعمال القلوب وأمراضها وتزكية النفس",
-  "yt_playlist_id": null,
+  "category": "سلسلة علمية",
+  "state": "completed",
   "videos": [
     {
       "n": 1,
       "vid": "C31vQfB03qw",
       "title": "تزكية النفس وأثرها على الإيمان",
-      "dur_s": 4863
+      "dur_s": 4863,
+      "url": "https://www.youtube.com/watch?v=C31vQfB03qw"
     },
     {
       "n": 2,
       "vid": "GPRWvzFaVVA",
       "title": "اليقين والصديقية | سلسلة التزكية وأعمال القلوب (٢) |",
-      "dur_s": 4623
+      "dur_s": 4623,
+      "url": "https://www.youtube.com/watch?v=GPRWvzFaVVA"
     },
     {
       "n": 3,
       "vid": "zLBzMkCoCKU",
       "title": "التوكل و الاعتصام | سلسلة التزكية وأعمال القلوب (٣)",
-      "dur_s": 4240
+      "dur_s": 4240,
+      "url": "https://www.youtube.com/watch?v=zLBzMkCoCKU"
     },
     {
       "n": 4,
       "vid": "_i_vIY4w3so",
       "title": "التوبة والإنابة | سلسلة التزكية وأعمال القلوب (4)",
-      "dur_s": 2690
+      "dur_s": 2690,
+      "url": "https://www.youtube.com/watch?v=_i_vIY4w3so"
     },
     {
       "n": 5,
       "vid": "1vKTuyKEaX0",
       "title": "الخشية من الله | سلسلة التزكية وأعمال القلوب ٥",
-      "dur_s": 3342
+      "dur_s": 3342,
+      "url": "https://www.youtube.com/watch?v=1vKTuyKEaX0"
     },
     {
       "n": 6,
       "vid": "npJ_bbT-BDQ",
       "title": "الرجاء | سلسلة التزكية وأعمال القلوب (٦)",
-      "dur_s": 2118
+      "dur_s": 2118,
+      "url": "https://www.youtube.com/watch?v=npJ_bbT-BDQ"
     },
     {
       "n": 7,
       "vid": "CerZeAb7V6Q",
       "title": "أمراض القلوب | ١ | النفاق + طلب الجاه",
-      "dur_s": 4372
+      "dur_s": 4372,
+      "url": "https://www.youtube.com/watch?v=CerZeAb7V6Q"
     },
     {
       "n": 8,
       "vid": "pckFNIxE-Qk",
       "title": "أمراض القلوب | ٢ | طلب الشهرة والكبر والحسد",
-      "dur_s": 3227
+      "dur_s": 3227,
+      "url": "https://www.youtube.com/watch?v=pckFNIxE-Qk"
     }
   ]
 }

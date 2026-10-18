@@ -3,25 +3,29 @@
   "sheikh_id": "sariri",
   "sheikh": "مولود السريري",
   "series": "سلسلة عقيدتنا في المعرفة البشرية (الأصل الأول والثالث والرابع — 3 محاضرات)",
-  "yt_playlist_id": null,
+  "category": "العقيدة والفكر والمنهج",
+  "state": "stopped",
   "videos": [
     {
       "n": 1,
       "vid": "bmDormtEcXE",
       "title": "عقيدتنا في المعرفة البشرية / الشيخ مولود السريري",
-      "dur_s": 1990
+      "dur_s": 1990,
+      "url": "https://www.youtube.com/watch?v=bmDormtEcXE"
     },
     {
       "n": 2,
       "vid": "oplz_1l9M8w",
       "title": "عقيدتنا في المعرفة البشرية الاصل الثالث / الشيخ العلامة مولود السريري",
-      "dur_s": 1429
+      "dur_s": 1429,
+      "url": "https://www.youtube.com/watch?v=oplz_1l9M8w"
     },
     {
       "n": 3,
       "vid": "6BczzmJUe9E",
       "title": "عقيدتنا في المعرفة البشرية الاصل الرابع / الشيخ العلامة مولود السريري",
-      "dur_s": 1555
+      "dur_s": 1555,
+      "url": "https://www.youtube.com/watch?v=6BczzmJUe9E"
     }
   ]
 }

@@ -1,8 +1,45 @@
 {
-  "dur_s": 1281.2,
-  "chars": 9425,
-  "words": 1661,
-  "wpm": 77.8,
-  "model": "gemini-3.8-flash-high",
-  "ok": true
+ "v": 1,
+ "lid": "rn:bardouni-husaymi--10:7",
+ "vid": null,
+ "sheikh": "bardouni-husaymi",
+ "row_id": "bardouni-husaymi--10",
+ "n": 7,
+ "n_src": "read",
+ "title": "الدرس7 ｜شرح منظومة الأجهوري في أصول الدين- ما يجب لله(مخالفة الحوادث-القيام بنفس",
+ "title_src": "filename",
+ "sha256": "9e84353c0b515ce067f258eff1e39d227bde8475bc9adee3eabdba6031690b26",
+ "nh": "631c9796b0d08306e49a84d246fdff41ae06e205f1099d29183a3a8311334763",
+ "chars": 9162,
+ "quality": "ok",
+ "winner": {
+  "store": "des-mut",
+  "path": "des/mutalaa/data/txt/10/007_الدرس7 ｜شرح منظومة الأجهوري في أصول الدين- ما يجب لله(مخالفة الحوادث-القيام بنفس.txt",
+  "commit_ts": 1791881884,
+  "head": "d659a83"
+ },
+ "sources": [
+  {
+   "store": "des-mut",
+   "path": "des/mutalaa/data/txt/10/007_الدرس7 ｜شرح منظومة الأجهوري في أصول الدين- ما يجب لله(مخالفة الحوادث-القيام بنفس.txt",
+   "sha256": "9e84353c0b515ce067f258eff1e39d227bde8475bc9adee3eabdba6031690b26",
+   "rel": "identical"
+  },
+  {
+   "store": "hw-tr",
+   "path": "hawshat/transcripts/bardouni/ajhuri/6.txt",
+   "sha256": "9e84353c0b515ce067f258eff1e39d227bde8475bc9adee3eabdba6031690b26",
+   "rel": "identical"
+  },
+  {
+   "store": "des-dur",
+   "path": "des/durus/transcripts/995/6.txt",
+   "sha256": "9e84353c0b515ce067f258eff1e39d227bde8475bc9adee3eabdba6031690b26",
+   "rel": "identical"
+  }
+ ],
+ "variants": [],
+ "also_in": [
+  "k:10"
+ ]
 }

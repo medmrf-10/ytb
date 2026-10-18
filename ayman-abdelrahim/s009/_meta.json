@@ -3,37 +3,43 @@
   "sheikh_id": "ayman",
   "sheikh": "أيمن عبد الرحيم",
   "series": "دورة كيف أتعلم؟ ماذا أتعلم؟ - من هنا نبدأ",
-  "yt_playlist_id": null,
+  "category": "المنهجية وطلب العلم",
+  "state": "completed",
   "videos": [
     {
       "n": 1,
       "vid": "rpcyE8RxTyY",
       "title": "المحاضرة 1: كيف أتعلم؟ وماذا أتعلم؟ - من هنا نبدأ (الجزء الأول)",
-      "dur_s": 7522
+      "dur_s": 7522,
+      "url": "https://www.youtube.com/watch?v=rpcyE8RxTyY"
     },
     {
       "n": 2,
       "vid": "RX7266GH0QE",
       "title": "المحاضرة 2: كيف أتعلم؟ وماذا أتعلم؟ - من هنا نبدأ (الجزء الثاني)",
-      "dur_s": 4566
+      "dur_s": 4566,
+      "url": "https://www.youtube.com/watch?v=RX7266GH0QE"
     },
     {
       "n": 3,
       "vid": "wWiWeTlek0E",
       "title": "المحاضرة 3: كيف أتعلم؟ وماذا أتعلم؟ - من هنا نبدأ (الجزء الثالث)",
-      "dur_s": 4189
+      "dur_s": 4189,
+      "url": "https://www.youtube.com/watch?v=wWiWeTlek0E"
     },
     {
       "n": 4,
       "vid": "MQlxL-kurt8",
       "title": "المحاضرة 4: تجربة المهندس أيمن عبد الرحيم الحياتية | ندوة من هنا نبدأ",
-      "dur_s": 5617
+      "dur_s": 5617,
+      "url": "https://www.youtube.com/watch?v=MQlxL-kurt8"
     },
     {
       "n": 5,
       "vid": "tml4dZ2j7lw",
       "title": "المحاضرة 5: خريطة العلوم وكيفية اختيار مجالات الدراسة (Career and Life)",
-      "dur_s": 6142
+      "dur_s": 6142,
+      "url": "https://www.youtube.com/watch?v=tml4dZ2j7lw"
     }
   ]
 }

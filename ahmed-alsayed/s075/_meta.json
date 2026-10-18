@@ -3,37 +3,43 @@
   "sheikh_id": "sayed",
   "sheikh": "أحمد السيد",
   "series": "تاريخ الفكر العربي والإسلامي الحديث",
-  "yt_playlist_id": null,
+  "category": "سلسلة علمية",
+  "state": "completed",
   "videos": [
     {
       "n": 1,
       "vid": "myOddoU7LAI",
       "title": "تاريخ الفكر العربي والإسلامي الحديث ٠١ | مقدمات منهجية",
-      "dur_s": 6965
+      "dur_s": 6965,
+      "url": "https://www.youtube.com/watch?v=myOddoU7LAI"
     },
     {
       "n": 2,
       "vid": "GpBtUZf3vlY",
       "title": "تاريخ الفكر العربي والإسلامي الحديث ٠٢ | أهم الشخصيات والكتب والمراحل",
-      "dur_s": 5968
+      "dur_s": 5968,
+      "url": "https://www.youtube.com/watch?v=GpBtUZf3vlY"
     },
     {
       "n": 3,
       "vid": "nOlO5xFBlEM",
       "title": "تاريخ الفكر العربي والإسلامي الحديث ٠٣ | رموز اليقظة قبل احتلال نابليون",
-      "dur_s": 5819
+      "dur_s": 5819,
+      "url": "https://www.youtube.com/watch?v=nOlO5xFBlEM"
     },
     {
       "n": 4,
       "vid": "9C6YB7-YFIU",
       "title": "تاريخ الفكر العربي والإسلامي الحديث ٠٤ | الاستشراق",
-      "dur_s": 4466
+      "dur_s": 4466,
+      "url": "https://www.youtube.com/watch?v=9C6YB7-YFIU"
     },
     {
       "n": 5,
       "vid": "7OcpVsrAiCQ",
       "title": "معارك فكرية كبيرة حصلت قبل قرن من الآن",
-      "dur_s": 264
+      "dur_s": 264,
+      "url": "https://www.youtube.com/watch?v=7OcpVsrAiCQ"
     }
   ]
 }

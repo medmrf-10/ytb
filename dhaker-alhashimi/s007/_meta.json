@@ -3,49 +3,57 @@
   "sheikh_id": "hashemi",
   "sheikh": "ذاكر الهاشمي",
   "series": "شرح كراسة قراءة النفس وما بعدها",
-  "yt_playlist_id": null,
+  "category": "فقه النفس والتزكية",
+  "state": "completed",
   "videos": [
     {
       "n": 1,
       "vid": "nW975wlN8eQ",
       "title": "قراءة النفس 01",
-      "dur_s": 4294
+      "dur_s": 4294,
+      "url": "https://www.youtube.com/watch?v=nW975wlN8eQ"
     },
     {
       "n": 2,
       "vid": "jnvZg3D70wc",
       "title": "قراءة النفس 02",
-      "dur_s": 3961
+      "dur_s": 3961,
+      "url": "https://www.youtube.com/watch?v=jnvZg3D70wc"
     },
     {
       "n": 3,
       "vid": "zUQFDPZSoc0",
       "title": "قراءة النفس 03",
-      "dur_s": 4253
+      "dur_s": 4253,
+      "url": "https://www.youtube.com/watch?v=zUQFDPZSoc0"
     },
     {
       "n": 4,
       "vid": "W4ZG6okxCh0",
       "title": "قراءة النفس 04",
-      "dur_s": 2885
+      "dur_s": 2885,
+      "url": "https://www.youtube.com/watch?v=W4ZG6okxCh0"
     },
     {
       "n": 5,
       "vid": "IHGh1bwdybI",
       "title": "قراءة النفس 05",
-      "dur_s": 6321
+      "dur_s": 6321,
+      "url": "https://www.youtube.com/watch?v=IHGh1bwdybI"
     },
     {
       "n": 6,
       "vid": "ItTXbspB8-8",
       "title": "بعد قراءة النفس: ما الذي يطمئنني؟ وما الذي لا يطمئنني؟ 01",
-      "dur_s": 6794
+      "dur_s": 6794,
+      "url": "https://www.youtube.com/watch?v=ItTXbspB8-8"
     },
     {
       "n": 7,
       "vid": "91WDlVirj64",
       "title": "بعد قراءة النفس: ما الذي يطمئنني؟ وما الذي لا يطمئنني؟ 02",
-      "dur_s": 6484
+      "dur_s": 6484,
+      "url": "https://www.youtube.com/watch?v=91WDlVirj64"
     }
   ]
 }

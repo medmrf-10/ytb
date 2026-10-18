@@ -3,19 +3,22 @@
   "sheikh_id": "omari",
   "sheikh": "علي محمود العمري",
   "series": "محاضرات في الفلسفة المعاصرة: العلاقة بين الدين والعلم",
-  "yt_playlist_id": null,
+  "category": "المنطق والفلسفة",
+  "state": "completed",
   "videos": [
     {
       "n": 1,
       "vid": "PkF5vk3GUWI",
       "title": "محاضرات في الفلسفة المعاصرة  (العلاقة بين الدين والعلم)",
-      "dur_s": 5266
+      "dur_s": 5266,
+      "url": "https://www.youtube.com/watch?v=PkF5vk3GUWI"
     },
     {
       "n": 2,
       "vid": "13U1MURJRaY",
       "title": "العلاقة بين الدين والعلم  ( 2 ) محاضرات في الفلسفة المعاصرة",
-      "dur_s": 2410
+      "dur_s": 2410,
+      "url": "https://www.youtube.com/watch?v=13U1MURJRaY"
     }
   ]
 }

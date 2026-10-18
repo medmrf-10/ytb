@@ -3,25 +3,29 @@
   "sheikh_id": "hashemi",
   "sheikh": "ذاكر الهاشمي",
   "series": "فقه النفس في مقدمة «في ظلال القرآن»",
-  "yt_playlist_id": null,
+  "category": "مجالس القرآن والتفسير",
+  "state": "completed",
   "videos": [
     {
       "n": 1,
       "vid": "_PqvhVr8B3I",
       "title": "مقدمة في ظلال القرآن | الجزء الأول | عبدالرحمن ذاكر الهاشمي",
-      "dur_s": 7953
+      "dur_s": 7953,
+      "url": "https://www.youtube.com/watch?v=_PqvhVr8B3I"
     },
     {
       "n": 2,
       "vid": "zN7e1uYXWzQ",
       "title": "مقدمة في ظلال القرآن | الجزء الثاني | عبدالرحمن ذاكر الهاشمي",
-      "dur_s": 7849
+      "dur_s": 7849,
+      "url": "https://www.youtube.com/watch?v=zN7e1uYXWzQ"
     },
     {
       "n": 3,
       "vid": "dnd9Y-XxrNY",
       "title": "مقدمة في ظلال القرآن | الجزء الثالث | عبدالرحمن ذاكر الهاشمي",
-      "dur_s": 8099
+      "dur_s": 8099,
+      "url": "https://www.youtube.com/watch?v=dnd9Y-XxrNY"
     }
   ]
 }
