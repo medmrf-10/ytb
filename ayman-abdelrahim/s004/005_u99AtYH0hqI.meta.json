@@ -4,5 +4,29 @@
   "words": 7933,
   "wpm": 116.8,
   "model": "gemini-3.8-flash-high",
-  "ok": true
+  "ok": true,
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.8195,
+    "spoken_align_pct": 81.95,
+    "audio_span_pct": 99.84,
+    "words": 7915,
+    "aligned": 6479,
+    "interpolated": 1427,
+    "retried_without_silence_compact": true,
+    "at": "2026-10-18 22:57",
+    "low_coverage_diagnosis": {
+      "spoken_align_pct": 81.95,
+      "interpolated_words": 1427,
+      "unaligned_clusters_count": 1,
+      "max_cluster_words": 13,
+      "wpm": 116.4,
+      "audio_span_pct": 99.84,
+      "forced_steps": 0,
+      "causes": [
+        "TEXT_HALLUCINATION_OR_CHUNK_REPEAT(clusters=1, max_run=13w @ 1027.5s: «فالنبي لم يصل خلف أحد من الأمة قط إلا أبا بكر وعبد»)"
+      ]
+    }
+  }
 }

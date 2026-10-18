@@ -4,5 +4,29 @@
   "words": 12476,
   "wpm": 138.0,
   "model": "gemini-3.8-flash-high",
-  "ok": true
+  "ok": true,
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.8303,
+    "spoken_align_pct": 83.03,
+    "audio_span_pct": 99.84,
+    "words": 12451,
+    "aligned": 10274,
+    "interpolated": 2100,
+    "retried_without_silence_compact": true,
+    "at": "2026-10-18 22:41",
+    "low_coverage_diagnosis": {
+      "spoken_align_pct": 83.03,
+      "interpolated_words": 2100,
+      "unaligned_clusters_count": 3,
+      "max_cluster_words": 11,
+      "wpm": 136.9,
+      "audio_span_pct": 99.84,
+      "forced_steps": 0,
+      "causes": [
+        "TEXT_HALLUCINATION_OR_CHUNK_REPEAT(clusters=3, max_run=11w @ 4642.86s: «أن تعطيها الذهب مقابل ما أخذت منها. هل من عبادة»)"
+      ]
+    }
+  }
 }

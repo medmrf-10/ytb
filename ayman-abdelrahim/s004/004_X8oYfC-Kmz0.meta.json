@@ -4,5 +4,29 @@
   "words": 16534,
   "wpm": 140.0,
   "model": "gemini-3.8-flash-high",
-  "ok": true
+  "ok": true,
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.3712,
+    "spoken_align_pct": 37.12,
+    "audio_span_pct": 98.86,
+    "words": 16504,
+    "aligned": 6084,
+    "interpolated": 10308,
+    "retried_without_silence_compact": true,
+    "at": "2026-10-18 22:54",
+    "low_coverage_diagnosis": {
+      "spoken_align_pct": 37.12,
+      "interpolated_words": 10308,
+      "unaligned_clusters_count": 1,
+      "max_cluster_words": 10221,
+      "wpm": 138.8,
+      "audio_span_pct": 98.86,
+      "forced_steps": 0,
+      "causes": [
+        "TEXT_HALLUCINATION_OR_CHUNK_REPEAT(clusters=1, max_run=10221w @ 7003.48s: «أن، هذه أول مرة في تاريخ العالم الإسلامي تكون عاصمة المسلمين»)"
+      ]
+    }
+  }
 }
