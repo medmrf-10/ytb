@@ -1,43 +1,54 @@
 {
- "v": 1,
- "lid": "yt:djXPLJ_odO8",
- "vid": "djXPLJ_odO8",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--365",
- "n": 6,
- "n_src": "read",
- "title": "5 - ضائعون هداهم القرآن عبد الله بن مسلمة القعنبي - ابن دقيق العيد",
- "title_src": "filename",
- "sha256": "af7cc020addeeda00b3e0c4de4ecb8a154ebb153b25ca66d2273b2e72659b013",
- "nh": "f98abb83d0fa545c5a03e67e458eabb65f4009d530de68effa3b6baa71a9cff4",
- "chars": 10839,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/365/006_5 - ضائعون هداهم القرآن  عبد الله بن مسلمة القعنبي - ابن دقيق العيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/365/006_5 - ضائعون هداهم القرآن  عبد الله بن مسلمة القعنبي - ابن دقيق العيد.txt",
-   "sha256": "af7cc020addeeda00b3e0c4de4ecb8a154ebb153b25ca66d2273b2e72659b013",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:djXPLJ_odO8",
+  "vid": "djXPLJ_odO8",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--365",
+  "n": 6,
+  "n_src": "read",
+  "title": "5 - ضائعون هداهم القرآن عبد الله بن مسلمة القعنبي - ابن دقيق العيد",
+  "title_src": "filename",
+  "sha256": "af7cc020addeeda00b3e0c4de4ecb8a154ebb153b25ca66d2273b2e72659b013",
+  "nh": "f98abb83d0fa545c5a03e67e458eabb65f4009d530de68effa3b6baa71a9cff4",
+  "chars": 10839,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/365/006_5 - ضائعون هداهم القرآن  عبد الله بن مسلمة القعنبي - ابن دقيق العيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/tawba/006_5 - ضائعون هداهم القرآن  عبد الله بن مسلمة القعنبي - ابن دقيق العيد.txt",
-   "sha256": "af7cc020addeeda00b3e0c4de4ecb8a154ebb153b25ca66d2273b2e72659b013",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/dayoon/006_5 - ضائعون هداهم القرآن  عبد الله بن مسلمة القعنبي - ابن دقيق العيد.txt",
-   "sha256": "af7cc020addeeda00b3e0c4de4ecb8a154ebb153b25ca66d2273b2e72659b013",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/365/006_5 - ضائعون هداهم القرآن  عبد الله بن مسلمة القعنبي - ابن دقيق العيد.txt",
+      "sha256": "af7cc020addeeda00b3e0c4de4ecb8a154ebb153b25ca66d2273b2e72659b013",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/tawba/006_5 - ضائعون هداهم القرآن  عبد الله بن مسلمة القعنبي - ابن دقيق العيد.txt",
+      "sha256": "af7cc020addeeda00b3e0c4de4ecb8a154ebb153b25ca66d2273b2e72659b013",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/dayoon/006_5 - ضائعون هداهم القرآن  عبد الله بن مسلمة القعنبي - ابن دقيق العيد.txt",
+      "sha256": "af7cc020addeeda00b3e0c4de4ecb8a154ebb153b25ca66d2273b2e72659b013",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9995,
+    "spoken_align_pct": 99.95,
+    "audio_span_pct": 100.0,
+    "words": 2042,
+    "aligned": 2039,
+    "interpolated": 1,
+    "at": "2026-10-18 10:25"
   }
- ],
- "variants": [],
- "also_in": []
 }

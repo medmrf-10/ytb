@@ -3,5 +3,16 @@
   "words": 787,
   "wpm": 121.1,
   "model": "gemini-3.8-flash-high",
-  "ok": true
+  "ok": true,
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9688,
+    "spoken_align_pct": 96.88,
+    "audio_span_pct": 100.0,
+    "words": 787,
+    "aligned": 683,
+    "interpolated": 22,
+    "at": "2026-10-18 10:16"
+  }
 }

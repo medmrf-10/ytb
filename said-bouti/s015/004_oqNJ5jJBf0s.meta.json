@@ -1,49 +1,60 @@
 {
- "v": 1,
- "lid": "yt:oqNJ5jJBf0s",
- "vid": "oqNJ5jJBf0s",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--365",
- "n": 5,
- "n_src": "mutfile",
- "title": "4 - ضائعون هداهم القرآن ابراهيم بن الأدهم",
- "title_src": "filename",
- "sha256": "20b1baa6d1747b01f4bab3d94ec1bdc88bcc2df4a31f1947ea5d185d08fcd09b",
- "nh": "eeb923c7ee09bbf095b57215dbe3f871e011150b678cedeb2a4e41d3203cf0f1",
- "chars": 11655,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/365/005_4 - ضائعون هداهم القرآن  ابراهيم بن الأدهم.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/365/005_4 - ضائعون هداهم القرآن  ابراهيم بن الأدهم.txt",
-   "sha256": "20b1baa6d1747b01f4bab3d94ec1bdc88bcc2df4a31f1947ea5d185d08fcd09b",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:oqNJ5jJBf0s",
+  "vid": "oqNJ5jJBf0s",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--365",
+  "n": 5,
+  "n_src": "mutfile",
+  "title": "4 - ضائعون هداهم القرآن ابراهيم بن الأدهم",
+  "title_src": "filename",
+  "sha256": "20b1baa6d1747b01f4bab3d94ec1bdc88bcc2df4a31f1947ea5d185d08fcd09b",
+  "nh": "eeb923c7ee09bbf095b57215dbe3f871e011150b678cedeb2a4e41d3203cf0f1",
+  "chars": 11655,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/365/005_4 - ضائعون هداهم القرآن  ابراهيم بن الأدهم.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/tawba/005_4 - ضائعون هداهم القرآن  ابراهيم بن الأدهم.txt",
-   "sha256": "20b1baa6d1747b01f4bab3d94ec1bdc88bcc2df4a31f1947ea5d185d08fcd09b",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/dayoon/005_4 - ضائعون هداهم القرآن  ابراهيم بن الأدهم.txt",
-   "sha256": "20b1baa6d1747b01f4bab3d94ec1bdc88bcc2df4a31f1947ea5d185d08fcd09b",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-365/005.txt",
-   "sha256": "081f2a5ac8d3c6ba24fdae47e8d1a04f4d973fc6a443f6b2cb9c021a760c2943",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/365/005_4 - ضائعون هداهم القرآن  ابراهيم بن الأدهم.txt",
+      "sha256": "20b1baa6d1747b01f4bab3d94ec1bdc88bcc2df4a31f1947ea5d185d08fcd09b",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/tawba/005_4 - ضائعون هداهم القرآن  ابراهيم بن الأدهم.txt",
+      "sha256": "20b1baa6d1747b01f4bab3d94ec1bdc88bcc2df4a31f1947ea5d185d08fcd09b",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/dayoon/005_4 - ضائعون هداهم القرآن  ابراهيم بن الأدهم.txt",
+      "sha256": "20b1baa6d1747b01f4bab3d94ec1bdc88bcc2df4a31f1947ea5d185d08fcd09b",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-365/005.txt",
+      "sha256": "081f2a5ac8d3c6ba24fdae47e8d1a04f4d973fc6a443f6b2cb9c021a760c2943",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9991,
+    "spoken_align_pct": 99.91,
+    "audio_span_pct": 100.0,
+    "words": 2229,
+    "aligned": 2227,
+    "interpolated": 2,
+    "at": "2026-10-18 10:25"
   }
- ],
- "variants": [],
- "also_in": []
 }
