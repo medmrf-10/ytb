@@ -8,26 +8,17 @@
   "align": {
     "engine": "ctc-pure-mac-mps",
     "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
-    "cov": 0.8335,
-    "spoken_align_pct": 83.35,
+    "cov": 0.9871,
+    "spoken_align_pct": 98.71,
     "audio_span_pct": 99.65,
-    "words": 9141,
-    "aligned": 7582,
-    "interpolated": 1515,
-    "retried_without_silence_compact": true,
-    "local_agc_applied": true,
-    "at": "2026-10-18 23:21",
-    "low_coverage_diagnosis": {
-      "spoken_align_pct": 83.35,
-      "interpolated_words": 1515,
-      "unaligned_clusters_count": 3,
-      "max_cluster_words": 18,
-      "wpm": 165.2,
-      "audio_span_pct": 99.65,
-      "forced_steps": 0,
-      "causes": [
-        "TEXT_HALLUCINATION_OR_CHUNK_REPEAT(clusters=3, max_run=18w @ 2866.56s: «بس مفترضة، بس هي على إيه؟ على الشبكة، بس هي التقطت»)"
-      ]
-    }
+    "words": 7874,
+    "aligned": 7747,
+    "interpolated": 101,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 00:35",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
 }

@@ -8,25 +8,17 @@
   "align": {
     "engine": "ctc-pure-mac-mps",
     "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
-    "cov": 0.9029,
-    "spoken_align_pct": 90.29,
-    "audio_span_pct": 99.92,
-    "words": 6839,
-    "aligned": 6053,
-    "interpolated": 651,
-    "retried_without_silence_compact": true,
-    "at": "2026-10-18 22:30",
-    "low_coverage_diagnosis": {
-      "spoken_align_pct": 90.29,
-      "interpolated_words": 651,
-      "unaligned_clusters_count": 3,
-      "max_cluster_words": 30,
-      "wpm": 87.2,
-      "audio_span_pct": 99.92,
-      "forced_steps": 0,
-      "causes": [
-        "TEXT_HALLUCINATION_OR_CHUNK_REPEAT(clusters=3, max_run=30w @ 2272.24s: «حرمت عليك عيشتك! يا واد، هي {حُرِّمَتْ عَلَيْكُمْ أُمَّهَاتُ»)"
-      ]
-    }
+    "cov": 0.9905,
+    "spoken_align_pct": 99.05,
+    "audio_span_pct": 99.99,
+    "words": 6100,
+    "aligned": 5913,
+    "interpolated": 57,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 00:34",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
 }

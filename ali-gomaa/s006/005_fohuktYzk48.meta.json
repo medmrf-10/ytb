@@ -8,25 +8,17 @@
   "align": {
     "engine": "ctc-pure-mac-mps",
     "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
-    "cov": 0.905,
-    "spoken_align_pct": 90.5,
-    "audio_span_pct": 99.94,
-    "words": 5872,
-    "aligned": 5308,
-    "interpolated": 557,
+    "cov": 0.994,
+    "spoken_align_pct": 99.4,
+    "audio_span_pct": 99.99,
+    "words": 5158,
+    "aligned": 5120,
+    "interpolated": 31,
     "retried_without_silence_compact": false,
-    "at": "2026-10-18 22:26",
-    "low_coverage_diagnosis": {
-      "spoken_align_pct": 90.5,
-      "interpolated_words": 557,
-      "unaligned_clusters_count": 3,
-      "max_cluster_words": 17,
-      "wpm": 79.1,
-      "audio_span_pct": 99.94,
-      "forced_steps": 0,
-      "causes": [
-        "TEXT_HALLUCINATION_OR_CHUNK_REPEAT(clusters=3, max_run=17w @ 4104.32s: «يبقى مش معانا. والثالثة: شبهة المذهب. الشافعي بيقول لك: لو ل»)"
-      ]
-    }
+    "local_agc_applied": false,
+    "at": "2026-10-19 00:32",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
 }
