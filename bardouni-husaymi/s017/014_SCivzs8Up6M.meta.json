@@ -1,37 +1,42 @@
 {
- "v": 1,
- "lid": "yt:SCivzs8Up6M",
- "vid": "SCivzs8Up6M",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--989",
- "n": 2,
- "n_src": "read",
- "title": "شرح فتح الوهاب بشرح الآداب ｜ الدرس 11 ( قوله ＂ النقض ＂ ) ｜ الشيخ محمد البردوني",
- "title_src": "filename",
- "sha256": "a3e720cf582591a09741678c1411d91cb74c745ab6a6dd4105eecbdae354525b",
- "nh": "b213c8485f9b2ab96a8efef55f099e334bdbdff8d37bfde8fd425c694939f4fb",
- "chars": 5017,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/989/002_شرح فتح الوهاب بشرح الآداب ｜ الدرس 11 ( قوله ＂ النقض ＂ ) ｜  الشيخ محمد البردوني.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/989/002_شرح فتح الوهاب بشرح الآداب ｜ الدرس 11 ( قوله ＂ النقض ＂ ) ｜  الشيخ محمد البردوني.txt",
-   "sha256": "a3e720cf582591a09741678c1411d91cb74c745ab6a6dd4105eecbdae354525b",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:SCivzs8Up6M",
+  "vid": "SCivzs8Up6M",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--989",
+  "n": 2,
+  "n_src": "read",
+  "title": "شرح فتح الوهاب بشرح الآداب ｜ الدرس 11 ( قوله ＂ النقض ＂ ) ｜ الشيخ محمد البردوني",
+  "title_src": "filename",
+  "sha256": "a3e720cf582591a09741678c1411d91cb74c745ab6a6dd4105eecbdae354525b",
+  "nh": "b213c8485f9b2ab96a8efef55f099e334bdbdff8d37bfde8fd425c694939f4fb",
+  "chars": 43246,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/989/002_شرح فتح الوهاب بشرح الآداب ｜ الدرس 11 ( قوله ＂ النقض ＂ ) ｜  الشيخ محمد البردوني.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/989/10.txt",
-   "sha256": "a3e720cf582591a09741678c1411d91cb74c745ab6a6dd4105eecbdae354525b",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": []
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/989/002_شرح فتح الوهاب بشرح الآداب ｜ الدرس 11 ( قوله ＂ النقض ＂ ) ｜  الشيخ محمد البردوني.txt",
+      "sha256": "a3e720cf582591a09741678c1411d91cb74c745ab6a6dd4105eecbdae354525b",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/989/10.txt",
+      "sha256": "a3e720cf582591a09741678c1411d91cb74c745ab6a6dd4105eecbdae354525b",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "dur_s": 5509.4,
+  "words": 7788,
+  "wpm": 84.8,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }
