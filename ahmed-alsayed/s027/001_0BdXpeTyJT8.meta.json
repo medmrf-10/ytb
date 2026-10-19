@@ -1,53 +1,66 @@
 {
- "v": 1,
- "lid": "yt:0BdXpeTyJT8",
- "vid": "0BdXpeTyJT8",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--686",
- "n": 1,
- "n_src": "trfile",
- "title": "تدبر سورة التوبة 01 ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "911d39ed80aa05444bc2c4996fc63d3b48b1c6138439eb659bc0aa003ed80ca8",
- "nh": "69c52e2186679ebde43bb602e8a66d1516f8ebafadc50d40ef91cfd40d847b18",
- "chars": 28941,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/alsayed/mut-686/001_تدبر سورة التوبة 01 ｜ أحمد السيد.txt",
-  "commit_ts": 1791841974,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alsayed/mut-686/001_تدبر سورة التوبة 01 ｜ أحمد السيد.txt",
-   "sha256": "911d39ed80aa05444bc2c4996fc63d3b48b1c6138439eb659bc0aa003ed80ca8",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:0BdXpeTyJT8",
+  "vid": "0BdXpeTyJT8",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--686",
+  "n": 1,
+  "n_src": "trfile",
+  "title": "تدبر سورة التوبة 01 ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "911d39ed80aa05444bc2c4996fc63d3b48b1c6138439eb659bc0aa003ed80ca8",
+  "nh": "69c52e2186679ebde43bb602e8a66d1516f8ebafadc50d40ef91cfd40d847b18",
+  "chars": 28941,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/alsayed/mut-686/001_تدبر سورة التوبة 01 ｜ أحمد السيد.txt",
+    "commit_ts": 1791841974,
+    "head": "8a8b281"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alsayed/mut-672/009.txt",
-   "sha256": "5ddca71511c46b4ad8763c5d2703ffb37a060202021f831167b30a3cae616e76",
-   "rel": "variant"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-672/009.txt",
-   "sha256": "5ddca71511c46b4ad8763c5d2703ffb37a060202021f831167b30a3cae616e76",
-   "rel": "variant"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-686/001.txt",
-   "sha256": "7bdf4c5c69749daf1aa939e8cdd03a7edd0ca1ace5b13eb8761b9c72f351b539",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alsayed/mut-686/001_تدبر سورة التوبة 01 ｜ أحمد السيد.txt",
+      "sha256": "911d39ed80aa05444bc2c4996fc63d3b48b1c6138439eb659bc0aa003ed80ca8",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alsayed/mut-672/009.txt",
+      "sha256": "5ddca71511c46b4ad8763c5d2703ffb37a060202021f831167b30a3cae616e76",
+      "rel": "variant"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-672/009.txt",
+      "sha256": "5ddca71511c46b4ad8763c5d2703ffb37a060202021f831167b30a3cae616e76",
+      "rel": "variant"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-686/001.txt",
+      "sha256": "7bdf4c5c69749daf1aa939e8cdd03a7edd0ca1ace5b13eb8761b9c72f351b539",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [
+    "_variants/001_0BdXpeTyJT8.hw-tr.txt"
+  ],
+  "also_in": [
+    "ahmed-alsayed--672"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9848,
+    "spoken_align_pct": 98.48,
+    "audio_span_pct": 99.65,
+    "words": 5301,
+    "aligned": 5200,
+    "interpolated": 80,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 02:58"
   }
- ],
- "variants": [
-  "_variants/001_0BdXpeTyJT8.hw-tr.txt"
- ],
- "also_in": [
-  "ahmed-alsayed--672"
- ]
 }

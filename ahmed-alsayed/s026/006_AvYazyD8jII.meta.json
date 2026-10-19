@@ -1,59 +1,75 @@
 {
- "v": 1,
- "lid": "yt:AvYazyD8jII",
- "vid": "AvYazyD8jII",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--672",
- "n": 7,
- "n_src": "mutfile",
- "title": "تدبّر سورة الأنفال 06 ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "62d2283c57a38945933080f33353fb046b90c9e1cbd8c3eded7b6441b17e0ddb",
- "nh": "2e38a087a70702903e9d85e0d3da6b22f07914e0f50e7261bfd5847a60616650",
- "chars": 5739,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/672/007_تدبّر سورة الأنفال 06 ｜ أحمد السيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/672/007_تدبّر سورة الأنفال 06 ｜ أحمد السيد.txt",
-   "sha256": "62d2283c57a38945933080f33353fb046b90c9e1cbd8c3eded7b6441b17e0ddb",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:AvYazyD8jII",
+  "vid": "AvYazyD8jII",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--672",
+  "n": 7,
+  "n_src": "mutfile",
+  "title": "تدبّر سورة الأنفال 06 ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "62d2283c57a38945933080f33353fb046b90c9e1cbd8c3eded7b6441b17e0ddb",
+  "nh": "2e38a087a70702903e9d85e0d3da6b22f07914e0f50e7261bfd5847a60616650",
+  "chars": 5739,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/672/007_تدبّر سورة الأنفال 06 ｜ أحمد السيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alsayed/mut-672/007_تدبّر سورة الأنفال 06 ｜ أحمد السيد.txt",
-   "sha256": "62d2283c57a38945933080f33353fb046b90c9e1cbd8c3eded7b6441b17e0ddb",
-   "rel": "identical"
-  },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/tadabburElanfal-006/transcript.txt",
-   "sha256": "a9bacdf61b364930784abcd15d837ba5a44413333594bda3d95432a61d554fe5",
-   "rel": "variant"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-675/006.txt",
-   "sha256": "a9bacdf61b364930784abcd15d837ba5a44413333594bda3d95432a61d554fe5",
-   "rel": "variant"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-672/007.txt",
-   "sha256": "62d2283c57a38945933080f33353fb046b90c9e1cbd8c3eded7b6441b17e0ddb",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/672/007_تدبّر سورة الأنفال 06 ｜ أحمد السيد.txt",
+      "sha256": "62d2283c57a38945933080f33353fb046b90c9e1cbd8c3eded7b6441b17e0ddb",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alsayed/mut-672/007_تدبّر سورة الأنفال 06 ｜ أحمد السيد.txt",
+      "sha256": "62d2283c57a38945933080f33353fb046b90c9e1cbd8c3eded7b6441b17e0ddb",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/tadabburElanfal-006/transcript.txt",
+      "sha256": "a9bacdf61b364930784abcd15d837ba5a44413333594bda3d95432a61d554fe5",
+      "rel": "variant"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-675/006.txt",
+      "sha256": "a9bacdf61b364930784abcd15d837ba5a44413333594bda3d95432a61d554fe5",
+      "rel": "variant"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-672/007.txt",
+      "sha256": "62d2283c57a38945933080f33353fb046b90c9e1cbd8c3eded7b6441b17e0ddb",
+      "rel": "identical"
+    }
+  ],
+  "variants": [
+    "_variants/007_AvYazyD8jII.irth.txt"
+  ],
+  "also_in": [
+    "ahmed-alsayed--alsayed-mut-675"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9972,
+    "spoken_align_pct": 99.72,
+    "audio_span_pct": 88.11,
+    "words": 1064,
+    "aligned": 1061,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 02:55",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [
-  "_variants/007_AvYazyD8jII.irth.txt"
- ],
- "also_in": [
-  "ahmed-alsayed--alsayed-mut-675"
- ]
 }

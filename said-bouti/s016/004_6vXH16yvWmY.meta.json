@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:6vXH16yvWmY",
- "vid": "6vXH16yvWmY",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--343",
- "n": 5,
- "n_src": "mutfile",
- "title": "4- الغة العربية في القرآن الكريم كلمات أثرى القرآن الكريم اللغة العربية بها",
- "title_src": "filename",
- "sha256": "20203c61973c23306cd4255d61149ff190fbc2b8d8dd69500a1fb73d2c62a80d",
- "nh": "419fe2426e0ba9d142f1433b210bd2d7f86a5ea6d462e6e026bd708eb08a4990",
- "chars": 12765,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/343/005_4- الغة العربية في القرآن الكريم  كلمات أثرى القرآن الكريم اللغة العربية بها.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/343/005_4- الغة العربية في القرآن الكريم  كلمات أثرى القرآن الكريم اللغة العربية بها.txt",
-   "sha256": "20203c61973c23306cd4255d61149ff190fbc2b8d8dd69500a1fb73d2c62a80d",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:6vXH16yvWmY",
+  "vid": "6vXH16yvWmY",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--343",
+  "n": 5,
+  "n_src": "mutfile",
+  "title": "4- الغة العربية في القرآن الكريم كلمات أثرى القرآن الكريم اللغة العربية بها",
+  "title_src": "filename",
+  "sha256": "20203c61973c23306cd4255d61149ff190fbc2b8d8dd69500a1fb73d2c62a80d",
+  "nh": "419fe2426e0ba9d142f1433b210bd2d7f86a5ea6d462e6e026bd708eb08a4990",
+  "chars": 12765,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/343/005_4- الغة العربية في القرآن الكريم  كلمات أثرى القرآن الكريم اللغة العربية بها.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/rihab/005_4- الغة العربية في القرآن الكريم  كلمات أثرى القرآن الكريم اللغة العربية بها.txt",
-   "sha256": "20203c61973c23306cd4255d61149ff190fbc2b8d8dd69500a1fb73d2c62a80d",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-343/005.txt",
-   "sha256": "403fc7494e8f1745f44ab2b807f87b9ba8a2a64988a85fbeaf37e30fcbdc2bea",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/343/005_4- الغة العربية في القرآن الكريم  كلمات أثرى القرآن الكريم اللغة العربية بها.txt",
+      "sha256": "20203c61973c23306cd4255d61149ff190fbc2b8d8dd69500a1fb73d2c62a80d",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/rihab/005_4- الغة العربية في القرآن الكريم  كلمات أثرى القرآن الكريم اللغة العربية بها.txt",
+      "sha256": "20203c61973c23306cd4255d61149ff190fbc2b8d8dd69500a1fb73d2c62a80d",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-343/005.txt",
+      "sha256": "403fc7494e8f1745f44ab2b807f87b9ba8a2a64988a85fbeaf37e30fcbdc2bea",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9996,
+    "spoken_align_pct": 99.96,
+    "audio_span_pct": 99.96,
+    "words": 2287,
+    "aligned": 2286,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 02:45"
   }
- ],
- "variants": [],
- "also_in": []
 }

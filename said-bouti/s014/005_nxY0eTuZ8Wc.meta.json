@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:nxY0eTuZ8Wc",
- "vid": "nxY0eTuZ8Wc",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--347",
- "n": 6,
- "n_src": "mutfile",
- "title": "5 - شكر الله تعالى في القرآن الكريم هل جزاء الإحسان إلا الإحسان ؟",
- "title_src": "filename",
- "sha256": "1f1c72f91d9012a3eb10c3761f8ba5ed2c1f70f692afc191ae5b5433090546e7",
- "nh": "ae04c65deed11480d9010fd16727a9fa931ab65eae60dd57613d4547713967e3",
- "chars": 12659,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/347/006_5 - شكر الله تعالى في القرآن الكريم  هل جزاء الإحسان إلا الإحسان ؟.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/347/006_5 - شكر الله تعالى في القرآن الكريم  هل جزاء الإحسان إلا الإحسان ؟.txt",
-   "sha256": "1f1c72f91d9012a3eb10c3761f8ba5ed2c1f70f692afc191ae5b5433090546e7",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:nxY0eTuZ8Wc",
+  "vid": "nxY0eTuZ8Wc",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--347",
+  "n": 6,
+  "n_src": "mutfile",
+  "title": "5 - شكر الله تعالى في القرآن الكريم هل جزاء الإحسان إلا الإحسان ؟",
+  "title_src": "filename",
+  "sha256": "1f1c72f91d9012a3eb10c3761f8ba5ed2c1f70f692afc191ae5b5433090546e7",
+  "nh": "ae04c65deed11480d9010fd16727a9fa931ab65eae60dd57613d4547713967e3",
+  "chars": 12659,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/347/006_5 - شكر الله تعالى في القرآن الكريم  هل جزاء الإحسان إلا الإحسان ؟.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/rihab/006_5 - شكر الله تعالى في القرآن الكريم  هل جزاء الإحسان إلا الإحسان ؟.txt",
-   "sha256": "1f1c72f91d9012a3eb10c3761f8ba5ed2c1f70f692afc191ae5b5433090546e7",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-347/006.txt",
-   "sha256": "9474747a48885eeefe03e8fca4c88b210b758b33df67b42a7e9339aeea32561e",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/347/006_5 - شكر الله تعالى في القرآن الكريم  هل جزاء الإحسان إلا الإحسان ؟.txt",
+      "sha256": "1f1c72f91d9012a3eb10c3761f8ba5ed2c1f70f692afc191ae5b5433090546e7",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/rihab/006_5 - شكر الله تعالى في القرآن الكريم  هل جزاء الإحسان إلا الإحسان ؟.txt",
+      "sha256": "1f1c72f91d9012a3eb10c3761f8ba5ed2c1f70f692afc191ae5b5433090546e7",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-347/006.txt",
+      "sha256": "9474747a48885eeefe03e8fca4c88b210b758b33df67b42a7e9339aeea32561e",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.13,
+    "words": 2397,
+    "aligned": 2397,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 02:50"
   }
- ],
- "variants": [],
- "also_in": []
 }

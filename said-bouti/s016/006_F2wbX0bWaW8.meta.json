@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:F2wbX0bWaW8",
- "vid": "F2wbX0bWaW8",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--343",
- "n": 7,
- "n_src": "mutfile",
- "title": "6- اللغة العربية في القرآن الكريم السبيل إلى ترسيخ اللغة العربية في النفوس",
- "title_src": "filename",
- "sha256": "94cf003c0959c10dd3a9013aea99b8489a8237b01b9d4e8ab68c33ffc974e769",
- "nh": "4126d2ee41a01e14dff71dd762636d445e71a6094249ee93f27876946acb84be",
- "chars": 12642,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/343/007_6- اللغة العربية في القرآن الكريم  السبيل إلى ترسيخ اللغة العربية في النفوس.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/343/007_6- اللغة العربية في القرآن الكريم  السبيل إلى ترسيخ اللغة العربية في النفوس.txt",
-   "sha256": "94cf003c0959c10dd3a9013aea99b8489a8237b01b9d4e8ab68c33ffc974e769",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:F2wbX0bWaW8",
+  "vid": "F2wbX0bWaW8",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--343",
+  "n": 7,
+  "n_src": "mutfile",
+  "title": "6- اللغة العربية في القرآن الكريم السبيل إلى ترسيخ اللغة العربية في النفوس",
+  "title_src": "filename",
+  "sha256": "94cf003c0959c10dd3a9013aea99b8489a8237b01b9d4e8ab68c33ffc974e769",
+  "nh": "4126d2ee41a01e14dff71dd762636d445e71a6094249ee93f27876946acb84be",
+  "chars": 12642,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/343/007_6- اللغة العربية في القرآن الكريم  السبيل إلى ترسيخ اللغة العربية في النفوس.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/rihab/007_6- اللغة العربية في القرآن الكريم  السبيل إلى ترسيخ اللغة العربية في النفوس.txt",
-   "sha256": "94cf003c0959c10dd3a9013aea99b8489a8237b01b9d4e8ab68c33ffc974e769",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-343/007.txt",
-   "sha256": "4806200ab5c04d3e211366eae15a4f7b916e61bd0e2f9e069aae16c5ca02adf5",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/343/007_6- اللغة العربية في القرآن الكريم  السبيل إلى ترسيخ اللغة العربية في النفوس.txt",
+      "sha256": "94cf003c0959c10dd3a9013aea99b8489a8237b01b9d4e8ab68c33ffc974e769",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/rihab/007_6- اللغة العربية في القرآن الكريم  السبيل إلى ترسيخ اللغة العربية في النفوس.txt",
+      "sha256": "94cf003c0959c10dd3a9013aea99b8489a8237b01b9d4e8ab68c33ffc974e769",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-343/007.txt",
+      "sha256": "4806200ab5c04d3e211366eae15a4f7b916e61bd0e2f9e069aae16c5ca02adf5",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9996,
+    "spoken_align_pct": 99.96,
+    "audio_span_pct": 99.96,
+    "words": 2278,
+    "aligned": 2277,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 02:47"
   }
- ],
- "variants": [],
- "also_in": []
 }

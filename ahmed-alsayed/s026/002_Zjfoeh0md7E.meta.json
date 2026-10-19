@@ -1,51 +1,67 @@
 {
- "v": 1,
- "lid": "yt:Zjfoeh0md7E",
- "vid": "Zjfoeh0md7E",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--672",
- "n": 14,
- "n_src": "trfile|renumbered",
- "title": "تدبّر سورة الأنفال 02 ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "3740a9ab969b83b51c7b72f8d2969488d285ae81907f3c491562edc5155ddd0b",
- "nh": "d520c87650c7d8668056464d8539d3f2c74764759a2ad0e7bfd904d675c20f36",
- "chars": 28741,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/alsayed/mut-672/003_تدبّر سورة الأنفال 02 ｜ أحمد السيد.txt",
-  "commit_ts": 1791841974,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alsayed/mut-672/003_تدبّر سورة الأنفال 02 ｜ أحمد السيد.txt",
-   "sha256": "3740a9ab969b83b51c7b72f8d2969488d285ae81907f3c491562edc5155ddd0b",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:Zjfoeh0md7E",
+  "vid": "Zjfoeh0md7E",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--672",
+  "n": 14,
+  "n_src": "trfile|renumbered",
+  "title": "تدبّر سورة الأنفال 02 ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "3740a9ab969b83b51c7b72f8d2969488d285ae81907f3c491562edc5155ddd0b",
+  "nh": "d520c87650c7d8668056464d8539d3f2c74764759a2ad0e7bfd904d675c20f36",
+  "chars": 28741,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/alsayed/mut-672/003_تدبّر سورة الأنفال 02 ｜ أحمد السيد.txt",
+    "commit_ts": 1791841974,
+    "head": "8a8b281"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/tadabburElanfal-002/transcript.txt",
-   "sha256": "e47018245e3a44357374b09e8e66accfa23515ae3f255f234c4fb317d1fddf77",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-672/003.txt",
-   "sha256": "e47018245e3a44357374b09e8e66accfa23515ae3f255f234c4fb317d1fddf77",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-675/002.txt",
-   "sha256": "e47018245e3a44357374b09e8e66accfa23515ae3f255f234c4fb317d1fddf77",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alsayed/mut-672/003_تدبّر سورة الأنفال 02 ｜ أحمد السيد.txt",
+      "sha256": "3740a9ab969b83b51c7b72f8d2969488d285ae81907f3c491562edc5155ddd0b",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/tadabburElanfal-002/transcript.txt",
+      "sha256": "e47018245e3a44357374b09e8e66accfa23515ae3f255f234c4fb317d1fddf77",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-672/003.txt",
+      "sha256": "e47018245e3a44357374b09e8e66accfa23515ae3f255f234c4fb317d1fddf77",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-675/002.txt",
+      "sha256": "e47018245e3a44357374b09e8e66accfa23515ae3f255f234c4fb317d1fddf77",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "ahmed-alsayed--alsayed-mut-675"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9989,
+    "spoken_align_pct": 99.89,
+    "audio_span_pct": 99.68,
+    "words": 5325,
+    "aligned": 5319,
+    "interpolated": 6,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 02:52",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": [
-  "ahmed-alsayed--alsayed-mut-675"
- ]
 }

@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:zCGGEOC5gA0",
- "vid": "zCGGEOC5gA0",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--347",
- "n": 7,
- "n_src": "mutfile",
- "title": "6 - شكر الله تعالى في القرآن الكريم عاقبة الاستهانة بشكر الله تعالى",
- "title_src": "filename",
- "sha256": "28335b9e55ab06656fd036f3e1973bfd3af4e41f726812c0d6dac3284ef1146b",
- "nh": "cfdccc9370009c20bcc573a4c25feda8ff5d97e0812f0a04213da59da2bd3d65",
- "chars": 13936,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/347/007_6 - شكر الله تعالى في القرآن الكريم  عاقبة الاستهانة بشكر الله تعالى.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/347/007_6 - شكر الله تعالى في القرآن الكريم  عاقبة الاستهانة بشكر الله تعالى.txt",
-   "sha256": "28335b9e55ab06656fd036f3e1973bfd3af4e41f726812c0d6dac3284ef1146b",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:zCGGEOC5gA0",
+  "vid": "zCGGEOC5gA0",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--347",
+  "n": 7,
+  "n_src": "mutfile",
+  "title": "6 - شكر الله تعالى في القرآن الكريم عاقبة الاستهانة بشكر الله تعالى",
+  "title_src": "filename",
+  "sha256": "28335b9e55ab06656fd036f3e1973bfd3af4e41f726812c0d6dac3284ef1146b",
+  "nh": "cfdccc9370009c20bcc573a4c25feda8ff5d97e0812f0a04213da59da2bd3d65",
+  "chars": 13936,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/347/007_6 - شكر الله تعالى في القرآن الكريم  عاقبة الاستهانة بشكر الله تعالى.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/rihab/007_6 - شكر الله تعالى في القرآن الكريم  عاقبة الاستهانة بشكر الله تعالى.txt",
-   "sha256": "28335b9e55ab06656fd036f3e1973bfd3af4e41f726812c0d6dac3284ef1146b",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-347/007.txt",
-   "sha256": "583f4e9e7fd8ccaaaab042aa711e09bc02a2e6d4361be013a8c5ad84b978b288",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/347/007_6 - شكر الله تعالى في القرآن الكريم  عاقبة الاستهانة بشكر الله تعالى.txt",
+      "sha256": "28335b9e55ab06656fd036f3e1973bfd3af4e41f726812c0d6dac3284ef1146b",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/rihab/007_6 - شكر الله تعالى في القرآن الكريم  عاقبة الاستهانة بشكر الله تعالى.txt",
+      "sha256": "28335b9e55ab06656fd036f3e1973bfd3af4e41f726812c0d6dac3284ef1146b",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-347/007.txt",
+      "sha256": "583f4e9e7fd8ccaaaab042aa711e09bc02a2e6d4361be013a8c5ad84b978b288",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.79,
+    "words": 2563,
+    "aligned": 2563,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 02:51"
   }
- ],
- "variants": [],
- "also_in": []
 }

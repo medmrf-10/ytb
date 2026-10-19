@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:VVGLeqLtw9I",
- "vid": "VVGLeqLtw9I",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--347",
- "n": 3,
- "n_src": "mutfile",
- "title": "2 - شكر الله تعالى في القرآن الكريم مراحل الشكر : ثانياً : الحال - ثالثاً : العمل",
- "title_src": "filename",
- "sha256": "d96db49a47b4b0a92bcfe4fd2720b5166cf0c93d7300e5cfc7c650b866103fb6",
- "nh": "e59b7b7dcde6b4843eefb8e5dd9e2bb131fd483ae40e30206cc6854e84e4fa5c",
- "chars": 15047,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/347/003_2 - شكر الله تعالى في القرآن الكريم  مراحل الشكر : ثانياً : الحال - ثالثاً : العمل.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/347/003_2 - شكر الله تعالى في القرآن الكريم  مراحل الشكر : ثانياً : الحال - ثالثاً : العمل.txt",
-   "sha256": "d96db49a47b4b0a92bcfe4fd2720b5166cf0c93d7300e5cfc7c650b866103fb6",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:VVGLeqLtw9I",
+  "vid": "VVGLeqLtw9I",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--347",
+  "n": 3,
+  "n_src": "mutfile",
+  "title": "2 - شكر الله تعالى في القرآن الكريم مراحل الشكر : ثانياً : الحال - ثالثاً : العمل",
+  "title_src": "filename",
+  "sha256": "d96db49a47b4b0a92bcfe4fd2720b5166cf0c93d7300e5cfc7c650b866103fb6",
+  "nh": "e59b7b7dcde6b4843eefb8e5dd9e2bb131fd483ae40e30206cc6854e84e4fa5c",
+  "chars": 15047,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/347/003_2 - شكر الله تعالى في القرآن الكريم  مراحل الشكر : ثانياً : الحال - ثالثاً : العمل.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/rihab/003_2 - شكر الله تعالى في القرآن الكريم  مراحل الشكر : ثانياً : الحال - ثالثاً : العمل.txt",
-   "sha256": "d96db49a47b4b0a92bcfe4fd2720b5166cf0c93d7300e5cfc7c650b866103fb6",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-347/003.txt",
-   "sha256": "c5139d18a136e5adb4d613beedad0d1c341673992b93fb1d6e13485d15e0163e",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/347/003_2 - شكر الله تعالى في القرآن الكريم  مراحل الشكر : ثانياً : الحال - ثالثاً : العمل.txt",
+      "sha256": "d96db49a47b4b0a92bcfe4fd2720b5166cf0c93d7300e5cfc7c650b866103fb6",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/rihab/003_2 - شكر الله تعالى في القرآن الكريم  مراحل الشكر : ثانياً : الحال - ثالثاً : العمل.txt",
+      "sha256": "d96db49a47b4b0a92bcfe4fd2720b5166cf0c93d7300e5cfc7c650b866103fb6",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-347/003.txt",
+      "sha256": "c5139d18a136e5adb4d613beedad0d1c341673992b93fb1d6e13485d15e0163e",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.83,
+    "words": 2824,
+    "aligned": 2824,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 02:48"
   }
- ],
- "variants": [],
- "also_in": []
 }

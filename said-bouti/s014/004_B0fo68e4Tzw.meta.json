@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:B0fo68e4Tzw",
- "vid": "B0fo68e4Tzw",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--347",
- "n": 5,
- "n_src": "mutfile",
- "title": "4 - شكر الله تعالى في القرآن الكريم لماذا الشاكرون قلة ولماذا الشكر عسير ؟",
- "title_src": "filename",
- "sha256": "788fb7e3069319facedaecbfc9e1c240c1ddc1757282d5774431617ed9730b73",
- "nh": "a0ab507168071abe8d67c4a6ccdfc0b2868da6138b1404d39e1c036242bcabda",
- "chars": 13899,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/347/005_4 - شكر الله تعالى في القرآن الكريم  لماذا الشاكرون قلة ولماذا الشكر عسير ؟.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/347/005_4 - شكر الله تعالى في القرآن الكريم  لماذا الشاكرون قلة ولماذا الشكر عسير ؟.txt",
-   "sha256": "788fb7e3069319facedaecbfc9e1c240c1ddc1757282d5774431617ed9730b73",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:B0fo68e4Tzw",
+  "vid": "B0fo68e4Tzw",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--347",
+  "n": 5,
+  "n_src": "mutfile",
+  "title": "4 - شكر الله تعالى في القرآن الكريم لماذا الشاكرون قلة ولماذا الشكر عسير ؟",
+  "title_src": "filename",
+  "sha256": "788fb7e3069319facedaecbfc9e1c240c1ddc1757282d5774431617ed9730b73",
+  "nh": "a0ab507168071abe8d67c4a6ccdfc0b2868da6138b1404d39e1c036242bcabda",
+  "chars": 13899,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/347/005_4 - شكر الله تعالى في القرآن الكريم  لماذا الشاكرون قلة ولماذا الشكر عسير ؟.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/rihab/005_4 - شكر الله تعالى في القرآن الكريم  لماذا الشاكرون قلة ولماذا الشكر عسير ؟.txt",
-   "sha256": "788fb7e3069319facedaecbfc9e1c240c1ddc1757282d5774431617ed9730b73",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-347/005.txt",
-   "sha256": "6f35560ee1da0ea9edb90941c66a832e4abcbc96a31f23c6ca6a8f24775a6891",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/347/005_4 - شكر الله تعالى في القرآن الكريم  لماذا الشاكرون قلة ولماذا الشكر عسير ؟.txt",
+      "sha256": "788fb7e3069319facedaecbfc9e1c240c1ddc1757282d5774431617ed9730b73",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/rihab/005_4 - شكر الله تعالى في القرآن الكريم  لماذا الشاكرون قلة ولماذا الشكر عسير ؟.txt",
+      "sha256": "788fb7e3069319facedaecbfc9e1c240c1ddc1757282d5774431617ed9730b73",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-347/005.txt",
+      "sha256": "6f35560ee1da0ea9edb90941c66a832e4abcbc96a31f23c6ca6a8f24775a6891",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.1,
+    "words": 2666,
+    "aligned": 2666,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 02:49"
   }
- ],
- "variants": [],
- "also_in": []
 }

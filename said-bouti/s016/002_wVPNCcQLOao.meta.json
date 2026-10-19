@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:wVPNCcQLOao",
- "vid": "wVPNCcQLOao",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--343",
- "n": 3,
- "n_src": "mutfile",
- "title": "2- اللغة العربية في القرآن الكريم كيف أكسب القرآن الكريم اللغة العربية الديمومة؟",
- "title_src": "filename",
- "sha256": "5f86f9c0354e7f5ff2972490fce070a58badfc2b84d94a3f1229cb80d1e4efda",
- "nh": "bebc59296fe0f0412c6eefb6312bb5c68de36c7e2f9653d26c67493c488ad630",
- "chars": 10533,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/343/003_2- اللغة العربية في القرآن الكريم  كيف أكسب القرآن الكريم اللغة العربية الديمومة؟.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/343/003_2- اللغة العربية في القرآن الكريم  كيف أكسب القرآن الكريم اللغة العربية الديمومة؟.txt",
-   "sha256": "5f86f9c0354e7f5ff2972490fce070a58badfc2b84d94a3f1229cb80d1e4efda",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:wVPNCcQLOao",
+  "vid": "wVPNCcQLOao",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--343",
+  "n": 3,
+  "n_src": "mutfile",
+  "title": "2- اللغة العربية في القرآن الكريم كيف أكسب القرآن الكريم اللغة العربية الديمومة؟",
+  "title_src": "filename",
+  "sha256": "5f86f9c0354e7f5ff2972490fce070a58badfc2b84d94a3f1229cb80d1e4efda",
+  "nh": "bebc59296fe0f0412c6eefb6312bb5c68de36c7e2f9653d26c67493c488ad630",
+  "chars": 10533,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/343/003_2- اللغة العربية في القرآن الكريم  كيف أكسب القرآن الكريم اللغة العربية الديمومة؟.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/rihab/003_2- اللغة العربية في القرآن الكريم  كيف أكسب القرآن الكريم اللغة العربية الديمومة؟.txt",
-   "sha256": "5f86f9c0354e7f5ff2972490fce070a58badfc2b84d94a3f1229cb80d1e4efda",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-343/003.txt",
-   "sha256": "edd5d71d1f8b156bff7ddbdc9c555a90d3679a5bbdd8bda9bd8dfe14e7ff121c",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/343/003_2- اللغة العربية في القرآن الكريم  كيف أكسب القرآن الكريم اللغة العربية الديمومة؟.txt",
+      "sha256": "5f86f9c0354e7f5ff2972490fce070a58badfc2b84d94a3f1229cb80d1e4efda",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/rihab/003_2- اللغة العربية في القرآن الكريم  كيف أكسب القرآن الكريم اللغة العربية الديمومة؟.txt",
+      "sha256": "5f86f9c0354e7f5ff2972490fce070a58badfc2b84d94a3f1229cb80d1e4efda",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-343/003.txt",
+      "sha256": "edd5d71d1f8b156bff7ddbdc9c555a90d3679a5bbdd8bda9bd8dfe14e7ff121c",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9995,
+    "spoken_align_pct": 99.95,
+    "audio_span_pct": 99.72,
+    "words": 1891,
+    "aligned": 1890,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 02:44"
   }
- ],
- "variants": [],
- "also_in": []
 }

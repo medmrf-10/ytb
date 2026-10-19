@@ -1,53 +1,69 @@
 {
- "v": 1,
- "lid": "yt:Me3B0orykFA",
- "vid": "Me3B0orykFA",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--672",
- "n": 15,
- "n_src": "trfile|renumbered",
- "title": "الدرس 7",
- "title_src": "filename",
- "sha256": "9f39749a8a8221eb35a07f0e87601dd0f94ef27c4b7bcff21538428d5fdce988",
- "nh": "1240c2bed315b4fd350d5a8ef593c0a5c2cb0cb8ec680cdc56afe38301cd7261",
- "chars": 44567,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/tadabburElanfal-007/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/tadabburElanfal-007/transcript.txt",
-   "sha256": "9f39749a8a8221eb35a07f0e87601dd0f94ef27c4b7bcff21538428d5fdce988",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:Me3B0orykFA",
+  "vid": "Me3B0orykFA",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--672",
+  "n": 15,
+  "n_src": "trfile|renumbered",
+  "title": "الدرس 7",
+  "title_src": "filename",
+  "sha256": "9f39749a8a8221eb35a07f0e87601dd0f94ef27c4b7bcff21538428d5fdce988",
+  "nh": "1240c2bed315b4fd350d5a8ef593c0a5c2cb0cb8ec680cdc56afe38301cd7261",
+  "chars": 44567,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/tadabburElanfal-007/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alsayed/mut-672/008.txt",
-   "sha256": "489f3e187fd6e1a97b395301071deed3318c4200ba6104b44a65e061f76b4e20",
-   "rel": "variant"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-672/008.txt",
-   "sha256": "489f3e187fd6e1a97b395301071deed3318c4200ba6104b44a65e061f76b4e20",
-   "rel": "variant"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-675/007.txt",
-   "sha256": "9f39749a8a8221eb35a07f0e87601dd0f94ef27c4b7bcff21538428d5fdce988",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/tadabburElanfal-007/transcript.txt",
+      "sha256": "9f39749a8a8221eb35a07f0e87601dd0f94ef27c4b7bcff21538428d5fdce988",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alsayed/mut-672/008.txt",
+      "sha256": "489f3e187fd6e1a97b395301071deed3318c4200ba6104b44a65e061f76b4e20",
+      "rel": "variant"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-672/008.txt",
+      "sha256": "489f3e187fd6e1a97b395301071deed3318c4200ba6104b44a65e061f76b4e20",
+      "rel": "variant"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-675/007.txt",
+      "sha256": "9f39749a8a8221eb35a07f0e87601dd0f94ef27c4b7bcff21538428d5fdce988",
+      "rel": "identical"
+    }
+  ],
+  "variants": [
+    "_variants/015_Me3B0orykFA.hw-tr.txt"
+  ],
+  "also_in": [
+    "ahmed-alsayed--alsayed-mut-675"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9988,
+    "spoken_align_pct": 99.88,
+    "audio_span_pct": 99.77,
+    "words": 8403,
+    "aligned": 8393,
+    "interpolated": 10,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 02:57",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [
-  "_variants/015_Me3B0orykFA.hw-tr.txt"
- ],
- "also_in": [
-  "ahmed-alsayed--alsayed-mut-675"
- ]
 }

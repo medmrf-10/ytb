@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:Yk0M6yVyFYU",
- "vid": "Yk0M6yVyFYU",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--343",
- "n": 4,
- "n_src": "mutfile",
- "title": "3- اللغة العربية في القرآن الكريم كلمات أثرى القرآن الكريم اللغة العربية بها",
- "title_src": "filename",
- "sha256": "f99930edcb8102221ee3231cc8cba21f9973c2695efad1097eaf53bc77c61ab9",
- "nh": "d0344a81f90d29e54b5d8c5ccf14b271d783b8743345067efbfb2e503a81da55",
- "chars": 12798,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/343/004_3- اللغة العربية في القرآن الكريم  كلمات أثرى القرآن الكريم اللغة العربية بها.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/343/004_3- اللغة العربية في القرآن الكريم  كلمات أثرى القرآن الكريم اللغة العربية بها.txt",
-   "sha256": "f99930edcb8102221ee3231cc8cba21f9973c2695efad1097eaf53bc77c61ab9",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:Yk0M6yVyFYU",
+  "vid": "Yk0M6yVyFYU",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--343",
+  "n": 4,
+  "n_src": "mutfile",
+  "title": "3- اللغة العربية في القرآن الكريم كلمات أثرى القرآن الكريم اللغة العربية بها",
+  "title_src": "filename",
+  "sha256": "f99930edcb8102221ee3231cc8cba21f9973c2695efad1097eaf53bc77c61ab9",
+  "nh": "d0344a81f90d29e54b5d8c5ccf14b271d783b8743345067efbfb2e503a81da55",
+  "chars": 12798,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/343/004_3- اللغة العربية في القرآن الكريم  كلمات أثرى القرآن الكريم اللغة العربية بها.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/rihab/004_3- اللغة العربية في القرآن الكريم  كلمات أثرى القرآن الكريم اللغة العربية بها.txt",
-   "sha256": "f99930edcb8102221ee3231cc8cba21f9973c2695efad1097eaf53bc77c61ab9",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-343/004.txt",
-   "sha256": "273bf7ca4f7877c79248e2023ba56e2ea39e7e4af2ef42331c106d606666a0a5",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/343/004_3- اللغة العربية في القرآن الكريم  كلمات أثرى القرآن الكريم اللغة العربية بها.txt",
+      "sha256": "f99930edcb8102221ee3231cc8cba21f9973c2695efad1097eaf53bc77c61ab9",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/rihab/004_3- اللغة العربية في القرآن الكريم  كلمات أثرى القرآن الكريم اللغة العربية بها.txt",
+      "sha256": "f99930edcb8102221ee3231cc8cba21f9973c2695efad1097eaf53bc77c61ab9",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-343/004.txt",
+      "sha256": "273bf7ca4f7877c79248e2023ba56e2ea39e7e4af2ef42331c106d606666a0a5",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.71,
+    "words": 2358,
+    "aligned": 2358,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 02:45"
   }
- ],
- "variants": [],
- "also_in": []
 }
