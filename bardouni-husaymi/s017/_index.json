@@ -1,6 +1,6 @@
 {
-  "aligned": 5,
-  "aligned_ratio": 0.3333,
+  "aligned": 13,
+  "aligned_ratio": 0.8667,
   "category": "المنطق وآداب البحث",
   "coverage": 1.0,
   "declared_total": 15,
@@ -18,8 +18,8 @@
       "vid": "hOgHMJ9sKbc"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 31668,
       "dur": 4788,
       "file": "002_4vZ_Nc62lPc.txt",
@@ -29,10 +29,10 @@
       "vid": "4vZ_Nc62lPc"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 29897,
-      "dur": 4224,
+      "dur": 4223,
       "file": "003_szSijWTWq3k.txt",
       "n": 3,
       "stem": "003_szSijWTWq3k",
@@ -40,9 +40,9 @@
       "vid": "szSijWTWq3k"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 29587,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 29484,
       "dur": 4572,
       "file": "004_ZszHLIKlArU.txt",
       "n": 4,
@@ -51,10 +51,10 @@
       "vid": "ZszHLIKlArU"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 29860,
-      "dur": 3788,
+      "dur": 3789,
       "file": "005_UcsMft9jFsw.txt",
       "n": 5,
       "stem": "005_UcsMft9jFsw",
@@ -62,10 +62,10 @@
       "vid": "UcsMft9jFsw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 30251,
-      "dur": 4090,
+      "dur": 4091,
       "file": "006_Tms0iw5trhg.txt",
       "n": 6,
       "stem": "006_Tms0iw5trhg",
@@ -73,8 +73,8 @@
       "vid": "Tms0iw5trhg"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 29678,
       "dur": 3918,
       "file": "007_gcU52tV2C9g.txt",
@@ -84,8 +84,8 @@
       "vid": "gcU52tV2C9g"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 40992,
       "dur": 5357,
       "file": "008_gaCdcu-3emE.txt",
@@ -95,8 +95,8 @@
       "vid": "gaCdcu-3emE"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 25622,
       "dur": 3330,
       "file": "009_kbyj_52pfe4.txt",
