@@ -1,43 +1,59 @@
 {
- "v": 1,
- "lid": "yt:Pjz0UmKEX18",
- "vid": "Pjz0UmKEX18",
- "sheikh": "ali-mahmoud-alomari",
- "row_id": "ali-mahmoud-alomari--alamri-nasafiyya",
- "n": 12,
- "n_src": "trfile",
- "title": "الدرس 12",
- "title_src": "filename",
- "sha256": "c30e73e9e4691157a1b49cf363ce78e0c344add3ef2edcd3a022a5ec0dcebb75",
- "nh": "2f77f986daba840b5565cb60214d5642bd095cae86049f5433368765bef207ab",
- "chars": 32978,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/alamriNasafiyya-012/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/alamriNasafiyya-012/transcript.txt",
-   "sha256": "c30e73e9e4691157a1b49cf363ce78e0c344add3ef2edcd3a022a5ec0dcebb75",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:Pjz0UmKEX18",
+  "vid": "Pjz0UmKEX18",
+  "sheikh": "ali-mahmoud-alomari",
+  "row_id": "ali-mahmoud-alomari--alamri-nasafiyya",
+  "n": 12,
+  "n_src": "trfile",
+  "title": "الدرس 12",
+  "title_src": "filename",
+  "sha256": "c30e73e9e4691157a1b49cf363ce78e0c344add3ef2edcd3a022a5ec0dcebb75",
+  "nh": "2f77f986daba840b5565cb60214d5642bd095cae86049f5433368765bef207ab",
+  "chars": 32978,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/alamriNasafiyya-012/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alamri/nasafiyya/nasafiyya-12_AlAmri.txt",
-   "sha256": "c30e73e9e4691157a1b49cf363ce78e0c344add3ef2edcd3a022a5ec0dcebb75",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alamri-nasafiyya/12.txt",
-   "sha256": "c30e73e9e4691157a1b49cf363ce78e0c344add3ef2edcd3a022a5ec0dcebb75",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/alamriNasafiyya-012/transcript.txt",
+      "sha256": "c30e73e9e4691157a1b49cf363ce78e0c344add3ef2edcd3a022a5ec0dcebb75",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alamri/nasafiyya/nasafiyya-12_AlAmri.txt",
+      "sha256": "c30e73e9e4691157a1b49cf363ce78e0c344add3ef2edcd3a022a5ec0dcebb75",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alamri-nasafiyya/12.txt",
+      "sha256": "c30e73e9e4691157a1b49cf363ce78e0c344add3ef2edcd3a022a5ec0dcebb75",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.999,
+    "spoken_align_pct": 99.9,
+    "audio_span_pct": 99.92,
+    "words": 6214,
+    "aligned": 6208,
+    "interpolated": 6,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 14:21",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
