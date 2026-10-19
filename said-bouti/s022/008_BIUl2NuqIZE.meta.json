@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:BIUl2NuqIZE",
- "vid": "BIUl2NuqIZE",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--370",
- "n": 8,
- "n_src": "plpos",
- "title": "8- دورة مختصرة في العقيدة | العلامة البوطي | الأمور الغيبية",
- "title_src": "yt_titles",
- "sha256": "5580e4896b2c2cce6bfb12229071672ed73328d6251a25e5266ced576efff922",
- "nh": "547734b8af8ed39b14c0b4bb25f5a8d850be4d3fd1859fc386021fac879a6070",
- "chars": 26777,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/370/008_8- دورة مختصرة في العقيدة ｜ العلامة البوطي ｜ الأمور الغيبية.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/370/008_8- دورة مختصرة في العقيدة ｜ العلامة البوطي ｜ الأمور الغيبية.txt",
-   "sha256": "5580e4896b2c2cce6bfb12229071672ed73328d6251a25e5266ced576efff922",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:BIUl2NuqIZE",
+  "vid": "BIUl2NuqIZE",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--370",
+  "n": 8,
+  "n_src": "plpos",
+  "title": "8- دورة مختصرة في العقيدة | العلامة البوطي | الأمور الغيبية",
+  "title_src": "yt_titles",
+  "sha256": "5580e4896b2c2cce6bfb12229071672ed73328d6251a25e5266ced576efff922",
+  "nh": "547734b8af8ed39b14c0b4bb25f5a8d850be4d3fd1859fc386021fac879a6070",
+  "chars": 26777,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/370/008_8- دورة مختصرة في العقيدة ｜ العلامة البوطي ｜ الأمور الغيبية.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/dawraFiEl3a9ida-008/transcript.txt",
-   "sha256": "31844e8be6fa0e59289ce48f13ad3a902319602a86d098b21236f0aec93710ca",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-aqeeda/08.txt",
-   "sha256": "31844e8be6fa0e59289ce48f13ad3a902319602a86d098b21236f0aec93710ca",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/370/7.txt",
-   "sha256": "5580e4896b2c2cce6bfb12229071672ed73328d6251a25e5266ced576efff922",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/370/008_8- دورة مختصرة في العقيدة ｜ العلامة البوطي ｜ الأمور الغيبية.txt",
+      "sha256": "5580e4896b2c2cce6bfb12229071672ed73328d6251a25e5266ced576efff922",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/dawraFiEl3a9ida-008/transcript.txt",
+      "sha256": "31844e8be6fa0e59289ce48f13ad3a902319602a86d098b21236f0aec93710ca",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-aqeeda/08.txt",
+      "sha256": "31844e8be6fa0e59289ce48f13ad3a902319602a86d098b21236f0aec93710ca",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/370/7.txt",
+      "sha256": "5580e4896b2c2cce6bfb12229071672ed73328d6251a25e5266ced576efff922",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9998,
+    "spoken_align_pct": 99.98,
+    "audio_span_pct": 99.98,
+    "words": 4978,
+    "aligned": 4939,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 06:40"
   }
- ],
- "variants": [],
- "also_in": []
 }
