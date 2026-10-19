@@ -1,6 +1,6 @@
 {
-  "aligned": 16,
-  "aligned_ratio": 0.9412,
+  "aligned": 17,
+  "aligned_ratio": 1.0,
   "category": "ألف باء العلوم والمدارسات",
   "coverage": 1.0,
   "declared_total": 17,
@@ -172,8 +172,8 @@
       "vid": "-ZfSfnO3Sjo"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 85787,
       "dur": 7508,
       "file": "016__xcMppmzHIM.txt",
