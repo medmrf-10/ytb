@@ -1,14 +1,14 @@
 {
-  "aligned": 2,
-  "aligned_ratio": 0.1429,
+  "aligned": 7,
+  "aligned_ratio": 0.5,
   "category": "التزكية والسلوك",
   "coverage": 1.0,
   "declared_total": 14,
   "key": "silat_aqrabin",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 38199,
       "dur": 4255,
       "file": "001_YS62HwhKDDc.txt",
@@ -40,9 +40,9 @@
       "vid": "jl5rQIGUU8k"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 50053,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 49896,
       "dur": 5345,
       "file": "004_P7qb5y4lzMw.txt",
       "n": 4,
@@ -51,8 +51,8 @@
       "vid": "P7qb5y4lzMw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 28229,
       "dur": 2660,
       "file": "005_7FkvqHNBh0M.txt",
@@ -62,10 +62,10 @@
       "vid": "7FkvqHNBh0M"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 6690,
-      "dur": 914,
+      "dur": 915,
       "file": "006_YaxLu_n3v7A.txt",
       "n": 6,
       "stem": "006_YaxLu_n3v7A",
@@ -84,9 +84,9 @@
       "vid": "x3yJywZh9C0"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 28341,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 28321,
       "dur": 3520,
       "file": "008_i5MRcEkjDc8.txt",
       "n": 8,
