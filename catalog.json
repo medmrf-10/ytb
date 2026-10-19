@@ -4735,7 +4735,7 @@
       "slug": "mouloud-sariri"
     },
     {
-      "aligned": 49,
+      "aligned": 50,
       "chars": 5289952,
       "lessons": 197,
       "name": "علي هاني العقرباوي",
@@ -4870,14 +4870,14 @@
           "transcribed": 10
         },
         {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
+          "aligned": 1,
+          "aligned_pct": "6.7%",
           "category": "علوم القرآن وأصول التفسير",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 15,
           "dir": "s040/",
-          "dur": 55766,
+          "dur": 55767,
           "key": "s040",
           "series_id": "alihani__s040",
           "title": "دورة تعليم الطريقة المثلى لتفسير القرآن الكريم وتكوين الملكة (الدورة الثانية)",
@@ -5235,8 +5235,8 @@
       "slug": "ayman-abdelrahim"
     },
     {
-      "aligned": 33,
-      "chars": 1848774,
+      "aligned": 38,
+      "chars": 1848648,
       "lessons": 92,
       "name": "معاذ سعيد حوى",
       "path": "maath-hawa/",
@@ -5258,14 +5258,14 @@
           "transcribed": 16
         },
         {
-          "aligned": 10,
-          "aligned_pct": "66.7%",
+          "aligned": 15,
+          "aligned_pct": "100.0%",
           "category": "تزكية وأخلاق",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 15,
           "dir": "ayyuha_walad/",
-          "dur": 54905,
+          "dur": 54906,
           "key": "ayyuha_walad",
           "series_id": "hawwa__ayyuha_walad",
           "title": "شرح رسالة أيها الولد للإمام الغزالي",
@@ -5706,8 +5706,8 @@
     }
   ],
   "totals": {
-    "aligned": 1480,
-    "chars": 156226699,
+    "aligned": 1486,
+    "chars": 156226573,
     "lessons": 6589,
     "series": 386,
     "sheikhs": 25

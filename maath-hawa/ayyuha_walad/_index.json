@@ -1,6 +1,6 @@
 {
-  "aligned": 10,
-  "aligned_ratio": 0.6667,
+  "aligned": 15,
+  "aligned_ratio": 1.0,
   "category": "تزكية وأخلاق",
   "coverage": 1.0,
   "declared_total": 15,
@@ -117,9 +117,9 @@
       "vid": "kzOfF_m3ODw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 35609,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 35527,
       "dur": 4192,
       "file": "011_98ej9Ebys7E.txt",
       "n": 11,
@@ -128,8 +128,8 @@
       "vid": "98ej9Ebys7E"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 28849,
       "dur": 3369,
       "file": "012_Z940Zg-Vp7U.txt",
@@ -139,8 +139,8 @@
       "vid": "Z940Zg-Vp7U"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 30669,
       "dur": 3636,
       "file": "013_XQ1cRLRp1Gg.txt",
@@ -150,10 +150,10 @@
       "vid": "XQ1cRLRp1Gg"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 28759,
-      "dur": 3482,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 28715,
+      "dur": 3483,
       "file": "014_DJAxKH3Lvp8.txt",
       "n": 14,
       "stem": "014_DJAxKH3Lvp8",
@@ -161,8 +161,8 @@
       "vid": "DJAxKH3Lvp8"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 35605,
       "dur": 4190,
       "file": "015_JVke-wr3Rfw.txt",
