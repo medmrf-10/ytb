@@ -3,7 +3,7 @@
 - **إجمالي المشايخ:** 25 شيخاً
 - **إجمالي السلاسل المفرغة:** 386 سلسلة
 - **إجمالي الدروس المفرغة نصياً (`.txt`):** 6,589 درساً (156,236,110 حرفاً)
-- **إجمالي الدروس المحاذاة صوتياً (`.align.json`):** 1,382 درساً
+- **إجمالي الدروس المحاذاة صوتياً (`.align.json`):** 1,384 درساً
 
 ## 1. جدول المشايخ الإجمالي
 
@@ -15,7 +15,7 @@
 | 4 | أحمد السيد | `ahmed-alsayed` | 34 | 483 | 161 | [`ahmed-alsayed/`](./ahmed-alsayed/) |
 | 5 | الحبيب علي الجفري | `habib-ali-aljifri` | 23 | 471 | 30 | [`habib-ali-aljifri/`](./habib-ali-aljifri/) |
 | 6 | فاضل السامرائي | `fadhel-samarrai` | 42 | 460 | 296 | [`fadhel-samarrai/`](./fadhel-samarrai/) |
-| 7 | الحبيب عمر بن حفيظ | `habib-omar-ibn-hafiz` | 15 | 450 | 28 | [`habib-omar-ibn-hafiz/`](./habib-omar-ibn-hafiz/) |
+| 7 | الحبيب عمر بن حفيظ | `habib-omar-ibn-hafiz` | 15 | 450 | 30 | [`habib-omar-ibn-hafiz/`](./habib-omar-ibn-hafiz/) |
 | 8 | ذاكر الهاشمي | `dhaker-alhashimi` | 20 | 348 | 41 | [`dhaker-alhashimi/`](./dhaker-alhashimi/) |
 | 9 | محمد البردوني الحسيمي | `bardouni-husaymi` | 16 | 343 | 70 | [`bardouni-husaymi/`](./bardouni-husaymi/) |
 | 10 | علي جمعة | `ali-gomaa` | 14 | 276 | 37 | [`ali-gomaa/`](./ali-gomaa/) |
@@ -286,7 +286,7 @@
 | [`s063`](./fadhel-samarrai/s063/) | اللمسات البيانية في قصار المفصل وجزء عم (مباحث مختارة) | 22 | 22 | 100.0% | 1 (4.5%) |
 
 ### الحبيب عمر بن حفيظ (`habib-omar-ibn-hafiz`)
-- إجمالي الدروس المفرغة: **450** درساً (المحاذاة: **28**) في **15** سلسلة.
+- إجمالي الدروس المفرغة: **450** درساً (المحاذاة: **30**) في **15** سلسلة.
 
 | الكود | عنوان السلسلة | المفرغ | المعلن | نسبة التفريغ | المحاذاة |
 |---|---|---:|---:|---:|---:|
@@ -302,7 +302,7 @@
 | [`mukatabat_ataiyyah`](./habib-omar-ibn-hafiz/mukatabat_ataiyyah/) | شرح كتاب المكاتبات والمناجاة الإلهية لابن عطاء الله السكندري | 28 | 28 | 100.0% | 8 (28.6%) |
 | [`munqidh_dalal`](./habib-omar-ibn-hafiz/munqidh_dalal/) | شرح كتاب المنقذ من الضلال للإمام الغزالي | 8 | 8 | 100.0% | 8 (100.0%) |
 | [`qabas_noor_ihya`](./habib-omar-ibn-hafiz/qabas_noor_ihya/) | شرح كتاب قبس النور المبين من إحياء علوم الدين | 151 | 183 | 82.5% | 0 (0.0%) |
-| [`silat_aqrabin`](./habib-omar-ibn-hafiz/silat_aqrabin/) | شرح كتاب صلة الأقربين للحبيب عمر بن حفيظ | 14 | 14 | 100.0% | 0 (0.0%) |
+| [`silat_aqrabin`](./habib-omar-ibn-hafiz/silat_aqrabin/) | شرح كتاب صلة الأقربين للحبيب عمر بن حفيظ | 14 | 14 | 100.0% | 2 (14.3%) |
 | [`sullam_tawfiq`](./habib-omar-ibn-hafiz/sullam_tawfiq/) | شرح كتاب سلم التوفيق إلى محبة الله على التحقيق | 1 | 18 | 5.6% | 0 (0.0%) |
 | [`tafsir_fatiha_qisar`](./habib-omar-ibn-hafiz/tafsir_fatiha_qisar/) | تفسير سورة الفاتحة وقصار السور | 12 | 12 | 100.0% | 12 (100.0%) |
 

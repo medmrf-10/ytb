@@ -1,6 +1,6 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 2,
+  "aligned_ratio": 0.1429,
   "category": "التزكية والسلوك",
   "coverage": 1.0,
   "declared_total": 14,
@@ -18,10 +18,10 @@
       "vid": "YS62HwhKDDc"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 45569,
-      "dur": 4875,
+      "dur": 4876,
       "file": "002_dn5eyaqDTmA.txt",
       "n": 2,
       "stem": "002_dn5eyaqDTmA",
@@ -29,8 +29,8 @@
       "vid": "dn5eyaqDTmA"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 34599,
       "dur": 4060,
       "file": "003_jl5rQIGUU8k.txt",
