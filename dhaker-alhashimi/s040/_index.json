@@ -1,6 +1,6 @@
 {
-  "aligned": 9,
-  "aligned_ratio": 0.5294,
+  "aligned": 12,
+  "aligned_ratio": 0.7059,
   "category": "ألف باء العلوم والمدارسات",
   "coverage": 1.0,
   "declared_total": 17,
@@ -106,8 +106,8 @@
       "vid": "qW2rajHaeOM"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 46966,
       "dur": 4157,
       "file": "010_ejUgvUqqSYE.txt",
@@ -117,8 +117,8 @@
       "vid": "ejUgvUqqSYE"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 74995,
       "dur": 6527,
       "file": "011_5rptxMxfhHM.txt",
@@ -139,10 +139,10 @@
       "vid": "zO9n92N03KY"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 67714,
-      "dur": 6176,
+      "dur": 6177,
       "file": "013_3DiJpJej_6c.txt",
       "n": 13,
       "stem": "013_3DiJpJej_6c",
