@@ -1,6 +1,6 @@
 {
-  "aligned": 8,
-  "aligned_ratio": 0.5,
+  "aligned": 16,
+  "aligned_ratio": 1.0,
   "category": "تزكية وأخلاق",
   "coverage": 1.0,
   "declared_total": 16,
@@ -95,8 +95,8 @@
       "vid": "B3SuRYTejzU"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 12479,
       "dur": 1559,
       "file": "009_uXNMRBmX-LM.txt",
@@ -106,9 +106,9 @@
       "vid": "uXNMRBmX-LM"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 13456,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 13432,
       "dur": 1621,
       "file": "010_vGZFPvPc-4U.txt",
       "n": 10,
@@ -117,9 +117,9 @@
       "vid": "vGZFPvPc-4U"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 16600,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 16532,
       "dur": 1951,
       "file": "011_HruLLQo9P70.txt",
       "n": 11,
@@ -128,9 +128,9 @@
       "vid": "HruLLQo9P70"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 15737,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 15717,
       "dur": 1922,
       "file": "012_2DlroWQxFlk.txt",
       "n": 12,
@@ -139,8 +139,8 @@
       "vid": "2DlroWQxFlk"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 15710,
       "dur": 1911,
       "file": "013_VD55GXiXiaM.txt",
@@ -150,8 +150,8 @@
       "vid": "VD55GXiXiaM"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 13404,
       "dur": 1758,
       "file": "014_ggLu7Quj0Ag.txt",
@@ -161,10 +161,10 @@
       "vid": "ggLu7Quj0Ag"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 14982,
-      "dur": 1785,
+      "dur": 1786,
       "file": "015_RgTeAeUvpkc.txt",
       "n": 15,
       "stem": "015_RgTeAeUvpkc",
@@ -172,10 +172,10 @@
       "vid": "RgTeAeUvpkc"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 19382,
-      "dur": 2039,
+      "dur": 2040,
       "file": "016_G9bPqMaaxbI.txt",
       "n": 16,
       "stem": "016_G9bPqMaaxbI",

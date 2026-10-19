@@ -1,34 +1,47 @@
 {
- "v": 1,
- "lid": "yt:9fPLYTMpDdo",
- "vid": "9fPLYTMpDdo",
- "sheikh": "sharawi",
- "row_id": "sharawi--535",
- "n": 1,
- "n_src": "playlist",
- "title": "تفسير سورة القصص للشيخ الشعراوي - من آية 1 إلى آية 7",
- "title_src": "youtube",
- "sha256": "6b4daaa9951ee7d7787fb134b568427aa8391a1c29ed997176793448c1a3e5c6",
- "chars": 16086,
- "quality": "ok",
- "winner": {
-  "store": "ytb-transcribe",
-  "path": "ytb/sharawi/535/001_9fPLYTMpDdo.txt",
-  "model": "gemini-3.8-flash-high"
- },
- "sources": [
-  {
-   "store": "youtube",
-   "path": "https://youtu.be/9fPLYTMpDdo",
-   "rel": "source"
+  "v": 1,
+  "lid": "yt:9fPLYTMpDdo",
+  "vid": "9fPLYTMpDdo",
+  "sheikh": "sharawi",
+  "row_id": "sharawi--535",
+  "n": 1,
+  "n_src": "playlist",
+  "title": "تفسير سورة القصص للشيخ الشعراوي - من آية 1 إلى آية 7",
+  "title_src": "youtube",
+  "sha256": "6b4daaa9951ee7d7787fb134b568427aa8391a1c29ed997176793448c1a3e5c6",
+  "chars": 16086,
+  "quality": "ok",
+  "winner": {
+    "store": "ytb-transcribe",
+    "path": "ytb/sharawi/535/001_9fPLYTMpDdo.txt",
+    "model": "gemini-3.8-flash-high"
+  },
+  "sources": [
+    {
+      "store": "youtube",
+      "path": "https://youtu.be/9fPLYTMpDdo",
+      "rel": "source"
+    }
+  ],
+  "series": "sharawi--535",
+  "series_slug": "sharawi--535",
+  "lesson_no": 1,
+  "yt": "9fPLYTMpDdo",
+  "transcribed": "2026-10-14 06:07:41",
+  "audio": "ytb-build/audio/sharawi--535/001.mp3",
+  "job": "agy+gemini عبر agy",
+  "usage_tail": "None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 54.816, \"Gemini Models / Five Hour Limit Remaining\": 92.506, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Five Hour Limit Remaining\": 0.096, \"Gemini Models / Weekly Limit Remaining\": 0.024}\nchars: 16085 | words: 2765\nduplicate 8/12-gram runs: 40\nwrote /root/workspace/ytb/sharawi/535/001_9fPLYTMpDdo.txt\n",
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9964,
+    "spoken_align_pct": 99.64,
+    "audio_span_pct": 100.0,
+    "words": 2765,
+    "aligned": 2743,
+    "interpolated": 10,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 20:48"
   }
- ],
- "series": "sharawi--535",
- "series_slug": "sharawi--535",
- "lesson_no": 1,
- "yt": "9fPLYTMpDdo",
- "transcribed": "2026-10-14 06:07:41",
- "audio": "ytb-build/audio/sharawi--535/001.mp3",
- "job": "agy+gemini عبر agy",
- "usage_tail": "None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 54.816, \"Gemini Models / Five Hour Limit Remaining\": 92.506, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Five Hour Limit Remaining\": 0.096, \"Gemini Models / Weekly Limit Remaining\": 0.024}\nchars: 16085 | words: 2765\nduplicate 8/12-gram runs: 40\nwrote /root/workspace/ytb/sharawi/535/001_9fPLYTMpDdo.txt\n"
 }

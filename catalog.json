@@ -489,7 +489,7 @@
       "slug": "said-bouti"
     },
     {
-      "aligned": 163,
+      "aligned": 168,
       "chars": 13961523,
       "lessons": 648,
       "name": "محمد متولي الشعراوي",
@@ -792,8 +792,8 @@
           "transcribed": 14
         },
         {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
+          "aligned": 5,
+          "aligned_pct": "31.2%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
@@ -5235,8 +5235,8 @@
       "slug": "ayman-abdelrahim"
     },
     {
-      "aligned": 46,
-      "chars": 1848468,
+      "aligned": 54,
+      "chars": 1848356,
       "lessons": 92,
       "name": "معاذ سعيد حوى",
       "path": "maath-hawa/",
@@ -5300,14 +5300,14 @@
           "transcribed": 22
         },
         {
-          "aligned": 8,
-          "aligned_pct": "50.0%",
+          "aligned": 16,
+          "aligned_pct": "100.0%",
           "category": "تزكية وأخلاق",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 16,
           "dir": "qasidat_tariqatuna/",
-          "dur": 27358,
+          "dur": 27360,
           "key": "qasidat_tariqatuna",
           "series_id": "hawwa__qasidat_tariqatuna",
           "title": "شرح قصيدة طريقتنا للإمام الرواس",
@@ -5706,8 +5706,8 @@
     }
   ],
   "totals": {
-    "aligned": 1535,
-    "chars": 156224662,
+    "aligned": 1548,
+    "chars": 156224550,
     "lessons": 6589,
     "series": 386,
     "sheikhs": 25
