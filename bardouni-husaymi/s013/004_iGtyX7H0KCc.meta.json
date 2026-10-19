@@ -10,7 +10,7 @@
   "title_src": "filename",
   "sha256": "5f78a55bb0f2d4940b412869e4d3591f33e8226ff2f669be7ee9fb2d808c9e49",
   "nh": "ae8f2c6b96e19795d752ccbc68598b556722a0ea8556c5e0e65a7bffe863d027",
-  "chars": 10449,
+  "chars": 20305,
   "quality": "ok",
   "winner": {
     "store": "des-mut",
@@ -55,5 +55,10 @@
     "retried_without_silence_compact": false,
     "local_agc_applied": false,
     "at": "2026-10-19 01:41"
-  }
+  },
+  "dur_s": 2581.9,
+  "words": 3673,
+  "wpm": 85.4,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

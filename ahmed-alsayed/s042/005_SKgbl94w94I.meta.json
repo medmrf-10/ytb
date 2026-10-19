@@ -1,43 +1,48 @@
 {
- "v": 1,
- "lid": "yt:SKgbl94w94I",
- "vid": "SKgbl94w94I",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--660",
- "n": 6,
- "n_src": "mutfile",
- "title": "الأمة بين احتلالين 05 ｜ الاحتلال الصليبي لدمياط ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "3115b0568d0707729e09a849eef83f8843596d9873a3d9f1913759b2a984ad63",
- "nh": "02840678987d754c8ffe5ff4c94e5aae6a888607e1d7c5c0565c6c9f076e8e69",
- "chars": 31272,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/660/006_الأمة بين احتلالين 05 ｜ الاحتلال الصليبي لدمياط ｜ أحمد السيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/660/006_الأمة بين احتلالين 05 ｜ الاحتلال الصليبي لدمياط ｜ أحمد السيد.txt",
-   "sha256": "3115b0568d0707729e09a849eef83f8843596d9873a3d9f1913759b2a984ad63",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:SKgbl94w94I",
+  "vid": "SKgbl94w94I",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--660",
+  "n": 6,
+  "n_src": "mutfile",
+  "title": "الأمة بين احتلالين 05 ｜ الاحتلال الصليبي لدمياط ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "3115b0568d0707729e09a849eef83f8843596d9873a3d9f1913759b2a984ad63",
+  "nh": "02840678987d754c8ffe5ff4c94e5aae6a888607e1d7c5c0565c6c9f076e8e69",
+  "chars": 99737,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/660/006_الأمة بين احتلالين 05 ｜ الاحتلال الصليبي لدمياط ｜ أحمد السيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/elommaBaynI7tilayn-006/transcript.txt",
-   "sha256": "4285515708d7583595e456c35b6367666f218c66e86fa2cf483729afd5e5736a",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-660/006.txt",
-   "sha256": "4285515708d7583595e456c35b6367666f218c66e86fa2cf483729afd5e5736a",
-   "rel": "same-body"
-  }
- ],
- "variants": [],
- "also_in": []
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/660/006_الأمة بين احتلالين 05 ｜ الاحتلال الصليبي لدمياط ｜ أحمد السيد.txt",
+      "sha256": "3115b0568d0707729e09a849eef83f8843596d9873a3d9f1913759b2a984ad63",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/elommaBaynI7tilayn-006/transcript.txt",
+      "sha256": "4285515708d7583595e456c35b6367666f218c66e86fa2cf483729afd5e5736a",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-660/006.txt",
+      "sha256": "4285515708d7583595e456c35b6367666f218c66e86fa2cf483729afd5e5736a",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "dur_s": 9062.8,
+  "words": 18044,
+  "wpm": 119.5,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

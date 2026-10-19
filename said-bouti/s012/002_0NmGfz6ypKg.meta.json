@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:0NmGfz6ypKg",
- "vid": "0NmGfz6ypKg",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--356",
- "n": 3,
- "n_src": "mutfile",
- "title": "2 - التوبة في القرآن الكريم ما هي شروط التوبة ؟",
- "title_src": "filename",
- "sha256": "083563e3d4b83e95db72bc8b69b143ca1d813dd0634170067de44e59468a7431",
- "nh": "a407cc3b25815761a4ab2138b45b5bd1096be8bef29f6ae181184219846e35f3",
- "chars": 13900,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/356/003_2 - التوبة في القرآن الكريم  ما هي شروط التوبة ؟.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/356/003_2 - التوبة في القرآن الكريم  ما هي شروط التوبة ؟.txt",
-   "sha256": "083563e3d4b83e95db72bc8b69b143ca1d813dd0634170067de44e59468a7431",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:0NmGfz6ypKg",
+  "vid": "0NmGfz6ypKg",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--356",
+  "n": 3,
+  "n_src": "mutfile",
+  "title": "2 - التوبة في القرآن الكريم ما هي شروط التوبة ؟",
+  "title_src": "filename",
+  "sha256": "083563e3d4b83e95db72bc8b69b143ca1d813dd0634170067de44e59468a7431",
+  "nh": "a407cc3b25815761a4ab2138b45b5bd1096be8bef29f6ae181184219846e35f3",
+  "chars": 13900,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/356/003_2 - التوبة في القرآن الكريم  ما هي شروط التوبة ؟.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/tawba/003_2 - التوبة في القرآن الكريم  ما هي شروط التوبة ؟.txt",
-   "sha256": "083563e3d4b83e95db72bc8b69b143ca1d813dd0634170067de44e59468a7431",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-356/003.txt",
-   "sha256": "c6c5626dee8947a09bd4712438b61eac6bb167e9419c935f47a77038b7980bd8",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/356/003_2 - التوبة في القرآن الكريم  ما هي شروط التوبة ؟.txt",
+      "sha256": "083563e3d4b83e95db72bc8b69b143ca1d813dd0634170067de44e59468a7431",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/tawba/003_2 - التوبة في القرآن الكريم  ما هي شروط التوبة ؟.txt",
+      "sha256": "083563e3d4b83e95db72bc8b69b143ca1d813dd0634170067de44e59468a7431",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-356/003.txt",
+      "sha256": "c6c5626dee8947a09bd4712438b61eac6bb167e9419c935f47a77038b7980bd8",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.74,
+    "words": 2609,
+    "aligned": 2609,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 03:24"
   }
- ],
- "variants": [],
- "also_in": []
 }

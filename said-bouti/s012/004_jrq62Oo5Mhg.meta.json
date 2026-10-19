@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:jrq62Oo5Mhg",
- "vid": "jrq62Oo5Mhg",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--356",
- "n": 5,
- "n_src": "mutfile",
- "title": "4 - التوبة في القرآن الآيات التي تحث على التوبة",
- "title_src": "filename",
- "sha256": "e4178371265f3a53a865577e272df2aba0b756a660f321941820505b8906f57e",
- "nh": "13dbcab1edf2203d85e599def9ff2ccb0b9746f11264389576fb7267dead306e",
- "chars": 13487,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/356/005_4 - التوبة في القرآن  الآيات التي تحث على التوبة.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/356/005_4 - التوبة في القرآن  الآيات التي تحث على التوبة.txt",
-   "sha256": "e4178371265f3a53a865577e272df2aba0b756a660f321941820505b8906f57e",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:jrq62Oo5Mhg",
+  "vid": "jrq62Oo5Mhg",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--356",
+  "n": 5,
+  "n_src": "mutfile",
+  "title": "4 - التوبة في القرآن الآيات التي تحث على التوبة",
+  "title_src": "filename",
+  "sha256": "e4178371265f3a53a865577e272df2aba0b756a660f321941820505b8906f57e",
+  "nh": "13dbcab1edf2203d85e599def9ff2ccb0b9746f11264389576fb7267dead306e",
+  "chars": 13487,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/356/005_4 - التوبة في القرآن  الآيات التي تحث على التوبة.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/tawba/005_4 - التوبة في القرآن  الآيات التي تحث على التوبة.txt",
-   "sha256": "e4178371265f3a53a865577e272df2aba0b756a660f321941820505b8906f57e",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-356/005.txt",
-   "sha256": "71ba0677aa6cc31883b36faa305bf97e6737a404aedfb0b28390f8ee77044fc2",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/356/005_4 - التوبة في القرآن  الآيات التي تحث على التوبة.txt",
+      "sha256": "e4178371265f3a53a865577e272df2aba0b756a660f321941820505b8906f57e",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/tawba/005_4 - التوبة في القرآن  الآيات التي تحث على التوبة.txt",
+      "sha256": "e4178371265f3a53a865577e272df2aba0b756a660f321941820505b8906f57e",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-356/005.txt",
+      "sha256": "71ba0677aa6cc31883b36faa305bf97e6737a404aedfb0b28390f8ee77044fc2",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9996,
+    "spoken_align_pct": 99.96,
+    "audio_span_pct": 99.73,
+    "words": 2529,
+    "aligned": 2528,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 03:24"
   }
- ],
- "variants": [],
- "also_in": []
 }

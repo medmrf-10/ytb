@@ -1,60 +1,73 @@
 {
- "v": 1,
- "lid": "yt:qQTNbtM-tuU",
- "vid": "qQTNbtM-tuU",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--686",
- "n": 6,
- "n_src": "mutfile",
- "title": "تدبر سورة التوبة 06 ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "4add32a960d2f5c59e54eb1b100259503a66697ec3f1f975824253ca1c794676",
- "nh": "2b709967a2b3a7fd2cdf4c03f24a9d2f238acb2e10f106b5c6257c897ce8b36c",
- "chars": 29306,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/686/006_تدبر سورة التوبة 06 ｜ أحمد السيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/686/006_تدبر سورة التوبة 06 ｜ أحمد السيد.txt",
-   "sha256": "4add32a960d2f5c59e54eb1b100259503a66697ec3f1f975824253ca1c794676",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:qQTNbtM-tuU",
+  "vid": "qQTNbtM-tuU",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--686",
+  "n": 6,
+  "n_src": "mutfile",
+  "title": "تدبر سورة التوبة 06 ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "4add32a960d2f5c59e54eb1b100259503a66697ec3f1f975824253ca1c794676",
+  "nh": "2b709967a2b3a7fd2cdf4c03f24a9d2f238acb2e10f106b5c6257c897ce8b36c",
+  "chars": 29306,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/686/006_تدبر سورة التوبة 06 ｜ أحمد السيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alsayed/mut-672/014_تدبر سورة التوبة 06 ｜ أحمد السيد.txt",
-   "sha256": "d308faf6f5722cc9cf40742897d2421dc1a30a5319f978d198bbafa2aca4f205",
-   "rel": "variant"
-  },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alsayed/mut-686/006_تدبر سورة التوبة 06 ｜ أحمد السيد.txt",
-   "sha256": "4add32a960d2f5c59e54eb1b100259503a66697ec3f1f975824253ca1c794676",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-672/014.txt",
-   "sha256": "e644fce188d85565302454f8d3e5015021f38a349df46e252b45955f6681bc5c",
-   "rel": "variant"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-686/006.txt",
-   "sha256": "c05d448661b5e91717938f95677140e59a442e39cd244feeda2b67f0526e3c14",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/686/006_تدبر سورة التوبة 06 ｜ أحمد السيد.txt",
+      "sha256": "4add32a960d2f5c59e54eb1b100259503a66697ec3f1f975824253ca1c794676",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alsayed/mut-672/014_تدبر سورة التوبة 06 ｜ أحمد السيد.txt",
+      "sha256": "d308faf6f5722cc9cf40742897d2421dc1a30a5319f978d198bbafa2aca4f205",
+      "rel": "variant"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alsayed/mut-686/006_تدبر سورة التوبة 06 ｜ أحمد السيد.txt",
+      "sha256": "4add32a960d2f5c59e54eb1b100259503a66697ec3f1f975824253ca1c794676",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-672/014.txt",
+      "sha256": "e644fce188d85565302454f8d3e5015021f38a349df46e252b45955f6681bc5c",
+      "rel": "variant"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-686/006.txt",
+      "sha256": "c05d448661b5e91717938f95677140e59a442e39cd244feeda2b67f0526e3c14",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [
+    "_variants/006_qQTNbtM-tuU.hw-tr.txt",
+    "_variants/006_qQTNbtM-tuU.hw-ls.txt"
+  ],
+  "also_in": [
+    "ahmed-alsayed--672"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9992,
+    "spoken_align_pct": 99.92,
+    "audio_span_pct": 99.73,
+    "words": 5332,
+    "aligned": 5328,
+    "interpolated": 4,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 03:04"
   }
- ],
- "variants": [
-  "_variants/006_qQTNbtM-tuU.hw-tr.txt",
-  "_variants/006_qQTNbtM-tuU.hw-ls.txt"
- ],
- "also_in": [
-  "ahmed-alsayed--672"
- ]
 }

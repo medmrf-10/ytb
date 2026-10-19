@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:Tf-8yNORHWg",
- "vid": "Tf-8yNORHWg",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--356",
- "n": 9,
- "n_src": "mutfile",
- "title": "8 - التوبة في القرآن (الحلقة الأخيرة) من قصص التائبين - 2",
- "title_src": "filename",
- "sha256": "760a7e4fe49e7846168fd06e2dd225bd0491ff112ab323af7895d010164f0393",
- "nh": "67429f71ebd7c1a1a64f2559e7bea9517a10d5ff448894ecfb1609c5e33bc9e8",
- "chars": 13527,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/356/009_8 - التوبة في القرآن (الحلقة الأخيرة)  من قصص التائبين - 2.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/356/009_8 - التوبة في القرآن (الحلقة الأخيرة)  من قصص التائبين - 2.txt",
-   "sha256": "760a7e4fe49e7846168fd06e2dd225bd0491ff112ab323af7895d010164f0393",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:Tf-8yNORHWg",
+  "vid": "Tf-8yNORHWg",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--356",
+  "n": 9,
+  "n_src": "mutfile",
+  "title": "8 - التوبة في القرآن (الحلقة الأخيرة) من قصص التائبين - 2",
+  "title_src": "filename",
+  "sha256": "760a7e4fe49e7846168fd06e2dd225bd0491ff112ab323af7895d010164f0393",
+  "nh": "67429f71ebd7c1a1a64f2559e7bea9517a10d5ff448894ecfb1609c5e33bc9e8",
+  "chars": 13527,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/356/009_8 - التوبة في القرآن (الحلقة الأخيرة)  من قصص التائبين - 2.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/tawba/009_8 - التوبة في القرآن (الحلقة الأخيرة)  من قصص التائبين - 2.txt",
-   "sha256": "760a7e4fe49e7846168fd06e2dd225bd0491ff112ab323af7895d010164f0393",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-356/009.txt",
-   "sha256": "d9df3489e593f735b44d2ddd2e3431b64161340bdb9598420cfc52b0d45f751e",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/356/009_8 - التوبة في القرآن (الحلقة الأخيرة)  من قصص التائبين - 2.txt",
+      "sha256": "760a7e4fe49e7846168fd06e2dd225bd0491ff112ab323af7895d010164f0393",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/tawba/009_8 - التوبة في القرآن (الحلقة الأخيرة)  من قصص التائبين - 2.txt",
+      "sha256": "760a7e4fe49e7846168fd06e2dd225bd0491ff112ab323af7895d010164f0393",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-356/009.txt",
+      "sha256": "d9df3489e593f735b44d2ddd2e3431b64161340bdb9598420cfc52b0d45f751e",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9988,
+    "spoken_align_pct": 99.88,
+    "audio_span_pct": 99.74,
+    "words": 2539,
+    "aligned": 2536,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 03:28"
   }
- ],
- "variants": [],
- "also_in": []
 }

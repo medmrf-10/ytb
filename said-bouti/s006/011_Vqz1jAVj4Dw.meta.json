@@ -1,49 +1,54 @@
 {
- "v": 1,
- "lid": "yt:Vqz1jAVj4Dw",
- "vid": "Vqz1jAVj4Dw",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--353",
- "n": 12,
- "n_src": "mutfile",
- "title": "11 - الآداب الاجتماعية في القرآن الكريم آداب الأبناء مع الآباء",
- "title_src": "filename",
- "sha256": "dc1a434817fa41292867b98435d8cafc7259574a6a47b66c5d13c65e41bc5773",
- "nh": "df5a6a09e14cbed7440cf5906f7fad78443214fad154580434d3c7360e612732",
- "chars": 4490,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/353/012_11 - الآداب الاجتماعية في القرآن الكريم  آداب الأبناء مع الآباء.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/353/012_11 - الآداب الاجتماعية في القرآن الكريم  آداب الأبناء مع الآباء.txt",
-   "sha256": "dc1a434817fa41292867b98435d8cafc7259574a6a47b66c5d13c65e41bc5773",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:Vqz1jAVj4Dw",
+  "vid": "Vqz1jAVj4Dw",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--353",
+  "n": 12,
+  "n_src": "mutfile",
+  "title": "11 - الآداب الاجتماعية في القرآن الكريم آداب الأبناء مع الآباء",
+  "title_src": "filename",
+  "sha256": "dc1a434817fa41292867b98435d8cafc7259574a6a47b66c5d13c65e41bc5773",
+  "nh": "df5a6a09e14cbed7440cf5906f7fad78443214fad154580434d3c7360e612732",
+  "chars": 12479,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/353/012_11 - الآداب الاجتماعية في القرآن الكريم  آداب الأبناء مع الآباء.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/rihab/012_11 - الآداب الاجتماعية في القرآن الكريم  آداب الأبناء مع الآباء.txt",
-   "sha256": "dc1a434817fa41292867b98435d8cafc7259574a6a47b66c5d13c65e41bc5773",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-353/012_11 - الآداب الاجتماعية في القرآن الكريم  آداب الأبناء مع الآباء.txt",
-   "sha256": "dc1a434817fa41292867b98435d8cafc7259574a6a47b66c5d13c65e41bc5773",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-353/012.txt",
-   "sha256": "37622cd7c2457960354ab2655471fdd368722cdb8cfb3fb99ed10ad2e3223fea",
-   "rel": "same-body"
-  }
- ],
- "variants": [],
- "also_in": []
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/353/012_11 - الآداب الاجتماعية في القرآن الكريم  آداب الأبناء مع الآباء.txt",
+      "sha256": "dc1a434817fa41292867b98435d8cafc7259574a6a47b66c5d13c65e41bc5773",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/rihab/012_11 - الآداب الاجتماعية في القرآن الكريم  آداب الأبناء مع الآباء.txt",
+      "sha256": "dc1a434817fa41292867b98435d8cafc7259574a6a47b66c5d13c65e41bc5773",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-353/012_11 - الآداب الاجتماعية في القرآن الكريم  آداب الأبناء مع الآباء.txt",
+      "sha256": "dc1a434817fa41292867b98435d8cafc7259574a6a47b66c5d13c65e41bc5773",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-353/012.txt",
+      "sha256": "37622cd7c2457960354ab2655471fdd368722cdb8cfb3fb99ed10ad2e3223fea",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "dur_s": 1618.9,
+  "words": 2149,
+  "wpm": 79.6,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

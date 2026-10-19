@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:UJvBXwbSov4",
- "vid": "UJvBXwbSov4",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--356",
- "n": 2,
- "n_src": "mutfile",
- "title": "1 - التوبة في القرآن الكريم ما هي التوبة ؟",
- "title_src": "filename",
- "sha256": "83d264382f7198551f433b7de4b5a43eec3cdf287dfd773cb3105dfadf73bb48",
- "nh": "a1c3b61580da25d247828ac98e32944bd1bd22e7aa8bbb3d82efd1eeff49432c",
- "chars": 12273,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/356/002_1 - التوبة في القرآن الكريم  ما هي التوبة ؟.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/356/002_1 - التوبة في القرآن الكريم  ما هي التوبة ؟.txt",
-   "sha256": "83d264382f7198551f433b7de4b5a43eec3cdf287dfd773cb3105dfadf73bb48",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:UJvBXwbSov4",
+  "vid": "UJvBXwbSov4",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--356",
+  "n": 2,
+  "n_src": "mutfile",
+  "title": "1 - التوبة في القرآن الكريم ما هي التوبة ؟",
+  "title_src": "filename",
+  "sha256": "83d264382f7198551f433b7de4b5a43eec3cdf287dfd773cb3105dfadf73bb48",
+  "nh": "a1c3b61580da25d247828ac98e32944bd1bd22e7aa8bbb3d82efd1eeff49432c",
+  "chars": 12273,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/356/002_1 - التوبة في القرآن الكريم  ما هي التوبة ؟.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/tawba/002_1 - التوبة في القرآن الكريم  ما هي التوبة ؟.txt",
-   "sha256": "83d264382f7198551f433b7de4b5a43eec3cdf287dfd773cb3105dfadf73bb48",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-356/002.txt",
-   "sha256": "913465c33a560425909b626d7dcb400072a9c02099def883c2e99832b4ab1419",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/356/002_1 - التوبة في القرآن الكريم  ما هي التوبة ؟.txt",
+      "sha256": "83d264382f7198551f433b7de4b5a43eec3cdf287dfd773cb3105dfadf73bb48",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/tawba/002_1 - التوبة في القرآن الكريم  ما هي التوبة ؟.txt",
+      "sha256": "83d264382f7198551f433b7de4b5a43eec3cdf287dfd773cb3105dfadf73bb48",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-356/002.txt",
+      "sha256": "913465c33a560425909b626d7dcb400072a9c02099def883c2e99832b4ab1419",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.1,
+    "words": 2258,
+    "aligned": 2258,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 03:23"
   }
- ],
- "variants": [],
- "also_in": []
 }

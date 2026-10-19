@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:S51xPkpEle0",
- "vid": "S51xPkpEle0",
- "sheikh": "adham-alasimi",
- "row_id": "adham-alasimi--789",
- "n": 4,
- "n_src": "read",
- "title": "سيدنا محمد ﷺ وبناء الحضارة ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
- "title_src": "filename",
- "sha256": "39935ded18cb31b57a150bde7298ab4a5bcc53bf9458985bb21bfdeb3d8d9bed",
- "nh": "1967bd78cde59f99b8eaa0c4275df13c1b00302a4a81be069cd17955b6d8b754",
- "chars": 17148,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/789/004_سيدنا محمد ﷺ وبناء الحضارة ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/789/004_سيدنا محمد ﷺ وبناء الحضارة ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
-   "sha256": "39935ded18cb31b57a150bde7298ab4a5bcc53bf9458985bb21bfdeb3d8d9bed",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:S51xPkpEle0",
+  "vid": "S51xPkpEle0",
+  "sheikh": "adham-alasimi",
+  "row_id": "adham-alasimi--789",
+  "n": 4,
+  "n_src": "read",
+  "title": "سيدنا محمد ﷺ وبناء الحضارة ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+  "title_src": "filename",
+  "sha256": "39935ded18cb31b57a150bde7298ab4a5bcc53bf9458985bb21bfdeb3d8d9bed",
+  "nh": "1967bd78cde59f99b8eaa0c4275df13c1b00302a4a81be069cd17955b6d8b754",
+  "chars": 17148,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/789/004_سيدنا محمد ﷺ وبناء الحضارة ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/789/3.txt",
-   "sha256": "39935ded18cb31b57a150bde7298ab4a5bcc53bf9458985bb21bfdeb3d8d9bed",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/789/004_سيدنا محمد ﷺ وبناء الحضارة ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+      "sha256": "39935ded18cb31b57a150bde7298ab4a5bcc53bf9458985bb21bfdeb3d8d9bed",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/789/3.txt",
+      "sha256": "39935ded18cb31b57a150bde7298ab4a5bcc53bf9458985bb21bfdeb3d8d9bed",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9997,
+    "spoken_align_pct": 99.97,
+    "audio_span_pct": 99.23,
+    "words": 3155,
+    "aligned": 3154,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 03:29"
   }
- ],
- "variants": [],
- "also_in": []
 }

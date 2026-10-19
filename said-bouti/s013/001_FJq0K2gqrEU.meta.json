@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:FJq0K2gqrEU",
- "vid": "FJq0K2gqrEU",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--416",
- "n": 1,
- "n_src": "mutfile",
- "title": "1- العبادة والعبودية في القرآن الكريم مقدمة عن العبادة والعبودية",
- "title_src": "filename",
- "sha256": "a8d11bfff28c995987a58fc9a5089a03a82df69d7c52f4ad0a4e058126489b7a",
- "nh": "d391f823ee5bff2300a67848d2925adabe67ecb8eed5b661ecd4b39c158e3355",
- "chars": 13263,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/416/001_1-  العبادة والعبودية في القرآن الكريم  مقدمة عن العبادة والعبودية.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/416/001_1-  العبادة والعبودية في القرآن الكريم  مقدمة عن العبادة والعبودية.txt",
-   "sha256": "a8d11bfff28c995987a58fc9a5089a03a82df69d7c52f4ad0a4e058126489b7a",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:FJq0K2gqrEU",
+  "vid": "FJq0K2gqrEU",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--416",
+  "n": 1,
+  "n_src": "mutfile",
+  "title": "1- العبادة والعبودية في القرآن الكريم مقدمة عن العبادة والعبودية",
+  "title_src": "filename",
+  "sha256": "a8d11bfff28c995987a58fc9a5089a03a82df69d7c52f4ad0a4e058126489b7a",
+  "nh": "d391f823ee5bff2300a67848d2925adabe67ecb8eed5b661ecd4b39c158e3355",
+  "chars": 13263,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/416/001_1-  العبادة والعبودية في القرآن الكريم  مقدمة عن العبادة والعبودية.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/tawba/001_1-  العبادة والعبودية في القرآن الكريم  مقدمة عن العبادة والعبودية.txt",
-   "sha256": "a8d11bfff28c995987a58fc9a5089a03a82df69d7c52f4ad0a4e058126489b7a",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/ibada/001_1-  العبادة والعبودية في القرآن الكريم  مقدمة عن العبادة والعبودية.txt",
-   "sha256": "a8d11bfff28c995987a58fc9a5089a03a82df69d7c52f4ad0a4e058126489b7a",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-416/001.txt",
-   "sha256": "735eee50a6d87c8d5fdcda38e73df8b8d578eeffdba906efab2853f0c9bbb663",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/416/001_1-  العبادة والعبودية في القرآن الكريم  مقدمة عن العبادة والعبودية.txt",
+      "sha256": "a8d11bfff28c995987a58fc9a5089a03a82df69d7c52f4ad0a4e058126489b7a",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/tawba/001_1-  العبادة والعبودية في القرآن الكريم  مقدمة عن العبادة والعبودية.txt",
+      "sha256": "a8d11bfff28c995987a58fc9a5089a03a82df69d7c52f4ad0a4e058126489b7a",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/ibada/001_1-  العبادة والعبودية في القرآن الكريم  مقدمة عن العبادة والعبودية.txt",
+      "sha256": "a8d11bfff28c995987a58fc9a5089a03a82df69d7c52f4ad0a4e058126489b7a",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-416/001.txt",
+      "sha256": "735eee50a6d87c8d5fdcda38e73df8b8d578eeffdba906efab2853f0c9bbb663",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9992,
+    "spoken_align_pct": 99.92,
+    "audio_span_pct": 99.89,
+    "words": 2389,
+    "aligned": 2387,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 03:18"
   }
- ],
- "variants": [],
- "also_in": []
 }

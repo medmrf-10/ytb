@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:KyCm5Dxq9w4",
- "vid": "KyCm5Dxq9w4",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--652",
- "n": 5,
- "n_src": "mutfile",
- "title": "السنن الإلهية 05 ｜ سنة التدافع بين الحق والباطل ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "d3456231d3b56b96868bb9e23e0272fb7be958e0ee3d0036a0c8dbe906d2b91b",
- "nh": "7a91399e27d428674a8c2fa582628b50fd5ba459eb4787559bf183103f4ff047",
- "chars": 39972,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/652/005_السنن الإلهية 05 ｜ سنة التدافع بين الحق والباطل ｜ أحمد السيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/652/005_السنن الإلهية 05 ｜ سنة التدافع بين الحق والباطل ｜ أحمد السيد.txt",
-   "sha256": "d3456231d3b56b96868bb9e23e0272fb7be958e0ee3d0036a0c8dbe906d2b91b",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:KyCm5Dxq9w4",
+  "vid": "KyCm5Dxq9w4",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--652",
+  "n": 5,
+  "n_src": "mutfile",
+  "title": "السنن الإلهية 05 ｜ سنة التدافع بين الحق والباطل ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "d3456231d3b56b96868bb9e23e0272fb7be958e0ee3d0036a0c8dbe906d2b91b",
+  "nh": "7a91399e27d428674a8c2fa582628b50fd5ba459eb4787559bf183103f4ff047",
+  "chars": 39972,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/652/005_السنن الإلهية 05 ｜ سنة التدافع بين الحق والباطل ｜ أحمد السيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/sonanIlahiya-005/transcript.txt",
-   "sha256": "c05c2cccef92fe176442a2e6ee81e1cad29582cf6aace680b6ca8e2a68f86c03",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-652/005.txt",
-   "sha256": "c05c2cccef92fe176442a2e6ee81e1cad29582cf6aace680b6ca8e2a68f86c03",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/652/005_السنن الإلهية 05 ｜ سنة التدافع بين الحق والباطل ｜ أحمد السيد.txt",
+      "sha256": "d3456231d3b56b96868bb9e23e0272fb7be958e0ee3d0036a0c8dbe906d2b91b",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/sonanIlahiya-005/transcript.txt",
+      "sha256": "c05c2cccef92fe176442a2e6ee81e1cad29582cf6aace680b6ca8e2a68f86c03",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-652/005.txt",
+      "sha256": "c05c2cccef92fe176442a2e6ee81e1cad29582cf6aace680b6ca8e2a68f86c03",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9993,
+    "spoken_align_pct": 99.93,
+    "audio_span_pct": 99.76,
+    "words": 7281,
+    "aligned": 7273,
+    "interpolated": 5,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 03:18"
   }
- ],
- "variants": [],
- "also_in": []
 }

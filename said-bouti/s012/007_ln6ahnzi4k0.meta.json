@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:ln6ahnzi4k0",
- "vid": "ln6ahnzi4k0",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--356",
- "n": 8,
- "n_src": "mutfile",
- "title": "7 - التوبة في القرآن من قصص التائبين - 1",
- "title_src": "filename",
- "sha256": "833f57089539efc028eb09cdd0d4bf38f1c038565fe2ee902ff7ca9ae5590dbd",
- "nh": "f8625575f5127a22e0c200f31ce2102749e92b4d10424667ef215585d229130f",
- "chars": 12351,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/356/008_7 - التوبة في القرآن  من قصص التائبين - 1.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/356/008_7 - التوبة في القرآن  من قصص التائبين - 1.txt",
-   "sha256": "833f57089539efc028eb09cdd0d4bf38f1c038565fe2ee902ff7ca9ae5590dbd",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:ln6ahnzi4k0",
+  "vid": "ln6ahnzi4k0",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--356",
+  "n": 8,
+  "n_src": "mutfile",
+  "title": "7 - التوبة في القرآن من قصص التائبين - 1",
+  "title_src": "filename",
+  "sha256": "833f57089539efc028eb09cdd0d4bf38f1c038565fe2ee902ff7ca9ae5590dbd",
+  "nh": "f8625575f5127a22e0c200f31ce2102749e92b4d10424667ef215585d229130f",
+  "chars": 12351,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/356/008_7 - التوبة في القرآن  من قصص التائبين - 1.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/tawba/008_7 - التوبة في القرآن  من قصص التائبين - 1.txt",
-   "sha256": "833f57089539efc028eb09cdd0d4bf38f1c038565fe2ee902ff7ca9ae5590dbd",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-356/008.txt",
-   "sha256": "7cad38aa871aba292900a30be615167a9f35b0584506448376f0a9d1d262abd0",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/356/008_7 - التوبة في القرآن  من قصص التائبين - 1.txt",
+      "sha256": "833f57089539efc028eb09cdd0d4bf38f1c038565fe2ee902ff7ca9ae5590dbd",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/tawba/008_7 - التوبة في القرآن  من قصص التائبين - 1.txt",
+      "sha256": "833f57089539efc028eb09cdd0d4bf38f1c038565fe2ee902ff7ca9ae5590dbd",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-356/008.txt",
+      "sha256": "7cad38aa871aba292900a30be615167a9f35b0584506448376f0a9d1d262abd0",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.71,
+    "words": 2297,
+    "aligned": 2297,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 03:27"
   }
- ],
- "variants": [],
- "also_in": []
 }

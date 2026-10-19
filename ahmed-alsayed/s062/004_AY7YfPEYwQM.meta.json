@@ -1,43 +1,59 @@
 {
- "v": 1,
- "lid": "yt:AY7YfPEYwQM",
- "vid": "AY7YfPEYwQM",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--652",
- "n": 4,
- "n_src": "mutfile",
- "title": "السنن الإلهية 04 ｜ مقاصد سنة الإهلاك ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "03feb3e7852149cb54e552f553d783386fcf94b07784c7bb87dd92fc35fa0ef2",
- "nh": "a0e66ba3a3b14df279389220bccc0ba8ec3fe356cf4e2bf3756757b96fec3af2",
- "chars": 46807,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/652/004_السنن الإلهية 04 ｜ مقاصد سنة الإهلاك ｜ أحمد السيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/652/004_السنن الإلهية 04 ｜ مقاصد سنة الإهلاك ｜ أحمد السيد.txt",
-   "sha256": "03feb3e7852149cb54e552f553d783386fcf94b07784c7bb87dd92fc35fa0ef2",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:AY7YfPEYwQM",
+  "vid": "AY7YfPEYwQM",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--652",
+  "n": 4,
+  "n_src": "mutfile",
+  "title": "السنن الإلهية 04 ｜ مقاصد سنة الإهلاك ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "03feb3e7852149cb54e552f553d783386fcf94b07784c7bb87dd92fc35fa0ef2",
+  "nh": "a0e66ba3a3b14df279389220bccc0ba8ec3fe356cf4e2bf3756757b96fec3af2",
+  "chars": 46807,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/652/004_السنن الإلهية 04 ｜ مقاصد سنة الإهلاك ｜ أحمد السيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/sonanIlahiya-004/transcript.txt",
-   "sha256": "03feb3e7852149cb54e552f553d783386fcf94b07784c7bb87dd92fc35fa0ef2",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-652/004.txt",
-   "sha256": "03feb3e7852149cb54e552f553d783386fcf94b07784c7bb87dd92fc35fa0ef2",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/652/004_السنن الإلهية 04 ｜ مقاصد سنة الإهلاك ｜ أحمد السيد.txt",
+      "sha256": "03feb3e7852149cb54e552f553d783386fcf94b07784c7bb87dd92fc35fa0ef2",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/sonanIlahiya-004/transcript.txt",
+      "sha256": "03feb3e7852149cb54e552f553d783386fcf94b07784c7bb87dd92fc35fa0ef2",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-652/004.txt",
+      "sha256": "03feb3e7852149cb54e552f553d783386fcf94b07784c7bb87dd92fc35fa0ef2",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9759,
+    "spoken_align_pct": 97.59,
+    "audio_span_pct": 99.84,
+    "words": 8467,
+    "aligned": 8263,
+    "interpolated": 204,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 03:09",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

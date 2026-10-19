@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:iPTgb9rWAj4",
- "vid": "iPTgb9rWAj4",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--652",
- "n": 7,
- "n_src": "mutfile",
- "title": "السنن الإلهية 07 ｜ سنة النصر والتمكين ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "8aa58a4038f7798e8f60f1120f3a3623d805a0513ef9cb3b4c7c4751759b6a2d",
- "nh": "58c8e57f187be9f65d7c95e660e1fcd72db4d2fad434eab325797fcd8cb1ab9c",
- "chars": 64753,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/652/007_السنن الإلهية 07 ｜ سنة النصر والتمكين ｜ أحمد السيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/652/007_السنن الإلهية 07 ｜ سنة النصر والتمكين ｜ أحمد السيد.txt",
-   "sha256": "8aa58a4038f7798e8f60f1120f3a3623d805a0513ef9cb3b4c7c4751759b6a2d",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:iPTgb9rWAj4",
+  "vid": "iPTgb9rWAj4",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--652",
+  "n": 7,
+  "n_src": "mutfile",
+  "title": "السنن الإلهية 07 ｜ سنة النصر والتمكين ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "8aa58a4038f7798e8f60f1120f3a3623d805a0513ef9cb3b4c7c4751759b6a2d",
+  "nh": "58c8e57f187be9f65d7c95e660e1fcd72db4d2fad434eab325797fcd8cb1ab9c",
+  "chars": 64753,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/652/007_السنن الإلهية 07 ｜ سنة النصر والتمكين ｜ أحمد السيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/sonanIlahiya-007/transcript.txt",
-   "sha256": "79d14b48c1949c962b4ff2af4775b0424ecdb9e9811b0ae0f7d2506909167e3f",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-652/007.txt",
-   "sha256": "79d14b48c1949c962b4ff2af4775b0424ecdb9e9811b0ae0f7d2506909167e3f",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/652/007_السنن الإلهية 07 ｜ سنة النصر والتمكين ｜ أحمد السيد.txt",
+      "sha256": "8aa58a4038f7798e8f60f1120f3a3623d805a0513ef9cb3b4c7c4751759b6a2d",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/sonanIlahiya-007/transcript.txt",
+      "sha256": "79d14b48c1949c962b4ff2af4775b0424ecdb9e9811b0ae0f7d2506909167e3f",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-652/007.txt",
+      "sha256": "79d14b48c1949c962b4ff2af4775b0424ecdb9e9811b0ae0f7d2506909167e3f",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9991,
+    "spoken_align_pct": 99.91,
+    "audio_span_pct": 99.91,
+    "words": 11755,
+    "aligned": 11741,
+    "interpolated": 10,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 03:16"
   }
- ],
- "variants": [],
- "also_in": []
 }
