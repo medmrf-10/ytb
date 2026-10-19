@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:YKaAYyNzmIU",
- "vid": "YKaAYyNzmIU",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--653",
- "n": 10,
- "n_src": "mutfile",
- "title": "يوم الفرقان... يوم بدر العظيم 10 ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "b28f60a8ee0eb160f0c39a9df6ddcd034c83d5609ec39d2b46568830d9e4d8fc",
- "nh": "0a7f752d1a2725dc1e70127f6d79d9a92412f88d811b3a9123e5d4167ef62950",
- "chars": 19472,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/653/010_يوم الفرقان... يوم بدر العظيم 10 ｜ أحمد السيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/653/010_يوم الفرقان... يوم بدر العظيم 10 ｜ أحمد السيد.txt",
-   "sha256": "b28f60a8ee0eb160f0c39a9df6ddcd034c83d5609ec39d2b46568830d9e4d8fc",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:YKaAYyNzmIU",
+  "vid": "YKaAYyNzmIU",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--653",
+  "n": 10,
+  "n_src": "mutfile",
+  "title": "يوم الفرقان... يوم بدر العظيم 10 ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "b28f60a8ee0eb160f0c39a9df6ddcd034c83d5609ec39d2b46568830d9e4d8fc",
+  "nh": "0a7f752d1a2725dc1e70127f6d79d9a92412f88d811b3a9123e5d4167ef62950",
+  "chars": 19472,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/653/010_يوم الفرقان... يوم بدر العظيم 10 ｜ أحمد السيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/yawmElfur9an-010/transcript.txt",
-   "sha256": "9406dc8837fc80943a5667e7214ed48fd62cb5359320eac7a417284ac2ce114d",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-653/010.txt",
-   "sha256": "9406dc8837fc80943a5667e7214ed48fd62cb5359320eac7a417284ac2ce114d",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/653/9.txt",
-   "sha256": "b28f60a8ee0eb160f0c39a9df6ddcd034c83d5609ec39d2b46568830d9e4d8fc",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/653/010_يوم الفرقان... يوم بدر العظيم 10 ｜ أحمد السيد.txt",
+      "sha256": "b28f60a8ee0eb160f0c39a9df6ddcd034c83d5609ec39d2b46568830d9e4d8fc",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/yawmElfur9an-010/transcript.txt",
+      "sha256": "9406dc8837fc80943a5667e7214ed48fd62cb5359320eac7a417284ac2ce114d",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-653/010.txt",
+      "sha256": "9406dc8837fc80943a5667e7214ed48fd62cb5359320eac7a417284ac2ce114d",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/653/9.txt",
+      "sha256": "b28f60a8ee0eb160f0c39a9df6ddcd034c83d5609ec39d2b46568830d9e4d8fc",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9986,
+    "spoken_align_pct": 99.86,
+    "audio_span_pct": 99.94,
+    "words": 3620,
+    "aligned": 3615,
+    "interpolated": 5,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 07:58"
   }
- ],
- "variants": [],
- "also_in": []
 }
