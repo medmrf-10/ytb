@@ -1,37 +1,53 @@
 {
- "v": 1,
- "lid": "yt:BsPHAo_9nw0",
- "vid": "BsPHAo_9nw0",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--674",
- "n": 16,
- "n_src": "mutfile",
- "title": "سوية المؤمن 16 ｜ العفو والصفح ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "a9ddbe5933aa669c2567b4ff223022e2ddcfc5780c1f10c7c0fe33e16c896d9e",
- "nh": "dd4cba54705fcd0efa629cd084a2a8d6ec56f3ed6a4e783f9f306bf6da00b433",
- "chars": 39028,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/674/016_سوية المؤمن 16 ｜ العفو والصفح ｜ أحمد السيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/674/016_سوية المؤمن 16 ｜ العفو والصفح ｜ أحمد السيد.txt",
-   "sha256": "a9ddbe5933aa669c2567b4ff223022e2ddcfc5780c1f10c7c0fe33e16c896d9e",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:BsPHAo_9nw0",
+  "vid": "BsPHAo_9nw0",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--674",
+  "n": 16,
+  "n_src": "mutfile",
+  "title": "سوية المؤمن 16 ｜ العفو والصفح ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "a9ddbe5933aa669c2567b4ff223022e2ddcfc5780c1f10c7c0fe33e16c896d9e",
+  "nh": "dd4cba54705fcd0efa629cd084a2a8d6ec56f3ed6a4e783f9f306bf6da00b433",
+  "chars": 39028,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/674/016_سوية المؤمن 16 ｜ العفو والصفح ｜ أحمد السيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-674/016.txt",
-   "sha256": "791ee23d86888c76cc8b15f834d886ad4c0a45b0917c741a2456de07a18a24fc",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/674/016_سوية المؤمن 16 ｜ العفو والصفح ｜ أحمد السيد.txt",
+      "sha256": "a9ddbe5933aa669c2567b4ff223022e2ddcfc5780c1f10c7c0fe33e16c896d9e",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-674/016.txt",
+      "sha256": "791ee23d86888c76cc8b15f834d886ad4c0a45b0917c741a2456de07a18a24fc",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9976,
+    "spoken_align_pct": 99.76,
+    "audio_span_pct": 99.88,
+    "words": 7411,
+    "aligned": 7393,
+    "interpolated": 18,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 00:17",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

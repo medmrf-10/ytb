@@ -1,37 +1,53 @@
 {
- "v": 1,
- "lid": "yt:7cdV5q7Q54M",
- "vid": "7cdV5q7Q54M",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--674",
- "n": 14,
- "n_src": "mutfile",
- "title": "سوية المؤمن 14 ｜ الأمان ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "a5693ae4d7b7045e58e582449351490722364557ba0b7cbc7aa10e4d2584be66",
- "nh": "e1fa8d6e79a7e0b91f13ecce4604ceae228fd744715bf9e4237cb5d91a4aeb37",
- "chars": 41145,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/674/014_سوية المؤمن 14 ｜ الأمان ｜ أحمد السيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/674/014_سوية المؤمن 14 ｜ الأمان ｜ أحمد السيد.txt",
-   "sha256": "a5693ae4d7b7045e58e582449351490722364557ba0b7cbc7aa10e4d2584be66",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:7cdV5q7Q54M",
+  "vid": "7cdV5q7Q54M",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--674",
+  "n": 14,
+  "n_src": "mutfile",
+  "title": "سوية المؤمن 14 ｜ الأمان ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "a5693ae4d7b7045e58e582449351490722364557ba0b7cbc7aa10e4d2584be66",
+  "nh": "e1fa8d6e79a7e0b91f13ecce4604ceae228fd744715bf9e4237cb5d91a4aeb37",
+  "chars": 41145,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/674/014_سوية المؤمن 14 ｜ الأمان ｜ أحمد السيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-674/014.txt",
-   "sha256": "c55b2fac89d7d6a8e49829be0876f978ce365e8142e7e692a5e0ad7e8129d962",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/674/014_سوية المؤمن 14 ｜ الأمان ｜ أحمد السيد.txt",
+      "sha256": "a5693ae4d7b7045e58e582449351490722364557ba0b7cbc7aa10e4d2584be66",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-674/014.txt",
+      "sha256": "c55b2fac89d7d6a8e49829be0876f978ce365e8142e7e692a5e0ad7e8129d962",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9979,
+    "spoken_align_pct": 99.79,
+    "audio_span_pct": 99.79,
+    "words": 7708,
+    "aligned": 7692,
+    "interpolated": 16,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 00:13",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
