@@ -1,0 +1,19 @@
+{
+  "dur_s": 2959.7,
+  "chars": 26725,
+  "words": 4752,
+  "wpm": 96.3,
+  "model": "gemini-3.8-flash-high",
+  "ok": true,
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9983,
+    "spoken_align_pct": 99.83,
+    "audio_span_pct": 100.0,
+    "words": 4752,
+    "aligned": 4685,
+    "interpolated": 8,
+    "at": "2026-10-18 11:08"
+  }
+}

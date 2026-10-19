@@ -1,8 +1,8 @@
 {
   "sheikhs": [
     {
-      "aligned": 132,
-      "chars": 20567250,
+      "aligned": 162,
+      "chars": 20562851,
       "lessons": 1165,
       "name": "محمد سعيد رمضان البوطي",
       "path": "said-bouti/",
@@ -10,8 +10,8 @@
       "slug": "said-bouti"
     },
     {
-      "aligned": 45,
-      "chars": 13966627,
+      "aligned": 51,
+      "chars": 13966250,
       "lessons": 648,
       "name": "محمد متولي الشعراوي",
       "path": "sharawi/",
@@ -19,8 +19,8 @@
       "slug": "sharawi"
     },
     {
-      "aligned": 36,
-      "chars": 9514772,
+      "aligned": 41,
+      "chars": 9515021,
       "lessons": 546,
       "name": "أدهم العاسمي",
       "path": "adham-alasimi/",
@@ -28,8 +28,8 @@
       "slug": "adham-alasimi"
     },
     {
-      "aligned": 122,
-      "chars": 18510092,
+      "aligned": 132,
+      "chars": 18512480,
       "lessons": 483,
       "name": "أحمد السيد",
       "path": "ahmed-alsayed/",
@@ -37,8 +37,8 @@
       "slug": "ahmed-alsayed"
     },
     {
-      "aligned": 22,
-      "chars": 6585250,
+      "aligned": 29,
+      "chars": 6585319,
       "lessons": 471,
       "name": "الحبيب علي الجفري",
       "path": "habib-ali-aljifri/",
@@ -46,7 +46,7 @@
       "slug": "habib-ali-aljifri"
     },
     {
-      "aligned": 244,
+      "aligned": 245,
       "chars": 3121252,
       "lessons": 460,
       "name": "فاضل السامرائي",
@@ -73,8 +73,8 @@
       "slug": "dhaker-alhashimi"
     },
     {
-      "aligned": 61,
-      "chars": 6208094,
+      "aligned": 70,
+      "chars": 6212061,
       "lessons": 343,
       "name": "محمد البردوني الحسيمي",
       "path": "bardouni-husaymi/",
@@ -82,13 +82,22 @@
       "slug": "bardouni-husaymi"
     },
     {
-      "aligned": 27,
-      "chars": 5290397,
+      "aligned": 37,
+      "chars": 5289108,
       "lessons": 276,
       "name": "علي جمعة",
       "path": "ali-gomaa/",
       "series": 14,
       "slug": "ali-gomaa"
+    },
+    {
+      "aligned": 74,
+      "chars": 7384344,
+      "lessons": 244,
+      "name": "محمد الحسن الددو",
+      "path": "daddo/",
+      "series": 17,
+      "slug": "daddo"
     },
     {
       "aligned": 15,
@@ -118,8 +127,8 @@
       "slug": "ali-hani-aqrabawi"
     },
     {
-      "aligned": 104,
-      "chars": 8762926,
+      "aligned": 105,
+      "chars": 8762876,
       "lessons": 130,
       "name": "أيمن عبد الرحيم",
       "path": "ayman-abdelrahim/",
@@ -218,11 +227,11 @@
     }
   ],
   "totals": {
-    "aligned": 964,
-    "chars": 148859137,
-    "lessons": 6345,
-    "series": 369,
-    "sheikhs": 24
+    "aligned": 1117,
+    "chars": 156244039,
+    "lessons": 6589,
+    "series": 386,
+    "sheikhs": 25
   },
   "v": 2
 }

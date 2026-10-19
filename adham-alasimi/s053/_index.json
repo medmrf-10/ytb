@@ -1,6 +1,6 @@
 {
-  "aligned": 5,
-  "aligned_ratio": 0.2632,
+  "aligned": 10,
+  "aligned_ratio": 0.5263,
   "category": "خطب ومواعظ",
   "coverage": 0.6786,
   "declared_total": 28,
@@ -17,8 +17,8 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
-      "chars": 16338,
+      "aligned": true,
+      "chars": 16361,
       "file": "004_50agVNkypMc.txt",
       "n": 4,
       "title": "",
@@ -44,8 +44,8 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
-      "chars": 16704,
+      "aligned": true,
+      "chars": 16763,
       "file": "007_WgXXCDPaHM8.txt",
       "n": 7,
       "title": "",
@@ -53,8 +53,8 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
-      "chars": 14288,
+      "aligned": true,
+      "chars": 14354,
       "file": "008_dHHEqkHZRFs.txt",
       "n": 8,
       "title": "",
@@ -71,8 +71,8 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
-      "chars": 15803,
+      "aligned": true,
+      "chars": 15862,
       "file": "010_zdB79SmLXg0.txt",
       "n": 10,
       "title": "",
@@ -134,8 +134,8 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
-      "chars": 20665,
+      "aligned": true,
+      "chars": 20707,
       "file": "020_ZG0LSKIBD0Q.txt",
       "n": 20,
       "title": "",

@@ -1,6 +1,6 @@
 {
-  "aligned": 2,
-  "aligned_ratio": 0.25,
+  "aligned": 8,
+  "aligned_ratio": 1.0,
   "category": "التفسير وعلوم القرآن",
   "coverage": 1.0,
   "declared_total": 8,
@@ -8,8 +8,8 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": false,
-      "chars": 14559,
+      "aligned": true,
+      "chars": 14408,
       "file": "001_GnyD9MDzDE8.txt",
       "n": 1,
       "title": "1 - محمد ﷺ في القرآن الكريم العلامة البوطي من هو محمد ﷺ في القرآن الكريم ؟",
@@ -17,8 +17,8 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
-      "chars": 13984,
+      "aligned": true,
+      "chars": 13833,
       "file": "002__BQ-FYRNviM.txt",
       "n": 2,
       "title": "2 - محمد ﷺ في القرآن الكريم العلامة البوطي وظائف النبي محمد ﷺ في القرآن الكريم",
@@ -26,8 +26,8 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
-      "chars": 14207,
+      "aligned": true,
+      "chars": 14056,
       "file": "003_IxScDDWPeXM.txt",
       "n": 3,
       "title": "3 - محمد ﷺ في القرآن الكريم العلامة البوطي أمّـيّـة النبي محمد ﷺ",
@@ -35,8 +35,8 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
-      "chars": 14209,
+      "aligned": true,
+      "chars": 14058,
       "file": "004_-joNgFlDBxc.txt",
       "n": 4,
       "title": "4 - محمد ﷺ في القرآن الكريم العلامة البوطي رسالة النبي محمد ﷺ",
@@ -44,8 +44,8 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
-      "chars": 3867,
+      "aligned": true,
+      "chars": 3716,
       "file": "005_0e-s36mciKw.txt",
       "n": 5,
       "title": "5 - محمد ﷺ في القرآن الكريم العلامة البوطي مكانة النبي محمد ﷺ عند الله",
@@ -53,7 +53,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 14900,
       "file": "006_T53sQ5Hjtew.txt",
       "n": 6,

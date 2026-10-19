@@ -1,6 +1,6 @@
 {
-  "aligned": 1,
-  "aligned_ratio": 0.2,
+  "aligned": 5,
+  "aligned_ratio": 1.0,
   "category": "أصول فقه",
   "coverage": 0.5,
   "declared_total": 10,
@@ -8,8 +8,8 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": false,
-      "chars": 39712,
+      "aligned": true,
+      "chars": 39434,
       "file": "005_8w4_rYQcy2o.txt",
       "n": 5,
       "title": "",
@@ -26,8 +26,8 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
-      "chars": 19062,
+      "aligned": true,
+      "chars": 19042,
       "file": "007_ZdO8jcpsYeQ.txt",
       "n": 7,
       "title": "",
@@ -35,8 +35,8 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
-      "chars": 19287,
+      "aligned": true,
+      "chars": 19128,
       "file": "008_-3w-0GVubMg.txt",
       "n": 8,
       "title": "",
@@ -44,8 +44,8 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
-      "chars": 20915,
+      "aligned": true,
+      "chars": 20802,
       "file": "010_BAB2kGGkM4Y.txt",
       "n": 10,
       "title": "",

@@ -1,6 +1,6 @@
 {
-  "aligned": 5,
-  "aligned_ratio": 0.5,
+  "aligned": 10,
+  "aligned_ratio": 1.0,
   "category": "التفسير وعلوم القرآن",
   "coverage": 1.0,
   "declared_total": 10,
@@ -35,8 +35,8 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
-      "chars": 27261,
+      "aligned": true,
+      "chars": 27216,
       "file": "004_kyztpA7lzWc.txt",
       "n": 4,
       "title": "",
@@ -44,8 +44,8 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
-      "chars": 27312,
+      "aligned": true,
+      "chars": 27168,
       "file": "005_tJ6ZjcsZoYs.txt",
       "n": 5,
       "title": "",
@@ -53,8 +53,8 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
-      "chars": 26165,
+      "aligned": true,
+      "chars": 26112,
       "file": "006_vUeUioKHPvE.txt",
       "n": 6,
       "title": "",
@@ -80,8 +80,8 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
-      "chars": 29154,
+      "aligned": true,
+      "chars": 29012,
       "file": "009_kzQHf6QV0VQ.txt",
       "n": 9,
       "title": "",
@@ -89,8 +89,8 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
-      "chars": 34608,
+      "aligned": true,
+      "chars": 34586,
       "file": "010_rCwOZZEMhTk.txt",
       "n": 10,
       "title": "",
