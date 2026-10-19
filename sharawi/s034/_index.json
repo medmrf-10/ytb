@@ -1,6 +1,6 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 5,
+  "aligned_ratio": 0.5,
   "category": "التفسير وعلوم القرآن",
   "coverage": 1.0,
   "declared_total": 10,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 34537,
       "file": "001_f0n8xXYPadE.txt",
       "n": 1,
@@ -17,7 +17,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 27103,
       "file": "002_bYaED84n79w.txt",
       "n": 2,
@@ -26,7 +26,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 26590,
       "file": "003_JnjBKKHjHy0.txt",
       "n": 3,
@@ -62,7 +62,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 25488,
       "file": "007_gV7rJV1GJj8.txt",
       "n": 7,
@@ -71,7 +71,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 25410,
       "file": "008_RYL7wAZV6IU.txt",
       "n": 8,

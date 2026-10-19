@@ -1,6 +1,6 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 10,
+  "aligned_ratio": 1.0,
   "category": "التزكية والتصوف",
   "coverage": 1.0,
   "declared_total": 10,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 12694,
       "file": "001_1xGzpXE68PM.txt",
       "n": 1,
@@ -17,7 +17,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 13652,
       "file": "002_qTWPYlIy4S0.txt",
       "n": 2,
@@ -26,7 +26,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 13055,
       "file": "003_NZhSO9vjRw0.txt",
       "n": 3,
@@ -35,7 +35,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 15504,
       "file": "004_wYNIQlRGZVY.txt",
       "n": 4,
@@ -44,7 +44,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 13239,
       "file": "005_cgxO-FGo8ek.txt",
       "n": 5,
@@ -53,7 +53,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 11120,
       "file": "006_oAX6ylTz9G4.txt",
       "n": 6,
@@ -62,7 +62,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 17052,
       "file": "007_VQUZLMesIG8.txt",
       "n": 7,
@@ -71,7 +71,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 13967,
       "file": "008_ZLp2T_c4GGU.txt",
       "n": 8,
@@ -80,7 +80,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 14008,
       "file": "009_oWa0SSMIpiQ.txt",
       "n": 9,
@@ -89,7 +89,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 12545,
       "file": "010_F8fHdBSDak4.txt",
       "n": 10,

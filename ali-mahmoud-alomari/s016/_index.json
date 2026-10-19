@@ -1,6 +1,6 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 6,
+  "aligned_ratio": 1.0,
   "category": "محاضرات ولقاءات",
   "coverage": 1.0,
   "declared_total": 6,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 53636,
       "file": "001_I_VgNwF0MHk.txt",
       "n": 1,
@@ -17,7 +17,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 49375,
       "file": "002_Xp0mKMYsZGo.txt",
       "n": 2,
@@ -26,7 +26,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 27159,
       "file": "003_pEL9yKeSyWs.txt",
       "n": 3,
@@ -35,7 +35,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 45377,
       "file": "004_8PRCf-iVj38.txt",
       "n": 4,
@@ -44,7 +44,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 19452,
       "file": "005_ZASIP_0asCQ.txt",
       "n": 5,
@@ -53,7 +53,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 19640,
       "file": "006_nIGTLyvY11A.txt",
       "n": 6,

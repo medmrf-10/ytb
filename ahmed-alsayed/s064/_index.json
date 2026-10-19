@@ -1,6 +1,6 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 7,
+  "aligned_ratio": 0.875,
   "category": "سلسلة علمية",
   "coverage": 1.0,
   "declared_total": 8,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 23325,
       "file": "001_T_bnmtTj7T4.txt",
       "n": 1,
@@ -17,7 +17,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 58898,
       "file": "002_x1c6EPVdVfM.txt",
       "n": 2,
@@ -26,7 +26,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 42360,
       "file": "003_R-ubp8KpmNA.txt",
       "n": 3,
@@ -44,7 +44,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 44050,
       "file": "005_sKBwC3pncjs.txt",
       "n": 5,
@@ -53,7 +53,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 44683,
       "file": "006_DSz8YbP5RBo.txt",
       "n": 6,
@@ -62,7 +62,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 50287,
       "file": "007_Vkswj_xnAbo.txt",
       "n": 7,
@@ -71,7 +71,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 46738,
       "file": "008_UaTKLmy8cpk.txt",
       "n": 8,

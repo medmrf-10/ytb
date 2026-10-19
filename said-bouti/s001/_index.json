@@ -1,6 +1,6 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 1,
+  "aligned_ratio": 0.005,
   "category": "التفسير وعلوم القرآن",
   "coverage": 1.0,
   "declared_total": 200,
@@ -683,7 +683,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 20077,
       "file": "076_g_rMyXFLb8Y.txt",
       "n": 76,

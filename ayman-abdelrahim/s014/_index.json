@@ -1,6 +1,6 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 9,
+  "aligned_ratio": 1.0,
   "category": "اللغة العربية واللسانيات",
   "coverage": 1.0,
   "declared_total": 9,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 24594,
       "file": "001_hthr4W3Dzek.txt",
       "n": 1,
@@ -17,7 +17,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 41658,
       "file": "002_ff4PGBY4wQA.txt",
       "n": 2,
@@ -26,7 +26,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 33136,
       "file": "003_KRA6pMZmH4c.txt",
       "n": 3,
@@ -35,7 +35,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 23778,
       "file": "004_0xhJrqVQe4k.txt",
       "n": 4,
@@ -44,7 +44,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 18670,
       "file": "005_7r8sHbfmGbg.txt",
       "n": 5,
@@ -53,7 +53,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 10320,
       "file": "006_4ggWQ-fvfxo.txt",
       "n": 6,
@@ -62,7 +62,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 7969,
       "file": "007_u1wSG2TJ3H8.txt",
       "n": 7,
@@ -71,7 +71,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 8024,
       "file": "008_KXnz_39agmY.txt",
       "n": 8,
@@ -80,7 +80,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 21451,
       "file": "009_VywSynf-vFk.txt",
       "n": 9,

@@ -1,6 +1,6 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 2,
+  "aligned_ratio": 0.0065,
   "category": "التزكية والتصوف",
   "coverage": 1.0,
   "declared_total": 310,
@@ -413,7 +413,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 17635,
       "file": "046_AtT9uZuXMu0.txt",
       "n": 46,
@@ -971,7 +971,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 22289,
       "file": "108_TpV_TXGY6Ug.txt",
       "n": 108,

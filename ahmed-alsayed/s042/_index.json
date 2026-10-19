@@ -1,6 +1,6 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 2,
+  "aligned_ratio": 0.1111,
   "category": "سلسلة علمية",
   "coverage": 1.0,
   "declared_total": 18,
@@ -62,7 +62,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 69887,
       "file": "007_Bi85yMR-DQs.txt",
       "n": 7,
@@ -98,7 +98,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 59934,
       "file": "011_bNilHPirbpo.txt",
       "n": 11,

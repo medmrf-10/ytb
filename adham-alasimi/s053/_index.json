@@ -1,6 +1,6 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 5,
+  "aligned_ratio": 0.2632,
   "category": "خطب ومواعظ",
   "coverage": 0.6786,
   "declared_total": 28,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 15086,
       "file": "003_TxOm2BEmzGw.txt",
       "n": 3,
@@ -26,7 +26,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 15635,
       "file": "005_8GAh-csAU3c.txt",
       "n": 5,
@@ -89,7 +89,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 14402,
       "file": "012_QYoVIApGSTs.txt",
       "n": 12,
@@ -116,7 +116,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 16167,
       "file": "017_MA8PRuEjCv4.txt",
       "n": 17,
@@ -143,7 +143,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 17090,
       "file": "021_7y8OmCpxqcg.txt",
       "n": 21,

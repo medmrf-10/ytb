@@ -1,6 +1,6 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 3,
+  "aligned_ratio": 0.0968,
   "category": "تفسير وتدبر",
   "coverage": 1.0,
   "declared_total": 31,
@@ -134,7 +134,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 34384,
       "file": "015_eX3x9iJD8kA.txt",
       "n": 15,
@@ -251,7 +251,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 42286,
       "file": "028_NpEo-EOo_4o.txt",
       "n": 28,
@@ -269,7 +269,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 50182,
       "file": "030_9E8HKCM8MFU.txt",
       "n": 30,

@@ -1,6 +1,6 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 11,
+  "aligned_ratio": 1.0,
   "category": "تزكية",
   "coverage": 1.0,
   "declared_total": 11,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 17625,
       "file": "001_LCNjrswRZZQ.txt",
       "n": 1,
@@ -17,7 +17,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 30329,
       "file": "002_1a-d-OelZY4.txt",
       "n": 2,
@@ -26,7 +26,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 38056,
       "file": "003_Pgjbf0fcm8g.txt",
       "n": 3,
@@ -35,7 +35,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 31266,
       "file": "004_4vorbnHbcXo.txt",
       "n": 4,
@@ -44,7 +44,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 24416,
       "file": "005_eFN78L__7Tk.txt",
       "n": 5,
@@ -53,7 +53,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 35125,
       "file": "006_cjs1e2-BGGE.txt",
       "n": 6,
@@ -62,7 +62,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 30823,
       "file": "007_m6RG-sDxjUA.txt",
       "n": 7,
@@ -71,7 +71,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 29108,
       "file": "008_90zdks5HjWg.txt",
       "n": 8,
@@ -80,7 +80,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 20266,
       "file": "009_TdWjrmFSIW0.txt",
       "n": 9,
@@ -89,7 +89,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 20389,
       "file": "010_5_IIclvE-M8.txt",
       "n": 10,
@@ -98,7 +98,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 50,
       "file": "011_P1Juiwj9oXY.txt",
       "n": 11,

@@ -1,6 +1,6 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 3,
+  "aligned_ratio": 1.0,
   "category": "تزكية",
   "coverage": 1.0,
   "declared_total": 3,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 36446,
       "file": "001_n1rJK8ZFGiM.txt",
       "n": 1,
@@ -17,7 +17,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 16706,
       "file": "002_3oOAOj3mcMw.txt",
       "n": 2,
@@ -26,7 +26,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 21950,
       "file": "003_Qq4m3yl9enc.txt",
       "n": 3,

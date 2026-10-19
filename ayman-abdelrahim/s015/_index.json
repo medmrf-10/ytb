@@ -1,6 +1,6 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 3,
+  "aligned_ratio": 1.0,
   "category": "اللغة العربية واللسانيات",
   "coverage": 1.0,
   "declared_total": 3,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 25992,
       "file": "001_iudu3om6zD4.txt",
       "n": 1,
@@ -17,7 +17,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 51710,
       "file": "002_NVOoJpfh3A8.txt",
       "n": 2,
@@ -26,7 +26,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 20135,
       "file": "003_2Hm-1aZCnuE.txt",
       "n": 3,

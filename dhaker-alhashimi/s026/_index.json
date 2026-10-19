@@ -1,6 +1,6 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 3,
+  "aligned_ratio": 1.0,
   "category": "مجالس القرآن والتفسير",
   "coverage": 1.0,
   "declared_total": 3,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 82537,
       "file": "001__PqvhVr8B3I.txt",
       "n": 1,
@@ -17,7 +17,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 86191,
       "file": "002_zN7e1uYXWzQ.txt",
       "n": 2,
@@ -26,7 +26,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 94796,
       "file": "003_dnd9Y-XxrNY.txt",
       "n": 3,

@@ -1,6 +1,6 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 12,
+  "aligned_ratio": 1.0,
   "category": "التفسير والبيان القرآني (حسب السور)",
   "coverage": 1.0,
   "declared_total": 12,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 3245,
       "file": "001_WdmUWAxcTCM.txt",
       "n": 1,
@@ -17,7 +17,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 4182,
       "file": "002_u0uruJsnQKE.txt",
       "n": 2,
@@ -26,7 +26,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 2467,
       "file": "003_lj8uySt16oU.txt",
       "n": 3,
@@ -35,7 +35,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 2830,
       "file": "004_6p2OMLZGnBo.txt",
       "n": 4,
@@ -44,7 +44,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 2889,
       "file": "005_xA6yo_wUeyY.txt",
       "n": 5,
@@ -53,7 +53,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 1965,
       "file": "006_LxEfK-ezosA.txt",
       "n": 6,
@@ -62,7 +62,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 2261,
       "file": "007_6TcXlaUB-3I.txt",
       "n": 7,
@@ -71,7 +71,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 445,
       "file": "008_FanyFs9rljc.txt",
       "n": 8,
@@ -80,7 +80,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 5961,
       "file": "009_QUaughA7u_M.txt",
       "n": 9,
@@ -89,7 +89,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 2331,
       "file": "010_NgAleQxfUYQ.txt",
       "n": 10,
@@ -98,7 +98,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 1999,
       "file": "011_MgMFGT1gEb8.txt",
       "n": 11,
@@ -107,7 +107,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 3280,
       "file": "012_Mws37acWhqc.txt",
       "n": 12,

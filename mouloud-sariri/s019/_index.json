@@ -1,6 +1,6 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 3,
+  "aligned_ratio": 1.0,
   "category": "أصول الفقه ومقاصد الشريعة",
   "coverage": 1.0,
   "declared_total": 3,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 17788,
       "file": "001_1yDzH-8Thiw.txt",
       "n": 1,
@@ -17,7 +17,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 16077,
       "file": "002_YO-J6c_t0o0.txt",
       "n": 2,
@@ -26,7 +26,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 18097,
       "file": "003_gtu0X9svPDY.txt",
       "n": 3,

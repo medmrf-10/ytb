@@ -1,6 +1,6 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 12,
+  "aligned_ratio": 1.0,
   "category": "شرح علمي",
   "coverage": 1.0,
   "declared_total": 12,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 26912,
       "file": "001_Ll8wlhWsEXo.txt",
       "n": 1,
@@ -17,7 +17,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 58766,
       "file": "002_vVef5koEMTU.txt",
       "n": 2,
@@ -26,7 +26,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 82822,
       "file": "003_K2WJVn13_JU.txt",
       "n": 3,
@@ -35,7 +35,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 38175,
       "file": "004_cA-ngDumApI.txt",
       "n": 4,
@@ -44,7 +44,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 27981,
       "file": "005_rqY-634SKGI.txt",
       "n": 5,
@@ -53,7 +53,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 44520,
       "file": "006_A9jh1c4ljoA.txt",
       "n": 6,
@@ -62,7 +62,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 39370,
       "file": "007_Zx_VtviIhao.txt",
       "n": 7,
@@ -71,7 +71,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 37475,
       "file": "008_4VMyqulToPA.txt",
       "n": 8,
@@ -80,7 +80,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 33647,
       "file": "009_8vZ-Bq-9pHY.txt",
       "n": 9,
@@ -89,7 +89,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 40725,
       "file": "010_ATqHrK8JO4k.txt",
       "n": 10,
@@ -98,7 +98,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 38977,
       "file": "011_q3oqPKObTDs.txt",
       "n": 11,
@@ -107,7 +107,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 47424,
       "file": "012_Fj7bb_mjHl8.txt",
       "n": 12,

@@ -1,6 +1,6 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 3,
+  "aligned_ratio": 0.1304,
   "category": "البلاغة وعلم الوضع",
   "coverage": 1.0,
   "declared_total": 23,
@@ -62,7 +62,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 12488,
       "file": "007_hnyjlmRqZSs.txt",
       "n": 7,
@@ -125,7 +125,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 15758,
       "file": "014_ux_hocepN2o.txt",
       "n": 14,
@@ -206,7 +206,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 13838,
       "file": "023_pUyIKyYH2vQ.txt",
       "n": 23,

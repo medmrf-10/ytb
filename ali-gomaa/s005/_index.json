@@ -1,6 +1,6 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 1,
+  "aligned_ratio": 0.2,
   "category": "أصول فقه",
   "coverage": 0.5,
   "declared_total": 10,
@@ -17,7 +17,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 15987,
       "file": "006_nMLZAzlFhUI.txt",
       "n": 6,

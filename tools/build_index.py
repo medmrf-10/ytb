@@ -385,13 +385,29 @@ def main():
             cur = open(path, encoding="utf-8").read()
             if cur != exp_content:
                 mismatches.append(f"Mismatch in: {path}")
-        # Also verify zero backup directories inside YTB
-        for root, dirs, _ in os.walk(YTB):
+        # Also verify zero backup directories, zero orphan .align.json, and coupled word-count equality (len(x) == len(txt.split()))
+        for root, dirs, files in os.walk(YTB):
             if ".git" in dirs:
                 dirs.remove(".git")
-            for bad in ("_raw_preamble_backup", "_truncated_legacy_backup", "_archive_legacy"):
+            for bad in ("_raw_preamble_backup", "_truncated_legacy_backup", "_archive_legacy", "_fix", "_inbox"):
                 if bad in dirs:
-                    mismatches.append(f"Forbidden backup dir inside repo: {os.path.join(root, bad)}")
+                    mismatches.append(f"Forbidden backup/legacy dir inside repo: {os.path.join(root, bad)}")
+            for fn in files:
+                if fn.endswith(".align.json"):
+                    stem = fn[:-len(".align.json")]
+                    tf = os.path.join(root, stem + ".txt")
+                    af = os.path.join(root, fn)
+                    if not os.path.isfile(tf):
+                        mismatches.append(f"Orphan .align.json without .txt: {af}")
+                    else:
+                        try:
+                            ad = json.load(open(af, encoding="utf-8"))
+                            aw = len(ad.get("x", ad.get("words", [])))
+                            tw = len(open(tf, encoding="utf-8", errors="replace").read().split())
+                            if aw != tw:
+                                mismatches.append(f"Coupled word-count mismatch in {af}: txt={tw} vs align={aw}")
+                        except Exception as e:
+                            mismatches.append(f"Corrupt .align.json {af}: {e}")
         if mismatches:
             print(f"FAILED ({len(mismatches)} issues):", file=sys.stderr)
             for m in mismatches[:15]:

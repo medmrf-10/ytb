@@ -1,6 +1,6 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 2,
+  "aligned_ratio": 0.1,
   "category": "تفسير وتدبر",
   "coverage": 1.0,
   "declared_total": 20,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 22608,
       "file": "001_q_G5W5ftZwo.txt",
       "n": 1,
@@ -107,7 +107,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 13111,
       "file": "012_nKmi2JbTETc.txt",
       "n": 12,
