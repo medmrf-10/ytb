@@ -4,5 +4,30 @@
   "words": 20655,
   "wpm": 162.2,
   "model": "gemini-3.8-flash-high",
-  "ok": true
+  "ok": true,
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9153,
+    "spoken_align_pct": 91.53,
+    "audio_span_pct": 99.92,
+    "words": 20655,
+    "aligned": 18885,
+    "interpolated": 1748,
+    "retried_without_silence_compact": true,
+    "local_agc_applied": true,
+    "at": "2026-10-19 08:29",
+    "low_coverage_diagnosis": {
+      "spoken_align_pct": 91.53,
+      "interpolated_words": 1748,
+      "unaligned_clusters_count": 9,
+      "max_cluster_words": 25,
+      "wpm": 162.0,
+      "audio_span_pct": 99.92,
+      "forced_steps": 0,
+      "causes": [
+        "TEXT_HALLUCINATION_OR_CHUNK_REPEAT(clusters=9, max_run=25w @ 2176.14s: «في اه كلمة بردى، ذكر عين الفيجة، فهي تغذي نهر الـ نهر»)"
+      ]
+    }
+  }
 }
