@@ -1,15 +1,15 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 2,
+  "aligned_ratio": 0.125,
   "category": "التزكية والتصوف",
   "coverage": 1.0,
   "declared_total": 16,
   "key": "s007",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 34503,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 34425,
       "dur": 3979,
       "file": "001_pBvfBNnfEFU.txt",
       "n": 1,
@@ -18,9 +18,9 @@
       "vid": "pBvfBNnfEFU"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 21116,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 21056,
       "dur": 2295,
       "file": "002_G5n5sONJDio.txt",
       "n": 2,

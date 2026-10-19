@@ -1,6 +1,6 @@
 {
-  "aligned": 9,
-  "aligned_ratio": 0.5625,
+  "aligned": 16,
+  "aligned_ratio": 1.0,
   "category": "تزكية وأخلاق",
   "coverage": 1.0,
   "declared_total": 16,
@@ -106,9 +106,9 @@
       "vid": "8-xAkSfPoiE"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 31767,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 31682,
       "dur": 3724,
       "file": "010_BkvcVbsGmTs.txt",
       "n": 10,
@@ -117,9 +117,9 @@
       "vid": "BkvcVbsGmTs"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 26722,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 26668,
       "dur": 3383,
       "file": "011_ufPpJvT0F-A.txt",
       "n": 11,
@@ -128,8 +128,8 @@
       "vid": "ufPpJvT0F-A"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 23426,
       "dur": 3029,
       "file": "012_aLObNIhRJKg.txt",
@@ -139,10 +139,10 @@
       "vid": "aLObNIhRJKg"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 25328,
-      "dur": 2867,
+      "dur": 2868,
       "file": "013_V2JkXud6JnQ.txt",
       "n": 13,
       "stem": "013_V2JkXud6JnQ",
@@ -150,10 +150,10 @@
       "vid": "V2JkXud6JnQ"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 37132,
-      "dur": 4202,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 36960,
+      "dur": 4203,
       "file": "014_SGGG9stF9jQ.txt",
       "n": 14,
       "stem": "014_SGGG9stF9jQ",
@@ -161,10 +161,10 @@
       "vid": "SGGG9stF9jQ"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 33374,
-      "dur": 4002,
+      "dur": 4003,
       "file": "015_Tbg0q2N85x8.txt",
       "n": 15,
       "stem": "015_Tbg0q2N85x8",
@@ -172,10 +172,10 @@
       "vid": "Tbg0q2N85x8"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 22287,
-      "dur": 3167,
+      "dur": 3168,
       "file": "016_-ixgHg8IRAY.txt",
       "n": 16,
       "stem": "016_-ixgHg8IRAY",
