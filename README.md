@@ -9,7 +9,7 @@
 - **المشايخ ذوو المحتوى الفعلي:** 25 شيخاً
 - **السلاسل المفرّغة:** 386 سلسلة
 - **الدروس المفرّغة نصياً (`.txt`):** 6,589 درساً
-- **الدروس المحاذاة صوتياً (`.align.json`):** 1,630 درساً
+- **الدروس المحاذاة صوتياً (`.align.json`):** 1,639 درساً
 - **إجمالي الحجم النصي:** 156,220,090 حرفاً
 
 ---
@@ -30,7 +30,7 @@
 | 10 | علي جمعة | `ali-gomaa` | 14 | 276 | 51 | [`ali-gomaa/`](./ali-gomaa/) |
 | 11 | محمد الحسن الددو | `daddo` | 17 | 244 | 74 | [`daddo/`](./daddo/) |
 | 12 | علي محمود العمري | `ali-mahmoud-alomari` | 18 | 241 | 59 | [`ali-mahmoud-alomari/`](./ali-mahmoud-alomari/) |
-| 13 | مولود السريري | `mouloud-sariri` | 17 | 214 | 57 | [`mouloud-sariri/`](./mouloud-sariri/) |
+| 13 | مولود السريري | `mouloud-sariri` | 17 | 214 | 66 | [`mouloud-sariri/`](./mouloud-sariri/) |
 | 14 | علي هاني العقرباوي | `ali-hani-aqrabawi` | 14 | 197 | 64 | [`ali-hani-aqrabawi/`](./ali-hani-aqrabawi/) |
 | 15 | أيمن عبد الرحيم | `ayman-abdelrahim` | 20 | 130 | 119 | [`ayman-abdelrahim/`](./ayman-abdelrahim/) |
 | 16 | معاذ سعيد حوى | `maath-hawa` | 7 | 92 | 70 | [`maath-hawa/`](./maath-hawa/) |
