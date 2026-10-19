@@ -1,6 +1,6 @@
 {
-  "aligned": 5,
-  "aligned_ratio": 0.7143,
+  "aligned": 7,
+  "aligned_ratio": 1.0,
   "category": "المنهجية وطلب العلم",
   "coverage": 1.0,
   "declared_total": 7,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 95546,
       "file": "001_9gCpGnUUPBE.txt",
       "n": 1,
@@ -44,7 +44,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 77005,
       "file": "005_6pbBLHFXSC8.txt",
       "n": 5,

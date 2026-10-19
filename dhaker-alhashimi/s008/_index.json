@@ -1,6 +1,6 @@
 {
-  "aligned": 6,
-  "aligned_ratio": 0.75,
+  "aligned": 8,
+  "aligned_ratio": 1.0,
   "category": "فقه النفس والتزكية",
   "coverage": 1.0,
   "declared_total": 8,
@@ -17,7 +17,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 95628,
       "file": "002_9nHOqGyaKdk.txt",
       "n": 2,
@@ -44,7 +44,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 56253,
       "file": "005_9EQXrIWADOo.txt",
       "n": 5,
