@@ -1591,7 +1591,7 @@
       "slug": "adham-alasimi"
     },
     {
-      "aligned": 159,
+      "aligned": 161,
       "chars": 18511942,
       "lessons": 483,
       "name": "أحمد السيد",
@@ -1894,14 +1894,14 @@
           "transcribed": 13
         },
         {
-          "aligned": 11,
-          "aligned_pct": "84.6%",
+          "aligned": 13,
+          "aligned_pct": "100.0%",
           "category": "سلسلة علمية",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 13,
           "dir": "s060/",
-          "dur": 52561,
+          "dur": 52562,
           "key": "s060",
           "series_id": "sayed__s060",
           "title": "بوصلة المصلح",
@@ -4221,8 +4221,8 @@
       "slug": "daddo"
     },
     {
-      "aligned": 16,
-      "chars": 6972743,
+      "aligned": 21,
+      "chars": 6972268,
       "lessons": 241,
       "name": "علي محمود العمري",
       "path": "ali-mahmoud-alomari/",
@@ -4272,14 +4272,14 @@
           "transcribed": 14
         },
         {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
+          "aligned": 5,
+          "aligned_pct": "38.5%",
           "category": "العقيدة وعلم الكلام",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 13,
           "dir": "s004/",
-          "dur": 58782,
+          "dur": 58779,
           "key": "s004",
           "series_id": "omari__s004",
           "title": "مقدمة شرح العقائد النسفية للتفتازاني",
@@ -5706,8 +5706,8 @@
     }
   ],
   "totals": {
-    "aligned": 1230,
-    "chars": 156241663,
+    "aligned": 1237,
+    "chars": 156241188,
     "lessons": 6589,
     "series": 386,
     "sheikhs": 25
