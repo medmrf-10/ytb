@@ -1,15 +1,15 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 2,
+  "aligned_ratio": 0.1429,
   "category": "المنطق والفلسفة",
   "coverage": 1.0,
   "declared_total": 14,
   "key": "s009",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 24679,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 24639,
       "dur": 3004,
       "file": "001_CyVe-ZLQ1pE.txt",
       "n": 1,
@@ -18,10 +18,10 @@
       "vid": "CyVe-ZLQ1pE"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 36555,
-      "dur": 4724,
+      "dur": 4723,
       "file": "002_GRCgJYr_1xk.txt",
       "n": 2,
       "stem": "002_GRCgJYr_1xk",
