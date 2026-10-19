@@ -1,6 +1,6 @@
 {
-  "aligned": 3,
-  "aligned_ratio": 0.2308,
+  "aligned": 12,
+  "aligned_ratio": 0.9231,
   "category": "سلسلة علمية",
   "coverage": 1.0,
   "declared_total": 13,
@@ -51,8 +51,8 @@
       "vid": "VxMVCqN1dRo"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 35571,
       "dur": 3560,
       "file": "005_VfO-HzUrUjg.txt",
@@ -62,10 +62,10 @@
       "vid": "VfO-HzUrUjg"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 30005,
-      "dur": 2948,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 29840,
+      "dur": 2949,
       "file": "006_QNTaFDAI-Ms.txt",
       "n": 6,
       "stem": "006_QNTaFDAI-Ms",
@@ -73,8 +73,8 @@
       "vid": "QNTaFDAI-Ms"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 60346,
       "dur": 5368,
       "file": "007_INvf_QNgRuw.txt",
@@ -84,8 +84,8 @@
       "vid": "INvf_QNgRuw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 36393,
       "dur": 3526,
       "file": "008_o9ZbARePG2g.txt",
@@ -95,8 +95,8 @@
       "vid": "o9ZbARePG2g"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 46515,
       "dur": 4495,
       "file": "009_ygVo7i92ZYw.txt",
@@ -106,8 +106,8 @@
       "vid": "ygVo7i92ZYw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 39195,
       "dur": 3972,
       "file": "010_nvBkECreYH8.txt",
@@ -117,10 +117,10 @@
       "vid": "nvBkECreYH8"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 61676,
-      "dur": 5011,
+      "dur": 5012,
       "file": "011_QmIxJPNDmBM.txt",
       "n": 11,
       "stem": "011_QmIxJPNDmBM",
@@ -128,10 +128,10 @@
       "vid": "QmIxJPNDmBM"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 26801,
-      "dur": 2555,
+      "dur": 2556,
       "file": "012_VNfPcg2OC4s.txt",
       "n": 12,
       "stem": "012_VNfPcg2OC4s",
@@ -139,8 +139,8 @@
       "vid": "VNfPcg2OC4s"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 34932,
       "dur": 3598,
       "file": "013_DPwwMKwbQZ8.txt",
