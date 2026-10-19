@@ -241,14 +241,14 @@
       "transcribed": 17
     },
     {
-      "aligned": 1,
-      "aligned_pct": "7.7%",
+      "aligned": 13,
+      "aligned_pct": "100.0%",
       "category": "التفسير وعلوم القرآن",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
       "declared_total": 13,
       "dir": "s023/",
-      "dur": 32766,
+      "dur": 32774,
       "key": "s023",
       "series_id": "shaarawy__s023",
       "title": "تفسير سورة النور",
@@ -677,8 +677,8 @@
   ],
   "slug": "sharawi",
   "totals": {
-    "aligned": 80,
-    "chars": 13965253,
+    "aligned": 92,
+    "chars": 13964548,
     "lessons": 648,
     "series": 48
   },

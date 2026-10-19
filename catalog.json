@@ -489,8 +489,8 @@
       "slug": "said-bouti"
     },
     {
-      "aligned": 80,
-      "chars": 13965253,
+      "aligned": 92,
+      "chars": 13964548,
       "lessons": 648,
       "name": "محمد متولي الشعراوي",
       "path": "sharawi/",
@@ -736,14 +736,14 @@
           "transcribed": 17
         },
         {
-          "aligned": 1,
-          "aligned_pct": "7.7%",
+          "aligned": 13,
+          "aligned_pct": "100.0%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 13,
           "dir": "s023/",
-          "dur": 32766,
+          "dur": 32774,
           "key": "s023",
           "series_id": "shaarawy__s023",
           "title": "تفسير سورة النور",
@@ -1591,7 +1591,7 @@
       "slug": "adham-alasimi"
     },
     {
-      "aligned": 136,
+      "aligned": 139,
       "chars": 18512480,
       "lessons": 483,
       "name": "أحمد السيد",
@@ -1880,8 +1880,8 @@
           "transcribed": 18
         },
         {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
+          "aligned": 3,
+          "aligned_pct": "23.1%",
           "category": "سلسلة علمية",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
@@ -4735,8 +4735,8 @@
       "slug": "mouloud-sariri"
     },
     {
-      "aligned": 36,
-      "chars": 5290064,
+      "aligned": 49,
+      "chars": 5289952,
       "lessons": 197,
       "name": "علي هاني العقرباوي",
       "path": "ali-hani-aqrabawi/",
@@ -4744,14 +4744,14 @@
       "series": 14,
       "series_list": [
         {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
+          "aligned": 13,
+          "aligned_pct": "100.0%",
           "category": "النحو والإعراب",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 13,
           "dir": "s002/",
-          "dur": 39243,
+          "dur": 39244,
           "key": "s002",
           "series_id": "alihani__s002",
           "title": "نحو (1-ب): شرح كتاب مبادئ دروس العربية لمحمد محيي الدين عبد الحميد (الشرح الثاني المطول)",
@@ -5706,8 +5706,8 @@
     }
   ],
   "totals": {
-    "aligned": 1182,
-    "chars": 156243018,
+    "aligned": 1210,
+    "chars": 156242201,
     "lessons": 6589,
     "series": 386,
     "sheikhs": 25
