@@ -1,34 +1,50 @@
 {
- "v": 1,
- "lid": "yt:QYinHaUet2U",
- "vid": "QYinHaUet2U",
- "sheikh": "sharawi",
- "row_id": "sharawi--571",
- "n": 5,
- "n_src": "playlist",
- "title": "الشيخ الشعراوي | تفسير سورة الأنفال، (آية ٢٤-٢٧)",
- "title_src": "youtube",
- "sha256": "2ad120713859a7b2985878eb6461f8b170a0509599d9f64c17587a5db7411302",
- "chars": 27037,
- "quality": "ok",
- "winner": {
-  "store": "ytb-transcribe",
-  "path": "ytb/sharawi/571/005_QYinHaUet2U.txt",
-  "model": "gemini-3.8-flash-high"
- },
- "sources": [
-  {
-   "store": "youtube",
-   "path": "https://youtu.be/QYinHaUet2U",
-   "rel": "source"
+  "v": 1,
+  "lid": "yt:QYinHaUet2U",
+  "vid": "QYinHaUet2U",
+  "sheikh": "sharawi",
+  "row_id": "sharawi--571",
+  "n": 5,
+  "n_src": "playlist",
+  "title": "الشيخ الشعراوي | تفسير سورة الأنفال، (آية ٢٤-٢٧)",
+  "title_src": "youtube",
+  "sha256": "2ad120713859a7b2985878eb6461f8b170a0509599d9f64c17587a5db7411302",
+  "chars": 27037,
+  "quality": "ok",
+  "winner": {
+    "store": "ytb-transcribe",
+    "path": "ytb/sharawi/571/005_QYinHaUet2U.txt",
+    "model": "gemini-3.8-flash-high"
+  },
+  "sources": [
+    {
+      "store": "youtube",
+      "path": "https://youtu.be/QYinHaUet2U",
+      "rel": "source"
+    }
+  ],
+  "series": "sharawi--571",
+  "series_slug": "sharawi--571",
+  "lesson_no": 5,
+  "yt": "QYinHaUet2U",
+  "transcribed": "2026-10-15 19:22:33",
+  "audio": "ytb-build/audio/sharawi--571/005.mp3",
+  "job": "agy+gemini عبر agy",
+  "usage_tail": ": None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 89.054, \"Gemini Models / Five Hour Limit Remaining\": 68.102, \"Claude and GPT models / Weekly Limit Remaining\": 8.07, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.142, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Weekly Limit Remaining\": 0.035}\nchars: 27036 | words: 4885\nduplicate 8/12-gram runs: 12\nwrote /root/workspace/ytb/sharawi/571/005_QYinHaUet2U.txt\n",
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9965,
+    "spoken_align_pct": 99.65,
+    "audio_span_pct": 99.91,
+    "words": 4870,
+    "aligned": 4840,
+    "interpolated": 17,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 18:57",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "series": "sharawi--571",
- "series_slug": "sharawi--571",
- "lesson_no": 5,
- "yt": "QYinHaUet2U",
- "transcribed": "2026-10-15 19:22:33",
- "audio": "ytb-build/audio/sharawi--571/005.mp3",
- "job": "agy+gemini عبر agy",
- "usage_tail": ": None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 89.054, \"Gemini Models / Five Hour Limit Remaining\": 68.102, \"Claude and GPT models / Weekly Limit Remaining\": 8.07, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.142, \"Claude and GPT models / Five Hour Limit Remaining\": 0, \"Gemini Models / Weekly Limit Remaining\": 0.035}\nchars: 27036 | words: 4885\nduplicate 8/12-gram runs: 12\nwrote /root/workspace/ytb/sharawi/571/005_QYinHaUet2U.txt\n"
 }

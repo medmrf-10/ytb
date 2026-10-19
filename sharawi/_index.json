@@ -87,8 +87,8 @@
       "transcribed": 2
     },
     {
-      "aligned": 4,
-      "aligned_pct": "26.7%",
+      "aligned": 7,
+      "aligned_pct": "46.7%",
       "category": "التفسير وعلوم القرآن",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
@@ -283,14 +283,14 @@
       "transcribed": 43
     },
     {
-      "aligned": 12,
-      "aligned_pct": "85.7%",
+      "aligned": 14,
+      "aligned_pct": "100.0%",
       "category": "التفسير وعلوم القرآن",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
       "declared_total": 14,
       "dir": "s026/",
-      "dur": 22951,
+      "dur": 22950,
       "key": "s026",
       "series_id": "shaarawy__s026",
       "title": "تفسير سورة النمل",
@@ -677,8 +677,8 @@
   ],
   "slug": "sharawi",
   "totals": {
-    "aligned": 150,
-    "chars": 13962018,
+    "aligned": 155,
+    "chars": 13961707,
     "lessons": 648,
     "series": 48
   },
