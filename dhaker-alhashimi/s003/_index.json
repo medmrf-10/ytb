@@ -1,6 +1,6 @@
 {
-  "aligned": 7,
-  "aligned_ratio": 0.5385,
+  "aligned": 12,
+  "aligned_ratio": 0.9231,
   "category": "فقه النفس والتزكية",
   "coverage": 1.0,
   "declared_total": 13,
@@ -73,9 +73,9 @@
       "vid": "3wSZ2h7uxO4"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 54347,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 54240,
       "dur": 5565,
       "file": "007_jPunfYDJOaM.txt",
       "n": 7,
@@ -95,8 +95,8 @@
       "vid": "80KIzngzFVU"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 59192,
       "dur": 5320,
       "file": "009_uxPCMbGRbfA.txt",
@@ -106,10 +106,10 @@
       "vid": "uxPCMbGRbfA"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 63024,
-      "dur": 5714,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 62633,
+      "dur": 5715,
       "file": "010_UkNjlS3qjAs.txt",
       "n": 10,
       "stem": "010_UkNjlS3qjAs",
@@ -117,9 +117,9 @@
       "vid": "UkNjlS3qjAs"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 64102,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 63910,
       "dur": 5995,
       "file": "011_NS2FHvkJMQs.txt",
       "n": 11,
@@ -128,9 +128,9 @@
       "vid": "NS2FHvkJMQs"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 49370,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 49150,
       "dur": 4540,
       "file": "012_4vOzDfunDSs.txt",
       "n": 12,
