@@ -1,6 +1,6 @@
 {
-  "aligned": 12,
-  "aligned_ratio": 0.9231,
+  "aligned": 13,
+  "aligned_ratio": 1.0,
   "category": "فقه النفس والتزكية",
   "coverage": 1.0,
   "declared_total": 13,
@@ -139,8 +139,8 @@
       "vid": "4vOzDfunDSs"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 64992,
       "dur": 6080,
       "file": "013_i6syDBkNmR0.txt",

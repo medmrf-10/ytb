@@ -9,8 +9,8 @@
 - **المشايخ ذوو المحتوى الفعلي:** 25 شيخاً
 - **السلاسل المفرّغة:** 386 سلسلة
 - **الدروس المفرّغة نصياً (`.txt`):** 6,589 درساً
-- **الدروس المحاذاة صوتياً (`.align.json`):** 1,257 درساً
-- **إجمالي الحجم النصي:** 156,239,059 حرفاً
+- **الدروس المحاذاة صوتياً (`.align.json`):** 1,294 درساً
+- **إجمالي الحجم النصي:** 156,238,979 حرفاً
 
 ---
 
@@ -23,9 +23,9 @@
 | 3 | أدهم العاسمي | `adham-alasimi` | 29 | 546 | 41 | [`adham-alasimi/`](./adham-alasimi/) |
 | 4 | أحمد السيد | `ahmed-alsayed` | 34 | 483 | 161 | [`ahmed-alsayed/`](./ahmed-alsayed/) |
 | 5 | الحبيب علي الجفري | `habib-ali-aljifri` | 23 | 471 | 30 | [`habib-ali-aljifri/`](./habib-ali-aljifri/) |
-| 6 | فاضل السامرائي | `fadhel-samarrai` | 42 | 460 | 254 | [`fadhel-samarrai/`](./fadhel-samarrai/) |
+| 6 | فاضل السامرائي | `fadhel-samarrai` | 42 | 460 | 290 | [`fadhel-samarrai/`](./fadhel-samarrai/) |
 | 7 | الحبيب عمر بن حفيظ | `habib-omar-ibn-hafiz` | 15 | 450 | 28 | [`habib-omar-ibn-hafiz/`](./habib-omar-ibn-hafiz/) |
-| 8 | ذاكر الهاشمي | `dhaker-alhashimi` | 20 | 348 | 40 | [`dhaker-alhashimi/`](./dhaker-alhashimi/) |
+| 8 | ذاكر الهاشمي | `dhaker-alhashimi` | 20 | 348 | 41 | [`dhaker-alhashimi/`](./dhaker-alhashimi/) |
 | 9 | محمد البردوني الحسيمي | `bardouni-husaymi` | 16 | 343 | 70 | [`bardouni-husaymi/`](./bardouni-husaymi/) |
 | 10 | علي جمعة | `ali-gomaa` | 14 | 276 | 37 | [`ali-gomaa/`](./ali-gomaa/) |
 | 11 | محمد الحسن الددو | `daddo` | 17 | 244 | 74 | [`daddo/`](./daddo/) |

@@ -1,15 +1,15 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 8,
+  "aligned_ratio": 0.5714,
   "category": "التفسير والبيان القرآني (حسب السور)",
   "coverage": 1.0,
   "declared_total": 14,
   "key": "s060",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 41115,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 41055,
       "dur": 4046,
       "file": "001_4IOrMEbdgwk.txt",
       "n": 1,
@@ -18,9 +18,9 @@
       "vid": "4IOrMEbdgwk"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 34709,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 34689,
       "dur": 3235,
       "file": "002_9ji2Vhn8Q58.txt",
       "n": 2,
@@ -29,8 +29,8 @@
       "vid": "9ji2Vhn8Q58"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 3040,
       "dur": 342,
       "file": "003_S2T7jWgwHoM.txt",
@@ -40,10 +40,10 @@
       "vid": "S2T7jWgwHoM"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 547,
-      "dur": 59,
+      "dur": 60,
       "file": "004_V6aa-UVyVkI.txt",
       "n": 4,
       "stem": "004_V6aa-UVyVkI",
@@ -51,8 +51,8 @@
       "vid": "V6aa-UVyVkI"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 997,
       "dur": 109,
       "file": "005_UHbtEfA2i_o.txt",
@@ -62,8 +62,8 @@
       "vid": "UHbtEfA2i_o"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 584,
       "dur": 60,
       "file": "006_Z_RShSQDuDY.txt",
@@ -73,10 +73,10 @@
       "vid": "Z_RShSQDuDY"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 247,
-      "dur": 30,
+      "dur": 31,
       "file": "007_xn0p71c8hf0.txt",
       "n": 7,
       "stem": "007_xn0p71c8hf0",
@@ -84,10 +84,10 @@
       "vid": "xn0p71c8hf0"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 4500,
-      "dur": 472,
+      "dur": 473,
       "file": "008_pJnqseR3-_I.txt",
       "n": 8,
       "stem": "008_pJnqseR3-_I",
