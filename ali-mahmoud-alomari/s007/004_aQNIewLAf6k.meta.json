@@ -1,43 +1,59 @@
 {
- "v": 1,
- "lid": "yt:aQNIewLAf6k",
- "vid": "aQNIewLAf6k",
- "sheikh": "ali-mahmoud-alomari",
- "row_id": "ali-mahmoud-alomari--alamri-adab-murid",
- "n": 8,
- "n_src": "trfile",
- "title": "رسالة آداب سلوك المريد_ المجلس الرابع _ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي.",
- "title_src": "yt_titles",
- "sha256": "1eb3c64ac1515c580f0d05b557680fb00157689d0e0e2de1e95dba93a6dd2785",
- "nh": "5af3d17f8be5131ab987c3215d70a9d4b9224ce37e31e274861e9775d825d361",
- "chars": 26367,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/alamriAdabMurid-008/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/alamriAdabMurid-008/transcript.txt",
-   "sha256": "1eb3c64ac1515c580f0d05b557680fb00157689d0e0e2de1e95dba93a6dd2785",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:aQNIewLAf6k",
+  "vid": "aQNIewLAf6k",
+  "sheikh": "ali-mahmoud-alomari",
+  "row_id": "ali-mahmoud-alomari--alamri-adab-murid",
+  "n": 8,
+  "n_src": "trfile",
+  "title": "رسالة آداب سلوك المريد_ المجلس الرابع _ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي.",
+  "title_src": "yt_titles",
+  "sha256": "1eb3c64ac1515c580f0d05b557680fb00157689d0e0e2de1e95dba93a6dd2785",
+  "nh": "5af3d17f8be5131ab987c3215d70a9d4b9224ce37e31e274861e9775d825d361",
+  "chars": 26367,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/alamriAdabMurid-008/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alamri/adab-murid/adab-murid-08_AlAmri.txt",
-   "sha256": "1eb3c64ac1515c580f0d05b557680fb00157689d0e0e2de1e95dba93a6dd2785",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alamri-adab-murid/08.txt",
-   "sha256": "1eb3c64ac1515c580f0d05b557680fb00157689d0e0e2de1e95dba93a6dd2785",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/alamriAdabMurid-008/transcript.txt",
+      "sha256": "1eb3c64ac1515c580f0d05b557680fb00157689d0e0e2de1e95dba93a6dd2785",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alamri/adab-murid/adab-murid-08_AlAmri.txt",
+      "sha256": "1eb3c64ac1515c580f0d05b557680fb00157689d0e0e2de1e95dba93a6dd2785",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alamri-adab-murid/08.txt",
+      "sha256": "1eb3c64ac1515c580f0d05b557680fb00157689d0e0e2de1e95dba93a6dd2785",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9986,
+    "spoken_align_pct": 99.86,
+    "audio_span_pct": 99.98,
+    "words": 5077,
+    "aligned": 5070,
+    "interpolated": 7,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 21:21",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
