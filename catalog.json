@@ -489,8 +489,8 @@
       "slug": "said-bouti"
     },
     {
-      "aligned": 110,
-      "chars": 13964031,
+      "aligned": 120,
+      "chars": 13963837,
       "lessons": 648,
       "name": "محمد متولي الشعراوي",
       "path": "sharawi/",
@@ -708,14 +708,14 @@
           "transcribed": 18
         },
         {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
+          "aligned": 2,
+          "aligned_pct": "14.3%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 14,
           "dir": "s020/",
-          "dur": 33443,
+          "dur": 33444,
           "key": "s020",
           "series_id": "shaarawy__s020",
           "title": "تفسير سورة الأنبياء",
@@ -932,14 +932,14 @@
           "transcribed": 12
         },
         {
-          "aligned": 6,
-          "aligned_pct": "42.9%",
+          "aligned": 14,
+          "aligned_pct": "100.0%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 14,
           "dir": "s037/",
-          "dur": 23451,
+          "dur": 23447,
           "key": "s037",
           "series_id": "shaarawy__s037",
           "title": "تفسير سورة ص",
@@ -5706,8 +5706,8 @@
     }
   ],
   "totals": {
-    "aligned": 1332,
-    "chars": 156238462,
+    "aligned": 1342,
+    "chars": 156238268,
     "lessons": 6589,
     "series": 386,
     "sheikhs": 25
