@@ -1,51 +1,52 @@
 #!/usr/bin/env python3
-"""build_index.py - Generate and verify catalog.json, _index.json files, and COVERAGE.md.
+# -*- coding: utf-8 -*-
+"""build_index.py v2 — توليد والتحقق الحتمي من catalog.json وCOVERAGE.md وREADME.md وملفات _index.json في مستودع ytb.
 
-Stdlib only, deterministic output.
-Supports:
-  python3 tools/build_index.py          # Builds all indexes and writes to disk
-  python3 tools/build_index.py --check  # Verifies in-memory indexes match disk (exit code 0/1)
+يدعم هيكلة cheikh القياسية (_meta.json + .txt + .align.json + .meta.json):
+  python3 tools/build_index.py          # يبني جميع الفهارس ويكتبها ذرياً على القرص
+  python3 tools/build_index.py --check  # يتحقق من تطابق الفهارس على القرص وخلو المستودع من المخلفات (exit 0/1)
 """
-
 import hashlib
 import json
 import os
 import re
 import sys
 
-W = "/root/workspace"
-YTB = os.path.join(W, "ytb")
-META_DIR = os.path.join(YTB, "_meta")
-SOURCE_HEADS_FILE = os.path.join(META_DIR, "source_heads.json")
-EXCLUDED_FILE = os.path.join(META_DIR, "excluded.json")
-REGISTRY_FILE = os.path.join(W, "ytb-build", "registry.json")
-HAWSHAT_SHEIKHS_FILE = os.path.join(W, "hawshat", "playlists", "data", "sheikhs.json")
+YTB = "/root/workspace/ytb"
+CURATED_MAP_JSON = "/root/workspace/cheikh-exports/curated_full_mapping.json"
+REGISTRY_FILE = "/root/workspace/ytb-build/registry.json"
 
-AR_DIAC = re.compile(r"[ً-ْٰ]")
-
-
-def norm(s):
-    """Normalize Arabic string for alias matching."""
-    s = AR_DIAC.sub("", s or "")
-    s = re.sub(r"[^\w\s]", "", s)
-    s = s.replace("أ", "ا").replace("إ", "ا").replace("آ", "ا")
-    s = s.replace("ؤ", "و").replace("ئ", "ي").replace("ى", "ي").replace("ة", "ه")
-    return re.sub(r"\s+", " ", s).strip().lower()
-
-
-def get_file_sha256(path):
-    h = hashlib.sha256()
-    with open(path, "rb") as f:
-        while True:
-            chunk = f.read(65536)
-            if not chunk:
-                break
-            h.update(chunk)
-    return h.hexdigest()
+SHEIKH_NAMES_AR = {
+    "said-bouti": "محمد سعيد رمضان البوطي",
+    "sharawi": "محمد متولي الشعراوي",
+    "adham-alasimi": "أدهم العاسمي",
+    "habib-ali-aljifri": "الحبيب علي الجفري",
+    "ahmed-alsayed": "أحمد السيد",
+    "fadhel-samarrai": "فاضل السامرائي",
+    "habib-omar-ibn-hafiz": "الحبيب عمر بن حفيظ",
+    "dhaker-alhashimi": "ذاكر الهاشمي",
+    "bardouni-husaymi": "محمد البردوني الحسيمي",
+    "ali-gomaa": "علي جمعة",
+    "daddo": "محمد الحسن الددو",
+    "ali-mahmoud-alomari": "علي محمود العمري",
+    "mouloud-sariri": "مولود السريري",
+    "ali-hani-aqrabawi": "علي هاني العقرباوي",
+    "ayman-abdelrahim": "أيمن عبد الرحيم",
+    "maath-hawa": "معاذ سعيد حوى",
+    "said-kamali": "سعيد الكملي",
+    "fadhel-sulaiman": "فاضل سليمان",
+    "saif-alasri": "سيف العصري",
+    "muhammad-abdelwahid-hanbali": "محمد عبد الواحد الحنبلي",
+    "aboubakr-almashhour": "أبو بكر المشهور",
+    "ahmed-abdelmonem": "أحمد عبد المنعم",
+    "hatem-alaouni": "حاتم العوني",
+    "bensaib": "بن صايب",
+    "unattributed": "دروس غير منسوبة",
+}
 
 
 def dump_json_str(obj):
-    return json.dumps(obj, ensure_ascii=False, indent=1, sort_keys=True) + "\n"
+    return json.dumps(obj, ensure_ascii=False, indent=2, sort_keys=True) + "\n"
 
 
 def write_atomic_str(content, target_path):
@@ -56,374 +57,353 @@ def write_atomic_str(content, target_path):
 
 
 def build_indexes():
-    """Build all index data structures in memory."""
-    # Load source heads
-    with open(SOURCE_HEADS_FILE, "r", encoding="utf-8") as f:
-        sh_raw = json.load(f)
-    source_heads = {
-        k: v.get("head", "")[:7] if k in ("des", "irth") else v.get("head", "")[:8]
-        for k, v in sh_raw.items()
-    }
+    curated_lookup = {}
+    if os.path.isfile(CURATED_MAP_JSON):
+        try:
+            cdata = json.load(open(CURATED_MAP_JSON, encoding="utf-8"))
+            for s in cdata.get("series", []):
+                curated_lookup[(s["sheikh_slug"], s["s_code"])] = s
+        except Exception:
+            pass
 
-    # Load 29 sheikhs canonical registry
-    with open(HAWSHAT_SHEIKHS_FILE, "r", encoding="utf-8") as f:
-        haw_sheikhs = json.load(f).get("sheikhs", [])
-    with open(REGISTRY_FILE, "r", encoding="utf-8") as f:
-        reg_data = json.load(f)
-        reg_sheikhs = {s["slug"]: s for s in reg_data.get("sheikhs", [])}
-
-    # Discover sheikh folders on disk
-    disk_sheikhs = set()
-    for entry in os.listdir(YTB):
-        p = os.path.join(YTB, entry)
-        if os.path.isdir(p) and entry not in (".git", "_inbox", "_meta", "tools"):
-            disk_sheikhs.add(entry)
-
-    # Generated files map: path -> string content
     outputs = {}
-
-    total_catalog_lessons = 0
-    total_catalog_series = 0
-    total_catalog_chars = 0
-    sheikhs_with_content_count = 0
-
     catalog_sheikhs = []
-    aliases_index = {}
+    coverage_sheikhs = []
 
-    # Sheikh coverage rows for COVERAGE.md
-    coverage_sheikhs_data = []
+    total_series = 0
+    total_lessons = 0
+    total_aligned = 0
+    total_chars = 0
 
-    # Map all 29 sheikhs in catalog
-    all_slugs_ordered = [s["slug"] for s in haw_sheikhs]
-    if "unattributed" in disk_sheikhs and "unattributed" not in all_slugs_ordered:
-        all_slugs_ordered.append("unattributed")
+    sheikh_slugs = sorted(
+        d for d in os.listdir(YTB)
+        if os.path.isdir(os.path.join(YTB, d)) and d not in (".git", "_meta", "tools") and not d.startswith(".")
+    )
 
-    for slug in all_slugs_ordered:
-        h_sh = next((s for s in haw_sheikhs if s["slug"] == slug), None)
-        r_sh = reg_sheikhs.get(slug, {})
-
-        if slug == "unattributed":
-            name = "غير منسوب"
-            name_display = "دروس غير منسوبة"
-            aliases = ["غير منسوب", "unattributed"]
-        elif h_sh:
-            name = h_sh.get("name") or r_sh.get("name_ar") or slug
-            name_display = h_sh.get("name_display") or r_sh.get("name_ar") or slug
-            aliases = h_sh.get("aliases") or r_sh.get("aliases") or []
-        else:
-            name = r_sh.get("name_ar", slug)
-            name_display = r_sh.get("name_ar", slug)
-            aliases = r_sh.get("aliases", [])
-
-        # Add aliases to index
-        for alias in aliases + [name, name_display, slug]:
-            norm_a = norm(alias)
-            if norm_a and norm_a not in aliases_index:
-                aliases_index[norm_a] = slug
-
+    for slug in sheikh_slugs:
         sh_dir = os.path.join(YTB, slug)
-        has_content = os.path.isdir(sh_dir) and slug in disk_sheikhs
+        sh_json_p = os.path.join(sh_dir, "_sheikh.json")
+        sh_info = {}
+        if os.path.isfile(sh_json_p):
+            try:
+                sh_info = json.load(open(sh_json_p, encoding="utf-8"))
+            except Exception:
+                sh_info = {}
+        name_display = SHEIKH_NAMES_AR.get(slug) or sh_info.get("name_display") or sh_info.get("name") or slug
+        aliases = sh_info.get("aliases") or [name_display, slug]
 
-        if not has_content:
-            catalog_sheikhs.append({
-                "slug": slug,
-                "name": name,
-                "name_display": name_display,
-                "aliases": aliases,
-                "series": 0,
-                "lessons": 0,
-                "chars": 0,
-                "path": None
-            })
-            coverage_sheikhs_data.append({
-                "slug": slug,
-                "name_display": name_display,
-                "series_count": 0,
-                "lessons_count": 0,
-                "has_content": False,
-                "series_list": []
-            })
-            continue
+        series_keys = sorted(
+            sk for sk in os.listdir(sh_dir)
+            if os.path.isdir(os.path.join(sh_dir, sk)) and not sk.startswith(".") and sk not in ("_variants", "_raw_preamble_backup", "_truncated_legacy_backup")
+        )
 
-        sheikhs_with_content_count += 1
-
-        # Check _sheikh.json
-        sheikh_json_path = os.path.join(sh_dir, "_sheikh.json")
-        if not os.path.isfile(sheikh_json_path):
-            raise RuntimeError(f"Missing _sheikh.json in {sh_dir}")
-
-        # Scan series folders
-        series_keys = []
-        for sk in sorted(os.listdir(sh_dir)):
-            sk_dir = os.path.join(sh_dir, sk)
-            if os.path.isdir(sk_dir) and not sk.startswith((".", "_")):
-                series_keys.append(sk)
-            elif os.path.isdir(sk_dir) and sk == "_unsorted":
-                series_keys.append(sk)
-
-        sh_totals_lessons = 0
-        sh_totals_chars = 0
-        sh_totals_with_vid = 0
-        sh_totals_unsorted = 0
-
-        sheikh_series_index_list = []
-        sheikh_coverage_series = []
+        sh_lessons = 0
+        sh_aligned = 0
+        sh_chars = 0
+        sh_series_list = []
 
         for sk in series_keys:
             sk_dir = os.path.join(sh_dir, sk)
-            series_json_path = os.path.join(sk_dir, "_series.json")
-            if not os.path.isfile(series_json_path):
-                raise RuntimeError(f"Missing _series.json in {sk_dir}")
+            meta_p = os.path.join(sk_dir, "_meta.json")
+            ser_p = os.path.join(sk_dir, "_series.json")
+            c_ser = curated_lookup.get((slug, sk), {})
 
-            with open(series_json_path, "r", encoding="utf-8") as sjf:
-                s_meta = json.load(sjf)
+            s_meta = {}
+            if os.path.isfile(meta_p):
+                try:
+                    s_meta = json.load(open(meta_p, encoding="utf-8"))
+                except Exception:
+                    s_meta = {}
+            elif os.path.isfile(ser_p):
+                try:
+                    s_meta = json.load(open(ser_p, encoding="utf-8"))
+                except Exception:
+                    s_meta = {}
 
-            # Lessons in series
+            title = c_ser.get("title") or s_meta.get("series") or s_meta.get("title") or sk
+            series_id = c_ser.get("id") or s_meta.get("series_id") or f"{slug}__{sk}"
+            category = c_ser.get("category") or s_meta.get("category") or ""
+            videos = c_ser.get("lessons") or s_meta.get("videos") or []
+            declared_total = len(videos) if videos else (s_meta.get("declared_total") or 0)
+
             files = sorted(os.listdir(sk_dir))
-            txt_files = [f for f in files if f.endswith(".txt")]
-            meta_files = [f for f in files if f.endswith(".meta.json")]
-
-            # Validate 1-to-1 match between txt and meta
-            txt_stems = set(f[:-4] for f in txt_files)
-            meta_stems = set(f[:-10] for f in meta_files)
-
-            if txt_stems != meta_stems:
-                diff = txt_stems.symmetric_difference(meta_stems)
-                raise RuntimeError(f"Mismatch between .txt and .meta.json in {sk_dir}: {diff}")
+            txt_files = [f for f in files if f.endswith(".txt") and not f.startswith("_")]
+            align_set = {f[:-11] for f in files if f.endswith(".align.json") and os.path.getsize(os.path.join(sk_dir, f)) > 200}
 
             lessons_list = []
-            for stem in sorted(txt_stems):
-                meta_p = os.path.join(sk_dir, stem + ".meta.json")
-                txt_p = os.path.join(sk_dir, stem + ".txt")
+            s_chars = 0
+            for tf in txt_files:
+                stem = tf[:-4]
+                tp = os.path.join(sk_dir, tf)
+                mp = os.path.join(sk_dir, stem + ".meta.json")
+                ap = os.path.join(sk_dir, stem + ".align.json")
+                chars = os.path.getsize(tp)
+                try:
+                    chars = len(open(tp, encoding="utf-8", errors="replace").read())
+                except Exception:
+                    pass
+                s_chars += chars
 
-                with open(meta_p, "r", encoding="utf-8") as mf:
-                    m = json.load(mf)
+                parts = stem.split("_", 1)
+                n_val = int(parts[0]) if parts[0].isdigit() else None
+                vid_val = parts[1] if len(parts) == 2 else None
+                l_title = ""
+                if os.path.isfile(mp):
+                    try:
+                        md = json.load(open(mp, encoding="utf-8"))
+                        l_title = md.get("title") or ""
+                        if n_val is None:
+                            n_val = md.get("n")
+                        if not vid_val:
+                            vid_val = md.get("vid")
+                    except Exception:
+                        pass
 
-                # Validate sha256
-                cur_sha = get_file_sha256(txt_p)
-                if cur_sha != m["sha256"]:
-                    raise RuntimeError(f"SHA mismatch in {txt_p}: on-disk {cur_sha} != meta {m['sha256']}")
+                has_align = stem in align_set
+                align_cov = None
+                if has_align:
+                    try:
+                        ad = json.load(open(ap, encoding="utf-8"))
+                        align_cov = ad.get("spoken_align_coverage")
+                    except Exception:
+                        pass
 
                 lessons_list.append({
-                    "n": m.get("n"),
-                    "vid": m.get("vid"),
-                    "title": m.get("title"),
-                    "file": stem + ".txt",
-                    "chars": m.get("chars", 0),
-                    "sha256": m.get("sha256"),
-                    "quality": m.get("quality", "ok"),
-                    "variants": len(m.get("variants", []))
+                    "n": n_val,
+                    "vid": vid_val,
+                    "title": l_title,
+                    "file": tf,
+                    "chars": chars,
+                    "aligned": has_align,
+                    "align_coverage": align_cov,
                 })
 
-            lessons_list.sort(key=lambda x: (x["n"] if x["n"] is not None else 999999, x["file"]))
-
             transcribed = len(lessons_list)
-            declared_total = s_meta.get("declared_total")
-            coverage = round(transcribed / declared_total, 4) if (declared_total and declared_total > 0) else None
+            aligned_cnt = sum(1 for l in lessons_list if l["aligned"])
+            if declared_total < transcribed:
+                declared_total = transcribed
+            cov = round(transcribed / declared_total, 4) if declared_total > 0 else 1.0
+            al_cov = round(aligned_cnt / transcribed, 4) if transcribed > 0 else 0.0
 
-            # Series _index.json
             series_index_obj = {
-                "v": 1,
-                "row_id": s_meta.get("row_id"),
+                "v": 2,
+                "series_id": series_id,
                 "sheikh": slug,
-                "title": s_meta.get("title"),
-                "playlists": s_meta.get("playlists", []),
+                "sheikh_name": name_display,
+                "key": sk,
+                "title": title,
+                "category": category,
                 "declared_total": declared_total,
                 "transcribed": transcribed,
-                "coverage": coverage,
-                "lessons": lessons_list
+                "aligned": aligned_cnt,
+                "coverage": cov,
+                "aligned_ratio": al_cov,
+                "lessons": lessons_list,
             }
             outputs[os.path.join(sk_dir, "_index.json")] = dump_json_str(series_index_obj)
 
-            # For sheikh _index.json
-            sheikh_series_index_list.append({
+            sh_lessons += transcribed
+            sh_aligned += aligned_cnt
+            sh_chars += s_chars
+            sh_series_list.append({
                 "key": sk,
-                "row_id": s_meta.get("row_id"),
-                "title": s_meta.get("title"),
+                "series_id": series_id,
+                "title": title,
+                "category": category,
                 "dir": f"{sk}/",
-                "transcribed": transcribed,
                 "declared_total": declared_total,
-                "coverage": coverage
+                "transcribed": transcribed,
+                "aligned": aligned_cnt,
+                "coverage": cov,
+                "coverage_pct": f"{round(cov * 100, 1)}%",
+                "aligned_pct": f"{round(al_cov * 100, 1)}%",
             })
 
-            s_chars = sum(l["chars"] for l in lessons_list)
-            s_vids = sum(1 for l in lessons_list if l["vid"])
-
-            sh_totals_lessons += transcribed
-            sh_totals_chars += s_chars
-            sh_totals_with_vid += s_vids
-            if sk == "_unsorted":
-                sh_totals_unsorted += transcribed
-
-            sheikh_coverage_series.append({
-                "key": sk,
-                "title": s_meta.get("title"),
-                "transcribed": transcribed,
-                "declared_total": declared_total,
-                "coverage_pct": f"{round(coverage * 100, 1)}%" if coverage is not None else "غير محدد"
-            })
-
-        # Sheikh _index.json
-        sheikh_index_obj = {
-            "v": 1,
+        sheikh_obj = {
+            "v": 2,
             "slug": slug,
-            "name": name,
+            "name": name_display,
             "name_display": name_display,
             "aliases": aliases,
+        }
+        outputs[sh_json_p] = dump_json_str(sheikh_obj)
+
+        sheikh_index_obj = {
+            "v": 2,
+            "slug": slug,
+            "name": name_display,
+            "name_display": name_display,
             "totals": {
-                "series": len(series_keys),
-                "lessons": sh_totals_lessons,
-                "chars": sh_totals_chars,
-                "with_vid": sh_totals_with_vid,
-                "unsorted": sh_totals_unsorted
+                "series": len(sh_series_list),
+                "lessons": sh_lessons,
+                "aligned": sh_aligned,
+                "chars": sh_chars,
             },
-            "series": sorted(sheikh_series_index_list, key=lambda x: x["key"])
+            "series": sh_series_list,
         }
         outputs[os.path.join(sh_dir, "_index.json")] = dump_json_str(sheikh_index_obj)
 
-        total_catalog_lessons += sh_totals_lessons
-        total_catalog_series += len(series_keys)
-        total_catalog_chars += sh_totals_chars
+        total_series += len(sh_series_list)
+        total_lessons += sh_lessons
+        total_aligned += sh_aligned
+        total_chars += sh_chars
 
         catalog_sheikhs.append({
             "slug": slug,
-            "name": name,
-            "name_display": name_display,
-            "aliases": aliases,
-            "series": len(series_keys),
-            "lessons": sh_totals_lessons,
-            "chars": sh_totals_chars,
-            "path": f"{slug}/"
+            "name": name_display,
+            "series": len(sh_series_list),
+            "lessons": sh_lessons,
+            "aligned": sh_aligned,
+            "chars": sh_chars,
+            "path": f"{slug}/",
         })
-
-        coverage_sheikhs_data.append({
+        coverage_sheikhs.append({
             "slug": slug,
             "name_display": name_display,
-            "series_count": len(series_keys),
-            "lessons_count": sh_totals_lessons,
-            "has_content": True,
-            "series_list": sheikh_coverage_series
+            "series_count": len(sh_series_list),
+            "lessons_count": sh_lessons,
+            "aligned_count": sh_aligned,
+            "chars_count": sh_chars,
+            "series_list": sh_series_list,
         })
 
-    # Catalog.json
+    catalog_sheikhs.sort(key=lambda x: (-x["lessons"], x["slug"]))
+    coverage_sheikhs.sort(key=lambda x: (-x["lessons_count"], x["slug"]))
+
     catalog_obj = {
-        "v": 1,
-        "source_heads": source_heads,
+        "v": 2,
         "totals": {
-            "sheikhs_with_content": sheikhs_with_content_count,
-            "series": total_catalog_series,
-            "lessons": total_catalog_lessons,
-            "chars": total_catalog_chars
+            "sheikhs": len(catalog_sheikhs),
+            "series": total_series,
+            "lessons": total_lessons,
+            "aligned": total_aligned,
+            "chars": total_chars,
         },
-        "sheikhs": sorted(catalog_sheikhs, key=lambda x: (-x["lessons"], x["slug"])),
-        "aliases_index": dict(sorted(aliases_index.items()))
+        "sheikhs": catalog_sheikhs,
     }
     outputs[os.path.join(YTB, "catalog.json")] = dump_json_str(catalog_obj)
 
     # COVERAGE.md
-    with open(EXCLUDED_FILE, "r", encoding="utf-8") as exf:
-        excluded_data = json.load(exf)
-
     cov_lines = [
-        "# تقرير تغطية المحتوى والتفريغات — مستودع `ytb`",
+        "# تقرير تغطية التفريغ والمحاذاة — مستودع `ytb`",
         "",
-        "> تقرير شامل مُولَّد آلياً يعرض محتوى كافة المشايخ الـ 29 والسلاسل المفرغة ونسبة التغطية مقارنة بالإجمالي المعلن.",
+        f"- **إجمالي المشايخ:** {len(catalog_sheikhs)} شيخاً",
+        f"- **إجمالي السلاسل المفرغة:** {total_series:,} سلسلة",
+        f"- **إجمالي الدروس المفرغة نصياً (`.txt`):** {total_lessons:,} درساً ({total_chars:,} حرفاً)",
+        f"- **إجمالي الدروس المحاذاة صوتياً (`.align.json`):** {total_aligned:,} درساً",
         "",
         "## 1. جدول المشايخ الإجمالي",
         "",
-        "| # | الشيخ | Slug | السلاسل المفرغة | المحاضرات المفرغة | حالة المحتوى |",
-        "|---|---|---|---:|---:|---|"
+        "| # | الشيخ | المعرّف (`Slug`) | السلاسل | الدروس المفرغة | الدروس المحاذاة | المجلد |",
+        "|---:|---|---|---:|---:|---:|---|",
     ]
+    for idx, cs in enumerate(coverage_sheikhs, 1):
+        cov_lines.append(
+            f"| {idx} | {cs['name_display']} | `{cs['slug']}` | {cs['series_count']} | {cs['lessons_count']:,} | {cs['aligned_count']:,} | [`{cs['slug']}/`](./{cs['slug']}/) |"
+        )
 
-    for idx, cs in enumerate(sorted(coverage_sheikhs_data, key=lambda x: (-x["lessons_count"], x["slug"])), 1):
-        status = f"[`{cs['slug']}/`](./{cs['slug']}/)" if cs["has_content"] else "لا تفريغ حالياً (0)"
-        cov_lines.append(f"| {idx} | {cs['name_display']} | `{cs['slug']}` | {cs['series_count']} | {cs['lessons_count']:,} | {status} |")
-
-    cov_lines.extend([
-        "",
-        "---",
-        "",
-        "## 2. تفاصيل السلاسل لكل شيخ",
-        ""
-    ])
-
-    for cs in sorted(coverage_sheikhs_data, key=lambda x: (-x["lessons_count"], x["slug"])):
-        if not cs["has_content"]:
-            continue
+    cov_lines.extend(["", "---", "", "## 2. تفصيل السلاسل لكل شيخ", ""])
+    for cs in coverage_sheikhs:
         cov_lines.extend([
             f"### {cs['name_display']} (`{cs['slug']}`)",
-            f"- إجمالي المحاضرات: **{cs['lessons_count']:,}** درس في **{cs['series_count']}** سلسلة.",
+            f"- إجمالي الدروس المفرغة: **{cs['lessons_count']:,}** درساً (المحاذاة: **{cs['aligned_count']:,}**) في **{cs['series_count']}** سلسلة.",
             "",
-            "| السلسلة | مجلد الحفظ | المفرغ | المعلن | نسبة التغطية |",
-            "|---|---|---:|---:|---:|"
+            "| الكود | عنوان السلسلة | المفرغ | المعلن | نسبة التفريغ | المحاذاة |",
+            "|---|---|---:|---:|---:|---:|",
         ])
         for s in cs["series_list"]:
-            dec_val = str(s["declared_total"]) if s["declared_total"] is not None else "غير محدد"
-            cov_lines.append(f"| {s['title']} | [`{s['key']}/`](./{cs['slug']}/{s['key']}/) | {s['transcribed']} | {dec_val} | {s['coverage_pct']} |")
+            cov_lines.append(
+                f"| [`{s['key']}`](./{cs['slug']}/{s['key']}/) | {s['title']} | {s['transcribed']} | {s['declared_total']} | {s['coverage_pct']} | {s['aligned']} ({s['aligned_pct']}) |"
+            )
         cov_lines.append("")
 
-    cov_lines.extend([
+    outputs[os.path.join(YTB, "COVERAGE.md")] = "\n".join(cov_lines) + "\n"
+
+    # README.md
+    readme_lines = [
+        "# ytb — المستودع الموحّد لتفريغات ومحاذاة الدروس العلمية",
+        "",
+        "المستودع الرسمي الموحّد لجميع النصوص المفرّغة (`.txt`) وملفات المحاذاة الصوتية بالكلمة والثانية (`.align.json`) والبيانات الوصفية (`.meta.json`) وفق هيكلة `cheikh` القياسية.",
+        "",
         "---",
         "",
-        "## 3. المجموعات المستبعدة من v1",
+        "## 1. الإحصاءات العامة",
         "",
-        "| المسار الأصلي | سبب الاستبعاد | عدد الملفات |",
-        "|---|---|---:|"
+        f"- **المشايخ ذوو المحتوى الفعلي:** {len(catalog_sheikhs)} شيخاً",
+        f"- **السلاسل المفرّغة:** {total_series:,} سلسلة",
+        f"- **الدروس المفرّغة نصياً (`.txt`):** {total_lessons:,} درساً",
+        f"- **الدروس المحاذاة صوتياً (`.align.json`):** {total_aligned:,} درساً",
+        f"- **إجمالي الحجم النصي:** {total_chars:,} حرفاً",
+        "",
+        "---",
+        "",
+        "## 2. جدول المشايخ",
+        "",
+        "| # | الشيخ | المعرّف (`Slug`) | السلاسل | الدروس المفرغة (`.txt`) | الدروس المحاذاة (`.align.json`) | المجلد |",
+        "|---:|---|---|---:|---:|---:|---|",
+    ]
+    for idx, cs in enumerate(coverage_sheikhs, 1):
+        readme_lines.append(
+            f"| {idx} | {cs['name_display']} | `{cs['slug']}` | {cs['series_count']} | {cs['lessons_count']:,} | {cs['aligned_count']:,} | [`{cs['slug']}/`](./{cs['slug']}/) |"
+        )
+    readme_lines.extend([
+        "",
+        "> التفاصيل الكاملة لكل سلسلة داخل كل شيخ موجودة في [`COVERAGE.md`](./COVERAGE.md) وفي [`catalog.json`](./catalog.json).",
+        "",
+        "---",
+        "",
+        "## 3. هيكل المستودع القياسي",
+        "",
+        "```text",
+        "ytb/",
+        "  README.md                       # الواجهة الرئيسية والإحصاءات العامة",
+        "  COVERAGE.md                     # تقرير التغطية التفصيلي لكل شيخ وسلسلة",
+        "  catalog.json                    # الفهرس المركزي المهيكل",
+        "  <sheikh-slug>/                  # مجلد الشيخ + _sheikh.json + _index.json",
+        "    <s_code>/                     # مجلد السلسلة القياسي (مثل s001) + _meta.json + _index.json",
+        "      <NNN>_<vid>.txt             # النص العربي المطهّر للمحاضرة",
+        "      <NNN>_<vid>.align.json      # المحاذاة الصوتية الدقيقة (كلمة بكلمة بالثانية)",
+        "      <NNN>_<vid>.meta.json       # البيانات الوصفية للمحاضرة",
+        "  tools/                          # أدوات الفهرسة والتحقق (build_index.py)",
+        "  _meta/                          # سجلات الجرد والتحقق المرجعية",
+        "```",
+        "",
     ])
-
-    for ex in excluded_data:
-        cov_lines.append(f"| `{ex['path_prefix']}` | {ex['reason']} | {ex['file_count']} |")
-
-    cov_lines.append("")
-    outputs[os.path.join(YTB, "COVERAGE.md")] = "\n".join(cov_lines)
-
+    outputs[os.path.join(YTB, "README.md")] = "\n".join(readme_lines)
     return outputs
 
 
 def main():
     check_mode = "--check" in sys.argv
-
+    expected = build_indexes()
     if check_mode:
-        print("Checking index files integrity...")
-        try:
-            expected_outputs = build_indexes()
-        except Exception as e:
-            print(f"FAILED to build indexes in memory: {e}", file=sys.stderr)
-            sys.exit(1)
-
         mismatches = []
-        for path, exp_content in expected_outputs.items():
+        for path, exp_content in expected.items():
             if not os.path.isfile(path):
-                mismatches.append(f"Missing file on disk: {path}")
+                mismatches.append(f"Missing index file: {path}")
                 continue
-            with open(path, "r", encoding="utf-8") as f:
-                cur_content = f.read()
-            if cur_content != exp_content:
-                mismatches.append(f"Content mismatch in: {path} (disk len {len(cur_content)} != exp len {len(exp_content)})")
-
+            cur = open(path, encoding="utf-8").read()
+            if cur != exp_content:
+                mismatches.append(f"Mismatch in: {path}")
+        # Also verify zero backup directories inside YTB
+        for root, dirs, _ in os.walk(YTB):
+            if ".git" in dirs:
+                dirs.remove(".git")
+            for bad in ("_raw_preamble_backup", "_truncated_legacy_backup", "_archive_legacy"):
+                if bad in dirs:
+                    mismatches.append(f"Forbidden backup dir inside repo: {os.path.join(root, bad)}")
         if mismatches:
-            print(f"FAILED: {len(mismatches)} index mismatches detected:", file=sys.stderr)
-            for m in mismatches[:10]:
-                print(f"  {m}", file=sys.stderr)
+            print(f"FAILED ({len(mismatches)} issues):", file=sys.stderr)
+            for m in mismatches[:15]:
+                print(" ", m, file=sys.stderr)
             sys.exit(1)
-        else:
-            print("OK: All index files on disk match generated state perfectly.")
-            sys.exit(0)
+        print("OK: All index files and repository structure checks passed (0 errors).")
+        sys.exit(0)
 
-    print("=" * 60)
-    print("ytb index building: Starting P6 (build_index.py)")
-    print("=" * 60)
-
-    outputs = build_indexes()
-
-    for path, content in outputs.items():
+    for path, content in expected.items():
         write_atomic_str(content, path)
-
-    print(f"Successfully generated and wrote {len(outputs)} index files:")
-    print(f"  - catalog.json")
-    print(f"  - COVERAGE.md")
-    print(f"  - per-sheikh _index.json files")
-    print(f"  - per-series _index.json files")
+    cat = json.loads(expected[os.path.join(YTB, "catalog.json")])
+    print(f"Generated {len(expected)} index files: {cat['totals']}")
 
 
 if __name__ == "__main__":

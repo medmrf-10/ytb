@@ -1,31 +1,8 @@
 {
- "v": 1,
- "lid": "rn:said-bouti--386:260",
- "vid": null,
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 260,
- "n_src": "read",
- "title": "الحكم العطائية للإمام البوطي الدرس 151 - الحكمة 125 - 126",
- "title_src": "filename",
- "sha256": "3e6a25531501b2d6e498442856589d951ecc71452bf65f4f74a79bd41e128f30",
- "nh": "a570da027a1a7767321d020f0ebd866eb4489e8d807606a212054679b32834ad",
- "chars": 22648,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/bouti/mut-386/260_الحكم العطائية للإمام البوطي  الدرس 151 - الحكمة 125 - 126.txt",
-  "commit_ts": 1791841975,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/260_الحكم العطائية للإمام البوطي  الدرس 151 - الحكمة 125 - 126.txt",
-   "sha256": "3e6a25531501b2d6e498442856589d951ecc71452bf65f4f74a79bd41e128f30",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": []
+  "dur_s": 2978.9,
+  "chars": 24140,
+  "words": 4537,
+  "wpm": 91.4,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

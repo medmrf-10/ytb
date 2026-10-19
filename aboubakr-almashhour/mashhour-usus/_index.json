@@ -1,44 +1,43 @@
 {
- "coverage": 0.0769,
- "declared_total": 39,
- "lessons": [
-  {
-   "chars": 33244,
-   "file": "003_F43qBE6zlfk.txt",
-   "n": 3,
-   "quality": "ok",
-   "sha256": "882675e872f32548fcaac4e167cc3bcc09f6dbb219456db73b0b72b1fd07ca77",
-   "title": "الحبيب أبوبكر المشهور | شرح كتاب الأسس والمنطلقات | المحاضرة الثالثة",
-   "variants": 0,
-   "vid": "F43qBE6zlfk"
-  },
-  {
-   "chars": 27261,
-   "file": "004_e0zi4PGcZP4.txt",
-   "n": 4,
-   "quality": "ok",
-   "sha256": "bdd1e982d9e145266169005b49f619a6f01b55e7d03d6ef841736c3b145e88ae",
-   "title": "الحبيب أبوبكر المشهور | شرح كتاب الأسس والمنطلقات | المحاضرة الرابعة",
-   "variants": 0,
-   "vid": "e0zi4PGcZP4"
-  },
-  {
-   "chars": 21035,
-   "file": "005_GRKR_8j2x_c.txt",
-   "n": 5,
-   "quality": "ok",
-   "sha256": "68a6e39b376bf0c336b08ff41d5d4ff3b2add3693e88c84597093fa93a26c8bc",
-   "title": "الحبيب أبوبكر المشهور | شرح كتاب الأسس والمنطلقات | المحاضرة الخامسة",
-   "variants": 0,
-   "vid": "GRKR_8j2x_c"
-  }
- ],
- "playlists": [
-  "PLEyInll7oEPsRMPtGS0N-eJJh9Kbhb8vh"
- ],
- "row_id": "aboubakr-almashhour--mashhour-usus",
- "sheikh": "aboubakr-almashhour",
- "title": "الأسس والمنطلقات",
- "transcribed": 3,
- "v": 1
+  "aligned": 0,
+  "aligned_ratio": 0.0,
+  "category": "",
+  "coverage": 1.0,
+  "declared_total": 3,
+  "key": "mashhour-usus",
+  "lessons": [
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 33244,
+      "file": "003_F43qBE6zlfk.txt",
+      "n": 3,
+      "title": "الحبيب أبوبكر المشهور | شرح كتاب الأسس والمنطلقات | المحاضرة الثالثة",
+      "vid": "F43qBE6zlfk"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 27261,
+      "file": "004_e0zi4PGcZP4.txt",
+      "n": 4,
+      "title": "الحبيب أبوبكر المشهور | شرح كتاب الأسس والمنطلقات | المحاضرة الرابعة",
+      "vid": "e0zi4PGcZP4"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 21035,
+      "file": "005_GRKR_8j2x_c.txt",
+      "n": 5,
+      "title": "الحبيب أبوبكر المشهور | شرح كتاب الأسس والمنطلقات | المحاضرة الخامسة",
+      "vid": "GRKR_8j2x_c"
+    }
+  ],
+  "series_id": "aboubakr-almashhour__mashhour-usus",
+  "sheikh": "aboubakr-almashhour",
+  "sheikh_name": "أبو بكر المشهور",
+  "title": "الأسس والمنطلقات",
+  "transcribed": 3,
+  "v": 2
 }

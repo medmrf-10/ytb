@@ -13,3 +13,9 @@ _tmp_*
 
 *.opus
 *.part.opus
+_raw_preamble_backup/
+_truncated_legacy_backup/
+_archive_legacy/
+_fix/
+_inbox/
+.reorg_lock

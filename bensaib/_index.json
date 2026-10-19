@@ -1,27 +1,27 @@
 {
- "aliases": [
-  "ابن سايب"
- ],
- "name": "بن سايب",
- "name_display": "بن سايب",
- "series": [
-  {
-   "coverage": 1.0,
-   "declared_total": 8,
-   "dir": "binsayib-akhadari/",
-   "key": "binsayib-akhadari",
-   "row_id": "bensaib--binsayib-akhadari",
-   "title": "شرح الأخضري",
-   "transcribed": 8
-  }
- ],
- "slug": "bensaib",
- "totals": {
-  "chars": 211370,
-  "lessons": 8,
-  "series": 1,
-  "unsorted": 0,
-  "with_vid": 8
- },
- "v": 1
+  "name": "بن صايب",
+  "name_display": "بن صايب",
+  "series": [
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 8,
+      "dir": "binsayib-akhadari/",
+      "key": "binsayib-akhadari",
+      "series_id": "bensaib__binsayib-akhadari",
+      "title": "شرح الأخضري",
+      "transcribed": 8
+    }
+  ],
+  "slug": "bensaib",
+  "totals": {
+    "aligned": 0,
+    "chars": 209941,
+    "lessons": 8,
+    "series": 1
+  },
+  "v": 2
 }

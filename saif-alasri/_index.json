@@ -1,27 +1,27 @@
 {
- "aliases": [
-  "العصري"
- ],
- "name": "سيف العصري",
- "name_display": "سيف العصري",
- "series": [
-  {
-   "coverage": 1.0,
-   "declared_total": 56,
-   "dir": "alasri-arbaa/",
-   "key": "alasri-arbaa",
-   "row_id": "saif-alasri--alasri-arbaa",
-   "title": "لقاء الأربعاء",
-   "transcribed": 56
-  }
- ],
- "slug": "saif-alasri",
- "totals": {
-  "chars": 1146463,
-  "lessons": 56,
-  "series": 1,
-  "unsorted": 0,
-  "with_vid": 56
- },
- "v": 1
+  "name": "سيف العصري",
+  "name_display": "سيف العصري",
+  "series": [
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 56,
+      "dir": "alasri-arbaa/",
+      "key": "alasri-arbaa",
+      "series_id": "saif-alasri__alasri-arbaa",
+      "title": "لقاء الأربعاء",
+      "transcribed": 56
+    }
+  ],
+  "slug": "saif-alasri",
+  "totals": {
+    "aligned": 0,
+    "chars": 1132274,
+    "lessons": 56,
+    "series": 1
+  },
+  "v": 2
 }

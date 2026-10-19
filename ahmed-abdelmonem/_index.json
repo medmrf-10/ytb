@@ -1,28 +1,27 @@
 {
- "aliases": [
-  "الشيخ أحمد عبد المنعم",
-  "أحمد عبد المنعم"
- ],
- "name": "أحمد عبد المنعم",
- "name_display": "أحمد عبد المنعم",
- "series": [
-  {
-   "coverage": 1.0,
-   "declared_total": 20,
-   "dir": "abdelmonem-juz30/",
-   "key": "abdelmonem-juz30",
-   "row_id": "ahmed-abdelmonem--abdelmonem-juz30",
-   "title": "تفسير جزء عمّ",
-   "transcribed": 20
-  }
- ],
- "slug": "ahmed-abdelmonem",
- "totals": {
-  "chars": 699445,
-  "lessons": 20,
-  "series": 1,
-  "unsorted": 0,
-  "with_vid": 20
- },
- "v": 1
+  "name": "أحمد عبد المنعم",
+  "name_display": "أحمد عبد المنعم",
+  "series": [
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 20,
+      "dir": "abdelmonem-juz30/",
+      "key": "abdelmonem-juz30",
+      "series_id": "ahmed-abdelmonem__abdelmonem-juz30",
+      "title": "تفسير جزء عمّ",
+      "transcribed": 20
+    }
+  ],
+  "slug": "ahmed-abdelmonem",
+  "totals": {
+    "aligned": 0,
+    "chars": 697911,
+    "lessons": 20,
+    "series": 1
+  },
+  "v": 2
 }

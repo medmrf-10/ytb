@@ -1,94 +1,88 @@
 {
- "coverage": 0.2759,
- "declared_total": 29,
- "lessons": [
-  {
-   "chars": 6970,
-   "file": "014_KnQU10EjDU4.txt",
-   "n": 14,
-   "quality": "ok",
-   "sha256": "45e6d66177a3382edabc2093d7aaad5b1fab6d76ca849819119a5cef59efe048",
-   "title": "الحبيب أبوبكر المشهور | خواطر رمضان 14 | الوقت كالسيف في رمضان",
-   "variants": 0,
-   "vid": "KnQU10EjDU4"
-  },
-  {
-   "chars": 7081,
-   "file": "015_L-T0wQQjyck.txt",
-   "n": 15,
-   "quality": "ok",
-   "sha256": "220974e07b2023d0ba20723981df9c92e89a140f57a3fae7f642cb85c2ac9dd2",
-   "title": "الحبيب أبوبكر المشهور | خواطر رمضان 15 | لو تعلم أمتي مافي رمضان",
-   "variants": 0,
-   "vid": "L-T0wQQjyck"
-  },
-  {
-   "chars": 7757,
-   "file": "018_ttQ3RjAztCo.txt",
-   "n": 18,
-   "quality": "ok",
-   "sha256": "42b4383dc97f158c2e832f25e8806db6ca12c150c0308f8e24af1af4bb618ab4",
-   "title": "الحبيب أبوبكر المشهور | خواطر رمضان 18 | مظاهر المغفرة في العشر الأواسط",
-   "variants": 0,
-   "vid": "ttQ3RjAztCo"
-  },
-  {
-   "chars": 6830,
-   "file": "019_ryc9RzbfyNc.txt",
-   "n": 19,
-   "quality": "ok",
-   "sha256": "bf78d6cdbe6549e3c498bcd7a16d2299705dc16e550464919efb2d092123ea17",
-   "title": "الحبيب أبوبكر المشهور | خواطر رمضان 19 | رمضان والسنن القولية والفعلية والتقريرية",
-   "variants": 0,
-   "vid": "ryc9RzbfyNc"
-  },
-  {
-   "chars": 6347,
-   "file": "020_nN0KZa-HNN8.txt",
-   "n": 20,
-   "quality": "ok",
-   "sha256": "d9bfa23d74f830ed91b7c5fffa60c29a4902426c1cc57f7bb1854fe1f2a0a097",
-   "title": "الحبيب أبوبكر المشهور | خواطر رمضان 20 | رمضان غاية أم وسيلة؟!!!",
-   "variants": 0,
-   "vid": "nN0KZa-HNN8"
-  },
-  {
-   "chars": 5835,
-   "file": "021_HBZchHYjA0M.txt",
-   "n": 21,
-   "quality": "ok",
-   "sha256": "10950a4672476f4b39baa9ec634fcbbe89a52a464d9a860f2e69a12f91aab233",
-   "title": "الحبيب أبوبكر المشهور | خواطر رمضان 21 | العشر الأواخر من رمضان",
-   "variants": 0,
-   "vid": "HBZchHYjA0M"
-  },
-  {
-   "chars": 7126,
-   "file": "022_0amGiMR5tpo.txt",
-   "n": 22,
-   "quality": "ok",
-   "sha256": "272a06fe75d561b59c676c960b75fabb49c8cbd48d50a44ed35d500696ba3156",
-   "title": "الحبيب أبوبكر المشهور | خواطر رمضان 22 | ليلة القدر",
-   "variants": 0,
-   "vid": "0amGiMR5tpo"
-  },
-  {
-   "chars": 6825,
-   "file": "023_HfYM9Yt_I2U.txt",
-   "n": 23,
-   "quality": "ok",
-   "sha256": "4ec6644d37d7eb3e6bf37940cfe922326a8d66e7675f08f6cc0eb2f8a99d5ea3",
-   "title": "الحبيب أبوبكر المشهور | خواطر رمضان 23 | رمضان الأمس ورمضان اليوم",
-   "variants": 0,
-   "vid": "HfYM9Yt_I2U"
-  }
- ],
- "playlists": [
-  "PLEyInll7oEPuN40lSnbe7KKtPP10K949b"
- ],
- "row_id": "aboubakr-almashhour--mashhour-khawatir",
- "sheikh": "aboubakr-almashhour",
- "title": "خواطر رمضان",
- "transcribed": 8,
- "v": 1
+  "aligned": 0,
+  "aligned_ratio": 0.0,
+  "category": "",
+  "coverage": 1.0,
+  "declared_total": 8,
+  "key": "mashhour-khawatir",
+  "lessons": [
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 6970,
+      "file": "014_KnQU10EjDU4.txt",
+      "n": 14,
+      "title": "الحبيب أبوبكر المشهور | خواطر رمضان 14 | الوقت كالسيف في رمضان",
+      "vid": "KnQU10EjDU4"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 7045,
+      "file": "015_L-T0wQQjyck.txt",
+      "n": 15,
+      "title": "الحبيب أبوبكر المشهور | خواطر رمضان 15 | لو تعلم أمتي مافي رمضان",
+      "vid": "L-T0wQQjyck"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 7757,
+      "file": "018_ttQ3RjAztCo.txt",
+      "n": 18,
+      "title": "الحبيب أبوبكر المشهور | خواطر رمضان 18 | مظاهر المغفرة في العشر الأواسط",
+      "vid": "ttQ3RjAztCo"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 6830,
+      "file": "019_ryc9RzbfyNc.txt",
+      "n": 19,
+      "title": "الحبيب أبوبكر المشهور | خواطر رمضان 19 | رمضان والسنن القولية والفعلية والتقريرية",
+      "vid": "ryc9RzbfyNc"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 6347,
+      "file": "020_nN0KZa-HNN8.txt",
+      "n": 20,
+      "title": "الحبيب أبوبكر المشهور | خواطر رمضان 20 | رمضان غاية أم وسيلة؟!!!",
+      "vid": "nN0KZa-HNN8"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 5835,
+      "file": "021_HBZchHYjA0M.txt",
+      "n": 21,
+      "title": "الحبيب أبوبكر المشهور | خواطر رمضان 21 | العشر الأواخر من رمضان",
+      "vid": "HBZchHYjA0M"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 7126,
+      "file": "022_0amGiMR5tpo.txt",
+      "n": 22,
+      "title": "الحبيب أبوبكر المشهور | خواطر رمضان 22 | ليلة القدر",
+      "vid": "0amGiMR5tpo"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 6825,
+      "file": "023_HfYM9Yt_I2U.txt",
+      "n": 23,
+      "title": "الحبيب أبوبكر المشهور | خواطر رمضان 23 | رمضان الأمس ورمضان اليوم",
+      "vid": "HfYM9Yt_I2U"
+    }
+  ],
+  "series_id": "aboubakr-almashhour__mashhour-khawatir",
+  "sheikh": "aboubakr-almashhour",
+  "sheikh_name": "أبو بكر المشهور",
+  "title": "خواطر رمضان",
+  "transcribed": 8,
+  "v": 2
 }

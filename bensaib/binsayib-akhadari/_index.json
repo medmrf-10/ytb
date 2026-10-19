@@ -1,94 +1,88 @@
 {
- "coverage": 1.0,
- "declared_total": 8,
- "lessons": [
-  {
-   "chars": 23137,
-   "file": "001_9yVbAgWgJLU.txt",
-   "n": 1,
-   "quality": "ok",
-   "sha256": "ec25567fb3b1e3e45835df1810dd7612fdd3242dcf954fa3239a2443b7cce576",
-   "title": "الدرس (1) : الطهارة",
-   "variants": 0,
-   "vid": "9yVbAgWgJLU"
-  },
-  {
-   "chars": 34011,
-   "file": "003_AUTLLpZEq9Y.txt",
-   "n": 3,
-   "quality": "ok",
-   "sha256": "a9c15cd1e3e2b32c654e38ebff20c6d586df5da9d7ca8f8f02e7afa3c62affe0",
-   "title": "الدرس [3]: فصل النجاسة 2 + فرائض الوضوء 1",
-   "variants": 0,
-   "vid": "AUTLLpZEq9Y"
-  },
-  {
-   "chars": 34922,
-   "file": "004_LNlRHINy5EY.txt",
-   "n": 4,
-   "quality": "ok",
-   "sha256": "99790919076d2261145a038dbe8456a570808f70212520cf6e79fcce23e0f616",
-   "title": "الدرس [4] : فرائض الوضوء 2",
-   "variants": 0,
-   "vid": "LNlRHINy5EY"
-  },
-  {
-   "chars": 30936,
-   "file": "005_mY4yQSX4gN0.txt",
-   "n": 5,
-   "quality": "ok",
-   "sha256": "c67a84dd0fbffd79d8dd68b975af6b27a60a0c13991a032851b54c68cf54f07b",
-   "title": "الدرس (5) :سنن الوضوء",
-   "variants": 0,
-   "vid": "mY4yQSX4gN0"
-  },
-  {
-   "chars": 25539,
-   "file": "006_rFSkLmkzZ10.txt",
-   "n": 6,
-   "quality": "ok",
-   "sha256": "8cd717dfff117160c7d0ae0251efee5b42978639fcb13fd9ecfb6101406d741e",
-   "title": "الدرس (6) : فضائل الوضوء+ فصل نواقض الوضوء 1",
-   "variants": 0,
-   "vid": "rFSkLmkzZ10"
-  },
-  {
-   "chars": 17137,
-   "file": "007_EqM2m15wjqE.txt",
-   "n": 7,
-   "quality": "ok",
-   "sha256": "eb56c3e6a8c2e6773c229d0ff4408be0bfa14b81ccfbc9273ac6fb333edd11db",
-   "title": "الدرس : (7) نواقض الوضوء 2",
-   "variants": 0,
-   "vid": "EqM2m15wjqE"
-  },
-  {
-   "chars": 19374,
-   "file": "008_gJ-zckE9AtI.txt",
-   "n": 8,
-   "quality": "ok",
-   "sha256": "85026bb4115b05d4cbb6e1a964415990ea4c5e3125648f835f8c87de7e06e735",
-   "title": "الدرس : (8) نواقض الوضوء 3",
-   "variants": 0,
-   "vid": "gJ-zckE9AtI"
-  },
-  {
-   "chars": 26314,
-   "file": "009_R8p2RRkwlL4.txt",
-   "n": 9,
-   "quality": "ok",
-   "sha256": "919247c92e3a55caac60840847f3f7ba818c319719980f5359c32da96b211a4f",
-   "title": "الدرس : (9) نواقض الوضوء + فصل موانع الحدث",
-   "variants": 0,
-   "vid": "R8p2RRkwlL4"
-  }
- ],
- "playlists": [
-  "PLkX3YqrI9_TUZwfepN0sxerEmb1LkFUTV"
- ],
- "row_id": "bensaib--binsayib-akhadari",
- "sheikh": "bensaib",
- "title": "شرح الأخضري",
- "transcribed": 8,
- "v": 1
+  "aligned": 0,
+  "aligned_ratio": 0.0,
+  "category": "",
+  "coverage": 1.0,
+  "declared_total": 8,
+  "key": "binsayib-akhadari",
+  "lessons": [
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 22963,
+      "file": "001_9yVbAgWgJLU.txt",
+      "n": 1,
+      "title": "الدرس (1) : الطهارة",
+      "vid": "9yVbAgWgJLU"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 33797,
+      "file": "003_AUTLLpZEq9Y.txt",
+      "n": 3,
+      "title": "الدرس [3]: فصل النجاسة 2 + فرائض الوضوء 1",
+      "vid": "AUTLLpZEq9Y"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 34730,
+      "file": "004_LNlRHINy5EY.txt",
+      "n": 4,
+      "title": "الدرس [4] : فرائض الوضوء 2",
+      "vid": "LNlRHINy5EY"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 30766,
+      "file": "005_mY4yQSX4gN0.txt",
+      "n": 5,
+      "title": "الدرس (5) :سنن الوضوء",
+      "vid": "mY4yQSX4gN0"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 25369,
+      "file": "006_rFSkLmkzZ10.txt",
+      "n": 6,
+      "title": "الدرس (6) : فضائل الوضوء+ فصل نواقض الوضوء 1",
+      "vid": "rFSkLmkzZ10"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 16988,
+      "file": "007_EqM2m15wjqE.txt",
+      "n": 7,
+      "title": "الدرس : (7) نواقض الوضوء 2",
+      "vid": "EqM2m15wjqE"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 19374,
+      "file": "008_gJ-zckE9AtI.txt",
+      "n": 8,
+      "title": "الدرس : (8) نواقض الوضوء 3",
+      "vid": "gJ-zckE9AtI"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 25954,
+      "file": "009_R8p2RRkwlL4.txt",
+      "n": 9,
+      "title": "الدرس : (9) نواقض الوضوء + فصل موانع الحدث",
+      "vid": "R8p2RRkwlL4"
+    }
+  ],
+  "series_id": "bensaib__binsayib-akhadari",
+  "sheikh": "bensaib",
+  "sheikh_name": "بن صايب",
+  "title": "شرح الأخضري",
+  "transcribed": 8,
+  "v": 2
 }

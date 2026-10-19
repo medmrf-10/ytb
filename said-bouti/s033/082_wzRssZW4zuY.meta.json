@@ -1,37 +1,8 @@
 {
- "v": 1,
- "lid": "rn:said-bouti--386:191",
- "vid": null,
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 191,
- "n_src": "read",
- "title": "الحكم العطائية للإمام البوطي الدرس 82 - الحكمة 59",
- "title_src": "filename",
- "sha256": "9ec76bba082395ab8b4dd103879289d060f4175bb7e040ec6208d44286635063",
- "nh": "72e1cca2118bc45b76b4aa727d031c2db008a6eb77ff0060e3800505543d0fa9",
- "chars": 15444,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/386/191_الحكم العطائية للإمام البوطي  الدرس 82  - الحكمة 59.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/386/191_الحكم العطائية للإمام البوطي  الدرس 82  - الحكمة 59.txt",
-   "sha256": "9ec76bba082395ab8b4dd103879289d060f4175bb7e040ec6208d44286635063",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/191_الحكم العطائية للإمام البوطي  الدرس 82  - الحكمة 59.txt",
-   "sha256": "9ec76bba082395ab8b4dd103879289d060f4175bb7e040ec6208d44286635063",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": []
+  "dur_s": 2340.1,
+  "chars": 16475,
+  "words": 3100,
+  "wpm": 79.5,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

@@ -1,243 +1,222 @@
 {
- "aliases": [
-  "البردوني"
- ],
- "name": "محمد البردوني الحسيمي",
- "name_display": "محمد البردوني الحسيمي",
- "series": [
-  {
-   "coverage": 1.0,
-   "declared_total": 19,
-   "dir": "10/",
-   "key": "10",
-   "row_id": "bardouni-husaymi--10",
-   "title": "الأجهوري",
-   "transcribed": 19
+  "name": "محمد البردوني الحسيمي",
+  "name_display": "محمد البردوني الحسيمي",
+  "series": [
+    {
+      "aligned": 9,
+      "aligned_pct": "100.0%",
+      "category": "العقيدة وعلم الكلام",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 9,
+      "dir": "s001/",
+      "key": "s001",
+      "series_id": "bardoni__s001",
+      "title": "شرح مقدمات الإمام السنوسي (كاملاً — الدروس 1 – 9)",
+      "transcribed": 9
+    },
+    {
+      "aligned": 11,
+      "aligned_pct": "30.6%",
+      "category": "العقيدة وعلم الكلام",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 36,
+      "dir": "s002/",
+      "key": "s002",
+      "series_id": "bardoni__s002",
+      "title": "شرح عقيدة أم البراهين للإمام السنوسي (كاملاً — الدروس 1 – 36)",
+      "transcribed": 36
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "العقيدة وعلم الكلام",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 19,
+      "dir": "s003/",
+      "key": "s003",
+      "series_id": "bardoni__s003",
+      "title": "شرح منظومة الأجهوري في أصول الدين (كاملاً — الدروس 1 – 19)",
+      "transcribed": 19
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "العقيدة وعلم الكلام",
+      "coverage": 0.4545,
+      "coverage_pct": "45.5%",
+      "declared_total": 33,
+      "dir": "s004/",
+      "key": "s004",
+      "series_id": "bardoni__s004",
+      "title": "شرح حواشي اليوسي على كبرى السنوسي (المقدمات وأوائل الكتاب — الدروس 1 – 33)",
+      "transcribed": 15
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "الفقه المالكي وقواعده",
+      "coverage": 0.2143,
+      "coverage_pct": "21.4%",
+      "declared_total": 56,
+      "dir": "s005/",
+      "key": "s005",
+      "series_id": "bardoni__s005",
+      "title": "شرح رسالة ابن أبي زيد القيرواني (الشرح الأول: من المقدمة إلى باب الصيام — الدروس 1 – 55)",
+      "transcribed": 12
+    },
+    {
+      "aligned": 22,
+      "aligned_pct": "17.1%",
+      "category": "الفقه المالكي وقواعده",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 129,
+      "dir": "s006/",
+      "key": "s006",
+      "series_id": "bardoni__s006",
+      "title": "شرح رسالة ابن أبي زيد القيرواني (الشرح الثاني الموسع: من المقدمة إلى باب العدة والنفقة — الدروس 1 – 129)",
+      "transcribed": 129
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "الفقه المالكي وقواعده",
+      "coverage": 0.1429,
+      "coverage_pct": "14.3%",
+      "declared_total": 105,
+      "dir": "s007/",
+      "key": "s007",
+      "series_id": "bardoni__s007",
+      "title": "شرح المنهج المنتخب إلى قواعد المذهب للزقاق (كاملاً — الدروس 1 – 104)",
+      "transcribed": 15
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "النحو والصرف والأدب",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 10,
+      "dir": "s011/",
+      "key": "s011",
+      "series_id": "bardoni__s011",
+      "title": "شرح لامية العرب للشنفرى (الأبيات 1 – 30 — 10 دروس)",
+      "transcribed": 10
+    },
+    {
+      "aligned": 11,
+      "aligned_pct": "100.0%",
+      "category": "البلاغة وعلم الوضع",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 11,
+      "dir": "s013/",
+      "key": "s013",
+      "series_id": "bardoni__s013",
+      "title": "شرح نظم الاستعارة (كاملاً — الدروس 1 – 11)",
+      "transcribed": 11
+    },
+    {
+      "aligned": 3,
+      "aligned_pct": "13.0%",
+      "category": "البلاغة وعلم الوضع",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 23,
+      "dir": "s014/",
+      "key": "s014",
+      "series_id": "bardoni__s014",
+      "title": "شرح الرسالة العضدية في علم الوضع لعضد الدين الإيجي (كاملاً — الدروس 1 – 23)",
+      "transcribed": 23
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "المنطق وآداب البحث",
+      "coverage": 0.2143,
+      "coverage_pct": "21.4%",
+      "declared_total": 42,
+      "dir": "s015/",
+      "key": "s015",
+      "series_id": "bardoni__s015",
+      "title": "شرح البناني على السلم المنورق في علم المنطق (كاملاً — الدروس 1 – 42)",
+      "transcribed": 9
+    },
+    {
+      "aligned": 4,
+      "aligned_pct": "26.7%",
+      "category": "المنطق وآداب البحث",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 15,
+      "dir": "s017/",
+      "key": "s017",
+      "series_id": "bardoni__s017",
+      "title": "شرح فتح الوهاب بشرح رسالة الآداب في البحث والمناظرة لزكريا الأنصاري (كاملاً — الدروس 1 – 15)",
+      "transcribed": 15
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التزكية والتصوف",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 21,
+      "dir": "s018/",
+      "key": "s018",
+      "series_id": "bardoni__s018",
+      "title": "شرح الحكم العطائية لابن عطاء الله السكندري (من الحكمة الأولى إلى الحكمة الحادية والعشرين — 21 درساً)",
+      "transcribed": 21
+    },
+    {
+      "aligned": 5,
+      "aligned_pct": "100.0%",
+      "category": "الردود والمناقشات العلمية",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 5,
+      "dir": "s019/",
+      "key": "s019",
+      "series_id": "bardoni__s019",
+      "title": "سلسلة «إقبار الانتصار»: مناقشة كتاب «الانتصار للتدمرية» (5 حلقات)",
+      "transcribed": 5
+    },
+    {
+      "aligned": 5,
+      "aligned_pct": "100.0%",
+      "category": "الردود والمناقشات العلمية",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 5,
+      "dir": "s020/",
+      "key": "s020",
+      "series_id": "bardoni__s020",
+      "title": "الأجوبة عن الاستشكالات الواردة على التعبير عن مشيئة الله بـ«ما شاء الله كان» (5 حلقات)",
+      "transcribed": 5
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "الردود والمناقشات العلمية",
+      "coverage": 0.6,
+      "coverage_pct": "60.0%",
+      "declared_total": 15,
+      "dir": "s021/",
+      "key": "s021",
+      "series_id": "bardoni__s021",
+      "title": "ردود ومناظرات ومباحث كلامية ومنطقية (15 مجلساً)",
+      "transcribed": 9
+    }
+  ],
+  "slug": "bardouni-husaymi",
+  "totals": {
+    "aligned": 70,
+    "chars": 6208094,
+    "lessons": 343,
+    "series": 16
   },
-  {
-   "coverage": 0.0,
-   "declared_total": 105,
-   "dir": "1000/",
-   "key": "1000",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 1,
-   "dir": "1001/",
-   "key": "1001",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 44,
-   "dir": "1002/",
-   "key": "1002",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 1.6825,
-   "declared_total": 126,
-   "dir": "1003/",
-   "key": "1003",
-   "row_id": "bardouni-husaymi--1003",
-   "title": "الشرح الثاني للرسالة",
-   "transcribed": 212
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 6,
-   "dir": "1004/",
-   "key": "1004",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 1.0,
-   "declared_total": 9,
-   "dir": "1005/",
-   "key": "1005",
-   "row_id": "bardouni-husaymi--1005",
-   "title": "مقدمات_السنوسي",
-   "transcribed": 9
-  },
-  {
-   "coverage": 1.0,
-   "declared_total": 10,
-   "dir": "1006/",
-   "key": "1006",
-   "row_id": "bardouni-husaymi--1006",
-   "title": "لامية_العرب",
-   "transcribed": 10
-  },
-  {
-   "coverage": 0.6364,
-   "declared_total": 22,
-   "dir": "984/",
-   "key": "984",
-   "row_id": "bardouni-husaymi--984",
-   "title": "أم البراهين",
-   "transcribed": 14
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 15,
-   "dir": "985/",
-   "key": "985",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 85,
-   "dir": "986/",
-   "key": "986",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 55,
-   "dir": "987/",
-   "key": "987",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 1.0,
-   "declared_total": 12,
-   "dir": "988/",
-   "key": "988",
-   "row_id": "bardouni-husaymi--988",
-   "title": "شرح_الرسالة",
-   "transcribed": 12
-  },
-  {
-   "coverage": 1.0,
-   "declared_total": 11,
-   "dir": "989/",
-   "key": "989",
-   "row_id": "bardouni-husaymi--989",
-   "title": "آداب_البحث_و_المناظرة",
-   "transcribed": 11
-  },
-  {
-   "coverage": 1.0,
-   "declared_total": 10,
-   "dir": "990/",
-   "key": "990",
-   "row_id": "bardouni-husaymi--990",
-   "title": "نظم الاستعارة",
-   "transcribed": 10
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 123,
-   "dir": "991/",
-   "key": "991",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 1.0,
-   "declared_total": 23,
-   "dir": "992/",
-   "key": "992",
-   "row_id": "bardouni-husaymi--992",
-   "title": "شرح الرسالة العضدية",
-   "transcribed": 23
-  },
-  {
-   "coverage": 1.0,
-   "declared_total": 15,
-   "dir": "993/",
-   "key": "993",
-   "row_id": "bardouni-husaymi--993",
-   "title": "حواشي_اليوسي",
-   "transcribed": 15
-  },
-  {
-   "coverage": 2.0,
-   "declared_total": 5,
-   "dir": "994/",
-   "key": "994",
-   "row_id": "bardouni-husaymi--994",
-   "title": "إقبار الانتصار",
-   "transcribed": 10
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 19,
-   "dir": "995/",
-   "key": "995",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 5,
-   "dir": "996/",
-   "key": "996",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 1.0,
-   "declared_total": 21,
-   "dir": "997/",
-   "key": "997",
-   "row_id": "bardouni-husaymi--997",
-   "title": "الحكم_العطائية",
-   "transcribed": 21
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 23,
-   "dir": "998/",
-   "key": "998",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 1.0,
-   "declared_total": 9,
-   "dir": "999/",
-   "key": "999",
-   "row_id": "bardouni-husaymi--999",
-   "title": "شرح_السلم",
-   "transcribed": 9
-  },
-  {
-   "coverage": 1.0,
-   "declared_total": 15,
-   "dir": "bardouni-mut-985/",
-   "key": "bardouni-mut-985",
-   "row_id": "bardouni-husaymi--bardouni-mut-985",
-   "title": "المنهج_المنتخب",
-   "transcribed": 15
-  }
- ],
- "slug": "bardouni-husaymi",
- "totals": {
-  "chars": 5856041,
-  "lessons": 390,
-  "series": 25,
-  "unsorted": 0,
-  "with_vid": 152
- },
- "v": 1
+  "v": 2
 }

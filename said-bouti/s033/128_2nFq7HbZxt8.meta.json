@@ -1,31 +1,8 @@
 {
- "v": 1,
- "lid": "rn:said-bouti--386:237",
- "vid": null,
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 237,
- "n_src": "read",
- "title": "الحكم العطائية للإمام البوطي الدرس 128 - الحكمة 105",
- "title_src": "filename",
- "sha256": "b61db6076a21bebbc715556ddfb9fba06613b5f7cc4212267b1ee80d4bc339fd",
- "nh": "18e00324b67dc187289cf2348ceb8b6647314e941ece19c662f4ddc5b0f62963",
- "chars": 13458,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/bouti/mut-386/237_الحكم العطائية للإمام البوطي  الدرس 128 - الحكمة 105.txt",
-  "commit_ts": 1791841975,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/237_الحكم العطائية للإمام البوطي  الدرس 128 - الحكمة 105.txt",
-   "sha256": "b61db6076a21bebbc715556ddfb9fba06613b5f7cc4212267b1ee80d4bc339fd",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": []
+  "dur_s": 2477.6,
+  "chars": 19401,
+  "words": 3518,
+  "wpm": 85.2,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

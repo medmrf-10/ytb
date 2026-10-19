@@ -1,1431 +1,638 @@
 {
- "aliases": [
-  "متولي الشعراوي"
- ],
- "name": "محمد متولي الشعراوي",
- "name_display": "الشعراوي",
- "series": [
-  {
-   "coverage": 0.0,
-   "declared_total": 10,
-   "dir": "462/",
-   "key": "462",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 40,
-   "dir": "463/",
-   "key": "463",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 56,
-   "dir": "464/",
-   "key": "464",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 5,
-   "dir": "465/",
-   "key": "465",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 11,
-   "dir": "466/",
-   "key": "466",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 18,
-   "dir": "467/",
-   "key": "467",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 14,
-   "dir": "468/",
-   "key": "468",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 55,
-   "dir": "469/",
-   "key": "469",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 15,
-   "dir": "470/",
-   "key": "470",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 4,
-   "dir": "471/",
-   "key": "471",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 6,
-   "dir": "472/",
-   "key": "472",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 3,
-   "dir": "473/",
-   "key": "473",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 11,
-   "dir": "474/",
-   "key": "474",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 22,
-   "dir": "475/",
-   "key": "475",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 10,
-   "dir": "476/",
-   "key": "476",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 9,
-   "dir": "477/",
-   "key": "477",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 17,
-   "dir": "478/",
-   "key": "478",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 9,
-   "dir": "479/",
-   "key": "479",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 27,
-   "dir": "480/",
-   "key": "480",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 6,
-   "dir": "481/",
-   "key": "481",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 3,
-   "dir": "482/",
-   "key": "482",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 32,
-   "dir": "483/",
-   "key": "483",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 29,
-   "dir": "484/",
-   "key": "484",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 16,
-   "dir": "485/",
-   "key": "485",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 5,
-   "dir": "486/",
-   "key": "486",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 10,
-   "dir": "487/",
-   "key": "487",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 6,
-   "dir": "488/",
-   "key": "488",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 27,
-   "dir": "489/",
-   "key": "489",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 11,
-   "dir": "490/",
-   "key": "490",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 17,
-   "dir": "491/",
-   "key": "491",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 10,
-   "dir": "492/",
-   "key": "492",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 53,
-   "dir": "493/",
-   "key": "493",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 23,
-   "dir": "494/",
-   "key": "494",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 1075,
-   "dir": "495/",
-   "key": "495",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 16,
-   "dir": "496/",
-   "key": "496",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 19,
-   "dir": "497/",
-   "key": "497",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 14,
-   "dir": "498/",
-   "key": "498",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 14,
-   "dir": "499/",
-   "key": "499",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 29,
-   "dir": "500/",
-   "key": "500",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 47,
-   "dir": "501/",
-   "key": "501",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 28,
-   "dir": "502/",
-   "key": "502",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 5,
-   "dir": "503/",
-   "key": "503",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 38,
-   "dir": "504/",
-   "key": "504",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 11,
-   "dir": "505/",
-   "key": "505",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 30,
-   "dir": "506/",
-   "key": "506",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 26,
-   "dir": "507/",
-   "key": "507",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 12,
-   "dir": "508/",
-   "key": "508",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 12,
-   "dir": "509/",
-   "key": "509",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 46,
-   "dir": "510/",
-   "key": "510",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 15,
-   "dir": "511/",
-   "key": "511",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 14,
-   "dir": "512/",
-   "key": "512",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 2,
-   "dir": "513/",
-   "key": "513",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 2,
-   "dir": "514/",
-   "key": "514",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 111,
-   "dir": "515/",
-   "key": "515",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 16,
-   "dir": "516/",
-   "key": "516",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 2,
-   "dir": "517/",
-   "key": "517",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 11,
-   "dir": "518/",
-   "key": "518",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 55,
-   "dir": "519/",
-   "key": "519",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 4,
-   "dir": "520/",
-   "key": "520",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 12,
-   "dir": "521/",
-   "key": "521",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 7,
-   "dir": "522/",
-   "key": "522",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 22,
-   "dir": "523/",
-   "key": "523",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 13,
-   "dir": "524/",
-   "key": "524",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 12,
-   "dir": "525/",
-   "key": "525",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 37,
-   "dir": "526/",
-   "key": "526",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 23,
-   "dir": "527/",
-   "key": "527",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 65,
-   "dir": "528/",
-   "key": "528",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 18,
-   "dir": "529/",
-   "key": "529",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 24,
-   "dir": "530/",
-   "key": "530",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 11,
-   "dir": "531/",
-   "key": "531",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 16,
-   "dir": "532/",
-   "key": "532",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 28,
-   "dir": "533/",
-   "key": "533",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 7,
-   "dir": "534/",
-   "key": "534",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 17,
-   "dir": "535/",
-   "key": "535",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 2,
-   "dir": "536/",
-   "key": "536",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 6,
-   "dir": "537/",
-   "key": "537",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 3,
-   "dir": "538/",
-   "key": "538",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 15,
-   "dir": "539/",
-   "key": "539",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 50,
-   "dir": "540/",
-   "key": "540",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 15,
-   "dir": "541/",
-   "key": "541",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 30,
-   "dir": "542/",
-   "key": "542",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 13,
-   "dir": "543/",
-   "key": "543",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 12,
-   "dir": "544/",
-   "key": "544",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 21,
-   "dir": "545/",
-   "key": "545",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 21,
-   "dir": "546/",
-   "key": "546",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 5,
-   "dir": "547/",
-   "key": "547",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 12,
-   "dir": "548/",
-   "key": "548",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 91,
-   "dir": "549/",
-   "key": "549",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 11,
-   "dir": "550/",
-   "key": "550",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 23,
-   "dir": "551/",
-   "key": "551",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 9,
-   "dir": "552/",
-   "key": "552",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 5,
-   "dir": "553/",
-   "key": "553",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 15,
-   "dir": "554/",
-   "key": "554",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 19,
-   "dir": "555/",
-   "key": "555",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 4,
-   "dir": "556/",
-   "key": "556",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 2,
-   "dir": "557/",
-   "key": "557",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 3,
-   "dir": "558/",
-   "key": "558",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 4,
-   "dir": "559/",
-   "key": "559",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 7,
-   "dir": "560/",
-   "key": "560",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 17,
-   "dir": "561/",
-   "key": "561",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 60,
-   "dir": "562/",
-   "key": "562",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 13,
-   "dir": "563/",
-   "key": "563",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 52,
-   "dir": "564/",
-   "key": "564",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 5,
-   "dir": "565/",
-   "key": "565",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 6,
-   "dir": "566/",
-   "key": "566",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 48,
-   "dir": "567/",
-   "key": "567",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 29,
-   "dir": "568/",
-   "key": "568",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 13,
-   "dir": "569/",
-   "key": "569",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 45,
-   "dir": "570/",
-   "key": "570",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 33,
-   "dir": "571/",
-   "key": "571",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 6,
-   "dir": "572/",
-   "key": "572",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 30,
-   "dir": "573/",
-   "key": "573",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 31,
-   "dir": "574/",
-   "key": "574",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 10,
-   "dir": "575/",
-   "key": "575",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 91,
-   "dir": "576/",
-   "key": "576",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 4,
-   "dir": "577/",
-   "key": "577",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 33,
-   "dir": "578/",
-   "key": "578",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 1,
-   "dir": "579/",
-   "key": "579",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 6,
-   "dir": "580/",
-   "key": "580",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 3,
-   "dir": "581/",
-   "key": "581",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 22,
-   "dir": "582/",
-   "key": "582",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 451,
-   "dir": "583/",
-   "key": "583",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 95,
-   "dir": "584/",
-   "key": "584",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 14,
-   "dir": "585/",
-   "key": "585",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 59,
-   "dir": "586/",
-   "key": "586",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 2,
-   "dir": "587/",
-   "key": "587",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 57,
-   "dir": "588/",
-   "key": "588",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 29,
-   "dir": "589/",
-   "key": "589",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 14,
-   "dir": "590/",
-   "key": "590",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 7,
-   "dir": "591/",
-   "key": "591",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 15,
-   "dir": "592/",
-   "key": "592",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 9,
-   "dir": "593/",
-   "key": "593",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 39,
-   "dir": "594/",
-   "key": "594",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 51,
-   "dir": "595/",
-   "key": "595",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 28,
-   "dir": "596/",
-   "key": "596",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 96,
-   "dir": "597/",
-   "key": "597",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 3,
-   "dir": "598/",
-   "key": "598",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 11,
-   "dir": "599/",
-   "key": "599",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 5,
-   "dir": "600/",
-   "key": "600",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 2,
-   "dir": "601/",
-   "key": "601",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 26,
-   "dir": "602/",
-   "key": "602",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 16,
-   "dir": "603/",
-   "key": "603",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 24,
-   "dir": "604/",
-   "key": "604",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 15,
-   "dir": "605/",
-   "key": "605",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 9,
-   "dir": "606/",
-   "key": "606",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 29,
-   "dir": "607/",
-   "key": "607",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 51,
-   "dir": "608/",
-   "key": "608",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 579,
-   "dir": "609/",
-   "key": "609",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 23,
-   "dir": "610/",
-   "key": "610",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 13,
-   "dir": "611/",
-   "key": "611",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 12,
-   "dir": "612/",
-   "key": "612",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 89,
-   "dir": "613/",
-   "key": "613",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 44,
-   "dir": "614/",
-   "key": "614",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 7,
-   "dir": "615/",
-   "key": "615",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 31,
-   "dir": "616/",
-   "key": "616",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 16,
-   "dir": "617/",
-   "key": "617",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 6,
-   "dir": "618/",
-   "key": "618",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  }
- ],
- "slug": "sharawi",
- "totals": {
-  "chars": 0,
-  "lessons": 0,
-  "series": 157,
-  "unsorted": 0,
-  "with_vid": 0
- },
- "v": 1
+  "name": "محمد متولي الشعراوي",
+  "name_display": "محمد متولي الشعراوي",
+  "series": [
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 0.1495,
+      "coverage_pct": "14.9%",
+      "declared_total": 107,
+      "dir": "s001/",
+      "key": "s001",
+      "series_id": "shaarawy__s001",
+      "title": "تفسير سورة البقرة",
+      "transcribed": 16
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 55,
+      "dir": "s002/",
+      "key": "s002",
+      "series_id": "shaarawy__s002",
+      "title": "تفسير سورة آل عمران",
+      "transcribed": 55
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 0.1667,
+      "coverage_pct": "16.7%",
+      "declared_total": 66,
+      "dir": "s003/",
+      "key": "s003",
+      "series_id": "shaarawy__s003",
+      "title": "تفسير سورة النساء",
+      "transcribed": 11
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 0.0588,
+      "coverage_pct": "5.9%",
+      "declared_total": 51,
+      "dir": "s004/",
+      "key": "s004",
+      "series_id": "shaarawy__s004",
+      "title": "تفسير سورة المائدة",
+      "transcribed": 3
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 0.0196,
+      "coverage_pct": "2.0%",
+      "declared_total": 51,
+      "dir": "s005/",
+      "key": "s005",
+      "series_id": "shaarawy__s005",
+      "title": "تفسير سورة الأنعام",
+      "transcribed": 1
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 0.0417,
+      "coverage_pct": "4.2%",
+      "declared_total": 48,
+      "dir": "s006/",
+      "key": "s006",
+      "series_id": "shaarawy__s006",
+      "title": "تفسير سورة الأعراف",
+      "transcribed": 2
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 15,
+      "dir": "s007/",
+      "key": "s007",
+      "series_id": "shaarawy__s007",
+      "title": "تفسير سورة الأنفال",
+      "transcribed": 15
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 0.4074,
+      "coverage_pct": "40.7%",
+      "declared_total": 54,
+      "dir": "s008/",
+      "key": "s008",
+      "series_id": "shaarawy__s008",
+      "title": "تفسير سورة التوبة",
+      "transcribed": 22
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 14,
+      "dir": "s011/",
+      "key": "s011",
+      "series_id": "shaarawy__s011",
+      "title": "تفسير سورة يوسف",
+      "transcribed": 14
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 0.5,
+      "coverage_pct": "50.0%",
+      "declared_total": 24,
+      "dir": "s012/",
+      "key": "s012",
+      "series_id": "shaarawy__s012",
+      "title": "تفسير سورة الرعد",
+      "transcribed": 12
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 0.0625,
+      "coverage_pct": "6.2%",
+      "declared_total": 16,
+      "dir": "s013/",
+      "key": "s013",
+      "series_id": "shaarawy__s013",
+      "title": "تفسير سورة إبراهيم",
+      "transcribed": 1
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 30,
+      "dir": "s016/",
+      "key": "s016",
+      "series_id": "shaarawy__s016",
+      "title": "تفسير سورة الإسراء",
+      "transcribed": 30
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 18,
+      "dir": "s017/",
+      "key": "s017",
+      "series_id": "shaarawy__s017",
+      "title": "تفسير سورة الكهف",
+      "transcribed": 18
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 0.6667,
+      "coverage_pct": "66.7%",
+      "declared_total": 12,
+      "dir": "s018/",
+      "key": "s018",
+      "series_id": "shaarawy__s018",
+      "title": "تفسير سورة مريم",
+      "transcribed": 8
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 18,
+      "dir": "s019/",
+      "key": "s019",
+      "series_id": "shaarawy__s019",
+      "title": "تفسير سورة طه",
+      "transcribed": 18
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 14,
+      "dir": "s020/",
+      "key": "s020",
+      "series_id": "shaarawy__s020",
+      "title": "تفسير سورة الأنبياء",
+      "transcribed": 14
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 17,
+      "dir": "s022/",
+      "key": "s022",
+      "series_id": "shaarawy__s022",
+      "title": "تفسير سورة المؤمنون",
+      "transcribed": 17
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 13,
+      "dir": "s023/",
+      "key": "s023",
+      "series_id": "shaarawy__s023",
+      "title": "تفسير سورة النور",
+      "transcribed": 13
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 23,
+      "dir": "s024/",
+      "key": "s024",
+      "series_id": "shaarawy__s024",
+      "title": "تفسير سورة الفرقان",
+      "transcribed": 23
+    },
+    {
+      "aligned": 5,
+      "aligned_pct": "11.6%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 43,
+      "dir": "s025/",
+      "key": "s025",
+      "series_id": "shaarawy__s025",
+      "title": "تفسير سورة الشعراء",
+      "transcribed": 43
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 14,
+      "dir": "s026/",
+      "key": "s026",
+      "series_id": "shaarawy__s026",
+      "title": "تفسير سورة النمل",
+      "transcribed": 14
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 16,
+      "dir": "s027/",
+      "key": "s027",
+      "series_id": "shaarawy__s027",
+      "title": "تفسير سورة القصص",
+      "transcribed": 16
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 21,
+      "dir": "s028/",
+      "key": "s028",
+      "series_id": "shaarawy__s028",
+      "title": "تفسير سورة العنكبوت",
+      "transcribed": 21
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 21,
+      "dir": "s029/",
+      "key": "s029",
+      "series_id": "shaarawy__s029",
+      "title": "تفسير سورة الروم",
+      "transcribed": 21
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 43,
+      "dir": "s030/",
+      "key": "s030",
+      "series_id": "shaarawy__s030",
+      "title": "تفسير سورة لقمان",
+      "transcribed": 43
+    },
+    {
+      "aligned": 8,
+      "aligned_pct": "80.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 10,
+      "dir": "s031/",
+      "key": "s031",
+      "series_id": "shaarawy__s031",
+      "title": "تفسير سورة السجدة",
+      "transcribed": 10
+    },
+    {
+      "aligned": 16,
+      "aligned_pct": "66.7%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 24,
+      "dir": "s032/",
+      "key": "s032",
+      "series_id": "shaarawy__s032",
+      "title": "تفسير سورة الأحزاب",
+      "transcribed": 24
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 13,
+      "dir": "s033/",
+      "key": "s033",
+      "series_id": "shaarawy__s033",
+      "title": "تفسير سورة سبأ",
+      "transcribed": 13
+    },
+    {
+      "aligned": 10,
+      "aligned_pct": "100.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 10,
+      "dir": "s034/",
+      "key": "s034",
+      "series_id": "shaarawy__s034",
+      "title": "تفسير سورة فاطر",
+      "transcribed": 10
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 13,
+      "dir": "s035/",
+      "key": "s035",
+      "series_id": "shaarawy__s035",
+      "title": "تفسير سورة يس",
+      "transcribed": 13
+    },
+    {
+      "aligned": 12,
+      "aligned_pct": "100.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 12,
+      "dir": "s036/",
+      "key": "s036",
+      "series_id": "shaarawy__s036",
+      "title": "تفسير سورة الصافات",
+      "transcribed": 12
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 14,
+      "dir": "s037/",
+      "key": "s037",
+      "series_id": "shaarawy__s037",
+      "title": "تفسير سورة ص",
+      "transcribed": 14
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 0.9048,
+      "coverage_pct": "90.5%",
+      "declared_total": 21,
+      "dir": "s041/",
+      "key": "s041",
+      "series_id": "shaarawy__s041",
+      "title": "تفسير سورة الشورى",
+      "transcribed": 19
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 5,
+      "dir": "s043/",
+      "key": "s043",
+      "series_id": "shaarawy__s043",
+      "title": "تفسير سورة الدخان",
+      "transcribed": 5
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 0.875,
+      "coverage_pct": "87.5%",
+      "declared_total": 8,
+      "dir": "s044/",
+      "key": "s044",
+      "series_id": "shaarawy__s044",
+      "title": "تفسير سورة الجاثية",
+      "transcribed": 7
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 5,
+      "dir": "s048/",
+      "key": "s048",
+      "series_id": "shaarawy__s048",
+      "title": "تفسير سورة الحجرات",
+      "transcribed": 5
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 6,
+      "dir": "s050/",
+      "key": "s050",
+      "series_id": "shaarawy__s050",
+      "title": "تفسير سورة الذاريات",
+      "transcribed": 6
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 4,
+      "dir": "s051/",
+      "key": "s051",
+      "series_id": "shaarawy__s051",
+      "title": "تفسير سورة الطور",
+      "transcribed": 4
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 0.625,
+      "coverage_pct": "62.5%",
+      "declared_total": 8,
+      "dir": "s052/",
+      "key": "s052",
+      "series_id": "shaarawy__s052",
+      "title": "تفسير سورة النجم",
+      "transcribed": 5
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 0.6,
+      "coverage_pct": "60.0%",
+      "declared_total": 5,
+      "dir": "s053/",
+      "key": "s053",
+      "series_id": "shaarawy__s053",
+      "title": "تفسير سورة القمر",
+      "transcribed": 3
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 4,
+      "dir": "s054/",
+      "key": "s054",
+      "series_id": "shaarawy__s054",
+      "title": "تفسير سورة الرحمن",
+      "transcribed": 4
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 0.75,
+      "coverage_pct": "75.0%",
+      "declared_total": 4,
+      "dir": "s055/",
+      "key": "s055",
+      "series_id": "shaarawy__s055",
+      "title": "تفسير سورة الواقعة",
+      "transcribed": 3
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 0.8571,
+      "coverage_pct": "85.7%",
+      "declared_total": 7,
+      "dir": "s056/",
+      "key": "s056",
+      "series_id": "shaarawy__s056",
+      "title": "تفسير سورة الحديد",
+      "transcribed": 6
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 0.75,
+      "coverage_pct": "75.0%",
+      "declared_total": 4,
+      "dir": "s057/",
+      "key": "s057",
+      "series_id": "shaarawy__s057",
+      "title": "تفسير سورة المجادلة",
+      "transcribed": 3
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 0.8,
+      "coverage_pct": "80.0%",
+      "declared_total": 5,
+      "dir": "s058/",
+      "key": "s058",
+      "series_id": "shaarawy__s058",
+      "title": "تفسير سورة الحشر",
+      "transcribed": 4
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "التفسير وعلوم القرآن",
+      "coverage": 0.5,
+      "coverage_pct": "50.0%",
+      "declared_total": 4,
+      "dir": "s059/",
+      "key": "s059",
+      "series_id": "shaarawy__s059",
+      "title": "تفسير سورة الممتحنة",
+      "transcribed": 2
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "خواطر التفسير — نسخة الحلقات المرقمة والموضوعية",
+      "coverage": 0.6,
+      "coverage_pct": "60.0%",
+      "declared_total": 15,
+      "dir": "s083/",
+      "key": "s083",
+      "series_id": "shaarawy__s083",
+      "title": "خواطر تفسير سورة يس (نسخة الحلقات المرقمة والموضوعية)",
+      "transcribed": 9
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "خواطر التفسير — نسخة الحلقات المرقمة والموضوعية",
+      "coverage": 0.8421,
+      "coverage_pct": "84.2%",
+      "declared_total": 19,
+      "dir": "s084/",
+      "key": "s084",
+      "series_id": "shaarawy__s084",
+      "title": "خواطر تفسير سورة الزمر (نسخة الحلقات المرقمة والموضوعية)",
+      "transcribed": 16
+    }
+  ],
+  "slug": "sharawi",
+  "totals": {
+    "aligned": 51,
+    "chars": 13966627,
+    "lessons": 648,
+    "series": 48
+  },
+  "v": 2
 }

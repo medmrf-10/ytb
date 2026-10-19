@@ -1,86 +1,65 @@
-# ytb — مستودع مفرّغات المحاضرات
+# ytb — المستودع الموحّد لتفريغات ومحاذاة الدروس العلمية
 
-المستودع الموحّد لكل تفريغات الدروس والمحاضرات الصوتية والمرئية، يجيب بأمر واحد على سؤال:
-**«ما محتوى الشيخ الفلاني الذي لديه تفريغ؟»**
-
-```bash
-python3 tools/ask.py البوطي          # أو بالمعرّف: tools/ask.py said-bouti
-python3 tools/ask.py "أحمد السيد" --json
-```
+المستودع الرسمي الموحّد لجميع النصوص المفرّغة (`.txt`) وملفات المحاذاة الصوتية بالكلمة والثانية (`.align.json`) والبيانات الوصفية (`.meta.json`) وفق هيكلة `cheikh` القياسية.
 
 ---
 
-## 1. الإحصاءات العامة (مقيسة على الملفات، 13 أكتوبر 2026)
+## 1. الإحصاءات العامة
 
-- **إجمالي المشايخ المسجّلين**: 29 شيخاً (17 لديهم تفريغات + مجلد `unattributed` لما لم يُنسب).
-- **المجلدات في الشجرة**: 29 مجلد شيخ × 1,067 مجلد سلسلة (المفرّغة منها تحمل دروسها، والباقي
-  `_series.json` يبيّن المعلن والمنجز وحالة الانتظار).
-- **إجمالي المحاضرات المفرّغة**: 4,049 محاضرة فريدة (+4,049 ملف ميتا).
-- **إجمالي الحجم النصي**: 88,914,853 حرفاً.
-- **محاسبة المصادر**: 8,595 ملفاً مُستوعباً من المخازن الخمسة دون فقد (4,049 فائز + 4,502 مكرر مدمج +
-  44 بديلاً خاسراً محفوظاً في `_variants/`)، والتحقق `_meta/VERIFY.md` = **PASS**.
+- **المشايخ ذوو المحتوى الفعلي:** 25 شيخاً
+- **السلاسل المفرّغة:** 386 سلسلة
+- **الدروس المفرّغة نصياً (`.txt`):** 6,589 درساً
+- **الدروس المحاذاة صوتياً (`.align.json`):** 1,110 درساً
+- **إجمالي الحجم النصي:** 156,243,580 حرفاً
 
 ---
 
-## 2. المشايخ (الأعلى محتوى)
+## 2. جدول المشايخ
 
-| الشيخ | المعرّف (Slug) | السلاسل المفرغة | المحاضرات المفرغة | مجلد الحفظ |
-|---|---|---:|---:|---|
-| محمد سعيد رمضان البوطي | `said-bouti` | 26 | 1,012 | [`said-bouti/`](./said-bouti/) |
-| أدهم العاسمي | `adham-alasimi` | 23 | 452 | [`adham-alasimi/`](./adham-alasimi/) |
-| الحبيب عمر بن حفيظ | `habib-omar-ibn-hafiz` | 11 | 444 | [`habib-omar-ibn-hafiz/`](./habib-omar-ibn-hafiz/) |
-| الحبيب علي الجفري | `habib-ali-aljifri` | 14 | 442 | [`habib-ali-aljifri/`](./habib-ali-aljifri/) |
-| محمد البردوني الحسيمي | `bardouni-husaymi` | 14 | 390 | [`bardouni-husaymi/`](./bardouni-husaymi/) |
-| أحمد السيد | `ahmed-alsayed` | 17 | 284 | [`ahmed-alsayed/`](./ahmed-alsayed/) |
-| علي محمود العمري | `ali-mahmoud-alomari` | 19 | 236 | [`ali-mahmoud-alomari/`](./ali-mahmoud-alomari/) |
-| ذاكر الهاشمي | `dhaker-alhashimi` | 3 | 217 | [`dhaker-alhashimi/`](./dhaker-alhashimi/) |
+| # | الشيخ | المعرّف (`Slug`) | السلاسل | الدروس المفرغة (`.txt`) | الدروس المحاذاة (`.align.json`) | المجلد |
+|---:|---|---|---:|---:|---:|---|
+| 1 | محمد سعيد رمضان البوطي | `said-bouti` | 34 | 1,165 | 161 | [`said-bouti/`](./said-bouti/) |
+| 2 | محمد متولي الشعراوي | `sharawi` | 48 | 648 | 51 | [`sharawi/`](./sharawi/) |
+| 3 | أدهم العاسمي | `adham-alasimi` | 29 | 546 | 41 | [`adham-alasimi/`](./adham-alasimi/) |
+| 4 | أحمد السيد | `ahmed-alsayed` | 34 | 483 | 132 | [`ahmed-alsayed/`](./ahmed-alsayed/) |
+| 5 | الحبيب علي الجفري | `habib-ali-aljifri` | 23 | 471 | 29 | [`habib-ali-aljifri/`](./habib-ali-aljifri/) |
+| 6 | فاضل السامرائي | `fadhel-samarrai` | 42 | 460 | 244 | [`fadhel-samarrai/`](./fadhel-samarrai/) |
+| 7 | الحبيب عمر بن حفيظ | `habib-omar-ibn-hafiz` | 15 | 450 | 24 | [`habib-omar-ibn-hafiz/`](./habib-omar-ibn-hafiz/) |
+| 8 | ذاكر الهاشمي | `dhaker-alhashimi` | 20 | 348 | 26 | [`dhaker-alhashimi/`](./dhaker-alhashimi/) |
+| 9 | محمد البردوني الحسيمي | `bardouni-husaymi` | 16 | 343 | 70 | [`bardouni-husaymi/`](./bardouni-husaymi/) |
+| 10 | علي جمعة | `ali-gomaa` | 14 | 276 | 37 | [`ali-gomaa/`](./ali-gomaa/) |
+| 11 | محمد الحسن الددو | `daddo` | 17 | 244 | 73 | [`daddo/`](./daddo/) |
+| 12 | علي محمود العمري | `ali-mahmoud-alomari` | 18 | 241 | 15 | [`ali-mahmoud-alomari/`](./ali-mahmoud-alomari/) |
+| 13 | مولود السريري | `mouloud-sariri` | 17 | 214 | 35 | [`mouloud-sariri/`](./mouloud-sariri/) |
+| 14 | علي هاني العقرباوي | `ali-hani-aqrabawi` | 14 | 197 | 36 | [`ali-hani-aqrabawi/`](./ali-hani-aqrabawi/) |
+| 15 | أيمن عبد الرحيم | `ayman-abdelrahim` | 20 | 130 | 102 | [`ayman-abdelrahim/`](./ayman-abdelrahim/) |
+| 16 | معاذ سعيد حوى | `maath-hawa` | 7 | 92 | 23 | [`maath-hawa/`](./maath-hawa/) |
+| 17 | فاضل سليمان | `fadhel-sulaiman` | 3 | 89 | 0 | [`fadhel-sulaiman/`](./fadhel-sulaiman/) |
+| 18 | سيف العصري | `saif-alasri` | 1 | 56 | 0 | [`saif-alasri/`](./saif-alasri/) |
+| 19 | أبو بكر المشهور | `aboubakr-almashhour` | 6 | 39 | 0 | [`aboubakr-almashhour/`](./aboubakr-almashhour/) |
+| 20 | محمد عبد الواحد الحنبلي | `muhammad-abdelwahid-hanbali` | 1 | 38 | 0 | [`muhammad-abdelwahid-hanbali/`](./muhammad-abdelwahid-hanbali/) |
+| 21 | أحمد عبد المنعم | `ahmed-abdelmonem` | 1 | 20 | 0 | [`ahmed-abdelmonem/`](./ahmed-abdelmonem/) |
+| 22 | حاتم العوني | `hatem-alaouni` | 3 | 19 | 0 | [`hatem-alaouni/`](./hatem-alaouni/) |
+| 23 | سعيد الكملي | `said-kamali` | 1 | 11 | 11 | [`said-kamali/`](./said-kamali/) |
+| 24 | بن صايب | `bensaib` | 1 | 8 | 0 | [`bensaib/`](./bensaib/) |
+| 25 | دروس غير منسوبة | `unattributed` | 1 | 1 | 0 | [`unattributed/`](./unattributed/) |
 
-> الجدول الكامل (29 شيخاً و1,067 سلسلة) في [`COVERAGE.md`](./COVERAGE.md).
-
-### الشيوخ في الانتظار (بلا تفريغ بعد)
-
-لكل واحد منهم مجلد وقائمة سلاسله المعلنة، فمتى فُرّغ كتب في مكانه بلا إعادة تنظيم — والقائمة وشرحها في
-[`_meta/WAITING.md`](./_meta/WAITING.md): الشعراوي (157 سلسلة معلنة) · معاذ سعيد حوى (46) · سعيد الكملي ·
-فاضل السامرائي · أيمن عبد الرحيم · الددو · عون القدومي · أسامة الأزهري · عبد القادر الحسين · حمزة بلقاسم ·
-فتحي صافي. ومجلد `maktaba` للكتب والمتون مُعلَّم صراحةً بأنه **مستثنى** من التفريغ.
+> التفاصيل الكاملة لكل سلسلة داخل كل شيخ موجودة في [`COVERAGE.md`](./COVERAGE.md) وفي [`catalog.json`](./catalog.json).
 
 ---
 
-## 3. هيكل المستودع
+## 3. هيكل المستودع القياسي
 
-```
+```text
 ytb/
-  README.md                       # دليل المستودع
-  catalog.json                    # الفهرس العام (مشايخ/سلاسل/دروس)
-  COVERAGE.md                     # تقرير التغطية التفصيلي
-  <sheikh-slug>/                  # مجلد الشيخ (slug لاتيني مجمّد) + _sheikh.json + README.md
-    <row-key>/                    # مجلد السلسلة + _series.json (المعلن/المفرّغ) + README.md
-      <NNN>_<vid>.txt             # نص المحاضرة الفائز (بايتات المصدر كما هي)
-      <NNN>_<vid>.meta.json       # معرّف يوتيوب، المصادر، البصمة sha256، الجودة
-      <NNN>_<vid>.sum.json        # الملخص (إن وُجد)
-      <NNN>_<vid>.questions.json  # الأسئلة (إن وُجدت)
-      _variants/                  # النصوص البديلة الخاسرة عند التعارض (بلا حذف)
-  tools/                          # ask.py · verify.py · build_index.py --check · resolve.py · apply.py
-  _meta/                          # الأدلة: plan.jsonl · RESOLVE.json · VERIFY.md · layers.json · LAYERS.md …
+  README.md                       # الواجهة الرئيسية والإحصاءات العامة
+  COVERAGE.md                     # تقرير التغطية التفصيلي لكل شيخ وسلسلة
+  catalog.json                    # الفهرس المركزي المهيكل
+  <sheikh-slug>/                  # مجلد الشيخ + _sheikh.json + _index.json
+    <s_code>/                     # مجلد السلسلة القياسي (مثل s001) + _meta.json + _index.json
+      <NNN>_<vid>.txt             # النص العربي المطهّر للمحاضرة
+      <NNN>_<vid>.align.json      # المحاذاة الصوتية الدقيقة (كلمة بكلمة بالثانية)
+      <NNN>_<vid>.meta.json       # البيانات الوصفية للمحاضرة
+  tools/                          # أدوات الفهرسة والتحقق (build_index.py)
+  _meta/                          # سجلات الجرد والتحقق المرجعية
 ```
-
----
-
-## 4. طبقة المحاذاة والملخصات
-
-- الملخصات (1,943 ملفاً) والأسئلة (1,046 ملفاً) مضمّنة بجانب دروسها.
-- **المحاذاة (2,831 ملفاً ≈ 476 ميغابايت) مفهرسة وليست منسوخة** — كل درس يبيّن فهرسه أين تقع محاذاته في
-  المخزن المصدر وحجمها وبصمتها ([`_meta/layers.json`](./_meta/layers.json) وشرحها في
-  [`_meta/LAYERS.md`](./_meta/LAYERS.md))، لأنها ليست مطلوبة في هذه المرحلة ومكانها الأصلي لم يُمس.
-- ولإلحاقها بأمر واحد: `python3 ../ytb-build/layers_tool.py attach` (وعكسه `trim`، ولا يُحذف ملف إلا بعد
-  إثبات وجود نسخته الأصلية المطابقة بالحجم والبصمة).
-
----
-
-## 5. قواعد وثوابت
-
-1. **المصادر للقراءة فقط**: لم يُعدَّل أو يُحذف أي بايت في `hawshat` أو `des` أو `irth`.
-2. **لا حذف أبداً**: عند التعارض يفوز الأحدث (أو الأكمل)، ويُحفظ الخاسر في `_variants/`.
-3. **ثبات الهوية**: معرّف يوتيوب أولاً `yt:<vid>`، ثم رقم الصف والدرس `rn:<row>:<n>`.
-4. **الأسماء القانونية** من السجل المعتمد `registry.json` بلا ارتجال.
-5. **الاستثناء الصريح للكتب**: `des/shami|nusus|kutub|manzuma|jadid2` و`hawshat/irth-simulation` (مُولّد).

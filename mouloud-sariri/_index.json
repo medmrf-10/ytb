@@ -1,784 +1,235 @@
 {
- "aliases": [
-  "مولود السريري",
-  "السريري"
- ],
- "name": "مولود السريري",
- "name_display": "مولود السريري",
- "series": [
-  {
-   "coverage": 0.0,
-   "declared_total": 22,
-   "dir": "1/",
-   "key": "1",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 11,
-   "dir": "11/",
-   "key": "11",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 4,
-   "dir": "12/",
-   "key": "12",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 19,
-   "dir": "13/",
-   "key": "13",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 3,
-   "dir": "14/",
-   "key": "14",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 10,
-   "dir": "15/",
-   "key": "15",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 63,
-   "dir": "16/",
-   "key": "16",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 11,
-   "dir": "17/",
-   "key": "17",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 1,
-   "dir": "18/",
-   "key": "18",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 6,
-   "dir": "19/",
-   "key": "19",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 3,
-   "dir": "2/",
-   "key": "2",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 5,
-   "dir": "20/",
-   "key": "20",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 12,
-   "dir": "21/",
-   "key": "21",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 301,
-   "dir": "22/",
-   "key": "22",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 881,
-   "dir": "23/",
-   "key": "23",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 9,
-   "dir": "24/",
-   "key": "24",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 4,
-   "dir": "25/",
-   "key": "25",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 4,
-   "dir": "26/",
-   "key": "26",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 13,
-   "dir": "27/",
-   "key": "27",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 13,
-   "dir": "28/",
-   "key": "28",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 39,
-   "dir": "29/",
-   "key": "29",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 36,
-   "dir": "3/",
-   "key": "3",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 57,
-   "dir": "30/",
-   "key": "30",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 57,
-   "dir": "31/",
-   "key": "31",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 4,
-   "dir": "32/",
-   "key": "32",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 21,
-   "dir": "33/",
-   "key": "33",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 198,
-   "dir": "34/",
-   "key": "34",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 19,
-   "dir": "35/",
-   "key": "35",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 23,
-   "dir": "36/",
-   "key": "36",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 5,
-   "dir": "38/",
-   "key": "38",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 21,
-   "dir": "39/",
-   "key": "39",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 19,
-   "dir": "4/",
-   "key": "4",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 10,
-   "dir": "40/",
-   "key": "40",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 3,
-   "dir": "41/",
-   "key": "41",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 7,
-   "dir": "42/",
-   "key": "42",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 3,
-   "dir": "43/",
-   "key": "43",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 5,
-   "dir": "44/",
-   "key": "44",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 17,
-   "dir": "45/",
-   "key": "45",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 3,
-   "dir": "46/",
-   "key": "46",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 4,
-   "dir": "47/",
-   "key": "47",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 44,
-   "dir": "48/",
-   "key": "48",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 26,
-   "dir": "49/",
-   "key": "49",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 7,
-   "dir": "5/",
-   "key": "5",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 6,
-   "dir": "50/",
-   "key": "50",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 834,
-   "dir": "51/",
-   "key": "51",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 311,
-   "dir": "52/",
-   "key": "52",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 123,
-   "dir": "53/",
-   "key": "53",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 12,
-   "dir": "54/",
-   "key": "54",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.4943,
-   "declared_total": 176,
-   "dir": "55/",
-   "key": "55",
-   "row_id": "mouloud-sariri--55",
-   "title": "خطب منبرية / الشيخ العلامة مولود السريري",
-   "transcribed": 87
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 43,
-   "dir": "56/",
-   "key": "56",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 28,
-   "dir": "57/",
-   "key": "57",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 4,
-   "dir": "58/",
-   "key": "58",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 4,
-   "dir": "59/",
-   "key": "59",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 24,
-   "dir": "6/",
-   "key": "6",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 14,
-   "dir": "60/",
-   "key": "60",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 182,
-   "dir": "61/",
-   "key": "61",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 63,
-   "dir": "62/",
-   "key": "62",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 154,
-   "dir": "63/",
-   "key": "63",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 25,
-   "dir": "64/",
-   "key": "64",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 159,
-   "dir": "65/",
-   "key": "65",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 43,
-   "dir": "66/",
-   "key": "66",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 79,
-   "dir": "67/",
-   "key": "67",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 4,
-   "dir": "68/",
-   "key": "68",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 2,
-   "dir": "69/",
-   "key": "69",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 24,
-   "dir": "7/",
-   "key": "7",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 33,
-   "dir": "70/",
-   "key": "70",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 2,
-   "dir": "71/",
-   "key": "71",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 16,
-   "dir": "72/",
-   "key": "72",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 1,
-   "dir": "73/",
-   "key": "73",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 4,
-   "dir": "74/",
-   "key": "74",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 3,
-   "dir": "75/",
-   "key": "75",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 14,
-   "dir": "76/",
-   "key": "76",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 3,
-   "dir": "77/",
-   "key": "77",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 1,
-   "dir": "78/",
-   "key": "78",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 20,
-   "dir": "79/",
-   "key": "79",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 2,
-   "dir": "8/",
-   "key": "8",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 9,
-   "dir": "80/",
-   "key": "80",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 90,
-   "dir": "81/",
-   "key": "81",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 11,
-   "dir": "82/",
-   "key": "82",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 2,
-   "dir": "83/",
-   "key": "83",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 2,
-   "dir": "84/",
-   "key": "84",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 3,
-   "dir": "85/",
-   "key": "85",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 3,
-   "dir": "86/",
-   "key": "86",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 14,
-   "dir": "87/",
-   "key": "87",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 726,
-   "dir": "9/",
-   "key": "9",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  }
- ],
- "slug": "mouloud-sariri",
- "totals": {
-  "chars": 1011779,
-  "lessons": 87,
-  "series": 85,
-  "unsorted": 0,
-  "with_vid": 87
- },
- "v": 1
+  "name": "مولود السريري",
+  "name_display": "مولود السريري",
+  "series": [
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "الفقه المالكي وأصوله",
+      "coverage": 0.0019,
+      "coverage_pct": "0.2%",
+      "declared_total": 1040,
+      "dir": "s001/",
+      "key": "s001",
+      "series_id": "sariri__s001",
+      "title": "شرح مختصر خليل في الفقه المالكي (من المقدمة والطهارة إلى باب النكاح وفصل الإيلاء — الدروس 1 – 1036)",
+      "transcribed": 2
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "الفقه المالكي وأصوله",
+      "coverage": 0.5,
+      "coverage_pct": "50.0%",
+      "declared_total": 28,
+      "dir": "s004/",
+      "key": "s004",
+      "series_id": "sariri__s004",
+      "title": "سلسلة دروس الصناعة الفقهية (كاملاً — 26 محاضرة)",
+      "transcribed": 14
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "الفقه المالكي وأصوله",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 3,
+      "dir": "s005/",
+      "key": "s005",
+      "series_id": "sariri__s005",
+      "title": "مسائل في أحكام الأضحية (3 دروس)",
+      "transcribed": 3
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "أصول الفقه ومقاصد الشريعة",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 19,
+      "dir": "s007/",
+      "key": "s007",
+      "series_id": "sariri__s007",
+      "title": "شرح متن الورقات في أصول الفقه لإمام الحرمين الجويني (كاملاً — 19 درساً)",
+      "transcribed": 19
+    },
+    {
+      "aligned": 10,
+      "aligned_pct": "100.0%",
+      "category": "أصول الفقه ومقاصد الشريعة",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 10,
+      "dir": "s008/",
+      "key": "s008",
+      "series_id": "sariri__s008",
+      "title": "شرح نظم الورقات للعمريطي (كاملاً — 8 مجالس)",
+      "transcribed": 10
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "أصول الفقه ومقاصد الشريعة",
+      "coverage": 0.1667,
+      "coverage_pct": "16.7%",
+      "declared_total": 24,
+      "dir": "s014/",
+      "key": "s014",
+      "series_id": "sariri__s014",
+      "title": "شرح كتاب إيصال السالك في أصول الإمام مالك لمحمد يحيى الولاتي (كاملاً — الدروس 1 – 24)",
+      "transcribed": 4
+    },
+    {
+      "aligned": 1,
+      "aligned_pct": "100.0%",
+      "category": "أصول الفقه ومقاصد الشريعة",
+      "coverage": 0.1667,
+      "coverage_pct": "16.7%",
+      "declared_total": 6,
+      "dir": "s017/",
+      "key": "s017",
+      "series_id": "sariri__s017",
+      "title": "سلسلة معالم النظر في الأدلة الشرعية (6 دروس)",
+      "transcribed": 1
+    },
+    {
+      "aligned": 3,
+      "aligned_pct": "100.0%",
+      "category": "أصول الفقه ومقاصد الشريعة",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 3,
+      "dir": "s019/",
+      "key": "s019",
+      "series_id": "sariri__s019",
+      "title": "سلسلة الحاجة إلى علم أصول الفقه في علاج الآفات النظرية والمعرفية المعاصرة (3 محاضرات)",
+      "transcribed": 3
+    },
+    {
+      "aligned": 6,
+      "aligned_pct": "85.7%",
+      "category": "أصول الفقه ومقاصد الشريعة",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 7,
+      "dir": "s022/",
+      "key": "s022",
+      "series_id": "sariri__s022",
+      "title": "سلسلة علم المقاصد وموضعه في الفتوى الشرعية ومحاورة المقاصديين (7 مجالس)",
+      "transcribed": 7
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "اللغة العربية والأدب",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 17,
+      "dir": "s024/",
+      "key": "s024",
+      "series_id": "sariri__s024",
+      "title": "شرح مقامات الحريري (مقدمة الكتاب ومنهج تحصيل الملكة الأدبية — 17 درساً)",
+      "transcribed": 17
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "اللغة العربية والأدب",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 19,
+      "dir": "s027/",
+      "key": "s027",
+      "series_id": "sariri__s027",
+      "title": "شرح متن الصرف الصغير (كاملاً — 19 درساً)",
+      "transcribed": 19
+    },
+    {
+      "aligned": 5,
+      "aligned_pct": "100.0%",
+      "category": "العقيدة والفكر والمنهج",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 5,
+      "dir": "s030/",
+      "key": "s030",
+      "series_id": "sariri__s030",
+      "title": "سلسلة العقيدة الفقهية وسبيل حصول نهضة فقهية (5 محاضرات)",
+      "transcribed": 5
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "العقيدة والفكر والمنهج",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 15,
+      "dir": "s031/",
+      "key": "s031",
+      "series_id": "sariri__s031",
+      "title": "سلسلة قاعدة «التفويض في الكيف لا يرفع المعنى» والحوارات العقدية المتعلقة بها (15 مجلساً)",
+      "transcribed": 15
+    },
+    {
+      "aligned": 3,
+      "aligned_pct": "100.0%",
+      "category": "العقيدة والفكر والمنهج",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 3,
+      "dir": "s032/",
+      "key": "s032",
+      "series_id": "sariri__s032",
+      "title": "سلسلة عقيدتنا في المعرفة البشرية (الأصل الأول والثالث والرابع — 3 محاضرات)",
+      "transcribed": 3
+    },
+    {
+      "aligned": 3,
+      "aligned_pct": "100.0%",
+      "category": "العقيدة والفكر والمنهج",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 3,
+      "dir": "s036/",
+      "key": "s036",
+      "series_id": "sariri__s036",
+      "title": "سلسلة مفهوم فهم السلف والسنة والجماعة واللامذهبية (3 مجالس)",
+      "transcribed": 3
+    },
+    {
+      "aligned": 4,
+      "aligned_pct": "100.0%",
+      "category": "التزكية والأخلاق والآداب",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 4,
+      "dir": "s040/",
+      "key": "s040",
+      "series_id": "sariri__s040",
+      "title": "كلمات توجيهية في الشدائد والمناعة الإيمانية (4 مجالس)",
+      "transcribed": 4
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "الخطب والوعظ",
+      "coverage": 0.425,
+      "coverage_pct": "42.5%",
+      "declared_total": 200,
+      "dir": "s043/",
+      "key": "s043",
+      "series_id": "sariri__s043",
+      "title": "خطب منبرية وخطب الجمعة",
+      "transcribed": 85
+    }
+  ],
+  "slug": "mouloud-sariri",
+  "totals": {
+    "aligned": 35,
+    "chars": 4455658,
+    "lessons": 214,
+    "series": 17
+  },
+  "v": 2
 }

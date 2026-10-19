@@ -1,94 +1,88 @@
 {
- "coverage": 0.2667,
- "declared_total": 30,
- "lessons": [
-  {
-   "chars": 8171,
-   "file": "001_7r0DKYzG1Kg.txt",
-   "n": 1,
-   "quality": "ok",
-   "sha256": "afe4004002f3fbfbb2bbba862ca6d89a1cf7cf32272b570001463ee1dcabd34c",
-   "title": "الحبيب أبوبكر المشهور | برنامج أزمة عصر الحلقة الأولى: أزمة التربية ⑴",
-   "variants": 0,
-   "vid": "7r0DKYzG1Kg"
-  },
-  {
-   "chars": 2713,
-   "file": "006_CB6rQLm-e0Y.txt",
-   "n": 6,
-   "quality": "ok",
-   "sha256": "d1b416b2286740212e58af95c475d87ff1ac697b2e54455f965c04b49ee8dfe7",
-   "title": "الحبيب أبوبكر المشهور | برنامج أزمة عصر الحلقة السادسة | أزمة التعليم ➀",
-   "variants": 0,
-   "vid": "CB6rQLm-e0Y"
-  },
-  {
-   "chars": 14709,
-   "file": "009_vDXo4D0Ms8Y.txt",
-   "n": 9,
-   "quality": "ok",
-   "sha256": "3516ce976bf3add33b66c3b8fbd8c2348f2f0f8c61d89699ef99c067e73b5e3d",
-   "title": "الحبيب أبوبكر المشهور | برنامج أزمة عصر الحلقة التاسعة | أزمة الإقتصاد والإكتفاء الذاتي ❶",
-   "variants": 0,
-   "vid": "vDXo4D0Ms8Y"
-  },
-  {
-   "chars": 12079,
-   "file": "010_9E8Ji-SRZrM.txt",
-   "n": 10,
-   "quality": "ok",
-   "sha256": "bc8d88f759ff89dd2e397ee954374c5687ad0f527146fff5540110cc6bfdb798",
-   "title": "الحبيب أبوبكر المشهور | برنامج أزمة عصر الحلقة العاشرة | أزمة الاقتصاد والاكتفاء الذاتي ❷",
-   "variants": 0,
-   "vid": "9E8Ji-SRZrM"
-  },
-  {
-   "chars": 10786,
-   "file": "011_Vd7Au-oA5zc.txt",
-   "n": 11,
-   "quality": "ok",
-   "sha256": "cd0bf43d44814b7c41696c569bbb313d9df1d54d67dc60e827bc55dca1adeefe",
-   "title": "الحبيب أبوبكر المشهور | برنامج أزمة عصر الحلقة الحادية عشر | أزمة المواقف والمسؤوليات",
-   "variants": 0,
-   "vid": "Vd7Au-oA5zc"
-  },
-  {
-   "chars": 15053,
-   "file": "012_bCQjL1GVcdo.txt",
-   "n": 12,
-   "quality": "ok",
-   "sha256": "58aa6201a6572a073897acc5317b9f44d1b308b46dc4a776fdc72be19de7004b",
-   "title": "الحبيب أبوبكر المشهور | برنامج أزمة عصر الحلقة الثانية عشر | أزمة فساد المرأة",
-   "variants": 0,
-   "vid": "bCQjL1GVcdo"
-  },
-  {
-   "chars": 12274,
-   "file": "013_g3PTMYwyzNI.txt",
-   "n": 13,
-   "quality": "ok",
-   "sha256": "589ec2b9dce3a073127f26a2565c3dde38ed2a112b80e7826127755edeeb04b9",
-   "title": "الحبيب أبوبكر المشهور | برنامج أزمة عصر الحلقة الثالثة عشر | أزمة الهوية والإنتماء",
-   "variants": 0,
-   "vid": "g3PTMYwyzNI"
-  },
-  {
-   "chars": 12946,
-   "file": "014_09JdHvjTxN4.txt",
-   "n": 14,
-   "quality": "ok",
-   "sha256": "10490b7ef8857aedf2b04d1320d8bd3e68d39567b0ff7e46750549fb22701b5c",
-   "title": "الحبيب أبوبكر المشهور | برنامج أزمة عصر الحلقة الرابعة عشر | أزمة الإرهاب والتطرف",
-   "variants": 0,
-   "vid": "09JdHvjTxN4"
-  }
- ],
- "playlists": [
-  "PLEyInll7oEPtSN25qwX3bsacn9xc9lbVc"
- ],
- "row_id": "aboubakr-almashhour--mashhour-azma",
- "sheikh": "aboubakr-almashhour",
- "title": "أزمة عصر",
- "transcribed": 8,
- "v": 1
+  "aligned": 0,
+  "aligned_ratio": 0.0,
+  "category": "",
+  "coverage": 1.0,
+  "declared_total": 8,
+  "key": "mashhour-azma",
+  "lessons": [
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 8171,
+      "file": "001_7r0DKYzG1Kg.txt",
+      "n": 1,
+      "title": "الحبيب أبوبكر المشهور | برنامج أزمة عصر الحلقة الأولى: أزمة التربية ⑴",
+      "vid": "7r0DKYzG1Kg"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 2713,
+      "file": "006_CB6rQLm-e0Y.txt",
+      "n": 6,
+      "title": "الحبيب أبوبكر المشهور | برنامج أزمة عصر الحلقة السادسة | أزمة التعليم ➀",
+      "vid": "CB6rQLm-e0Y"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 14468,
+      "file": "009_vDXo4D0Ms8Y.txt",
+      "n": 9,
+      "title": "الحبيب أبوبكر المشهور | برنامج أزمة عصر الحلقة التاسعة | أزمة الإقتصاد والإكتفاء الذاتي ❶",
+      "vid": "vDXo4D0Ms8Y"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 11680,
+      "file": "010_9E8Ji-SRZrM.txt",
+      "n": 10,
+      "title": "الحبيب أبوبكر المشهور | برنامج أزمة عصر الحلقة العاشرة | أزمة الاقتصاد والاكتفاء الذاتي ❷",
+      "vid": "9E8Ji-SRZrM"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 10366,
+      "file": "011_Vd7Au-oA5zc.txt",
+      "n": 11,
+      "title": "الحبيب أبوبكر المشهور | برنامج أزمة عصر الحلقة الحادية عشر | أزمة المواقف والمسؤوليات",
+      "vid": "Vd7Au-oA5zc"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 14655,
+      "file": "012_bCQjL1GVcdo.txt",
+      "n": 12,
+      "title": "الحبيب أبوبكر المشهور | برنامج أزمة عصر الحلقة الثانية عشر | أزمة فساد المرأة",
+      "vid": "bCQjL1GVcdo"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 11874,
+      "file": "013_g3PTMYwyzNI.txt",
+      "n": 13,
+      "title": "الحبيب أبوبكر المشهور | برنامج أزمة عصر الحلقة الثالثة عشر | أزمة الهوية والإنتماء",
+      "vid": "g3PTMYwyzNI"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 12723,
+      "file": "014_09JdHvjTxN4.txt",
+      "n": 14,
+      "title": "الحبيب أبوبكر المشهور | برنامج أزمة عصر الحلقة الرابعة عشر | أزمة الإرهاب والتطرف",
+      "vid": "09JdHvjTxN4"
+    }
+  ],
+  "series_id": "aboubakr-almashhour__mashhour-azma",
+  "sheikh": "aboubakr-almashhour",
+  "sheikh_name": "أبو بكر المشهور",
+  "title": "أزمة عصر",
+  "transcribed": 8,
+  "v": 2
 }

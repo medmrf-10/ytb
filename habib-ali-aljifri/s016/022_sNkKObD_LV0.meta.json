@@ -1,37 +1,8 @@
 {
- "v": 1,
- "lid": "rn:habib-ali-aljifri--101:23",
- "vid": null,
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--101",
- "n": 23,
- "n_src": "read",
- "title": "أيها المريد ｜ الحلقة22 ｜ مفهوم الشوق ｜ علي الجفري ｜",
- "title_src": "filename",
- "sha256": "8a7b837ef85236e355cc3c1f47b79df51280d4233f2b72f94fc7e9bf5aa37415",
- "nh": "1181e47cb1a258900852caf9a6d65803896db3ba05b7de5ce9a825c1c0d5c840",
- "chars": 11210,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/101/023_أيها المريد ｜ الحلقة22 ｜ مفهوم  الشوق ｜ علي الجفري ｜ English subtitle.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/101/023_أيها المريد ｜ الحلقة22 ｜ مفهوم  الشوق ｜ علي الجفري ｜ English subtitle.txt",
-   "sha256": "8a7b837ef85236e355cc3c1f47b79df51280d4233f2b72f94fc7e9bf5aa37415",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/101/22.txt",
-   "sha256": "8a7b837ef85236e355cc3c1f47b79df51280d4233f2b72f94fc7e9bf5aa37415",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": []
+  "dur_s": 1546.4,
+  "chars": 11939,
+  "words": 2226,
+  "wpm": 86.4,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

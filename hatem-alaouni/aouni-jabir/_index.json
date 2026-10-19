@@ -1,94 +1,88 @@
 {
- "coverage": 1.0,
- "declared_total": 8,
- "lessons": [
-  {
-   "chars": 13307,
-   "file": "001_uYqJpWKfZPk.txt",
-   "n": 1,
-   "quality": "ok",
-   "sha256": "4fcc75d79900d070e5f266ee1a669082b1bc7676e092041be09be9179c40d679",
-   "title": "الدرس الأول حول حديث جابر في تفسير اللهو الوارد في آية {وَإِذَا رَأَوْا تِجَارَةً أَوْ لَهْوًا}",
-   "variants": 0,
-   "vid": "uYqJpWKfZPk"
-  },
-  {
-   "chars": 13301,
-   "file": "002_zL2JVAGsooM.txt",
-   "n": 2,
-   "quality": "ok",
-   "sha256": "1aab5a958cb539d8c9106dc8d7a8fd878caf8182175ebeaccde96772d7326d26",
-   "title": "الدرس الثاني : في إثبات أن الحافظ أبا الفضل أحمد بن سلمة النيسابوري وأبا عوانة قد صححا حديث جابر",
-   "variants": 0,
-   "vid": "zL2JVAGsooM"
-  },
-  {
-   "chars": 11757,
-   "file": "003_GwvaDsT6RyA.txt",
-   "n": 3,
-   "quality": "ok",
-   "sha256": "18f86793dfe2836d4526bbc555e175b5fb901173f96bc616bc2b42e3e65574ae",
-   "title": "الدرس الثالث : في بيان أن الإمام محمد بن جرير الطبري صحح الحديث .",
-   "variants": 0,
-   "vid": "GwvaDsT6RyA"
-  },
-  {
-   "chars": 10368,
-   "file": "004_c3zEDThEyLg.txt",
-   "n": 4,
-   "quality": "ok",
-   "sha256": "3f498ca79fbdaa021bed9eec40b47a117652d3c2f03127a9fbf25d939c658f38",
-   "title": "الدرس الرابع : الاستمرار في التأكيد على تصحيح العلماء للحديث ، والرد على بعض شبههم في فقهه ودلالته .",
-   "variants": 0,
-   "vid": "c3zEDThEyLg"
-  },
-  {
-   "chars": 10035,
-   "file": "005_X2kn9G5G7H0.txt",
-   "n": 5,
-   "quality": "ok",
-   "sha256": "346555415333ae2bfc5289b5038fa21330eb0ad1f6bf3d47c422933d3edbe5fb",
-   "title": "الدرس الخامس : الرد على من زعم أن المقصود بـ(الكَبَر) : الدف | أ.د الشريف حاتم العوني",
-   "variants": 0,
-   "vid": "X2kn9G5G7H0"
-  },
-  {
-   "chars": 10969,
-   "file": "006_05YZI4BevOE.txt",
-   "n": 6,
-   "quality": "ok",
-   "sha256": "b991514cbce0ae597d0609c42978df81f25092324632de477a5912bd1f0fdb1b",
-   "title": "الدرس السادس : بيان أن المقصود بالمزامير آلة المعازف المعروفة بهذا الاسم حتى اليوم | أ.د حاتم العوني",
-   "variants": 0,
-   "vid": "05YZI4BevOE"
-  },
-  {
-   "chars": 8777,
-   "file": "007_M0a7k4Mgu9w.txt",
-   "n": 7,
-   "quality": "ok",
-   "sha256": "d4cb851e0f42448f81d63e2619393f27a40d7c92a8d7c34f92017954aeee9a9c",
-   "title": "الدرس السابع : التأكيد على أن المزمار المراد به في حديث جابر آلة المعازف | أ.د الشريف حاتم العوني",
-   "variants": 0,
-   "vid": "M0a7k4Mgu9w"
-  },
-  {
-   "chars": 13266,
-   "file": "008_x_P4ENKcrbc.txt",
-   "n": 8,
-   "quality": "ok",
-   "sha256": "d1d91f9b2cd32be5e77dd1a0a1fab6b0206c717b8171117972b5b8a9b2cc27b2",
-   "title": "الدرس الثامن : الرد على من زعم نسخ حديث جابر | أ.د الشريف حاتم العوني",
-   "variants": 0,
-   "vid": "x_P4ENKcrbc"
-  }
- ],
- "playlists": [
-  "PLMQtoa0AhxvK1zwvzIIDZDbUyNv0o3AqC"
- ],
- "row_id": "hatem-alaouni--aouni-jabir",
- "sheikh": "hatem-alaouni",
- "title": "قصة سيدنا جابر",
- "transcribed": 8,
- "v": 1
+  "aligned": 0,
+  "aligned_ratio": 0.0,
+  "category": "",
+  "coverage": 1.0,
+  "declared_total": 8,
+  "key": "aouni-jabir",
+  "lessons": [
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 13211,
+      "file": "001_uYqJpWKfZPk.txt",
+      "n": 1,
+      "title": "الدرس الأول حول حديث جابر في تفسير اللهو الوارد في آية {وَإِذَا رَأَوْا تِجَارَةً أَوْ لَهْوًا}",
+      "vid": "uYqJpWKfZPk"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 13301,
+      "file": "002_zL2JVAGsooM.txt",
+      "n": 2,
+      "title": "الدرس الثاني : في إثبات أن الحافظ أبا الفضل أحمد بن سلمة النيسابوري وأبا عوانة قد صححا حديث جابر",
+      "vid": "zL2JVAGsooM"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 11757,
+      "file": "003_GwvaDsT6RyA.txt",
+      "n": 3,
+      "title": "الدرس الثالث : في بيان أن الإمام محمد بن جرير الطبري صحح الحديث .",
+      "vid": "GwvaDsT6RyA"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 10368,
+      "file": "004_c3zEDThEyLg.txt",
+      "n": 4,
+      "title": "الدرس الرابع : الاستمرار في التأكيد على تصحيح العلماء للحديث ، والرد على بعض شبههم في فقهه ودلالته .",
+      "vid": "c3zEDThEyLg"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 9978,
+      "file": "005_X2kn9G5G7H0.txt",
+      "n": 5,
+      "title": "الدرس الخامس : الرد على من زعم أن المقصود بـ(الكَبَر) : الدف | أ.د الشريف حاتم العوني",
+      "vid": "X2kn9G5G7H0"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 10969,
+      "file": "006_05YZI4BevOE.txt",
+      "n": 6,
+      "title": "الدرس السادس : بيان أن المقصود بالمزامير آلة المعازف المعروفة بهذا الاسم حتى اليوم | أ.د حاتم العوني",
+      "vid": "05YZI4BevOE"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 8707,
+      "file": "007_M0a7k4Mgu9w.txt",
+      "n": 7,
+      "title": "الدرس السابع : التأكيد على أن المزمار المراد به في حديث جابر آلة المعازف | أ.د الشريف حاتم العوني",
+      "vid": "M0a7k4Mgu9w"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 13266,
+      "file": "008_x_P4ENKcrbc.txt",
+      "n": 8,
+      "title": "الدرس الثامن : الرد على من زعم نسخ حديث جابر | أ.د الشريف حاتم العوني",
+      "vid": "x_P4ENKcrbc"
+    }
+  ],
+  "series_id": "hatem-alaouni__aouni-jabir",
+  "sheikh": "hatem-alaouni",
+  "sheikh_name": "حاتم العوني",
+  "title": "قصة سيدنا جابر",
+  "transcribed": 8,
+  "v": 2
 }

@@ -1,37 +1,8 @@
 {
- "v": 1,
- "lid": "rn:habib-ali-aljifri--101:22",
- "vid": null,
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--101",
- "n": 22,
- "n_src": "read",
- "title": "أيها المريد ｜ الحلقة21 ｜ مفهوم المحبه ｜ علي الجفري ｜",
- "title_src": "filename",
- "sha256": "d95efb6073e37c514f6e99115e02f89d8fcbbc7c34e6b7a679cdd1ace7c9c770",
- "nh": "27b0f9bfaac71698ee0c40d1d1cc2f1735b492510b64ce2e0ddb1b47f7c174fb",
- "chars": 11261,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/101/022_أيها المريد ｜ الحلقة21 ｜ مفهوم  المحبه ｜ علي الجفري ｜ English subtitle.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/101/022_أيها المريد ｜ الحلقة21 ｜ مفهوم  المحبه ｜ علي الجفري ｜ English subtitle.txt",
-   "sha256": "d95efb6073e37c514f6e99115e02f89d8fcbbc7c34e6b7a679cdd1ace7c9c770",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/101/21.txt",
-   "sha256": "d95efb6073e37c514f6e99115e02f89d8fcbbc7c34e6b7a679cdd1ace7c9c770",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": []
+  "dur_s": 1462.9,
+  "chars": 12225,
+  "words": 2296,
+  "wpm": 94.2,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

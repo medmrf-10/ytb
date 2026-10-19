@@ -1,37 +1,8 @@
 {
- "v": 1,
- "lid": "rn:habib-ali-aljifri--101:21",
- "vid": null,
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--101",
- "n": 21,
- "n_src": "read",
- "title": "أيها المريد ｜ الحلقة 20 ｜ حقائق المحبه ｜ علي الجفري ｜",
- "title_src": "filename",
- "sha256": "dad529a04301db75bd7bec9f9f365720f97010f7a5b108344f7041e2991f27b9",
- "nh": "31e5297081327842bb0fb7f40e34136f604a016b9c3264700499c544f43fcd60",
- "chars": 12619,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/101/021_أيها المريد ｜ الحلقة 20 ｜ حقائق المحبه ｜ علي الجفري ｜ English subtitle.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/101/021_أيها المريد ｜ الحلقة 20 ｜ حقائق المحبه ｜ علي الجفري ｜ English subtitle.txt",
-   "sha256": "dad529a04301db75bd7bec9f9f365720f97010f7a5b108344f7041e2991f27b9",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/101/20.txt",
-   "sha256": "dad529a04301db75bd7bec9f9f365720f97010f7a5b108344f7041e2991f27b9",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": []
+  "dur_s": 1469.7,
+  "chars": 13551,
+  "words": 2500,
+  "wpm": 102.1,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

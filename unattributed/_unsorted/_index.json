@@ -1,22 +1,25 @@
 {
- "coverage": 1.0,
- "declared_total": 1,
- "lessons": [
-  {
-   "chars": 10105,
-   "file": "181.txt",
-   "n": 181,
-   "quality": "ok",
-   "sha256": "aa4adfc875328e22101bc1c6dcfd2d64bf0beab3755db56104407ef31a98dfe8",
-   "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 181",
-   "variants": 0,
-   "vid": null
-  }
- ],
- "playlists": [],
- "row_id": "unattributed--_unsorted",
- "sheikh": "unattributed",
- "title": "تفريغات متفرقة غير منسوبة",
- "transcribed": 1,
- "v": 1
+  "aligned": 0,
+  "aligned_ratio": 0.0,
+  "category": "",
+  "coverage": 1.0,
+  "declared_total": 1,
+  "key": "_unsorted",
+  "lessons": [
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 10105,
+      "file": "181.txt",
+      "n": 181,
+      "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 181",
+      "vid": null
+    }
+  ],
+  "series_id": "unattributed___unsorted",
+  "sheikh": "unattributed",
+  "sheikh_name": "دروس غير منسوبة",
+  "title": "تفريغات متفرقة غير منسوبة",
+  "transcribed": 1,
+  "v": 2
 }

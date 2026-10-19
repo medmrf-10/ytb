@@ -1,37 +1,8 @@
 {
- "v": 1,
- "lid": "rn:habib-ali-aljifri--101:16",
- "vid": null,
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--101",
- "n": 16,
- "n_src": "read",
- "title": "أيها المريد ｜ الحلقة 15 ｜ مفهوم التوكل ｜ علي الجفري ｜",
- "title_src": "filename",
- "sha256": "b7b29b4b040dec09164625f05911d3450ffee706479cc506e8e540fd1dd5e717",
- "nh": "a9a91447bebd5c69572afff9b8bf66edb8800f692a9ec4ff433b493e4e4bd650",
- "chars": 13408,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/101/016_أيها المريد ｜ الحلقة 15 ｜ مفهوم التوكل ｜ علي الجفري ｜ English subtitle.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/101/016_أيها المريد ｜ الحلقة 15 ｜ مفهوم التوكل ｜ علي الجفري ｜ English subtitle.txt",
-   "sha256": "b7b29b4b040dec09164625f05911d3450ffee706479cc506e8e540fd1dd5e717",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/101/15.txt",
-   "sha256": "b7b29b4b040dec09164625f05911d3450ffee706479cc506e8e540fd1dd5e717",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": []
+  "dur_s": 1582.8,
+  "chars": 13920,
+  "words": 2535,
+  "wpm": 96.1,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

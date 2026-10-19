@@ -1,576 +1,391 @@
 {
- "aliases": [
-  "العاسمي"
- ],
- "name": "أدهم العاسمي",
- "name_display": "أدهم العاسمي",
- "series": [
-  {
-   "coverage": 0.0,
-   "declared_total": 14,
-   "dir": "743/",
-   "key": "743",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
+  "name": "أدهم العاسمي",
+  "name_display": "أدهم العاسمي",
+  "series": [
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "تفسير وتدبر",
+      "coverage": 0.2097,
+      "coverage_pct": "21.0%",
+      "declared_total": 124,
+      "dir": "s006/",
+      "key": "s006",
+      "series_id": "asimi__s006",
+      "title": "سلسلة القصص القرآني",
+      "transcribed": 26
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "شرح علمي",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 21,
+      "dir": "s007/",
+      "key": "s007",
+      "series_id": "asimi__s007",
+      "title": "عقيدة أهل السنة (المستوى التمهيدي)",
+      "transcribed": 21
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "شرح علمي",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 33,
+      "dir": "s008/",
+      "key": "s008",
+      "series_id": "asimi__s008",
+      "title": "شرح متن المقدمات للسنوسي (عقيدة أهل السنة - المستوى الأول)",
+      "transcribed": 33
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "شرح علمي",
+      "coverage": 0.9524,
+      "coverage_pct": "95.2%",
+      "declared_total": 21,
+      "dir": "s009/",
+      "key": "s009",
+      "series_id": "asimi__s009",
+      "title": "شرح متن صغرى الصغرى للسنوسي في العقيدة",
+      "transcribed": 20
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "شرح علمي",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 11,
+      "dir": "s011/",
+      "key": "s011",
+      "series_id": "asimi__s011",
+      "title": "تيسير علوم الحديث (مصطلح الحديث - المستوى الأول)",
+      "transcribed": 11
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "شرح علمي",
+      "coverage": 0.6667,
+      "coverage_pct": "66.7%",
+      "declared_total": 36,
+      "dir": "s012/",
+      "key": "s012",
+      "series_id": "asimi__s012",
+      "title": "شرح نزهة النظر في توضيح نخبة الفكر (مصطلح الحديث - المستوى الثاني)",
+      "transcribed": 24
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "شرح علمي",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 28,
+      "dir": "s023/",
+      "key": "s023",
+      "series_id": "asimi__s023",
+      "title": "دورة النحو (المستوى الأول)",
+      "transcribed": 28
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "شرح علمي",
+      "coverage": 0.7568,
+      "coverage_pct": "75.7%",
+      "declared_total": 37,
+      "dir": "s024/",
+      "key": "s024",
+      "series_id": "asimi__s024",
+      "title": "دورة النحو (المستوى الثاني)",
+      "transcribed": 28
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "شرح علمي",
+      "coverage": 0.3871,
+      "coverage_pct": "38.7%",
+      "declared_total": 62,
+      "dir": "s025/",
+      "key": "s025",
+      "series_id": "asimi__s025",
+      "title": "شرح قطر الندى وبل الصدى لابن هشام (دورة النحو - المستوى الثالث)",
+      "transcribed": 24
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "شرح علمي",
+      "coverage": 0.2621,
+      "coverage_pct": "26.2%",
+      "declared_total": 103,
+      "dir": "s026/",
+      "key": "s026",
+      "series_id": "asimi__s026",
+      "title": "شرح ابن عقيل على ألفية ابن مالك (دورة النحو - المستوى الرابع)",
+      "transcribed": 27
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "شرح علمي",
+      "coverage": 0.5,
+      "coverage_pct": "50.0%",
+      "declared_total": 6,
+      "dir": "s027/",
+      "key": "s027",
+      "series_id": "asimi__s027",
+      "title": "شرح كتاب شذور الذهب في معرفة كلام العرب لابن هشام",
+      "transcribed": 3
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "شرح علمي",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 4,
+      "dir": "s028/",
+      "key": "s028",
+      "series_id": "asimi__s028",
+      "title": "شرح متن البناء في علم الصرف (المستوى الأول)",
+      "transcribed": 4
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "شرح علمي",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 9,
+      "dir": "s029/",
+      "key": "s029",
+      "series_id": "asimi__s029",
+      "title": "شرح متن عنوان الظرف في علم الصرف",
+      "transcribed": 9
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "شرح علمي",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 20,
+      "dir": "s031/",
+      "key": "s031",
+      "series_id": "asimi__s031",
+      "title": "شرح دروس البلاغة (علم البلاغة - المستوى الأول)",
+      "transcribed": 20
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "شرح علمي",
+      "coverage": 0.434,
+      "coverage_pct": "43.4%",
+      "declared_total": 53,
+      "dir": "s032/",
+      "key": "s032",
+      "series_id": "asimi__s032",
+      "title": "شرح كتاب جواهر البلاغة (علم البلاغة - المستوى الثاني)",
+      "transcribed": 23
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "شرح علمي",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 9,
+      "dir": "s033/",
+      "key": "s033",
+      "series_id": "asimi__s033",
+      "title": "شرح متن السلم المنورق في علم المنطق",
+      "transcribed": 9
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "سلسلة علمية",
+      "coverage": 0.1685,
+      "coverage_pct": "16.9%",
+      "declared_total": 273,
+      "dir": "s036/",
+      "key": "s036",
+      "series_id": "asimi__s036",
+      "title": "السيرة النبوية الشريفة",
+      "transcribed": 46
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "سلسلة علمية",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 23,
+      "dir": "s037/",
+      "key": "s037",
+      "series_id": "asimi__s037",
+      "title": "سيرة سيدنا أبي بكر الصديق رضي الله عنه",
+      "transcribed": 23
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "سلسلة علمية",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 14,
+      "dir": "s039/",
+      "key": "s039",
+      "series_id": "asimi__s039",
+      "title": "سيرة سيدنا عثمان بن عفان رضي الله عنه",
+      "transcribed": 14
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "سلسلة علمية",
+      "coverage": 0.68,
+      "coverage_pct": "68.0%",
+      "declared_total": 25,
+      "dir": "s040/",
+      "key": "s040",
+      "series_id": "asimi__s040",
+      "title": "سلسلة أولئك الذين هدى الله (تراجم الأئمة الأعلام)",
+      "transcribed": 17
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "شرح علمي",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 26,
+      "dir": "s041/",
+      "key": "s041",
+      "series_id": "asimi__s041",
+      "title": "شرح كتاب مقاصد الرعاية لحقوق الله عز وجل للمحاسبي (رمضان 1447)",
+      "transcribed": 26
+    },
+    {
+      "aligned": 16,
+      "aligned_pct": "94.1%",
+      "category": "شرح علمي",
+      "coverage": 0.68,
+      "coverage_pct": "68.0%",
+      "declared_total": 25,
+      "dir": "s042/",
+      "key": "s042",
+      "series_id": "asimi__s042",
+      "title": "شرح كتاب تاج العروس الحاوي لتهذيب النفوس لابن عطاء الله السكندري (رمضان 1446)",
+      "transcribed": 17
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "سلسلة علمية",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 29,
+      "dir": "s045/",
+      "key": "s045",
+      "series_id": "asimi__s045",
+      "title": "سلسلة منازل الآخرة",
+      "transcribed": 29
+    },
+    {
+      "aligned": 4,
+      "aligned_pct": "100.0%",
+      "category": "خطب ومواعظ",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 4,
+      "dir": "s049/",
+      "key": "s049",
+      "series_id": "asimi__s049",
+      "title": "خطب عيدي الفطر والأضحى",
+      "transcribed": 4
+    },
+    {
+      "aligned": 3,
+      "aligned_pct": "100.0%",
+      "category": "خطب ومواعظ",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 3,
+      "dir": "s050/",
+      "key": "s050",
+      "series_id": "asimi__s050",
+      "title": "خطب الجمعة (2017 – 2018م)",
+      "transcribed": 3
+    },
+    {
+      "aligned": 8,
+      "aligned_pct": "100.0%",
+      "category": "خطب ومواعظ",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 8,
+      "dir": "s051/",
+      "key": "s051",
+      "series_id": "asimi__s051",
+      "title": "خطب الجمعة لعام 2024م",
+      "transcribed": 8
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "خطب ومواعظ",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 29,
+      "dir": "s052/",
+      "key": "s052",
+      "series_id": "asimi__s052",
+      "title": "خطب الجمعة لعام 2025م",
+      "transcribed": 29
+    },
+    {
+      "aligned": 10,
+      "aligned_pct": "52.6%",
+      "category": "خطب ومواعظ",
+      "coverage": 0.6786,
+      "coverage_pct": "67.9%",
+      "declared_total": 28,
+      "dir": "s053/",
+      "key": "s053",
+      "series_id": "asimi__s053",
+      "title": "خطب الجمعة (2026م)",
+      "transcribed": 19
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "مقتطفات وفوائد",
+      "coverage": 0.1,
+      "coverage_pct": "10.0%",
+      "declared_total": 10,
+      "dir": "s057/",
+      "key": "s057",
+      "series_id": "asimi__s057",
+      "title": "مقتطفات وفوائد من الدروس والخطب",
+      "transcribed": 1
+    }
+  ],
+  "slug": "adham-alasimi",
+  "totals": {
+    "aligned": 41,
+    "chars": 9514772,
+    "lessons": 546,
+    "series": 29
   },
-  {
-   "coverage": 0.0,
-   "declared_total": 34,
-   "dir": "744/",
-   "key": "744",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 40,
-   "dir": "745/",
-   "key": "745",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 27,
-   "dir": "746/",
-   "key": "746",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 30,
-   "dir": "747/",
-   "key": "747",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 38,
-   "dir": "748/",
-   "key": "748",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 25,
-   "dir": "749/",
-   "key": "749",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 129,
-   "dir": "750/",
-   "key": "750",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 46,
-   "dir": "751/",
-   "key": "751",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 132,
-   "dir": "752/",
-   "key": "752",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 91,
-   "dir": "753/",
-   "key": "753",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 4,
-   "dir": "754/",
-   "key": "754",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 18,
-   "dir": "755/",
-   "key": "755",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 16,
-   "dir": "756/",
-   "key": "756",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 161,
-   "dir": "757/",
-   "key": "757",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 29,
-   "dir": "758/",
-   "key": "758",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 3,
-   "dir": "759/",
-   "key": "759",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 49,
-   "dir": "760/",
-   "key": "760",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 124,
-   "dir": "761/",
-   "key": "761",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 30,
-   "dir": "762/",
-   "key": "762",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 25,
-   "dir": "763/",
-   "key": "763",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 30,
-   "dir": "764/",
-   "key": "764",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 1.0,
-   "declared_total": 23,
-   "dir": "765/",
-   "key": "765",
-   "row_id": "adham-alasimi--765",
-   "title": "جواهر البلاغة المستوى الثاني",
-   "transcribed": 23
-  },
-  {
-   "coverage": 1.0,
-   "declared_total": 9,
-   "dir": "766/",
-   "key": "766",
-   "row_id": "adham-alasimi--766",
-   "title": "شرح متن السلم المنورق",
-   "transcribed": 9
-  },
-  {
-   "coverage": 1.0,
-   "declared_total": 28,
-   "dir": "767/",
-   "key": "767",
-   "row_id": "adham-alasimi--767",
-   "title": "دورة النحو المستوى الأول",
-   "transcribed": 28
-  },
-  {
-   "coverage": 1.0,
-   "declared_total": 21,
-   "dir": "768/",
-   "key": "768",
-   "row_id": "adham-alasimi--768",
-   "title": "عقيدة أهل السنة المستوى التمهيدي",
-   "transcribed": 21
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 115,
-   "dir": "769/",
-   "key": "769",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 32,
-   "dir": "770/",
-   "key": "770",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 18,
-   "dir": "771/",
-   "key": "771",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 3,
-   "dir": "772/",
-   "key": "772",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 48,
-   "dir": "773/",
-   "key": "773",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 1.0,
-   "declared_total": 9,
-   "dir": "774/",
-   "key": "774",
-   "row_id": "adham-alasimi--774",
-   "title": "عنوان الظرف",
-   "transcribed": 9
-  },
-  {
-   "coverage": 1.0,
-   "declared_total": 24,
-   "dir": "775/",
-   "key": "775",
-   "row_id": "adham-alasimi--775",
-   "title": "مصطلح الحديث المستوى الثاني",
-   "transcribed": 24
-  },
-  {
-   "coverage": 1.0,
-   "declared_total": 11,
-   "dir": "776/",
-   "key": "776",
-   "row_id": "adham-alasimi--776",
-   "title": "مصطلح الحديث المستوى الأول",
-   "transcribed": 11
-  },
-  {
-   "coverage": 1.0,
-   "declared_total": 26,
-   "dir": "777/",
-   "key": "777",
-   "row_id": "adham-alasimi--777",
-   "title": "كتاب مقاصد الرعاية لحقوق الله عز",
-   "transcribed": 26
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 40,
-   "dir": "778/",
-   "key": "778",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 1.0,
-   "declared_total": 20,
-   "dir": "779/",
-   "key": "779",
-   "row_id": "adham-alasimi--779",
-   "title": "علم البلاغة المستوى الأول",
-   "transcribed": 20
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 18,
-   "dir": "780/",
-   "key": "780",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 1.0,
-   "declared_total": 46,
-   "dir": "781/",
-   "key": "781",
-   "row_id": "adham-alasimi--781",
-   "title": "السيرة النبوية",
-   "transcribed": 46
-  },
-  {
-   "coverage": 1.0,
-   "declared_total": 27,
-   "dir": "782/",
-   "key": "782",
-   "row_id": "adham-alasimi--782",
-   "title": "دورة النحو المستوى الرابع (شرح اب",
-   "transcribed": 27
-  },
-  {
-   "coverage": 1.0,
-   "declared_total": 33,
-   "dir": "783/",
-   "key": "783",
-   "row_id": "adham-alasimi--783",
-   "title": "عقيدة أهل السنة المستوى الأول",
-   "transcribed": 33
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 5,
-   "dir": "784/",
-   "key": "784",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 23,
-   "dir": "785/",
-   "key": "785",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.9032,
-   "declared_total": 31,
-   "dir": "786/",
-   "key": "786",
-   "row_id": "adham-alasimi--786",
-   "title": "خطب الجمعة 2025",
-   "transcribed": 28
-  },
-  {
-   "coverage": 1.0,
-   "declared_total": 28,
-   "dir": "787/",
-   "key": "787",
-   "row_id": "adham-alasimi--787",
-   "title": "دورة النحو المستوى الثاني",
-   "transcribed": 28
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 146,
-   "dir": "788/",
-   "key": "788",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.8125,
-   "declared_total": 16,
-   "dir": "789/",
-   "key": "789",
-   "row_id": "adham-alasimi--789",
-   "title": "خطب الجمعة 2024",
-   "transcribed": 13
-  },
-  {
-   "coverage": 1.0,
-   "declared_total": 29,
-   "dir": "790/",
-   "key": "790",
-   "row_id": "adham-alasimi--790",
-   "title": "منازل الآخرة",
-   "transcribed": 29
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 108,
-   "dir": "791/",
-   "key": "791",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 30,
-   "dir": "792/",
-   "key": "792",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 1.0,
-   "declared_total": 20,
-   "dir": "793/",
-   "key": "793",
-   "row_id": "adham-alasimi--793",
-   "title": "شرح صغرى الصغرى",
-   "transcribed": 20
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 3,
-   "dir": "794/",
-   "key": "794",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 18,
-   "dir": "795/",
-   "key": "795",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 1.0,
-   "declared_total": 24,
-   "dir": "796/",
-   "key": "796",
-   "row_id": "adham-alasimi--796",
-   "title": "دورة النحو المستوى الثالث (قطر ال",
-   "transcribed": 24
-  },
-  {
-   "coverage": 1.0,
-   "declared_total": 3,
-   "dir": "797/",
-   "key": "797",
-   "row_id": "adham-alasimi--797",
-   "title": "دروس شرح كتاب شذور الذهب",
-   "transcribed": 3
-  },
-  {
-   "coverage": 0.3333,
-   "declared_total": 12,
-   "dir": "798/",
-   "key": "798",
-   "row_id": "adham-alasimi--798",
-   "title": "شرح متن البناء في علم التصريف (ال�",
-   "transcribed": 4
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 11,
-   "dir": "799/",
-   "key": "799",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 1246,
-   "dir": "800/",
-   "key": "800",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0,
-   "declared_total": 5,
-   "dir": "801/",
-   "key": "801",
-   "row_id": null,
-   "title": null,
-   "transcribed": 0
-  },
-  {
-   "coverage": 0.0294,
-   "declared_total": 34,
-   "dir": "alasimi-mut-744/",
-   "key": "alasimi-mut-744",
-   "row_id": "adham-alasimi--alasimi-mut-744",
-   "title": "خطبة الجمعة 2026",
-   "transcribed": 1
-  },
-  {
-   "coverage": 0.1935,
-   "declared_total": 124,
-   "dir": "alasimi-mut-761/",
-   "key": "alasimi-mut-761",
-   "row_id": "adham-alasimi--alasimi-mut-761",
-   "title": "سلسلة القصص القرآني",
-   "transcribed": 24
-  },
-  {
-   "coverage": 0.0556,
-   "declared_total": 18,
-   "dir": "alasimi-mut-795/",
-   "key": "alasimi-mut-795",
-   "row_id": "adham-alasimi--alasimi-mut-795",
-   "title": "أولئك الذين هدى الله",
-   "transcribed": 1
-  }
- ],
- "slug": "adham-alasimi",
- "totals": {
-  "chars": 8060307,
-  "lessons": 452,
-  "series": 62,
-  "unsorted": 0,
-  "with_vid": 451
- },
- "v": 1
+  "v": 2
 }

@@ -1,31 +1,8 @@
 {
- "v": 1,
- "lid": "rn:habib-ali-aljifri--101:25",
- "vid": null,
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--101",
- "n": 25,
- "n_src": "read",
- "title": "أيها المريد ｜ الحلقة 24 ｜ مفهوم الوجد ｜ علي الجفري ｜",
- "title_src": "filename",
- "sha256": "03d9b0ab4d1682b24dd81e3a4cb5b48745922a3d84635d5e73f5ef501ad2ce2b",
- "nh": "8a27274d43b1f241e112cda2e75ff20da6bf697a5a4f9caad3f3d53de041163a",
- "chars": 9749,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/101/025_أيها المريد ｜ الحلقة 24 ｜ مفهوم  الوجد ｜ علي الجفري ｜ English subtitle.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/101/025_أيها المريد ｜ الحلقة 24 ｜ مفهوم  الوجد ｜ علي الجفري ｜ English subtitle.txt",
-   "sha256": "03d9b0ab4d1682b24dd81e3a4cb5b48745922a3d84635d5e73f5ef501ad2ce2b",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": []
+  "dur_s": 1574.0,
+  "chars": 11982,
+  "words": 2263,
+  "wpm": 86.3,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }
