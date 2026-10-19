@@ -1,6 +1,6 @@
 {
-  "aligned": 13,
-  "aligned_ratio": 0.8667,
+  "aligned": 15,
+  "aligned_ratio": 1.0,
   "category": "المنطق وآداب البحث",
   "coverage": 1.0,
   "declared_total": 15,
@@ -106,10 +106,10 @@
       "vid": "kbyj_52pfe4"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 27989,
-      "dur": 3604,
+      "dur": 3605,
       "file": "010_FgSkg2Mh1qE.txt",
       "n": 10,
       "stem": "010_FgSkg2Mh1qE",
@@ -117,8 +117,8 @@
       "vid": "FgSkg2Mh1qE"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 29890,
       "dur": 3871,
       "file": "011_CO8AiMb4QvA.txt",

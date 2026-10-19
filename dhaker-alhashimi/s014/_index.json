@@ -1,15 +1,15 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 3,
+  "aligned_ratio": 0.2,
   "category": "التربية والأسرة",
   "coverage": 1.0,
   "declared_total": 15,
   "key": "s014",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 37609,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 37606,
       "dur": 4085,
       "file": "001_S-pZuw2nQbc.txt",
       "n": 1,
@@ -18,10 +18,10 @@
       "vid": "S-pZuw2nQbc"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 50201,
-      "dur": 5137,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 49963,
+      "dur": 5138,
       "file": "002_zM5TO_NHtWg.txt",
       "n": 2,
       "stem": "002_zM5TO_NHtWg",
@@ -40,8 +40,8 @@
       "vid": "6RKVW8UyqDI"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 37164,
       "dur": 3865,
       "file": "004_nwLVe646L9A.txt",

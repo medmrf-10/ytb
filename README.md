@@ -9,8 +9,8 @@
 - **المشايخ ذوو المحتوى الفعلي:** 25 شيخاً
 - **السلاسل المفرّغة:** 386 سلسلة
 - **الدروس المفرّغة نصياً (`.txt`):** 6,589 درساً
-- **الدروس المحاذاة صوتياً (`.align.json`):** 1,509 درساً
-- **إجمالي الحجم النصي:** 156,225,745 حرفاً
+- **الدروس المحاذاة صوتياً (`.align.json`):** 1,514 درساً
+- **إجمالي الحجم النصي:** 156,225,504 حرفاً
 
 ---
 
@@ -25,8 +25,8 @@
 | 5 | الحبيب علي الجفري | `habib-ali-aljifri` | 23 | 471 | 30 | [`habib-ali-aljifri/`](./habib-ali-aljifri/) |
 | 6 | فاضل السامرائي | `fadhel-samarrai` | 42 | 460 | 296 | [`fadhel-samarrai/`](./fadhel-samarrai/) |
 | 7 | الحبيب عمر بن حفيظ | `habib-omar-ibn-hafiz` | 15 | 450 | 55 | [`habib-omar-ibn-hafiz/`](./habib-omar-ibn-hafiz/) |
-| 8 | ذاكر الهاشمي | `dhaker-alhashimi` | 20 | 348 | 41 | [`dhaker-alhashimi/`](./dhaker-alhashimi/) |
-| 9 | محمد البردوني الحسيمي | `bardouni-husaymi` | 16 | 343 | 79 | [`bardouni-husaymi/`](./bardouni-husaymi/) |
+| 8 | ذاكر الهاشمي | `dhaker-alhashimi` | 20 | 348 | 44 | [`dhaker-alhashimi/`](./dhaker-alhashimi/) |
+| 9 | محمد البردوني الحسيمي | `bardouni-husaymi` | 16 | 343 | 81 | [`bardouni-husaymi/`](./bardouni-husaymi/) |
 | 10 | علي جمعة | `ali-gomaa` | 14 | 276 | 51 | [`ali-gomaa/`](./ali-gomaa/) |
 | 11 | محمد الحسن الددو | `daddo` | 17 | 244 | 74 | [`daddo/`](./daddo/) |
 | 12 | علي محمود العمري | `ali-mahmoud-alomari` | 18 | 241 | 43 | [`ali-mahmoud-alomari/`](./ali-mahmoud-alomari/) |
