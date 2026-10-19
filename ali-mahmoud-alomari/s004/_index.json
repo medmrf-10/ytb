@@ -1,6 +1,6 @@
 {
-  "aligned": 5,
-  "aligned_ratio": 0.3846,
+  "aligned": 6,
+  "aligned_ratio": 0.4615,
   "category": "العقيدة وعلم الكلام",
   "coverage": 1.0,
   "declared_total": 13,
@@ -51,10 +51,10 @@
       "vid": "5yOspiQCgiI"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 34544,
-      "dur": 4470,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 34410,
+      "dur": 4469,
       "file": "005_5yT7cxWGtxM.txt",
       "n": 5,
       "stem": "005_5yT7cxWGtxM",
