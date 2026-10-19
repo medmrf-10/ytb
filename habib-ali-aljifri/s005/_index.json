@@ -1,6 +1,6 @@
 {
-  "aligned": 5,
-  "aligned_ratio": 1.0,
+  "aligned": 0,
+  "aligned_ratio": 0.0,
   "category": "شرح علمي",
   "coverage": 1.0,
   "declared_total": 5,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 22182,
       "file": "001_jWZ8gl-IEao.txt",
       "n": 1,
@@ -17,7 +17,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 30023,
       "file": "002_8YqV8NA1Gxc.txt",
       "n": 2,
@@ -26,7 +26,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 30375,
       "file": "003_pJwrk8v9tNI.txt",
       "n": 3,
@@ -35,7 +35,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 18162,
       "file": "004_ZWqEaU_lp7w.txt",
       "n": 4,
@@ -44,7 +44,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 29906,
       "file": "005_ASpfgVfiWhw.txt",
       "n": 5,

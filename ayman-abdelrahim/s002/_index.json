@@ -1,6 +1,6 @@
 {
-  "aligned": 2,
-  "aligned_ratio": 0.5,
+  "aligned": 0,
+  "aligned_ratio": 0.0,
   "category": "الفكر والوعي الحضاري",
   "coverage": 0.5,
   "declared_total": 8,
@@ -26,7 +26,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 83114,
       "file": "007_197B3SlGI90.txt",
       "n": 7,
@@ -35,7 +35,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 62935,
       "file": "008_pXAm1odzavI.txt",
       "n": 8,

@@ -9,7 +9,7 @@
 - **المشايخ ذوو المحتوى الفعلي:** 25 شيخاً
 - **السلاسل المفرّغة:** 386 سلسلة
 - **الدروس المفرّغة نصياً (`.txt`):** 6,589 درساً
-- **الدروس المحاذاة صوتياً (`.align.json`):** 1,110 درساً
+- **الدروس المحاذاة صوتياً (`.align.json`):** 125 درساً
 - **إجمالي الحجم النصي:** 156,243,580 حرفاً
 
 ---
@@ -18,21 +18,21 @@
 
 | # | الشيخ | المعرّف (`Slug`) | السلاسل | الدروس المفرغة (`.txt`) | الدروس المحاذاة (`.align.json`) | المجلد |
 |---:|---|---|---:|---:|---:|---|
-| 1 | محمد سعيد رمضان البوطي | `said-bouti` | 34 | 1,165 | 161 | [`said-bouti/`](./said-bouti/) |
-| 2 | محمد متولي الشعراوي | `sharawi` | 48 | 648 | 51 | [`sharawi/`](./sharawi/) |
-| 3 | أدهم العاسمي | `adham-alasimi` | 29 | 546 | 41 | [`adham-alasimi/`](./adham-alasimi/) |
-| 4 | أحمد السيد | `ahmed-alsayed` | 34 | 483 | 132 | [`ahmed-alsayed/`](./ahmed-alsayed/) |
-| 5 | الحبيب علي الجفري | `habib-ali-aljifri` | 23 | 471 | 29 | [`habib-ali-aljifri/`](./habib-ali-aljifri/) |
-| 6 | فاضل السامرائي | `fadhel-samarrai` | 42 | 460 | 244 | [`fadhel-samarrai/`](./fadhel-samarrai/) |
+| 1 | محمد سعيد رمضان البوطي | `said-bouti` | 34 | 1,165 | 0 | [`said-bouti/`](./said-bouti/) |
+| 2 | محمد متولي الشعراوي | `sharawi` | 48 | 648 | 0 | [`sharawi/`](./sharawi/) |
+| 3 | أدهم العاسمي | `adham-alasimi` | 29 | 546 | 0 | [`adham-alasimi/`](./adham-alasimi/) |
+| 4 | أحمد السيد | `ahmed-alsayed` | 34 | 483 | 0 | [`ahmed-alsayed/`](./ahmed-alsayed/) |
+| 5 | الحبيب علي الجفري | `habib-ali-aljifri` | 23 | 471 | 0 | [`habib-ali-aljifri/`](./habib-ali-aljifri/) |
+| 6 | فاضل السامرائي | `fadhel-samarrai` | 42 | 460 | 0 | [`fadhel-samarrai/`](./fadhel-samarrai/) |
 | 7 | الحبيب عمر بن حفيظ | `habib-omar-ibn-hafiz` | 15 | 450 | 24 | [`habib-omar-ibn-hafiz/`](./habib-omar-ibn-hafiz/) |
-| 8 | ذاكر الهاشمي | `dhaker-alhashimi` | 20 | 348 | 26 | [`dhaker-alhashimi/`](./dhaker-alhashimi/) |
-| 9 | محمد البردوني الحسيمي | `bardouni-husaymi` | 16 | 343 | 70 | [`bardouni-husaymi/`](./bardouni-husaymi/) |
-| 10 | علي جمعة | `ali-gomaa` | 14 | 276 | 37 | [`ali-gomaa/`](./ali-gomaa/) |
+| 8 | ذاكر الهاشمي | `dhaker-alhashimi` | 20 | 348 | 0 | [`dhaker-alhashimi/`](./dhaker-alhashimi/) |
+| 9 | محمد البردوني الحسيمي | `bardouni-husaymi` | 16 | 343 | 0 | [`bardouni-husaymi/`](./bardouni-husaymi/) |
+| 10 | علي جمعة | `ali-gomaa` | 14 | 276 | 0 | [`ali-gomaa/`](./ali-gomaa/) |
 | 11 | محمد الحسن الددو | `daddo` | 17 | 244 | 73 | [`daddo/`](./daddo/) |
-| 12 | علي محمود العمري | `ali-mahmoud-alomari` | 18 | 241 | 15 | [`ali-mahmoud-alomari/`](./ali-mahmoud-alomari/) |
-| 13 | مولود السريري | `mouloud-sariri` | 17 | 214 | 35 | [`mouloud-sariri/`](./mouloud-sariri/) |
-| 14 | علي هاني العقرباوي | `ali-hani-aqrabawi` | 14 | 197 | 36 | [`ali-hani-aqrabawi/`](./ali-hani-aqrabawi/) |
-| 15 | أيمن عبد الرحيم | `ayman-abdelrahim` | 20 | 130 | 102 | [`ayman-abdelrahim/`](./ayman-abdelrahim/) |
+| 12 | علي محمود العمري | `ali-mahmoud-alomari` | 18 | 241 | 0 | [`ali-mahmoud-alomari/`](./ali-mahmoud-alomari/) |
+| 13 | مولود السريري | `mouloud-sariri` | 17 | 214 | 0 | [`mouloud-sariri/`](./mouloud-sariri/) |
+| 14 | علي هاني العقرباوي | `ali-hani-aqrabawi` | 14 | 197 | 4 | [`ali-hani-aqrabawi/`](./ali-hani-aqrabawi/) |
+| 15 | أيمن عبد الرحيم | `ayman-abdelrahim` | 20 | 130 | 1 | [`ayman-abdelrahim/`](./ayman-abdelrahim/) |
 | 16 | معاذ سعيد حوى | `maath-hawa` | 7 | 92 | 23 | [`maath-hawa/`](./maath-hawa/) |
 | 17 | فاضل سليمان | `fadhel-sulaiman` | 3 | 89 | 0 | [`fadhel-sulaiman/`](./fadhel-sulaiman/) |
 | 18 | سيف العصري | `saif-alasri` | 1 | 56 | 0 | [`saif-alasri/`](./saif-alasri/) |
@@ -40,7 +40,7 @@
 | 20 | محمد عبد الواحد الحنبلي | `muhammad-abdelwahid-hanbali` | 1 | 38 | 0 | [`muhammad-abdelwahid-hanbali/`](./muhammad-abdelwahid-hanbali/) |
 | 21 | أحمد عبد المنعم | `ahmed-abdelmonem` | 1 | 20 | 0 | [`ahmed-abdelmonem/`](./ahmed-abdelmonem/) |
 | 22 | حاتم العوني | `hatem-alaouni` | 3 | 19 | 0 | [`hatem-alaouni/`](./hatem-alaouni/) |
-| 23 | سعيد الكملي | `said-kamali` | 1 | 11 | 11 | [`said-kamali/`](./said-kamali/) |
+| 23 | سعيد الكملي | `said-kamali` | 1 | 11 | 0 | [`said-kamali/`](./said-kamali/) |
 | 24 | بن صايب | `bensaib` | 1 | 8 | 0 | [`bensaib/`](./bensaib/) |
 | 25 | دروس غير منسوبة | `unattributed` | 1 | 1 | 0 | [`unattributed/`](./unattributed/) |
 

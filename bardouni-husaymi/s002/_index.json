@@ -1,6 +1,6 @@
 {
-  "aligned": 11,
-  "aligned_ratio": 0.3056,
+  "aligned": 0,
+  "aligned_ratio": 0.0,
   "category": "العقيدة وعلم الكلام",
   "coverage": 1.0,
   "declared_total": 36,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 32972,
       "file": "001_pSKjCKdtW1M.txt",
       "n": 1,
@@ -35,7 +35,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 16943,
       "file": "004_mAT3sQXfXGo.txt",
       "n": 4,
@@ -44,7 +44,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 18603,
       "file": "005_JeuqzUTXKec.txt",
       "n": 5,
@@ -71,7 +71,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 24712,
       "file": "008_q4sY6afw0Ew.txt",
       "n": 8,
@@ -80,7 +80,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 32444,
       "file": "009_iLMycCD26k8.txt",
       "n": 9,
@@ -98,7 +98,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 31721,
       "file": "011_IbSuxzCkDOI.txt",
       "n": 11,
@@ -116,7 +116,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 34971,
       "file": "013_Sm3ZHefxRdA.txt",
       "n": 13,
@@ -125,7 +125,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 25508,
       "file": "014_QXIy06_3ObE.txt",
       "n": 14,
@@ -134,7 +134,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 34928,
       "file": "015_zzDl-dgkMDE.txt",
       "n": 15,
@@ -143,7 +143,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 32603,
       "file": "016_b2jeKettbHQ.txt",
       "n": 16,
@@ -161,7 +161,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 33748,
       "file": "018_G21_P6NTGms.txt",
       "n": 18,

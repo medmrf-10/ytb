@@ -1,6 +1,6 @@
 {
-  "aligned": 12,
-  "aligned_ratio": 1.0,
+  "aligned": 0,
+  "aligned_ratio": 0.0,
   "category": "سلسلة علمية",
   "coverage": 1.0,
   "declared_total": 12,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 65759,
       "file": "001_sNG9-U3lu0k.txt",
       "n": 1,
@@ -17,7 +17,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 61073,
       "file": "002_nDFrkyEjo4o.txt",
       "n": 2,
@@ -26,7 +26,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 52047,
       "file": "003_PrLpcxxVCKI.txt",
       "n": 3,
@@ -35,7 +35,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 46694,
       "file": "004_9FErU0_4tPI.txt",
       "n": 4,
@@ -44,7 +44,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 53553,
       "file": "005_btZUATKJkLs.txt",
       "n": 5,
@@ -53,7 +53,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 35462,
       "file": "006_eGZnnJl9GAw.txt",
       "n": 6,
@@ -62,7 +62,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 37604,
       "file": "007__k3BVs5ah9A.txt",
       "n": 7,
@@ -71,7 +71,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 46157,
       "file": "008_k4Ke8jOLBt4.txt",
       "n": 8,
@@ -80,7 +80,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 27957,
       "file": "009_v1_A2BIYQqQ.txt",
       "n": 9,
@@ -89,7 +89,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 52530,
       "file": "010_asHX4HmPHWM.txt",
       "n": 10,
@@ -98,7 +98,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 47091,
       "file": "011_zn-rYKeBk3o.txt",
       "n": 11,
@@ -107,7 +107,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 36047,
       "file": "012_m4YUs7J_wyA.txt",
       "n": 12,

@@ -1,6 +1,6 @@
 {
-  "aligned": 7,
-  "aligned_ratio": 1.0,
+  "aligned": 0,
+  "aligned_ratio": 0.0,
   "category": "تفسير وتدبر",
   "coverage": 1.0,
   "declared_total": 7,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 28585,
       "file": "001_0BdXpeTyJT8.txt",
       "n": 1,
@@ -17,7 +17,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 50769,
       "file": "002_qe4QqpJgF_U.txt",
       "n": 2,
@@ -26,7 +26,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 36545,
       "file": "003_XfcCEEUaOxs.txt",
       "n": 3,
@@ -35,7 +35,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 49836,
       "file": "004_iTXhqCP2-f0.txt",
       "n": 4,
@@ -44,7 +44,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 28902,
       "file": "005_2WhwN3socyc.txt",
       "n": 5,
@@ -53,7 +53,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 29125,
       "file": "006_qQTNbtM-tuU.txt",
       "n": 6,
@@ -62,7 +62,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 59737,
       "file": "007_HTKZgKsIPk8.txt",
       "n": 7,

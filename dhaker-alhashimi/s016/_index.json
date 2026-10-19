@@ -1,6 +1,6 @@
 {
-  "aligned": 2,
-  "aligned_ratio": 0.6667,
+  "aligned": 0,
+  "aligned_ratio": 0.0,
   "category": "التربية والأسرة",
   "coverage": 0.4286,
   "declared_total": 7,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 68715,
       "file": "001_8j9GCREuaT8.txt",
       "n": 1,
@@ -17,7 +17,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 33708,
       "file": "002_N5yk0e32Tks.txt",
       "n": 2,

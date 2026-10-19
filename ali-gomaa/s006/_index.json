@@ -1,6 +1,6 @@
 {
-  "aligned": 10,
-  "aligned_ratio": 1.0,
+  "aligned": 0,
+  "aligned_ratio": 0.0,
   "category": "أصول فقه",
   "coverage": 1.0,
   "declared_total": 10,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 27112,
       "file": "001_w0MqSLaMFM4.txt",
       "n": 1,
@@ -17,7 +17,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 33309,
       "file": "002_v1UYRKBWvPg.txt",
       "n": 2,
@@ -26,7 +26,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 33503,
       "file": "003_HvfP1q0tFzA.txt",
       "n": 3,
@@ -35,7 +35,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 28314,
       "file": "004_NBBXAC6QGoE.txt",
       "n": 4,
@@ -44,7 +44,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 28544,
       "file": "005_fohuktYzk48.txt",
       "n": 5,
@@ -53,7 +53,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 33341,
       "file": "006_adHzhZ2MTZI.txt",
       "n": 6,
@@ -62,7 +62,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 32979,
       "file": "007_2DZ3D2W6dxc.txt",
       "n": 7,
@@ -71,7 +71,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 25248,
       "file": "008_9iHcoOQls0s.txt",
       "n": 8,
@@ -80,7 +80,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 25707,
       "file": "009_iuJkuFRMfok.txt",
       "n": 9,
@@ -89,7 +89,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 21386,
       "file": "010_JdYoUcuDkeE.txt",
       "n": 10,

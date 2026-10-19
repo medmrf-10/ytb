@@ -1,6 +1,6 @@
 {
-  "aligned": 5,
-  "aligned_ratio": 1.0,
+  "aligned": 0,
+  "aligned_ratio": 0.0,
   "category": "المنهجية وطلب العلم",
   "coverage": 1.0,
   "declared_total": 5,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 65872,
       "file": "001_rpcyE8RxTyY.txt",
       "n": 1,
@@ -17,7 +17,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 34643,
       "file": "002_RX7266GH0QE.txt",
       "n": 2,
@@ -26,7 +26,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 43255,
       "file": "003_wWiWeTlek0E.txt",
       "n": 3,
@@ -35,7 +35,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 66246,
       "file": "004_MQlxL-kurt8.txt",
       "n": 4,
@@ -44,7 +44,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 70856,
       "file": "005_tml4dZ2j7lw.txt",
       "n": 5,

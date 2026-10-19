@@ -1,6 +1,6 @@
 {
-  "aligned": 5,
-  "aligned_ratio": 1.0,
+  "aligned": 0,
+  "aligned_ratio": 0.0,
   "category": "العقيدة والفكر والمنهج",
   "coverage": 1.0,
   "declared_total": 5,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 19918,
       "file": "001_WUCa_GD8lbg.txt",
       "n": 1,
@@ -17,7 +17,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 14096,
       "file": "002_DlPrI78pGMs.txt",
       "n": 2,
@@ -26,7 +26,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 19900,
       "file": "003_7Fp6_wzs6FA.txt",
       "n": 3,
@@ -35,7 +35,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 32382,
       "file": "004_xHhozY8FpEs.txt",
       "n": 4,
@@ -44,7 +44,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 32105,
       "file": "005_Jr_AwhkI2Xo.txt",
       "n": 5,

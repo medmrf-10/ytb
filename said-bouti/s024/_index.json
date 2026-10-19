@@ -1,6 +1,6 @@
 {
-  "aligned": 5,
-  "aligned_ratio": 0.4545,
+  "aligned": 0,
+  "aligned_ratio": 0.0,
   "category": "العقيدة والفكر الإسلامي",
   "coverage": 0.44,
   "declared_total": 25,
@@ -26,7 +26,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 18636,
       "file": "003_ik3B_0nFISA.txt",
       "n": 3,
@@ -35,7 +35,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 24257,
       "file": "004_LDuONKbQ_1w.txt",
       "n": 4,
@@ -53,7 +53,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 19186,
       "file": "009_whA_eGWKZ3c.txt",
       "n": 9,
@@ -80,7 +80,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 27272,
       "file": "020_2eFWXpImOk0.txt",
       "n": 20,
@@ -98,7 +98,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 24863,
       "file": "025_Swh7s_eGFCY.txt",
       "n": 25,

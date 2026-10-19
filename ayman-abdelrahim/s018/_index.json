@@ -1,6 +1,6 @@
 {
-  "aligned": 5,
-  "aligned_ratio": 0.8333,
+  "aligned": 0,
+  "aligned_ratio": 0.0,
   "category": "علم النفس والتربية",
   "coverage": 1.0,
   "declared_total": 6,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 39006,
       "file": "001_qbWH68mVBVc.txt",
       "n": 1,
@@ -17,7 +17,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 76936,
       "file": "002_SE7TLCtfztk.txt",
       "n": 2,
@@ -35,7 +35,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 76668,
       "file": "004_OOP-z7v3Pko.txt",
       "n": 4,
@@ -44,7 +44,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 78240,
       "file": "005_wOd67IxzHc4.txt",
       "n": 5,
@@ -53,7 +53,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 103242,
       "file": "006_zE8jH_ZU51Y.txt",
       "n": 6,

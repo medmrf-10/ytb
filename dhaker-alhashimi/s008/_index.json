@@ -1,6 +1,6 @@
 {
-  "aligned": 6,
-  "aligned_ratio": 0.75,
+  "aligned": 0,
+  "aligned_ratio": 0.0,
   "category": "فقه النفس والتزكية",
   "coverage": 1.0,
   "declared_total": 8,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 63926,
       "file": "001_SoDz3-JVXwo.txt",
       "n": 1,
@@ -26,7 +26,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 60927,
       "file": "003_dcRNNAL2Xt4.txt",
       "n": 3,
@@ -35,7 +35,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 42076,
       "file": "004_sA0FHrQ7G1g.txt",
       "n": 4,
@@ -53,7 +53,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 79983,
       "file": "006_asq5BVSmoTU.txt",
       "n": 6,
@@ -62,7 +62,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 80859,
       "file": "007_82CLVPXmGSc.txt",
       "n": 7,
@@ -71,7 +71,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 133727,
       "file": "008_oW-NVxDZjMI.txt",
       "n": 8,

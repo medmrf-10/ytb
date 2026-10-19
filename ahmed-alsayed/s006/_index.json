@@ -1,6 +1,6 @@
 {
-  "aligned": 2,
-  "aligned_ratio": 1.0,
+  "aligned": 0,
+  "aligned_ratio": 0.0,
   "category": "شرح علمي",
   "coverage": 1.0,
   "declared_total": 2,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 166234,
       "file": "001_yRQH7g4SL3w.txt",
       "n": 1,
@@ -17,7 +17,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 111330,
       "file": "002_sUpJIMUJKSE.txt",
       "n": 2,

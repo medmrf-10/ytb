@@ -1,6 +1,6 @@
 {
-  "aligned": 1,
-  "aligned_ratio": 1.0,
+  "aligned": 0,
+  "aligned_ratio": 0.0,
   "category": "السيرة والتاريخ الإسلامي",
   "coverage": 0.1667,
   "declared_total": 6,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 82472,
       "file": "001_LEHMGog4JGA.txt",
       "n": 1,

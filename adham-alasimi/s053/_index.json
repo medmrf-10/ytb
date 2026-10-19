@@ -1,6 +1,6 @@
 {
-  "aligned": 10,
-  "aligned_ratio": 0.5263,
+  "aligned": 0,
+  "aligned_ratio": 0.0,
   "category": "خطب ومواعظ",
   "coverage": 0.6786,
   "declared_total": 28,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 15086,
       "file": "003_TxOm2BEmzGw.txt",
       "n": 3,
@@ -17,7 +17,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 16338,
       "file": "004_50agVNkypMc.txt",
       "n": 4,
@@ -26,7 +26,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 15635,
       "file": "005_8GAh-csAU3c.txt",
       "n": 5,
@@ -44,7 +44,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 16704,
       "file": "007_WgXXCDPaHM8.txt",
       "n": 7,
@@ -53,7 +53,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 14288,
       "file": "008_dHHEqkHZRFs.txt",
       "n": 8,
@@ -71,7 +71,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 15803,
       "file": "010_zdB79SmLXg0.txt",
       "n": 10,
@@ -89,7 +89,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 14402,
       "file": "012_QYoVIApGSTs.txt",
       "n": 12,
@@ -116,7 +116,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 16167,
       "file": "017_MA8PRuEjCv4.txt",
       "n": 17,
@@ -134,7 +134,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 20665,
       "file": "020_ZG0LSKIBD0Q.txt",
       "n": 20,
@@ -143,7 +143,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 17090,
       "file": "021_7y8OmCpxqcg.txt",
       "n": 21,

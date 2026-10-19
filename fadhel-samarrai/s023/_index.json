@@ -1,6 +1,6 @@
 {
-  "aligned": 10,
-  "aligned_ratio": 0.3448,
+  "aligned": 0,
+  "aligned_ratio": 0.0,
   "category": "التفسير والبيان القرآني (حسب السور)",
   "coverage": 1.0,
   "declared_total": 29,
@@ -17,7 +17,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 2480,
       "file": "002_IZxhEl0lzfE.txt",
       "n": 2,
@@ -35,7 +35,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 3272,
       "file": "004_OF1q0KhCu30.txt",
       "n": 4,
@@ -44,7 +44,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 2539,
       "file": "005_dU-UCFIZY10.txt",
       "n": 5,
@@ -53,7 +53,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 1715,
       "file": "006_VzZ2A9KpGP0.txt",
       "n": 6,
@@ -71,7 +71,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 1855,
       "file": "008_Q3BHtYG-MmE.txt",
       "n": 8,
@@ -80,7 +80,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 735,
       "file": "009_eaLqHJRCh5U.txt",
       "n": 9,
@@ -98,7 +98,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 1916,
       "file": "011_F-PgFPx2DFI.txt",
       "n": 11,
@@ -107,7 +107,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 1723,
       "file": "012_Qew-9rCxMf0.txt",
       "n": 12,
@@ -143,7 +143,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 896,
       "file": "016_LZB05zGj8_w.txt",
       "n": 16,
@@ -251,7 +251,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 977,
       "file": "028_-yEFI_LtePc.txt",
       "n": 28,

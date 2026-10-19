@@ -1,6 +1,6 @@
 {
-  "aligned": 4,
-  "aligned_ratio": 1.0,
+  "aligned": 0,
+  "aligned_ratio": 0.0,
   "category": "السيرة والتاريخ الإسلامي",
   "coverage": 1.0,
   "declared_total": 4,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 97301,
       "file": "001_34rYLjK1vmY.txt",
       "n": 1,
@@ -17,7 +17,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 79615,
       "file": "002_n_9oJZ3WNjw.txt",
       "n": 2,
@@ -26,7 +26,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 82813,
       "file": "003_l9r5zrGkzD4.txt",
       "n": 3,
@@ -35,7 +35,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 90281,
       "file": "004_p0WAsuVb91Y.txt",
       "n": 4,

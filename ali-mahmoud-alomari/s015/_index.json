@@ -1,6 +1,6 @@
 {
-  "aligned": 2,
-  "aligned_ratio": 1.0,
+  "aligned": 0,
+  "aligned_ratio": 0.0,
   "category": "المنطق والفلسفة",
   "coverage": 1.0,
   "declared_total": 2,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 47418,
       "file": "001_PkF5vk3GUWI.txt",
       "n": 1,
@@ -17,7 +17,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 22815,
       "file": "002_13U1MURJRaY.txt",
       "n": 2,

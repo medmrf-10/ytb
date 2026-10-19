@@ -1,6 +1,6 @@
 {
-  "aligned": 5,
-  "aligned_ratio": 0.8333,
+  "aligned": 0,
+  "aligned_ratio": 0.0,
   "category": "السيرة والتاريخ الإسلامي",
   "coverage": 1.0,
   "declared_total": 6,
@@ -17,7 +17,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 63616,
       "file": "002_9Jzrs7iIhJo.txt",
       "n": 2,
@@ -26,7 +26,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 68738,
       "file": "003_ELcL6INTNtE.txt",
       "n": 3,
@@ -35,7 +35,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 83082,
       "file": "004_ngdOx-zw_I4.txt",
       "n": 4,
@@ -44,7 +44,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 59401,
       "file": "005_qMSSZ0hfRkw.txt",
       "n": 5,
@@ -53,7 +53,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 95222,
       "file": "006_BcICQHs9lbI.txt",
       "n": 6,

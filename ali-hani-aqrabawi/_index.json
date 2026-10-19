@@ -42,8 +42,8 @@
       "transcribed": 18
     },
     {
-      "aligned": 3,
-      "aligned_pct": "100.0%",
+      "aligned": 0,
+      "aligned_pct": "0.0%",
       "category": "الصرف والاشتقاق",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
@@ -68,8 +68,8 @@
       "transcribed": 19
     },
     {
-      "aligned": 11,
-      "aligned_pct": "100.0%",
+      "aligned": 0,
+      "aligned_pct": "0.0%",
       "category": "البلاغة والبيان",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
@@ -133,8 +133,8 @@
       "transcribed": 15
     },
     {
-      "aligned": 1,
-      "aligned_pct": "100.0%",
+      "aligned": 0,
+      "aligned_pct": "0.0%",
       "category": "التفسير والبيان القرآني",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
@@ -159,8 +159,8 @@
       "transcribed": 8
     },
     {
-      "aligned": 17,
-      "aligned_pct": "63.0%",
+      "aligned": 0,
+      "aligned_pct": "0.0%",
       "category": "محاضرات وفوائد متفرقة",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
@@ -187,7 +187,7 @@
   ],
   "slug": "ali-hani-aqrabawi",
   "totals": {
-    "aligned": 36,
+    "aligned": 4,
     "chars": 5290064,
     "lessons": 197,
     "series": 14

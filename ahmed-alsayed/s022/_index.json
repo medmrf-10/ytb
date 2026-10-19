@@ -1,6 +1,6 @@
 {
-  "aligned": 13,
-  "aligned_ratio": 0.4194,
+  "aligned": 0,
+  "aligned_ratio": 0.0,
   "category": "تفسير وتدبر",
   "coverage": 1.0,
   "declared_total": 31,
@@ -71,7 +71,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 24143,
       "file": "008_1ooyirPmqTQ.txt",
       "n": 8,
@@ -80,7 +80,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 24622,
       "file": "009_s6Hq3xnXwgc.txt",
       "n": 9,
@@ -89,7 +89,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 21766,
       "file": "010__Q8kPf01PxQ.txt",
       "n": 10,
@@ -107,7 +107,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 15124,
       "file": "012_fWH-DHsS8YQ.txt",
       "n": 12,
@@ -116,7 +116,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 25891,
       "file": "013_JqbWIQfqcmA.txt",
       "n": 13,
@@ -134,7 +134,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 34384,
       "file": "015_eX3x9iJD8kA.txt",
       "n": 15,
@@ -143,7 +143,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 27840,
       "file": "016_eeYtt_5ua-s.txt",
       "n": 16,
@@ -170,7 +170,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 27556,
       "file": "019_mLZqoSJQDww.txt",
       "n": 19,
@@ -197,7 +197,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 31767,
       "file": "022_42HgTeDZGII.txt",
       "n": 22,
@@ -206,7 +206,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 35208,
       "file": "023_9NJ8iLSAITo.txt",
       "n": 23,
@@ -251,7 +251,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 42286,
       "file": "028_NpEo-EOo_4o.txt",
       "n": 28,
@@ -260,7 +260,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 35699,
       "file": "029_KnLUa3He2W4.txt",
       "n": 29,
@@ -269,7 +269,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 50182,
       "file": "030_9E8HKCM8MFU.txt",
       "n": 30,

@@ -1,6 +1,6 @@
 {
-  "aligned": 3,
-  "aligned_ratio": 1.0,
+  "aligned": 0,
+  "aligned_ratio": 0.0,
   "category": "الصرف والاشتقاق",
   "coverage": 1.0,
   "declared_total": 3,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 68130,
       "file": "001_VjUb8btvocM.txt",
       "n": 1,
@@ -17,7 +17,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 64976,
       "file": "002_CHLlP-9YgIo.txt",
       "n": 2,
@@ -26,7 +26,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": true,
+      "aligned": false,
       "chars": 47308,
       "file": "003_AdltgKRLDbw.txt",
       "n": 3,
