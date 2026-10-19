@@ -1,16 +1,16 @@
 {
-  "aligned": 1,
-  "aligned_ratio": 0.0714,
+  "aligned": 7,
+  "aligned_ratio": 0.5,
   "category": "التزكية والسلوك",
   "coverage": 1.0,
   "declared_total": 14,
   "key": "ladhati_bidhati",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 37611,
-      "dur": 4473,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 37523,
+      "dur": 4472,
       "file": "001_dTPqJl0aueI.txt",
       "n": 1,
       "stem": "001_dTPqJl0aueI",
@@ -29,9 +29,9 @@
       "vid": "xWB2vQ8opy0"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 37303,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 37285,
       "dur": 4421,
       "file": "003_ITJyGXj6EhY.txt",
       "n": 3,
@@ -40,10 +40,10 @@
       "vid": "ITJyGXj6EhY"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 18392,
-      "dur": 2599,
+      "dur": 2598,
       "file": "004_uRp9J-771MI.txt",
       "n": 4,
       "stem": "004_uRp9J-771MI",
@@ -51,8 +51,8 @@
       "vid": "uRp9J-771MI"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 36905,
       "dur": 4644,
       "file": "005_-VGkzAOY4nM.txt",
@@ -62,10 +62,10 @@
       "vid": "-VGkzAOY4nM"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 34723,
-      "dur": 4647,
+      "dur": 4646,
       "file": "006_mw4kJdBiH4I.txt",
       "n": 6,
       "stem": "006_mw4kJdBiH4I",
@@ -73,10 +73,10 @@
       "vid": "mw4kJdBiH4I"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 44004,
-      "dur": 5419,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 43971,
+      "dur": 5418,
       "file": "007_csX52mBEgA0.txt",
       "n": 7,
       "stem": "007_csX52mBEgA0",

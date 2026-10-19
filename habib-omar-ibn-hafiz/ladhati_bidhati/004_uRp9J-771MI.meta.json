@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:uRp9J-771MI",
- "vid": "uRp9J-771MI",
- "sheikh": "habib-omar-ibn-hafiz",
- "row_id": "habib-omar-ibn-hafiz--195",
- "n": 11,
- "n_src": "read",
- "title": "مباشر： شرح قصيدة： لذاتي بذاتي - 4- من قوله： وخلف حجاب الكون ما أنت طالب - 21 محر",
- "title_src": "filename",
- "sha256": "da57b12d21d509486afedf4861f82149c546ebf51b8e7df111a2904dafeb6143",
- "nh": "1cc095130ff92a0d9ccfddf0d4ab6b12b556d56dc72cb53741fe77aa7ce689e5",
- "chars": 19069,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/195/011_مباشر： شرح قصيدة： لذاتي بذاتي - 4- من قوله： وخلف حجاب الكون ما أنت طالب - 21 محر.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/195/011_مباشر： شرح قصيدة： لذاتي بذاتي - 4- من قوله： وخلف حجاب الكون ما أنت طالب - 21 محر.txt",
-   "sha256": "da57b12d21d509486afedf4861f82149c546ebf51b8e7df111a2904dafeb6143",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:uRp9J-771MI",
+  "vid": "uRp9J-771MI",
+  "sheikh": "habib-omar-ibn-hafiz",
+  "row_id": "habib-omar-ibn-hafiz--195",
+  "n": 11,
+  "n_src": "read",
+  "title": "مباشر： شرح قصيدة： لذاتي بذاتي - 4- من قوله： وخلف حجاب الكون ما أنت طالب - 21 محر",
+  "title_src": "filename",
+  "sha256": "da57b12d21d509486afedf4861f82149c546ebf51b8e7df111a2904dafeb6143",
+  "nh": "1cc095130ff92a0d9ccfddf0d4ab6b12b556d56dc72cb53741fe77aa7ce689e5",
+  "chars": 19069,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/195/011_مباشر： شرح قصيدة： لذاتي بذاتي - 4- من قوله： وخلف حجاب الكون ما أنت طالب - 21 محر.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/195/011_مباشر： شرح قصيدة： لذاتي بذاتي - 4- من قوله： وخلف حجاب الكون ما أنت طالب - 21 محر.txt",
+      "sha256": "da57b12d21d509486afedf4861f82149c546ebf51b8e7df111a2904dafeb6143",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9956,
+    "spoken_align_pct": 99.56,
+    "audio_span_pct": 98.69,
+    "words": 3436,
+    "aligned": 3421,
+    "interpolated": 15,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 16:32"
   }
- ],
- "variants": [],
- "also_in": []
 }

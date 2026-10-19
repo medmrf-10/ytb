@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:-VGkzAOY4nM",
- "vid": "-VGkzAOY4nM",
- "sheikh": "habib-omar-ibn-hafiz",
- "row_id": "habib-omar-ibn-hafiz--195",
- "n": 10,
- "n_src": "read",
- "title": "مباشر： شرح قصيدة： لذاتي بذاتي - 5- من قوله： تشير إلى معنى به أنت حائر - مساء الث",
- "title_src": "filename",
- "sha256": "0b8193562fc7eff844c490192c2bb530918bff49427a95d2bedde0a2751eb6f3",
- "nh": "526d531535fddc1784a91c3d4926bba82947a7b8976e00d21680102a2952d654",
- "chars": 37659,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/195/010_مباشر： شرح قصيدة： لذاتي بذاتي - 5- من قوله： تشير إلى معنى به أنت حائر - مساء الث.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/195/010_مباشر： شرح قصيدة： لذاتي بذاتي - 5- من قوله： تشير إلى معنى به أنت حائر - مساء الث.txt",
-   "sha256": "0b8193562fc7eff844c490192c2bb530918bff49427a95d2bedde0a2751eb6f3",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:-VGkzAOY4nM",
+  "vid": "-VGkzAOY4nM",
+  "sheikh": "habib-omar-ibn-hafiz",
+  "row_id": "habib-omar-ibn-hafiz--195",
+  "n": 10,
+  "n_src": "read",
+  "title": "مباشر： شرح قصيدة： لذاتي بذاتي - 5- من قوله： تشير إلى معنى به أنت حائر - مساء الث",
+  "title_src": "filename",
+  "sha256": "0b8193562fc7eff844c490192c2bb530918bff49427a95d2bedde0a2751eb6f3",
+  "nh": "526d531535fddc1784a91c3d4926bba82947a7b8976e00d21680102a2952d654",
+  "chars": 37659,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/195/010_مباشر： شرح قصيدة： لذاتي بذاتي - 5- من قوله： تشير إلى معنى به أنت حائر - مساء الث.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/195/010_مباشر： شرح قصيدة： لذاتي بذاتي - 5- من قوله： تشير إلى معنى به أنت حائر - مساء الث.txt",
+      "sha256": "0b8193562fc7eff844c490192c2bb530918bff49427a95d2bedde0a2751eb6f3",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9973,
+    "spoken_align_pct": 99.73,
+    "audio_span_pct": 98.57,
+    "words": 7094,
+    "aligned": 7075,
+    "interpolated": 19,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 16:36"
   }
- ],
- "variants": [],
- "also_in": []
 }

@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:mw4kJdBiH4I",
- "vid": "mw4kJdBiH4I",
- "sheikh": "habib-omar-ibn-hafiz",
- "row_id": "habib-omar-ibn-hafiz--195",
- "n": 9,
- "n_src": "read",
- "title": "مباشر： شرح قصيدة： لذاتي بذاتي - 6- من قوله： بكل مليح أو بكل مليحة - مساء الأربعا",
- "title_src": "filename",
- "sha256": "d15e94126de76d3b5a48cbef6b2319121291f61e4aaa77d7cbf4578aa4e8116c",
- "nh": "31a0e68a1cc0066802ef6c4409b63083b1da63e44e107c401ef729b5247505e9",
- "chars": 35911,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/195/009_مباشر： شرح قصيدة： لذاتي بذاتي - 6- من قوله： بكل مليح أو بكل مليحة - مساء الأربعا.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/195/009_مباشر： شرح قصيدة： لذاتي بذاتي - 6- من قوله： بكل مليح أو بكل مليحة - مساء الأربعا.txt",
-   "sha256": "d15e94126de76d3b5a48cbef6b2319121291f61e4aaa77d7cbf4578aa4e8116c",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:mw4kJdBiH4I",
+  "vid": "mw4kJdBiH4I",
+  "sheikh": "habib-omar-ibn-hafiz",
+  "row_id": "habib-omar-ibn-hafiz--195",
+  "n": 9,
+  "n_src": "read",
+  "title": "مباشر： شرح قصيدة： لذاتي بذاتي - 6- من قوله： بكل مليح أو بكل مليحة - مساء الأربعا",
+  "title_src": "filename",
+  "sha256": "d15e94126de76d3b5a48cbef6b2319121291f61e4aaa77d7cbf4578aa4e8116c",
+  "nh": "31a0e68a1cc0066802ef6c4409b63083b1da63e44e107c401ef729b5247505e9",
+  "chars": 35911,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/195/009_مباشر： شرح قصيدة： لذاتي بذاتي - 6- من قوله： بكل مليح أو بكل مليحة - مساء الأربعا.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/195/009_مباشر： شرح قصيدة： لذاتي بذاتي - 6- من قوله： بكل مليح أو بكل مليحة - مساء الأربعا.txt",
+      "sha256": "d15e94126de76d3b5a48cbef6b2319121291f61e4aaa77d7cbf4578aa4e8116c",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.997,
+    "spoken_align_pct": 99.7,
+    "audio_span_pct": 99.5,
+    "words": 6764,
+    "aligned": 6744,
+    "interpolated": 20,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 16:37"
   }
- ],
- "variants": [],
- "also_in": []
 }

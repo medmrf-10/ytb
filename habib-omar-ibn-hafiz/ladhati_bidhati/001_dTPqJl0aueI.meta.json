@@ -1,31 +1,47 @@
 {
- "v": 1,
- "lid": "yt:dTPqJl0aueI",
- "vid": "dTPqJl0aueI",
- "sheikh": "habib-omar-ibn-hafiz",
- "row_id": "habib-omar-ibn-hafiz--195",
- "n": 14,
- "n_src": "read",
- "title": "مباشر： شرح قصيدة： لذاتي بذاتي - 1- المقدمة وشرح من قوله： لذاتي بذاتي لا لكم أنا",
- "title_src": "filename",
- "sha256": "9b6349f54ed481de812471782b0b5629f536204e3d24f69d281af07b8d408816",
- "nh": "0c769a3fcee327339466299ad658774889c0861878d26f8fddf2e22c31ba1f70",
- "chars": 38295,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/195/014_مباشر： شرح قصيدة： لذاتي بذاتي - 1- المقدمة وشرح من قوله： لذاتي بذاتي لا لكم أنا .txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/195/014_مباشر： شرح قصيدة： لذاتي بذاتي - 1- المقدمة وشرح من قوله： لذاتي بذاتي لا لكم أنا .txt",
-   "sha256": "9b6349f54ed481de812471782b0b5629f536204e3d24f69d281af07b8d408816",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:dTPqJl0aueI",
+  "vid": "dTPqJl0aueI",
+  "sheikh": "habib-omar-ibn-hafiz",
+  "row_id": "habib-omar-ibn-hafiz--195",
+  "n": 14,
+  "n_src": "read",
+  "title": "مباشر： شرح قصيدة： لذاتي بذاتي - 1- المقدمة وشرح من قوله： لذاتي بذاتي لا لكم أنا",
+  "title_src": "filename",
+  "sha256": "9b6349f54ed481de812471782b0b5629f536204e3d24f69d281af07b8d408816",
+  "nh": "0c769a3fcee327339466299ad658774889c0861878d26f8fddf2e22c31ba1f70",
+  "chars": 38295,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/195/014_مباشر： شرح قصيدة： لذاتي بذاتي - 1- المقدمة وشرح من قوله： لذاتي بذاتي لا لكم أنا .txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/195/014_مباشر： شرح قصيدة： لذاتي بذاتي - 1- المقدمة وشرح من قوله： لذاتي بذاتي لا لكم أنا .txt",
+      "sha256": "9b6349f54ed481de812471782b0b5629f536204e3d24f69d281af07b8d408816",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9975,
+    "spoken_align_pct": 99.75,
+    "audio_span_pct": 98.18,
+    "words": 6891,
+    "aligned": 6874,
+    "interpolated": 17,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 16:31",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
