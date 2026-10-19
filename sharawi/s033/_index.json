@@ -1,6 +1,6 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 2,
+  "aligned_ratio": 0.1538,
   "category": "التفسير وعلوم القرآن",
   "coverage": 1.0,
   "declared_total": 13,
@@ -8,7 +8,7 @@
   "lessons": [
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 14848,
       "file": "001_a1DrBX9XNpE.txt",
       "n": 1,
@@ -17,8 +17,8 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
-      "chars": 26886,
+      "aligned": true,
+      "chars": 26864,
       "file": "002_2U94RrwokpU.txt",
       "n": 2,
       "title": "",

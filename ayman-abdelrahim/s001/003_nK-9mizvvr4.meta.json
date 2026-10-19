@@ -4,5 +4,30 @@
   "words": 16323,
   "wpm": 142.3,
   "model": "gemini-3.8-flash-high",
-  "ok": true
+  "ok": true,
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9334,
+    "spoken_align_pct": 93.34,
+    "audio_span_pct": 94.7,
+    "words": 16230,
+    "aligned": 15063,
+    "interpolated": 1075,
+    "retried_without_silence_compact": true,
+    "local_agc_applied": true,
+    "at": "2026-10-19 12:17",
+    "low_coverage_diagnosis": {
+      "spoken_align_pct": 93.34,
+      "interpolated_words": 1075,
+      "unaligned_clusters_count": 10,
+      "max_cluster_words": 22,
+      "wpm": 140.7,
+      "audio_span_pct": 94.7,
+      "forced_steps": 1,
+      "causes": [
+        "TEXT_HALLUCINATION_OR_CHUNK_REPEAT(clusters=10, max_run=22w @ 598.96s: «على الناس فكسروا بأس الأهالي، فلما أتى الإنجليز... هو قال كل»)"
+      ]
+    }
+  }
 }

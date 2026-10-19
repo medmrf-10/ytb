@@ -49,26 +49,14 @@
   "align": {
     "engine": "ctc-pure-mac-mps",
     "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
-    "cov": 0.8497,
-    "spoken_align_pct": 84.97,
+    "cov": 0.9993,
+    "spoken_align_pct": 99.93,
     "audio_span_pct": 100.0,
-    "words": 13702,
-    "aligned": 11642,
-    "interpolated": 2060,
+    "words": 6837,
+    "aligned": 6832,
+    "interpolated": 5,
     "retried_without_silence_compact": false,
     "local_agc_applied": false,
-    "at": "2026-10-19 09:49",
-    "low_coverage_diagnosis": {
-      "spoken_align_pct": 84.97,
-      "interpolated_words": 2060,
-      "unaligned_clusters_count": 4,
-      "max_cluster_words": 13,
-      "wpm": 187.3,
-      "audio_span_pct": 100.0,
-      "forced_steps": 0,
-      "causes": [
-        "TEXT_HALLUCINATION_OR_CHUNK_REPEAT(clusters=4, max_run=13w @ 1355.28s: «معنى، هذا المعنى ما هو؟ لو أردنا الآن، طبعا المعنى»)"
-      ]
-    }
+    "at": "2026-10-19 12:19"
   }
 }

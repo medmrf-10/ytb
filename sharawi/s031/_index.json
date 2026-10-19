@@ -1,6 +1,6 @@
 {
-  "aligned": 8,
-  "aligned_ratio": 0.8,
+  "aligned": 10,
+  "aligned_ratio": 1.0,
   "category": "التفسير وعلوم القرآن",
   "coverage": 1.0,
   "declared_total": 10,
@@ -71,7 +71,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 21928,
       "file": "008_OvpkIWuMRW0.txt",
       "n": 8,
@@ -89,7 +89,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 25392,
       "file": "010_RZ9DNnqEebY.txt",
       "n": 10,

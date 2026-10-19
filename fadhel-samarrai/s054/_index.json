@@ -1,6 +1,6 @@
 {
-  "aligned": 7,
-  "aligned_ratio": 0.5385,
+  "aligned": 13,
+  "aligned_ratio": 1.0,
   "category": "التفسير والبيان القرآني (حسب السور)",
   "coverage": 1.0,
   "declared_total": 13,
@@ -71,7 +71,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 9835,
       "file": "008_4UImVz05VYw.txt",
       "n": 8,
@@ -80,7 +80,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 572,
       "file": "009_CpWVZornhlA.txt",
       "n": 9,
@@ -89,7 +89,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 7555,
       "file": "010_PY3T4tyZKBM.txt",
       "n": 10,
@@ -98,7 +98,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 7185,
       "file": "011_7_KrC2dtgh8.txt",
       "n": 11,
@@ -107,7 +107,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 4242,
       "file": "012_KKzphRHAfY4.txt",
       "n": 12,
@@ -116,7 +116,7 @@
     },
     {
       "align_coverage": null,
-      "aligned": false,
+      "aligned": true,
       "chars": 4409,
       "file": "013_VgDbT8tYW4U.txt",
       "n": 13,
