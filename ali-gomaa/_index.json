@@ -87,14 +87,14 @@
       "transcribed": 8
     },
     {
-      "aligned": 0,
-      "aligned_pct": "0.0%",
+      "aligned": 3,
+      "aligned_pct": "21.4%",
       "category": "حديث",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
       "declared_total": 14,
       "dir": "s022/",
-      "dur": 62515,
+      "dur": 62517,
       "key": "s022",
       "series_id": "gomaa__s022",
       "title": "دورة شرح الأربعين النووية وإجازتها (رحلة ماليزيا 2024)",
@@ -201,8 +201,8 @@
   ],
   "slug": "ali-gomaa",
   "totals": {
-    "aligned": 37,
-    "chars": 5289108,
+    "aligned": 40,
+    "chars": 5289054,
     "lessons": 276,
     "series": 14
   },

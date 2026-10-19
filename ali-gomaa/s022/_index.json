@@ -1,15 +1,15 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 3,
+  "aligned_ratio": 0.2143,
   "category": "حديث",
   "coverage": 1.0,
   "declared_total": 14,
   "key": "s022",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 17009,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 16955,
       "dur": 5426,
       "file": "001_j8KwwtdF5RQ.txt",
       "n": 1,
@@ -18,10 +18,10 @@
       "vid": "j8KwwtdF5RQ"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 21087,
-      "dur": 6237,
+      "dur": 6238,
       "file": "002_iBHmwSEN-t8.txt",
       "n": 2,
       "stem": "002_iBHmwSEN-t8",
@@ -40,10 +40,10 @@
       "vid": "LMrTcNPUELE"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 14664,
-      "dur": 5336,
+      "dur": 5337,
       "file": "004_zdRta5_m02U.txt",
       "n": 4,
       "stem": "004_zdRta5_m02U",
