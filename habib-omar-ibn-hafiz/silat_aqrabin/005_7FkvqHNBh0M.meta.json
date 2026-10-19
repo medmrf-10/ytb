@@ -8,26 +8,14 @@
   "align": {
     "engine": "ctc-pure-mac-mps",
     "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
-    "cov": 0.9202,
-    "spoken_align_pct": 92.02,
+    "cov": 0.9893,
+    "spoken_align_pct": 98.93,
     "audio_span_pct": 92.14,
-    "words": 5061,
-    "aligned": 4657,
-    "interpolated": 404,
-    "retried_without_silence_compact": true,
-    "local_agc_applied": true,
-    "at": "2026-10-19 16:19",
-    "low_coverage_diagnosis": {
-      "spoken_align_pct": 92.02,
-      "interpolated_words": 404,
-      "unaligned_clusters_count": 5,
-      "max_cluster_words": 17,
-      "wpm": 114.2,
-      "audio_span_pct": 92.14,
-      "forced_steps": 0,
-      "causes": [
-        "TEXT_HALLUCINATION_OR_CHUNK_REPEAT(clusters=5, max_run=17w @ 683.1s: «به الإبل؛ من أكل لحماً من لحوم الإبل، جملاً أو ناقة،»)"
-      ]
-    }
+    "words": 4020,
+    "aligned": 3977,
+    "interpolated": 43,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 20:11"
   }
 }
