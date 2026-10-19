@@ -4,5 +4,22 @@
   "words": 13462,
   "wpm": 134.6,
   "model": "gemini-3.8-flash-high",
-  "ok": true
+  "ok": true,
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9886,
+    "spoken_align_pct": 98.86,
+    "audio_span_pct": 99.82,
+    "words": 13450,
+    "aligned": 13199,
+    "interpolated": 152,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 08:59",
+    "stripped_reasons": [
+      "LATIN_PREAMBLE",
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
+  }
 }

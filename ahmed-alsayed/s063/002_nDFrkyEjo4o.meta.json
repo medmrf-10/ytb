@@ -1,43 +1,59 @@
 {
- "v": 1,
- "lid": "yt:nDFrkyEjo4o",
- "vid": "nDFrkyEjo4o",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--645",
- "n": 2,
- "n_src": "mutfile",
- "title": "التغريب... من حملة نابليون إلى طلائع العلمانية ｜ التجارب الإصلاحية في العصر الحد",
- "title_src": "filename",
- "sha256": "30d53268ff56bfd2accb6f05efc53d1d95418fd62b43ddb2000bd4384971a320",
- "nh": "2ccd254b397277aec2e82e708af7edec62e73e42a7e5d283978e2ad932077c92",
- "chars": 61562,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/645/002_التغريب... من حملة نابليون إلى طلائع العلمانية ｜ التجارب الإصلاحية في العصر الحد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/645/002_التغريب... من حملة نابليون إلى طلائع العلمانية ｜ التجارب الإصلاحية في العصر الحد.txt",
-   "sha256": "30d53268ff56bfd2accb6f05efc53d1d95418fd62b43ddb2000bd4384971a320",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:nDFrkyEjo4o",
+  "vid": "nDFrkyEjo4o",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--645",
+  "n": 2,
+  "n_src": "mutfile",
+  "title": "التغريب... من حملة نابليون إلى طلائع العلمانية ｜ التجارب الإصلاحية في العصر الحد",
+  "title_src": "filename",
+  "sha256": "30d53268ff56bfd2accb6f05efc53d1d95418fd62b43ddb2000bd4384971a320",
+  "nh": "2ccd254b397277aec2e82e708af7edec62e73e42a7e5d283978e2ad932077c92",
+  "chars": 61562,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/645/002_التغريب... من حملة نابليون إلى طلائع العلمانية ｜ التجارب الإصلاحية في العصر الحد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/tajaribI9la7iya-002/transcript.txt",
-   "sha256": "05991314bc288e040ceab33c15dd2857a9514fee37862a49620e14da83c62da4",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-645/002.txt",
-   "sha256": "05991314bc288e040ceab33c15dd2857a9514fee37862a49620e14da83c62da4",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/645/002_التغريب... من حملة نابليون إلى طلائع العلمانية ｜ التجارب الإصلاحية في العصر الحد.txt",
+      "sha256": "30d53268ff56bfd2accb6f05efc53d1d95418fd62b43ddb2000bd4384971a320",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/tajaribI9la7iya-002/transcript.txt",
+      "sha256": "05991314bc288e040ceab33c15dd2857a9514fee37862a49620e14da83c62da4",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-645/002.txt",
+      "sha256": "05991314bc288e040ceab33c15dd2857a9514fee37862a49620e14da83c62da4",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9982,
+    "spoken_align_pct": 99.82,
+    "audio_span_pct": 99.82,
+    "words": 11256,
+    "aligned": 11236,
+    "interpolated": 20,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 08:42",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

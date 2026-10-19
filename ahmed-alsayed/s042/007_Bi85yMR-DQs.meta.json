@@ -1,43 +1,48 @@
 {
- "v": 1,
- "lid": "yt:Bi85yMR-DQs",
- "vid": "Bi85yMR-DQs",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--660",
- "n": 8,
- "n_src": "mutfile",
- "title": "الأمة بين احتلالين 07 ｜ جحافل المغول ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "9978e25e68be56d7b3970a1bd7e57f683c13bd16b16402c8016d8443184c960a",
- "nh": "e2ab3d25231eda0adac01db8febc25d9c6f5261d1079666e324f5172e55789f0",
- "chars": 43362,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/660/008_الأمة بين احتلالين 07 ｜ جحافل المغول ｜ أحمد السيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/660/008_الأمة بين احتلالين 07 ｜ جحافل المغول ｜ أحمد السيد.txt",
-   "sha256": "9978e25e68be56d7b3970a1bd7e57f683c13bd16b16402c8016d8443184c960a",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:Bi85yMR-DQs",
+  "vid": "Bi85yMR-DQs",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--660",
+  "n": 8,
+  "n_src": "mutfile",
+  "title": "الأمة بين احتلالين 07 ｜ جحافل المغول ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "9978e25e68be56d7b3970a1bd7e57f683c13bd16b16402c8016d8443184c960a",
+  "nh": "e2ab3d25231eda0adac01db8febc25d9c6f5261d1079666e324f5172e55789f0",
+  "chars": 69887,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/660/008_الأمة بين احتلالين 07 ｜ جحافل المغول ｜ أحمد السيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/elommaBaynI7tilayn-008/transcript.txt",
-   "sha256": "208ef612c96d40dfe7a4314205d1a2d53fd2ae9d268bac7d052986b180222f37",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-660/008.txt",
-   "sha256": "208ef612c96d40dfe7a4314205d1a2d53fd2ae9d268bac7d052986b180222f37",
-   "rel": "same-body"
-  }
- ],
- "variants": [],
- "also_in": []
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/660/008_الأمة بين احتلالين 07 ｜ جحافل المغول ｜ أحمد السيد.txt",
+      "sha256": "9978e25e68be56d7b3970a1bd7e57f683c13bd16b16402c8016d8443184c960a",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/elommaBaynI7tilayn-008/transcript.txt",
+      "sha256": "208ef612c96d40dfe7a4314205d1a2d53fd2ae9d268bac7d052986b180222f37",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-660/008.txt",
+      "sha256": "208ef612c96d40dfe7a4314205d1a2d53fd2ae9d268bac7d052986b180222f37",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "dur_s": 6106.7,
+  "words": 12681,
+  "wpm": 124.6,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

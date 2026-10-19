@@ -10,7 +10,7 @@
   "title_src": "filename",
   "sha256": "74adb5eece04f69e8913eff70ee70fd178967a83b188c2928dabc4b7ac65763e",
   "nh": "6a30499346bb07993fc5b34774591e93fba5a5d5cf6db2d4cccb665a3872c063",
-  "chars": 31254,
+  "chars": 43891,
   "quality": "ok",
   "winner": {
     "store": "irth",
@@ -49,5 +49,10 @@
     "stripped_reasons": [
       "CHUNK_BOUNDARY_OVERLAP"
     ]
-  }
+  },
+  "dur_s": 4624.4,
+  "words": 7748,
+  "wpm": 100.5,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

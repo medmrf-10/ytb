@@ -1,43 +1,61 @@
 {
- "v": 1,
- "lid": "yt:zn-rYKeBk3o",
- "vid": "zn-rYKeBk3o",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--645",
- "n": 11,
- "n_src": "mutfile",
- "title": "لماذا تعثرت الحركات الإصلاحية؟... 14 خطأ في التجارب السابقة ｜ التجارب الإصلاحية",
- "title_src": "filename",
- "sha256": "d049ee71b470ec534e56a41dfa8cefdc1a4ae6ecf04c056df302fd581bff55f5",
- "nh": "1d4cd92b16d4904798a827eac47bd72d0062b2f6094eec3a0b314be88352337a",
- "chars": 36165,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/645/011_لماذا تعثرت الحركات الإصلاحية؟... 14 خطأ في التجارب السابقة ｜ التجارب الإصلاحية .txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/645/011_لماذا تعثرت الحركات الإصلاحية؟... 14 خطأ في التجارب السابقة ｜ التجارب الإصلاحية .txt",
-   "sha256": "d049ee71b470ec534e56a41dfa8cefdc1a4ae6ecf04c056df302fd581bff55f5",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:zn-rYKeBk3o",
+  "vid": "zn-rYKeBk3o",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--645",
+  "n": 11,
+  "n_src": "mutfile",
+  "title": "لماذا تعثرت الحركات الإصلاحية؟... 14 خطأ في التجارب السابقة ｜ التجارب الإصلاحية",
+  "title_src": "filename",
+  "sha256": "d049ee71b470ec534e56a41dfa8cefdc1a4ae6ecf04c056df302fd581bff55f5",
+  "nh": "1d4cd92b16d4904798a827eac47bd72d0062b2f6094eec3a0b314be88352337a",
+  "chars": 47091,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/645/011_لماذا تعثرت الحركات الإصلاحية؟... 14 خطأ في التجارب السابقة ｜ التجارب الإصلاحية .txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/tajaribI9la7iya-011/transcript.txt",
-   "sha256": "2f593744a3db89f8b314b81576807c153c71d90c60ad6ce9e46e91a68739f257",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/645/011_لماذا تعثرت الحركات الإصلاحية؟... 14 خطأ في التجارب السابقة ｜ التجارب الإصلاحية .txt",
+      "sha256": "d049ee71b470ec534e56a41dfa8cefdc1a4ae6ecf04c056df302fd581bff55f5",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/tajaribI9la7iya-011/transcript.txt",
+      "sha256": "2f593744a3db89f8b314b81576807c153c71d90c60ad6ce9e46e91a68739f257",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-645/011.txt",
+      "sha256": "d049ee71b470ec534e56a41dfa8cefdc1a4ae6ecf04c056df302fd581bff55f5",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9986,
+    "spoken_align_pct": 99.86,
+    "audio_span_pct": 84.02,
+    "words": 6454,
+    "aligned": 6445,
+    "interpolated": 9,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 08:51"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-645/011.txt",
-   "sha256": "d049ee71b470ec534e56a41dfa8cefdc1a4ae6ecf04c056df302fd581bff55f5",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": []
+  "dur_s": 4405.4,
+  "words": 8342,
+  "wpm": 113.6,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }
