@@ -1,16 +1,16 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 2,
+  "aligned_ratio": 0.1333,
   "category": "العقيدة والفكر والمنهج",
   "coverage": 1.0,
   "declared_total": 15,
   "key": "s031",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 23100,
-      "dur": 2292,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 23096,
+      "dur": 2293,
       "file": "001_40CJq965KaM.txt",
       "n": 1,
       "stem": "001_40CJq965KaM",
@@ -18,10 +18,10 @@
       "vid": "40CJq965KaM"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 12691,
-      "dur": 1609,
+      "dur": 1610,
       "file": "002_EeZ2aqtjLoY.txt",
       "n": 2,
       "stem": "002_EeZ2aqtjLoY",
