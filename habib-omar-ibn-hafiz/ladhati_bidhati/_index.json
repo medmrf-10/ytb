@@ -1,6 +1,6 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 1,
+  "aligned_ratio": 0.0714,
   "category": "التزكية والسلوك",
   "coverage": 1.0,
   "declared_total": 14,
@@ -18,10 +18,10 @@
       "vid": "dTPqJl0aueI"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 27442,
-      "dur": 3348,
+      "dur": 3347,
       "file": "002_xWB2vQ8opy0.txt",
       "n": 2,
       "stem": "002_xWB2vQ8opy0",

@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:xWB2vQ8opy0",
- "vid": "xWB2vQ8opy0",
- "sheikh": "habib-omar-ibn-hafiz",
- "row_id": "habib-omar-ibn-hafiz--195",
- "n": 13,
- "n_src": "read",
- "title": "مباشر： شرح قصيدة： لذاتي بذاتي - 2- من قوله： ومرتبة التقييد أظهرت رحمة - السبت 19",
- "title_src": "filename",
- "sha256": "2e0fe70e345f7b7f8419a27de2f055cb65aa66826e3f7168c13668035d47c52b",
- "nh": "07c568467f45ac503979e925f6bfaf0d55e73f609b4a4666b8b433235b16b64f",
- "chars": 28856,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/195/013_مباشر： شرح قصيدة： لذاتي بذاتي - 2- من قوله： ومرتبة التقييد أظهرت رحمة - السبت 19.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/195/013_مباشر： شرح قصيدة： لذاتي بذاتي - 2- من قوله： ومرتبة التقييد أظهرت رحمة - السبت 19.txt",
-   "sha256": "2e0fe70e345f7b7f8419a27de2f055cb65aa66826e3f7168c13668035d47c52b",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:xWB2vQ8opy0",
+  "vid": "xWB2vQ8opy0",
+  "sheikh": "habib-omar-ibn-hafiz",
+  "row_id": "habib-omar-ibn-hafiz--195",
+  "n": 13,
+  "n_src": "read",
+  "title": "مباشر： شرح قصيدة： لذاتي بذاتي - 2- من قوله： ومرتبة التقييد أظهرت رحمة - السبت 19",
+  "title_src": "filename",
+  "sha256": "2e0fe70e345f7b7f8419a27de2f055cb65aa66826e3f7168c13668035d47c52b",
+  "nh": "07c568467f45ac503979e925f6bfaf0d55e73f609b4a4666b8b433235b16b64f",
+  "chars": 28856,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/195/013_مباشر： شرح قصيدة： لذاتي بذاتي - 2- من قوله： ومرتبة التقييد أظهرت رحمة - السبت 19.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/195/013_مباشر： شرح قصيدة： لذاتي بذاتي - 2- من قوله： ومرتبة التقييد أظهرت رحمة - السبت 19.txt",
+      "sha256": "2e0fe70e345f7b7f8419a27de2f055cb65aa66826e3f7168c13668035d47c52b",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.998,
+    "spoken_align_pct": 99.8,
+    "audio_span_pct": 98.48,
+    "words": 5095,
+    "aligned": 5085,
+    "interpolated": 10,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 16:30"
   }
- ],
- "variants": [],
- "also_in": []
 }

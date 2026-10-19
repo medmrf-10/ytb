@@ -1,6 +1,6 @@
 {
-  "aligned": 7,
-  "aligned_ratio": 0.5,
+  "aligned": 14,
+  "aligned_ratio": 1.0,
   "category": "التزكية والسلوك",
   "coverage": 1.0,
   "declared_total": 14,
@@ -73,9 +73,9 @@
       "vid": "YaxLu_n3v7A"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 54654,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 54525,
       "dur": 5445,
       "file": "007_x3yJywZh9C0.txt",
       "n": 7,
@@ -95,8 +95,8 @@
       "vid": "i5MRcEkjDc8"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 24575,
       "dur": 2610,
       "file": "009_r2mjEBv1dc4.txt",
@@ -106,8 +106,8 @@
       "vid": "r2mjEBv1dc4"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 39952,
       "dur": 4305,
       "file": "010_LVGWnLqMg2k.txt",
@@ -117,8 +117,8 @@
       "vid": "LVGWnLqMg2k"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 30822,
       "dur": 3370,
       "file": "011_I4_SGacojMw.txt",
@@ -128,8 +128,8 @@
       "vid": "I4_SGacojMw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 12303,
       "dur": 1430,
       "file": "012_xXgAR4Irh4M.txt",
@@ -139,8 +139,8 @@
       "vid": "xXgAR4Irh4M"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 16316,
       "dur": 1800,
       "file": "013_KsWpwiMXMt8.txt",
@@ -150,8 +150,8 @@
       "vid": "KsWpwiMXMt8"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 31815,
       "dur": 3242,
       "file": "014_UKAKE2ZCXyI.txt",
