@@ -1,14 +1,14 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 6,
+  "aligned_ratio": 0.3529,
   "category": "اللغة العربية والأدب",
   "coverage": 1.0,
   "declared_total": 17,
   "key": "s024",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 26900,
       "dur": 3940,
       "file": "001_1X0k5Bubcsk.txt",
@@ -18,10 +18,10 @@
       "vid": "1X0k5Bubcsk"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 22714,
-      "dur": 3348,
+      "dur": 3349,
       "file": "002_bOoGeyIza6Q.txt",
       "n": 2,
       "stem": "002_bOoGeyIza6Q",
@@ -29,8 +29,8 @@
       "vid": "bOoGeyIza6Q"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 21509,
       "dur": 3443,
       "file": "003_qVH0cR8naUI.txt",
@@ -40,8 +40,8 @@
       "vid": "qVH0cR8naUI"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 19308,
       "dur": 3086,
       "file": "004_5MVGYCuM0Ik.txt",
@@ -51,10 +51,10 @@
       "vid": "5MVGYCuM0Ik"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 31545,
-      "dur": 4384,
+      "dur": 4385,
       "file": "005_xCFTLIrC-6E.txt",
       "n": 5,
       "stem": "005_xCFTLIrC-6E",
@@ -62,8 +62,8 @@
       "vid": "xCFTLIrC-6E"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 20162,
       "dur": 3084,
       "file": "006_9ehf9nHLHSw.txt",
