@@ -3527,7 +3527,7 @@
       "slug": "dhaker-alhashimi"
     },
     {
-      "aligned": 70,
+      "aligned": 71,
       "chars": 6212061,
       "lessons": 343,
       "name": "محمد البردوني الحسيمي",
@@ -3690,14 +3690,14 @@
           "transcribed": 9
         },
         {
-          "aligned": 4,
-          "aligned_pct": "26.7%",
+          "aligned": 5,
+          "aligned_pct": "33.3%",
           "category": "المنطق وآداب البحث",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 15,
           "dir": "s017/",
-          "dur": 64055,
+          "dur": 64054,
           "key": "s017",
           "series_id": "bardoni__s017",
           "title": "شرح فتح الوهاب بشرح رسالة الآداب في البحث والمناظرة لزكريا الأنصاري (كاملاً — الدروس 1 – 15)",
@@ -4735,8 +4735,8 @@
       "slug": "mouloud-sariri"
     },
     {
-      "aligned": 58,
-      "chars": 5289475,
+      "aligned": 64,
+      "chars": 5289227,
       "lessons": 197,
       "name": "علي هاني العقرباوي",
       "path": "ali-hani-aqrabawi/",
@@ -4870,14 +4870,14 @@
           "transcribed": 10
         },
         {
-          "aligned": 9,
-          "aligned_pct": "60.0%",
+          "aligned": 15,
+          "aligned_pct": "100.0%",
           "category": "علوم القرآن وأصول التفسير",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 15,
           "dir": "s040/",
-          "dur": 55770,
+          "dur": 55773,
           "key": "s040",
           "series_id": "alihani__s040",
           "title": "دورة تعليم الطريقة المثلى لتفسير القرآن الكريم وتكوين الملكة (الدورة الثانية)",
@@ -5706,8 +5706,8 @@
     }
   ],
   "totals": {
-    "aligned": 1494,
-    "chars": 156226096,
+    "aligned": 1501,
+    "chars": 156225848,
     "lessons": 6589,
     "series": 386,
     "sheikhs": 25
