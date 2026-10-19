@@ -1,37 +1,42 @@
 {
- "v": 1,
- "lid": "yt:b_yMwnP9pWc",
- "vid": "b_yMwnP9pWc",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1005",
- "n": 2,
- "n_src": "read",
- "title": "شرح المقدمات للسنوسي ｜ الدرس 08 (االصفات الأزلية-تتمة-) ｜ الشيخ محمد البردوني ا",
- "title_src": "filename",
- "sha256": "9fb387f7dbf8ea9d5ff420be401f8539b1a1722b8390a8f76c8c3b70ac8688cf",
- "nh": "a1566c443d5d1c41a16670678b01cc678de23a97bc64f1fcfd9f29ec479b98a1",
- "chars": 5007,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1005/002_شرح المقدمات للسنوسي  ｜ الدرس 08 (االصفات الأزلية-تتمة-) ｜ الشيخ محمد البردوني ا.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1005/002_شرح المقدمات للسنوسي  ｜ الدرس 08 (االصفات الأزلية-تتمة-) ｜ الشيخ محمد البردوني ا.txt",
-   "sha256": "9fb387f7dbf8ea9d5ff420be401f8539b1a1722b8390a8f76c8c3b70ac8688cf",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:b_yMwnP9pWc",
+  "vid": "b_yMwnP9pWc",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1005",
+  "n": 2,
+  "n_src": "read",
+  "title": "شرح المقدمات للسنوسي ｜ الدرس 08 (االصفات الأزلية-تتمة-) ｜ الشيخ محمد البردوني ا",
+  "title_src": "filename",
+  "sha256": "9fb387f7dbf8ea9d5ff420be401f8539b1a1722b8390a8f76c8c3b70ac8688cf",
+  "nh": "a1566c443d5d1c41a16670678b01cc678de23a97bc64f1fcfd9f29ec479b98a1",
+  "chars": 21107,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1005/002_شرح المقدمات للسنوسي  ｜ الدرس 08 (االصفات الأزلية-تتمة-) ｜ الشيخ محمد البردوني ا.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1005/7.txt",
-   "sha256": "9fb387f7dbf8ea9d5ff420be401f8539b1a1722b8390a8f76c8c3b70ac8688cf",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": []
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1005/002_شرح المقدمات للسنوسي  ｜ الدرس 08 (االصفات الأزلية-تتمة-) ｜ الشيخ محمد البردوني ا.txt",
+      "sha256": "9fb387f7dbf8ea9d5ff420be401f8539b1a1722b8390a8f76c8c3b70ac8688cf",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1005/7.txt",
+      "sha256": "9fb387f7dbf8ea9d5ff420be401f8539b1a1722b8390a8f76c8c3b70ac8688cf",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "dur_s": 2853.4,
+  "words": 3782,
+  "wpm": 79.5,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

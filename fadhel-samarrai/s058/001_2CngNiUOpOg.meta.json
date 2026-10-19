@@ -8,30 +8,14 @@
   "align": {
     "engine": "ctc-pure-mac-mps",
     "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
-    "cov": 0.6118,
-    "spoken_align_pct": 61.18,
-    "audio_span_pct": 96.3,
-    "words": 11897,
-    "aligned": 7087,
-    "interpolated": 4496,
-    "retried_without_silence_compact": true,
-    "local_agc_applied": true,
-    "at": "2026-10-19 01:10",
-    "low_coverage_diagnosis": {
-      "spoken_align_pct": 61.18,
-      "interpolated_words": 4496,
-      "unaligned_clusters_count": 2,
-      "max_cluster_words": 4098,
-      "wpm": 238.1,
-      "audio_span_pct": 96.3,
-      "forced_steps": 0,
-      "causes": [
-        "TEXT_HALLUCINATION_OR_CHUNK_REPEAT(clusters=2, max_run=4098w @ 2368.58s: «غير مجذوذ. ليؤكد ان هذا العطاء مستمر غير مقطوع ولا»)",
-        "EXCESS_WPM_HALLUCINATION(wpm=238.1)"
-      ]
-    },
-    "stripped_reasons": [
-      "CHUNK_BOUNDARY_OVERLAP"
-    ]
+    "cov": 0.9956,
+    "spoken_align_pct": 99.56,
+    "audio_span_pct": 99.99,
+    "words": 5598,
+    "aligned": 5261,
+    "interpolated": 23,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 03:43"
   }
 }

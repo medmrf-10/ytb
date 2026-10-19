@@ -1,37 +1,42 @@
 {
- "v": 1,
- "lid": "yt:RUHBmBxlIRA",
- "vid": "RUHBmBxlIRA",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1005",
- "n": 9,
- "n_src": "read",
- "title": "شرح المقدمات للسنوسي ｜ الدرس 01 ( المقدمة ) ｜ الشيخ محمد البردوني الحسيمي",
- "title_src": "filename",
- "sha256": "a07a3d2c544510afa5e263e95491f906bbef188c368de278504dbc7b65a48736",
- "nh": "dbb2f1a03c8076e29caee58745679d93db6c1422b3b676df23a65064980bc9bd",
- "chars": 5884,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1005/009_شرح المقدمات للسنوسي  ｜ الدرس 01 ( المقدمة ) ｜ الشيخ محمد البردوني الحسيمي.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1005/009_شرح المقدمات للسنوسي  ｜ الدرس 01 ( المقدمة ) ｜ الشيخ محمد البردوني الحسيمي.txt",
-   "sha256": "a07a3d2c544510afa5e263e95491f906bbef188c368de278504dbc7b65a48736",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:RUHBmBxlIRA",
+  "vid": "RUHBmBxlIRA",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1005",
+  "n": 9,
+  "n_src": "read",
+  "title": "شرح المقدمات للسنوسي ｜ الدرس 01 ( المقدمة ) ｜ الشيخ محمد البردوني الحسيمي",
+  "title_src": "filename",
+  "sha256": "a07a3d2c544510afa5e263e95491f906bbef188c368de278504dbc7b65a48736",
+  "nh": "dbb2f1a03c8076e29caee58745679d93db6c1422b3b676df23a65064980bc9bd",
+  "chars": 37984,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1005/009_شرح المقدمات للسنوسي  ｜ الدرس 01 ( المقدمة ) ｜ الشيخ محمد البردوني الحسيمي.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1005/0.txt",
-   "sha256": "a07a3d2c544510afa5e263e95491f906bbef188c368de278504dbc7b65a48736",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": []
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1005/009_شرح المقدمات للسنوسي  ｜ الدرس 01 ( المقدمة ) ｜ الشيخ محمد البردوني الحسيمي.txt",
+      "sha256": "a07a3d2c544510afa5e263e95491f906bbef188c368de278504dbc7b65a48736",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1005/0.txt",
+      "sha256": "a07a3d2c544510afa5e263e95491f906bbef188c368de278504dbc7b65a48736",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "dur_s": 4598.2,
+  "words": 6796,
+  "wpm": 88.7,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

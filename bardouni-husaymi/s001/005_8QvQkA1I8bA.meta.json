@@ -1,37 +1,42 @@
 {
- "v": 1,
- "lid": "yt:8QvQkA1I8bA",
- "vid": "8QvQkA1I8bA",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1005",
- "n": 5,
- "n_src": "read",
- "title": "شرح المقدمات للسنوسي ｜ الدرس 05 ( أصول الكفر و البدع ) ｜ الشيخ محمد البردوني ال",
- "title_src": "filename",
- "sha256": "064aba45d934fb812d57f6151db0056a5fc171ebff7f11bdfef05b2256a6f2e2",
- "nh": "ac46fe037aa30a9347c43eee59be6735869df80d4589ca4524056366c1e36135",
- "chars": 4051,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1005/005_شرح المقدمات للسنوسي  ｜ الدرس 05 ( أصول الكفر و البدع ) ｜ الشيخ محمد البردوني ال.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1005/005_شرح المقدمات للسنوسي  ｜ الدرس 05 ( أصول الكفر و البدع ) ｜ الشيخ محمد البردوني ال.txt",
-   "sha256": "064aba45d934fb812d57f6151db0056a5fc171ebff7f11bdfef05b2256a6f2e2",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:8QvQkA1I8bA",
+  "vid": "8QvQkA1I8bA",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1005",
+  "n": 5,
+  "n_src": "read",
+  "title": "شرح المقدمات للسنوسي ｜ الدرس 05 ( أصول الكفر و البدع ) ｜ الشيخ محمد البردوني ال",
+  "title_src": "filename",
+  "sha256": "064aba45d934fb812d57f6151db0056a5fc171ebff7f11bdfef05b2256a6f2e2",
+  "nh": "ac46fe037aa30a9347c43eee59be6735869df80d4589ca4524056366c1e36135",
+  "chars": 35265,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1005/005_شرح المقدمات للسنوسي  ｜ الدرس 05 ( أصول الكفر و البدع ) ｜ الشيخ محمد البردوني ال.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1005/4.txt",
-   "sha256": "064aba45d934fb812d57f6151db0056a5fc171ebff7f11bdfef05b2256a6f2e2",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": []
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1005/005_شرح المقدمات للسنوسي  ｜ الدرس 05 ( أصول الكفر و البدع ) ｜ الشيخ محمد البردوني ال.txt",
+      "sha256": "064aba45d934fb812d57f6151db0056a5fc171ebff7f11bdfef05b2256a6f2e2",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1005/4.txt",
+      "sha256": "064aba45d934fb812d57f6151db0056a5fc171ebff7f11bdfef05b2256a6f2e2",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "dur_s": 4206.3,
+  "words": 6243,
+  "wpm": 89.1,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

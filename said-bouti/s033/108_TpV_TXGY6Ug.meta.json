@@ -1,31 +1,36 @@
 {
- "v": 1,
- "lid": "rn:said-bouti--386:217",
- "vid": null,
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 217,
- "n_src": "read",
- "title": "الحكم العطائية للإمام البوطي الدرس 108 - الحكمة 86",
- "title_src": "filename",
- "sha256": "2586393ebdc5e939ec16314c99c2cee5b2d49e0a1be5a2d7aafd980b134868a0",
- "nh": "a6483b8329989a65f4c171516db2ce696889eeea5fb37efd254ae15bb9d3dd07",
- "chars": 1789,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/bouti/mut-386/217_الحكم العطائية للإمام البوطي  الدرس 108  - الحكمة 86.txt",
-  "commit_ts": 1791841975,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/217_الحكم العطائية للإمام البوطي  الدرس 108  - الحكمة 86.txt",
-   "sha256": "2586393ebdc5e939ec16314c99c2cee5b2d49e0a1be5a2d7aafd980b134868a0",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": []
+  "v": 1,
+  "lid": "rn:said-bouti--386:217",
+  "vid": null,
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 217,
+  "n_src": "read",
+  "title": "الحكم العطائية للإمام البوطي الدرس 108 - الحكمة 86",
+  "title_src": "filename",
+  "sha256": "2586393ebdc5e939ec16314c99c2cee5b2d49e0a1be5a2d7aafd980b134868a0",
+  "nh": "a6483b8329989a65f4c171516db2ce696889eeea5fb37efd254ae15bb9d3dd07",
+  "chars": 22289,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/bouti/mut-386/217_الحكم العطائية للإمام البوطي  الدرس 108  - الحكمة 86.txt",
+    "commit_ts": 1791841975,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/217_الحكم العطائية للإمام البوطي  الدرس 108  - الحكمة 86.txt",
+      "sha256": "2586393ebdc5e939ec16314c99c2cee5b2d49e0a1be5a2d7aafd980b134868a0",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "dur_s": 2810.1,
+  "words": 4201,
+  "wpm": 89.7,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

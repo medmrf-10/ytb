@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:WYRipsItcWo",
- "vid": "WYRipsItcWo",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1005",
- "n": 4,
- "n_src": "read",
- "title": "شرح المقدمات للسنوسي ｜ الدرس 06 ( مقدمة الموجودات ) ｜ الشيخ محمد البردوني الحسي",
- "title_src": "filename",
- "sha256": "576c2abe9d460de336eac423b04418fa3231f807efa54d78e341df1bd9895450",
- "nh": "73bf0de1e5282a26046380a5390cfabdd5b7a436161544f3b32eacc7c4420790",
- "chars": 19936,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1005/004_شرح المقدمات للسنوسي  ｜ الدرس 06 ( مقدمة الموجودات ) ｜ الشيخ محمد البردوني الحسي.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1005/004_شرح المقدمات للسنوسي  ｜ الدرس 06 ( مقدمة الموجودات ) ｜ الشيخ محمد البردوني الحسي.txt",
-   "sha256": "576c2abe9d460de336eac423b04418fa3231f807efa54d78e341df1bd9895450",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:WYRipsItcWo",
+  "vid": "WYRipsItcWo",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1005",
+  "n": 4,
+  "n_src": "read",
+  "title": "شرح المقدمات للسنوسي ｜ الدرس 06 ( مقدمة الموجودات ) ｜ الشيخ محمد البردوني الحسي",
+  "title_src": "filename",
+  "sha256": "576c2abe9d460de336eac423b04418fa3231f807efa54d78e341df1bd9895450",
+  "nh": "73bf0de1e5282a26046380a5390cfabdd5b7a436161544f3b32eacc7c4420790",
+  "chars": 19936,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1005/004_شرح المقدمات للسنوسي  ｜ الدرس 06 ( مقدمة الموجودات ) ｜ الشيخ محمد البردوني الحسي.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1005/5.txt",
-   "sha256": "576c2abe9d460de336eac423b04418fa3231f807efa54d78e341df1bd9895450",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1005/004_شرح المقدمات للسنوسي  ｜ الدرس 06 ( مقدمة الموجودات ) ｜ الشيخ محمد البردوني الحسي.txt",
+      "sha256": "576c2abe9d460de336eac423b04418fa3231f807efa54d78e341df1bd9895450",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1005/5.txt",
+      "sha256": "576c2abe9d460de336eac423b04418fa3231f807efa54d78e341df1bd9895450",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9994,
+    "spoken_align_pct": 99.94,
+    "audio_span_pct": 99.98,
+    "words": 3629,
+    "aligned": 3627,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 03:33"
   }
- ],
- "variants": [],
- "also_in": []
 }

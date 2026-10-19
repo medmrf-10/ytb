@@ -1,46 +1,51 @@
 {
- "v": 1,
- "lid": "yt:hnyjlmRqZSs",
- "vid": "hnyjlmRqZSs",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--992",
- "n": 7,
- "n_src": "read",
- "title": "شرح الرسالة العضدية ｜ الدرس 7 (المقدمة-تتمة-) ｜ الشيخ محمد البردوني",
- "title_src": "filename",
- "sha256": "c46e4b9716cce229123e819a0df5345169928c6e908bcd26dd56201087438977",
- "nh": "20103f2f0313f224ef8e11f9ccc34d718fae109e4116fb99dc018a066c9db38f",
- "chars": 2676,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/992/007_شرح الرسالة العضدية ｜ الدرس 7 (المقدمة-تتمة-) ｜ الشيخ محمد البردوني.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/992/007_شرح الرسالة العضدية ｜ الدرس 7 (المقدمة-تتمة-) ｜ الشيخ محمد البردوني.txt",
-   "sha256": "c46e4b9716cce229123e819a0df5345169928c6e908bcd26dd56201087438977",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:hnyjlmRqZSs",
+  "vid": "hnyjlmRqZSs",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--992",
+  "n": 7,
+  "n_src": "read",
+  "title": "شرح الرسالة العضدية ｜ الدرس 7 (المقدمة-تتمة-) ｜ الشيخ محمد البردوني",
+  "title_src": "filename",
+  "sha256": "c46e4b9716cce229123e819a0df5345169928c6e908bcd26dd56201087438977",
+  "nh": "20103f2f0313f224ef8e11f9ccc34d718fae109e4116fb99dc018a066c9db38f",
+  "chars": 12488,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/992/007_شرح الرسالة العضدية ｜ الدرس 7 (المقدمة-تتمة-) ｜ الشيخ محمد البردوني.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/sariri/risala-adudiyya/12.txt",
-   "sha256": "c46e4b9716cce229123e819a0df5345169928c6e908bcd26dd56201087438977",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/36/12.txt",
-   "sha256": "c46e4b9716cce229123e819a0df5345169928c6e908bcd26dd56201087438977",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": [
-  "mouloud-sariri--36",
-  "mouloud-sariri--sariri-risala-adudiyya"
- ]
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/992/007_شرح الرسالة العضدية ｜ الدرس 7 (المقدمة-تتمة-) ｜ الشيخ محمد البردوني.txt",
+      "sha256": "c46e4b9716cce229123e819a0df5345169928c6e908bcd26dd56201087438977",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/sariri/risala-adudiyya/12.txt",
+      "sha256": "c46e4b9716cce229123e819a0df5345169928c6e908bcd26dd56201087438977",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/36/12.txt",
+      "sha256": "c46e4b9716cce229123e819a0df5345169928c6e908bcd26dd56201087438977",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "mouloud-sariri--36",
+    "mouloud-sariri--sariri-risala-adudiyya"
+  ],
+  "dur_s": 1757.9,
+  "words": 2186,
+  "wpm": 74.6,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

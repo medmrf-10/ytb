@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:EbFF6mvJCBY",
- "vid": "EbFF6mvJCBY",
- "sheikh": "adham-alasimi",
- "row_id": "adham-alasimi--789",
- "n": 9,
- "n_src": "read",
- "title": "الوعي وفقه المآلات ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
- "title_src": "filename",
- "sha256": "5841afc03ff3a01156040d404d1e757772808357a86d8040dc3d014f74d98b57",
- "nh": "9a2986b34b1872382aae7ca168cd7059ed688efb84ce0b5d2e886b04c0670db9",
- "chars": 15852,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/789/009_الوعي وفقه المآلات ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/789/009_الوعي وفقه المآلات ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
-   "sha256": "5841afc03ff3a01156040d404d1e757772808357a86d8040dc3d014f74d98b57",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:EbFF6mvJCBY",
+  "vid": "EbFF6mvJCBY",
+  "sheikh": "adham-alasimi",
+  "row_id": "adham-alasimi--789",
+  "n": 9,
+  "n_src": "read",
+  "title": "الوعي وفقه المآلات ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+  "title_src": "filename",
+  "sha256": "5841afc03ff3a01156040d404d1e757772808357a86d8040dc3d014f74d98b57",
+  "nh": "9a2986b34b1872382aae7ca168cd7059ed688efb84ce0b5d2e886b04c0670db9",
+  "chars": 15852,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/789/009_الوعي وفقه المآلات ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/789/8.txt",
-   "sha256": "5841afc03ff3a01156040d404d1e757772808357a86d8040dc3d014f74d98b57",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/789/009_الوعي وفقه المآلات ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+      "sha256": "5841afc03ff3a01156040d404d1e757772808357a86d8040dc3d014f74d98b57",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/789/8.txt",
+      "sha256": "5841afc03ff3a01156040d404d1e757772808357a86d8040dc3d014f74d98b57",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.18,
+    "words": 2922,
+    "aligned": 2922,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 03:32"
   }
- ],
- "variants": [],
- "also_in": []
 }

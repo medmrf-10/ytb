@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:wYNIQlRGZVY",
- "vid": "wYNIQlRGZVY",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--339",
- "n": 5,
- "n_src": "mutfile",
- "title": "4 - الكآبة .. أسباب وعلاج العلامة البوطي السبب الثالث : الخوف من المصائب",
- "title_src": "filename",
- "sha256": "a8f54f60d030475ba77d6542c8d3bec55056f9dd20e280f2f3116675cbe35d76",
- "nh": "934986b555d99b25c70e7a9c0f970713a8eda77ed445681c8391faab01404429",
- "chars": 15655,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/339/005_4 - الكآبة .. أسباب وعلاج  العلامة البوطي  السبب الثالث : الخوف من المصائب.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/339/005_4 - الكآبة .. أسباب وعلاج  العلامة البوطي  السبب الثالث : الخوف من المصائب.txt",
-   "sha256": "a8f54f60d030475ba77d6542c8d3bec55056f9dd20e280f2f3116675cbe35d76",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:wYNIQlRGZVY",
+  "vid": "wYNIQlRGZVY",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--339",
+  "n": 5,
+  "n_src": "mutfile",
+  "title": "4 - الكآبة .. أسباب وعلاج العلامة البوطي السبب الثالث : الخوف من المصائب",
+  "title_src": "filename",
+  "sha256": "a8f54f60d030475ba77d6542c8d3bec55056f9dd20e280f2f3116675cbe35d76",
+  "nh": "934986b555d99b25c70e7a9c0f970713a8eda77ed445681c8391faab01404429",
+  "chars": 15655,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/339/005_4 - الكآبة .. أسباب وعلاج  العلامة البوطي  السبب الثالث : الخوف من المصائب.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/rihab/005_4 - الكآبة .. أسباب وعلاج  العلامة البوطي  السبب الثالث : الخوف من المصائب.txt",
-   "sha256": "a8f54f60d030475ba77d6542c8d3bec55056f9dd20e280f2f3116675cbe35d76",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-339/005.txt",
-   "sha256": "b2cc1da0573772f7ce8f6b15edcdef8a71dfc63d8cf516309c1a30f1ca8a6c25",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/339/005_4 - الكآبة .. أسباب وعلاج  العلامة البوطي  السبب الثالث : الخوف من المصائب.txt",
+      "sha256": "a8f54f60d030475ba77d6542c8d3bec55056f9dd20e280f2f3116675cbe35d76",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/rihab/005_4 - الكآبة .. أسباب وعلاج  العلامة البوطي  السبب الثالث : الخوف من المصائب.txt",
+      "sha256": "a8f54f60d030475ba77d6542c8d3bec55056f9dd20e280f2f3116675cbe35d76",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-339/005.txt",
+      "sha256": "b2cc1da0573772f7ce8f6b15edcdef8a71dfc63d8cf516309c1a30f1ca8a6c25",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9993,
+    "spoken_align_pct": 99.93,
+    "audio_span_pct": 99.33,
+    "words": 2721,
+    "aligned": 2699,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 03:38"
   }
- ],
- "variants": [],
- "also_in": []
 }

@@ -1,49 +1,54 @@
 {
- "v": 1,
- "lid": "yt:AtT9uZuXMu0",
- "vid": "AtT9uZuXMu0",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 46,
- "n_src": "read",
- "title": "الحكم العطائية للإمام البوطي ｜ الدرس 46 - الحكمة 28",
- "title_src": "filename",
- "sha256": "ccf7584b27239e5ddf0e0c85cc6a86ae4b7c529862d0e8bfc067c795dc5e2384",
- "nh": "12c25f7766f4d84b7d29135161c50b579030a8fa6e78807d7ce9d5a4425dfd99",
- "chars": 7948,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/386/046_الحكم العطائية للإمام البوطي ｜ الدرس 46  - الحكمة 28.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/386/046_الحكم العطائية للإمام البوطي ｜ الدرس 46  - الحكمة 28.txt",
-   "sha256": "ccf7584b27239e5ddf0e0c85cc6a86ae4b7c529862d0e8bfc067c795dc5e2384",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:AtT9uZuXMu0",
+  "vid": "AtT9uZuXMu0",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 46,
+  "n_src": "read",
+  "title": "الحكم العطائية للإمام البوطي ｜ الدرس 46 - الحكمة 28",
+  "title_src": "filename",
+  "sha256": "ccf7584b27239e5ddf0e0c85cc6a86ae4b7c529862d0e8bfc067c795dc5e2384",
+  "nh": "12c25f7766f4d84b7d29135161c50b579030a8fa6e78807d7ce9d5a4425dfd99",
+  "chars": 17635,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/386/046_الحكم العطائية للإمام البوطي ｜ الدرس 46  - الحكمة 28.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/hikam/046_الحكم العطائية للإمام البوطي ｜ الدرس 46  - الحكمة 28.txt",
-   "sha256": "ccf7584b27239e5ddf0e0c85cc6a86ae4b7c529862d0e8bfc067c795dc5e2384",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/046_الحكم العطائية للإمام البوطي ｜ الدرس 46  - الحكمة 28.txt",
-   "sha256": "ccf7584b27239e5ddf0e0c85cc6a86ae4b7c529862d0e8bfc067c795dc5e2384",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/386/44.txt",
-   "sha256": "ccf7584b27239e5ddf0e0c85cc6a86ae4b7c529862d0e8bfc067c795dc5e2384",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": []
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/386/046_الحكم العطائية للإمام البوطي ｜ الدرس 46  - الحكمة 28.txt",
+      "sha256": "ccf7584b27239e5ddf0e0c85cc6a86ae4b7c529862d0e8bfc067c795dc5e2384",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/hikam/046_الحكم العطائية للإمام البوطي ｜ الدرس 46  - الحكمة 28.txt",
+      "sha256": "ccf7584b27239e5ddf0e0c85cc6a86ae4b7c529862d0e8bfc067c795dc5e2384",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/046_الحكم العطائية للإمام البوطي ｜ الدرس 46  - الحكمة 28.txt",
+      "sha256": "ccf7584b27239e5ddf0e0c85cc6a86ae4b7c529862d0e8bfc067c795dc5e2384",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/386/44.txt",
+      "sha256": "ccf7584b27239e5ddf0e0c85cc6a86ae4b7c529862d0e8bfc067c795dc5e2384",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "dur_s": 2330.6,
+  "words": 3290,
+  "wpm": 84.7,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

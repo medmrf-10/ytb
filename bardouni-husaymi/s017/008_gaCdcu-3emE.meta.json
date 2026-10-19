@@ -1,31 +1,36 @@
 {
- "v": 1,
- "lid": "yt:gaCdcu-3emE",
- "vid": "gaCdcu-3emE",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--989",
- "n": 8,
- "n_src": "read",
- "title": "شرح فتح الوهاب بشرح الآداب ｜ الدرس 05 ( قوله ＂ وهي مرتبة على ثلاثة فصول٠٠٠＂ ) ｜",
- "title_src": "filename",
- "sha256": "c2008958edcf4e16a4ef1e2a03073fbbe8aaafccda38fe8e0916af515945cb74",
- "nh": "a4cf48faf11e23ca5f97111ac7d3c47b142c89307893c0aa16eb00e99ea51779",
- "chars": 4125,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/989/008_شرح فتح الوهاب بشرح الآداب  ｜ الدرس 05 ( قوله ＂ وهي مرتبة على ثلاثة فصول٠٠٠＂ ) ｜.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/989/008_شرح فتح الوهاب بشرح الآداب  ｜ الدرس 05 ( قوله ＂ وهي مرتبة على ثلاثة فصول٠٠٠＂ ) ｜.txt",
-   "sha256": "c2008958edcf4e16a4ef1e2a03073fbbe8aaafccda38fe8e0916af515945cb74",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": []
+  "v": 1,
+  "lid": "yt:gaCdcu-3emE",
+  "vid": "gaCdcu-3emE",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--989",
+  "n": 8,
+  "n_src": "read",
+  "title": "شرح فتح الوهاب بشرح الآداب ｜ الدرس 05 ( قوله ＂ وهي مرتبة على ثلاثة فصول٠٠٠＂ ) ｜",
+  "title_src": "filename",
+  "sha256": "c2008958edcf4e16a4ef1e2a03073fbbe8aaafccda38fe8e0916af515945cb74",
+  "nh": "a4cf48faf11e23ca5f97111ac7d3c47b142c89307893c0aa16eb00e99ea51779",
+  "chars": 40992,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/989/008_شرح فتح الوهاب بشرح الآداب  ｜ الدرس 05 ( قوله ＂ وهي مرتبة على ثلاثة فصول٠٠٠＂ ) ｜.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/989/008_شرح فتح الوهاب بشرح الآداب  ｜ الدرس 05 ( قوله ＂ وهي مرتبة على ثلاثة فصول٠٠٠＂ ) ｜.txt",
+      "sha256": "c2008958edcf4e16a4ef1e2a03073fbbe8aaafccda38fe8e0916af515945cb74",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "dur_s": 5357.1,
+  "words": 7297,
+  "wpm": 81.7,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

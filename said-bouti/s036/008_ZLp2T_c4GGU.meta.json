@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:ZLp2T_c4GGU",
- "vid": "ZLp2T_c4GGU",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--339",
- "n": 9,
- "n_src": "mutfile",
- "title": "8 - الكآبة .. أسباب وعلاج العلامة البوطي العلاج من الكآبة : علاج معرفي وعلاج عملي",
- "title_src": "filename",
- "sha256": "008ce9e0cf000dc71e80c2e0ba7d52f77a2eed6d126c6b0cafdcd3170917ae24",
- "nh": "876c46db87d37e5e068321faaef8c4b53d7dd114c07cd8ddbcfb50613e4f07a2",
- "chars": 14118,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/339/009_8 - الكآبة .. أسباب وعلاج  العلامة البوطي  العلاج من الكآبة : علاج معرفي وعلاج عملي.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/339/009_8 - الكآبة .. أسباب وعلاج  العلامة البوطي  العلاج من الكآبة : علاج معرفي وعلاج عملي.txt",
-   "sha256": "008ce9e0cf000dc71e80c2e0ba7d52f77a2eed6d126c6b0cafdcd3170917ae24",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:ZLp2T_c4GGU",
+  "vid": "ZLp2T_c4GGU",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--339",
+  "n": 9,
+  "n_src": "mutfile",
+  "title": "8 - الكآبة .. أسباب وعلاج العلامة البوطي العلاج من الكآبة : علاج معرفي وعلاج عملي",
+  "title_src": "filename",
+  "sha256": "008ce9e0cf000dc71e80c2e0ba7d52f77a2eed6d126c6b0cafdcd3170917ae24",
+  "nh": "876c46db87d37e5e068321faaef8c4b53d7dd114c07cd8ddbcfb50613e4f07a2",
+  "chars": 14118,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/339/009_8 - الكآبة .. أسباب وعلاج  العلامة البوطي  العلاج من الكآبة : علاج معرفي وعلاج عملي.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/rihab/009_8 - الكآبة .. أسباب وعلاج  العلامة البوطي  العلاج من الكآبة : علاج معرفي وعلاج عملي.txt",
-   "sha256": "008ce9e0cf000dc71e80c2e0ba7d52f77a2eed6d126c6b0cafdcd3170917ae24",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-339/009.txt",
-   "sha256": "9a70a617bcbd30d684c9b34f014b257113c5eb2ea2096a3c188f5453040d3c4f",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/339/009_8 - الكآبة .. أسباب وعلاج  العلامة البوطي  العلاج من الكآبة : علاج معرفي وعلاج عملي.txt",
+      "sha256": "008ce9e0cf000dc71e80c2e0ba7d52f77a2eed6d126c6b0cafdcd3170917ae24",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/rihab/009_8 - الكآبة .. أسباب وعلاج  العلامة البوطي  العلاج من الكآبة : علاج معرفي وعلاج عملي.txt",
+      "sha256": "008ce9e0cf000dc71e80c2e0ba7d52f77a2eed6d126c6b0cafdcd3170917ae24",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-339/009.txt",
+      "sha256": "9a70a617bcbd30d684c9b34f014b257113c5eb2ea2096a3c188f5453040d3c4f",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.3,
+    "words": 2575,
+    "aligned": 2575,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 03:41"
   }
- ],
- "variants": [],
- "also_in": []
 }

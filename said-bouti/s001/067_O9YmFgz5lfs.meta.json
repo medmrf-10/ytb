@@ -1,45 +1,50 @@
 {
- "v": 1,
- "lid": "yt:O9YmFgz5lfs",
- "vid": "O9YmFgz5lfs",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--414",
- "n": 67,
- "n_src": "read",
- "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 67",
- "title_src": "filename",
- "sha256": "39cf0d1c4c98c75d6c174a023db862df2154060253c548e5e221e5cdb3eda786",
- "nh": "6b6a59beb7486075f3d31f771e4e1a518f47f9d9eb01fcbd1629dc49bd4ce092",
- "chars": 10454,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/bouti/tafsir/067_تفسير القرآن الكريم للدكتور البوطي - الدرس 67.txt",
-  "commit_ts": 1791841975,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/tafsir/067_تفسير القرآن الكريم للدكتور البوطي - الدرس 67.txt",
-   "sha256": "39cf0d1c4c98c75d6c174a023db862df2154060253c548e5e221e5cdb3eda786",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:O9YmFgz5lfs",
+  "vid": "O9YmFgz5lfs",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--414",
+  "n": 67,
+  "n_src": "read",
+  "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 67",
+  "title_src": "filename",
+  "sha256": "39cf0d1c4c98c75d6c174a023db862df2154060253c548e5e221e5cdb3eda786",
+  "nh": "6b6a59beb7486075f3d31f771e4e1a518f47f9d9eb01fcbd1629dc49bd4ce092",
+  "chars": 25694,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/bouti/tafsir/067_تفسير القرآن الكريم للدكتور البوطي - الدرس 67.txt",
+    "commit_ts": 1791841975,
+    "head": "8a8b281"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-414/067.txt",
-   "sha256": "45959eb9dd5d8091750d3da8c09114c760b158688e221ff4482a890ddcc7bd95",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/414/30.txt",
-   "sha256": "39cf0d1c4c98c75d6c174a023db862df2154060253c548e5e221e5cdb3eda786",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": [
-  "said-bouti--bouti-414"
- ]
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/tafsir/067_تفسير القرآن الكريم للدكتور البوطي - الدرس 67.txt",
+      "sha256": "39cf0d1c4c98c75d6c174a023db862df2154060253c548e5e221e5cdb3eda786",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-414/067.txt",
+      "sha256": "45959eb9dd5d8091750d3da8c09114c760b158688e221ff4482a890ddcc7bd95",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/414/30.txt",
+      "sha256": "39cf0d1c4c98c75d6c174a023db862df2154060253c548e5e221e5cdb3eda786",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "said-bouti--bouti-414"
+  ],
+  "dur_s": 3007.4,
+  "words": 4499,
+  "wpm": 89.8,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

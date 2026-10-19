@@ -1,37 +1,42 @@
 {
- "v": 1,
- "lid": "yt:0tutIXfNWm0",
- "vid": "0tutIXfNWm0",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1005",
- "n": 6,
- "n_src": "read",
- "title": "شرح المقدمات للسنوسي ｜ الدرس 04 ( أنواع الشرك ) ｜ الشيخ محمد البردوني الحسيمي",
- "title_src": "filename",
- "sha256": "5af1c726584331fb08ec4eb8aa9cd7308580470289835de02b1bbda46ced191f",
- "nh": "2362f1a14a2d25550de823b02dbbf6385a33c4cc901dafce5d8d457be95fb12b",
- "chars": 3875,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1005/006_شرح المقدمات للسنوسي  ｜ الدرس 04 ( أنواع الشرك ) ｜ الشيخ محمد البردوني الحسيمي.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1005/006_شرح المقدمات للسنوسي  ｜ الدرس 04 ( أنواع الشرك ) ｜ الشيخ محمد البردوني الحسيمي.txt",
-   "sha256": "5af1c726584331fb08ec4eb8aa9cd7308580470289835de02b1bbda46ced191f",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:0tutIXfNWm0",
+  "vid": "0tutIXfNWm0",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1005",
+  "n": 6,
+  "n_src": "read",
+  "title": "شرح المقدمات للسنوسي ｜ الدرس 04 ( أنواع الشرك ) ｜ الشيخ محمد البردوني الحسيمي",
+  "title_src": "filename",
+  "sha256": "5af1c726584331fb08ec4eb8aa9cd7308580470289835de02b1bbda46ced191f",
+  "nh": "2362f1a14a2d25550de823b02dbbf6385a33c4cc901dafce5d8d457be95fb12b",
+  "chars": 45413,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1005/006_شرح المقدمات للسنوسي  ｜ الدرس 04 ( أنواع الشرك ) ｜ الشيخ محمد البردوني الحسيمي.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1005/3.txt",
-   "sha256": "5af1c726584331fb08ec4eb8aa9cd7308580470289835de02b1bbda46ced191f",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": []
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1005/006_شرح المقدمات للسنوسي  ｜ الدرس 04 ( أنواع الشرك ) ｜ الشيخ محمد البردوني الحسيمي.txt",
+      "sha256": "5af1c726584331fb08ec4eb8aa9cd7308580470289835de02b1bbda46ced191f",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1005/3.txt",
+      "sha256": "5af1c726584331fb08ec4eb8aa9cd7308580470289835de02b1bbda46ced191f",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "dur_s": 5482.9,
+  "words": 8315,
+  "wpm": 91.0,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

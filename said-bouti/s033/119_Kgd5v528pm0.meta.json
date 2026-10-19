@@ -1,31 +1,36 @@
 {
- "v": 1,
- "lid": "rn:said-bouti--386:309",
- "vid": null,
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 309,
- "n_src": "read|renumbered",
- "title": "الحكم العطائية للإمام البوطي الدرس 119 - الحكمة 97",
- "title_src": "filename",
- "sha256": "0f9ac8a7a95c74e77c83d88553edcc31e5648922f5985c0e2f1b034004c35cc5",
- "nh": "4d5397dfc8a5e60ba7cffdd6330c90268a0e3599f6ee7e0d715147439dbab141",
- "chars": 8732,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/bouti/mut-386/227_الحكم العطائية للإمام البوطي  الدرس 119  - الحكمة 97.txt",
-  "commit_ts": 1791841975,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/227_الحكم العطائية للإمام البوطي  الدرس 119  - الحكمة 97.txt",
-   "sha256": "0f9ac8a7a95c74e77c83d88553edcc31e5648922f5985c0e2f1b034004c35cc5",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": []
+  "v": 1,
+  "lid": "rn:said-bouti--386:309",
+  "vid": null,
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 309,
+  "n_src": "read|renumbered",
+  "title": "الحكم العطائية للإمام البوطي الدرس 119 - الحكمة 97",
+  "title_src": "filename",
+  "sha256": "0f9ac8a7a95c74e77c83d88553edcc31e5648922f5985c0e2f1b034004c35cc5",
+  "nh": "4d5397dfc8a5e60ba7cffdd6330c90268a0e3599f6ee7e0d715147439dbab141",
+  "chars": 20263,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/bouti/mut-386/227_الحكم العطائية للإمام البوطي  الدرس 119  - الحكمة 97.txt",
+    "commit_ts": 1791841975,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/227_الحكم العطائية للإمام البوطي  الدرس 119  - الحكمة 97.txt",
+      "sha256": "0f9ac8a7a95c74e77c83d88553edcc31e5648922f5985c0e2f1b034004c35cc5",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "dur_s": 2579.0,
+  "words": 3612,
+  "wpm": 84.0,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

@@ -1,31 +1,36 @@
 {
- "v": 1,
- "lid": "yt:gcU52tV2C9g",
- "vid": "gcU52tV2C9g",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--989",
- "n": 9,
- "n_src": "read",
- "title": "شرح فتح الوهاب بشرح الآداب ｜ الدرس 04 ( قوله ＂ هذه الصحيفة رسالة لطيفة ٠٠＂ ) ｜",
- "title_src": "filename",
- "sha256": "d7fdd7be1b01a37b24848331882a2f3873ad324e9e09c7cc71e035887dd658c9",
- "nh": "bc6786168941a01b06e36a8fe97355021233103775d5b9985addc39c0cde567b",
- "chars": 4840,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/989/009_شرح فتح الوهاب بشرح الآداب  ｜ الدرس 04 ( قوله ＂ هذه الصحيفة رسالة لطيفة ٠٠＂  ) ｜.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/989/009_شرح فتح الوهاب بشرح الآداب  ｜ الدرس 04 ( قوله ＂ هذه الصحيفة رسالة لطيفة ٠٠＂  ) ｜.txt",
-   "sha256": "d7fdd7be1b01a37b24848331882a2f3873ad324e9e09c7cc71e035887dd658c9",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": []
+  "v": 1,
+  "lid": "yt:gcU52tV2C9g",
+  "vid": "gcU52tV2C9g",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--989",
+  "n": 9,
+  "n_src": "read",
+  "title": "شرح فتح الوهاب بشرح الآداب ｜ الدرس 04 ( قوله ＂ هذه الصحيفة رسالة لطيفة ٠٠＂ ) ｜",
+  "title_src": "filename",
+  "sha256": "d7fdd7be1b01a37b24848331882a2f3873ad324e9e09c7cc71e035887dd658c9",
+  "nh": "bc6786168941a01b06e36a8fe97355021233103775d5b9985addc39c0cde567b",
+  "chars": 29678,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/989/009_شرح فتح الوهاب بشرح الآداب  ｜ الدرس 04 ( قوله ＂ هذه الصحيفة رسالة لطيفة ٠٠＂  ) ｜.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/989/009_شرح فتح الوهاب بشرح الآداب  ｜ الدرس 04 ( قوله ＂ هذه الصحيفة رسالة لطيفة ٠٠＂  ) ｜.txt",
+      "sha256": "d7fdd7be1b01a37b24848331882a2f3873ad324e9e09c7cc71e035887dd658c9",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "dur_s": 3918.3,
+  "words": 5166,
+  "wpm": 79.1,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

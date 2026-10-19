@@ -1,37 +1,42 @@
 {
- "v": 1,
- "lid": "yt:OV39fl3BmjQ",
- "vid": "OV39fl3BmjQ",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1005",
- "n": 8,
- "n_src": "read",
- "title": "شرح المقدمات للسنوسي ｜ الدرس 02 ( أقسام الحكم ) ｜ الشيخ محمد البردوني الحسيمي",
- "title_src": "filename",
- "sha256": "c083b8d4e68ac719b05849c496f1b35652fae80f1e91327e24f27314d115c43a",
- "nh": "9b18895001790fac0ff0b2777e45268cb5bf8a356db64bf7e7951c76389f6232",
- "chars": 3797,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1005/008_شرح المقدمات للسنوسي  ｜ الدرس 02 ( أقسام الحكم ) ｜ الشيخ محمد البردوني الحسيمي.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1005/008_شرح المقدمات للسنوسي  ｜ الدرس 02 ( أقسام الحكم ) ｜ الشيخ محمد البردوني الحسيمي.txt",
-   "sha256": "c083b8d4e68ac719b05849c496f1b35652fae80f1e91327e24f27314d115c43a",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:OV39fl3BmjQ",
+  "vid": "OV39fl3BmjQ",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1005",
+  "n": 8,
+  "n_src": "read",
+  "title": "شرح المقدمات للسنوسي ｜ الدرس 02 ( أقسام الحكم ) ｜ الشيخ محمد البردوني الحسيمي",
+  "title_src": "filename",
+  "sha256": "c083b8d4e68ac719b05849c496f1b35652fae80f1e91327e24f27314d115c43a",
+  "nh": "9b18895001790fac0ff0b2777e45268cb5bf8a356db64bf7e7951c76389f6232",
+  "chars": 36302,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1005/008_شرح المقدمات للسنوسي  ｜ الدرس 02 ( أقسام الحكم ) ｜ الشيخ محمد البردوني الحسيمي.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1005/1.txt",
-   "sha256": "c083b8d4e68ac719b05849c496f1b35652fae80f1e91327e24f27314d115c43a",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": []
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1005/008_شرح المقدمات للسنوسي  ｜ الدرس 02 ( أقسام الحكم ) ｜ الشيخ محمد البردوني الحسيمي.txt",
+      "sha256": "c083b8d4e68ac719b05849c496f1b35652fae80f1e91327e24f27314d115c43a",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1005/1.txt",
+      "sha256": "c083b8d4e68ac719b05849c496f1b35652fae80f1e91327e24f27314d115c43a",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "dur_s": 4422.7,
+  "words": 6603,
+  "wpm": 89.6,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

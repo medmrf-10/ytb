@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:dg4XBNkFR0s",
- "vid": "dg4XBNkFR0s",
- "sheikh": "adham-alasimi",
- "row_id": "adham-alasimi--789",
- "n": 8,
- "n_src": "read",
- "title": "خطبة الفتح ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
- "title_src": "filename",
- "sha256": "c950fc7054a4e816115d4a05c4cb60c9f0d68d986184c73d00ac0a0ec69c034e",
- "nh": "45f64f64d8022f7be7e13bed4742bcd37aa2dcc3bcaa2ee6d1d1b2780b339280",
- "chars": 16014,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/789/008_خطبة الفتح ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/789/008_خطبة الفتح ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
-   "sha256": "c950fc7054a4e816115d4a05c4cb60c9f0d68d986184c73d00ac0a0ec69c034e",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:dg4XBNkFR0s",
+  "vid": "dg4XBNkFR0s",
+  "sheikh": "adham-alasimi",
+  "row_id": "adham-alasimi--789",
+  "n": 8,
+  "n_src": "read",
+  "title": "خطبة الفتح ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+  "title_src": "filename",
+  "sha256": "c950fc7054a4e816115d4a05c4cb60c9f0d68d986184c73d00ac0a0ec69c034e",
+  "nh": "45f64f64d8022f7be7e13bed4742bcd37aa2dcc3bcaa2ee6d1d1b2780b339280",
+  "chars": 16014,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/789/008_خطبة الفتح ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/789/7.txt",
-   "sha256": "c950fc7054a4e816115d4a05c4cb60c9f0d68d986184c73d00ac0a0ec69c034e",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/789/008_خطبة الفتح ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+      "sha256": "c950fc7054a4e816115d4a05c4cb60c9f0d68d986184c73d00ac0a0ec69c034e",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/789/7.txt",
+      "sha256": "c950fc7054a4e816115d4a05c4cb60c9f0d68d986184c73d00ac0a0ec69c034e",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.18,
+    "words": 2909,
+    "aligned": 2909,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 03:31"
   }
- ],
- "variants": [],
- "also_in": []
 }

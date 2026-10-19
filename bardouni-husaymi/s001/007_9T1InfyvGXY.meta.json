@@ -1,37 +1,42 @@
 {
- "v": 1,
- "lid": "yt:9T1InfyvGXY",
- "vid": "9T1InfyvGXY",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1005",
- "n": 3,
- "n_src": "read",
- "title": "شرح المقدمات للسنوسي ｜ الدرس 07 (الممكنات المتقابلة -الصفات الأزلية ) ｜ الشيخ م",
- "title_src": "filename",
- "sha256": "7dae01f612195cc4a943578d5c4cc3d5eccfcb08b06177df050d0bb4cb2d2323",
- "nh": "461a1c36946ef308e17649554fbbd3bcd3e08d4b12fc2aa1d4e2889876530a66",
- "chars": 5166,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1005/003_شرح المقدمات للسنوسي  ｜ الدرس 07 (الممكنات المتقابلة -الصفات الأزلية ) ｜ الشيخ م.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1005/003_شرح المقدمات للسنوسي  ｜ الدرس 07 (الممكنات المتقابلة -الصفات الأزلية ) ｜ الشيخ م.txt",
-   "sha256": "7dae01f612195cc4a943578d5c4cc3d5eccfcb08b06177df050d0bb4cb2d2323",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:9T1InfyvGXY",
+  "vid": "9T1InfyvGXY",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1005",
+  "n": 3,
+  "n_src": "read",
+  "title": "شرح المقدمات للسنوسي ｜ الدرس 07 (الممكنات المتقابلة -الصفات الأزلية ) ｜ الشيخ م",
+  "title_src": "filename",
+  "sha256": "7dae01f612195cc4a943578d5c4cc3d5eccfcb08b06177df050d0bb4cb2d2323",
+  "nh": "461a1c36946ef308e17649554fbbd3bcd3e08d4b12fc2aa1d4e2889876530a66",
+  "chars": 35902,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1005/003_شرح المقدمات للسنوسي  ｜ الدرس 07 (الممكنات المتقابلة -الصفات الأزلية ) ｜ الشيخ م.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1005/6.txt",
-   "sha256": "7dae01f612195cc4a943578d5c4cc3d5eccfcb08b06177df050d0bb4cb2d2323",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": []
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1005/003_شرح المقدمات للسنوسي  ｜ الدرس 07 (الممكنات المتقابلة -الصفات الأزلية ) ｜ الشيخ م.txt",
+      "sha256": "7dae01f612195cc4a943578d5c4cc3d5eccfcb08b06177df050d0bb4cb2d2323",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1005/6.txt",
+      "sha256": "7dae01f612195cc4a943578d5c4cc3d5eccfcb08b06177df050d0bb4cb2d2323",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "dur_s": 5008.7,
+  "words": 6360,
+  "wpm": 76.2,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

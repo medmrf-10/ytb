@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:cgxO-FGo8ek",
- "vid": "cgxO-FGo8ek",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--339",
- "n": 6,
- "n_src": "mutfile",
- "title": "5 - الكآبة .. أسباب وعلاج العلامة البوطي صورة خطيرة من الخوف من المصائب",
- "title_src": "filename",
- "sha256": "57b3c8b8141f281a9e28507752e7c504b64a1f115260e8cdd2c54a9876bea528",
- "nh": "e349a33d810566d50fd40080a5730044e919b8fc99e4ea40fba95eddbaa1dcea",
- "chars": 13408,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/339/006_5 - الكآبة .. أسباب وعلاج  العلامة البوطي  صورة خطيرة من الخوف من المصائب.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/339/006_5 - الكآبة .. أسباب وعلاج  العلامة البوطي  صورة خطيرة من الخوف من المصائب.txt",
-   "sha256": "57b3c8b8141f281a9e28507752e7c504b64a1f115260e8cdd2c54a9876bea528",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:cgxO-FGo8ek",
+  "vid": "cgxO-FGo8ek",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--339",
+  "n": 6,
+  "n_src": "mutfile",
+  "title": "5 - الكآبة .. أسباب وعلاج العلامة البوطي صورة خطيرة من الخوف من المصائب",
+  "title_src": "filename",
+  "sha256": "57b3c8b8141f281a9e28507752e7c504b64a1f115260e8cdd2c54a9876bea528",
+  "nh": "e349a33d810566d50fd40080a5730044e919b8fc99e4ea40fba95eddbaa1dcea",
+  "chars": 13408,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/339/006_5 - الكآبة .. أسباب وعلاج  العلامة البوطي  صورة خطيرة من الخوف من المصائب.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/rihab/006_5 - الكآبة .. أسباب وعلاج  العلامة البوطي  صورة خطيرة من الخوف من المصائب.txt",
-   "sha256": "57b3c8b8141f281a9e28507752e7c504b64a1f115260e8cdd2c54a9876bea528",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-339/006.txt",
-   "sha256": "375c319f8be043b72a9cb084e0bf8259ea7e2025452098fbf0669044fb109365",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/339/006_5 - الكآبة .. أسباب وعلاج  العلامة البوطي  صورة خطيرة من الخوف من المصائب.txt",
+      "sha256": "57b3c8b8141f281a9e28507752e7c504b64a1f115260e8cdd2c54a9876bea528",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/rihab/006_5 - الكآبة .. أسباب وعلاج  العلامة البوطي  صورة خطيرة من الخوف من المصائب.txt",
+      "sha256": "57b3c8b8141f281a9e28507752e7c504b64a1f115260e8cdd2c54a9876bea528",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-339/006.txt",
+      "sha256": "375c319f8be043b72a9cb084e0bf8259ea7e2025452098fbf0669044fb109365",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.39,
+    "words": 2483,
+    "aligned": 2483,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 03:39"
   }
- ],
- "variants": [],
- "also_in": []
 }

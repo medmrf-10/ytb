@@ -1,31 +1,36 @@
 {
- "v": 1,
- "lid": "yt:tDi_A-za3CU",
- "vid": "tDi_A-za3CU",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 266,
- "n_src": "read",
- "title": "الحكم العطائية للإمام البوطي الدرس 157 - الحكمة 132",
- "title_src": "filename",
- "sha256": "c6977b6037663bd4c00fa953b3302cd136c24db6ae3ed763bdbd2449d175c884",
- "nh": "3863db2177245f75f0d849dbe50a529f2b667af940cd4250a23877e7c293563a",
- "chars": 1836,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/bouti/mut-386/266_الحكم العطائية للإمام البوطي  الدرس 157 - الحكمة 132.txt",
-  "commit_ts": 1791841975,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/266_الحكم العطائية للإمام البوطي  الدرس 157 - الحكمة 132.txt",
-   "sha256": "c6977b6037663bd4c00fa953b3302cd136c24db6ae3ed763bdbd2449d175c884",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": []
+  "v": 1,
+  "lid": "yt:tDi_A-za3CU",
+  "vid": "tDi_A-za3CU",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 266,
+  "n_src": "read",
+  "title": "الحكم العطائية للإمام البوطي الدرس 157 - الحكمة 132",
+  "title_src": "filename",
+  "sha256": "c6977b6037663bd4c00fa953b3302cd136c24db6ae3ed763bdbd2449d175c884",
+  "nh": "3863db2177245f75f0d849dbe50a529f2b667af940cd4250a23877e7c293563a",
+  "chars": 24892,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/bouti/mut-386/266_الحكم العطائية للإمام البوطي  الدرس 157 - الحكمة 132.txt",
+    "commit_ts": 1791841975,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/266_الحكم العطائية للإمام البوطي  الدرس 157 - الحكمة 132.txt",
+      "sha256": "c6977b6037663bd4c00fa953b3302cd136c24db6ae3ed763bdbd2449d175c884",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "dur_s": 3045.2,
+  "words": 4581,
+  "wpm": 90.3,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

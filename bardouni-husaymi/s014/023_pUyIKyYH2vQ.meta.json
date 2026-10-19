@@ -1,46 +1,51 @@
 {
- "v": 1,
- "lid": "yt:pUyIKyYH2vQ",
- "vid": "pUyIKyYH2vQ",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--992",
- "n": 23,
- "n_src": "read",
- "title": "شرح الرسالة العضدية ｜ الدرس 23- الأخير- ( ＂ التنبيه التاسع ＂) ｜ الشيخ محمد البرد",
- "title_src": "filename",
- "sha256": "b9c02738c2d291dfc44133d79405037a1f3ab85f63ee4c62f16f23d114974fe9",
- "nh": "93d146c84363c49b2c3f1e215ad870edc38071d94f5d728eca4bdd3956be8df8",
- "chars": 3252,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/992/023_شرح الرسالة العضدية ｜ الدرس 23- الأخير- ( ＂ التنبيه التاسع ＂) ｜ الشيخ محمد البرد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/992/023_شرح الرسالة العضدية ｜ الدرس 23- الأخير- ( ＂ التنبيه التاسع ＂) ｜ الشيخ محمد البرد.txt",
-   "sha256": "b9c02738c2d291dfc44133d79405037a1f3ab85f63ee4c62f16f23d114974fe9",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:pUyIKyYH2vQ",
+  "vid": "pUyIKyYH2vQ",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--992",
+  "n": 23,
+  "n_src": "read",
+  "title": "شرح الرسالة العضدية ｜ الدرس 23- الأخير- ( ＂ التنبيه التاسع ＂) ｜ الشيخ محمد البرد",
+  "title_src": "filename",
+  "sha256": "b9c02738c2d291dfc44133d79405037a1f3ab85f63ee4c62f16f23d114974fe9",
+  "nh": "93d146c84363c49b2c3f1e215ad870edc38071d94f5d728eca4bdd3956be8df8",
+  "chars": 13838,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/992/023_شرح الرسالة العضدية ｜ الدرس 23- الأخير- ( ＂ التنبيه التاسع ＂) ｜ الشيخ محمد البرد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/sariri/risala-adudiyya/44.txt",
-   "sha256": "b9c02738c2d291dfc44133d79405037a1f3ab85f63ee4c62f16f23d114974fe9",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/36/44.txt",
-   "sha256": "b9c02738c2d291dfc44133d79405037a1f3ab85f63ee4c62f16f23d114974fe9",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": [
-  "mouloud-sariri--36",
-  "mouloud-sariri--sariri-risala-adudiyya"
- ]
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/992/023_شرح الرسالة العضدية ｜ الدرس 23- الأخير- ( ＂ التنبيه التاسع ＂) ｜ الشيخ محمد البرد.txt",
+      "sha256": "b9c02738c2d291dfc44133d79405037a1f3ab85f63ee4c62f16f23d114974fe9",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/sariri/risala-adudiyya/44.txt",
+      "sha256": "b9c02738c2d291dfc44133d79405037a1f3ab85f63ee4c62f16f23d114974fe9",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/36/44.txt",
+      "sha256": "b9c02738c2d291dfc44133d79405037a1f3ab85f63ee4c62f16f23d114974fe9",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "mouloud-sariri--36",
+    "mouloud-sariri--sariri-risala-adudiyya"
+  ],
+  "dur_s": 1619.5,
+  "words": 2477,
+  "wpm": 91.8,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

@@ -1,37 +1,42 @@
 {
- "v": 1,
- "lid": "yt:UcsMft9jFsw",
- "vid": "UcsMft9jFsw",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--989",
- "n": 11,
- "n_src": "read",
- "title": "شرح فتح الوهاب بشرح الآداب ｜ الدرس 02 ( أبحاث متعلقة بالحمدلة ) ｜ الشيخ محمد ا",
- "title_src": "filename",
- "sha256": "b8a07d34f30e96c4a34b0ea7730f1931a1fab842d140e039aa2d9f1aff0e7ed1",
- "nh": "7aa5c81c13e623c49c19dbf072a57368f637754bab764358938a4eb8703d45ed",
- "chars": 2666,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/989/011_شرح فتح الوهاب بشرح الآداب  ｜ الدرس 02 ( أبحاث متعلقة  بالحمدلة ) ｜ الشيخ محمد ا.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/989/011_شرح فتح الوهاب بشرح الآداب  ｜ الدرس 02 ( أبحاث متعلقة  بالحمدلة ) ｜ الشيخ محمد ا.txt",
-   "sha256": "b8a07d34f30e96c4a34b0ea7730f1931a1fab842d140e039aa2d9f1aff0e7ed1",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:UcsMft9jFsw",
+  "vid": "UcsMft9jFsw",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--989",
+  "n": 11,
+  "n_src": "read",
+  "title": "شرح فتح الوهاب بشرح الآداب ｜ الدرس 02 ( أبحاث متعلقة بالحمدلة ) ｜ الشيخ محمد ا",
+  "title_src": "filename",
+  "sha256": "b8a07d34f30e96c4a34b0ea7730f1931a1fab842d140e039aa2d9f1aff0e7ed1",
+  "nh": "7aa5c81c13e623c49c19dbf072a57368f637754bab764358938a4eb8703d45ed",
+  "chars": 29860,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/989/011_شرح فتح الوهاب بشرح الآداب  ｜ الدرس 02 ( أبحاث متعلقة  بالحمدلة ) ｜ الشيخ محمد ا.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/989/1.txt",
-   "sha256": "b8a07d34f30e96c4a34b0ea7730f1931a1fab842d140e039aa2d9f1aff0e7ed1",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": []
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/989/011_شرح فتح الوهاب بشرح الآداب  ｜ الدرس 02 ( أبحاث متعلقة  بالحمدلة ) ｜ الشيخ محمد ا.txt",
+      "sha256": "b8a07d34f30e96c4a34b0ea7730f1931a1fab842d140e039aa2d9f1aff0e7ed1",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/989/1.txt",
+      "sha256": "b8a07d34f30e96c4a34b0ea7730f1931a1fab842d140e039aa2d9f1aff0e7ed1",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "dur_s": 3788.9,
+  "words": 5241,
+  "wpm": 83.0,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

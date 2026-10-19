@@ -1,37 +1,42 @@
 {
- "v": 1,
- "lid": "yt:7QRKjdsLAuo",
- "vid": "7QRKjdsLAuo",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1005",
- "n": 7,
- "n_src": "read",
- "title": "شرح المقدمات للسنوسي ｜ الدرس 03 ( المذاهب في أفعال العباد ) ｜ الشيخ محمد البردو",
- "title_src": "filename",
- "sha256": "54fa07621295bc9519569be5658eed2f9b423026b54d1feb38888b91396d0e86",
- "nh": "7558aaaedf918a43f5836136210cea480345be4d40a152048d3520fea6a07411",
- "chars": 2924,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1005/007_شرح المقدمات للسنوسي  ｜ الدرس 03 ( المذاهب في أفعال العباد ) ｜ الشيخ محمد البردو.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1005/007_شرح المقدمات للسنوسي  ｜ الدرس 03 ( المذاهب في أفعال العباد ) ｜ الشيخ محمد البردو.txt",
-   "sha256": "54fa07621295bc9519569be5658eed2f9b423026b54d1feb38888b91396d0e86",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:7QRKjdsLAuo",
+  "vid": "7QRKjdsLAuo",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1005",
+  "n": 7,
+  "n_src": "read",
+  "title": "شرح المقدمات للسنوسي ｜ الدرس 03 ( المذاهب في أفعال العباد ) ｜ الشيخ محمد البردو",
+  "title_src": "filename",
+  "sha256": "54fa07621295bc9519569be5658eed2f9b423026b54d1feb38888b91396d0e86",
+  "nh": "7558aaaedf918a43f5836136210cea480345be4d40a152048d3520fea6a07411",
+  "chars": 38029,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1005/007_شرح المقدمات للسنوسي  ｜ الدرس 03 ( المذاهب في أفعال العباد ) ｜ الشيخ محمد البردو.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1005/2.txt",
-   "sha256": "54fa07621295bc9519569be5658eed2f9b423026b54d1feb38888b91396d0e86",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": []
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1005/007_شرح المقدمات للسنوسي  ｜ الدرس 03 ( المذاهب في أفعال العباد ) ｜ الشيخ محمد البردو.txt",
+      "sha256": "54fa07621295bc9519569be5658eed2f9b423026b54d1feb38888b91396d0e86",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1005/2.txt",
+      "sha256": "54fa07621295bc9519569be5658eed2f9b423026b54d1feb38888b91396d0e86",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "dur_s": 4752.9,
+  "words": 6797,
+  "wpm": 85.8,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

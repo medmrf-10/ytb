@@ -1,37 +1,42 @@
 {
- "v": 1,
- "lid": "yt:OJTZdLyMgt4",
- "vid": "OJTZdLyMgt4",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1005",
- "n": 1,
- "n_src": "read",
- "title": "شرح المقدمات للسنوسي ｜ الدرس 09 والأخير ( صفة الكلام إلى آخر الكتاب ) ｜ الشيخ مح",
- "title_src": "filename",
- "sha256": "11ba9d68aee1f08ef69b35712a383c86f27dd1db9e4d78971ff8fb22f5c92e06",
- "nh": "787a5c525f4c06be79f931fc8690eeaf6f5bee672b13828c3bc1cacdb4cf2642",
- "chars": 4576,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1005/001_شرح المقدمات للسنوسي ｜ الدرس 09 والأخير ( صفة الكلام إلى آخر الكتاب ) ｜ الشيخ مح.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1005/001_شرح المقدمات للسنوسي ｜ الدرس 09 والأخير ( صفة الكلام إلى آخر الكتاب ) ｜ الشيخ مح.txt",
-   "sha256": "11ba9d68aee1f08ef69b35712a383c86f27dd1db9e4d78971ff8fb22f5c92e06",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:OJTZdLyMgt4",
+  "vid": "OJTZdLyMgt4",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1005",
+  "n": 1,
+  "n_src": "read",
+  "title": "شرح المقدمات للسنوسي ｜ الدرس 09 والأخير ( صفة الكلام إلى آخر الكتاب ) ｜ الشيخ مح",
+  "title_src": "filename",
+  "sha256": "11ba9d68aee1f08ef69b35712a383c86f27dd1db9e4d78971ff8fb22f5c92e06",
+  "nh": "787a5c525f4c06be79f931fc8690eeaf6f5bee672b13828c3bc1cacdb4cf2642",
+  "chars": 38329,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1005/001_شرح المقدمات للسنوسي ｜ الدرس 09 والأخير ( صفة الكلام إلى آخر الكتاب ) ｜ الشيخ مح.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1005/8.txt",
-   "sha256": "11ba9d68aee1f08ef69b35712a383c86f27dd1db9e4d78971ff8fb22f5c92e06",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": []
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1005/001_شرح المقدمات للسنوسي ｜ الدرس 09 والأخير ( صفة الكلام إلى آخر الكتاب ) ｜ الشيخ مح.txt",
+      "sha256": "11ba9d68aee1f08ef69b35712a383c86f27dd1db9e4d78971ff8fb22f5c92e06",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1005/8.txt",
+      "sha256": "11ba9d68aee1f08ef69b35712a383c86f27dd1db9e4d78971ff8fb22f5c92e06",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "dur_s": 4432.5,
+  "words": 6748,
+  "wpm": 91.3,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }
