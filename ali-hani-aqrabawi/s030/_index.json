@@ -1,14 +1,14 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 6,
+  "aligned_ratio": 0.3333,
   "category": "البلاغة والبيان",
   "coverage": 1.0,
   "declared_total": 18,
   "key": "s030",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 28103,
       "dur": 3094,
       "file": "001_Lqj37KMzjRQ.txt",
@@ -18,10 +18,10 @@
       "vid": "Lqj37KMzjRQ"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 12705,
-      "dur": 1404,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 12652,
+      "dur": 1405,
       "file": "002_5nzn5wXk_No.txt",
       "n": 2,
       "stem": "002_5nzn5wXk_No",
@@ -29,10 +29,10 @@
       "vid": "5nzn5wXk_No"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 20802,
-      "dur": 2358,
+      "dur": 2359,
       "file": "003_p2ePW0T-R_Q.txt",
       "n": 3,
       "stem": "003_p2ePW0T-R_Q",
@@ -40,8 +40,8 @@
       "vid": "p2ePW0T-R_Q"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 26459,
       "dur": 2953,
       "file": "004_FX1xqzVLNAw.txt",
@@ -51,10 +51,10 @@
       "vid": "FX1xqzVLNAw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 17372,
-      "dur": 1691,
+      "dur": 1692,
       "file": "005_gZCLJlsI8Yk.txt",
       "n": 5,
       "stem": "005_gZCLJlsI8Yk",
@@ -62,8 +62,8 @@
       "vid": "gZCLJlsI8Yk"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 27731,
       "dur": 3208,
       "file": "006_3RXkR_mPyYU.txt",
