@@ -171,14 +171,14 @@
       "transcribed": 30
     },
     {
-      "aligned": 0,
-      "aligned_pct": "0.0%",
+      "aligned": 2,
+      "aligned_pct": "11.1%",
       "category": "التفسير وعلوم القرآن",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
       "declared_total": 18,
       "dir": "s017/",
-      "dur": 32384,
+      "dur": 32385,
       "key": "s017",
       "series_id": "shaarawy__s017",
       "title": "تفسير سورة الكهف",
@@ -677,8 +677,8 @@
   ],
   "slug": "sharawi",
   "totals": {
-    "aligned": 196,
-    "chars": 13960672,
+    "aligned": 198,
+    "chars": 13960627,
     "lessons": 648,
     "series": 48
   },
