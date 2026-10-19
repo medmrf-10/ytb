@@ -489,8 +489,8 @@
       "slug": "said-bouti"
     },
     {
-      "aligned": 155,
-      "chars": 13961707,
+      "aligned": 163,
+      "chars": 13961523,
       "lessons": 648,
       "name": "محمد متولي الشعراوي",
       "path": "sharawi/",
@@ -582,14 +582,14 @@
           "transcribed": 2
         },
         {
-          "aligned": 7,
-          "aligned_pct": "46.7%",
+          "aligned": 15,
+          "aligned_pct": "100.0%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 15,
           "dir": "s007/",
-          "dur": 37823,
+          "dur": 37820,
           "key": "s007",
           "series_id": "shaarawy__s007",
           "title": "تفسير سورة الأنفال",
@@ -5235,8 +5235,8 @@
       "slug": "ayman-abdelrahim"
     },
     {
-      "aligned": 23,
-      "chars": 1849272,
+      "aligned": 24,
+      "chars": 1849187,
       "lessons": 92,
       "name": "معاذ سعيد حوى",
       "path": "maath-hawa/",
@@ -5258,14 +5258,14 @@
           "transcribed": 16
         },
         {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
+          "aligned": 1,
+          "aligned_pct": "6.7%",
           "category": "تزكية وأخلاق",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 15,
           "dir": "ayyuha_walad/",
-          "dur": 54900,
+          "dur": 54901,
           "key": "ayyuha_walad",
           "series_id": "hawwa__ayyuha_walad",
           "title": "شرح رسالة أيها الولد للإمام الغزالي",
@@ -5706,8 +5706,8 @@
     }
   ],
   "totals": {
-    "aligned": 1462,
-    "chars": 156227381,
+    "aligned": 1471,
+    "chars": 156227112,
     "lessons": 6589,
     "series": 386,
     "sheikhs": 25

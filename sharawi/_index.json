@@ -87,14 +87,14 @@
       "transcribed": 2
     },
     {
-      "aligned": 7,
-      "aligned_pct": "46.7%",
+      "aligned": 15,
+      "aligned_pct": "100.0%",
       "category": "التفسير وعلوم القرآن",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
       "declared_total": 15,
       "dir": "s007/",
-      "dur": 37823,
+      "dur": 37820,
       "key": "s007",
       "series_id": "shaarawy__s007",
       "title": "تفسير سورة الأنفال",
@@ -677,8 +677,8 @@
   ],
   "slug": "sharawi",
   "totals": {
-    "aligned": 155,
-    "chars": 13961707,
+    "aligned": 163,
+    "chars": 13961523,
     "lessons": 648,
     "series": 48
   },
