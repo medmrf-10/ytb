@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:26NFJFH_ojc",
- "vid": "26NFJFH_ojc",
- "sheikh": "habib-omar-ibn-hafiz",
- "row_id": "habib-omar-ibn-hafiz--195",
- "n": 5,
- "n_src": "read",
- "title": "مباشر： شرح قصيدة： لذاتي بذاتي - 10- من قوله： وغِب عنك وامحُ نقطة الغين ثابتاً",
- "title_src": "filename",
- "sha256": "915fac6ea30673fa08ef59ff5b1e35a30e190afbbe11d9114c44c9be99a54122",
- "nh": "f271e12aaf24af267f274c80ee72de3d590a417812fe4146ff9df0a0887e7854",
- "chars": 31597,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/195/005_مباشر： شرح قصيدة： لذاتي بذاتي - 10- من قوله： وغِب عنك وامحُ نقطة الغين ثابتاً - .txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/195/005_مباشر： شرح قصيدة： لذاتي بذاتي - 10- من قوله： وغِب عنك وامحُ نقطة الغين ثابتاً - .txt",
-   "sha256": "915fac6ea30673fa08ef59ff5b1e35a30e190afbbe11d9114c44c9be99a54122",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:26NFJFH_ojc",
+  "vid": "26NFJFH_ojc",
+  "sheikh": "habib-omar-ibn-hafiz",
+  "row_id": "habib-omar-ibn-hafiz--195",
+  "n": 5,
+  "n_src": "read",
+  "title": "مباشر： شرح قصيدة： لذاتي بذاتي - 10- من قوله： وغِب عنك وامحُ نقطة الغين ثابتاً",
+  "title_src": "filename",
+  "sha256": "915fac6ea30673fa08ef59ff5b1e35a30e190afbbe11d9114c44c9be99a54122",
+  "nh": "f271e12aaf24af267f274c80ee72de3d590a417812fe4146ff9df0a0887e7854",
+  "chars": 31597,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/195/005_مباشر： شرح قصيدة： لذاتي بذاتي - 10- من قوله： وغِب عنك وامحُ نقطة الغين ثابتاً - .txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/195/005_مباشر： شرح قصيدة： لذاتي بذاتي - 10- من قوله： وغِب عنك وامحُ نقطة الغين ثابتاً - .txt",
+      "sha256": "915fac6ea30673fa08ef59ff5b1e35a30e190afbbe11d9114c44c9be99a54122",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9978,
+    "spoken_align_pct": 99.78,
+    "audio_span_pct": 99.85,
+    "words": 5793,
+    "aligned": 5780,
+    "interpolated": 13,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 16:46"
   }
- ],
- "variants": [],
- "also_in": []
 }

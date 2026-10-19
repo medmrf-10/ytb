@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:a1zZHJu39NA",
- "vid": "a1zZHJu39NA",
- "sheikh": "habib-omar-ibn-hafiz",
- "row_id": "habib-omar-ibn-hafiz--195",
- "n": 7,
- "n_src": "read",
- "title": "مباشر： شرح قصيدة： لذاتي بذاتي - 8- من قوله： وماذا عسى نفسي تعادل في الورى - مساء",
- "title_src": "filename",
- "sha256": "afb33c86ab2e1d153b319361807aad8297972e89f81ef91e0be5d5e378533e22",
- "nh": "98eba71b2c6741ec00f43a4d287ffe2a3a34c7447bc216caa798045e842fe1d9",
- "chars": 33065,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/195/007_مباشر： شرح قصيدة： لذاتي بذاتي - 8- من قوله： وماذا عسى نفسي تعادل في الورى - مساء.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/195/007_مباشر： شرح قصيدة： لذاتي بذاتي - 8- من قوله： وماذا عسى نفسي تعادل في الورى - مساء.txt",
-   "sha256": "afb33c86ab2e1d153b319361807aad8297972e89f81ef91e0be5d5e378533e22",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:a1zZHJu39NA",
+  "vid": "a1zZHJu39NA",
+  "sheikh": "habib-omar-ibn-hafiz",
+  "row_id": "habib-omar-ibn-hafiz--195",
+  "n": 7,
+  "n_src": "read",
+  "title": "مباشر： شرح قصيدة： لذاتي بذاتي - 8- من قوله： وماذا عسى نفسي تعادل في الورى - مساء",
+  "title_src": "filename",
+  "sha256": "afb33c86ab2e1d153b319361807aad8297972e89f81ef91e0be5d5e378533e22",
+  "nh": "98eba71b2c6741ec00f43a4d287ffe2a3a34c7447bc216caa798045e842fe1d9",
+  "chars": 33065,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/195/007_مباشر： شرح قصيدة： لذاتي بذاتي - 8- من قوله： وماذا عسى نفسي تعادل في الورى - مساء.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/195/007_مباشر： شرح قصيدة： لذاتي بذاتي - 8- من قوله： وماذا عسى نفسي تعادل في الورى - مساء.txt",
+      "sha256": "afb33c86ab2e1d153b319361807aad8297972e89f81ef91e0be5d5e378533e22",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9987,
+    "spoken_align_pct": 99.87,
+    "audio_span_pct": 80.45,
+    "words": 6288,
+    "aligned": 6280,
+    "interpolated": 8,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 16:42"
   }
- ],
- "variants": [],
- "also_in": []
 }

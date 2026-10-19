@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:nJO_1EZMLSM",
- "vid": "nJO_1EZMLSM",
- "sheikh": "habib-omar-ibn-hafiz",
- "row_id": "habib-omar-ibn-hafiz--195",
- "n": 6,
- "n_src": "read",
- "title": "مباشر： شرح قصيدة： لذاتي بذاتي - 9- من قوله： أهيمُ بأنفاس النسيم وإنني بطيب الحمى",
- "title_src": "filename",
- "sha256": "f8e1460f8ebbfe1ffd23bab2ccc8fb5db526c2a4ac310503d01802a30b701d44",
- "nh": "9e7d7dab197f7f24ab5b1c6ddcd9623cee11a4b237056c409d24edb12019643a",
- "chars": 29659,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/195/006_مباشر： شرح قصيدة： لذاتي بذاتي - 9- من قوله： أهيمُ بأنفاس النسيم وإنني بطيب الحمى.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/195/006_مباشر： شرح قصيدة： لذاتي بذاتي - 9- من قوله： أهيمُ بأنفاس النسيم وإنني بطيب الحمى.txt",
-   "sha256": "f8e1460f8ebbfe1ffd23bab2ccc8fb5db526c2a4ac310503d01802a30b701d44",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:nJO_1EZMLSM",
+  "vid": "nJO_1EZMLSM",
+  "sheikh": "habib-omar-ibn-hafiz",
+  "row_id": "habib-omar-ibn-hafiz--195",
+  "n": 6,
+  "n_src": "read",
+  "title": "مباشر： شرح قصيدة： لذاتي بذاتي - 9- من قوله： أهيمُ بأنفاس النسيم وإنني بطيب الحمى",
+  "title_src": "filename",
+  "sha256": "f8e1460f8ebbfe1ffd23bab2ccc8fb5db526c2a4ac310503d01802a30b701d44",
+  "nh": "9e7d7dab197f7f24ab5b1c6ddcd9623cee11a4b237056c409d24edb12019643a",
+  "chars": 29659,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/195/006_مباشر： شرح قصيدة： لذاتي بذاتي - 9- من قوله： أهيمُ بأنفاس النسيم وإنني بطيب الحمى.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/195/006_مباشر： شرح قصيدة： لذاتي بذاتي - 9- من قوله： أهيمُ بأنفاس النسيم وإنني بطيب الحمى.txt",
+      "sha256": "f8e1460f8ebbfe1ffd23bab2ccc8fb5db526c2a4ac310503d01802a30b701d44",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9844,
+    "spoken_align_pct": 98.44,
+    "audio_span_pct": 94.93,
+    "words": 5458,
+    "aligned": 5373,
+    "interpolated": 85,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 16:41"
   }
- ],
- "variants": [],
- "also_in": []
 }

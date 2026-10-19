@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:J8DrJ0op_cA",
- "vid": "J8DrJ0op_cA",
- "sheikh": "habib-omar-ibn-hafiz",
- "row_id": "habib-omar-ibn-hafiz--195",
- "n": 4,
- "n_src": "read",
- "title": "مباشر： شرح قصيدة： لذاتي بذاتي - 11- من قوله： فإن طريق القوم سهل سلوكه - الثلاثاء",
- "title_src": "filename",
- "sha256": "5cc2500672cef7e430963d7af28d149968faab1c6b7e67509555065f2070c7ca",
- "nh": "ab2cd668b8cd4c087ca5c1a7822eb24643643c9af3cc474e81a8d1b849b66027",
- "chars": 31665,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/195/004_مباشر： شرح قصيدة： لذاتي بذاتي - 11- من قوله： فإن طريق القوم سهل سلوكه - الثلاثاء.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/195/004_مباشر： شرح قصيدة： لذاتي بذاتي - 11- من قوله： فإن طريق القوم سهل سلوكه - الثلاثاء.txt",
-   "sha256": "5cc2500672cef7e430963d7af28d149968faab1c6b7e67509555065f2070c7ca",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:J8DrJ0op_cA",
+  "vid": "J8DrJ0op_cA",
+  "sheikh": "habib-omar-ibn-hafiz",
+  "row_id": "habib-omar-ibn-hafiz--195",
+  "n": 4,
+  "n_src": "read",
+  "title": "مباشر： شرح قصيدة： لذاتي بذاتي - 11- من قوله： فإن طريق القوم سهل سلوكه - الثلاثاء",
+  "title_src": "filename",
+  "sha256": "5cc2500672cef7e430963d7af28d149968faab1c6b7e67509555065f2070c7ca",
+  "nh": "ab2cd668b8cd4c087ca5c1a7822eb24643643c9af3cc474e81a8d1b849b66027",
+  "chars": 31665,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/195/004_مباشر： شرح قصيدة： لذاتي بذاتي - 11- من قوله： فإن طريق القوم سهل سلوكه - الثلاثاء.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/195/004_مباشر： شرح قصيدة： لذاتي بذاتي - 11- من قوله： فإن طريق القوم سهل سلوكه - الثلاثاء.txt",
+      "sha256": "5cc2500672cef7e430963d7af28d149968faab1c6b7e67509555065f2070c7ca",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9978,
+    "spoken_align_pct": 99.78,
+    "audio_span_pct": 99.63,
+    "words": 6008,
+    "aligned": 5995,
+    "interpolated": 13,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 16:45"
   }
- ],
- "variants": [],
- "also_in": []
 }

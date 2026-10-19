@@ -1,31 +1,47 @@
 {
- "v": 1,
- "lid": "yt:CfJJrrAtLEA",
- "vid": "CfJJrrAtLEA",
- "sheikh": "habib-omar-ibn-hafiz",
- "row_id": "habib-omar-ibn-hafiz--195",
- "n": 1,
- "n_src": "read",
- "title": "مباشر： شرح قصيدة： لذاتي بذاتي - 13- ملحق： شرح رؤيا الشيخ عبدالله باكثير - الجمعة",
- "title_src": "filename",
- "sha256": "c721cd79020cf9fece901f817335988acf266fc2c23637ddabbdea7556e734f1",
- "nh": "913fea71d1cb988aec8f6f09c7c532a836b3f35e00c3d913a6ab28e4a266326d",
- "chars": 39869,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/195/001_مباشر： شرح قصيدة： لذاتي بذاتي - 13- ملحق： شرح رؤيا الشيخ عبدالله باكثير - الجمعة.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/195/001_مباشر： شرح قصيدة： لذاتي بذاتي - 13- ملحق： شرح رؤيا الشيخ عبدالله باكثير - الجمعة.txt",
-   "sha256": "c721cd79020cf9fece901f817335988acf266fc2c23637ddabbdea7556e734f1",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:CfJJrrAtLEA",
+  "vid": "CfJJrrAtLEA",
+  "sheikh": "habib-omar-ibn-hafiz",
+  "row_id": "habib-omar-ibn-hafiz--195",
+  "n": 1,
+  "n_src": "read",
+  "title": "مباشر： شرح قصيدة： لذاتي بذاتي - 13- ملحق： شرح رؤيا الشيخ عبدالله باكثير - الجمعة",
+  "title_src": "filename",
+  "sha256": "c721cd79020cf9fece901f817335988acf266fc2c23637ddabbdea7556e734f1",
+  "nh": "913fea71d1cb988aec8f6f09c7c532a836b3f35e00c3d913a6ab28e4a266326d",
+  "chars": 39869,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/195/001_مباشر： شرح قصيدة： لذاتي بذاتي - 13- ملحق： شرح رؤيا الشيخ عبدالله باكثير - الجمعة.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/195/001_مباشر： شرح قصيدة： لذاتي بذاتي - 13- ملحق： شرح رؤيا الشيخ عبدالله باكثير - الجمعة.txt",
+      "sha256": "c721cd79020cf9fece901f817335988acf266fc2c23637ddabbdea7556e734f1",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9959,
+    "spoken_align_pct": 99.59,
+    "audio_span_pct": 98.8,
+    "words": 7322,
+    "aligned": 7292,
+    "interpolated": 30,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 16:49",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

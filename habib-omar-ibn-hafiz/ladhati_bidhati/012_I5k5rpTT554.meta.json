@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:I5k5rpTT554",
- "vid": "I5k5rpTT554",
- "sheikh": "habib-omar-ibn-hafiz",
- "row_id": "habib-omar-ibn-hafiz--195",
- "n": 3,
- "n_src": "read",
- "title": "مباشر： شرح قصيدة： لذاتي بذاتي - 12- من قوله： طلبت مقاماً بذل روحك شرطه - الأربعا",
- "title_src": "filename",
- "sha256": "7f53202770be9c40294813ccb804e9fe2be6b6b1e0a357a24252ffad54717a34",
- "nh": "b96d78d2151da988bf6b9580082ed888e9344dd496fa9cdacf4a21b363c3f455",
- "chars": 29188,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/195/003_مباشر： شرح قصيدة： لذاتي بذاتي - 12- من قوله： طلبت مقاماً بذل روحك شرطه - الأربعا.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/195/003_مباشر： شرح قصيدة： لذاتي بذاتي - 12- من قوله： طلبت مقاماً بذل روحك شرطه - الأربعا.txt",
-   "sha256": "7f53202770be9c40294813ccb804e9fe2be6b6b1e0a357a24252ffad54717a34",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:I5k5rpTT554",
+  "vid": "I5k5rpTT554",
+  "sheikh": "habib-omar-ibn-hafiz",
+  "row_id": "habib-omar-ibn-hafiz--195",
+  "n": 3,
+  "n_src": "read",
+  "title": "مباشر： شرح قصيدة： لذاتي بذاتي - 12- من قوله： طلبت مقاماً بذل روحك شرطه - الأربعا",
+  "title_src": "filename",
+  "sha256": "7f53202770be9c40294813ccb804e9fe2be6b6b1e0a357a24252ffad54717a34",
+  "nh": "b96d78d2151da988bf6b9580082ed888e9344dd496fa9cdacf4a21b363c3f455",
+  "chars": 29188,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/195/003_مباشر： شرح قصيدة： لذاتي بذاتي - 12- من قوله： طلبت مقاماً بذل روحك شرطه - الأربعا.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/195/003_مباشر： شرح قصيدة： لذاتي بذاتي - 12- من قوله： طلبت مقاماً بذل روحك شرطه - الأربعا.txt",
+      "sha256": "7f53202770be9c40294813ccb804e9fe2be6b6b1e0a357a24252ffad54717a34",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9922,
+    "spoken_align_pct": 99.22,
+    "audio_span_pct": 97.94,
+    "words": 5479,
+    "aligned": 5436,
+    "interpolated": 43,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 16:44"
   }
- ],
- "variants": [],
- "also_in": []
 }
