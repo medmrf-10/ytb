@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:-nUGlnVQfbw",
- "vid": "-nUGlnVQfbw",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--353",
- "n": 9,
- "n_src": "mutfile",
- "title": "8 - الآداب الاجتماعية في القرآن الكريم آداب الرد على المسيء - آداب النصيحة",
- "title_src": "filename",
- "sha256": "bd5b25cd49c1ac30667b1137c4aea1e5cb8abc91336f6e2c7ea6606959128601",
- "nh": "8fcc348468b5aae18a147f3a2acf4cdb75cb6ce7b0a077d9fbb4092ddbca18e8",
- "chars": 13058,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/353/009_8 - الآداب الاجتماعية في القرآن الكريم  آداب الرد على المسيء - آداب النصيحة.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/353/009_8 - الآداب الاجتماعية في القرآن الكريم  آداب الرد على المسيء - آداب النصيحة.txt",
-   "sha256": "bd5b25cd49c1ac30667b1137c4aea1e5cb8abc91336f6e2c7ea6606959128601",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:-nUGlnVQfbw",
+  "vid": "-nUGlnVQfbw",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--353",
+  "n": 9,
+  "n_src": "mutfile",
+  "title": "8 - الآداب الاجتماعية في القرآن الكريم آداب الرد على المسيء - آداب النصيحة",
+  "title_src": "filename",
+  "sha256": "bd5b25cd49c1ac30667b1137c4aea1e5cb8abc91336f6e2c7ea6606959128601",
+  "nh": "8fcc348468b5aae18a147f3a2acf4cdb75cb6ce7b0a077d9fbb4092ddbca18e8",
+  "chars": 13058,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/353/009_8 - الآداب الاجتماعية في القرآن الكريم  آداب الرد على المسيء - آداب النصيحة.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/rihab/009_8 - الآداب الاجتماعية في القرآن الكريم  آداب الرد على المسيء - آداب النصيحة.txt",
-   "sha256": "bd5b25cd49c1ac30667b1137c4aea1e5cb8abc91336f6e2c7ea6606959128601",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-353/009_8 - الآداب الاجتماعية في القرآن الكريم  آداب الرد على المسيء - آداب النصيحة.txt",
-   "sha256": "bd5b25cd49c1ac30667b1137c4aea1e5cb8abc91336f6e2c7ea6606959128601",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-353/009.txt",
-   "sha256": "f955797678c56d1e82f03b096137070d1f01d9e9668cc0c90f12c33204e15070",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/353/009_8 - الآداب الاجتماعية في القرآن الكريم  آداب الرد على المسيء - آداب النصيحة.txt",
+      "sha256": "bd5b25cd49c1ac30667b1137c4aea1e5cb8abc91336f6e2c7ea6606959128601",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/rihab/009_8 - الآداب الاجتماعية في القرآن الكريم  آداب الرد على المسيء - آداب النصيحة.txt",
+      "sha256": "bd5b25cd49c1ac30667b1137c4aea1e5cb8abc91336f6e2c7ea6606959128601",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-353/009_8 - الآداب الاجتماعية في القرآن الكريم  آداب الرد على المسيء - آداب النصيحة.txt",
+      "sha256": "bd5b25cd49c1ac30667b1137c4aea1e5cb8abc91336f6e2c7ea6606959128601",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-353/009.txt",
+      "sha256": "f955797678c56d1e82f03b096137070d1f01d9e9668cc0c90f12c33204e15070",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.15,
+    "words": 2499,
+    "aligned": 2499,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 15:06"
   }
- ],
- "variants": [],
- "also_in": []
 }

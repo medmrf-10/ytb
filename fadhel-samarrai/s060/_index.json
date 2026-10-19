@@ -1,6 +1,6 @@
 {
-  "aligned": 8,
-  "aligned_ratio": 0.5714,
+  "aligned": 14,
+  "aligned_ratio": 1.0,
   "category": "التفسير والبيان القرآني (حسب السور)",
   "coverage": 1.0,
   "declared_total": 14,
@@ -95,8 +95,8 @@
       "vid": "pJnqseR3-_I"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 4789,
       "dur": 519,
       "file": "009_6zvdGNfZEr0.txt",
@@ -106,10 +106,10 @@
       "vid": "6zvdGNfZEr0"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 3672,
-      "dur": 373,
+      "dur": 374,
       "file": "010_Diim9wFs_EY.txt",
       "n": 10,
       "stem": "010_Diim9wFs_EY",
@@ -117,8 +117,8 @@
       "vid": "Diim9wFs_EY"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 1528,
       "dur": 169,
       "file": "011_f7XiKMN9_ck.txt",
@@ -128,10 +128,10 @@
       "vid": "f7XiKMN9_ck"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 1550,
-      "dur": 171,
+      "dur": 172,
       "file": "012_M4qC15a71b4.txt",
       "n": 12,
       "stem": "012_M4qC15a71b4",
@@ -139,8 +139,8 @@
       "vid": "M4qC15a71b4"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 1899,
       "dur": 183,
       "file": "013_vg-FJcnpqKg.txt",
@@ -150,8 +150,8 @@
       "vid": "vg-FJcnpqKg"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 7889,
       "dur": 824,
       "file": "014_PCGZQGe4Fzg.txt",

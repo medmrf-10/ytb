@@ -1,7 +1,7 @@
 {
   "sheikhs": [
     {
-      "aligned": 163,
+      "aligned": 176,
       "chars": 20562851,
       "lessons": 1165,
       "name": "محمد سعيد رمضان البوطي",
@@ -80,14 +80,14 @@
           "transcribed": 30
         },
         {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
+          "aligned": 13,
+          "aligned_pct": "92.9%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 14,
           "dir": "s006/",
-          "dur": 22686,
+          "dur": 22680,
           "key": "s006",
           "series_id": "bouti__s006",
           "title": "برنامج الآداب الاجتماعية في القرآن الكريم",
@@ -2413,7 +2413,7 @@
       "slug": "habib-ali-aljifri"
     },
     {
-      "aligned": 290,
+      "aligned": 296,
       "chars": 3121172,
       "lessons": 460,
       "name": "فاضل السامرائي",
@@ -2982,14 +2982,14 @@
           "transcribed": 19
         },
         {
-          "aligned": 8,
-          "aligned_pct": "57.1%",
+          "aligned": 14,
+          "aligned_pct": "100.0%",
           "category": "التفسير والبيان القرآني (حسب السور)",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 14,
           "dir": "s060/",
-          "dur": 10595,
+          "dur": 10597,
           "key": "s060",
           "series_id": "samarrai__s060",
           "title": "اللمسات البيانية في سورة الفلق (حلقات ومباحث وفوائد بيانية)",
@@ -5706,7 +5706,7 @@
     }
   ],
   "totals": {
-    "aligned": 1294,
+    "aligned": 1313,
     "chars": 156238979,
     "lessons": 6589,
     "series": 386,
