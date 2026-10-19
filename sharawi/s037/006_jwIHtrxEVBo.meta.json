@@ -1,34 +1,50 @@
 {
- "v": 1,
- "lid": "yt:jwIHtrxEVBo",
- "vid": "jwIHtrxEVBo",
- "sheikh": "sharawi",
- "row_id": "sharawi--524",
- "n": 6,
- "n_src": "playlist",
- "title": "تفسير سورة ص للشيخ الشعراوي - من آية 30 إلى آية 34",
- "title_src": "youtube",
- "sha256": "5af057a9ad43a623cd597620dd77b39d14ccf5e9f437168af7d9b1c0b4bfced9",
- "chars": 16734,
- "quality": "ok",
- "winner": {
-  "store": "ytb-transcribe",
-  "path": "ytb/sharawi/524/006_jwIHtrxEVBo.txt",
-  "model": "gemini-3.8-flash-high"
- },
- "sources": [
-  {
-   "store": "youtube",
-   "path": "https://youtu.be/jwIHtrxEVBo",
-   "rel": "source"
+  "v": 1,
+  "lid": "yt:jwIHtrxEVBo",
+  "vid": "jwIHtrxEVBo",
+  "sheikh": "sharawi",
+  "row_id": "sharawi--524",
+  "n": 6,
+  "n_src": "playlist",
+  "title": "تفسير سورة ص للشيخ الشعراوي - من آية 30 إلى آية 34",
+  "title_src": "youtube",
+  "sha256": "5af057a9ad43a623cd597620dd77b39d14ccf5e9f437168af7d9b1c0b4bfced9",
+  "chars": 16734,
+  "quality": "ok",
+  "winner": {
+    "store": "ytb-transcribe",
+    "path": "ytb/sharawi/524/006_jwIHtrxEVBo.txt",
+    "model": "gemini-3.8-flash-high"
+  },
+  "sources": [
+    {
+      "store": "youtube",
+      "path": "https://youtu.be/jwIHtrxEVBo",
+      "rel": "source"
+    }
+  ],
+  "series": "sharawi--524",
+  "series_slug": "sharawi--524",
+  "lesson_no": 6,
+  "yt": "jwIHtrxEVBo",
+  "transcribed": "2026-10-14 17:02:14",
+  "audio": "ytb-build/audio/sharawi--524/006.mp3",
+  "job": "agy+gemini عبر agy",
+  "usage_tail": "e\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 24.221, \"Gemini Models / Five Hour Limit Remaining\": 99.484, \"Claude and GPT models / Weekly Limit Remaining\": 19.884, \"Claude and GPT models / Five Hour Limit Remaining\": 83.43}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.194, \"Gemini Models / Weekly Limit Remaining\": 0.048, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0}\nchars: 16733 | words: 2970\nduplicate 8/12-gram runs: 7\nwrote /root/workspace/ytb/sharawi/524/006_jwIHtrxEVBo.txt\n",
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9851,
+    "spoken_align_pct": 98.51,
+    "audio_span_pct": 99.98,
+    "words": 2962,
+    "aligned": 2913,
+    "interpolated": 44,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 15:21",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "series": "sharawi--524",
- "series_slug": "sharawi--524",
- "lesson_no": 6,
- "yt": "jwIHtrxEVBo",
- "transcribed": "2026-10-14 17:02:14",
- "audio": "ytb-build/audio/sharawi--524/006.mp3",
- "job": "agy+gemini عبر agy",
- "usage_tail": "e\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 24.221, \"Gemini Models / Five Hour Limit Remaining\": 99.484, \"Claude and GPT models / Weekly Limit Remaining\": 19.884, \"Claude and GPT models / Five Hour Limit Remaining\": 83.43}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.194, \"Gemini Models / Weekly Limit Remaining\": 0.048, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0}\nchars: 16733 | words: 2970\nduplicate 8/12-gram runs: 7\nwrote /root/workspace/ytb/sharawi/524/006_jwIHtrxEVBo.txt\n"
 }

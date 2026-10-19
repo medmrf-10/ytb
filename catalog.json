@@ -1,7 +1,7 @@
 {
   "sheikhs": [
     {
-      "aligned": 176,
+      "aligned": 177,
       "chars": 20562851,
       "lessons": 1165,
       "name": "محمد سعيد رمضان البوطي",
@@ -80,8 +80,8 @@
           "transcribed": 30
         },
         {
-          "aligned": 13,
-          "aligned_pct": "92.9%",
+          "aligned": 14,
+          "aligned_pct": "100.0%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
@@ -489,8 +489,8 @@
       "slug": "said-bouti"
     },
     {
-      "aligned": 92,
-      "chars": 13964548,
+      "aligned": 110,
+      "chars": 13964031,
       "lessons": 648,
       "name": "محمد متولي الشعراوي",
       "path": "sharawi/",
@@ -778,14 +778,14 @@
           "transcribed": 43
         },
         {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
+          "aligned": 12,
+          "aligned_pct": "85.7%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 14,
           "dir": "s026/",
-          "dur": 22958,
+          "dur": 22951,
           "key": "s026",
           "series_id": "shaarawy__s026",
           "title": "تفسير سورة النمل",
@@ -932,8 +932,8 @@
           "transcribed": 12
         },
         {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
+          "aligned": 6,
+          "aligned_pct": "42.9%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
@@ -5706,8 +5706,8 @@
     }
   ],
   "totals": {
-    "aligned": 1313,
-    "chars": 156238979,
+    "aligned": 1332,
+    "chars": 156238462,
     "lessons": 6589,
     "series": 386,
     "sheikhs": 25
