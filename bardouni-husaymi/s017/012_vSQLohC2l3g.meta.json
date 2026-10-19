@@ -1,37 +1,42 @@
 {
- "v": 1,
- "lid": "yt:vSQLohC2l3g",
- "vid": "vSQLohC2l3g",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--989",
- "n": 4,
- "n_src": "read",
- "title": "شرح فتح الوهاب بشرح الآداب ｜ الدرس09( قوله ＂الملازمة امتناع انفكاك الشيء عن الشي",
- "title_src": "filename",
- "sha256": "774e06a6c9819795f31fa75cac6767b057acd303259f358e2656054792fd1b05",
- "nh": "ed76a29b280ccae01525417c3115fe19e240c12c21c40ddca8df2401fefced9b",
- "chars": 4718,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/989/004_شرح فتح الوهاب بشرح الآداب ｜ الدرس09( قوله ＂الملازمة امتناع انفكاك الشيء عن الشي.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/989/004_شرح فتح الوهاب بشرح الآداب ｜ الدرس09( قوله ＂الملازمة امتناع انفكاك الشيء عن الشي.txt",
-   "sha256": "774e06a6c9819795f31fa75cac6767b057acd303259f358e2656054792fd1b05",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:vSQLohC2l3g",
+  "vid": "vSQLohC2l3g",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--989",
+  "n": 4,
+  "n_src": "read",
+  "title": "شرح فتح الوهاب بشرح الآداب ｜ الدرس09( قوله ＂الملازمة امتناع انفكاك الشيء عن الشي",
+  "title_src": "filename",
+  "sha256": "774e06a6c9819795f31fa75cac6767b057acd303259f358e2656054792fd1b05",
+  "nh": "ed76a29b280ccae01525417c3115fe19e240c12c21c40ddca8df2401fefced9b",
+  "chars": 23001,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/989/004_شرح فتح الوهاب بشرح الآداب ｜ الدرس09( قوله ＂الملازمة امتناع انفكاك الشيء عن الشي.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/989/8.txt",
-   "sha256": "774e06a6c9819795f31fa75cac6767b057acd303259f358e2656054792fd1b05",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": []
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/989/004_شرح فتح الوهاب بشرح الآداب ｜ الدرس09( قوله ＂الملازمة امتناع انفكاك الشيء عن الشي.txt",
+      "sha256": "774e06a6c9819795f31fa75cac6767b057acd303259f358e2656054792fd1b05",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/989/8.txt",
+      "sha256": "774e06a6c9819795f31fa75cac6767b057acd303259f358e2656054792fd1b05",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "dur_s": 3088.5,
+  "words": 4138,
+  "wpm": 80.4,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

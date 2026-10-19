@@ -1,37 +1,42 @@
 {
- "v": 1,
- "lid": "yt:CO8AiMb4QvA",
- "vid": "CO8AiMb4QvA",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--989",
- "n": 5,
- "n_src": "read",
- "title": "شرح فتح الوهاب｜ الدرس 08 ( قوله ＂والامارة هي التي يلزم العلم بها ظن بوجود المدلو",
- "title_src": "filename",
- "sha256": "11ee46dc5d521bcd639dc30fa2a3cc2fb38d779220823d72a77a2e2ba27ce36f",
- "nh": "ddbe4b311dbc5a9a0af7ae56dfe7d3eced770be67de8984d3880254d97dab9f4",
- "chars": 5744,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/989/005_شرح فتح الوهاب｜ الدرس 08 ( قوله ＂والامارة هي التي يلزم العلم بها ظن بوجود المدلو.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/989/005_شرح فتح الوهاب｜ الدرس 08 ( قوله ＂والامارة هي التي يلزم العلم بها ظن بوجود المدلو.txt",
-   "sha256": "11ee46dc5d521bcd639dc30fa2a3cc2fb38d779220823d72a77a2e2ba27ce36f",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:CO8AiMb4QvA",
+  "vid": "CO8AiMb4QvA",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--989",
+  "n": 5,
+  "n_src": "read",
+  "title": "شرح فتح الوهاب｜ الدرس 08 ( قوله ＂والامارة هي التي يلزم العلم بها ظن بوجود المدلو",
+  "title_src": "filename",
+  "sha256": "11ee46dc5d521bcd639dc30fa2a3cc2fb38d779220823d72a77a2e2ba27ce36f",
+  "nh": "ddbe4b311dbc5a9a0af7ae56dfe7d3eced770be67de8984d3880254d97dab9f4",
+  "chars": 29890,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/989/005_شرح فتح الوهاب｜ الدرس 08 ( قوله ＂والامارة هي التي يلزم العلم بها ظن بوجود المدلو.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/989/7.txt",
-   "sha256": "11ee46dc5d521bcd639dc30fa2a3cc2fb38d779220823d72a77a2e2ba27ce36f",
-   "rel": "identical"
-  }
- ],
- "variants": [],
- "also_in": []
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/989/005_شرح فتح الوهاب｜ الدرس 08 ( قوله ＂والامارة هي التي يلزم العلم بها ظن بوجود المدلو.txt",
+      "sha256": "11ee46dc5d521bcd639dc30fa2a3cc2fb38d779220823d72a77a2e2ba27ce36f",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/989/7.txt",
+      "sha256": "11ee46dc5d521bcd639dc30fa2a3cc2fb38d779220823d72a77a2e2ba27ce36f",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "dur_s": 3871.3,
+  "words": 5356,
+  "wpm": 83.0,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }

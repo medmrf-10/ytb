@@ -59,15 +59,15 @@
   "align": {
     "engine": "ctc-pure-mac-mps",
     "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
-    "cov": 0.9972,
-    "spoken_align_pct": 99.72,
-    "audio_span_pct": 88.11,
-    "words": 1064,
-    "aligned": 1061,
-    "interpolated": 3,
+    "cov": 0.9776,
+    "spoken_align_pct": 97.76,
+    "audio_span_pct": 99.68,
+    "words": 6067,
+    "aligned": 5931,
+    "interpolated": 136,
     "retried_without_silence_compact": false,
     "local_agc_applied": false,
-    "at": "2026-10-19 02:55",
+    "at": "2026-10-19 04:02",
     "stripped_reasons": [
       "CHUNK_BOUNDARY_OVERLAP"
     ]
