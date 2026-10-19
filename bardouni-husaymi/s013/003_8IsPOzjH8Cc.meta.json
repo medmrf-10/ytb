@@ -1,46 +1,59 @@
 {
- "v": 1,
- "lid": "yt:8IsPOzjH8Cc",
- "vid": "8IsPOzjH8Cc",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--990",
- "n": 8,
- "n_src": "read",
- "title": "شرح نظم الاستعارة ｜ الدرس 3 (تعريف الحقيقة و المجاز و أقسامهما) ｜ الشيخ محمد ا",
- "title_src": "filename",
- "sha256": "bf3cdf96ad659ba8b67f3648b345d377204855f4d976f97982889c4bfe134425",
- "nh": "f633d0645833a0bd10fc1b9e9931c72133817fcf1c2577ae8b4c818c1d0f0610",
- "chars": 12493,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/990/008_شرح نظم الاستعارة  ｜ الدرس 3 (تعريف الحقيقة و المجاز و أقسامهما) ｜  الشيخ محمد ا.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/990/008_شرح نظم الاستعارة  ｜ الدرس 3 (تعريف الحقيقة و المجاز و أقسامهما) ｜  الشيخ محمد ا.txt",
-   "sha256": "bf3cdf96ad659ba8b67f3648b345d377204855f4d976f97982889c4bfe134425",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:8IsPOzjH8Cc",
+  "vid": "8IsPOzjH8Cc",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--990",
+  "n": 8,
+  "n_src": "read",
+  "title": "شرح نظم الاستعارة ｜ الدرس 3 (تعريف الحقيقة و المجاز و أقسامهما) ｜ الشيخ محمد ا",
+  "title_src": "filename",
+  "sha256": "bf3cdf96ad659ba8b67f3648b345d377204855f4d976f97982889c4bfe134425",
+  "nh": "f633d0645833a0bd10fc1b9e9931c72133817fcf1c2577ae8b4c818c1d0f0610",
+  "chars": 12493,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/990/008_شرح نظم الاستعارة  ｜ الدرس 3 (تعريف الحقيقة و المجاز و أقسامهما) ｜  الشيخ محمد ا.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/sariri/istiara/4.txt",
-   "sha256": "bf3cdf96ad659ba8b67f3648b345d377204855f4d976f97982889c4bfe134425",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/40/4.txt",
-   "sha256": "bf3cdf96ad659ba8b67f3648b345d377204855f4d976f97982889c4bfe134425",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/990/008_شرح نظم الاستعارة  ｜ الدرس 3 (تعريف الحقيقة و المجاز و أقسامهما) ｜  الشيخ محمد ا.txt",
+      "sha256": "bf3cdf96ad659ba8b67f3648b345d377204855f4d976f97982889c4bfe134425",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/sariri/istiara/4.txt",
+      "sha256": "bf3cdf96ad659ba8b67f3648b345d377204855f4d976f97982889c4bfe134425",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/40/4.txt",
+      "sha256": "bf3cdf96ad659ba8b67f3648b345d377204855f4d976f97982889c4bfe134425",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "mouloud-sariri--40",
+    "mouloud-sariri--sariri-istiara"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9885,
+    "spoken_align_pct": 98.85,
+    "audio_span_pct": 78.47,
+    "words": 1739,
+    "aligned": 1719,
+    "interpolated": 20,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 01:42"
   }
- ],
- "variants": [],
- "also_in": [
-  "mouloud-sariri--40",
-  "mouloud-sariri--sariri-istiara"
- ]
 }

@@ -1,46 +1,59 @@
 {
- "v": 1,
- "lid": "yt:bGWyXjYHRpc",
- "vid": "bGWyXjYHRpc",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--990",
- "n": 4,
- "n_src": "read",
- "title": "شرح نظم الاستعارة ｜ الدرس 8 (الاستعارة المكنية) ｜ الشيخ محمد البردوني الحسيمي",
- "title_src": "filename",
- "sha256": "d85c0ae1f5ec4281ed16ee2f4a384dc638394372f573b63704450570ba100a36",
- "nh": "192b380c8ba128d2a7b782d117932d2c9c462b5a3f349ad88b9e71aac80962d0",
- "chars": 9423,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/990/004_شرح نظم الاستعارة  ｜ الدرس 8 (الاستعارة المكنية) ｜  الشيخ محمد البردوني الحسيمي.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/990/004_شرح نظم الاستعارة  ｜ الدرس 8 (الاستعارة المكنية) ｜  الشيخ محمد البردوني الحسيمي.txt",
-   "sha256": "d85c0ae1f5ec4281ed16ee2f4a384dc638394372f573b63704450570ba100a36",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:bGWyXjYHRpc",
+  "vid": "bGWyXjYHRpc",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--990",
+  "n": 4,
+  "n_src": "read",
+  "title": "شرح نظم الاستعارة ｜ الدرس 8 (الاستعارة المكنية) ｜ الشيخ محمد البردوني الحسيمي",
+  "title_src": "filename",
+  "sha256": "d85c0ae1f5ec4281ed16ee2f4a384dc638394372f573b63704450570ba100a36",
+  "nh": "192b380c8ba128d2a7b782d117932d2c9c462b5a3f349ad88b9e71aac80962d0",
+  "chars": 9423,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/990/004_شرح نظم الاستعارة  ｜ الدرس 8 (الاستعارة المكنية) ｜  الشيخ محمد البردوني الحسيمي.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/sariri/istiara/12.txt",
-   "sha256": "d85c0ae1f5ec4281ed16ee2f4a384dc638394372f573b63704450570ba100a36",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/40/12.txt",
-   "sha256": "d85c0ae1f5ec4281ed16ee2f4a384dc638394372f573b63704450570ba100a36",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/990/004_شرح نظم الاستعارة  ｜ الدرس 8 (الاستعارة المكنية) ｜  الشيخ محمد البردوني الحسيمي.txt",
+      "sha256": "d85c0ae1f5ec4281ed16ee2f4a384dc638394372f573b63704450570ba100a36",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/sariri/istiara/12.txt",
+      "sha256": "d85c0ae1f5ec4281ed16ee2f4a384dc638394372f573b63704450570ba100a36",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/40/12.txt",
+      "sha256": "d85c0ae1f5ec4281ed16ee2f4a384dc638394372f573b63704450570ba100a36",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "mouloud-sariri--40",
+    "mouloud-sariri--sariri-istiara"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9914,
+    "spoken_align_pct": 99.14,
+    "audio_span_pct": 73.56,
+    "words": 465,
+    "aligned": 460,
+    "interpolated": 4,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 01:47"
   }
- ],
- "variants": [],
- "also_in": [
-  "mouloud-sariri--40",
-  "mouloud-sariri--sariri-istiara"
- ]
 }

@@ -1,46 +1,59 @@
 {
- "v": 1,
- "lid": "yt:frWpEHIpXWg",
- "vid": "frWpEHIpXWg",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--990",
- "n": 2,
- "n_src": "read",
- "title": "شرح نظم الاستعارة ｜ الدرس 10 ( المجاز المركب ) ｜ الشيخ محمد البردوني الحسيمي",
- "title_src": "filename",
- "sha256": "142a4f68cb6d1b870d206af5eb6acecb728533c2535e63f335e66c1f75f37f4b",
- "nh": "42df696fc97237a5dcdc395e9b0f333c5f3f738ed47356174d0031ad393718c7",
- "chars": 11096,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/990/002_شرح نظم الاستعارة  ｜ الدرس 10 ( المجاز المركب ) ｜  الشيخ محمد البردوني الحسيمي.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/990/002_شرح نظم الاستعارة  ｜ الدرس 10 ( المجاز المركب ) ｜  الشيخ محمد البردوني الحسيمي.txt",
-   "sha256": "142a4f68cb6d1b870d206af5eb6acecb728533c2535e63f335e66c1f75f37f4b",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:frWpEHIpXWg",
+  "vid": "frWpEHIpXWg",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--990",
+  "n": 2,
+  "n_src": "read",
+  "title": "شرح نظم الاستعارة ｜ الدرس 10 ( المجاز المركب ) ｜ الشيخ محمد البردوني الحسيمي",
+  "title_src": "filename",
+  "sha256": "142a4f68cb6d1b870d206af5eb6acecb728533c2535e63f335e66c1f75f37f4b",
+  "nh": "42df696fc97237a5dcdc395e9b0f333c5f3f738ed47356174d0031ad393718c7",
+  "chars": 11096,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/990/002_شرح نظم الاستعارة  ｜ الدرس 10 ( المجاز المركب ) ｜  الشيخ محمد البردوني الحسيمي.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/sariri/istiara/16.txt",
-   "sha256": "142a4f68cb6d1b870d206af5eb6acecb728533c2535e63f335e66c1f75f37f4b",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/40/16.txt",
-   "sha256": "142a4f68cb6d1b870d206af5eb6acecb728533c2535e63f335e66c1f75f37f4b",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/990/002_شرح نظم الاستعارة  ｜ الدرس 10 ( المجاز المركب ) ｜  الشيخ محمد البردوني الحسيمي.txt",
+      "sha256": "142a4f68cb6d1b870d206af5eb6acecb728533c2535e63f335e66c1f75f37f4b",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/sariri/istiara/16.txt",
+      "sha256": "142a4f68cb6d1b870d206af5eb6acecb728533c2535e63f335e66c1f75f37f4b",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/40/16.txt",
+      "sha256": "142a4f68cb6d1b870d206af5eb6acecb728533c2535e63f335e66c1f75f37f4b",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "mouloud-sariri--40",
+    "mouloud-sariri--sariri-istiara"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9955,
+    "spoken_align_pct": 99.55,
+    "audio_span_pct": 88.99,
+    "words": 1996,
+    "aligned": 1987,
+    "interpolated": 9,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 01:47"
   }
- ],
- "variants": [],
- "also_in": [
-  "mouloud-sariri--40",
-  "mouloud-sariri--sariri-istiara"
- ]
 }

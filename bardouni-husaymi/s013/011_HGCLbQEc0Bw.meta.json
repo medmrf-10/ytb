@@ -1,46 +1,59 @@
 {
- "v": 1,
- "lid": "yt:HGCLbQEc0Bw",
- "vid": "HGCLbQEc0Bw",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--990",
- "n": 1,
- "n_src": "read",
- "title": "شرح نظم الاستعارة ｜ الدرس 11-الأخير- ( مجاز النسبة ) ｜ الشيخ محمد البردوني الح",
- "title_src": "filename",
- "sha256": "813916a6e6367fac224c1b5c7dd46033988787167bc34f56749359682be456ac",
- "nh": "c6ae67676ab4b12a7b194692e273adf1f38722fd84542907418626d5fb3d25ae",
- "chars": 8264,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/990/001_شرح نظم الاستعارة  ｜ الدرس 11-الأخير- ( مجاز النسبة ) ｜  الشيخ محمد البردوني الح.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/990/001_شرح نظم الاستعارة  ｜ الدرس 11-الأخير- ( مجاز النسبة ) ｜  الشيخ محمد البردوني الح.txt",
-   "sha256": "813916a6e6367fac224c1b5c7dd46033988787167bc34f56749359682be456ac",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:HGCLbQEc0Bw",
+  "vid": "HGCLbQEc0Bw",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--990",
+  "n": 1,
+  "n_src": "read",
+  "title": "شرح نظم الاستعارة ｜ الدرس 11-الأخير- ( مجاز النسبة ) ｜ الشيخ محمد البردوني الح",
+  "title_src": "filename",
+  "sha256": "813916a6e6367fac224c1b5c7dd46033988787167bc34f56749359682be456ac",
+  "nh": "c6ae67676ab4b12a7b194692e273adf1f38722fd84542907418626d5fb3d25ae",
+  "chars": 8264,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/990/001_شرح نظم الاستعارة  ｜ الدرس 11-الأخير- ( مجاز النسبة ) ｜  الشيخ محمد البردوني الح.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/sariri/istiara/18.txt",
-   "sha256": "813916a6e6367fac224c1b5c7dd46033988787167bc34f56749359682be456ac",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/40/18.txt",
-   "sha256": "813916a6e6367fac224c1b5c7dd46033988787167bc34f56749359682be456ac",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/990/001_شرح نظم الاستعارة  ｜ الدرس 11-الأخير- ( مجاز النسبة ) ｜  الشيخ محمد البردوني الح.txt",
+      "sha256": "813916a6e6367fac224c1b5c7dd46033988787167bc34f56749359682be456ac",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/sariri/istiara/18.txt",
+      "sha256": "813916a6e6367fac224c1b5c7dd46033988787167bc34f56749359682be456ac",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/40/18.txt",
+      "sha256": "813916a6e6367fac224c1b5c7dd46033988787167bc34f56749359682be456ac",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "mouloud-sariri--40",
+    "mouloud-sariri--sariri-istiara"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9966,
+    "spoken_align_pct": 99.66,
+    "audio_span_pct": 98.67,
+    "words": 1478,
+    "aligned": 1473,
+    "interpolated": 5,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 01:48"
   }
- ],
- "variants": [],
- "also_in": [
-  "mouloud-sariri--40",
-  "mouloud-sariri--sariri-istiara"
- ]
 }
