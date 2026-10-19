@@ -1,6 +1,6 @@
 {
-  "aligned": 11,
-  "aligned_ratio": 0.8462,
+  "aligned": 13,
+  "aligned_ratio": 1.0,
   "category": "العقيدة وعلم الكلام",
   "coverage": 1.0,
   "declared_total": 13,
@@ -128,9 +128,9 @@
       "vid": "tlzYajZLMWU"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 32978,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 32934,
       "dur": 4029,
       "file": "012_Pjz0UmKEX18.txt",
       "n": 12,
@@ -139,10 +139,10 @@
       "vid": "Pjz0UmKEX18"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 46626,
-      "dur": 5441,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 46485,
+      "dur": 5440,
       "file": "013_cTDoUDVmrC4.txt",
       "n": 13,
       "stem": "013_cTDoUDVmrC4",
