@@ -130,8 +130,18 @@ def build_indexes():
             txt_files = [f for f in files if f.endswith(".txt") and not f.startswith("_")]
             align_set = {f[:-11] for f in files if f.endswith(".align.json") and os.path.getsize(os.path.join(sk_dir, f)) > 200}
 
+            vid_meta_by_vid = {}
+            vid_meta_by_n = {}
+            for vm in (videos if isinstance(videos, list) else []):
+                if isinstance(vm, dict):
+                    if vm.get("vid"):
+                        vid_meta_by_vid[vm["vid"]] = vm
+                    if vm.get("n") is not None:
+                        vid_meta_by_n[vm["n"]] = vm
+
             lessons_list = []
             s_chars = 0
+            s_dur = 0
             for tf in txt_files:
                 stem = tf[:-4]
                 tp = os.path.join(sk_dir, tf)
@@ -148,6 +158,7 @@ def build_indexes():
                 n_val = int(parts[0]) if parts[0].isdigit() else None
                 vid_val = parts[1] if len(parts) == 2 else None
                 l_title = ""
+                dur_val = 0
                 if os.path.isfile(mp):
                     try:
                         md = json.load(open(mp, encoding="utf-8"))
@@ -156,23 +167,38 @@ def build_indexes():
                             n_val = md.get("n")
                         if not vid_val:
                             vid_val = md.get("vid")
+                        dur_val = int(md.get("dur_s") or md.get("duration") or 0)
                     except Exception:
                         pass
+
+                vm = vid_meta_by_vid.get(vid_val) or vid_meta_by_n.get(n_val) or {}
+                if not l_title and vm.get("title"):
+                    l_title = vm.get("title") or ""
+                if dur_val <= 0 and (vm.get("dur_s") or vm.get("duration")):
+                    dur_val = int(vm.get("dur_s") or vm.get("duration") or 0)
 
                 has_align = stem in align_set
                 align_cov = None
                 if has_align:
                     try:
                         ad = json.load(open(ap, encoding="utf-8"))
-                        align_cov = ad.get("spoken_align_coverage")
+                        align_cov = ad.get("cov") if ad.get("cov") is not None else (ad.get("spoken_align_coverage") or (ad.get("align_meta") or {}).get("spoken_align_coverage"))
+                        if ad.get("dur"):
+                            dur_val = int(round(float(ad["dur"])))
                     except Exception:
                         pass
+
+                if dur_val <= 0:
+                    dur_val = max(60, int(round(chars / 13.5)))
+                s_dur += dur_val
 
                 lessons_list.append({
                     "n": n_val,
                     "vid": vid_val,
+                    "stem": stem,
                     "title": l_title,
                     "file": tf,
+                    "dur": dur_val,
                     "chars": chars,
                     "aligned": has_align,
                     "align_coverage": align_cov,
@@ -214,6 +240,7 @@ def build_indexes():
                 "declared_total": declared_total,
                 "transcribed": transcribed,
                 "aligned": aligned_cnt,
+                "dur": s_dur,
                 "coverage": cov,
                 "coverage_pct": f"{round(cov * 100, 1)}%",
                 "aligned_pct": f"{round(al_cov * 100, 1)}%",
@@ -248,14 +275,17 @@ def build_indexes():
         total_aligned += sh_aligned
         total_chars += sh_chars
 
+        photo_rel = f"_meta/img/{slug}.jpg" if os.path.isfile(os.path.join(YTB, "_meta", "img", f"{slug}.jpg")) else ""
         catalog_sheikhs.append({
             "slug": slug,
             "name": name_display,
+            "photo": photo_rel,
             "series": len(sh_series_list),
             "lessons": sh_lessons,
             "aligned": sh_aligned,
             "chars": sh_chars,
             "path": f"{slug}/",
+            "series_list": sh_series_list,
         })
         coverage_sheikhs.append({
             "slug": slug,
