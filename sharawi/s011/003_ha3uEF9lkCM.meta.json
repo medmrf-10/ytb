@@ -1,34 +1,50 @@
 {
- "v": 1,
- "lid": "yt:ha3uEF9lkCM",
- "vid": "ha3uEF9lkCM",
- "sheikh": "sharawi",
- "row_id": "sharawi--498",
- "n": 3,
- "n_src": "playlist",
- "title": "تفسير سورة يوسف للشيخ الشعراوي - من آية 16 إلى آية 21",
- "title_src": "youtube",
- "sha256": "9df776306e115bc3abfdc8eca37752d28c67af47da9cd4f6875aaa00f4f7d570",
- "chars": 28549,
- "quality": "ok",
- "winner": {
-  "store": "ytb-transcribe",
-  "path": "ytb/sharawi/498/003_ha3uEF9lkCM.txt",
-  "model": "gemini-3.8-flash-high"
- },
- "sources": [
-  {
-   "store": "youtube",
-   "path": "https://youtu.be/ha3uEF9lkCM",
-   "rel": "source"
+  "v": 1,
+  "lid": "yt:ha3uEF9lkCM",
+  "vid": "ha3uEF9lkCM",
+  "sheikh": "sharawi",
+  "row_id": "sharawi--498",
+  "n": 3,
+  "n_src": "playlist",
+  "title": "تفسير سورة يوسف للشيخ الشعراوي - من آية 16 إلى آية 21",
+  "title_src": "youtube",
+  "sha256": "9df776306e115bc3abfdc8eca37752d28c67af47da9cd4f6875aaa00f4f7d570",
+  "chars": 28549,
+  "quality": "ok",
+  "winner": {
+    "store": "ytb-transcribe",
+    "path": "ytb/sharawi/498/003_ha3uEF9lkCM.txt",
+    "model": "gemini-3.8-flash-high"
+  },
+  "sources": [
+    {
+      "store": "youtube",
+      "path": "https://youtu.be/ha3uEF9lkCM",
+      "rel": "source"
+    }
+  ],
+  "series": "sharawi--498",
+  "series_slug": "sharawi--498",
+  "lesson_no": 3,
+  "yt": "ha3uEF9lkCM",
+  "transcribed": "2026-10-15 00:47:35",
+  "audio": "ytb-build/audio/sharawi--498/003.mp3",
+  "job": "agy+gemini عبر agy",
+  "usage_tail": "ed: None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 9.315, \"Gemini Models / Five Hour Limit Remaining\": 88.673, \"Claude and GPT models / Weekly Limit Remaining\": 19.884, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.32, \"Gemini Models / Weekly Limit Remaining\": 0.08, \"Claude and GPT models / Five Hour Limit Remaining\": 0}\nchars: 28548 | words: 5204\nduplicate 8/12-gram runs: 9\nwrote /root/workspace/ytb/sharawi/498/003_ha3uEF9lkCM.txt\n",
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9977,
+    "spoken_align_pct": 99.77,
+    "audio_span_pct": 100.0,
+    "words": 5195,
+    "aligned": 5180,
+    "interpolated": 12,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 15:56",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "series": "sharawi--498",
- "series_slug": "sharawi--498",
- "lesson_no": 3,
- "yt": "ha3uEF9lkCM",
- "transcribed": "2026-10-15 00:47:35",
- "audio": "ytb-build/audio/sharawi--498/003.mp3",
- "job": "agy+gemini عبر agy",
- "usage_tail": "ed: None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 9.315, \"Gemini Models / Five Hour Limit Remaining\": 88.673, \"Claude and GPT models / Weekly Limit Remaining\": 19.884, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 0.32, \"Gemini Models / Weekly Limit Remaining\": 0.08, \"Claude and GPT models / Five Hour Limit Remaining\": 0}\nchars: 28548 | words: 5204\nduplicate 8/12-gram runs: 9\nwrote /root/workspace/ytb/sharawi/498/003_ha3uEF9lkCM.txt\n"
 }

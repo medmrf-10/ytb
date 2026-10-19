@@ -489,8 +489,8 @@
       "slug": "said-bouti"
     },
     {
-      "aligned": 132,
-      "chars": 13963111,
+      "aligned": 137,
+      "chars": 13962885,
       "lessons": 648,
       "name": "محمد متولي الشعراوي",
       "path": "sharawi/",
@@ -610,14 +610,14 @@
           "transcribed": 22
         },
         {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
+          "aligned": 5,
+          "aligned_pct": "35.7%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 14,
           "dir": "s011/",
-          "dur": 40308,
+          "dur": 40310,
           "key": "s011",
           "series_id": "shaarawy__s011",
           "title": "تفسير سورة يوسف",
@@ -1173,8 +1173,8 @@
       "slug": "sharawi"
     },
     {
-      "aligned": 50,
-      "chars": 9514490,
+      "aligned": 55,
+      "chars": 9514414,
       "lessons": 546,
       "name": "أدهم العاسمي",
       "path": "adham-alasimi/",
@@ -1434,14 +1434,14 @@
           "transcribed": 23
         },
         {
-          "aligned": 9,
-          "aligned_pct": "64.3%",
+          "aligned": 14,
+          "aligned_pct": "100.0%",
           "category": "سلسلة علمية",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 14,
           "dir": "s039/",
-          "dur": 33854,
+          "dur": 33857,
           "key": "s039",
           "series_id": "asimi__s039",
           "title": "سيرة سيدنا عثمان بن عفان رضي الله عنه",
@@ -5706,8 +5706,8 @@
     }
   ],
   "totals": {
-    "aligned": 1363,
-    "chars": 156237011,
+    "aligned": 1373,
+    "chars": 156236709,
     "lessons": 6589,
     "series": 386,
     "sheikhs": 25

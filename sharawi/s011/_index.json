@@ -1,14 +1,14 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 5,
+  "aligned_ratio": 0.3571,
   "category": "التفسير وعلوم القرآن",
   "coverage": 1.0,
   "declared_total": 14,
   "key": "s011",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 40554,
       "dur": 3819,
       "file": "001_mqODaIdP4lM.txt",
@@ -18,10 +18,10 @@
       "vid": "mqODaIdP4lM"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 30427,
-      "dur": 2818,
+      "dur": 2819,
       "file": "002_jNwys_hj6_Y.txt",
       "n": 2,
       "stem": "002_jNwys_hj6_Y",
@@ -29,10 +29,10 @@
       "vid": "jNwys_hj6_Y"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 28549,
-      "dur": 2679,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 28499,
+      "dur": 2678,
       "file": "003_ha3uEF9lkCM.txt",
       "n": 3,
       "stem": "003_ha3uEF9lkCM",
@@ -40,10 +40,10 @@
       "vid": "ha3uEF9lkCM"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 30199,
-      "dur": 2915,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 30088,
+      "dur": 2916,
       "file": "004_SNY48WsOMW0.txt",
       "n": 4,
       "stem": "004_SNY48WsOMW0",
@@ -51,10 +51,10 @@
       "vid": "SNY48WsOMW0"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 27184,
-      "dur": 2772,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 27119,
+      "dur": 2773,
       "file": "005_VhCYNcEaZFg.txt",
       "n": 5,
       "stem": "005_VhCYNcEaZFg",
