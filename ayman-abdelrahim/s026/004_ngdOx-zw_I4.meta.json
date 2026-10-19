@@ -8,29 +8,14 @@
   "align": {
     "engine": "ctc-pure-mac-mps",
     "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
-    "cov": 0.4377,
-    "spoken_align_pct": 43.77,
-    "audio_span_pct": 98.8,
+    "cov": 0.9862,
+    "spoken_align_pct": 98.62,
+    "audio_span_pct": 98.16,
     "words": 15762,
-    "aligned": 6828,
-    "interpolated": 8771,
+    "aligned": 15384,
+    "interpolated": 215,
     "retried_without_silence_compact": false,
     "local_agc_applied": false,
-    "at": "2026-10-19 01:00",
-    "low_coverage_diagnosis": {
-      "spoken_align_pct": 43.77,
-      "interpolated_words": 8771,
-      "unaligned_clusters_count": 1,
-      "max_cluster_words": 8738,
-      "wpm": 135.7,
-      "audio_span_pct": 98.8,
-      "forced_steps": 0,
-      "causes": [
-        "TEXT_HALLUCINATION_OR_CHUNK_REPEAT(clusters=1, max_run=8738w @ 6811.58s: «ده سموه في الآخر. الفكرة إن هو يعني طب هم ظاهرياً أجمعوا»)"
-      ]
-    },
-    "stripped_reasons": [
-      "CHUNK_BOUNDARY_OVERLAP"
-    ]
+    "at": "2026-10-19 02:27"
   }
 }

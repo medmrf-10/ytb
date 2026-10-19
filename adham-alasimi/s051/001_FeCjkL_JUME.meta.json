@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:FeCjkL_JUME",
- "vid": "FeCjkL_JUME",
- "sheikh": "adham-alasimi",
- "row_id": "adham-alasimi--789",
- "n": 1,
- "n_src": "read",
- "title": "نور النبوة في الشام ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
- "title_src": "filename",
- "sha256": "33d0c8bb01b8bb271ff08c1d505096685394073332381b8905710918704833f6",
- "nh": "363b027202ba47968f32f7cab8bd647be5893ce558c633a1784a055b7ae3cd21",
- "chars": 13740,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/789/001_نور النبوة في الشام ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/789/001_نور النبوة في الشام ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
-   "sha256": "33d0c8bb01b8bb271ff08c1d505096685394073332381b8905710918704833f6",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:FeCjkL_JUME",
+  "vid": "FeCjkL_JUME",
+  "sheikh": "adham-alasimi",
+  "row_id": "adham-alasimi--789",
+  "n": 1,
+  "n_src": "read",
+  "title": "نور النبوة في الشام ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+  "title_src": "filename",
+  "sha256": "33d0c8bb01b8bb271ff08c1d505096685394073332381b8905710918704833f6",
+  "nh": "363b027202ba47968f32f7cab8bd647be5893ce558c633a1784a055b7ae3cd21",
+  "chars": 13740,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/789/001_نور النبوة في الشام ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/789/0.txt",
-   "sha256": "33d0c8bb01b8bb271ff08c1d505096685394073332381b8905710918704833f6",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/789/001_نور النبوة في الشام ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+      "sha256": "33d0c8bb01b8bb271ff08c1d505096685394073332381b8905710918704833f6",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/789/0.txt",
+      "sha256": "33d0c8bb01b8bb271ff08c1d505096685394073332381b8905710918704833f6",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.11,
+    "words": 2587,
+    "aligned": 2587,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 02:24"
   }
- ],
- "variants": [],
- "also_in": []
 }
