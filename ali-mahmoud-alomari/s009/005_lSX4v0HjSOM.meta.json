@@ -1,43 +1,59 @@
 {
- "v": 1,
- "lid": "yt:lSX4v0HjSOM",
- "vid": "lSX4v0HjSOM",
- "sheikh": "ali-mahmoud-alomari",
- "row_id": "ali-mahmoud-alomari--alamri-sulam",
- "n": 5,
- "n_src": "trfile",
- "title": "الدرس 5",
- "title_src": "filename",
- "sha256": "0c0a50e01b97580f81cb6fc2f39739a59e1366101601b3188e2baf9a0911f281",
- "nh": "151ce25c5a656cf8e0edbbdb28969eeac470c97081359f63dacf30b859fef0e7",
- "chars": 49104,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/alamriSulam-005/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/alamriSulam-005/transcript.txt",
-   "sha256": "0c0a50e01b97580f81cb6fc2f39739a59e1366101601b3188e2baf9a0911f281",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:lSX4v0HjSOM",
+  "vid": "lSX4v0HjSOM",
+  "sheikh": "ali-mahmoud-alomari",
+  "row_id": "ali-mahmoud-alomari--alamri-sulam",
+  "n": 5,
+  "n_src": "trfile",
+  "title": "الدرس 5",
+  "title_src": "filename",
+  "sha256": "0c0a50e01b97580f81cb6fc2f39739a59e1366101601b3188e2baf9a0911f281",
+  "nh": "151ce25c5a656cf8e0edbbdb28969eeac470c97081359f63dacf30b859fef0e7",
+  "chars": 49104,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/alamriSulam-005/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alamri/sulam/sulam-05_AlAmri.txt",
-   "sha256": "0c0a50e01b97580f81cb6fc2f39739a59e1366101601b3188e2baf9a0911f281",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alamri-sulam/05.txt",
-   "sha256": "0c0a50e01b97580f81cb6fc2f39739a59e1366101601b3188e2baf9a0911f281",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/alamriSulam-005/transcript.txt",
+      "sha256": "0c0a50e01b97580f81cb6fc2f39739a59e1366101601b3188e2baf9a0911f281",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alamri/sulam/sulam-05_AlAmri.txt",
+      "sha256": "0c0a50e01b97580f81cb6fc2f39739a59e1366101601b3188e2baf9a0911f281",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alamri-sulam/05.txt",
+      "sha256": "0c0a50e01b97580f81cb6fc2f39739a59e1366101601b3188e2baf9a0911f281",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9851,
+    "spoken_align_pct": 98.51,
+    "audio_span_pct": 99.93,
+    "words": 7588,
+    "aligned": 7468,
+    "interpolated": 113,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 17:22",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

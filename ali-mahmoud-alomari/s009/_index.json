@@ -1,6 +1,6 @@
 {
-  "aligned": 2,
-  "aligned_ratio": 0.1429,
+  "aligned": 8,
+  "aligned_ratio": 0.5714,
   "category": "المنطق والفلسفة",
   "coverage": 1.0,
   "declared_total": 14,
@@ -29,9 +29,9 @@
       "vid": "GRCgJYr_1xk"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 40992,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 40908,
       "dur": 5415,
       "file": "003_yEuXJkJOQSA.txt",
       "n": 3,
@@ -40,9 +40,9 @@
       "vid": "yEuXJkJOQSA"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 41465,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 41275,
       "dur": 5298,
       "file": "004_yOIhEizk_fY.txt",
       "n": 4,
@@ -51,10 +51,10 @@
       "vid": "yOIhEizk_fY"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 40782,
-      "dur": 5182,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 40683,
+      "dur": 5181,
       "file": "005_lSX4v0HjSOM.txt",
       "n": 5,
       "stem": "005_lSX4v0HjSOM",
@@ -62,10 +62,10 @@
       "vid": "lSX4v0HjSOM"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 42183,
-      "dur": 5324,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 42065,
+      "dur": 5323,
       "file": "006_e8hBCdavdaY.txt",
       "n": 6,
       "stem": "006_e8hBCdavdaY",
@@ -73,10 +73,10 @@
       "vid": "e8hBCdavdaY"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 30387,
-      "dur": 4186,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 30280,
+      "dur": 4185,
       "file": "007_SL4KMDtWBc0.txt",
       "n": 7,
       "stem": "007_SL4KMDtWBc0",
@@ -84,8 +84,8 @@
       "vid": "SL4KMDtWBc0"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 34522,
       "dur": 4379,
       "file": "008_CMasp61GPDI.txt",
