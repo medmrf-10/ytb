@@ -1,6 +1,6 @@
 {
-  "aligned": 11,
-  "aligned_ratio": 0.6875,
+  "aligned": 15,
+  "aligned_ratio": 0.9375,
   "category": "التزكية والتصوف",
   "coverage": 1.0,
   "declared_total": 16,
@@ -117,9 +117,9 @@
       "vid": "_qlnPf4qPWQ"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 49945,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 49811,
       "dur": 5635,
       "file": "011_y-npDUAlfkk.txt",
       "n": 11,
@@ -139,10 +139,10 @@
       "vid": "i9yaPMSJxDM"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 36210,
-      "dur": 3923,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 36167,
+      "dur": 3922,
       "file": "013_Ytao-FraUG8.txt",
       "n": 13,
       "stem": "013_Ytao-FraUG8",
@@ -150,10 +150,10 @@
       "vid": "Ytao-FraUG8"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 39986,
-      "dur": 4068,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 39795,
+      "dur": 4069,
       "file": "014_g9i92XC5Zbo.txt",
       "n": 14,
       "stem": "014_g9i92XC5Zbo",
@@ -161,10 +161,10 @@
       "vid": "g9i92XC5Zbo"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 41474,
-      "dur": 4493,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 41291,
+      "dur": 4492,
       "file": "015_9RrQA-VrpLc.txt",
       "n": 15,
       "stem": "015_9RrQA-VrpLc",
