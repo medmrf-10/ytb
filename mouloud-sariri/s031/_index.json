@@ -1,6 +1,6 @@
 {
-  "aligned": 14,
-  "aligned_ratio": 0.9333,
+  "aligned": 15,
+  "aligned_ratio": 1.0,
   "category": "العقيدة والفكر والمنهج",
   "coverage": 1.0,
   "declared_total": 15,
@@ -161,8 +161,8 @@
       "vid": "gUyJQ8WEtIg"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 15879,
       "dur": 1712,
       "file": "015_iszNfeVCqTM.txt",
