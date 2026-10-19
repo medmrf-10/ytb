@@ -1,6 +1,6 @@
 {
-  "aligned": 2,
-  "aligned_ratio": 0.1176,
+  "aligned": 10,
+  "aligned_ratio": 0.5882,
   "category": "التفسير وعلوم القرآن",
   "coverage": 1.0,
   "declared_total": 17,
@@ -29,9 +29,9 @@
       "vid": "LaSpiaEFjuE"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 20247,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 20194,
       "dur": 1940,
       "file": "003_akMGsMOf-8Y.txt",
       "n": 3,
@@ -40,9 +40,9 @@
       "vid": "akMGsMOf-8Y"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 31424,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 31382,
       "dur": 2697,
       "file": "004_Z6OSq0cGba4.txt",
       "n": 4,
@@ -62,9 +62,9 @@
       "vid": "uw_S3C9oucY"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 29106,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 29029,
       "dur": 2723,
       "file": "006_JhoSdHz353M.txt",
       "n": 6,
@@ -73,10 +73,10 @@
       "vid": "JhoSdHz353M"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 29153,
-      "dur": 2652,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 29128,
+      "dur": 2653,
       "file": "007_IUXiyWeB3rw.txt",
       "n": 7,
       "stem": "007_IUXiyWeB3rw",
@@ -84,8 +84,8 @@
       "vid": "IUXiyWeB3rw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 26114,
       "dur": 2745,
       "file": "008_aUuDTagMiYU.txt",
@@ -95,8 +95,8 @@
       "vid": "aUuDTagMiYU"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 30988,
       "dur": 2677,
       "file": "009_OW9f2cPGKIU.txt",
@@ -106,10 +106,10 @@
       "vid": "OW9f2cPGKIU"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 29098,
-      "dur": 2637,
+      "dur": 2638,
       "file": "010_kSqEQL2X5xI.txt",
       "n": 10,
       "stem": "010_kSqEQL2X5xI",
@@ -117,10 +117,10 @@
       "vid": "kSqEQL2X5xI"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 27230,
-      "dur": 2658,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 27197,
+      "dur": 2659,
       "file": "011_gE-yCYvAhXU.txt",
       "n": 11,
       "stem": "011_gE-yCYvAhXU",

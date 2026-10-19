@@ -227,14 +227,14 @@
       "transcribed": 14
     },
     {
-      "aligned": 2,
-      "aligned_pct": "11.8%",
+      "aligned": 10,
+      "aligned_pct": "58.8%",
       "category": "التفسير وعلوم القرآن",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
       "declared_total": 17,
       "dir": "s022/",
-      "dur": 40834,
+      "dur": 40837,
       "key": "s022",
       "series_id": "shaarawy__s022",
       "title": "تفسير سورة المؤمنون",
@@ -677,8 +677,8 @@
   ],
   "slug": "sharawi",
   "totals": {
-    "aligned": 181,
-    "chars": 13961198,
+    "aligned": 189,
+    "chars": 13960968,
     "lessons": 648,
     "series": 48
   },
