@@ -10,7 +10,7 @@
   "title_src": "filename",
   "sha256": "624b93fe4d5a326c3ec39277269c3a000d6c51b67ff657ecd7151523624683e0",
   "nh": "9d619cdcbb5ce7bedae74cf77bbd347f1ac48871d680372fca2a4eb45f5e120a",
-  "chars": 30330,
+  "chars": 41504,
   "quality": "ok",
   "winner": {
     "store": "des-mut",
@@ -56,5 +56,10 @@
       "LATIN_PREAMBLE",
       "CHUNK_BOUNDARY_OVERLAP"
     ]
-  }
+  },
+  "dur_s": 3809.8,
+  "words": 6968,
+  "wpm": 109.7,
+  "model": "gemini-3.8-flash-high",
+  "ok": true
 }
