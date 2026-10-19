@@ -1,37 +1,53 @@
 {
- "v": 1,
- "lid": "yt:zJ0k2UbWuEc",
- "vid": "zJ0k2UbWuEc",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--674",
- "n": 3,
- "n_src": "read",
- "title": "الدرس 3",
- "title_src": "filename",
- "sha256": "f164515e167de55c79e724682be1c6a8a51ddd15f6e67a697305e6737e495223",
- "nh": "21ea75c639e485ea68a7c8d3ea967d29d71ff6dc617a5f91a69fa7655ae4e6ca",
- "chars": 46780,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/alsayed/mut-674/003.txt",
-  "commit_ts": 1791587745,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alsayed/mut-674/003.txt",
-   "sha256": "f164515e167de55c79e724682be1c6a8a51ddd15f6e67a697305e6737e495223",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:zJ0k2UbWuEc",
+  "vid": "zJ0k2UbWuEc",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--674",
+  "n": 3,
+  "n_src": "read",
+  "title": "الدرس 3",
+  "title_src": "filename",
+  "sha256": "f164515e167de55c79e724682be1c6a8a51ddd15f6e67a697305e6737e495223",
+  "nh": "21ea75c639e485ea68a7c8d3ea967d29d71ff6dc617a5f91a69fa7655ae4e6ca",
+  "chars": 46780,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/alsayed/mut-674/003.txt",
+    "commit_ts": 1791587745,
+    "head": "8a8b281"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-674/003.txt",
-   "sha256": "f164515e167de55c79e724682be1c6a8a51ddd15f6e67a697305e6737e495223",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alsayed/mut-674/003.txt",
+      "sha256": "f164515e167de55c79e724682be1c6a8a51ddd15f6e67a697305e6737e495223",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-674/003.txt",
+      "sha256": "f164515e167de55c79e724682be1c6a8a51ddd15f6e67a697305e6737e495223",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9906,
+    "spoken_align_pct": 99.06,
+    "audio_span_pct": 99.9,
+    "words": 8847,
+    "aligned": 8763,
+    "interpolated": 83,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-19 21:41",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
