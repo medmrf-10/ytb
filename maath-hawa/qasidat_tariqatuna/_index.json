@@ -1,14 +1,14 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 8,
+  "aligned_ratio": 0.5,
   "category": "تزكية وأخلاق",
   "coverage": 1.0,
   "declared_total": 16,
   "key": "qasidat_tariqatuna",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 14971,
       "dur": 1810,
       "file": "001_7hBYsAnA1r0.txt",
@@ -18,9 +18,9 @@
       "vid": "7hBYsAnA1r0"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 13190,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 13158,
       "dur": 1549,
       "file": "002_ayPA5d3Da4E.txt",
       "n": 2,
@@ -29,9 +29,9 @@
       "vid": "ayPA5d3Da4E"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 10932,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 10884,
       "dur": 1263,
       "file": "003_omAnOvwY8lE.txt",
       "n": 3,
@@ -40,10 +40,10 @@
       "vid": "omAnOvwY8lE"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 16720,
-      "dur": 1830,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 16660,
+      "dur": 1831,
       "file": "004_ATCbqU-d11s.txt",
       "n": 4,
       "stem": "004_ATCbqU-d11s",
@@ -51,8 +51,8 @@
       "vid": "ATCbqU-d11s"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 12176,
       "dur": 1540,
       "file": "005_GdRuLu2ye64.txt",
@@ -62,9 +62,9 @@
       "vid": "GdRuLu2ye64"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 12730,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 12710,
       "dur": 1574,
       "file": "006_-fhFEMVUMso.txt",
       "n": 6,
@@ -73,8 +73,8 @@
       "vid": "-fhFEMVUMso"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 13103,
       "dur": 1563,
       "file": "007_LiVdBGol_hU.txt",
@@ -84,10 +84,10 @@
       "vid": "LiVdBGol_hU"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 13954,
-      "dur": 1681,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 13934,
+      "dur": 1682,
       "file": "008_B3SuRYTejzU.txt",
       "n": 8,
       "stem": "008_B3SuRYTejzU",

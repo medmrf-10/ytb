@@ -9,8 +9,8 @@
 - **المشايخ ذوو المحتوى الفعلي:** 25 شيخاً
 - **السلاسل المفرّغة:** 386 سلسلة
 - **الدروس المفرّغة نصياً (`.txt`):** 6,589 درساً
-- **الدروس المحاذاة صوتياً (`.align.json`):** 1,523 درساً
-- **إجمالي الحجم النصي:** 156,225,045 حرفاً
+- **الدروس المحاذاة صوتياً (`.align.json`):** 1,535 درساً
+- **إجمالي الحجم النصي:** 156,224,662 حرفاً
 
 ---
 
@@ -25,7 +25,7 @@
 | 5 | الحبيب علي الجفري | `habib-ali-aljifri` | 23 | 471 | 30 | [`habib-ali-aljifri/`](./habib-ali-aljifri/) |
 | 6 | فاضل السامرائي | `fadhel-samarrai` | 42 | 460 | 296 | [`fadhel-samarrai/`](./fadhel-samarrai/) |
 | 7 | الحبيب عمر بن حفيظ | `habib-omar-ibn-hafiz` | 15 | 450 | 56 | [`habib-omar-ibn-hafiz/`](./habib-omar-ibn-hafiz/) |
-| 8 | ذاكر الهاشمي | `dhaker-alhashimi` | 20 | 348 | 52 | [`dhaker-alhashimi/`](./dhaker-alhashimi/) |
+| 8 | ذاكر الهاشمي | `dhaker-alhashimi` | 20 | 348 | 56 | [`dhaker-alhashimi/`](./dhaker-alhashimi/) |
 | 9 | محمد البردوني الحسيمي | `bardouni-husaymi` | 16 | 343 | 81 | [`bardouni-husaymi/`](./bardouni-husaymi/) |
 | 10 | علي جمعة | `ali-gomaa` | 14 | 276 | 51 | [`ali-gomaa/`](./ali-gomaa/) |
 | 11 | محمد الحسن الددو | `daddo` | 17 | 244 | 74 | [`daddo/`](./daddo/) |
@@ -33,7 +33,7 @@
 | 13 | مولود السريري | `mouloud-sariri` | 17 | 214 | 51 | [`mouloud-sariri/`](./mouloud-sariri/) |
 | 14 | علي هاني العقرباوي | `ali-hani-aqrabawi` | 14 | 197 | 64 | [`ali-hani-aqrabawi/`](./ali-hani-aqrabawi/) |
 | 15 | أيمن عبد الرحيم | `ayman-abdelrahim` | 20 | 130 | 119 | [`ayman-abdelrahim/`](./ayman-abdelrahim/) |
-| 16 | معاذ سعيد حوى | `maath-hawa` | 7 | 92 | 38 | [`maath-hawa/`](./maath-hawa/) |
+| 16 | معاذ سعيد حوى | `maath-hawa` | 7 | 92 | 46 | [`maath-hawa/`](./maath-hawa/) |
 | 17 | فاضل سليمان | `fadhel-sulaiman` | 3 | 89 | 0 | [`fadhel-sulaiman/`](./fadhel-sulaiman/) |
 | 18 | سيف العصري | `saif-alasri` | 1 | 56 | 0 | [`saif-alasri/`](./saif-alasri/) |
 | 19 | أبو بكر المشهور | `aboubakr-almashhour` | 6 | 39 | 0 | [`aboubakr-almashhour/`](./aboubakr-almashhour/) |
