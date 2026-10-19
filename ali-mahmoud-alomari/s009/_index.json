@@ -1,6 +1,6 @@
 {
-  "aligned": 13,
-  "aligned_ratio": 0.9286,
+  "aligned": 14,
+  "aligned_ratio": 1.0,
   "category": "المنطق والفلسفة",
   "coverage": 1.0,
   "declared_total": 14,
@@ -150,8 +150,8 @@
       "vid": "Aozo1oFMznE"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 63022,
       "dur": 7242,
       "file": "014_LrLHoA72A8s.txt",
