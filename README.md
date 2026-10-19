@@ -9,7 +9,7 @@
 - **المشايخ ذوو المحتوى الفعلي:** 25 شيخاً
 - **السلاسل المفرّغة:** 386 سلسلة
 - **الدروس المفرّغة نصياً (`.txt`):** 6,589 درساً
-- **الدروس المحاذاة صوتياً (`.align.json`):** 1,133 درساً
+- **الدروس المحاذاة صوتياً (`.align.json`):** 1,136 درساً
 - **إجمالي الحجم النصي:** 156,244,015 حرفاً
 
 ---
@@ -32,7 +32,7 @@
 | 12 | علي محمود العمري | `ali-mahmoud-alomari` | 18 | 241 | 15 | [`ali-mahmoud-alomari/`](./ali-mahmoud-alomari/) |
 | 13 | مولود السريري | `mouloud-sariri` | 17 | 214 | 36 | [`mouloud-sariri/`](./mouloud-sariri/) |
 | 14 | علي هاني العقرباوي | `ali-hani-aqrabawi` | 14 | 197 | 36 | [`ali-hani-aqrabawi/`](./ali-hani-aqrabawi/) |
-| 15 | أيمن عبد الرحيم | `ayman-abdelrahim` | 20 | 130 | 109 | [`ayman-abdelrahim/`](./ayman-abdelrahim/) |
+| 15 | أيمن عبد الرحيم | `ayman-abdelrahim` | 20 | 130 | 112 | [`ayman-abdelrahim/`](./ayman-abdelrahim/) |
 | 16 | معاذ سعيد حوى | `maath-hawa` | 7 | 92 | 23 | [`maath-hawa/`](./maath-hawa/) |
 | 17 | فاضل سليمان | `fadhel-sulaiman` | 3 | 89 | 0 | [`fadhel-sulaiman/`](./fadhel-sulaiman/) |
 | 18 | سيف العصري | `saif-alasri` | 1 | 56 | 0 | [`saif-alasri/`](./saif-alasri/) |
