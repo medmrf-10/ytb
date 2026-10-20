@@ -2,7 +2,7 @@
   "aligned": 0,
   "aligned_ratio": 0.0,
   "category": "الخطب والوعظ",
-  "coverage": 0.515,
+  "coverage": 0.53,
   "declared_total": 200,
   "key": "s043",
   "lessons": [
@@ -1138,12 +1138,45 @@
       "stem": "104_mI4HstINW1A",
       "title": "خطب منبرية : \"نعمة الابتلاء \" / الشيخ العلامة مولود السريري",
       "vid": "mI4HstINW1A"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 16605,
+      "dur": 2008,
+      "file": "105_0feJNOv3qDQ.txt",
+      "n": 105,
+      "stem": "105_0feJNOv3qDQ",
+      "title": "خطب منبرية : \"كما تدين تدان \" / الشيخ العلامة مولود السريري",
+      "vid": "0feJNOv3qDQ"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 13075,
+      "dur": 1613,
+      "file": "106_4DZyeaenfaQ.txt",
+      "n": 106,
+      "stem": "106_4DZyeaenfaQ",
+      "title": "خطب منبرية : \"حدود يجب أن تحفظ \" / الشيخ العلامة مولود السريري",
+      "vid": "4DZyeaenfaQ"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 14071,
+      "dur": 1875,
+      "file": "107_lmQNLM9ENis.txt",
+      "n": 107,
+      "stem": "107_lmQNLM9ENis",
+      "title": "خطب منبرية : \"من أكبر أنواع الظلم \" / الشيخ العلامة مولود السريري",
+      "vid": "lmQNLM9ENis"
     }
   ],
   "series_id": "sariri__s043",
   "sheikh": "mouloud-sariri",
   "sheikh_name": "مولود السريري",
   "title": "خطب منبرية وخطب الجمعة",
-  "transcribed": 103,
+  "transcribed": 106,
   "v": 2
 }

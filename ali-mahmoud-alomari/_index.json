@@ -143,14 +143,14 @@
       "transcribed": 28
     },
     {
-      "aligned": 0,
-      "aligned_pct": "0.0%",
+      "aligned": 1,
+      "aligned_pct": "3.1%",
       "category": "المنطق والفلسفة",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
       "declared_total": 32,
       "dir": "s011/",
-      "dur": 35943,
+      "dur": 35942,
       "key": "s011",
       "series_id": "omari__s011",
       "title": "شرح الحسام الكاتي على متن إيساغوجي في المنطق",
@@ -257,8 +257,8 @@
   ],
   "slug": "ali-mahmoud-alomari",
   "totals": {
-    "aligned": 111,
-    "chars": 6967091,
+    "aligned": 112,
+    "chars": 6967032,
     "lessons": 241,
     "series": 18
   },
