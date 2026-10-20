@@ -2,7 +2,7 @@
   "aligned": 0,
   "aligned_ratio": 0.0,
   "category": "الخطب والمحاضرات",
-  "coverage": 0.1662,
+  "coverage": 0.1691,
   "declared_total": 337,
   "key": "khutab_jumaa",
   "lessons": [
@@ -93,6 +93,17 @@
       "stem": "027_LBp3tEEvnVI",
       "title": "خطبة جمعة : من حقائق الإسلام والإيمان وصفات أهلهما",
       "vid": "LBp3tEEvnVI"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 17380,
+      "dur": 2021,
+      "file": "031_Dk_ENQiFL8U.txt",
+      "n": 31,
+      "stem": "031_Dk_ENQiFL8U",
+      "title": "خطبة جمعة للحبيب عمر : خطر شئون ساحات القلوب وما يحل فيها",
+      "vid": "Dk_ENQiFL8U"
     },
     {
       "align_coverage": null,
@@ -627,6 +638,6 @@
   "sheikh": "habib-omar-ibn-hafiz",
   "sheikh_name": "الحبيب عمر بن حفيظ",
   "title": "خطب الجمعة والعيدين والكسوف والخسوف",
-  "transcribed": 56,
+  "transcribed": 57,
   "v": 2
 }

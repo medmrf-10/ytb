@@ -1592,8 +1592,8 @@
     },
     {
       "aligned": 95,
-      "chars": 9195268,
-      "lessons": 506,
+      "chars": 9212648,
+      "lessons": 507,
       "name": "الحبيب عمر بن حفيظ",
       "path": "habib-omar-ibn-hafiz/",
       "photo": "_meta/img/habib-omar-ibn-hafiz.jpg",
@@ -1673,15 +1673,15 @@
           "aligned": 0,
           "aligned_pct": "0.0%",
           "category": "الخطب والمحاضرات",
-          "coverage": 0.1662,
-          "coverage_pct": "16.6%",
+          "coverage": 0.1691,
+          "coverage_pct": "16.9%",
           "declared_total": 337,
           "dir": "khutab_jumaa/",
-          "dur": 98735,
+          "dur": 100756,
           "key": "khutab_jumaa",
           "series_id": "hafiz__khutab_jumaa",
           "title": "خطب الجمعة والعيدين والكسوف والخسوف",
-          "transcribed": 56
+          "transcribed": 57
         },
         {
           "aligned": 19,
@@ -2315,7 +2315,7 @@
       "slug": "ahmed-alsayed"
     },
     {
-      "aligned": 169,
+      "aligned": 172,
       "chars": 6584869,
       "lessons": 471,
       "name": "الحبيب علي الجفري",
@@ -2436,14 +2436,14 @@
           "transcribed": 27
         },
         {
-          "aligned": 20,
-          "aligned_pct": "66.7%",
+          "aligned": 23,
+          "aligned_pct": "76.7%",
           "category": "برنامج رمضاني",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 30,
           "dir": "s014/",
-          "dur": 51695,
+          "dur": 51692,
           "key": "s014",
           "series_id": "jifri__s014",
           "title": "برنامج أيها المريد - الموسم الأول (أصول السلوك والتزكية)",
@@ -5720,9 +5720,9 @@
     }
   ],
   "totals": {
-    "aligned": 2741,
-    "chars": 156970225,
-    "lessons": 6645,
+    "aligned": 2744,
+    "chars": 156987605,
+    "lessons": 6646,
     "series": 387,
     "sheikhs": 25
   },

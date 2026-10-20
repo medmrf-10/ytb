@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:Kcwx4vf2tM0",
- "vid": "Kcwx4vf2tM0",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--95",
- "n": 29,
- "n_src": "read",
- "title": "حلقة 28： ميزان التعامل مع الخلق ｜ أيها المريد ｜ الحبيب علي الجفري",
- "title_src": "filename",
- "sha256": "84216aac182180cd2e85eb5f6355f1f6d908a2e643a30973324daaf80866a78e",
- "nh": "39b764cddb3947c2f01105637936c4abf8640b55c52a8ba6b79e47feae04d040",
- "chars": 18561,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/95/029_حلقة 28： ميزان التعامل مع الخلق ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/95/029_حلقة 28： ميزان التعامل مع الخلق ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
-   "sha256": "84216aac182180cd2e85eb5f6355f1f6d908a2e643a30973324daaf80866a78e",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:Kcwx4vf2tM0",
+  "vid": "Kcwx4vf2tM0",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--95",
+  "n": 29,
+  "n_src": "read",
+  "title": "حلقة 28： ميزان التعامل مع الخلق ｜ أيها المريد ｜ الحبيب علي الجفري",
+  "title_src": "filename",
+  "sha256": "84216aac182180cd2e85eb5f6355f1f6d908a2e643a30973324daaf80866a78e",
+  "nh": "39b764cddb3947c2f01105637936c4abf8640b55c52a8ba6b79e47feae04d040",
+  "chars": 18561,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/95/029_حلقة 28： ميزان التعامل مع الخلق ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/95/029_حلقة 28： ميزان التعامل مع الخلق ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
+      "sha256": "84216aac182180cd2e85eb5f6355f1f6d908a2e643a30973324daaf80866a78e",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9862,
+    "spoken_align_pct": 98.62,
+    "audio_span_pct": 96.45,
+    "words": 3701,
+    "aligned": 3650,
+    "interpolated": 51,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 17:59"
   }
- ],
- "variants": [],
- "also_in": []
 }
