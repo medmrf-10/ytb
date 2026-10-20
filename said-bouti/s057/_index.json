@@ -1,6 +1,6 @@
 {
-  "aligned": 14,
-  "aligned_ratio": 0.6364,
+  "aligned": 18,
+  "aligned_ratio": 0.8182,
   "category": "خطب الجمعة والمحاضرات",
   "coverage": 1.0,
   "declared_total": 22,
@@ -161,8 +161,8 @@
       "vid": "AeYjYt5n2YI"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 6004,
       "dur": 992,
       "file": "015_dDl48TxMUs0.txt",
@@ -172,8 +172,8 @@
       "vid": "dDl48TxMUs0"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 7603,
       "dur": 1114,
       "file": "016_PjeqOez3B6Q.txt",
@@ -183,10 +183,10 @@
       "vid": "PjeqOez3B6Q"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 10594,
-      "dur": 1511,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 10566,
+      "dur": 1512,
       "file": "017_j6IihUMob7Y.txt",
       "n": 17,
       "stem": "017_j6IihUMob7Y",
@@ -194,8 +194,8 @@
       "vid": "j6IihUMob7Y"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 11120,
       "dur": 1596,
       "file": "018_ystsNiVQY2k.txt",
