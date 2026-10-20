@@ -1591,7 +1591,7 @@
       "slug": "adham-alasimi"
     },
     {
-      "aligned": 194,
+      "aligned": 196,
       "chars": 18509654,
       "lessons": 483,
       "name": "أحمد السيد",
@@ -1684,14 +1684,14 @@
           "transcribed": 24
         },
         {
-          "aligned": 2,
-          "aligned_pct": "10.0%",
+          "aligned": 4,
+          "aligned_pct": "20.0%",
           "category": "تفسير وتدبر",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 20,
           "dir": "s024/",
-          "dur": 48774,
+          "dur": 48775,
           "key": "s024",
           "series_id": "sayed__s024",
           "title": "معالجة القرآن لنفوس المصلحين",
@@ -4485,8 +4485,8 @@
       "slug": "ali-mahmoud-alomari"
     },
     {
-      "aligned": 102,
-      "chars": 4454568,
+      "aligned": 106,
+      "chars": 4454403,
       "lessons": 214,
       "name": "مولود السريري",
       "path": "mouloud-sariri/",
@@ -4536,14 +4536,14 @@
           "transcribed": 3
         },
         {
-          "aligned": 15,
-          "aligned_pct": "79.0%",
+          "aligned": 19,
+          "aligned_pct": "100.0%",
           "category": "أصول الفقه ومقاصد الشريعة",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 19,
           "dir": "s007/",
-          "dur": 87478,
+          "dur": 87480,
           "key": "s007",
           "series_id": "sariri__s007",
           "title": "شرح متن الورقات في أصول الفقه لإمام الحرمين الجويني (كاملاً — 19 درساً)",
@@ -5706,8 +5706,8 @@
     }
   ],
   "totals": {
-    "aligned": 1912,
-    "chars": 156206577,
+    "aligned": 1918,
+    "chars": 156206412,
     "lessons": 6589,
     "series": 386,
     "sheikhs": 25
