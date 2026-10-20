@@ -1,6 +1,6 @@
 {
-  "aligned": 6,
-  "aligned_ratio": 0.25,
+  "aligned": 13,
+  "aligned_ratio": 0.5417,
   "category": "العقيدة وعلم الكلام",
   "coverage": 1.0,
   "declared_total": 24,
@@ -73,9 +73,9 @@
       "vid": "k39HfcrD3Ek"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 45577,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 45417,
       "dur": 5405,
       "file": "007_TwCavoo-2Ds.txt",
       "n": 7,
@@ -84,10 +84,10 @@
       "vid": "TwCavoo-2Ds"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 33335,
-      "dur": 3970,
+      "dur": 3969,
       "file": "008_rvblzbudkmg.txt",
       "n": 8,
       "stem": "008_rvblzbudkmg",
@@ -95,8 +95,8 @@
       "vid": "rvblzbudkmg"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 46576,
       "dur": 5352,
       "file": "009_n4_aBQnm9Zc.txt",
@@ -106,10 +106,10 @@
       "vid": "n4_aBQnm9Zc"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 40076,
-      "dur": 4588,
+      "dur": 4587,
       "file": "010_32vpSGaSZBc.txt",
       "n": 10,
       "stem": "010_32vpSGaSZBc",
@@ -117,10 +117,10 @@
       "vid": "32vpSGaSZBc"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 30972,
-      "dur": 3522,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 30749,
+      "dur": 3521,
       "file": "011_ZeAlkM5NlVA.txt",
       "n": 11,
       "stem": "011_ZeAlkM5NlVA",
@@ -128,8 +128,8 @@
       "vid": "ZeAlkM5NlVA"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 32801,
       "dur": 3777,
       "file": "012_uEfuyrlJwq8.txt",
@@ -161,8 +161,8 @@
       "vid": "_pmqgfyh_mk"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 16645,
       "dur": 3054,
       "file": "015_8U1fPENdRPQ.txt",
