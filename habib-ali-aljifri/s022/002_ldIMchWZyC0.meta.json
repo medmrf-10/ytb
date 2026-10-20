@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:ldIMchWZyC0",
- "vid": "ldIMchWZyC0",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--114",
- "n": 3,
- "n_src": "read",
- "title": "الإنسانية قبل التدين ｜ الحلقة 2 - ميزان الإنسان ｜ علي الجفري ｜",
- "title_src": "filename",
- "sha256": "cb2cc3af90165672491cafec544049a5cdc26bbd6f8bd4042ba95ed24386f075",
- "nh": "db697272428188e7c4155eec90e7c173226cce94a6c16079c868f2447b7aeb13",
- "chars": 6635,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/114/003_الإنسانية قبل التدين ｜ الحلقة 2 - ميزان الإنسان ｜ علي الجفري ｜ English Subtitle.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/114/003_الإنسانية قبل التدين ｜ الحلقة 2 - ميزان الإنسان ｜ علي الجفري ｜ English Subtitle.txt",
-   "sha256": "cb2cc3af90165672491cafec544049a5cdc26bbd6f8bd4042ba95ed24386f075",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:ldIMchWZyC0",
+  "vid": "ldIMchWZyC0",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--114",
+  "n": 3,
+  "n_src": "read",
+  "title": "الإنسانية قبل التدين ｜ الحلقة 2 - ميزان الإنسان ｜ علي الجفري ｜",
+  "title_src": "filename",
+  "sha256": "cb2cc3af90165672491cafec544049a5cdc26bbd6f8bd4042ba95ed24386f075",
+  "nh": "db697272428188e7c4155eec90e7c173226cce94a6c16079c868f2447b7aeb13",
+  "chars": 6635,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/114/003_الإنسانية قبل التدين ｜ الحلقة 2 - ميزان الإنسان ｜ علي الجفري ｜ English Subtitle.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/114/003_الإنسانية قبل التدين ｜ الحلقة 2 - ميزان الإنسان ｜ علي الجفري ｜ English Subtitle.txt",
+      "sha256": "cb2cc3af90165672491cafec544049a5cdc26bbd6f8bd4042ba95ed24386f075",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.43,
+    "words": 1149,
+    "aligned": 1149,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 16:00"
   }
- ],
- "variants": [],
- "also_in": []
 }
