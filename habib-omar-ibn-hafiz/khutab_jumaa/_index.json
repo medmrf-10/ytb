@@ -2,7 +2,7 @@
   "aligned": 0,
   "aligned_ratio": 0.0,
   "category": "الخطب والمحاضرات",
-  "coverage": 0.0772,
+  "coverage": 0.095,
   "declared_total": 337,
   "key": "khutab_jumaa",
   "lessons": [
@@ -108,6 +108,17 @@
     {
       "align_coverage": null,
       "aligned": false,
+      "chars": 14781,
+      "dur": 1809,
+      "file": "057_26wEdvbu7fU.txt",
+      "n": 57,
+      "stem": "057_26wEdvbu7fU",
+      "title": "معاني التقوى وخِلَعِها وتحرير الإنسانية في الفكر والسلوك عن استعباد الأهواء والشهوات",
+      "vid": "26wEdvbu7fU"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
       "chars": 14773,
       "dur": 1625,
       "file": "061_FMZOvxh1jtY.txt",
@@ -152,6 +163,28 @@
     {
       "align_coverage": null,
       "aligned": false,
+      "chars": 16248,
+      "dur": 1821,
+      "file": "142_G7WipusL2k8.txt",
+      "n": 142,
+      "stem": "142_G7WipusL2k8",
+      "title": "الحبيب عمر بن حفيظ: مكانة اللسان وعظيم آثاره سلباً وإيجابا",
+      "vid": "G7WipusL2k8"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 15063,
+      "dur": 1836,
+      "file": "143_FXo5vUGjbPo.txt",
+      "n": 143,
+      "stem": "143_FXo5vUGjbPo",
+      "title": "الحبيب عمر بن حفيظ: مجال السمع في التقوى وعظيم أثره في السر والنجوى",
+      "vid": "FXo5vUGjbPo"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
       "chars": 13158,
       "dur": 1611,
       "file": "152_2AzkUeSQ6as.txt",
@@ -170,6 +203,28 @@
       "stem": "180__q79kxdRuyc",
       "title": "الحبيب عمر بن حفيظ: شؤون الوفادة على الرحمن ومعانيها برتبها الحسان",
       "vid": "_q79kxdRuyc"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 16583,
+      "dur": 1804,
+      "file": "183_dPtTqg7G5vQ.txt",
+      "n": 183,
+      "stem": "183_dPtTqg7G5vQ",
+      "title": "الحبيب عمر بن حفيظ: ميزة المؤمنين في السعي وحركة الحياة وفارق ما بينهم وبين من لم يؤمن بالله",
+      "vid": "dPtTqg7G5vQ"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 14760,
+      "dur": 1800,
+      "file": "190_2MSwCrd83Eg.txt",
+      "n": 190,
+      "stem": "190_2MSwCrd83Eg",
+      "title": "الحبيب عمر بن حفيظ: اللسان وعظيم أثره وخطره ومجرى التقوى فيه",
+      "vid": "2MSwCrd83Eg"
     },
     {
       "align_coverage": null,
@@ -284,6 +339,17 @@
     {
       "align_coverage": null,
       "aligned": false,
+      "chars": 16221,
+      "dur": 1799,
+      "file": "328_kZhMhxYeTgA.txt",
+      "n": 328,
+      "stem": "328_kZhMhxYeTgA",
+      "title": "خطبة الجمعة: منزلة التقوى في إصلاح البشر والعالم والمعاش والمعاد",
+      "vid": "kZhMhxYeTgA"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
       "chars": 15756,
       "dur": 1763,
       "file": "337_S_1XN2bVyj4.txt",
@@ -297,6 +363,6 @@
   "sheikh": "habib-omar-ibn-hafiz",
   "sheikh_name": "الحبيب عمر بن حفيظ",
   "title": "خطب الجمعة والعيدين والكسوف والخسوف",
-  "transcribed": 26,
+  "transcribed": 32,
   "v": 2
 }

@@ -1,37 +1,53 @@
 {
- "v": 1,
- "lid": "rn:habib-ali-aljifri--101:18",
- "vid": null,
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--101",
- "n": 18,
- "n_src": "read",
- "title": "أيها المريد ｜ الحلقة 17 ｜ مفهوم الرضا ｜ علي الجفري ｜",
- "title_src": "filename",
- "sha256": "9e98393c58c3a5b735907f27dbb3af6ed4ac3ced661566dff44d0cb29fc04b0a",
- "nh": "cb28ff5b2fd0430eb846111910d6c75b3b2884424bc94deb9e86b5ecd5c2eca7",
- "chars": 11755,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/101/018_أيها المريد ｜ الحلقة 17 ｜ مفهوم  الرضا ｜ علي الجفري ｜ English subtitle.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/101/018_أيها المريد ｜ الحلقة 17 ｜ مفهوم  الرضا ｜ علي الجفري ｜ English subtitle.txt",
-   "sha256": "9e98393c58c3a5b735907f27dbb3af6ed4ac3ced661566dff44d0cb29fc04b0a",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:habib-ali-aljifri--101:18",
+  "vid": null,
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--101",
+  "n": 18,
+  "n_src": "read",
+  "title": "أيها المريد ｜ الحلقة 17 ｜ مفهوم الرضا ｜ علي الجفري ｜",
+  "title_src": "filename",
+  "sha256": "9e98393c58c3a5b735907f27dbb3af6ed4ac3ced661566dff44d0cb29fc04b0a",
+  "nh": "cb28ff5b2fd0430eb846111910d6c75b3b2884424bc94deb9e86b5ecd5c2eca7",
+  "chars": 11755,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/101/018_أيها المريد ｜ الحلقة 17 ｜ مفهوم  الرضا ｜ علي الجفري ｜ English subtitle.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/101/17.txt",
-   "sha256": "9e98393c58c3a5b735907f27dbb3af6ed4ac3ced661566dff44d0cb29fc04b0a",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/101/018_أيها المريد ｜ الحلقة 17 ｜ مفهوم  الرضا ｜ علي الجفري ｜ English subtitle.txt",
+      "sha256": "9e98393c58c3a5b735907f27dbb3af6ed4ac3ced661566dff44d0cb29fc04b0a",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/101/17.txt",
+      "sha256": "9e98393c58c3a5b735907f27dbb3af6ed4ac3ced661566dff44d0cb29fc04b0a",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9955,
+    "spoken_align_pct": 99.55,
+    "audio_span_pct": 98.79,
+    "words": 2206,
+    "aligned": 2196,
+    "interpolated": 10,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 17:05",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

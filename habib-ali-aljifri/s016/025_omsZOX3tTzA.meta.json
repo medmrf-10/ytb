@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "rn:habib-ali-aljifri--101:26",
- "vid": null,
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--101",
- "n": 26,
- "n_src": "read",
- "title": "أيها المريد ｜ الحلقة25 ｜ مراتب الوجد ｜ علي الجفري ｜",
- "title_src": "filename",
- "sha256": "1cccd528968807d0e1605f404a8985b317433e22b98232b95be793e14d32e427",
- "nh": "735d910b742c9b063fec7541498e69196f258fa68cd938ca8fabe30e76481d4e",
- "chars": 11622,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/101/026_أيها المريد ｜ الحلقة25 ｜ مراتب الوجد ｜ علي الجفري ｜ English subtitle.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/101/026_أيها المريد ｜ الحلقة25 ｜ مراتب الوجد ｜ علي الجفري ｜ English subtitle.txt",
-   "sha256": "1cccd528968807d0e1605f404a8985b317433e22b98232b95be793e14d32e427",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:habib-ali-aljifri--101:26",
+  "vid": null,
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--101",
+  "n": 26,
+  "n_src": "read",
+  "title": "أيها المريد ｜ الحلقة25 ｜ مراتب الوجد ｜ علي الجفري ｜",
+  "title_src": "filename",
+  "sha256": "1cccd528968807d0e1605f404a8985b317433e22b98232b95be793e14d32e427",
+  "nh": "735d910b742c9b063fec7541498e69196f258fa68cd938ca8fabe30e76481d4e",
+  "chars": 11622,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/101/026_أيها المريد ｜ الحلقة25 ｜ مراتب الوجد ｜ علي الجفري ｜ English subtitle.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/101/25.txt",
-   "sha256": "1cccd528968807d0e1605f404a8985b317433e22b98232b95be793e14d32e427",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/101/026_أيها المريد ｜ الحلقة25 ｜ مراتب الوجد ｜ علي الجفري ｜ English subtitle.txt",
+      "sha256": "1cccd528968807d0e1605f404a8985b317433e22b98232b95be793e14d32e427",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/101/25.txt",
+      "sha256": "1cccd528968807d0e1605f404a8985b317433e22b98232b95be793e14d32e427",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9991,
+    "spoken_align_pct": 99.91,
+    "audio_span_pct": 99.7,
+    "words": 2235,
+    "aligned": 2233,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 17:08"
   }
- ],
- "variants": [],
- "also_in": []
 }

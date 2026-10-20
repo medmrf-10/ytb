@@ -2080,8 +2080,8 @@
     },
     {
       "aligned": 95,
-      "chars": 8716620,
-      "lessons": 476,
+      "chars": 8810276,
+      "lessons": 482,
       "name": "الحبيب عمر بن حفيظ",
       "path": "habib-omar-ibn-hafiz/",
       "photo": "_meta/img/habib-omar-ibn-hafiz.jpg",
@@ -2161,15 +2161,15 @@
           "aligned": 0,
           "aligned_pct": "0.0%",
           "category": "الخطب والمحاضرات",
-          "coverage": 0.0772,
-          "coverage_pct": "7.7%",
+          "coverage": 0.095,
+          "coverage_pct": "9.5%",
           "declared_total": 337,
           "dir": "khutab_jumaa/",
-          "dur": 41675,
+          "dur": 52544,
           "key": "khutab_jumaa",
           "series_id": "hafiz__khutab_jumaa",
           "title": "خطب الجمعة والعيدين والكسوف والخسوف",
-          "transcribed": 26
+          "transcribed": 32
         },
         {
           "aligned": 19,
@@ -2315,8 +2315,8 @@
       "slug": "habib-omar-ibn-hafiz"
     },
     {
-      "aligned": 101,
-      "chars": 6585216,
+      "aligned": 115,
+      "chars": 6585183,
       "lessons": 471,
       "name": "الحبيب علي الجفري",
       "path": "habib-ali-aljifri/",
@@ -2464,14 +2464,14 @@
           "transcribed": 30
         },
         {
-          "aligned": 12,
-          "aligned_pct": "40.0%",
+          "aligned": 26,
+          "aligned_pct": "86.7%",
           "category": "برنامج رمضاني",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 30,
           "dir": "s016/",
-          "dur": 45472,
+          "dur": 45473,
           "key": "s016",
           "series_id": "jifri__s016",
           "title": "برنامج أيها المريد - الموسم الثالث (المقامات والأحوال في السير إلى الله - مترجم للإنجليزية)",
@@ -5720,9 +5720,9 @@
     }
   ],
   "totals": {
-    "aligned": 2673,
-    "chars": 156491924,
-    "lessons": 6615,
+    "aligned": 2687,
+    "chars": 156585547,
+    "lessons": 6621,
     "series": 387,
     "sheikhs": 25
   },
