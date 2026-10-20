@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:9F4M-kafpHs",
- "vid": "9F4M-kafpHs",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--345",
- "n": 4,
- "n_src": "plpos",
- "title": "4- مشاهد وعبر من القرآن والسنة | إن الله اصطفى لكم الدين فلا تموتن إلا وأنتم مسلمون",
- "title_src": "yt_titles",
- "sha256": "535ca01d6e6e9ffabde3b84c351aa32225ccde6a53c8a84a644078976457bbe2",
- "nh": "2ff5cab0c43907b93b5ce6d1490cf1ffba03e20e06b816e4a31a394e20f23567",
- "chars": 13411,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/345/004_4- مشاهد وعبر من القرآن والسنة ｜ إن الله اصطفى لكم الدين فلا تموتن إلا وأنتم مسل.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/345/004_4- مشاهد وعبر من القرآن والسنة ｜ إن الله اصطفى لكم الدين فلا تموتن إلا وأنتم مسل.txt",
-   "sha256": "535ca01d6e6e9ffabde3b84c351aa32225ccde6a53c8a84a644078976457bbe2",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:9F4M-kafpHs",
+  "vid": "9F4M-kafpHs",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--345",
+  "n": 4,
+  "n_src": "plpos",
+  "title": "4- مشاهد وعبر من القرآن والسنة | إن الله اصطفى لكم الدين فلا تموتن إلا وأنتم مسلمون",
+  "title_src": "yt_titles",
+  "sha256": "535ca01d6e6e9ffabde3b84c351aa32225ccde6a53c8a84a644078976457bbe2",
+  "nh": "2ff5cab0c43907b93b5ce6d1490cf1ffba03e20e06b816e4a31a394e20f23567",
+  "chars": 13411,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/345/004_4- مشاهد وعبر من القرآن والسنة ｜ إن الله اصطفى لكم الدين فلا تموتن إلا وأنتم مسل.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-mashahid/04.txt",
-   "sha256": "453bd093067a6e4e0337032c927b26077d10a39c6798ea924d33c72ebb587858",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/345/3.txt",
-   "sha256": "535ca01d6e6e9ffabde3b84c351aa32225ccde6a53c8a84a644078976457bbe2",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/345/004_4- مشاهد وعبر من القرآن والسنة ｜ إن الله اصطفى لكم الدين فلا تموتن إلا وأنتم مسل.txt",
+      "sha256": "535ca01d6e6e9ffabde3b84c351aa32225ccde6a53c8a84a644078976457bbe2",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-mashahid/04.txt",
+      "sha256": "453bd093067a6e4e0337032c927b26077d10a39c6798ea924d33c72ebb587858",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/345/3.txt",
+      "sha256": "535ca01d6e6e9ffabde3b84c351aa32225ccde6a53c8a84a644078976457bbe2",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.86,
+    "words": 2430,
+    "aligned": 2430,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 18:04"
   }
- ],
- "variants": [],
- "also_in": []
 }

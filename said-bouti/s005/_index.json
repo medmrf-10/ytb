@@ -1,6 +1,6 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 1,
+  "aligned_ratio": 0.0333,
   "category": "التفسير وعلوم القرآن",
   "coverage": 1.0,
   "declared_total": 30,
@@ -40,8 +40,8 @@
       "vid": "w9_tjMA7xXk"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 13260,
       "dur": 1676,
       "file": "004_9F4M-kafpHs.txt",
