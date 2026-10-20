@@ -8,27 +8,14 @@
   "align": {
     "engine": "ctc-pure-mac-mps",
     "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
-    "cov": 0.6493,
-    "spoken_align_pct": 64.93,
-    "audio_span_pct": 99.99,
-    "words": 1792,
-    "aligned": 1098,
-    "interpolated": 593,
-    "retried_without_silence_compact": true,
-    "local_agc_applied": true,
-    "at": "2026-10-20 04:05",
-    "low_coverage_diagnosis": {
-      "spoken_align_pct": 64.93,
-      "interpolated_words": 593,
-      "unaligned_clusters_count": 2,
-      "max_cluster_words": 462,
-      "wpm": 212.3,
-      "audio_span_pct": 99.99,
-      "forced_steps": 0,
-      "causes": [
-        "TEXT_HALLUCINATION_OR_CHUNK_REPEAT(clusters=2, max_run=462w @ 458.52s: «رَسُولُ رَبِّ الْعَالَمِينَ}. نعم. ثم بعدين على الوحدة لا عل»)",
-        "EXCESS_WPM_HALLUCINATION(wpm=212.3)"
-      ]
-    }
+    "cov": 0.9939,
+    "spoken_align_pct": 99.39,
+    "audio_span_pct": 100.0,
+    "words": 742,
+    "aligned": 651,
+    "interpolated": 4,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 04:32"
   }
 }

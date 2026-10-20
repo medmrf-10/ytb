@@ -1,45 +1,61 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--10:9",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--10",
- "n": 9,
- "n_src": "read",
- "title": "الدرس 9 ｜ شرح منظومة الأجهوري في أصول الدين- صفات المعاني(العلم والقدرة والارادة",
- "title_src": "filename",
- "sha256": "055e2538891f34dd5e6d1a5b4cf2eac709d8efca27a361d663c4c71fc01cadd8",
- "nh": "80af0171ac4e94c81470c1cd0a0627630383cacc4f12ad50d1f8adb571ddf432",
- "chars": 13370,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/10/009_الدرس 9 ｜ شرح منظومة الأجهوري في أصول الدين- صفات المعاني(العلم والقدرة والارادة.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/10/009_الدرس 9 ｜ شرح منظومة الأجهوري في أصول الدين- صفات المعاني(العلم والقدرة والارادة.txt",
-   "sha256": "055e2538891f34dd5e6d1a5b4cf2eac709d8efca27a361d663c4c71fc01cadd8",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--10:9",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--10",
+  "n": 9,
+  "n_src": "read",
+  "title": "الدرس 9 ｜ شرح منظومة الأجهوري في أصول الدين- صفات المعاني(العلم والقدرة والارادة",
+  "title_src": "filename",
+  "sha256": "055e2538891f34dd5e6d1a5b4cf2eac709d8efca27a361d663c4c71fc01cadd8",
+  "nh": "80af0171ac4e94c81470c1cd0a0627630383cacc4f12ad50d1f8adb571ddf432",
+  "chars": 13370,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/10/009_الدرس 9 ｜ شرح منظومة الأجهوري في أصول الدين- صفات المعاني(العلم والقدرة والارادة.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bardouni/ajhuri/8.txt",
-   "sha256": "055e2538891f34dd5e6d1a5b4cf2eac709d8efca27a361d663c4c71fc01cadd8",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/995/8.txt",
-   "sha256": "055e2538891f34dd5e6d1a5b4cf2eac709d8efca27a361d663c4c71fc01cadd8",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/10/009_الدرس 9 ｜ شرح منظومة الأجهوري في أصول الدين- صفات المعاني(العلم والقدرة والارادة.txt",
+      "sha256": "055e2538891f34dd5e6d1a5b4cf2eac709d8efca27a361d663c4c71fc01cadd8",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bardouni/ajhuri/8.txt",
+      "sha256": "055e2538891f34dd5e6d1a5b4cf2eac709d8efca27a361d663c4c71fc01cadd8",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/995/8.txt",
+      "sha256": "055e2538891f34dd5e6d1a5b4cf2eac709d8efca27a361d663c4c71fc01cadd8",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "k:10"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9996,
+    "spoken_align_pct": 99.96,
+    "audio_span_pct": 100.0,
+    "words": 2782,
+    "aligned": 2781,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 04:31",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": [
-  "k:10"
- ]
 }

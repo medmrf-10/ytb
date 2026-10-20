@@ -1,45 +1,58 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--10:12",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--10",
- "n": 12,
- "n_src": "read",
- "title": "الدرس12｜ شرح منظومة الأجهوري في أصول الدين- الخلاف في كون السمع و البصر من جنس ا",
- "title_src": "filename",
- "sha256": "b8ef696198dc056ad52884be527fbe986fab45c9d4569007124bf9dbead325a8",
- "nh": "afe558373d3532f059ad7fd2ab84284ad87153b66292099b9e2c438456957a28",
- "chars": 12206,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/10/012_الدرس12｜ شرح منظومة الأجهوري في أصول الدين- الخلاف في كون السمع و البصر من جنس ا.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/10/012_الدرس12｜ شرح منظومة الأجهوري في أصول الدين- الخلاف في كون السمع و البصر من جنس ا.txt",
-   "sha256": "b8ef696198dc056ad52884be527fbe986fab45c9d4569007124bf9dbead325a8",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--10:12",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--10",
+  "n": 12,
+  "n_src": "read",
+  "title": "الدرس12｜ شرح منظومة الأجهوري في أصول الدين- الخلاف في كون السمع و البصر من جنس ا",
+  "title_src": "filename",
+  "sha256": "b8ef696198dc056ad52884be527fbe986fab45c9d4569007124bf9dbead325a8",
+  "nh": "afe558373d3532f059ad7fd2ab84284ad87153b66292099b9e2c438456957a28",
+  "chars": 12206,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/10/012_الدرس12｜ شرح منظومة الأجهوري في أصول الدين- الخلاف في كون السمع و البصر من جنس ا.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bardouni/ajhuri/11.txt",
-   "sha256": "b8ef696198dc056ad52884be527fbe986fab45c9d4569007124bf9dbead325a8",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/995/11.txt",
-   "sha256": "b8ef696198dc056ad52884be527fbe986fab45c9d4569007124bf9dbead325a8",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/10/012_الدرس12｜ شرح منظومة الأجهوري في أصول الدين- الخلاف في كون السمع و البصر من جنس ا.txt",
+      "sha256": "b8ef696198dc056ad52884be527fbe986fab45c9d4569007124bf9dbead325a8",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bardouni/ajhuri/11.txt",
+      "sha256": "b8ef696198dc056ad52884be527fbe986fab45c9d4569007124bf9dbead325a8",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/995/11.txt",
+      "sha256": "b8ef696198dc056ad52884be527fbe986fab45c9d4569007124bf9dbead325a8",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "k:10"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9885,
+    "spoken_align_pct": 98.85,
+    "audio_span_pct": 99.94,
+    "words": 2266,
+    "aligned": 2234,
+    "interpolated": 26,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 04:33"
   }
- ],
- "variants": [],
- "also_in": [
-  "k:10"
- ]
 }

@@ -1,45 +1,61 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--10:17",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--10",
- "n": 17,
- "n_src": "read",
- "title": "الدرس 17 ｜ شرح منظومة الأجهوري في أصول الدين- بحث ما يجب لله و ما يستحيل و ما يج",
- "title_src": "filename",
- "sha256": "13ab0d4a10e4d97fa2324b569c0670c49f2e661017f05bedb051a669ee0a954c",
- "nh": "2d9d15b87914e412a33f3d0744e1e1f7b04fec1bf306340e5c09359424a6f57d",
- "chars": 20253,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/10/017_الدرس 17 ｜ شرح منظومة الأجهوري في أصول الدين- بحث ما يجب لله و ما يستحيل و ما يج.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/10/017_الدرس 17 ｜ شرح منظومة الأجهوري في أصول الدين- بحث ما يجب لله و ما يستحيل و ما يج.txt",
-   "sha256": "13ab0d4a10e4d97fa2324b569c0670c49f2e661017f05bedb051a669ee0a954c",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--10:17",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--10",
+  "n": 17,
+  "n_src": "read",
+  "title": "الدرس 17 ｜ شرح منظومة الأجهوري في أصول الدين- بحث ما يجب لله و ما يستحيل و ما يج",
+  "title_src": "filename",
+  "sha256": "13ab0d4a10e4d97fa2324b569c0670c49f2e661017f05bedb051a669ee0a954c",
+  "nh": "2d9d15b87914e412a33f3d0744e1e1f7b04fec1bf306340e5c09359424a6f57d",
+  "chars": 20253,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/10/017_الدرس 17 ｜ شرح منظومة الأجهوري في أصول الدين- بحث ما يجب لله و ما يستحيل و ما يج.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bardouni/ajhuri/16.txt",
-   "sha256": "13ab0d4a10e4d97fa2324b569c0670c49f2e661017f05bedb051a669ee0a954c",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/995/16.txt",
-   "sha256": "13ab0d4a10e4d97fa2324b569c0670c49f2e661017f05bedb051a669ee0a954c",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/10/017_الدرس 17 ｜ شرح منظومة الأجهوري في أصول الدين- بحث ما يجب لله و ما يستحيل و ما يج.txt",
+      "sha256": "13ab0d4a10e4d97fa2324b569c0670c49f2e661017f05bedb051a669ee0a954c",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bardouni/ajhuri/16.txt",
+      "sha256": "13ab0d4a10e4d97fa2324b569c0670c49f2e661017f05bedb051a669ee0a954c",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/995/16.txt",
+      "sha256": "13ab0d4a10e4d97fa2324b569c0670c49f2e661017f05bedb051a669ee0a954c",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "k:10"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9671,
+    "spoken_align_pct": 96.71,
+    "audio_span_pct": 99.99,
+    "words": 4309,
+    "aligned": 4119,
+    "interpolated": 140,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 04:36",
+    "stripped_reasons": [
+      "LATIN_PREAMBLE"
+    ]
   }
- ],
- "variants": [],
- "also_in": [
-  "k:10"
- ]
 }

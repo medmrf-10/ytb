@@ -1,45 +1,58 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--10:16",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--10",
- "n": 16,
- "n_src": "read",
- "title": "الدرس16｜شرح منظومة الأجهوري في أصول الدين- الكلام على كون الصفات عيناأو غيرا للذ",
- "title_src": "filename",
- "sha256": "7b3f73d8b4ad3bfb1fd91eef0499e41a473c21e37da5db5412a854dd458ffd0d",
- "nh": "2d022bc77b1289b633b4bd2b4edb56a71f17c985e7529ce313645f6d69565c02",
- "chars": 17805,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/10/016_الدرس16｜شرح منظومة الأجهوري في أصول الدين- الكلام على كون الصفات عيناأو غيرا للذ.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/10/016_الدرس16｜شرح منظومة الأجهوري في أصول الدين- الكلام على كون الصفات عيناأو غيرا للذ.txt",
-   "sha256": "7b3f73d8b4ad3bfb1fd91eef0499e41a473c21e37da5db5412a854dd458ffd0d",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--10:16",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--10",
+  "n": 16,
+  "n_src": "read",
+  "title": "الدرس16｜شرح منظومة الأجهوري في أصول الدين- الكلام على كون الصفات عيناأو غيرا للذ",
+  "title_src": "filename",
+  "sha256": "7b3f73d8b4ad3bfb1fd91eef0499e41a473c21e37da5db5412a854dd458ffd0d",
+  "nh": "2d022bc77b1289b633b4bd2b4edb56a71f17c985e7529ce313645f6d69565c02",
+  "chars": 17805,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/10/016_الدرس16｜شرح منظومة الأجهوري في أصول الدين- الكلام على كون الصفات عيناأو غيرا للذ.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bardouni/ajhuri/15.txt",
-   "sha256": "7b3f73d8b4ad3bfb1fd91eef0499e41a473c21e37da5db5412a854dd458ffd0d",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/995/15.txt",
-   "sha256": "7b3f73d8b4ad3bfb1fd91eef0499e41a473c21e37da5db5412a854dd458ffd0d",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/10/016_الدرس16｜شرح منظومة الأجهوري في أصول الدين- الكلام على كون الصفات عيناأو غيرا للذ.txt",
+      "sha256": "7b3f73d8b4ad3bfb1fd91eef0499e41a473c21e37da5db5412a854dd458ffd0d",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bardouni/ajhuri/15.txt",
+      "sha256": "7b3f73d8b4ad3bfb1fd91eef0499e41a473c21e37da5db5412a854dd458ffd0d",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/995/15.txt",
+      "sha256": "7b3f73d8b4ad3bfb1fd91eef0499e41a473c21e37da5db5412a854dd458ffd0d",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "k:10"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9805,
+    "spoken_align_pct": 98.05,
+    "audio_span_pct": 99.96,
+    "words": 3304,
+    "aligned": 3221,
+    "interpolated": 64,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 04:35"
   }
- ],
- "variants": [],
- "also_in": [
-  "k:10"
- ]
 }

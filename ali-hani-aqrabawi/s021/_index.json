@@ -1,14 +1,14 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 2,
+  "aligned_ratio": 0.1053,
   "category": "الصرف والاشتقاق",
   "coverage": 1.0,
   "declared_total": 19,
   "key": "s021",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 43219,
       "dur": 3700,
       "file": "001_WhvEO3kUZ9c.txt",
@@ -29,8 +29,8 @@
       "vid": "yisSDnHHgxs"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 13118,
       "dur": 1564,
       "file": "003_OcTHLaQ2-tE.txt",

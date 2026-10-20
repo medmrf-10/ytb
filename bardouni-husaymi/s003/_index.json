@@ -1,6 +1,6 @@
 {
-  "aligned": 8,
-  "aligned_ratio": 0.4211,
+  "aligned": 19,
+  "aligned_ratio": 1.0,
   "category": "العقيدة وعلم الكلام",
   "coverage": 1.0,
   "declared_total": 19,
@@ -95,10 +95,10 @@
       "vid": "mY0-CH2caGU"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 15628,
-      "dur": 2112,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 15577,
+      "dur": 2111,
       "file": "009_uZ7HfUwQ9A0.txt",
       "n": 9,
       "stem": "009_uZ7HfUwQ9A0",
@@ -106,8 +106,8 @@
       "vid": "uZ7HfUwQ9A0"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 13582,
       "dur": 1719,
       "file": "010_kMG2qEqcZNI.txt",
@@ -117,8 +117,8 @@
       "vid": "kMG2qEqcZNI"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 15885,
       "dur": 2036,
       "file": "011_iJB7OTezZgk.txt",
@@ -128,10 +128,10 @@
       "vid": "iJB7OTezZgk"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 12933,
-      "dur": 1636,
+      "dur": 1635,
       "file": "012_GnN5vLUzYX4.txt",
       "n": 12,
       "stem": "012_GnN5vLUzYX4",
@@ -139,8 +139,8 @@
       "vid": "GnN5vLUzYX4"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 12310,
       "dur": 1517,
       "file": "013_S3vyy009qdQ.txt",
@@ -150,9 +150,9 @@
       "vid": "S3vyy009qdQ"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 15155,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 15106,
       "dur": 1952,
       "file": "014_p9m_iN9jUXw.txt",
       "n": 14,
@@ -161,8 +161,8 @@
       "vid": "p9m_iN9jUXw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 12748,
       "dur": 1784,
       "file": "015_JoMDidqg8eE.txt",
@@ -172,8 +172,8 @@
       "vid": "JoMDidqg8eE"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 18332,
       "dur": 2246,
       "file": "016_R6IeyogNIxU.txt",
@@ -183,9 +183,9 @@
       "vid": "R6IeyogNIxU"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 24287,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 24172,
       "dur": 2512,
       "file": "017_XBFxOsi7wrc.txt",
       "n": 17,
@@ -194,10 +194,10 @@
       "vid": "XBFxOsi7wrc"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 13138,
-      "dur": 1573,
+      "dur": 1572,
       "file": "018_wpTCLpbWG_Q.txt",
       "n": 18,
       "stem": "018_wpTCLpbWG_Q",
@@ -205,8 +205,8 @@
       "vid": "wpTCLpbWG_Q"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 26604,
       "dur": 3054,
       "file": "019__YPMldAxOyk.txt",
