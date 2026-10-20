@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:AtZC3HgL1sQ",
- "vid": "AtZC3HgL1sQ",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--660",
- "n": 18,
- "n_src": "mutfile",
- "title": "الأمة بين احتلالين 17 ｜ قصة سقوط الخلافة العباسية ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "44415171ec673e323fe242954da2bf7ab0aa6c0fd11348d6bc928543aedaba27",
- "nh": "02d030928186cee08f840225c0020aa076bbe75dceacbb1b4b8a1ce80d167690",
- "chars": 58371,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/660/018_الأمة بين احتلالين 17 ｜ قصة سقوط الخلافة العباسية ｜ أحمد السيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/660/018_الأمة بين احتلالين 17 ｜ قصة سقوط الخلافة العباسية ｜ أحمد السيد.txt",
-   "sha256": "44415171ec673e323fe242954da2bf7ab0aa6c0fd11348d6bc928543aedaba27",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:AtZC3HgL1sQ",
+  "vid": "AtZC3HgL1sQ",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--660",
+  "n": 18,
+  "n_src": "mutfile",
+  "title": "الأمة بين احتلالين 17 ｜ قصة سقوط الخلافة العباسية ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "44415171ec673e323fe242954da2bf7ab0aa6c0fd11348d6bc928543aedaba27",
+  "nh": "02d030928186cee08f840225c0020aa076bbe75dceacbb1b4b8a1ce80d167690",
+  "chars": 58371,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/660/018_الأمة بين احتلالين 17 ｜ قصة سقوط الخلافة العباسية ｜ أحمد السيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/elommaBaynI7tilayn-018/transcript.txt",
-   "sha256": "cba95f1304706099610e6e0ce1ac53ddd5b169b8b4067e8760582952820bb2b6",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-660/018.txt",
-   "sha256": "cba95f1304706099610e6e0ce1ac53ddd5b169b8b4067e8760582952820bb2b6",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/660/018_الأمة بين احتلالين 17 ｜ قصة سقوط الخلافة العباسية ｜ أحمد السيد.txt",
+      "sha256": "44415171ec673e323fe242954da2bf7ab0aa6c0fd11348d6bc928543aedaba27",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/elommaBaynI7tilayn-018/transcript.txt",
+      "sha256": "cba95f1304706099610e6e0ce1ac53ddd5b169b8b4067e8760582952820bb2b6",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-660/018.txt",
+      "sha256": "cba95f1304706099610e6e0ce1ac53ddd5b169b8b4067e8760582952820bb2b6",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9993,
+    "spoken_align_pct": 99.93,
+    "audio_span_pct": 99.87,
+    "words": 10842,
+    "aligned": 10834,
+    "interpolated": 8,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 04:09"
   }
- ],
- "variants": [],
- "also_in": []
 }

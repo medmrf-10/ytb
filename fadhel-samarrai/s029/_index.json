@@ -1,16 +1,16 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 4,
+  "aligned_ratio": 0.2105,
   "category": "التفسير والبيان القرآني (حسب السور)",
   "coverage": 1.0,
   "declared_total": 19,
   "key": "s029",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 11522,
-      "dur": 477,
+      "dur": 478,
       "file": "001_X4q3yrL6LaQ.txt",
       "n": 1,
       "stem": "001_X4q3yrL6LaQ",
@@ -18,8 +18,8 @@
       "vid": "X4q3yrL6LaQ"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 1323,
       "dur": 108,
       "file": "002_zMPSeWW7Ztg.txt",
@@ -29,10 +29,10 @@
       "vid": "zMPSeWW7Ztg"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 1219,
-      "dur": 102,
+      "dur": 103,
       "file": "003_HZmpYsnchZ0.txt",
       "n": 3,
       "stem": "003_HZmpYsnchZ0",
@@ -40,8 +40,8 @@
       "vid": "HZmpYsnchZ0"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 4316,
       "dur": 321,
       "file": "004_fX5HentISAs.txt",
