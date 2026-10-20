@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:lOEYTPGgTQc",
- "vid": "lOEYTPGgTQc",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--379",
- "n": 20,
- "n_src": "plpos",
- "title": "20- تاريخ التشريع الإسلامي | موقف الإمام الشافعي من علم الكلام | الإمام أحمد بن حنبل",
- "title_src": "yt_titles",
- "sha256": "7f7c629b506aed1f5c6483b7ea4dd0e8f6f80794b3704cace6b4d8a82c46debc",
- "nh": "cbb95266bede3ef3c9947a862287644411de036039dbcc88a51e0eb727738270",
- "chars": 20923,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/379/020_20- تاريخ التشريع الإسلامي ｜ موقف الإمام الشافعي من علم الكلام ｜ الإمام أحمد بن .txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/379/020_20- تاريخ التشريع الإسلامي ｜ موقف الإمام الشافعي من علم الكلام ｜ الإمام أحمد بن .txt",
-   "sha256": "7f7c629b506aed1f5c6483b7ea4dd0e8f6f80794b3704cace6b4d8a82c46debc",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:lOEYTPGgTQc",
+  "vid": "lOEYTPGgTQc",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--379",
+  "n": 20,
+  "n_src": "plpos",
+  "title": "20- تاريخ التشريع الإسلامي | موقف الإمام الشافعي من علم الكلام | الإمام أحمد بن حنبل",
+  "title_src": "yt_titles",
+  "sha256": "7f7c629b506aed1f5c6483b7ea4dd0e8f6f80794b3704cace6b4d8a82c46debc",
+  "nh": "cbb95266bede3ef3c9947a862287644411de036039dbcc88a51e0eb727738270",
+  "chars": 20923,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/379/020_20- تاريخ التشريع الإسلامي ｜ موقف الإمام الشافعي من علم الكلام ｜ الإمام أحمد بن .txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/tari5Eltachri3-020/transcript.txt",
-   "sha256": "f566abff6a32ce6d00f3a2232a00724f57f20738aaa87031743f244e98f677df",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-tarikh/20.txt",
-   "sha256": "f566abff6a32ce6d00f3a2232a00724f57f20738aaa87031743f244e98f677df",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/379/19.txt",
-   "sha256": "7f7c629b506aed1f5c6483b7ea4dd0e8f6f80794b3704cace6b4d8a82c46debc",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/379/020_20- تاريخ التشريع الإسلامي ｜ موقف الإمام الشافعي من علم الكلام ｜ الإمام أحمد بن .txt",
+      "sha256": "7f7c629b506aed1f5c6483b7ea4dd0e8f6f80794b3704cace6b4d8a82c46debc",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/tari5Eltachri3-020/transcript.txt",
+      "sha256": "f566abff6a32ce6d00f3a2232a00724f57f20738aaa87031743f244e98f677df",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-tarikh/20.txt",
+      "sha256": "f566abff6a32ce6d00f3a2232a00724f57f20738aaa87031743f244e98f677df",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/379/19.txt",
+      "sha256": "7f7c629b506aed1f5c6483b7ea4dd0e8f6f80794b3704cace6b4d8a82c46debc",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9992,
+    "spoken_align_pct": 99.92,
+    "audio_span_pct": 98.83,
+    "words": 3804,
+    "aligned": 3798,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 21:10"
   }
- ],
- "variants": [],
- "also_in": []
 }
