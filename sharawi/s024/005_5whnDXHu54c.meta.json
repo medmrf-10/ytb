@@ -1,34 +1,50 @@
 {
- "v": 1,
- "lid": "yt:5whnDXHu54c",
- "vid": "5whnDXHu54c",
- "sheikh": "sharawi",
- "row_id": "sharawi--509",
- "n": 5,
- "n_src": "playlist",
- "title": "تفسير سورة الفرقان للشيخ الشعراوي - من آية 21 إلى آية 25",
- "title_src": "youtube",
- "sha256": "d28f7f3b40d0631de966859a5c27688b3ed6bb81eb34b66afa934287601b9c0c",
- "chars": 27496,
- "quality": "ok",
- "winner": {
-  "store": "ytb-transcribe",
-  "path": "ytb/sharawi/509/005_5whnDXHu54c.txt",
-  "model": "gemini-3.8-flash-high"
- },
- "sources": [
-  {
-   "store": "youtube",
-   "path": "https://youtu.be/5whnDXHu54c",
-   "rel": "source"
+  "v": 1,
+  "lid": "yt:5whnDXHu54c",
+  "vid": "5whnDXHu54c",
+  "sheikh": "sharawi",
+  "row_id": "sharawi--509",
+  "n": 5,
+  "n_src": "playlist",
+  "title": "تفسير سورة الفرقان للشيخ الشعراوي - من آية 21 إلى آية 25",
+  "title_src": "youtube",
+  "sha256": "d28f7f3b40d0631de966859a5c27688b3ed6bb81eb34b66afa934287601b9c0c",
+  "chars": 27496,
+  "quality": "ok",
+  "winner": {
+    "store": "ytb-transcribe",
+    "path": "ytb/sharawi/509/005_5whnDXHu54c.txt",
+    "model": "gemini-3.8-flash-high"
+  },
+  "sources": [
+    {
+      "store": "youtube",
+      "path": "https://youtu.be/5whnDXHu54c",
+      "rel": "source"
+    }
+  ],
+  "series": "sharawi--509",
+  "series_slug": "sharawi--509",
+  "lesson_no": 5,
+  "yt": "5whnDXHu54c",
+  "transcribed": "2026-10-13 22:09:38",
+  "audio": "ytb-build/audio/sharawi--509/005.mp3",
+  "job": "agy+gemini عبر agy",
+  "usage_tail": "one\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 67.005, \"Gemini Models / Five Hour Limit Remaining\": 54.451, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 94.6}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.13, \"Gemini Models / Five Hour Limit Remaining\": 0.521, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 27495 | words: 4857\nduplicate 8/12-gram runs: 3\nwrote /root/workspace/ytb/sharawi/509/005_5whnDXHu54c.txt\n",
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9983,
+    "spoken_align_pct": 99.83,
+    "audio_span_pct": 100.0,
+    "words": 4846,
+    "aligned": 4822,
+    "interpolated": 8,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 10:27",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "series": "sharawi--509",
- "series_slug": "sharawi--509",
- "lesson_no": 5,
- "yt": "5whnDXHu54c",
- "transcribed": "2026-10-13 22:09:38",
- "audio": "ytb-build/audio/sharawi--509/005.mp3",
- "job": "agy+gemini عبر agy",
- "usage_tail": "one\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 67.005, \"Gemini Models / Five Hour Limit Remaining\": 54.451, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 94.6}\nbucket deltas (percentage points): {\"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.13, \"Gemini Models / Five Hour Limit Remaining\": 0.521, \"Claude and GPT models / Weekly Limit Remaining\": 0.0}\nchars: 27495 | words: 4857\nduplicate 8/12-gram runs: 3\nwrote /root/workspace/ytb/sharawi/509/005_5whnDXHu54c.txt\n"
 }
