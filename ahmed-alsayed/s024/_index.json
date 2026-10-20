@@ -1,6 +1,6 @@
 {
-  "aligned": 19,
-  "aligned_ratio": 0.95,
+  "aligned": 20,
+  "aligned_ratio": 1.0,
   "category": "تفسير وتدبر",
   "coverage": 1.0,
   "declared_total": 20,
@@ -106,10 +106,10 @@
       "vid": "3nLw1WpYnJo"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 38791,
-      "dur": 3080,
+      "dur": 3081,
       "file": "010_r6XD9tCMObk.txt",
       "n": 10,
       "stem": "010_r6XD9tCMObk",

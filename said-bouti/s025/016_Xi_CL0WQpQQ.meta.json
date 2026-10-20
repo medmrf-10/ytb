@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:Xi_CL0WQpQQ",
- "vid": "Xi_CL0WQpQQ",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--346",
- "n": 17,
- "n_src": "plpos",
- "title": "16 - رحلة الخلود | العلامة البوطي | مسألة الخلود في الجنة أو في النار",
- "title_src": "yt_titles",
- "sha256": "d03969d2ecfec2a427830f662a574a66e658ee2f31aadeb265640d6108c944b6",
- "nh": "0927976b4c5b96cac4c74c8f173b21771b9a0d634a92bad0e485ca85841a5109",
- "chars": 13053,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/346/017_16 - رحلة الخلود ｜ العلامة البوطي ｜ مسألة الخلود في الجنة أو في النار.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/346/017_16 - رحلة الخلود ｜ العلامة البوطي ｜ مسألة الخلود في الجنة أو في النار.txt",
-   "sha256": "d03969d2ecfec2a427830f662a574a66e658ee2f31aadeb265640d6108c944b6",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:Xi_CL0WQpQQ",
+  "vid": "Xi_CL0WQpQQ",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--346",
+  "n": 17,
+  "n_src": "plpos",
+  "title": "16 - رحلة الخلود | العلامة البوطي | مسألة الخلود في الجنة أو في النار",
+  "title_src": "yt_titles",
+  "sha256": "d03969d2ecfec2a427830f662a574a66e658ee2f31aadeb265640d6108c944b6",
+  "nh": "0927976b4c5b96cac4c74c8f173b21771b9a0d634a92bad0e485ca85841a5109",
+  "chars": 13053,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/346/017_16 - رحلة الخلود ｜ العلامة البوطي ｜ مسألة الخلود في الجنة أو في النار.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/ri7latEl5oloud-017/transcript.txt",
-   "sha256": "9d0b84259a1c2fc5aeaf0803d8e0835385f2d1ba59156104848cce377aa645e3",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-rihla/17.txt",
-   "sha256": "9d0b84259a1c2fc5aeaf0803d8e0835385f2d1ba59156104848cce377aa645e3",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/346/16.txt",
-   "sha256": "d03969d2ecfec2a427830f662a574a66e658ee2f31aadeb265640d6108c944b6",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/346/017_16 - رحلة الخلود ｜ العلامة البوطي ｜ مسألة الخلود في الجنة أو في النار.txt",
+      "sha256": "d03969d2ecfec2a427830f662a574a66e658ee2f31aadeb265640d6108c944b6",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/ri7latEl5oloud-017/transcript.txt",
+      "sha256": "9d0b84259a1c2fc5aeaf0803d8e0835385f2d1ba59156104848cce377aa645e3",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-rihla/17.txt",
+      "sha256": "9d0b84259a1c2fc5aeaf0803d8e0835385f2d1ba59156104848cce377aa645e3",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/346/16.txt",
+      "sha256": "d03969d2ecfec2a427830f662a574a66e658ee2f31aadeb265640d6108c944b6",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.33,
+    "words": 2484,
+    "aligned": 2484,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 08:37"
   }
- ],
- "variants": [],
- "also_in": []
 }

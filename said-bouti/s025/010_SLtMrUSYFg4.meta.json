@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:SLtMrUSYFg4",
- "vid": "SLtMrUSYFg4",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--346",
- "n": 11,
- "n_src": "plpos",
- "title": "10 - رحلة الخلود | العلامة البوطي | الشفاعة و الحوض",
- "title_src": "yt_titles",
- "sha256": "810702021e72a959c26352db3e535a8ca5826f47389f31cb459ae660461ef839",
- "nh": "0550f1fe10f4a00667606e9393b6b6476af03581348db328838fe71c04e39e77",
- "chars": 14341,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/346/011_10 - رحلة الخلود ｜ العلامة البوطي ｜ الشفاعة و الحوض.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/346/011_10 - رحلة الخلود ｜ العلامة البوطي ｜ الشفاعة و الحوض.txt",
-   "sha256": "810702021e72a959c26352db3e535a8ca5826f47389f31cb459ae660461ef839",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:SLtMrUSYFg4",
+  "vid": "SLtMrUSYFg4",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--346",
+  "n": 11,
+  "n_src": "plpos",
+  "title": "10 - رحلة الخلود | العلامة البوطي | الشفاعة و الحوض",
+  "title_src": "yt_titles",
+  "sha256": "810702021e72a959c26352db3e535a8ca5826f47389f31cb459ae660461ef839",
+  "nh": "0550f1fe10f4a00667606e9393b6b6476af03581348db328838fe71c04e39e77",
+  "chars": 14341,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/346/011_10 - رحلة الخلود ｜ العلامة البوطي ｜ الشفاعة و الحوض.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/ri7latEl5oloud-011/transcript.txt",
-   "sha256": "052753c86a766c43b2c91dc0e8c73822c2e9c009f779f7b9080b5be9aa65660c",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-rihla/11.txt",
-   "sha256": "052753c86a766c43b2c91dc0e8c73822c2e9c009f779f7b9080b5be9aa65660c",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/346/10.txt",
-   "sha256": "810702021e72a959c26352db3e535a8ca5826f47389f31cb459ae660461ef839",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/346/011_10 - رحلة الخلود ｜ العلامة البوطي ｜ الشفاعة و الحوض.txt",
+      "sha256": "810702021e72a959c26352db3e535a8ca5826f47389f31cb459ae660461ef839",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/ri7latEl5oloud-011/transcript.txt",
+      "sha256": "052753c86a766c43b2c91dc0e8c73822c2e9c009f779f7b9080b5be9aa65660c",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-rihla/11.txt",
+      "sha256": "052753c86a766c43b2c91dc0e8c73822c2e9c009f779f7b9080b5be9aa65660c",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/346/10.txt",
+      "sha256": "810702021e72a959c26352db3e535a8ca5826f47389f31cb459ae660461ef839",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9996,
+    "spoken_align_pct": 99.96,
+    "audio_span_pct": 99.44,
+    "words": 2666,
+    "aligned": 2665,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 08:32"
   }
- ],
- "variants": [],
- "also_in": []
 }

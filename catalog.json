@@ -1,7 +1,7 @@
 {
   "sheikhs": [
     {
-      "aligned": 205,
+      "aligned": 219,
       "chars": 20562740,
       "lessons": 1165,
       "name": "محمد سعيد رمضان البوطي",
@@ -304,14 +304,14 @@
           "transcribed": 11
         },
         {
-          "aligned": 6,
-          "aligned_pct": "27.3%",
+          "aligned": 20,
+          "aligned_pct": "90.9%",
           "category": "العقيدة والفكر الإسلامي",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 22,
           "dir": "s025/",
-          "dur": 37151,
+          "dur": 37145,
           "key": "s025",
           "series_id": "bouti__s025",
           "title": "برنامج رحلة الخلود (الموت والدار الآخرة)",
@@ -1591,7 +1591,7 @@
       "slug": "adham-alasimi"
     },
     {
-      "aligned": 211,
+      "aligned": 212,
       "chars": 18509654,
       "lessons": 483,
       "name": "أحمد السيد",
@@ -1684,14 +1684,14 @@
           "transcribed": 24
         },
         {
-          "aligned": 19,
-          "aligned_pct": "95.0%",
+          "aligned": 20,
+          "aligned_pct": "100.0%",
           "category": "تفسير وتدبر",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 20,
           "dir": "s024/",
-          "dur": 48784,
+          "dur": 48785,
           "key": "s024",
           "series_id": "sayed__s024",
           "title": "معالجة القرآن لنفوس المصلحين",
@@ -5706,7 +5706,7 @@
     }
   ],
   "totals": {
-    "aligned": 2131,
+    "aligned": 2146,
     "chars": 156202473,
     "lessons": 6589,
     "series": 386,

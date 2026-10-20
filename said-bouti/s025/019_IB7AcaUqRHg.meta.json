@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:IB7AcaUqRHg",
- "vid": "IB7AcaUqRHg",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--346",
- "n": 20,
- "n_src": "plpos",
- "title": "19 - رحلة الخلود | العلامة البوطي | الجنة ونعيمها",
- "title_src": "yt_titles",
- "sha256": "c43625966fed0d5074ac60b0c1bea89f0048980682a49d91060c175e5a14fce0",
- "nh": "eeca3d80dd69f0e034d0ee925cb806fea4eec2b9abdc0cfdb4f4fd6caa34c9f4",
- "chars": 12092,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/346/020_19 - رحلة الخلود ｜ العلامة البوطي ｜ الجنة ونعيمها.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/346/020_19 - رحلة الخلود ｜ العلامة البوطي ｜ الجنة ونعيمها.txt",
-   "sha256": "c43625966fed0d5074ac60b0c1bea89f0048980682a49d91060c175e5a14fce0",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:IB7AcaUqRHg",
+  "vid": "IB7AcaUqRHg",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--346",
+  "n": 20,
+  "n_src": "plpos",
+  "title": "19 - رحلة الخلود | العلامة البوطي | الجنة ونعيمها",
+  "title_src": "yt_titles",
+  "sha256": "c43625966fed0d5074ac60b0c1bea89f0048980682a49d91060c175e5a14fce0",
+  "nh": "eeca3d80dd69f0e034d0ee925cb806fea4eec2b9abdc0cfdb4f4fd6caa34c9f4",
+  "chars": 12092,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/346/020_19 - رحلة الخلود ｜ العلامة البوطي ｜ الجنة ونعيمها.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/ri7latEl5oloud-020/transcript.txt",
-   "sha256": "57d9fcddd2ba0cebdb34f2016bc095825ff2eb45b28705968c78cd33806e0145",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-rihla/20.txt",
-   "sha256": "57d9fcddd2ba0cebdb34f2016bc095825ff2eb45b28705968c78cd33806e0145",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/346/19.txt",
-   "sha256": "c43625966fed0d5074ac60b0c1bea89f0048980682a49d91060c175e5a14fce0",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/346/020_19 - رحلة الخلود ｜ العلامة البوطي ｜ الجنة ونعيمها.txt",
+      "sha256": "c43625966fed0d5074ac60b0c1bea89f0048980682a49d91060c175e5a14fce0",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/ri7latEl5oloud-020/transcript.txt",
+      "sha256": "57d9fcddd2ba0cebdb34f2016bc095825ff2eb45b28705968c78cd33806e0145",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-rihla/20.txt",
+      "sha256": "57d9fcddd2ba0cebdb34f2016bc095825ff2eb45b28705968c78cd33806e0145",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/346/19.txt",
+      "sha256": "c43625966fed0d5074ac60b0c1bea89f0048980682a49d91060c175e5a14fce0",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.28,
+    "words": 2177,
+    "aligned": 2177,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 08:39"
   }
- ],
- "variants": [],
- "also_in": []
 }

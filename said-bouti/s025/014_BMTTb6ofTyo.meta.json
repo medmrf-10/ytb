@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:BMTTb6ofTyo",
- "vid": "BMTTb6ofTyo",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--346",
- "n": 15,
- "n_src": "plpos",
- "title": "14 - رحلة الخلود | العلامة البوطي | النار",
- "title_src": "yt_titles",
- "sha256": "12682936ba49d1de3cc2b1dcbad60feea8b6de42ba66f1b4dcaabb8b09b695a6",
- "nh": "ff7f8c0c548d87fdfe80826fb6dde04412f7b69203f163903dd7a4c6b74129e1",
- "chars": 13257,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/346/015_14 - رحلة الخلود ｜ العلامة البوطي ｜ النار.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/346/015_14 - رحلة الخلود ｜ العلامة البوطي ｜ النار.txt",
-   "sha256": "12682936ba49d1de3cc2b1dcbad60feea8b6de42ba66f1b4dcaabb8b09b695a6",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:BMTTb6ofTyo",
+  "vid": "BMTTb6ofTyo",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--346",
+  "n": 15,
+  "n_src": "plpos",
+  "title": "14 - رحلة الخلود | العلامة البوطي | النار",
+  "title_src": "yt_titles",
+  "sha256": "12682936ba49d1de3cc2b1dcbad60feea8b6de42ba66f1b4dcaabb8b09b695a6",
+  "nh": "ff7f8c0c548d87fdfe80826fb6dde04412f7b69203f163903dd7a4c6b74129e1",
+  "chars": 13257,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/346/015_14 - رحلة الخلود ｜ العلامة البوطي ｜ النار.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/ri7latEl5oloud-015/transcript.txt",
-   "sha256": "35f48c68a5db4b19e462f47da2ba3e729bef737dc012335ed5e7a4208d596671",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-rihla/15.txt",
-   "sha256": "35f48c68a5db4b19e462f47da2ba3e729bef737dc012335ed5e7a4208d596671",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/346/14.txt",
-   "sha256": "12682936ba49d1de3cc2b1dcbad60feea8b6de42ba66f1b4dcaabb8b09b695a6",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/346/015_14 - رحلة الخلود ｜ العلامة البوطي ｜ النار.txt",
+      "sha256": "12682936ba49d1de3cc2b1dcbad60feea8b6de42ba66f1b4dcaabb8b09b695a6",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/ri7latEl5oloud-015/transcript.txt",
+      "sha256": "35f48c68a5db4b19e462f47da2ba3e729bef737dc012335ed5e7a4208d596671",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-rihla/15.txt",
+      "sha256": "35f48c68a5db4b19e462f47da2ba3e729bef737dc012335ed5e7a4208d596671",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/346/14.txt",
+      "sha256": "12682936ba49d1de3cc2b1dcbad60feea8b6de42ba66f1b4dcaabb8b09b695a6",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9962,
+    "spoken_align_pct": 99.62,
+    "audio_span_pct": 99.36,
+    "words": 2342,
+    "aligned": 2333,
+    "interpolated": 9,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 08:35"
   }
- ],
- "variants": [],
- "also_in": []
 }
