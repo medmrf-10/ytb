@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:IxfEd1Fa9Xw",
- "vid": "IxfEd1Fa9Xw",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--628",
- "n": 31,
- "n_src": "mutfile",
- "title": "السيرة النبوية للمصلحين 31 ｜ فتح مكة ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "c566dcfadb205043afbcc4367dfbaf3593c040c3b098e86e65d8cd73e9e7302b",
- "nh": "13ad1c93c581fae8c2149a53adc5af240de0c1e581594eac9c865dc6d6714391",
- "chars": 34003,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/628/031_السيرة النبوية للمصلحين 31 ｜ فتح مكة ｜ أحمد السيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/628/031_السيرة النبوية للمصلحين 31 ｜ فتح مكة ｜ أحمد السيد.txt",
-   "sha256": "c566dcfadb205043afbcc4367dfbaf3593c040c3b098e86e65d8cd73e9e7302b",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:IxfEd1Fa9Xw",
+  "vid": "IxfEd1Fa9Xw",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--628",
+  "n": 31,
+  "n_src": "mutfile",
+  "title": "السيرة النبوية للمصلحين 31 ｜ فتح مكة ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "c566dcfadb205043afbcc4367dfbaf3593c040c3b098e86e65d8cd73e9e7302b",
+  "nh": "13ad1c93c581fae8c2149a53adc5af240de0c1e581594eac9c865dc6d6714391",
+  "chars": 34003,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/628/031_السيرة النبوية للمصلحين 31 ｜ فتح مكة ｜ أحمد السيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/elsiraLilmosli7in-031/transcript.txt",
-   "sha256": "0b61f20e62077766e4febb143563d7a204d462440db2e285ffb55de887684750",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-628/031.txt",
-   "sha256": "0b61f20e62077766e4febb143563d7a204d462440db2e285ffb55de887684750",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/628/031_السيرة النبوية للمصلحين 31 ｜ فتح مكة ｜ أحمد السيد.txt",
+      "sha256": "c566dcfadb205043afbcc4367dfbaf3593c040c3b098e86e65d8cd73e9e7302b",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/elsiraLilmosli7in-031/transcript.txt",
+      "sha256": "0b61f20e62077766e4febb143563d7a204d462440db2e285ffb55de887684750",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-628/031.txt",
+      "sha256": "0b61f20e62077766e4febb143563d7a204d462440db2e285ffb55de887684750",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9977,
+    "spoken_align_pct": 99.77,
+    "audio_span_pct": 99.7,
+    "words": 6484,
+    "aligned": 6469,
+    "interpolated": 15,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 20:13"
   }
- ],
- "variants": [],
- "also_in": []
 }

@@ -1827,7 +1827,7 @@
       "slug": "habib-omar-ibn-hafiz"
     },
     {
-      "aligned": 328,
+      "aligned": 332,
       "chars": 18505194,
       "lessons": 483,
       "name": "أحمد السيد",
@@ -2046,14 +2046,14 @@
           "transcribed": 27
         },
         {
-          "aligned": 26,
-          "aligned_pct": "81.2%",
+          "aligned": 30,
+          "aligned_pct": "93.8%",
           "category": "سلسلة علمية",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 32,
           "dir": "s036/",
-          "dur": 92299,
+          "dur": 92297,
           "key": "s036",
           "series_id": "sayed__s036",
           "title": "السيرة النبوية للمصلحين",
@@ -3986,8 +3986,8 @@
     },
     {
       "aligned": 106,
-      "chars": 4997290,
-      "lessons": 257,
+      "chars": 5065287,
+      "lessons": 262,
       "name": "مولود السريري",
       "path": "mouloud-sariri/",
       "photo": "_meta/img/mouloud-sariri.jpg",
@@ -4221,15 +4221,15 @@
           "aligned": 0,
           "aligned_pct": "0.0%",
           "category": "الخطب والوعظ",
-          "coverage": 0.64,
-          "coverage_pct": "64.0%",
+          "coverage": 0.665,
+          "coverage_pct": "66.5%",
           "declared_total": 200,
           "dir": "s043/",
-          "dur": 198162,
+          "dur": 206588,
           "key": "s043",
           "series_id": "sariri__s043",
           "title": "خطب منبرية وخطب الجمعة",
-          "transcribed": 128
+          "transcribed": 133
         }
       ],
       "slug": "mouloud-sariri"
@@ -5720,9 +5720,9 @@
     }
   ],
   "totals": {
-    "aligned": 2911,
-    "chars": 157796763,
-    "lessons": 6704,
+    "aligned": 2915,
+    "chars": 157864760,
+    "lessons": 6709,
     "series": 387,
     "sheikhs": 25
   },

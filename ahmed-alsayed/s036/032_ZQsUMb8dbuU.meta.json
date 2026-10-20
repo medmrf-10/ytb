@@ -1,43 +1,59 @@
 {
- "v": 1,
- "lid": "yt:ZQsUMb8dbuU",
- "vid": "ZQsUMb8dbuU",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--628",
- "n": 32,
- "n_src": "mutfile",
- "title": "السيرة النبوية للمصلحين 32 ｜ المجلس الأخير ｜ غزوة حنين وتبوك وحجة الوداع ｜ أحمد",
- "title_src": "filename",
- "sha256": "156b718701f2f73c7fe204be54767dc5d3f7b0681225204dc8ea9b892327bc15",
- "nh": "516e2a07546f675fd0687aedff7d5efe27061a77060af9660181ae37f2e05a0b",
- "chars": 65231,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/628/032_السيرة النبوية للمصلحين 32 ｜ المجلس الأخير ｜ غزوة حنين وتبوك وحجة الوداع ｜ أحمد .txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/628/032_السيرة النبوية للمصلحين 32 ｜ المجلس الأخير ｜ غزوة حنين وتبوك وحجة الوداع ｜ أحمد .txt",
-   "sha256": "156b718701f2f73c7fe204be54767dc5d3f7b0681225204dc8ea9b892327bc15",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:ZQsUMb8dbuU",
+  "vid": "ZQsUMb8dbuU",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--628",
+  "n": 32,
+  "n_src": "mutfile",
+  "title": "السيرة النبوية للمصلحين 32 ｜ المجلس الأخير ｜ غزوة حنين وتبوك وحجة الوداع ｜ أحمد",
+  "title_src": "filename",
+  "sha256": "156b718701f2f73c7fe204be54767dc5d3f7b0681225204dc8ea9b892327bc15",
+  "nh": "516e2a07546f675fd0687aedff7d5efe27061a77060af9660181ae37f2e05a0b",
+  "chars": 65231,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/628/032_السيرة النبوية للمصلحين 32 ｜ المجلس الأخير ｜ غزوة حنين وتبوك وحجة الوداع ｜ أحمد .txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/elsiraLilmosli7in-032/transcript.txt",
-   "sha256": "b7dee07ff84a49d8da9ee190af93526e97b301cb7bb7348131fa0f3ef9fce849",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-628/032.txt",
-   "sha256": "b7dee07ff84a49d8da9ee190af93526e97b301cb7bb7348131fa0f3ef9fce849",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/628/032_السيرة النبوية للمصلحين 32 ｜ المجلس الأخير ｜ غزوة حنين وتبوك وحجة الوداع ｜ أحمد .txt",
+      "sha256": "156b718701f2f73c7fe204be54767dc5d3f7b0681225204dc8ea9b892327bc15",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/elsiraLilmosli7in-032/transcript.txt",
+      "sha256": "b7dee07ff84a49d8da9ee190af93526e97b301cb7bb7348131fa0f3ef9fce849",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-628/032.txt",
+      "sha256": "b7dee07ff84a49d8da9ee190af93526e97b301cb7bb7348131fa0f3ef9fce849",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9967,
+    "spoken_align_pct": 99.67,
+    "audio_span_pct": 99.85,
+    "words": 12249,
+    "aligned": 12208,
+    "interpolated": 41,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 20:15",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

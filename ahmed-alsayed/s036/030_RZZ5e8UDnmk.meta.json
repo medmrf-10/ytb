@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:RZZ5e8UDnmk",
- "vid": "RZZ5e8UDnmk",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--628",
- "n": 30,
- "n_src": "mutfile",
- "title": "السيرة النبوية للمصلحين 30 ｜ عمرة القضاء ومعركة مؤتة ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "d1025f7dea0e5a5df5633861331892fa40a30ef26a1d647e7294628fd7d6d682",
- "nh": "baccf486869f222aedd2c91800767400ded93a11e6aaef5443ba2fcc7e60bc98",
- "chars": 33413,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/628/030_السيرة النبوية للمصلحين 30 ｜ عمرة القضاء ومعركة مؤتة ｜ أحمد السيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/628/030_السيرة النبوية للمصلحين 30 ｜ عمرة القضاء ومعركة مؤتة ｜ أحمد السيد.txt",
-   "sha256": "d1025f7dea0e5a5df5633861331892fa40a30ef26a1d647e7294628fd7d6d682",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:RZZ5e8UDnmk",
+  "vid": "RZZ5e8UDnmk",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--628",
+  "n": 30,
+  "n_src": "mutfile",
+  "title": "السيرة النبوية للمصلحين 30 ｜ عمرة القضاء ومعركة مؤتة ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "d1025f7dea0e5a5df5633861331892fa40a30ef26a1d647e7294628fd7d6d682",
+  "nh": "baccf486869f222aedd2c91800767400ded93a11e6aaef5443ba2fcc7e60bc98",
+  "chars": 33413,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/628/030_السيرة النبوية للمصلحين 30 ｜ عمرة القضاء ومعركة مؤتة ｜ أحمد السيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/elsiraLilmosli7in-030/transcript.txt",
-   "sha256": "4619eafa2422f39bc3fd407f340c22e9106e85089a1b078246615cac46c830b3",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-628/030.txt",
-   "sha256": "4619eafa2422f39bc3fd407f340c22e9106e85089a1b078246615cac46c830b3",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/628/030_السيرة النبوية للمصلحين 30 ｜ عمرة القضاء ومعركة مؤتة ｜ أحمد السيد.txt",
+      "sha256": "d1025f7dea0e5a5df5633861331892fa40a30ef26a1d647e7294628fd7d6d682",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/elsiraLilmosli7in-030/transcript.txt",
+      "sha256": "4619eafa2422f39bc3fd407f340c22e9106e85089a1b078246615cac46c830b3",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-628/030.txt",
+      "sha256": "4619eafa2422f39bc3fd407f340c22e9106e85089a1b078246615cac46c830b3",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9955,
+    "spoken_align_pct": 99.55,
+    "audio_span_pct": 99.65,
+    "words": 6447,
+    "aligned": 6418,
+    "interpolated": 29,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 20:11"
   }
- ],
- "variants": [],
- "also_in": []
 }
