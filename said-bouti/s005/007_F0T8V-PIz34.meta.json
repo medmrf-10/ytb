@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:F0T8V-PIz34",
- "vid": "F0T8V-PIz34",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--345",
- "n": 7,
- "n_src": "plpos",
- "title": "7- مشاهد وعبر من القرآن والسنة | والذين آمنوا أشد حباً لله",
- "title_src": "yt_titles",
- "sha256": "9d42c2cdb67a6908b4c257308c9f298b6bb00b8b62cfa4e75f2f1eb5a30ebf2e",
- "nh": "f677771cd0ed8441db5de5c2740cb4e0a6714192f74c8ef64806c16679576981",
- "chars": 12418,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/345/007_7- مشاهد وعبر من القرآن والسنة ｜ والذين آمنوا أشد حباً لله.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/345/007_7- مشاهد وعبر من القرآن والسنة ｜ والذين آمنوا أشد حباً لله.txt",
-   "sha256": "9d42c2cdb67a6908b4c257308c9f298b6bb00b8b62cfa4e75f2f1eb5a30ebf2e",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:F0T8V-PIz34",
+  "vid": "F0T8V-PIz34",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--345",
+  "n": 7,
+  "n_src": "plpos",
+  "title": "7- مشاهد وعبر من القرآن والسنة | والذين آمنوا أشد حباً لله",
+  "title_src": "yt_titles",
+  "sha256": "9d42c2cdb67a6908b4c257308c9f298b6bb00b8b62cfa4e75f2f1eb5a30ebf2e",
+  "nh": "f677771cd0ed8441db5de5c2740cb4e0a6714192f74c8ef64806c16679576981",
+  "chars": 12418,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/345/007_7- مشاهد وعبر من القرآن والسنة ｜ والذين آمنوا أشد حباً لله.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-mashahid/07.txt",
-   "sha256": "131a9c5f14be58bee7735e9e545d4705d470f24f250f2a2acdb362a7e4c3546c",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/345/6.txt",
-   "sha256": "9d42c2cdb67a6908b4c257308c9f298b6bb00b8b62cfa4e75f2f1eb5a30ebf2e",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/345/007_7- مشاهد وعبر من القرآن والسنة ｜ والذين آمنوا أشد حباً لله.txt",
+      "sha256": "9d42c2cdb67a6908b4c257308c9f298b6bb00b8b62cfa4e75f2f1eb5a30ebf2e",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-mashahid/07.txt",
+      "sha256": "131a9c5f14be58bee7735e9e545d4705d470f24f250f2a2acdb362a7e4c3546c",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/345/6.txt",
+      "sha256": "9d42c2cdb67a6908b4c257308c9f298b6bb00b8b62cfa4e75f2f1eb5a30ebf2e",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9996,
+    "spoken_align_pct": 99.96,
+    "audio_span_pct": 99.86,
+    "words": 2240,
+    "aligned": 2239,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 18:07"
   }
- ],
- "variants": [],
- "also_in": []
 }

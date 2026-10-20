@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:HAZ1rCIUArA",
- "vid": "HAZ1rCIUArA",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--345",
- "n": 5,
- "n_src": "plpos",
- "title": "5- مشاهد وعبر من القرآن والسنة | قصة عتبة بن ربيعة وحواره مع رسول الله",
- "title_src": "yt_titles",
- "sha256": "ea4b53db3bfe4fbbe1ec25b7e407a35a78956650a4786e0d24d2173a1cb3bc9c",
- "nh": "ae19275b2ea8d1bfde388866ac1d8cbfb2165cc1773b8b08a0b76af9f828ab55",
- "chars": 13910,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/345/005_5- مشاهد وعبر من القرآن والسنة ｜ قصة عتبة بن ربيعة وحواره مع رسول الله.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/345/005_5- مشاهد وعبر من القرآن والسنة ｜ قصة عتبة بن ربيعة وحواره مع رسول الله.txt",
-   "sha256": "ea4b53db3bfe4fbbe1ec25b7e407a35a78956650a4786e0d24d2173a1cb3bc9c",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:HAZ1rCIUArA",
+  "vid": "HAZ1rCIUArA",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--345",
+  "n": 5,
+  "n_src": "plpos",
+  "title": "5- مشاهد وعبر من القرآن والسنة | قصة عتبة بن ربيعة وحواره مع رسول الله",
+  "title_src": "yt_titles",
+  "sha256": "ea4b53db3bfe4fbbe1ec25b7e407a35a78956650a4786e0d24d2173a1cb3bc9c",
+  "nh": "ae19275b2ea8d1bfde388866ac1d8cbfb2165cc1773b8b08a0b76af9f828ab55",
+  "chars": 13910,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/345/005_5- مشاهد وعبر من القرآن والسنة ｜ قصة عتبة بن ربيعة وحواره مع رسول الله.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-mashahid/05.txt",
-   "sha256": "b2fe574f6241b71dd23b344684ad788baab618acaeaa34e4f0afe1637409129c",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/345/4.txt",
-   "sha256": "ea4b53db3bfe4fbbe1ec25b7e407a35a78956650a4786e0d24d2173a1cb3bc9c",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/345/005_5- مشاهد وعبر من القرآن والسنة ｜ قصة عتبة بن ربيعة وحواره مع رسول الله.txt",
+      "sha256": "ea4b53db3bfe4fbbe1ec25b7e407a35a78956650a4786e0d24d2173a1cb3bc9c",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-mashahid/05.txt",
+      "sha256": "b2fe574f6241b71dd23b344684ad788baab618acaeaa34e4f0afe1637409129c",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/345/4.txt",
+      "sha256": "ea4b53db3bfe4fbbe1ec25b7e407a35a78956650a4786e0d24d2173a1cb3bc9c",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9814,
+    "spoken_align_pct": 98.14,
+    "audio_span_pct": 97.22,
+    "words": 2584,
+    "aligned": 2536,
+    "interpolated": 48,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 18:07"
   }
- ],
- "variants": [],
- "also_in": []
 }

@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:ic1XsUaShjg",
- "vid": "ic1XsUaShjg",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--345",
- "n": 2,
- "n_src": "plpos",
- "title": "2- مشاهد وعبر من القرآن والسنة | فسوف يأتي الله بقوم يحبهم ويحبونه",
- "title_src": "yt_titles",
- "sha256": "16d6f55498765259d6ad67572383605c5e2db436666dda5d3a2430a26091eb27",
- "nh": "9daba7016b8518abd7fd99cd1b6a0811c8b5772c71fb5c49bd56b50af047d1eb",
- "chars": 12428,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/345/002_2- مشاهد وعبر من القرآن والسنة ｜ فسوف يأتي الله بقوم يحبهم ويحبونه.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/345/002_2- مشاهد وعبر من القرآن والسنة ｜ فسوف يأتي الله بقوم يحبهم ويحبونه.txt",
-   "sha256": "16d6f55498765259d6ad67572383605c5e2db436666dda5d3a2430a26091eb27",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:ic1XsUaShjg",
+  "vid": "ic1XsUaShjg",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--345",
+  "n": 2,
+  "n_src": "plpos",
+  "title": "2- مشاهد وعبر من القرآن والسنة | فسوف يأتي الله بقوم يحبهم ويحبونه",
+  "title_src": "yt_titles",
+  "sha256": "16d6f55498765259d6ad67572383605c5e2db436666dda5d3a2430a26091eb27",
+  "nh": "9daba7016b8518abd7fd99cd1b6a0811c8b5772c71fb5c49bd56b50af047d1eb",
+  "chars": 12428,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/345/002_2- مشاهد وعبر من القرآن والسنة ｜ فسوف يأتي الله بقوم يحبهم ويحبونه.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-mashahid/02.txt",
-   "sha256": "755be2ce2bfed4a4fbc0749158037cb522a579c3942b25c6fba89360807f69ad",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/345/1.txt",
-   "sha256": "16d6f55498765259d6ad67572383605c5e2db436666dda5d3a2430a26091eb27",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/345/002_2- مشاهد وعبر من القرآن والسنة ｜ فسوف يأتي الله بقوم يحبهم ويحبونه.txt",
+      "sha256": "16d6f55498765259d6ad67572383605c5e2db436666dda5d3a2430a26091eb27",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-mashahid/02.txt",
+      "sha256": "755be2ce2bfed4a4fbc0749158037cb522a579c3942b25c6fba89360807f69ad",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/345/1.txt",
+      "sha256": "16d6f55498765259d6ad67572383605c5e2db436666dda5d3a2430a26091eb27",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.83,
+    "words": 2217,
+    "aligned": 2217,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 18:05"
   }
- ],
- "variants": [],
- "also_in": []
 }

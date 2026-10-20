@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:Vb_mhU-ipoM",
- "vid": "Vb_mhU-ipoM",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--345",
- "n": 9,
- "n_src": "plpos",
- "title": "9- مشاهد وعبر من القرآن والسنة | وإذا قيل لهم اتبعوا ما أنزل الله قالو بل نتبع ما ألفينا عليه أبائنا",
- "title_src": "yt_titles",
- "sha256": "3d500ff860fd9a3674fa49e80d8bcb3a98e0df6e5be7b9ae15277abf4ea9263b",
- "nh": "e162d83c1e656a0244306814ed8ead52085807c1122a60f7cc5138a59e284dc3",
- "chars": 13403,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/345/009_9- مشاهد وعبر من القرآن والسنة ｜ وإذا قيل لهم اتبعوا ما أنزل الله قالو بل نتبع م.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/345/009_9- مشاهد وعبر من القرآن والسنة ｜ وإذا قيل لهم اتبعوا ما أنزل الله قالو بل نتبع م.txt",
-   "sha256": "3d500ff860fd9a3674fa49e80d8bcb3a98e0df6e5be7b9ae15277abf4ea9263b",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:Vb_mhU-ipoM",
+  "vid": "Vb_mhU-ipoM",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--345",
+  "n": 9,
+  "n_src": "plpos",
+  "title": "9- مشاهد وعبر من القرآن والسنة | وإذا قيل لهم اتبعوا ما أنزل الله قالو بل نتبع ما ألفينا عليه أبائنا",
+  "title_src": "yt_titles",
+  "sha256": "3d500ff860fd9a3674fa49e80d8bcb3a98e0df6e5be7b9ae15277abf4ea9263b",
+  "nh": "e162d83c1e656a0244306814ed8ead52085807c1122a60f7cc5138a59e284dc3",
+  "chars": 13403,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/345/009_9- مشاهد وعبر من القرآن والسنة ｜ وإذا قيل لهم اتبعوا ما أنزل الله قالو بل نتبع م.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-mashahid/09.txt",
-   "sha256": "733ca09558a35d8abe9be023a90fc9ae8154a1f56593408550e19914e0dd535b",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/345/8.txt",
-   "sha256": "3d500ff860fd9a3674fa49e80d8bcb3a98e0df6e5be7b9ae15277abf4ea9263b",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/345/009_9- مشاهد وعبر من القرآن والسنة ｜ وإذا قيل لهم اتبعوا ما أنزل الله قالو بل نتبع م.txt",
+      "sha256": "3d500ff860fd9a3674fa49e80d8bcb3a98e0df6e5be7b9ae15277abf4ea9263b",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-mashahid/09.txt",
+      "sha256": "733ca09558a35d8abe9be023a90fc9ae8154a1f56593408550e19914e0dd535b",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/345/8.txt",
+      "sha256": "3d500ff860fd9a3674fa49e80d8bcb3a98e0df6e5be7b9ae15277abf4ea9263b",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.89,
+    "words": 2364,
+    "aligned": 2364,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 18:08"
   }
- ],
- "variants": [],
- "also_in": []
 }
