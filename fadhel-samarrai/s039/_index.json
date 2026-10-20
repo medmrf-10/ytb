@@ -1,6 +1,6 @@
 {
-  "aligned": 10,
-  "aligned_ratio": 0.5263,
+  "aligned": 19,
+  "aligned_ratio": 1.0,
   "category": "التفسير والبيان القرآني (حسب السور)",
   "coverage": 1.0,
   "declared_total": 19,
@@ -117,9 +117,9 @@
       "vid": "Ko4Mqq1ppJY"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 35897,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 35847,
       "dur": 3162,
       "file": "011_dEXHG6Fdk7Y.txt",
       "n": 11,
@@ -128,8 +128,8 @@
       "vid": "dEXHG6Fdk7Y"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 43875,
       "dur": 3044,
       "file": "012_NktG8T0tj1c.txt",
@@ -139,9 +139,9 @@
       "vid": "NktG8T0tj1c"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 37530,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 37484,
       "dur": 3223,
       "file": "013_5NTQNe7-iE8.txt",
       "n": 13,
@@ -150,8 +150,8 @@
       "vid": "5NTQNe7-iE8"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 37355,
       "dur": 3322,
       "file": "014_G7kGHSmJyzs.txt",
@@ -161,8 +161,8 @@
       "vid": "G7kGHSmJyzs"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 34792,
       "dur": 3053,
       "file": "015_5iVGV7jepLQ.txt",
@@ -172,9 +172,9 @@
       "vid": "5iVGV7jepLQ"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 37317,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 37298,
       "dur": 3593,
       "file": "016_XT550lI-eAw.txt",
       "n": 16,
@@ -183,9 +183,9 @@
       "vid": "XT550lI-eAw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 32588,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 32569,
       "dur": 2975,
       "file": "017_mB6EYNoFVhc.txt",
       "n": 17,
@@ -194,8 +194,8 @@
       "vid": "mB6EYNoFVhc"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 21366,
       "dur": 1907,
       "file": "018_IZTOntt18_E.txt",
@@ -205,9 +205,9 @@
       "vid": "IZTOntt18_E"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 16465,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 16252,
       "dur": 1527,
       "file": "019_0-I0Hvglum8.txt",
       "n": 19,
