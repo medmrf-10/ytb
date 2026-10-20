@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:ZrXPvE8btzI",
- "vid": "ZrXPvE8btzI",
- "sheikh": "adham-alasimi",
- "row_id": "adham-alasimi--777",
- "n": 14,
- "n_src": "read",
- "title": "درس (13) من شرح كتاب ＂مقاصد الرعاية لحقوق الله عز وجل＂ ⧸الشيخ أدهم العاسمي - رمض",
- "title_src": "filename",
- "sha256": "04462d49baa97c483daf3deb29643bb60b4bd94f738da09aa160da76b33ff45f",
- "nh": "8d824daed33550d2e3b8bac2e2ac25ba55ae2eeba2aac985f72a3aa1f5f15831",
- "chars": 10527,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/777/014_درس (13) من شرح كتاب ＂مقاصد الرعاية لحقوق الله عز وجل＂ ⧸الشيخ أدهم العاسمي - رمض.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/777/014_درس (13) من شرح كتاب ＂مقاصد الرعاية لحقوق الله عز وجل＂ ⧸الشيخ أدهم العاسمي - رمض.txt",
-   "sha256": "04462d49baa97c483daf3deb29643bb60b4bd94f738da09aa160da76b33ff45f",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:ZrXPvE8btzI",
+  "vid": "ZrXPvE8btzI",
+  "sheikh": "adham-alasimi",
+  "row_id": "adham-alasimi--777",
+  "n": 14,
+  "n_src": "read",
+  "title": "درس (13) من شرح كتاب ＂مقاصد الرعاية لحقوق الله عز وجل＂ ⧸الشيخ أدهم العاسمي - رمض",
+  "title_src": "filename",
+  "sha256": "04462d49baa97c483daf3deb29643bb60b4bd94f738da09aa160da76b33ff45f",
+  "nh": "8d824daed33550d2e3b8bac2e2ac25ba55ae2eeba2aac985f72a3aa1f5f15831",
+  "chars": 10527,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/777/014_درس (13) من شرح كتاب ＂مقاصد الرعاية لحقوق الله عز وجل＂ ⧸الشيخ أدهم العاسمي - رمض.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/777/13.txt",
-   "sha256": "04462d49baa97c483daf3deb29643bb60b4bd94f738da09aa160da76b33ff45f",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/777/014_درس (13) من شرح كتاب ＂مقاصد الرعاية لحقوق الله عز وجل＂ ⧸الشيخ أدهم العاسمي - رمض.txt",
+      "sha256": "04462d49baa97c483daf3deb29643bb60b4bd94f738da09aa160da76b33ff45f",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/777/13.txt",
+      "sha256": "04462d49baa97c483daf3deb29643bb60b4bd94f738da09aa160da76b33ff45f",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9995,
+    "spoken_align_pct": 99.95,
+    "audio_span_pct": 98.51,
+    "words": 1967,
+    "aligned": 1964,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 13:00"
   }
- ],
- "variants": [],
- "also_in": []
 }

@@ -1173,7 +1173,7 @@
       "slug": "sharawi"
     },
     {
-      "aligned": 78,
+      "aligned": 90,
       "chars": 9513464,
       "lessons": 546,
       "name": "أدهم العاسمي",
@@ -1462,14 +1462,14 @@
           "transcribed": 17
         },
         {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
+          "aligned": 12,
+          "aligned_pct": "46.2%",
           "category": "شرح علمي",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 26,
           "dir": "s041/",
-          "dur": 29290,
+          "dur": 29282,
           "key": "s041",
           "series_id": "asimi__s041",
           "title": "شرح كتاب مقاصد الرعاية لحقوق الله عز وجل للمحاسبي (رمضان 1447)",
@@ -4221,8 +4221,8 @@
       "slug": "daddo"
     },
     {
-      "aligned": 80,
-      "chars": 6968215,
+      "aligned": 83,
+      "chars": 6968002,
       "lessons": 241,
       "name": "علي محمود العمري",
       "path": "ali-mahmoud-alomari/",
@@ -4244,8 +4244,8 @@
           "transcribed": 46
         },
         {
-          "aligned": 21,
-          "aligned_pct": "87.5%",
+          "aligned": 24,
+          "aligned_pct": "100.0%",
           "category": "العقيدة وعلم الكلام",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
@@ -5706,8 +5706,8 @@
     }
   ],
   "totals": {
-    "aligned": 2348,
-    "chars": 156142209,
+    "aligned": 2363,
+    "chars": 156141996,
     "lessons": 6589,
     "series": 386,
     "sheikhs": 25
