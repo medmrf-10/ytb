@@ -1,46 +1,59 @@
 {
- "v": 1,
- "lid": "yt:eC_2EFV1iyo",
- "vid": "eC_2EFV1iyo",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--992",
- "n": 19,
- "n_src": "read",
- "title": "شرح الرسالة العضدية ｜ الدرس 19 ( قوله ＂ التنبيه الرابع-تتمة- ＂ ) ｜ الشيخ محمد ا",
- "title_src": "filename",
- "sha256": "0c38be65abf2b38ac959ae2af18c2fc21a1ae19a4e7c0583c38be9f8823eeb5e",
- "nh": "10904308c452a21ae0da674e08c02464a3c0c58267d38d4e96f34e1ad7770945",
- "chars": 8613,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/992/019_شرح الرسالة العضدية ｜ الدرس 19 ( قوله ＂ التنبيه الرابع-تتمة- ＂ ) ｜ الشيخ  محمد ا.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/992/019_شرح الرسالة العضدية ｜ الدرس 19 ( قوله ＂ التنبيه الرابع-تتمة- ＂ ) ｜ الشيخ  محمد ا.txt",
-   "sha256": "0c38be65abf2b38ac959ae2af18c2fc21a1ae19a4e7c0583c38be9f8823eeb5e",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:eC_2EFV1iyo",
+  "vid": "eC_2EFV1iyo",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--992",
+  "n": 19,
+  "n_src": "read",
+  "title": "شرح الرسالة العضدية ｜ الدرس 19 ( قوله ＂ التنبيه الرابع-تتمة- ＂ ) ｜ الشيخ محمد ا",
+  "title_src": "filename",
+  "sha256": "0c38be65abf2b38ac959ae2af18c2fc21a1ae19a4e7c0583c38be9f8823eeb5e",
+  "nh": "10904308c452a21ae0da674e08c02464a3c0c58267d38d4e96f34e1ad7770945",
+  "chars": 8613,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/992/019_شرح الرسالة العضدية ｜ الدرس 19 ( قوله ＂ التنبيه الرابع-تتمة- ＂ ) ｜ الشيخ  محمد ا.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/sariri/risala-adudiyya/36.txt",
-   "sha256": "0c38be65abf2b38ac959ae2af18c2fc21a1ae19a4e7c0583c38be9f8823eeb5e",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/36/36.txt",
-   "sha256": "0c38be65abf2b38ac959ae2af18c2fc21a1ae19a4e7c0583c38be9f8823eeb5e",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/992/019_شرح الرسالة العضدية ｜ الدرس 19 ( قوله ＂ التنبيه الرابع-تتمة- ＂ ) ｜ الشيخ  محمد ا.txt",
+      "sha256": "0c38be65abf2b38ac959ae2af18c2fc21a1ae19a4e7c0583c38be9f8823eeb5e",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/sariri/risala-adudiyya/36.txt",
+      "sha256": "0c38be65abf2b38ac959ae2af18c2fc21a1ae19a4e7c0583c38be9f8823eeb5e",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/36/36.txt",
+      "sha256": "0c38be65abf2b38ac959ae2af18c2fc21a1ae19a4e7c0583c38be9f8823eeb5e",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "mouloud-sariri--36",
+    "mouloud-sariri--sariri-risala-adudiyya"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9961,
+    "spoken_align_pct": 99.61,
+    "audio_span_pct": 99.84,
+    "words": 1532,
+    "aligned": 1526,
+    "interpolated": 6,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 10:02"
   }
- ],
- "variants": [],
- "also_in": [
-  "mouloud-sariri--36",
-  "mouloud-sariri--sariri-risala-adudiyya"
- ]
 }

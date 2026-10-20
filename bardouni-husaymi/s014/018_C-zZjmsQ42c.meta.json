@@ -1,46 +1,59 @@
 {
- "v": 1,
- "lid": "yt:C-zZjmsQ42c",
- "vid": "C-zZjmsQ42c",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--992",
- "n": 18,
- "n_src": "read",
- "title": "شرح الرسالة العضدية ｜ الدرس 18 ( قوله ＂ التنبيه الثالت ＂ ) ｜ الشيخ محمد البردون",
- "title_src": "filename",
- "sha256": "23a96242df0c85a0035ba109bf289f1dbf4a72918f6d836b60acccf3b114b8e6",
- "nh": "3245f6079265065aeee9207652438e2559350c34ddaa864b700d98bedcce6d62",
- "chars": 11261,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/992/018_شرح الرسالة العضدية ｜ الدرس 18 ( قوله ＂ التنبيه الثالت ＂ ) ｜ الشيخ  محمد البردون.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/992/018_شرح الرسالة العضدية ｜ الدرس 18 ( قوله ＂ التنبيه الثالت ＂ ) ｜ الشيخ  محمد البردون.txt",
-   "sha256": "23a96242df0c85a0035ba109bf289f1dbf4a72918f6d836b60acccf3b114b8e6",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:C-zZjmsQ42c",
+  "vid": "C-zZjmsQ42c",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--992",
+  "n": 18,
+  "n_src": "read",
+  "title": "شرح الرسالة العضدية ｜ الدرس 18 ( قوله ＂ التنبيه الثالت ＂ ) ｜ الشيخ محمد البردون",
+  "title_src": "filename",
+  "sha256": "23a96242df0c85a0035ba109bf289f1dbf4a72918f6d836b60acccf3b114b8e6",
+  "nh": "3245f6079265065aeee9207652438e2559350c34ddaa864b700d98bedcce6d62",
+  "chars": 11261,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/992/018_شرح الرسالة العضدية ｜ الدرس 18 ( قوله ＂ التنبيه الثالت ＂ ) ｜ الشيخ  محمد البردون.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/sariri/risala-adudiyya/34.txt",
-   "sha256": "23a96242df0c85a0035ba109bf289f1dbf4a72918f6d836b60acccf3b114b8e6",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/36/34.txt",
-   "sha256": "23a96242df0c85a0035ba109bf289f1dbf4a72918f6d836b60acccf3b114b8e6",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/992/018_شرح الرسالة العضدية ｜ الدرس 18 ( قوله ＂ التنبيه الثالت ＂ ) ｜ الشيخ  محمد البردون.txt",
+      "sha256": "23a96242df0c85a0035ba109bf289f1dbf4a72918f6d836b60acccf3b114b8e6",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/sariri/risala-adudiyya/34.txt",
+      "sha256": "23a96242df0c85a0035ba109bf289f1dbf4a72918f6d836b60acccf3b114b8e6",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/36/34.txt",
+      "sha256": "23a96242df0c85a0035ba109bf289f1dbf4a72918f6d836b60acccf3b114b8e6",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "mouloud-sariri--36",
+    "mouloud-sariri--sariri-risala-adudiyya"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.999,
+    "spoken_align_pct": 99.9,
+    "audio_span_pct": 99.84,
+    "words": 2060,
+    "aligned": 2053,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 10:03"
   }
- ],
- "variants": [],
- "also_in": [
-  "mouloud-sariri--36",
-  "mouloud-sariri--sariri-risala-adudiyya"
- ]
 }

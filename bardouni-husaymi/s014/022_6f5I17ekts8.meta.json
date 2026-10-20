@@ -1,46 +1,59 @@
 {
- "v": 1,
- "lid": "yt:6f5I17ekts8",
- "vid": "6f5I17ekts8",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--992",
- "n": 22,
- "n_src": "read",
- "title": "شرح الرسالة العضدية ｜ الدرس 22 ( قوله＂ التنبيه الخامس و السادس و السابع و الثامن",
- "title_src": "filename",
- "sha256": "9a7a01122eda4192416f8da056fe1917ac764e1515bd5a20c65990b8518f09e5",
- "nh": "0cd58f3fc598f3eaf513087b592390e4a300a45df95ce0c9c0c4f2346368b3bd",
- "chars": 13925,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/992/022_شرح الرسالة العضدية ｜ الدرس 22 ( قوله＂ التنبيه الخامس و السادس و السابع و الثامن.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/992/022_شرح الرسالة العضدية ｜ الدرس 22 ( قوله＂ التنبيه الخامس و السادس و السابع و الثامن.txt",
-   "sha256": "9a7a01122eda4192416f8da056fe1917ac764e1515bd5a20c65990b8518f09e5",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:6f5I17ekts8",
+  "vid": "6f5I17ekts8",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--992",
+  "n": 22,
+  "n_src": "read",
+  "title": "شرح الرسالة العضدية ｜ الدرس 22 ( قوله＂ التنبيه الخامس و السادس و السابع و الثامن",
+  "title_src": "filename",
+  "sha256": "9a7a01122eda4192416f8da056fe1917ac764e1515bd5a20c65990b8518f09e5",
+  "nh": "0cd58f3fc598f3eaf513087b592390e4a300a45df95ce0c9c0c4f2346368b3bd",
+  "chars": 13925,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/992/022_شرح الرسالة العضدية ｜ الدرس 22 ( قوله＂ التنبيه الخامس و السادس و السابع و الثامن.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/sariri/risala-adudiyya/42.txt",
-   "sha256": "9a7a01122eda4192416f8da056fe1917ac764e1515bd5a20c65990b8518f09e5",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/36/42.txt",
-   "sha256": "9a7a01122eda4192416f8da056fe1917ac764e1515bd5a20c65990b8518f09e5",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/992/022_شرح الرسالة العضدية ｜ الدرس 22 ( قوله＂ التنبيه الخامس و السادس و السابع و الثامن.txt",
+      "sha256": "9a7a01122eda4192416f8da056fe1917ac764e1515bd5a20c65990b8518f09e5",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/sariri/risala-adudiyya/42.txt",
+      "sha256": "9a7a01122eda4192416f8da056fe1917ac764e1515bd5a20c65990b8518f09e5",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/36/42.txt",
+      "sha256": "9a7a01122eda4192416f8da056fe1917ac764e1515bd5a20c65990b8518f09e5",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "mouloud-sariri--36",
+    "mouloud-sariri--sariri-risala-adudiyya"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.998,
+    "spoken_align_pct": 99.8,
+    "audio_span_pct": 85.41,
+    "words": 2560,
+    "aligned": 2555,
+    "interpolated": 5,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 10:05"
   }
- ],
- "variants": [],
- "also_in": [
-  "mouloud-sariri--36",
-  "mouloud-sariri--sariri-risala-adudiyya"
- ]
 }

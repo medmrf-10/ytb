@@ -1173,8 +1173,8 @@
       "slug": "sharawi"
     },
     {
-      "aligned": 55,
-      "chars": 9514414,
+      "aligned": 60,
+      "chars": 9514160,
       "lessons": 546,
       "name": "أدهم العاسمي",
       "path": "adham-alasimi/",
@@ -1420,14 +1420,14 @@
           "transcribed": 46
         },
         {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
+          "aligned": 5,
+          "aligned_pct": "21.7%",
           "category": "سلسلة علمية",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 23,
           "dir": "s037/",
-          "dur": 47666,
+          "dur": 47668,
           "key": "s037",
           "series_id": "asimi__s037",
           "title": "سيرة سيدنا أبي بكر الصديق رضي الله عنه",
@@ -3527,7 +3527,7 @@
       "slug": "dhaker-alhashimi"
     },
     {
-      "aligned": 110,
+      "aligned": 120,
       "chars": 6211697,
       "lessons": 343,
       "name": "محمد البردوني الحسيمي",
@@ -3662,14 +3662,14 @@
           "transcribed": 11
         },
         {
-          "aligned": 13,
-          "aligned_pct": "56.5%",
+          "aligned": 23,
+          "aligned_pct": "100.0%",
           "category": "البلاغة وعلم الوضع",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 23,
           "dir": "s014/",
-          "dur": 37607,
+          "dur": 37602,
           "key": "s014",
           "series_id": "bardoni__s014",
           "title": "شرح الرسالة العضدية في علم الوضع لعضد الدين الإيجي (كاملاً — الدروس 1 – 23)",
@@ -3971,8 +3971,8 @@
       "slug": "ali-gomaa"
     },
     {
-      "aligned": 155,
-      "chars": 7379885,
+      "aligned": 154,
+      "chars": 7329838,
       "lessons": 244,
       "name": "محمد الحسن الددو",
       "path": "daddo/",
@@ -4050,8 +4050,8 @@
           "transcribed": 4
         },
         {
-          "aligned": 22,
-          "aligned_pct": "100.0%",
+          "aligned": 21,
+          "aligned_pct": "95.5%",
           "category": "برامج وحوارات",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
@@ -5706,8 +5706,8 @@
     }
   ],
   "totals": {
-    "aligned": 2201,
-    "chars": 156198966,
+    "aligned": 2215,
+    "chars": 156148665,
     "lessons": 6589,
     "series": 386,
     "sheikhs": 25
