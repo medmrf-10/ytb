@@ -1,6 +1,6 @@
 {
-  "aligned": 5,
-  "aligned_ratio": 0.1667,
+  "aligned": 12,
+  "aligned_ratio": 0.4,
   "category": "برنامج رمضاني",
   "coverage": 1.0,
   "declared_total": 30,
@@ -62,8 +62,8 @@
       "vid": "QEEYeGvSC-U"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 14115,
       "dur": 1614,
       "file": "006_ARkMQIDEXzI.txt",
@@ -73,8 +73,8 @@
       "vid": "ARkMQIDEXzI"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 12470,
       "dur": 1540,
       "file": "007_oWsknTbCZ3M.txt",
@@ -84,10 +84,10 @@
       "vid": "oWsknTbCZ3M"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 13471,
-      "dur": 1821,
+      "dur": 1820,
       "file": "008_vKKyRfrh848.txt",
       "n": 8,
       "stem": "008_vKKyRfrh848",
@@ -95,8 +95,8 @@
       "vid": "vKKyRfrh848"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 13042,
       "dur": 1635,
       "file": "009_yZAlokn9QRc.txt",
@@ -106,10 +106,10 @@
       "vid": "yZAlokn9QRc"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 10698,
-      "dur": 1523,
+      "dur": 1524,
       "file": "010_RbYYJbpwsfc.txt",
       "n": 10,
       "stem": "010_RbYYJbpwsfc",
@@ -117,8 +117,8 @@
       "vid": "RbYYJbpwsfc"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 9825,
       "dur": 1491,
       "file": "011_Iic-ejuNzok.txt",
@@ -128,10 +128,10 @@
       "vid": "Iic-ejuNzok"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 8485,
-      "dur": 1231,
+      "dur": 1230,
       "file": "012_NvQ1C5RI0RA.txt",
       "n": 12,
       "stem": "012_NvQ1C5RI0RA",
