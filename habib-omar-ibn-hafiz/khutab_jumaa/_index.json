@@ -2,7 +2,7 @@
   "aligned": 0,
   "aligned_ratio": 0.0,
   "category": "الخطب والمحاضرات",
-  "coverage": 0.0267,
+  "coverage": 0.0445,
   "declared_total": 337,
   "key": "khutab_jumaa",
   "lessons": [
@@ -31,6 +31,17 @@
     {
       "align_coverage": null,
       "aligned": false,
+      "chars": 12832,
+      "dur": 1535,
+      "file": "020_rqHOkZa1kDI.txt",
+      "n": 20,
+      "stem": "020_rqHOkZa1kDI",
+      "title": "خطبة جمعة : فقه دروس العبادات",
+      "vid": "rqHOkZa1kDI"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
       "chars": 13965,
       "dur": 1592,
       "file": "037_TbMF0e_IUFA.txt",
@@ -38,6 +49,39 @@
       "stem": "037_TbMF0e_IUFA",
       "title": "خطبة جمعة للعلامة الحبيب عمر بن حفيظ بعنوان: آثار ما يحل في الأذهان من تذكُّر وتصوُّر",
       "vid": "TbMF0e_IUFA"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 13319,
+      "dur": 1582,
+      "file": "117_kB5rwiT9cbo.txt",
+      "n": 117,
+      "stem": "117_kB5rwiT9cbo",
+      "title": "الحبيب عمر بن حفيظ: دقائق التقوى في المقاصد والأعمال والتهيؤ للقبول عند ذي الجلال",
+      "vid": "kB5rwiT9cbo"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 13158,
+      "dur": 1611,
+      "file": "152_2AzkUeSQ6as.txt",
+      "n": 152,
+      "stem": "152_2AzkUeSQ6as",
+      "title": "مقتضى الإيمان بنظر الله إلى القلوب من تَفقدها في صفاتها وصفائها واغتنام الأيام والليالي والأشهر",
+      "vid": "2AzkUeSQ6as"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 13543,
+      "dur": 1602,
+      "file": "180__q79kxdRuyc.txt",
+      "n": 180,
+      "stem": "180__q79kxdRuyc",
+      "title": "الحبيب عمر بن حفيظ: شؤون الوفادة على الرحمن ومعانيها برتبها الحسان",
+      "vid": "_q79kxdRuyc"
     },
     {
       "align_coverage": null,
@@ -60,6 +104,17 @@
       "stem": "210_Krd-BZeyK5A",
       "title": "الحبيب عمر بن حفيظ: اليقين أشرف ما يُنال على الإطلاق وتنميته بالتقوى وعلائق القلوب",
       "vid": "Krd-BZeyK5A"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 13305,
+      "dur": 1591,
+      "file": "227_3Mcff5i5BmI.txt",
+      "n": 227,
+      "stem": "227_3Mcff5i5BmI",
+      "title": "مهمة الأعوام والليالي والأيام للمؤمنين التهيؤ والاستعداد للقاء إلههم ومرافقة نبيهم ورؤية وجهه الأنور",
+      "vid": "3Mcff5i5BmI"
     },
     {
       "align_coverage": null,
@@ -97,6 +152,17 @@
     {
       "align_coverage": null,
       "aligned": false,
+      "chars": 13167,
+      "dur": 1494,
+      "file": "283_Iyo-TOgQAS8.txt",
+      "n": 283,
+      "stem": "283_Iyo-TOgQAS8",
+      "title": "الحبيب عمر بن حفيظ: مكانة المصطفى وميزان الإيمان للمكانة",
+      "vid": "Iyo-TOgQAS8"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
       "chars": 15756,
       "dur": 1763,
       "file": "337_S_1XN2bVyj4.txt",
@@ -110,6 +176,6 @@
   "sheikh": "habib-omar-ibn-hafiz",
   "sheikh_name": "الحبيب عمر بن حفيظ",
   "title": "خطب الجمعة والعيدين والكسوف والخسوف",
-  "transcribed": 9,
+  "transcribed": 15,
   "v": 2
 }

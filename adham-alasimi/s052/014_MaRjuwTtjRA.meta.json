@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:MaRjuwTtjRA",
- "vid": "MaRjuwTtjRA",
- "sheikh": "adham-alasimi",
- "row_id": "adham-alasimi--786",
- "n": 16,
- "n_src": "read",
- "title": "تعظيم النبي ﷺ ومحاسبة المعتدي ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
- "title_src": "filename",
- "sha256": "f429a98973bb35756b5f16b30aeac61f1d4934bc49b8ded7b89754e7825b6290",
- "nh": "31147a381a9363f0baaa3659d483550c597d194ea04249152fe2920a656b1a6a",
- "chars": 9977,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/786/016_تعظيم النبي ﷺ ومحاسبة المعتدي ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/786/016_تعظيم النبي ﷺ ومحاسبة المعتدي ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
-   "sha256": "f429a98973bb35756b5f16b30aeac61f1d4934bc49b8ded7b89754e7825b6290",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:MaRjuwTtjRA",
+  "vid": "MaRjuwTtjRA",
+  "sheikh": "adham-alasimi",
+  "row_id": "adham-alasimi--786",
+  "n": 16,
+  "n_src": "read",
+  "title": "تعظيم النبي ﷺ ومحاسبة المعتدي ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+  "title_src": "filename",
+  "sha256": "f429a98973bb35756b5f16b30aeac61f1d4934bc49b8ded7b89754e7825b6290",
+  "nh": "31147a381a9363f0baaa3659d483550c597d194ea04249152fe2920a656b1a6a",
+  "chars": 9977,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/786/016_تعظيم النبي ﷺ ومحاسبة المعتدي ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/786/15.txt",
-   "sha256": "f429a98973bb35756b5f16b30aeac61f1d4934bc49b8ded7b89754e7825b6290",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/786/016_تعظيم النبي ﷺ ومحاسبة المعتدي ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+      "sha256": "f429a98973bb35756b5f16b30aeac61f1d4934bc49b8ded7b89754e7825b6290",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/786/15.txt",
+      "sha256": "f429a98973bb35756b5f16b30aeac61f1d4934bc49b8ded7b89754e7825b6290",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9995,
+    "spoken_align_pct": 99.95,
+    "audio_span_pct": 99.98,
+    "words": 1863,
+    "aligned": 1862,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 16:34"
   }
- ],
- "variants": [],
- "also_in": []
 }

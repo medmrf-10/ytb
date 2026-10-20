@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:cvwN1MBgaaA",
- "vid": "cvwN1MBgaaA",
- "sheikh": "adham-alasimi",
- "row_id": "adham-alasimi--786",
- "n": 17,
- "n_src": "read",
- "title": "الغفلة، حالاتها وعلائمها وعلاجها ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
- "title_src": "filename",
- "sha256": "ac6cc706217c15cdf70f4ac6e09ce57bff86b79c9c2b292e01ff2443f73d3732",
- "nh": "dcb88c9d5bacb9484f7ffa18994b054071f8a2f505801b52f0137fc60620378c",
- "chars": 9824,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/786/017_الغفلة، حالاتها وعلائمها وعلاجها ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/786/017_الغفلة، حالاتها وعلائمها وعلاجها ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
-   "sha256": "ac6cc706217c15cdf70f4ac6e09ce57bff86b79c9c2b292e01ff2443f73d3732",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:cvwN1MBgaaA",
+  "vid": "cvwN1MBgaaA",
+  "sheikh": "adham-alasimi",
+  "row_id": "adham-alasimi--786",
+  "n": 17,
+  "n_src": "read",
+  "title": "الغفلة، حالاتها وعلائمها وعلاجها ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+  "title_src": "filename",
+  "sha256": "ac6cc706217c15cdf70f4ac6e09ce57bff86b79c9c2b292e01ff2443f73d3732",
+  "nh": "dcb88c9d5bacb9484f7ffa18994b054071f8a2f505801b52f0137fc60620378c",
+  "chars": 9824,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/786/017_الغفلة، حالاتها وعلائمها وعلاجها ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/786/16.txt",
-   "sha256": "ac6cc706217c15cdf70f4ac6e09ce57bff86b79c9c2b292e01ff2443f73d3732",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/786/017_الغفلة، حالاتها وعلائمها وعلاجها ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+      "sha256": "ac6cc706217c15cdf70f4ac6e09ce57bff86b79c9c2b292e01ff2443f73d3732",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/786/16.txt",
+      "sha256": "ac6cc706217c15cdf70f4ac6e09ce57bff86b79c9c2b292e01ff2443f73d3732",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.98,
+    "spoken_align_pct": 98.0,
+    "audio_span_pct": 85.13,
+    "words": 1847,
+    "aligned": 1810,
+    "interpolated": 37,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 16:37"
   }
- ],
- "variants": [],
- "also_in": []
 }

@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:WK4Mm-zMN_g",
- "vid": "WK4Mm-zMN_g",
- "sheikh": "adham-alasimi",
- "row_id": "adham-alasimi--786",
- "n": 21,
- "n_src": "read",
- "title": "من معاني العيد ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
- "title_src": "filename",
- "sha256": "4152e2e68c94eb29b910fd62993f0a13f6939b0a2389d8a11a15a7f1b221667c",
- "nh": "9e2f4abd75eeb58ccce1c2922ae946a3f3e1c12158ffe8a3485ce558de8a8f75",
- "chars": 11708,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/786/021_من معاني العيد ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/786/021_من معاني العيد ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
-   "sha256": "4152e2e68c94eb29b910fd62993f0a13f6939b0a2389d8a11a15a7f1b221667c",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:WK4Mm-zMN_g",
+  "vid": "WK4Mm-zMN_g",
+  "sheikh": "adham-alasimi",
+  "row_id": "adham-alasimi--786",
+  "n": 21,
+  "n_src": "read",
+  "title": "من معاني العيد ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+  "title_src": "filename",
+  "sha256": "4152e2e68c94eb29b910fd62993f0a13f6939b0a2389d8a11a15a7f1b221667c",
+  "nh": "9e2f4abd75eeb58ccce1c2922ae946a3f3e1c12158ffe8a3485ce558de8a8f75",
+  "chars": 11708,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/786/021_من معاني العيد ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/786/20.txt",
-   "sha256": "4152e2e68c94eb29b910fd62993f0a13f6939b0a2389d8a11a15a7f1b221667c",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/786/021_من معاني العيد ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+      "sha256": "4152e2e68c94eb29b910fd62993f0a13f6939b0a2389d8a11a15a7f1b221667c",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/786/20.txt",
+      "sha256": "4152e2e68c94eb29b910fd62993f0a13f6939b0a2389d8a11a15a7f1b221667c",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.96,
+    "words": 2172,
+    "aligned": 2172,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 16:38"
   }
- ],
- "variants": [],
- "also_in": []
 }

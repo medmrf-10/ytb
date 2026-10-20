@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:Gu58Hs540Sc",
- "vid": "Gu58Hs540Sc",
- "sheikh": "adham-alasimi",
- "row_id": "adham-alasimi--786",
- "n": 19,
- "n_src": "read",
- "title": "الشيطان، خطته وأساليبه ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
- "title_src": "filename",
- "sha256": "f497bfa42e9fd3954bba5427e62489b734aba752fc1f0574ae26ffc825ff7c0a",
- "nh": "ef9de5ed4a09f3d083fcd3e89d656d8f3453087d4a8ac14b2bb733d931be351b",
- "chars": 8372,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/786/019_الشيطان، خطته وأساليبه ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/786/019_الشيطان، خطته وأساليبه ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
-   "sha256": "f497bfa42e9fd3954bba5427e62489b734aba752fc1f0574ae26ffc825ff7c0a",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:Gu58Hs540Sc",
+  "vid": "Gu58Hs540Sc",
+  "sheikh": "adham-alasimi",
+  "row_id": "adham-alasimi--786",
+  "n": 19,
+  "n_src": "read",
+  "title": "الشيطان، خطته وأساليبه ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+  "title_src": "filename",
+  "sha256": "f497bfa42e9fd3954bba5427e62489b734aba752fc1f0574ae26ffc825ff7c0a",
+  "nh": "ef9de5ed4a09f3d083fcd3e89d656d8f3453087d4a8ac14b2bb733d931be351b",
+  "chars": 8372,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/786/019_الشيطان، خطته وأساليبه ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/786/18.txt",
-   "sha256": "f497bfa42e9fd3954bba5427e62489b734aba752fc1f0574ae26ffc825ff7c0a",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/786/019_الشيطان، خطته وأساليبه ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+      "sha256": "f497bfa42e9fd3954bba5427e62489b734aba752fc1f0574ae26ffc825ff7c0a",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/786/18.txt",
+      "sha256": "f497bfa42e9fd3954bba5427e62489b734aba752fc1f0574ae26ffc825ff7c0a",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9764,
+    "spoken_align_pct": 97.64,
+    "audio_span_pct": 89.65,
+    "words": 1526,
+    "aligned": 1490,
+    "interpolated": 36,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 16:36"
   }
- ],
- "variants": [],
- "also_in": []
 }
