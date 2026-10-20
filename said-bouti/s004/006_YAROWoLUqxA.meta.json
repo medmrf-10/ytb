@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:YAROWoLUqxA",
- "vid": "YAROWoLUqxA",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--418",
- "n": 6,
- "n_src": "plpos",
- "title": "6- الحب في القرآن | ثمرات حب الإنسان لله عز وجل",
- "title_src": "yt_titles",
- "sha256": "4d461fcd9910d16b6231b56dcfd660243cf80b7c204cd89fad93f656d8f0f5f4",
- "nh": "80d5e509be4ea849dcb8f78587ce0c8349587334451f9b8604c0bf23afc39607",
- "chars": 23860,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/418/006_6- الحب في القرآن ｜ ثمرات حب الإنسان لله عز وجل.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/418/006_6- الحب في القرآن ｜ ثمرات حب الإنسان لله عز وجل.txt",
-   "sha256": "4d461fcd9910d16b6231b56dcfd660243cf80b7c204cd89fad93f656d8f0f5f4",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:YAROWoLUqxA",
+  "vid": "YAROWoLUqxA",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--418",
+  "n": 6,
+  "n_src": "plpos",
+  "title": "6- الحب في القرآن | ثمرات حب الإنسان لله عز وجل",
+  "title_src": "yt_titles",
+  "sha256": "4d461fcd9910d16b6231b56dcfd660243cf80b7c204cd89fad93f656d8f0f5f4",
+  "nh": "80d5e509be4ea849dcb8f78587ce0c8349587334451f9b8604c0bf23afc39607",
+  "chars": 23860,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/418/006_6- الحب في القرآن ｜ ثمرات حب الإنسان لله عز وجل.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/al7obFiEl9or1n-006/transcript.txt",
-   "sha256": "73dd24aa50657b45153c40d7a9939aede661384042409734ca65ccdf0da0f79a",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-hubb/06.txt",
-   "sha256": "73dd24aa50657b45153c40d7a9939aede661384042409734ca65ccdf0da0f79a",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/418/5.txt",
-   "sha256": "4d461fcd9910d16b6231b56dcfd660243cf80b7c204cd89fad93f656d8f0f5f4",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/418/006_6- الحب في القرآن ｜ ثمرات حب الإنسان لله عز وجل.txt",
+      "sha256": "4d461fcd9910d16b6231b56dcfd660243cf80b7c204cd89fad93f656d8f0f5f4",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/al7obFiEl9or1n-006/transcript.txt",
+      "sha256": "73dd24aa50657b45153c40d7a9939aede661384042409734ca65ccdf0da0f79a",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-hubb/06.txt",
+      "sha256": "73dd24aa50657b45153c40d7a9939aede661384042409734ca65ccdf0da0f79a",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/418/5.txt",
+      "sha256": "4d461fcd9910d16b6231b56dcfd660243cf80b7c204cd89fad93f656d8f0f5f4",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9998,
+    "spoken_align_pct": 99.98,
+    "audio_span_pct": 100.0,
+    "words": 4481,
+    "aligned": 4480,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 13:12"
   }
- ],
- "variants": [],
- "also_in": []
 }

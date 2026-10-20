@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:-r54JuivtTc",
- "vid": "-r54JuivtTc",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--418",
- "n": 11,
- "n_src": "plpos",
- "title": "11- الحب في القرآن | حب الإنسان لأخيه الإنسان ثمرة لحب الله (2)",
- "title_src": "yt_titles",
- "sha256": "5ab38a950d9f24c16f985b9b7ab50cdd60738340d6e3d1e4b9aad237759a5665",
- "nh": "a7059d6f9c28249667d2f174d63b238de63b25620fc3d5c17fa651e7943471e2",
- "chars": 20399,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/418/011_11- الحب في القرآن ｜ حب الإنسان لأخيه الإنسان ثمرة لحب الله (2).txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/418/011_11- الحب في القرآن ｜ حب الإنسان لأخيه الإنسان ثمرة لحب الله (2).txt",
-   "sha256": "5ab38a950d9f24c16f985b9b7ab50cdd60738340d6e3d1e4b9aad237759a5665",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:-r54JuivtTc",
+  "vid": "-r54JuivtTc",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--418",
+  "n": 11,
+  "n_src": "plpos",
+  "title": "11- الحب في القرآن | حب الإنسان لأخيه الإنسان ثمرة لحب الله (2)",
+  "title_src": "yt_titles",
+  "sha256": "5ab38a950d9f24c16f985b9b7ab50cdd60738340d6e3d1e4b9aad237759a5665",
+  "nh": "a7059d6f9c28249667d2f174d63b238de63b25620fc3d5c17fa651e7943471e2",
+  "chars": 20399,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/418/011_11- الحب في القرآن ｜ حب الإنسان لأخيه الإنسان ثمرة لحب الله (2).txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/al7obFiEl9or1n-011/transcript.txt",
-   "sha256": "7723df69a22cd8b20b4c234276d252732f5f91d203f2ec42896a3ac0272874da",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-hubb/11.txt",
-   "sha256": "7723df69a22cd8b20b4c234276d252732f5f91d203f2ec42896a3ac0272874da",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/418/011_11- الحب في القرآن ｜ حب الإنسان لأخيه الإنسان ثمرة لحب الله (2).txt",
+      "sha256": "5ab38a950d9f24c16f985b9b7ab50cdd60738340d6e3d1e4b9aad237759a5665",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/al7obFiEl9or1n-011/transcript.txt",
+      "sha256": "7723df69a22cd8b20b4c234276d252732f5f91d203f2ec42896a3ac0272874da",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-hubb/11.txt",
+      "sha256": "7723df69a22cd8b20b4c234276d252732f5f91d203f2ec42896a3ac0272874da",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9997,
+    "spoken_align_pct": 99.97,
+    "audio_span_pct": 99.96,
+    "words": 3666,
+    "aligned": 3663,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 13:16"
   }
- ],
- "variants": [],
- "also_in": []
 }

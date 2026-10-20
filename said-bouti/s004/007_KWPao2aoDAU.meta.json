@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:KWPao2aoDAU",
- "vid": "KWPao2aoDAU",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--418",
- "n": 7,
- "n_src": "plpos",
- "title": "7- الحب في القرآن | هل من مستلزمات المحبة ألا يقع العبد في المعاصي",
- "title_src": "yt_titles",
- "sha256": "4649d80994f42441b3d9eaa504a0aa61653947f85055d725971cb07ae2cd91ba",
- "nh": "89e31e6ad4ed2bb385b8ba773b8497f75b11fffa4edb805cfa6cffa669c25e05",
- "chars": 16898,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/418/007_7- الحب في القرآن ｜ هل من مستلزمات المحبة ألا يقع العبد في المعاصي.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/418/007_7- الحب في القرآن ｜ هل من مستلزمات المحبة ألا يقع العبد في المعاصي.txt",
-   "sha256": "4649d80994f42441b3d9eaa504a0aa61653947f85055d725971cb07ae2cd91ba",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:KWPao2aoDAU",
+  "vid": "KWPao2aoDAU",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--418",
+  "n": 7,
+  "n_src": "plpos",
+  "title": "7- الحب في القرآن | هل من مستلزمات المحبة ألا يقع العبد في المعاصي",
+  "title_src": "yt_titles",
+  "sha256": "4649d80994f42441b3d9eaa504a0aa61653947f85055d725971cb07ae2cd91ba",
+  "nh": "89e31e6ad4ed2bb385b8ba773b8497f75b11fffa4edb805cfa6cffa669c25e05",
+  "chars": 16898,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/418/007_7- الحب في القرآن ｜ هل من مستلزمات المحبة ألا يقع العبد في المعاصي.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/al7obFiEl9or1n-007/transcript.txt",
-   "sha256": "cc66a12caa1efdb10a27b7f86c0404378932d1532ad798b15bf395411fa9b344",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-hubb/07.txt",
-   "sha256": "cc66a12caa1efdb10a27b7f86c0404378932d1532ad798b15bf395411fa9b344",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/418/6.txt",
-   "sha256": "4649d80994f42441b3d9eaa504a0aa61653947f85055d725971cb07ae2cd91ba",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/418/007_7- الحب في القرآن ｜ هل من مستلزمات المحبة ألا يقع العبد في المعاصي.txt",
+      "sha256": "4649d80994f42441b3d9eaa504a0aa61653947f85055d725971cb07ae2cd91ba",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/al7obFiEl9or1n-007/transcript.txt",
+      "sha256": "cc66a12caa1efdb10a27b7f86c0404378932d1532ad798b15bf395411fa9b344",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-hubb/07.txt",
+      "sha256": "cc66a12caa1efdb10a27b7f86c0404378932d1532ad798b15bf395411fa9b344",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/418/6.txt",
+      "sha256": "4649d80994f42441b3d9eaa504a0aa61653947f85055d725971cb07ae2cd91ba",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 100.0,
+    "words": 3216,
+    "aligned": 3212,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 13:13"
   }
- ],
- "variants": [],
- "also_in": []
 }
