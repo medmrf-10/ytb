@@ -1,53 +1,66 @@
 {
- "v": 1,
- "lid": "yt:RvJ4f7hEP4U",
- "vid": "RvJ4f7hEP4U",
- "sheikh": "adham-alasimi",
- "row_id": "adham-alasimi--789",
- "n": 13,
- "n_src": "read",
- "title": "النظام والعمل التطوعي ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
- "title_src": "filename",
- "sha256": "f96d22b51a91b842b4edc9836d81fe489b9cd10bfa9936146677e7a6b4c7b342",
- "nh": "7009eecdb7ee3a45256f0ee0b1d24d8afcfe92bb04f5a6727aaf5a3cb3c8b696",
- "chars": 14061,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/789/013_النظام والعمل التطوعي ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/789/013_النظام والعمل التطوعي ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
-   "sha256": "f96d22b51a91b842b4edc9836d81fe489b9cd10bfa9936146677e7a6b4c7b342",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:RvJ4f7hEP4U",
+  "vid": "RvJ4f7hEP4U",
+  "sheikh": "adham-alasimi",
+  "row_id": "adham-alasimi--789",
+  "n": 13,
+  "n_src": "read",
+  "title": "النظام والعمل التطوعي ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+  "title_src": "filename",
+  "sha256": "f96d22b51a91b842b4edc9836d81fe489b9cd10bfa9936146677e7a6b4c7b342",
+  "nh": "7009eecdb7ee3a45256f0ee0b1d24d8afcfe92bb04f5a6727aaf5a3cb3c8b696",
+  "chars": 14061,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/789/013_النظام والعمل التطوعي ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/786/003_النظام والعمل التطوعي ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
-   "sha256": "225c5e561ac9e066f1b87f35454645ea57f0f8fd26c78e465f1ca177cff332d5",
-   "rel": "variant"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/789/12.txt",
-   "sha256": "f96d22b51a91b842b4edc9836d81fe489b9cd10bfa9936146677e7a6b4c7b342",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/786/2.txt",
-   "sha256": "225c5e561ac9e066f1b87f35454645ea57f0f8fd26c78e465f1ca177cff332d5",
-   "rel": "variant"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/789/013_النظام والعمل التطوعي ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+      "sha256": "f96d22b51a91b842b4edc9836d81fe489b9cd10bfa9936146677e7a6b4c7b342",
+      "rel": "identical"
+    },
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/786/003_النظام والعمل التطوعي ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+      "sha256": "225c5e561ac9e066f1b87f35454645ea57f0f8fd26c78e465f1ca177cff332d5",
+      "rel": "variant"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/789/12.txt",
+      "sha256": "f96d22b51a91b842b4edc9836d81fe489b9cd10bfa9936146677e7a6b4c7b342",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/786/2.txt",
+      "sha256": "225c5e561ac9e066f1b87f35454645ea57f0f8fd26c78e465f1ca177cff332d5",
+      "rel": "variant"
+    }
+  ],
+  "variants": [
+    "_variants/013_RvJ4f7hEP4U.des-mut.txt"
+  ],
+  "also_in": [
+    "adham-alasimi--786"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9992,
+    "spoken_align_pct": 99.92,
+    "audio_span_pct": 99.49,
+    "words": 2558,
+    "aligned": 2547,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 16:28"
   }
- ],
- "variants": [
-  "_variants/013_RvJ4f7hEP4U.des-mut.txt"
- ],
- "also_in": [
-  "adham-alasimi--786"
- ]
 }

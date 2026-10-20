@@ -1,53 +1,66 @@
 {
- "v": 1,
- "lid": "yt:3LQ1ywCHpJQ",
- "vid": "3LQ1ywCHpJQ",
- "sheikh": "adham-alasimi",
- "row_id": "adham-alasimi--786",
- "n": 4,
- "n_src": "read",
- "title": "مقومات بناء الأوطان ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
- "title_src": "filename",
- "sha256": "58af78821a8eed4f7a1fb56f2701a3d098b18d5339e44676e6757e4c7eb3157b",
- "nh": "e4746a4cefc3ca11b1106e28e8c2532ac8d2287e3a89b5a52454a2a53abda2a1",
- "chars": 7496,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/786/004_مقومات بناء الأوطان ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/786/004_مقومات بناء الأوطان ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
-   "sha256": "58af78821a8eed4f7a1fb56f2701a3d098b18d5339e44676e6757e4c7eb3157b",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:3LQ1ywCHpJQ",
+  "vid": "3LQ1ywCHpJQ",
+  "sheikh": "adham-alasimi",
+  "row_id": "adham-alasimi--786",
+  "n": 4,
+  "n_src": "read",
+  "title": "مقومات بناء الأوطان ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+  "title_src": "filename",
+  "sha256": "58af78821a8eed4f7a1fb56f2701a3d098b18d5339e44676e6757e4c7eb3157b",
+  "nh": "e4746a4cefc3ca11b1106e28e8c2532ac8d2287e3a89b5a52454a2a53abda2a1",
+  "chars": 7496,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/786/004_مقومات بناء الأوطان ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/789/014_مقومات بناء الأوطان ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
-   "sha256": "4115e9db47471a1a3f1e860ade560e3a090058dabf415dbb796e6f43c1ad882e",
-   "rel": "variant"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/786/3.txt",
-   "sha256": "58af78821a8eed4f7a1fb56f2701a3d098b18d5339e44676e6757e4c7eb3157b",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/789/13.txt",
-   "sha256": "4115e9db47471a1a3f1e860ade560e3a090058dabf415dbb796e6f43c1ad882e",
-   "rel": "variant"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/786/004_مقومات بناء الأوطان ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+      "sha256": "58af78821a8eed4f7a1fb56f2701a3d098b18d5339e44676e6757e4c7eb3157b",
+      "rel": "identical"
+    },
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/789/014_مقومات بناء الأوطان ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+      "sha256": "4115e9db47471a1a3f1e860ade560e3a090058dabf415dbb796e6f43c1ad882e",
+      "rel": "variant"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/786/3.txt",
+      "sha256": "58af78821a8eed4f7a1fb56f2701a3d098b18d5339e44676e6757e4c7eb3157b",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/789/13.txt",
+      "sha256": "4115e9db47471a1a3f1e860ade560e3a090058dabf415dbb796e6f43c1ad882e",
+      "rel": "variant"
+    }
+  ],
+  "variants": [
+    "_variants/004_3LQ1ywCHpJQ.des-mut.txt"
+  ],
+  "also_in": [
+    "adham-alasimi--789"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 98.56,
+    "words": 1307,
+    "aligned": 1303,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 16:29"
   }
- ],
- "variants": [
-  "_variants/004_3LQ1ywCHpJQ.des-mut.txt"
- ],
- "also_in": [
-  "adham-alasimi--789"
- ]
 }

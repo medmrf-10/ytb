@@ -2,10 +2,21 @@
   "aligned": 0,
   "aligned_ratio": 0.0,
   "category": "الخطب والمحاضرات",
-  "coverage": 0.0237,
+  "coverage": 0.0267,
   "declared_total": 337,
   "key": "khutab_jumaa",
   "lessons": [
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 5457,
+      "dur": 651,
+      "file": "008_94b4dFgWfCY.txt",
+      "n": 8,
+      "stem": "008_94b4dFgWfCY",
+      "title": "خطبة جمعة بعنوان : وعي الخطاب الإلهي وأثره في المسار",
+      "vid": "94b4dFgWfCY"
+    },
     {
       "align_coverage": null,
       "aligned": false,
@@ -99,6 +110,6 @@
   "sheikh": "habib-omar-ibn-hafiz",
   "sheikh_name": "الحبيب عمر بن حفيظ",
   "title": "خطب الجمعة والعيدين والكسوف والخسوف",
-  "transcribed": 8,
+  "transcribed": 9,
   "v": 2
 }

@@ -1,53 +1,66 @@
 {
- "v": 1,
- "lid": "yt:nqwovh99-p4",
- "vid": "nqwovh99-p4",
- "sheikh": "adham-alasimi",
- "row_id": "adham-alasimi--786",
- "n": 2,
- "n_src": "read",
- "title": "الشيخ سارية الرفاعي ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
- "title_src": "filename",
- "sha256": "8d64e2d0207d92f22882b03d9ac0998951d4e0400e8fd55af3010e8e5ccc9fb1",
- "nh": "c718e1c6e23c4034a9af149a7e48a299d8d89041baf8376200c98cd99dfd49f1",
- "chars": 15722,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/786/002_الشيخ سارية الرفاعي ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/786/002_الشيخ سارية الرفاعي ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
-   "sha256": "8d64e2d0207d92f22882b03d9ac0998951d4e0400e8fd55af3010e8e5ccc9fb1",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:nqwovh99-p4",
+  "vid": "nqwovh99-p4",
+  "sheikh": "adham-alasimi",
+  "row_id": "adham-alasimi--786",
+  "n": 2,
+  "n_src": "read",
+  "title": "الشيخ سارية الرفاعي ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+  "title_src": "filename",
+  "sha256": "8d64e2d0207d92f22882b03d9ac0998951d4e0400e8fd55af3010e8e5ccc9fb1",
+  "nh": "c718e1c6e23c4034a9af149a7e48a299d8d89041baf8376200c98cd99dfd49f1",
+  "chars": 15722,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/786/002_الشيخ سارية الرفاعي ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/789/012_الشيخ سارية الرفاعي ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
-   "sha256": "f3ec287af63a91a651de549cc9e153a0bb26ea665c5e18b4741143d46540c69a",
-   "rel": "variant"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/786/1.txt",
-   "sha256": "8d64e2d0207d92f22882b03d9ac0998951d4e0400e8fd55af3010e8e5ccc9fb1",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/789/11.txt",
-   "sha256": "f3ec287af63a91a651de549cc9e153a0bb26ea665c5e18b4741143d46540c69a",
-   "rel": "variant"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/786/002_الشيخ سارية الرفاعي ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+      "sha256": "8d64e2d0207d92f22882b03d9ac0998951d4e0400e8fd55af3010e8e5ccc9fb1",
+      "rel": "identical"
+    },
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/789/012_الشيخ سارية الرفاعي ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+      "sha256": "f3ec287af63a91a651de549cc9e153a0bb26ea665c5e18b4741143d46540c69a",
+      "rel": "variant"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/786/1.txt",
+      "sha256": "8d64e2d0207d92f22882b03d9ac0998951d4e0400e8fd55af3010e8e5ccc9fb1",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/789/11.txt",
+      "sha256": "f3ec287af63a91a651de549cc9e153a0bb26ea665c5e18b4741143d46540c69a",
+      "rel": "variant"
+    }
+  ],
+  "variants": [
+    "_variants/002_nqwovh99-p4.des-mut.txt"
+  ],
+  "also_in": [
+    "adham-alasimi--789"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.13,
+    "words": 2838,
+    "aligned": 2830,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 16:28"
   }
- ],
- "variants": [
-  "_variants/002_nqwovh99-p4.des-mut.txt"
- ],
- "also_in": [
-  "adham-alasimi--789"
- ]
 }
