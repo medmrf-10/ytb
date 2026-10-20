@@ -73,8 +73,8 @@
       "transcribed": 6
     },
     {
-      "aligned": 0,
-      "aligned_pct": "0.0%",
+      "aligned": 4,
+      "aligned_pct": "18.2%",
       "category": "التفسير والبيان القرآني (حسب السور)",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
@@ -577,14 +577,14 @@
       "transcribed": 14
     },
     {
-      "aligned": 1,
-      "aligned_pct": "4.5%",
+      "aligned": 22,
+      "aligned_pct": "100.0%",
       "category": "التفسير والبيان القرآني (حسب السور)",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
       "declared_total": 22,
       "dir": "s063/",
-      "dur": 4111,
+      "dur": 4120,
       "key": "s063",
       "series_id": "samarrai__s063",
       "title": "اللمسات البيانية في قصار المفصل وجزء عم (مباحث مختارة)",
@@ -593,7 +593,7 @@
   ],
   "slug": "fadhel-samarrai",
   "totals": {
-    "aligned": 353,
+    "aligned": 378,
     "chars": 3112248,
     "lessons": 460,
     "series": 42

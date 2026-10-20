@@ -1,6 +1,6 @@
 {
-  "aligned": 14,
-  "aligned_ratio": 0.6667,
+  "aligned": 21,
+  "aligned_ratio": 1.0,
   "category": "التفسير وعلوم القرآن",
   "coverage": 1.0,
   "declared_total": 21,
@@ -161,8 +161,8 @@
       "vid": "X9jOOmH6yZU"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 27140,
       "dur": 2641,
       "file": "015_s15RFZil9eM.txt",
@@ -172,10 +172,10 @@
       "vid": "s15RFZil9eM"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 25550,
-      "dur": 2608,
+      "dur": 2609,
       "file": "016_eS2NtLL9JK8.txt",
       "n": 16,
       "stem": "016_eS2NtLL9JK8",
@@ -183,9 +183,9 @@
       "vid": "eS2NtLL9JK8"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 26229,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 26195,
       "dur": 2753,
       "file": "017_xUNm15Qf7kw.txt",
       "n": 17,
@@ -194,9 +194,9 @@
       "vid": "xUNm15Qf7kw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 24270,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 24251,
       "dur": 2567,
       "file": "018_NS06EcVi54M.txt",
       "n": 18,
@@ -205,10 +205,10 @@
       "vid": "NS06EcVi54M"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 25915,
-      "dur": 2548,
+      "dur": 2549,
       "file": "019_zpS10xa8r3A.txt",
       "n": 19,
       "stem": "019_zpS10xa8r3A",
@@ -216,9 +216,9 @@
       "vid": "zpS10xa8r3A"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 27866,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 27831,
       "dur": 2557,
       "file": "020_HcVB9dVc5Pc.txt",
       "n": 20,
@@ -227,8 +227,8 @@
       "vid": "HcVB9dVc5Pc"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 25749,
       "dur": 2539,
       "file": "021_D_K40e55aZM.txt",

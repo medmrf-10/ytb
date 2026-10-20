@@ -1,14 +1,14 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 4,
+  "aligned_ratio": 0.1818,
   "category": "التفسير والبيان القرآني (حسب السور)",
   "coverage": 1.0,
   "declared_total": 22,
   "key": "s020",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 642,
       "dur": 52,
       "file": "001_krCKhD3121E.txt",
@@ -18,8 +18,8 @@
       "vid": "krCKhD3121E"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 749,
       "dur": 58,
       "file": "002_DXuZczmVvTs.txt",
@@ -29,8 +29,8 @@
       "vid": "DXuZczmVvTs"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 1317,
       "dur": 112,
       "file": "003_vV0XEW8P-b4.txt",
@@ -40,8 +40,8 @@
       "vid": "vV0XEW8P-b4"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 2671,
       "dur": 235,
       "file": "004_F2HrtBjZEgI.txt",
