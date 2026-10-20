@@ -1,6 +1,6 @@
 {
-  "aligned": 11,
-  "aligned_ratio": 0.5789,
+  "aligned": 19,
+  "aligned_ratio": 1.0,
   "category": "الصرف والاشتقاق",
   "coverage": 1.0,
   "declared_total": 19,
@@ -128,8 +128,8 @@
       "vid": "fsAqvKnHDI8"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 32973,
       "dur": 4105,
       "file": "012_nLTyVkN-47M.txt",
@@ -139,8 +139,8 @@
       "vid": "nLTyVkN-47M"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 25809,
       "dur": 2988,
       "file": "013_VO6MX3TZq2E.txt",
@@ -150,9 +150,9 @@
       "vid": "VO6MX3TZq2E"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 29892,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 29765,
       "dur": 3530,
       "file": "014_U-VGByJC2MU.txt",
       "n": 14,
@@ -161,8 +161,8 @@
       "vid": "U-VGByJC2MU"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 30217,
       "dur": 2928,
       "file": "015_vz8CpdhSq9Q.txt",
@@ -172,9 +172,9 @@
       "vid": "vz8CpdhSq9Q"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 19015,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 18993,
       "dur": 2046,
       "file": "016_Pvvdon1RS3E.txt",
       "n": 16,
@@ -183,8 +183,8 @@
       "vid": "Pvvdon1RS3E"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 33876,
       "dur": 3413,
       "file": "017_cbGeIvJB2e8.txt",
@@ -194,8 +194,8 @@
       "vid": "cbGeIvJB2e8"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 14446,
       "dur": 1542,
       "file": "018_O6Fa2RRtfdU.txt",
@@ -205,9 +205,9 @@
       "vid": "O6Fa2RRtfdU"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 11617,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 11583,
       "dur": 1542,
       "file": "019_dY-XIweAxdA.txt",
       "n": 19,
