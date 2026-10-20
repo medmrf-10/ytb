@@ -2,7 +2,7 @@
   "aligned": 0,
   "aligned_ratio": 0.0,
   "category": "الخطب والمحاضرات",
-  "coverage": 0.1484,
+  "coverage": 0.1543,
   "declared_total": 337,
   "key": "khutab_jumaa",
   "lessons": [
@@ -75,6 +75,17 @@
     {
       "align_coverage": null,
       "aligned": false,
+      "chars": 17621,
+      "dur": 1989,
+      "file": "024_UpOoYIAzZnY.txt",
+      "n": 24,
+      "stem": "024_UpOoYIAzZnY",
+      "title": "خطبة جمعة : منهج الحق وقوامه بالخشية والورع",
+      "vid": "UpOoYIAzZnY"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
       "chars": 14498,
       "dur": 1769,
       "file": "027_LBp3tEEvnVI.txt",
@@ -115,6 +126,17 @@
       "stem": "041_L9J51rghcso",
       "title": "الحبيب عمر بن حفيظ: العلامات والعناوين الرئيسة لفكر وأعمال كلٍّ من فريقي الجنة والنار",
       "vid": "L9J51rghcso"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 19034,
+      "dur": 2006,
+      "file": "042_5LYSN5S-RaE.txt",
+      "n": 42,
+      "stem": "042_5LYSN5S-RaE",
+      "title": "خطبة جمعة للحبيب عمر بن حفيظ بعنوان: سر الجمع وحكمه وعظيم آثاره في الدارين",
+      "vid": "5LYSN5S-RaE"
     },
     {
       "align_coverage": null,
@@ -561,6 +583,6 @@
   "sheikh": "habib-omar-ibn-hafiz",
   "sheikh_name": "الحبيب عمر بن حفيظ",
   "title": "خطب الجمعة والعيدين والكسوف والخسوف",
-  "transcribed": 50,
+  "transcribed": 52,
   "v": 2
 }

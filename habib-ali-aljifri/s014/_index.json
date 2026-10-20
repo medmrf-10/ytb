@@ -1,6 +1,6 @@
 {
-  "aligned": 18,
-  "aligned_ratio": 0.6,
+  "aligned": 19,
+  "aligned_ratio": 0.6333,
   "category": "برنامج رمضاني",
   "coverage": 1.0,
   "declared_total": 30,
@@ -249,10 +249,10 @@
       "vid": "1DtJXU7Zc1U"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 15949,
-      "dur": 1598,
+      "dur": 1597,
       "file": "023_JdkoGPT16N8.txt",
       "n": 23,
       "stem": "023_JdkoGPT16N8",
