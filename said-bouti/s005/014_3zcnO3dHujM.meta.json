@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:3zcnO3dHujM",
- "vid": "3zcnO3dHujM",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--345",
- "n": 14,
- "n_src": "plpos",
- "title": "14- مشاهد وعبر من القرآن والسنة | ولقد صدقكم الله وعده",
- "title_src": "yt_titles",
- "sha256": "dfd71fcdd7a84a91649bdba8e0159bfce98edb399c5192f446dbd96e4f7cd2c6",
- "nh": "2bad3a8ebca36b7a07776f189956d432988687d1f3b3bc211f4ce70f404d6f98",
- "chars": 14363,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/345/014_14- مشاهد وعبر من القرآن والسنة ｜ ولقد صدقكم الله وعده.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/345/014_14- مشاهد وعبر من القرآن والسنة ｜ ولقد صدقكم الله وعده.txt",
-   "sha256": "dfd71fcdd7a84a91649bdba8e0159bfce98edb399c5192f446dbd96e4f7cd2c6",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:3zcnO3dHujM",
+  "vid": "3zcnO3dHujM",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--345",
+  "n": 14,
+  "n_src": "plpos",
+  "title": "14- مشاهد وعبر من القرآن والسنة | ولقد صدقكم الله وعده",
+  "title_src": "yt_titles",
+  "sha256": "dfd71fcdd7a84a91649bdba8e0159bfce98edb399c5192f446dbd96e4f7cd2c6",
+  "nh": "2bad3a8ebca36b7a07776f189956d432988687d1f3b3bc211f4ce70f404d6f98",
+  "chars": 14363,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/345/014_14- مشاهد وعبر من القرآن والسنة ｜ ولقد صدقكم الله وعده.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-mashahid/14.txt",
-   "sha256": "f9fc9d481c3a7852305ecf6a74f3ffb1a32e511548776f84560e148f3ae3c17f",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/345/13.txt",
-   "sha256": "dfd71fcdd7a84a91649bdba8e0159bfce98edb399c5192f446dbd96e4f7cd2c6",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/345/014_14- مشاهد وعبر من القرآن والسنة ｜ ولقد صدقكم الله وعده.txt",
+      "sha256": "dfd71fcdd7a84a91649bdba8e0159bfce98edb399c5192f446dbd96e4f7cd2c6",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-mashahid/14.txt",
+      "sha256": "f9fc9d481c3a7852305ecf6a74f3ffb1a32e511548776f84560e148f3ae3c17f",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/345/13.txt",
+      "sha256": "dfd71fcdd7a84a91649bdba8e0159bfce98edb399c5192f446dbd96e4f7cd2c6",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.9,
+    "words": 2611,
+    "aligned": 2611,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 18:12"
   }
- ],
- "variants": [],
- "also_in": []
 }

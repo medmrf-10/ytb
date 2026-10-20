@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:yFESUIVr0Qs",
- "vid": "yFESUIVr0Qs",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--345",
- "n": 19,
- "n_src": "plpos",
- "title": "19- مشاهد وعبر من القرآن والسنة | عتاب رقيق من الله عز وجل للانسان ..",
- "title_src": "yt_titles",
- "sha256": "a5badd8c8f96132dfac00b73b51a484b49db6b223ab575c8b6fb3e43cfe2b0b3",
- "nh": "1b3a70fb9e602f7d078127975e0d24129488194cab1bc3c1bd93d1867cc585c3",
- "chars": 12777,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/345/019_19- مشاهد وعبر من القرآن والسنة ｜ عتاب رقيق من الله عز وجل للانسان ...txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/345/019_19- مشاهد وعبر من القرآن والسنة ｜ عتاب رقيق من الله عز وجل للانسان ...txt",
-   "sha256": "a5badd8c8f96132dfac00b73b51a484b49db6b223ab575c8b6fb3e43cfe2b0b3",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:yFESUIVr0Qs",
+  "vid": "yFESUIVr0Qs",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--345",
+  "n": 19,
+  "n_src": "plpos",
+  "title": "19- مشاهد وعبر من القرآن والسنة | عتاب رقيق من الله عز وجل للانسان ..",
+  "title_src": "yt_titles",
+  "sha256": "a5badd8c8f96132dfac00b73b51a484b49db6b223ab575c8b6fb3e43cfe2b0b3",
+  "nh": "1b3a70fb9e602f7d078127975e0d24129488194cab1bc3c1bd93d1867cc585c3",
+  "chars": 12777,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/345/019_19- مشاهد وعبر من القرآن والسنة ｜ عتاب رقيق من الله عز وجل للانسان ...txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-mashahid/19.txt",
-   "sha256": "36caec6998085a0e8b3cce63f2153449f2c557a4eed09e15f2505f494cc189d2",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/345/18.txt",
-   "sha256": "a5badd8c8f96132dfac00b73b51a484b49db6b223ab575c8b6fb3e43cfe2b0b3",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/345/019_19- مشاهد وعبر من القرآن والسنة ｜ عتاب رقيق من الله عز وجل للانسان ...txt",
+      "sha256": "a5badd8c8f96132dfac00b73b51a484b49db6b223ab575c8b6fb3e43cfe2b0b3",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-mashahid/19.txt",
+      "sha256": "36caec6998085a0e8b3cce63f2153449f2c557a4eed09e15f2505f494cc189d2",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/345/18.txt",
+      "sha256": "a5badd8c8f96132dfac00b73b51a484b49db6b223ab575c8b6fb3e43cfe2b0b3",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9996,
+    "spoken_align_pct": 99.96,
+    "audio_span_pct": 99.9,
+    "words": 2365,
+    "aligned": 2364,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 18:16"
   }
- ],
- "variants": [],
- "also_in": []
 }

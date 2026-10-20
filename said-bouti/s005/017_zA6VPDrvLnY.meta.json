@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:zA6VPDrvLnY",
- "vid": "zA6VPDrvLnY",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--345",
- "n": 17,
- "n_src": "plpos",
- "title": "17- مشاهد وعبر من القرآن والسنة | طعام سيدنا جابر",
- "title_src": "yt_titles",
- "sha256": "0c0e10948dfdce691557fc3439e78f895281b53135c786a3106075f6c4e489a1",
- "nh": "5f4243fcee077525ce308d54597671bc37801f792e9ab68d715450db34ef1e7e",
- "chars": 12301,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/345/017_17- مشاهد وعبر من القرآن والسنة ｜ طعام سيدنا جابر.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/345/017_17- مشاهد وعبر من القرآن والسنة ｜ طعام سيدنا جابر.txt",
-   "sha256": "0c0e10948dfdce691557fc3439e78f895281b53135c786a3106075f6c4e489a1",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:zA6VPDrvLnY",
+  "vid": "zA6VPDrvLnY",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--345",
+  "n": 17,
+  "n_src": "plpos",
+  "title": "17- مشاهد وعبر من القرآن والسنة | طعام سيدنا جابر",
+  "title_src": "yt_titles",
+  "sha256": "0c0e10948dfdce691557fc3439e78f895281b53135c786a3106075f6c4e489a1",
+  "nh": "5f4243fcee077525ce308d54597671bc37801f792e9ab68d715450db34ef1e7e",
+  "chars": 12301,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/345/017_17- مشاهد وعبر من القرآن والسنة ｜ طعام سيدنا جابر.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-mashahid/17.txt",
-   "sha256": "032438a5244aff9a4705eaabfcbb844a728fe7dd0e93e56405c84e01b5a63834",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/345/16.txt",
-   "sha256": "0c0e10948dfdce691557fc3439e78f895281b53135c786a3106075f6c4e489a1",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/345/017_17- مشاهد وعبر من القرآن والسنة ｜ طعام سيدنا جابر.txt",
+      "sha256": "0c0e10948dfdce691557fc3439e78f895281b53135c786a3106075f6c4e489a1",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-mashahid/17.txt",
+      "sha256": "032438a5244aff9a4705eaabfcbb844a728fe7dd0e93e56405c84e01b5a63834",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/345/16.txt",
+      "sha256": "0c0e10948dfdce691557fc3439e78f895281b53135c786a3106075f6c4e489a1",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.85,
+    "words": 2313,
+    "aligned": 2305,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 18:14"
   }
- ],
- "variants": [],
- "also_in": []
 }

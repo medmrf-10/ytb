@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:hLHlIGL0wWI",
- "vid": "hLHlIGL0wWI",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--345",
- "n": 29,
- "n_src": "plpos",
- "title": "29- مشاهد وعبر من القرآن والسنة | رسول الله صلى الله عليه وسلم عند فتح مكة",
- "title_src": "yt_titles",
- "sha256": "9344c255e0b7edef451f1774041e956b1e34ca67e08f7d62a0c31361cff9ee8c",
- "nh": "df03da5c69f6a43c8721fbad8f385ed0c2b26db778ff46f10bbe95cab184ba6d",
- "chars": 12646,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/345/029_29- مشاهد وعبر من القرآن والسنة ｜ رسول الله صلى الله عليه وسلم عند فتح مكة.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/345/029_29- مشاهد وعبر من القرآن والسنة ｜ رسول الله صلى الله عليه وسلم عند فتح مكة.txt",
-   "sha256": "9344c255e0b7edef451f1774041e956b1e34ca67e08f7d62a0c31361cff9ee8c",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:hLHlIGL0wWI",
+  "vid": "hLHlIGL0wWI",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--345",
+  "n": 29,
+  "n_src": "plpos",
+  "title": "29- مشاهد وعبر من القرآن والسنة | رسول الله صلى الله عليه وسلم عند فتح مكة",
+  "title_src": "yt_titles",
+  "sha256": "9344c255e0b7edef451f1774041e956b1e34ca67e08f7d62a0c31361cff9ee8c",
+  "nh": "df03da5c69f6a43c8721fbad8f385ed0c2b26db778ff46f10bbe95cab184ba6d",
+  "chars": 12646,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/345/029_29- مشاهد وعبر من القرآن والسنة ｜ رسول الله صلى الله عليه وسلم عند فتح مكة.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-mashahid/29.txt",
-   "sha256": "bbda76b147340dc2b7712ae35dada508cf964f6faa93b025f0ea4764f582898b",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/345/28.txt",
-   "sha256": "9344c255e0b7edef451f1774041e956b1e34ca67e08f7d62a0c31361cff9ee8c",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/345/029_29- مشاهد وعبر من القرآن والسنة ｜ رسول الله صلى الله عليه وسلم عند فتح مكة.txt",
+      "sha256": "9344c255e0b7edef451f1774041e956b1e34ca67e08f7d62a0c31361cff9ee8c",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-mashahid/29.txt",
+      "sha256": "bbda76b147340dc2b7712ae35dada508cf964f6faa93b025f0ea4764f582898b",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/345/28.txt",
+      "sha256": "9344c255e0b7edef451f1774041e956b1e34ca67e08f7d62a0c31361cff9ee8c",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9996,
+    "spoken_align_pct": 99.96,
+    "audio_span_pct": 96.11,
+    "words": 2385,
+    "aligned": 2384,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 18:21"
   }
- ],
- "variants": [],
- "also_in": []
 }

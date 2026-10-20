@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:dHuX_arHnU0",
- "vid": "dHuX_arHnU0",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--345",
- "n": 26,
- "n_src": "plpos",
- "title": "26 - مشاهد وعبر من القرآن والسنة | ولقد أرسلنا إلى أمم من قبلك فأخذناهم بالبأساء والضراء",
- "title_src": "yt_titles",
- "sha256": "c7a4d571a0acd7dbfa0ac5deed9ff25d838c99d4162469b4ce0eb31d3a824909",
- "nh": "14bc03da475ea84ea31dfc41cee6df8b630d7581f881b9b63b616956afbe526e",
- "chars": 14150,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/345/026_26 - مشاهد وعبر من القرآن والسنة ｜ ولقد أرسلنا إلى أمم من قبلك فأخذناهم بالبأساء.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/345/026_26 - مشاهد وعبر من القرآن والسنة ｜ ولقد أرسلنا إلى أمم من قبلك فأخذناهم بالبأساء.txt",
-   "sha256": "c7a4d571a0acd7dbfa0ac5deed9ff25d838c99d4162469b4ce0eb31d3a824909",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:dHuX_arHnU0",
+  "vid": "dHuX_arHnU0",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--345",
+  "n": 26,
+  "n_src": "plpos",
+  "title": "26 - مشاهد وعبر من القرآن والسنة | ولقد أرسلنا إلى أمم من قبلك فأخذناهم بالبأساء والضراء",
+  "title_src": "yt_titles",
+  "sha256": "c7a4d571a0acd7dbfa0ac5deed9ff25d838c99d4162469b4ce0eb31d3a824909",
+  "nh": "14bc03da475ea84ea31dfc41cee6df8b630d7581f881b9b63b616956afbe526e",
+  "chars": 14150,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/345/026_26 - مشاهد وعبر من القرآن والسنة ｜ ولقد أرسلنا إلى أمم من قبلك فأخذناهم بالبأساء.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-mashahid/26.txt",
-   "sha256": "47f8c2c90d983019310945e1eb9c9c1a3385e7e593323abf84d7b5d55fdae5f0",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/345/25.txt",
-   "sha256": "c7a4d571a0acd7dbfa0ac5deed9ff25d838c99d4162469b4ce0eb31d3a824909",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/345/026_26 - مشاهد وعبر من القرآن والسنة ｜ ولقد أرسلنا إلى أمم من قبلك فأخذناهم بالبأساء.txt",
+      "sha256": "c7a4d571a0acd7dbfa0ac5deed9ff25d838c99d4162469b4ce0eb31d3a824909",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-mashahid/26.txt",
+      "sha256": "47f8c2c90d983019310945e1eb9c9c1a3385e7e593323abf84d7b5d55fdae5f0",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/345/25.txt",
+      "sha256": "c7a4d571a0acd7dbfa0ac5deed9ff25d838c99d4162469b4ce0eb31d3a824909",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9629,
+    "spoken_align_pct": 96.29,
+    "audio_span_pct": 96.19,
+    "words": 2483,
+    "aligned": 2385,
+    "interpolated": 92,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 18:20"
   }
- ],
- "variants": [],
- "also_in": []
 }

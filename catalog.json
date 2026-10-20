@@ -1,7 +1,7 @@
 {
   "sheikhs": [
     {
-      "aligned": 262,
+      "aligned": 279,
       "chars": 20562717,
       "lessons": 1165,
       "name": "محمد سعيد رمضان البوطي",
@@ -66,14 +66,14 @@
           "transcribed": 26
         },
         {
-          "aligned": 10,
-          "aligned_pct": "33.3%",
+          "aligned": 27,
+          "aligned_pct": "90.0%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 30,
           "dir": "s005/",
-          "dur": 52603,
+          "dur": 52596,
           "key": "s005",
           "series_id": "bouti__s005",
           "title": "برنامج مشاهد وعبر من القرآن والسنة",
@@ -5720,7 +5720,7 @@
     }
   ],
   "totals": {
-    "aligned": 2755,
+    "aligned": 2772,
     "chars": 157002276,
     "lessons": 6647,
     "series": 387,

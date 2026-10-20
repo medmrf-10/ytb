@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:o5-hVoXmtB4",
- "vid": "o5-hVoXmtB4",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--345",
- "n": 22,
- "n_src": "plpos",
- "title": "22- مشاهد وعبر من القرآن والسنة | هل جزاء الإحسان إلا الإحسان؟",
- "title_src": "yt_titles",
- "sha256": "8a5cf9274d747e4fe3ed1c9190132e389903f5bd7fa7055ed43d64a9cfce8cc8",
- "nh": "1acb8162fb7111c13d20689d69fe818488b51858206623aed38d24539fa6ec8f",
- "chars": 13636,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/345/022_22- مشاهد وعبر من القرآن والسنة ｜ هل جزاء الإحسان إلا الإحسان؟.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/345/022_22- مشاهد وعبر من القرآن والسنة ｜ هل جزاء الإحسان إلا الإحسان؟.txt",
-   "sha256": "8a5cf9274d747e4fe3ed1c9190132e389903f5bd7fa7055ed43d64a9cfce8cc8",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:o5-hVoXmtB4",
+  "vid": "o5-hVoXmtB4",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--345",
+  "n": 22,
+  "n_src": "plpos",
+  "title": "22- مشاهد وعبر من القرآن والسنة | هل جزاء الإحسان إلا الإحسان؟",
+  "title_src": "yt_titles",
+  "sha256": "8a5cf9274d747e4fe3ed1c9190132e389903f5bd7fa7055ed43d64a9cfce8cc8",
+  "nh": "1acb8162fb7111c13d20689d69fe818488b51858206623aed38d24539fa6ec8f",
+  "chars": 13636,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/345/022_22- مشاهد وعبر من القرآن والسنة ｜ هل جزاء الإحسان إلا الإحسان؟.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-mashahid/22.txt",
-   "sha256": "92e86e3aaca2c2817f253287648e63c13c00ae3912b1d0d08bd3a3564ef2fa86",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/345/21.txt",
-   "sha256": "8a5cf9274d747e4fe3ed1c9190132e389903f5bd7fa7055ed43d64a9cfce8cc8",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/345/022_22- مشاهد وعبر من القرآن والسنة ｜ هل جزاء الإحسان إلا الإحسان؟.txt",
+      "sha256": "8a5cf9274d747e4fe3ed1c9190132e389903f5bd7fa7055ed43d64a9cfce8cc8",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-mashahid/22.txt",
+      "sha256": "92e86e3aaca2c2817f253287648e63c13c00ae3912b1d0d08bd3a3564ef2fa86",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/345/21.txt",
+      "sha256": "8a5cf9274d747e4fe3ed1c9190132e389903f5bd7fa7055ed43d64a9cfce8cc8",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 95.91,
+    "words": 2521,
+    "aligned": 2521,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 18:17"
   }
- ],
- "variants": [],
- "also_in": []
 }
