@@ -1,6 +1,6 @@
 {
-  "aligned": 9,
-  "aligned_ratio": 0.3214,
+  "aligned": 11,
+  "aligned_ratio": 0.3929,
   "category": "برامج وحوارات",
   "coverage": 1.0,
   "declared_total": 28,
@@ -18,9 +18,9 @@
       "vid": "vuhiYHCQgCc"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 38783,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 38669,
       "dur": 2852,
       "file": "002_yHDfRFMQUMU.txt",
       "n": 2,
@@ -84,9 +84,9 @@
       "vid": "hgP12N2LNmI"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 38222,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 38131,
       "dur": 2815,
       "file": "008_YJJ2PY6RlyU.txt",
       "n": 8,

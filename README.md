@@ -9,8 +9,8 @@
 - **المشايخ ذوو المحتوى الفعلي:** 25 شيخاً
 - **السلاسل المفرّغة:** 386 سلسلة
 - **الدروس المفرّغة نصياً (`.txt`):** 6,589 درساً
-- **الدروس المحاذاة صوتياً (`.align.json`):** 2,480 درساً
-- **إجمالي الحجم النصي:** 156,140,710 حرفاً
+- **الدروس المحاذاة صوتياً (`.align.json`):** 2,488 درساً
+- **إجمالي الحجم النصي:** 156,140,058 حرفاً
 
 ---
 
@@ -28,8 +28,8 @@
 | 8 | ذاكر الهاشمي | `dhaker-alhashimi` | 20 | 348 | 95 | [`dhaker-alhashimi/`](./dhaker-alhashimi/) |
 | 9 | محمد البردوني الحسيمي | `bardouni-husaymi` | 16 | 343 | 120 | [`bardouni-husaymi/`](./bardouni-husaymi/) |
 | 10 | علي جمعة | `ali-gomaa` | 14 | 276 | 51 | [`ali-gomaa/`](./ali-gomaa/) |
-| 11 | محمد الحسن الددو | `daddo` | 17 | 244 | 174 | [`daddo/`](./daddo/) |
-| 12 | علي محمود العمري | `ali-mahmoud-alomari` | 18 | 241 | 105 | [`ali-mahmoud-alomari/`](./ali-mahmoud-alomari/) |
+| 11 | محمد الحسن الددو | `daddo` | 17 | 244 | 176 | [`daddo/`](./daddo/) |
+| 12 | علي محمود العمري | `ali-mahmoud-alomari` | 18 | 241 | 111 | [`ali-mahmoud-alomari/`](./ali-mahmoud-alomari/) |
 | 13 | مولود السريري | `mouloud-sariri` | 17 | 214 | 106 | [`mouloud-sariri/`](./mouloud-sariri/) |
 | 14 | علي هاني العقرباوي | `ali-hani-aqrabawi` | 14 | 197 | 150 | [`ali-hani-aqrabawi/`](./ali-hani-aqrabawi/) |
 | 15 | أيمن عبد الرحيم | `ayman-abdelrahim` | 20 | 130 | 119 | [`ayman-abdelrahim/`](./ayman-abdelrahim/) |

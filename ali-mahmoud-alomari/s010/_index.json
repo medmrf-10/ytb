@@ -1,6 +1,6 @@
 {
-  "aligned": 22,
-  "aligned_ratio": 0.7857,
+  "aligned": 28,
+  "aligned_ratio": 1.0,
   "category": "المنطق والفلسفة",
   "coverage": 1.0,
   "declared_total": 28,
@@ -249,10 +249,10 @@
       "vid": "is7WLuCFRMw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 31060,
-      "dur": 3536,
+      "dur": 3535,
       "file": "023_BrG8VC_lTeg.txt",
       "n": 23,
       "stem": "023_BrG8VC_lTeg",
@@ -260,10 +260,10 @@
       "vid": "BrG8VC_lTeg"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 26913,
-      "dur": 2896,
+      "dur": 2895,
       "file": "024_yrEflPWAU7U.txt",
       "n": 24,
       "stem": "024_yrEflPWAU7U",
@@ -271,8 +271,8 @@
       "vid": "yrEflPWAU7U"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 18762,
       "dur": 2116,
       "file": "025_t0VVQKFo5ws.txt",
@@ -282,9 +282,9 @@
       "vid": "t0VVQKFo5ws"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 31382,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 31224,
       "dur": 3311,
       "file": "026_76vXkPVYA-o.txt",
       "n": 26,
@@ -293,10 +293,10 @@
       "vid": "76vXkPVYA-o"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 22890,
-      "dur": 2728,
+      "dur": 2727,
       "file": "027_gZb1dnkjnwM.txt",
       "n": 27,
       "stem": "027_gZb1dnkjnwM",
@@ -304,9 +304,9 @@
       "vid": "gZb1dnkjnwM"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 68932,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 68643,
       "dur": 7336,
       "file": "028_PF6reWgkX1c.txt",
       "n": 28,
