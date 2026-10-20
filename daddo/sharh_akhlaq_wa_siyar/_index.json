@@ -1,16 +1,16 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 3,
+  "aligned_ratio": 0.1667,
   "category": "التزكية والأخلاق",
   "coverage": 1.0,
   "declared_total": 18,
   "key": "sharh_akhlaq_wa_siyar",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 35348,
-      "dur": 3217,
+      "dur": 3218,
       "file": "001_SL1V_AUAIqM.txt",
       "n": 1,
       "stem": "001_SL1V_AUAIqM",
@@ -18,9 +18,9 @@
       "vid": "SL1V_AUAIqM"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 31236,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 31209,
       "dur": 2984,
       "file": "002_6CYdARj8mwU.txt",
       "n": 2,
@@ -29,9 +29,9 @@
       "vid": "6CYdARj8mwU"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 31005,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 30962,
       "dur": 2984,
       "file": "003_bPJ8hL8iCHg.txt",
       "n": 3,
