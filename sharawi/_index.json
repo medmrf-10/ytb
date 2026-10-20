@@ -199,14 +199,14 @@
       "transcribed": 8
     },
     {
-      "aligned": 0,
-      "aligned_pct": "0.0%",
+      "aligned": 1,
+      "aligned_pct": "5.6%",
       "category": "التفسير وعلوم القرآن",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
       "declared_total": 18,
       "dir": "s019/",
-      "dur": 47571,
+      "dur": 47572,
       "key": "s019",
       "series_id": "shaarawy__s019",
       "title": "تفسير سورة طه",
@@ -677,8 +677,8 @@
   ],
   "slug": "sharawi",
   "totals": {
-    "aligned": 214,
-    "chars": 13960198,
+    "aligned": 215,
+    "chars": 13960150,
     "lessons": 648,
     "series": 48
   },

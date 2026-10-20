@@ -489,8 +489,8 @@
       "slug": "said-bouti"
     },
     {
-      "aligned": 214,
-      "chars": 13960198,
+      "aligned": 215,
+      "chars": 13960150,
       "lessons": 648,
       "name": "محمد متولي الشعراوي",
       "path": "sharawi/",
@@ -694,14 +694,14 @@
           "transcribed": 8
         },
         {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
+          "aligned": 1,
+          "aligned_pct": "5.6%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 18,
           "dir": "s019/",
-          "dur": 47571,
+          "dur": 47572,
           "key": "s019",
           "series_id": "shaarawy__s019",
           "title": "تفسير سورة طه",
@@ -4735,8 +4735,8 @@
       "slug": "mouloud-sariri"
     },
     {
-      "aligned": 89,
-      "chars": 5289100,
+      "aligned": 100,
+      "chars": 5288945,
       "lessons": 197,
       "name": "علي هاني العقرباوي",
       "path": "ali-hani-aqrabawi/",
@@ -4772,14 +4772,14 @@
           "transcribed": 15
         },
         {
-          "aligned": 7,
-          "aligned_pct": "38.9%",
+          "aligned": 18,
+          "aligned_pct": "100.0%",
           "category": "النحو والإعراب",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 18,
           "dir": "s017/",
-          "dur": 46919,
+          "dur": 46924,
           "key": "s017",
           "series_id": "alihani__s017",
           "title": "نحو (14): شرح السيوطي على ألفية ابن مالك (البهجة المرضية)",
@@ -5706,8 +5706,8 @@
     }
   ],
   "totals": {
-    "aligned": 1701,
-    "chars": 156219324,
+    "aligned": 1713,
+    "chars": 156219121,
     "lessons": 6589,
     "series": 386,
     "sheikhs": 25
