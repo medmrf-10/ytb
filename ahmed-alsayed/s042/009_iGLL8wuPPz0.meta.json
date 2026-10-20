@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:iGLL8wuPPz0",
- "vid": "iGLL8wuPPz0",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--660",
- "n": 10,
- "n_src": "mutfile",
- "title": "الأمة بين احتلالين 09 ｜ مقاومة الزحف المغولي ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "877669d1f59630e9edd5000a515ecd327d4a397aed3c674c1feb580497ec5ba2",
- "nh": "143c94d6aceecad8fd353862da1c25f8154118a7d5e7a9c32a2efedfe0b6b52e",
- "chars": 50558,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/660/010_الأمة بين احتلالين 09 ｜ مقاومة الزحف المغولي ｜ أحمد السيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/660/010_الأمة بين احتلالين 09 ｜ مقاومة الزحف المغولي ｜ أحمد السيد.txt",
-   "sha256": "877669d1f59630e9edd5000a515ecd327d4a397aed3c674c1feb580497ec5ba2",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:iGLL8wuPPz0",
+  "vid": "iGLL8wuPPz0",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--660",
+  "n": 10,
+  "n_src": "mutfile",
+  "title": "الأمة بين احتلالين 09 ｜ مقاومة الزحف المغولي ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "877669d1f59630e9edd5000a515ecd327d4a397aed3c674c1feb580497ec5ba2",
+  "nh": "143c94d6aceecad8fd353862da1c25f8154118a7d5e7a9c32a2efedfe0b6b52e",
+  "chars": 50558,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/660/010_الأمة بين احتلالين 09 ｜ مقاومة الزحف المغولي ｜ أحمد السيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/elommaBaynI7tilayn-010/transcript.txt",
-   "sha256": "207f5154219b6d1dcefa39f91819f21acdfa7cf44fc531573629a5b4c0db3bc2",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-660/010.txt",
-   "sha256": "207f5154219b6d1dcefa39f91819f21acdfa7cf44fc531573629a5b4c0db3bc2",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/660/010_الأمة بين احتلالين 09 ｜ مقاومة الزحف المغولي ｜ أحمد السيد.txt",
+      "sha256": "877669d1f59630e9edd5000a515ecd327d4a397aed3c674c1feb580497ec5ba2",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/elommaBaynI7tilayn-010/transcript.txt",
+      "sha256": "207f5154219b6d1dcefa39f91819f21acdfa7cf44fc531573629a5b4c0db3bc2",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-660/010.txt",
+      "sha256": "207f5154219b6d1dcefa39f91819f21acdfa7cf44fc531573629a5b4c0db3bc2",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9987,
+    "spoken_align_pct": 99.87,
+    "audio_span_pct": 99.81,
+    "words": 9456,
+    "aligned": 9444,
+    "interpolated": 12,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 03:08"
   }
- ],
- "variants": [],
- "also_in": []
 }
