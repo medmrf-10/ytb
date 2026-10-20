@@ -1,6 +1,6 @@
 {
-  "aligned": 34,
-  "aligned_ratio": 0.9444,
+  "aligned": 35,
+  "aligned_ratio": 0.9722,
   "category": "العقيدة وعلم الكلام",
   "coverage": 1.0,
   "declared_total": 36,
@@ -392,10 +392,10 @@
       "vid": "yD9ASBvTcSQ"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 46085,
-      "dur": 4650,
+      "dur": 4649,
       "file": "036_lhtjluwWOS4.txt",
       "n": 36,
       "stem": "036_lhtjluwWOS4",

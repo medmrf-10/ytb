@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:JMqrHsQr2GM",
- "vid": "JMqrHsQr2GM",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--379",
- "n": 9,
- "n_src": "plpos",
- "title": "9- تاريخ التشريع الإسلامي | خصائص الدور الثالث: شيوع رواية الحديث_ظهور الوضاعين",
- "title_src": "yt_titles",
- "sha256": "825c9bb9b26db6b97ee8b4a2101f2ffd7584b419aeb2e2a4d5fa3f3c0b75a1e7",
- "nh": "c6c4bfa29ae10f5b16efd16aeda1441212afcee05f0a50c5e2ee26137a4911a1",
- "chars": 22625,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/379/009_9- تاريخ التشريع الإسلامي ｜ خصائص الدور الثالث： شيوع رواية الحديث_ظهور الوضاعين.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/379/009_9- تاريخ التشريع الإسلامي ｜ خصائص الدور الثالث： شيوع رواية الحديث_ظهور الوضاعين.txt",
-   "sha256": "825c9bb9b26db6b97ee8b4a2101f2ffd7584b419aeb2e2a4d5fa3f3c0b75a1e7",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:JMqrHsQr2GM",
+  "vid": "JMqrHsQr2GM",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--379",
+  "n": 9,
+  "n_src": "plpos",
+  "title": "9- تاريخ التشريع الإسلامي | خصائص الدور الثالث: شيوع رواية الحديث_ظهور الوضاعين",
+  "title_src": "yt_titles",
+  "sha256": "825c9bb9b26db6b97ee8b4a2101f2ffd7584b419aeb2e2a4d5fa3f3c0b75a1e7",
+  "nh": "c6c4bfa29ae10f5b16efd16aeda1441212afcee05f0a50c5e2ee26137a4911a1",
+  "chars": 22625,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/379/009_9- تاريخ التشريع الإسلامي ｜ خصائص الدور الثالث： شيوع رواية الحديث_ظهور الوضاعين.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/tari5Eltachri3-009/transcript.txt",
-   "sha256": "53e69772382a8caeac9129a6b53e4a265d4b88891c53997814f7d53e4aa6c86b",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-tarikh/09.txt",
-   "sha256": "53e69772382a8caeac9129a6b53e4a265d4b88891c53997814f7d53e4aa6c86b",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/379/8.txt",
-   "sha256": "825c9bb9b26db6b97ee8b4a2101f2ffd7584b419aeb2e2a4d5fa3f3c0b75a1e7",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/379/009_9- تاريخ التشريع الإسلامي ｜ خصائص الدور الثالث： شيوع رواية الحديث_ظهور الوضاعين.txt",
+      "sha256": "825c9bb9b26db6b97ee8b4a2101f2ffd7584b419aeb2e2a4d5fa3f3c0b75a1e7",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/tari5Eltachri3-009/transcript.txt",
+      "sha256": "53e69772382a8caeac9129a6b53e4a265d4b88891c53997814f7d53e4aa6c86b",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-tarikh/09.txt",
+      "sha256": "53e69772382a8caeac9129a6b53e4a265d4b88891c53997814f7d53e4aa6c86b",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/379/8.txt",
+      "sha256": "825c9bb9b26db6b97ee8b4a2101f2ffd7584b419aeb2e2a4d5fa3f3c0b75a1e7",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9983,
+    "spoken_align_pct": 99.83,
+    "audio_span_pct": 98.82,
+    "words": 4117,
+    "aligned": 4110,
+    "interpolated": 7,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 20:58"
   }
- ],
- "variants": [],
- "also_in": []
 }

@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:CTzx4kF1cvM",
- "vid": "CTzx4kF1cvM",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--379",
- "n": 4,
- "n_src": "plpos",
- "title": "4- تاريخ التشريع الإسلامي | الدور الأول: القسم الثاني: أسباب الخلاف بين الصحابة",
- "title_src": "yt_titles",
- "sha256": "f16745a57394ae3cf9204e6253c9b087693576ec725280424d3e39a4dcfee0a3",
- "nh": "4c6991626e0d6dfe4fc8f51fcc5866439bae112264f4926f1f32ed37ce3eba03",
- "chars": 19749,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/379/004_4- تاريخ التشريع الإسلامي ｜ الدور الأول： القسم الثاني： أسباب الخلاف بين الصحابة.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/379/004_4- تاريخ التشريع الإسلامي ｜ الدور الأول： القسم الثاني： أسباب الخلاف بين الصحابة.txt",
-   "sha256": "f16745a57394ae3cf9204e6253c9b087693576ec725280424d3e39a4dcfee0a3",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:CTzx4kF1cvM",
+  "vid": "CTzx4kF1cvM",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--379",
+  "n": 4,
+  "n_src": "plpos",
+  "title": "4- تاريخ التشريع الإسلامي | الدور الأول: القسم الثاني: أسباب الخلاف بين الصحابة",
+  "title_src": "yt_titles",
+  "sha256": "f16745a57394ae3cf9204e6253c9b087693576ec725280424d3e39a4dcfee0a3",
+  "nh": "4c6991626e0d6dfe4fc8f51fcc5866439bae112264f4926f1f32ed37ce3eba03",
+  "chars": 19749,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/379/004_4- تاريخ التشريع الإسلامي ｜ الدور الأول： القسم الثاني： أسباب الخلاف بين الصحابة.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/tari5Eltachri3-004/transcript.txt",
-   "sha256": "ea0d2fcb63c29d1c2f653bfe0455f50a7e6fe3ba0b181d78ddd9e4d6730a7c9c",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-tarikh/04.txt",
-   "sha256": "ea0d2fcb63c29d1c2f653bfe0455f50a7e6fe3ba0b181d78ddd9e4d6730a7c9c",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/379/004_4- تاريخ التشريع الإسلامي ｜ الدور الأول： القسم الثاني： أسباب الخلاف بين الصحابة.txt",
+      "sha256": "f16745a57394ae3cf9204e6253c9b087693576ec725280424d3e39a4dcfee0a3",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/tari5Eltachri3-004/transcript.txt",
+      "sha256": "ea0d2fcb63c29d1c2f653bfe0455f50a7e6fe3ba0b181d78ddd9e4d6730a7c9c",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-tarikh/04.txt",
+      "sha256": "ea0d2fcb63c29d1c2f653bfe0455f50a7e6fe3ba0b181d78ddd9e4d6730a7c9c",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9989,
+    "spoken_align_pct": 99.89,
+    "audio_span_pct": 98.71,
+    "words": 3604,
+    "aligned": 3600,
+    "interpolated": 4,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 20:52"
   }
- ],
- "variants": [],
- "also_in": []
 }
