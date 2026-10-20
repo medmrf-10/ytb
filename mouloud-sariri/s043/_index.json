@@ -2,7 +2,7 @@
   "aligned": 0,
   "aligned_ratio": 0.0,
   "category": "الخطب والوعظ",
-  "coverage": 0.445,
+  "coverage": 0.455,
   "declared_total": 200,
   "key": "s043",
   "lessons": [
@@ -977,6 +977,17 @@
     {
       "align_coverage": null,
       "aligned": false,
+      "chars": 11194,
+      "dur": 1462,
+      "file": "089_5iJ6xf4C4mU.txt",
+      "n": 89,
+      "stem": "089_5iJ6xf4C4mU",
+      "title": "خطب منبرية : \"داء الكبر\" / الشيخ العلامة مولود السريري",
+      "vid": "5iJ6xf4C4mU"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
       "chars": 14234,
       "dur": 1839,
       "file": "090_WDYAX-mzErQ.txt",
@@ -984,12 +995,23 @@
       "stem": "090_WDYAX-mzErQ",
       "title": "خطب منبرية : خطبة مميزة \"بعض ما خص به المؤمن\" / الشيخ العلامة مولود السريري",
       "vid": "WDYAX-mzErQ"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 15756,
+      "dur": 1949,
+      "file": "091_bixCWvvALYA.txt",
+      "n": 91,
+      "stem": "091_bixCWvvALYA",
+      "title": "خطب منبرية : خطبة مميزة \"بعض ما خص به المؤمن تتمة\" / الشيخ العلامة مولود السريري",
+      "vid": "bixCWvvALYA"
     }
   ],
   "series_id": "sariri__s043",
   "sheikh": "mouloud-sariri",
   "sheikh_name": "مولود السريري",
   "title": "خطب منبرية وخطب الجمعة",
-  "transcribed": 89,
+  "transcribed": 91,
   "v": 2
 }

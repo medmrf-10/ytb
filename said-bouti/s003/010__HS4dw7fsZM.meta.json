@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:_HS4dw7fsZM",
- "vid": "_HS4dw7fsZM",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--408",
- "n": 10,
- "n_src": "read",
- "title": "10- الجديد في إعجاز القرآن الكريم ｜ ما أشهدتهم خلق السموات والأرض ｜ نظريات خلق",
- "title_src": "filename",
- "sha256": "0a65baa99f0efd948f5e6291b58a5e54c20cf79ecb16ff1c774cefde6515a9aa",
- "nh": "ab570202da312bf2d2ecf325b6ab940953b671b3e77b40d29b34026d4fb713de",
- "chars": 13711,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/408/010_10- الجديد في إعجاز  القرآن الكريم ｜ ما أشهدتهم خلق السموات والأرض ｜ نظريات خلق .txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/408/010_10- الجديد في إعجاز  القرآن الكريم ｜ ما أشهدتهم خلق السموات والأرض ｜ نظريات خلق .txt",
-   "sha256": "0a65baa99f0efd948f5e6291b58a5e54c20cf79ecb16ff1c774cefde6515a9aa",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:_HS4dw7fsZM",
+  "vid": "_HS4dw7fsZM",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--408",
+  "n": 10,
+  "n_src": "read",
+  "title": "10- الجديد في إعجاز القرآن الكريم ｜ ما أشهدتهم خلق السموات والأرض ｜ نظريات خلق",
+  "title_src": "filename",
+  "sha256": "0a65baa99f0efd948f5e6291b58a5e54c20cf79ecb16ff1c774cefde6515a9aa",
+  "nh": "ab570202da312bf2d2ecf325b6ab940953b671b3e77b40d29b34026d4fb713de",
+  "chars": 13711,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/408/010_10- الجديد في إعجاز  القرآن الكريم ｜ ما أشهدتهم خلق السموات والأرض ｜ نظريات خلق .txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/408/9.txt",
-   "sha256": "0a65baa99f0efd948f5e6291b58a5e54c20cf79ecb16ff1c774cefde6515a9aa",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/408/010_10- الجديد في إعجاز  القرآن الكريم ｜ ما أشهدتهم خلق السموات والأرض ｜ نظريات خلق .txt",
+      "sha256": "0a65baa99f0efd948f5e6291b58a5e54c20cf79ecb16ff1c774cefde6515a9aa",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/408/9.txt",
+      "sha256": "0a65baa99f0efd948f5e6291b58a5e54c20cf79ecb16ff1c774cefde6515a9aa",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9996,
+    "spoken_align_pct": 99.96,
+    "audio_span_pct": 99.91,
+    "words": 2461,
+    "aligned": 2455,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 18:57"
   }
- ],
- "variants": [],
- "also_in": []
 }

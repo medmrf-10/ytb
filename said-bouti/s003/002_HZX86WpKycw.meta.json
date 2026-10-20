@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:HZX86WpKycw",
- "vid": "HZX86WpKycw",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--408",
- "n": 2,
- "n_src": "read",
- "title": "2- الجديد في إعجاز القرآن الكريم ｜ حقيقة الإعجاز العددي",
- "title_src": "filename",
- "sha256": "3a22e96b672812f44f96b2233bb04323bcf26ecb9cbd465238548587c4d476fa",
- "nh": "2abb226bd29b14000ea7a8ef68d587f730ae5b624f8460377350ef731d3565eb",
- "chars": 13627,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/408/002_2- الجديد في إعجاز القرآن الكريم ｜ حقيقة الإعجاز العددي.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/408/002_2- الجديد في إعجاز القرآن الكريم ｜ حقيقة الإعجاز العددي.txt",
-   "sha256": "3a22e96b672812f44f96b2233bb04323bcf26ecb9cbd465238548587c4d476fa",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:HZX86WpKycw",
+  "vid": "HZX86WpKycw",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--408",
+  "n": 2,
+  "n_src": "read",
+  "title": "2- الجديد في إعجاز القرآن الكريم ｜ حقيقة الإعجاز العددي",
+  "title_src": "filename",
+  "sha256": "3a22e96b672812f44f96b2233bb04323bcf26ecb9cbd465238548587c4d476fa",
+  "nh": "2abb226bd29b14000ea7a8ef68d587f730ae5b624f8460377350ef731d3565eb",
+  "chars": 13627,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/408/002_2- الجديد في إعجاز القرآن الكريم ｜ حقيقة الإعجاز العددي.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/408/1.txt",
-   "sha256": "3a22e96b672812f44f96b2233bb04323bcf26ecb9cbd465238548587c4d476fa",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/408/002_2- الجديد في إعجاز القرآن الكريم ｜ حقيقة الإعجاز العددي.txt",
+      "sha256": "3a22e96b672812f44f96b2233bb04323bcf26ecb9cbd465238548587c4d476fa",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/408/1.txt",
+      "sha256": "3a22e96b672812f44f96b2233bb04323bcf26ecb9cbd465238548587c4d476fa",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.96,
+    "words": 2486,
+    "aligned": 2486,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 18:52"
   }
- ],
- "variants": [],
- "also_in": []
 }

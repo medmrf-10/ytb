@@ -1,7 +1,7 @@
 {
   "sheikhs": [
     {
-      "aligned": 282,
+      "aligned": 292,
       "chars": 20562717,
       "lessons": 1165,
       "name": "محمد سعيد رمضان البوطي",
@@ -38,14 +38,14 @@
           "transcribed": 63
         },
         {
-          "aligned": 1,
-          "aligned_pct": "3.2%",
+          "aligned": 11,
+          "aligned_pct": "35.5%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 31,
           "dir": "s003/",
-          "dur": 50418,
+          "dur": 50416,
           "key": "s003",
           "series_id": "bouti__s003",
           "title": "برنامج الجديد في إعجاز القرآن الكريم",
@@ -489,8 +489,8 @@
       "slug": "said-bouti"
     },
     {
-      "aligned": 334,
-      "chars": 13956611,
+      "aligned": 335,
+      "chars": 13956593,
       "lessons": 648,
       "name": "محمد متولي الشعراوي",
       "path": "sharawi/",
@@ -652,14 +652,14 @@
           "transcribed": 1
         },
         {
-          "aligned": 29,
-          "aligned_pct": "96.7%",
+          "aligned": 30,
+          "aligned_pct": "100.0%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 30,
           "dir": "s016/",
-          "dur": 77753,
+          "dur": 77752,
           "key": "s016",
           "series_id": "shaarawy__s016",
           "title": "تفسير سورة الإسراء",
@@ -1592,8 +1592,8 @@
     },
     {
       "aligned": 95,
-      "chars": 9242363,
-      "lessons": 509,
+      "chars": 9293655,
+      "lessons": 512,
       "name": "الحبيب عمر بن حفيظ",
       "path": "habib-omar-ibn-hafiz/",
       "photo": "_meta/img/habib-omar-ibn-hafiz.jpg",
@@ -1673,15 +1673,15 @@
           "aligned": 0,
           "aligned_pct": "0.0%",
           "category": "الخطب والمحاضرات",
-          "coverage": 0.1751,
-          "coverage_pct": "17.5%",
+          "coverage": 0.184,
+          "coverage_pct": "18.4%",
           "declared_total": 337,
           "dir": "khutab_jumaa/",
-          "dur": 104824,
+          "dur": 111057,
           "key": "khutab_jumaa",
           "series_id": "hafiz__khutab_jumaa",
           "title": "خطب الجمعة والعيدين والكسوف والخسوف",
-          "transcribed": 59
+          "transcribed": 62
         },
         {
           "aligned": 19,
@@ -4500,8 +4500,8 @@
     },
     {
       "aligned": 106,
-      "chars": 4500354,
-      "lessons": 218,
+      "chars": 4527304,
+      "lessons": 220,
       "name": "مولود السريري",
       "path": "mouloud-sariri/",
       "photo": "_meta/img/mouloud-sariri.jpg",
@@ -4735,15 +4735,15 @@
           "aligned": 0,
           "aligned_pct": "0.0%",
           "category": "الخطب والوعظ",
-          "coverage": 0.445,
-          "coverage_pct": "44.5%",
+          "coverage": 0.455,
+          "coverage_pct": "45.5%",
           "declared_total": 200,
           "dir": "s043/",
-          "dur": 133648,
+          "dur": 137059,
           "key": "s043",
           "series_id": "sariri__s043",
           "title": "خطب منبرية وخطب الجمعة",
-          "transcribed": 89
+          "transcribed": 91
         }
       ],
       "slug": "mouloud-sariri"
@@ -5720,9 +5720,9 @@
     }
   ],
   "totals": {
-    "aligned": 2804,
-    "chars": 157062447,
-    "lessons": 6652,
+    "aligned": 2815,
+    "chars": 157140671,
+    "lessons": 6657,
     "series": 387,
     "sheikhs": 25
   },
