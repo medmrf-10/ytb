@@ -1592,8 +1592,8 @@
     },
     {
       "aligned": 95,
-      "chars": 8884686,
-      "lessons": 487,
+      "chars": 8901604,
+      "lessons": 488,
       "name": "الحبيب عمر بن حفيظ",
       "path": "habib-omar-ibn-hafiz/",
       "photo": "_meta/img/habib-omar-ibn-hafiz.jpg",
@@ -1673,15 +1673,15 @@
           "aligned": 0,
           "aligned_pct": "0.0%",
           "category": "الخطب والمحاضرات",
-          "coverage": 0.1098,
-          "coverage_pct": "11.0%",
+          "coverage": 0.1128,
+          "coverage_pct": "11.3%",
           "declared_total": 337,
           "dir": "khutab_jumaa/",
-          "dur": 61826,
+          "dur": 63693,
           "key": "khutab_jumaa",
           "series_id": "hafiz__khutab_jumaa",
           "title": "خطب الجمعة والعيدين والكسوف والخسوف",
-          "transcribed": 37
+          "transcribed": 38
         },
         {
           "aligned": 19,
@@ -2315,7 +2315,7 @@
       "slug": "ahmed-alsayed"
     },
     {
-      "aligned": 133,
+      "aligned": 135,
       "chars": 6585076,
       "lessons": 471,
       "name": "الحبيب علي الجفري",
@@ -2450,14 +2450,14 @@
           "transcribed": 30
         },
         {
-          "aligned": 14,
-          "aligned_pct": "46.7%",
+          "aligned": 16,
+          "aligned_pct": "53.3%",
           "category": "برنامج رمضاني",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 30,
           "dir": "s015/",
-          "dur": 47140,
+          "dur": 47139,
           "key": "s015",
           "series_id": "jifri__s015",
           "title": "برنامج أيها المريد - الموسم الثاني (العقبات السبع في الطريق إلى الله - مترجم للإنجليزية)",
@@ -5720,9 +5720,9 @@
     }
   ],
   "totals": {
-    "aligned": 2705,
-    "chars": 156659850,
-    "lessons": 6626,
+    "aligned": 2707,
+    "chars": 156676768,
+    "lessons": 6627,
     "series": 387,
     "sheikhs": 25
   },

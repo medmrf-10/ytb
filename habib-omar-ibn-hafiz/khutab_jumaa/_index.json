@@ -2,7 +2,7 @@
   "aligned": 0,
   "aligned_ratio": 0.0,
   "category": "الخطب والمحاضرات",
-  "coverage": 0.1098,
+  "coverage": 0.1128,
   "declared_total": 337,
   "key": "khutab_jumaa",
   "lessons": [
@@ -284,6 +284,17 @@
     {
       "align_coverage": null,
       "aligned": false,
+      "chars": 16918,
+      "dur": 1867,
+      "file": "201_XIrTLSQnWQs.txt",
+      "n": 201,
+      "stem": "201_XIrTLSQnWQs",
+      "title": "الإيمان وسنة الرحمن في تدبير الأحوال والأطوار",
+      "vid": "XIrTLSQnWQs"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
       "chars": 12939,
       "dur": 1619,
       "file": "204_QG1oUKr7kts.txt",
@@ -418,6 +429,6 @@
   "sheikh": "habib-omar-ibn-hafiz",
   "sheikh_name": "الحبيب عمر بن حفيظ",
   "title": "خطب الجمعة والعيدين والكسوف والخسوف",
-  "transcribed": 37,
+  "transcribed": 38,
   "v": 2
 }
