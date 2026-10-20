@@ -1,45 +1,58 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--10:10",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--10",
- "n": 10,
- "n_src": "read",
- "title": "الدرس 10 ｜ شرح منظومة الأجهوري في أصول الدين- صفات المعاني(تعلقات القدرة و الإرا",
- "title_src": "filename",
- "sha256": "5d29939e19b04d2414358002995d0a6c56b12a7638c297ee607d88c81b0f2d00",
- "nh": "d5a4f892a8f65ce1bf6184347cf2ad76400846fc4aaba96427d740dad5fa83d6",
- "chars": 12701,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/10/010_الدرس 10 ｜ شرح منظومة الأجهوري في أصول الدين- صفات المعاني(تعلقات القدرة و الإرا.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/10/010_الدرس 10 ｜ شرح منظومة الأجهوري في أصول الدين- صفات المعاني(تعلقات القدرة و الإرا.txt",
-   "sha256": "5d29939e19b04d2414358002995d0a6c56b12a7638c297ee607d88c81b0f2d00",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--10:10",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--10",
+  "n": 10,
+  "n_src": "read",
+  "title": "الدرس 10 ｜ شرح منظومة الأجهوري في أصول الدين- صفات المعاني(تعلقات القدرة و الإرا",
+  "title_src": "filename",
+  "sha256": "5d29939e19b04d2414358002995d0a6c56b12a7638c297ee607d88c81b0f2d00",
+  "nh": "d5a4f892a8f65ce1bf6184347cf2ad76400846fc4aaba96427d740dad5fa83d6",
+  "chars": 12701,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/10/010_الدرس 10 ｜ شرح منظومة الأجهوري في أصول الدين- صفات المعاني(تعلقات القدرة و الإرا.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bardouni/ajhuri/9.txt",
-   "sha256": "5d29939e19b04d2414358002995d0a6c56b12a7638c297ee607d88c81b0f2d00",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/995/9.txt",
-   "sha256": "5d29939e19b04d2414358002995d0a6c56b12a7638c297ee607d88c81b0f2d00",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/10/010_الدرس 10 ｜ شرح منظومة الأجهوري في أصول الدين- صفات المعاني(تعلقات القدرة و الإرا.txt",
+      "sha256": "5d29939e19b04d2414358002995d0a6c56b12a7638c297ee607d88c81b0f2d00",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bardouni/ajhuri/9.txt",
+      "sha256": "5d29939e19b04d2414358002995d0a6c56b12a7638c297ee607d88c81b0f2d00",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/995/9.txt",
+      "sha256": "5d29939e19b04d2414358002995d0a6c56b12a7638c297ee607d88c81b0f2d00",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "k:10"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9898,
+    "spoken_align_pct": 98.98,
+    "audio_span_pct": 99.9,
+    "words": 2458,
+    "aligned": 2424,
+    "interpolated": 25,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 04:30"
   }
- ],
- "variants": [],
- "also_in": [
-  "k:10"
- ]
 }

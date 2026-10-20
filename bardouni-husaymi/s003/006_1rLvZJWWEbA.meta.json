@@ -1,45 +1,61 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--10:6",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--10",
- "n": 6,
- "n_src": "read",
- "title": "الدرس 6 ｜ شرح منظومة الأجهوري في أصول الدين- ما يجب لله (الوجود والقدم و البقاء)",
- "title_src": "filename",
- "sha256": "e46136ac6b02fe4be2553b9bdf6ab76cfd716feca03d9a344bf2c47c3c95e282",
- "nh": "1c78ce79d2578bad1f5cfc29c0345c648bbf3077968916aa426364be14cf06d2",
- "chars": 12242,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/10/006_الدرس 6 ｜ شرح منظومة الأجهوري في أصول الدين- ما يجب لله (الوجود والقدم و البقاء).txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/10/006_الدرس 6 ｜ شرح منظومة الأجهوري في أصول الدين- ما يجب لله (الوجود والقدم و البقاء).txt",
-   "sha256": "e46136ac6b02fe4be2553b9bdf6ab76cfd716feca03d9a344bf2c47c3c95e282",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--10:6",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--10",
+  "n": 6,
+  "n_src": "read",
+  "title": "الدرس 6 ｜ شرح منظومة الأجهوري في أصول الدين- ما يجب لله (الوجود والقدم و البقاء)",
+  "title_src": "filename",
+  "sha256": "e46136ac6b02fe4be2553b9bdf6ab76cfd716feca03d9a344bf2c47c3c95e282",
+  "nh": "1c78ce79d2578bad1f5cfc29c0345c648bbf3077968916aa426364be14cf06d2",
+  "chars": 12242,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/10/006_الدرس 6 ｜ شرح منظومة الأجهوري في أصول الدين- ما يجب لله (الوجود والقدم و البقاء).txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bardouni/ajhuri/5.txt",
-   "sha256": "e46136ac6b02fe4be2553b9bdf6ab76cfd716feca03d9a344bf2c47c3c95e282",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/995/5.txt",
-   "sha256": "e46136ac6b02fe4be2553b9bdf6ab76cfd716feca03d9a344bf2c47c3c95e282",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/10/006_الدرس 6 ｜ شرح منظومة الأجهوري في أصول الدين- ما يجب لله (الوجود والقدم و البقاء).txt",
+      "sha256": "e46136ac6b02fe4be2553b9bdf6ab76cfd716feca03d9a344bf2c47c3c95e282",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bardouni/ajhuri/5.txt",
+      "sha256": "e46136ac6b02fe4be2553b9bdf6ab76cfd716feca03d9a344bf2c47c3c95e282",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/995/5.txt",
+      "sha256": "e46136ac6b02fe4be2553b9bdf6ab76cfd716feca03d9a344bf2c47c3c95e282",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "k:10"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.95,
+    "words": 2276,
+    "aligned": 2273,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 04:28",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": [
-  "k:10"
- ]
 }

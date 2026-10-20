@@ -1,45 +1,58 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--10:8",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--10",
- "n": 8,
- "n_src": "read",
- "title": "الدرس8 ｜شرح منظومة الأجهوري في أصول الدين- ما يجب لله(صفة الوحدانية)- ｜ الشيخ ال",
- "title_src": "filename",
- "sha256": "6fcd5ea53c5dd78b69d854a9bdfe170fbb6b5198436287392fe790394435576b",
- "nh": "af1ba459debd0ddfe7368468eaa48fdd9b9b1ae34010fce5af931d2fc6e5f27e",
- "chars": 11121,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/10/008_الدرس8 ｜شرح منظومة الأجهوري في أصول الدين- ما يجب لله(صفة الوحدانية)- ｜ الشيخ ال.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/10/008_الدرس8 ｜شرح منظومة الأجهوري في أصول الدين- ما يجب لله(صفة الوحدانية)- ｜ الشيخ ال.txt",
-   "sha256": "6fcd5ea53c5dd78b69d854a9bdfe170fbb6b5198436287392fe790394435576b",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--10:8",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--10",
+  "n": 8,
+  "n_src": "read",
+  "title": "الدرس8 ｜شرح منظومة الأجهوري في أصول الدين- ما يجب لله(صفة الوحدانية)- ｜ الشيخ ال",
+  "title_src": "filename",
+  "sha256": "6fcd5ea53c5dd78b69d854a9bdfe170fbb6b5198436287392fe790394435576b",
+  "nh": "af1ba459debd0ddfe7368468eaa48fdd9b9b1ae34010fce5af931d2fc6e5f27e",
+  "chars": 11121,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/10/008_الدرس8 ｜شرح منظومة الأجهوري في أصول الدين- ما يجب لله(صفة الوحدانية)- ｜ الشيخ ال.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bardouni/ajhuri/7.txt",
-   "sha256": "6fcd5ea53c5dd78b69d854a9bdfe170fbb6b5198436287392fe790394435576b",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/995/7.txt",
-   "sha256": "6fcd5ea53c5dd78b69d854a9bdfe170fbb6b5198436287392fe790394435576b",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/10/008_الدرس8 ｜شرح منظومة الأجهوري في أصول الدين- ما يجب لله(صفة الوحدانية)- ｜ الشيخ ال.txt",
+      "sha256": "6fcd5ea53c5dd78b69d854a9bdfe170fbb6b5198436287392fe790394435576b",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bardouni/ajhuri/7.txt",
+      "sha256": "6fcd5ea53c5dd78b69d854a9bdfe170fbb6b5198436287392fe790394435576b",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/995/7.txt",
+      "sha256": "6fcd5ea53c5dd78b69d854a9bdfe170fbb6b5198436287392fe790394435576b",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "k:10"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.994,
+    "spoken_align_pct": 99.4,
+    "audio_span_pct": 99.97,
+    "words": 2840,
+    "aligned": 2821,
+    "interpolated": 17,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 04:29"
   }
- ],
- "variants": [],
- "also_in": [
-  "k:10"
- ]
 }
