@@ -1,7 +1,7 @@
 {
   "sheikhs": [
     {
-      "aligned": 279,
+      "aligned": 281,
       "chars": 20562717,
       "lessons": 1165,
       "name": "محمد سعيد رمضان البوطي",
@@ -66,8 +66,8 @@
           "transcribed": 26
         },
         {
-          "aligned": 27,
-          "aligned_pct": "90.0%",
+          "aligned": 29,
+          "aligned_pct": "96.7%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
@@ -489,8 +489,8 @@
       "slug": "said-bouti"
     },
     {
-      "aligned": 305,
-      "chars": 13957435,
+      "aligned": 311,
+      "chars": 13957135,
       "lessons": 648,
       "name": "محمد متولي الشعراوي",
       "path": "sharawi/",
@@ -652,14 +652,14 @@
           "transcribed": 1
         },
         {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
+          "aligned": 6,
+          "aligned_pct": "20.0%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 30,
           "dir": "s016/",
-          "dur": 77750,
+          "dur": 77754,
           "key": "s016",
           "series_id": "shaarawy__s016",
           "title": "تفسير سورة الإسراء",
@@ -5720,8 +5720,8 @@
     }
   ],
   "totals": {
-    "aligned": 2772,
-    "chars": 157002276,
+    "aligned": 2780,
+    "chars": 157001976,
     "lessons": 6647,
     "series": 387,
     "sheikhs": 25

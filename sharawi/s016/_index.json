@@ -1,16 +1,16 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 6,
+  "aligned_ratio": 0.2,
   "category": "التفسير وعلوم القرآن",
   "coverage": 1.0,
   "declared_total": 30,
   "key": "s016",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 28574,
-      "dur": 2784,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 28498,
+      "dur": 2785,
       "file": "001_bhQk2PirYTc.txt",
       "n": 1,
       "stem": "001_bhQk2PirYTc",
@@ -18,9 +18,9 @@
       "vid": "bhQk2PirYTc"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 30555,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 30518,
       "dur": 2769,
       "file": "002_ivUFvH6fFyw.txt",
       "n": 2,
@@ -29,10 +29,10 @@
       "vid": "ivUFvH6fFyw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 28388,
-      "dur": 2762,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 28312,
+      "dur": 2763,
       "file": "003_GMbTulZft0o.txt",
       "n": 3,
       "stem": "003_GMbTulZft0o",
@@ -40,10 +40,10 @@
       "vid": "GMbTulZft0o"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 32087,
-      "dur": 2800,
+      "dur": 2801,
       "file": "004_0UOP2GmpZJ4.txt",
       "n": 4,
       "stem": "004_0UOP2GmpZJ4",
@@ -51,10 +51,10 @@
       "vid": "0UOP2GmpZJ4"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 31982,
-      "dur": 2736,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 31958,
+      "dur": 2737,
       "file": "005_j1YtP0Ji_UU.txt",
       "n": 5,
       "stem": "005_j1YtP0Ji_UU",
@@ -62,9 +62,9 @@
       "vid": "j1YtP0Ji_UU"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 30590,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 30503,
       "dur": 2692,
       "file": "006_0__cbNBM0eQ.txt",
       "n": 6,

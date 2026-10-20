@@ -157,14 +157,14 @@
       "transcribed": 1
     },
     {
-      "aligned": 0,
-      "aligned_pct": "0.0%",
+      "aligned": 6,
+      "aligned_pct": "20.0%",
       "category": "التفسير وعلوم القرآن",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
       "declared_total": 30,
       "dir": "s016/",
-      "dur": 77750,
+      "dur": 77754,
       "key": "s016",
       "series_id": "shaarawy__s016",
       "title": "تفسير سورة الإسراء",
@@ -677,8 +677,8 @@
   ],
   "slug": "sharawi",
   "totals": {
-    "aligned": 305,
-    "chars": 13957435,
+    "aligned": 311,
+    "chars": 13957135,
     "lessons": 648,
     "series": 48
   },
