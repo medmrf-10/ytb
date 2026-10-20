@@ -2,7 +2,7 @@
   "aligned": 0,
   "aligned_ratio": 0.0,
   "category": "الخطب والمحاضرات",
-  "coverage": 0.1395,
+  "coverage": 0.1484,
   "declared_total": 337,
   "key": "khutab_jumaa",
   "lessons": [
@@ -372,6 +372,28 @@
     {
       "align_coverage": null,
       "aligned": false,
+      "chars": 19209,
+      "dur": 1958,
+      "file": "197_IQ6P_cbYTrQ.txt",
+      "n": 197,
+      "stem": "197_IQ6P_cbYTrQ",
+      "title": "حكمة الخلق وسر الخلافة ووجوب الدفاع عن الدين والوطن",
+      "vid": "IQ6P_cbYTrQ"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 14416,
+      "dur": 1947,
+      "file": "200_eP6CXHEDdss.txt",
+      "n": 200,
+      "stem": "200_eP6CXHEDdss",
+      "title": "الحبيب عمر بن حفيظ: استغاثة الرب الحق واستنصاره بتقواه والتذكُّر بالحوادث وتقلُّب الأوضاع",
+      "vid": "eP6CXHEDdss"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
       "chars": 16918,
       "dur": 1867,
       "file": "201_XIrTLSQnWQs.txt",
@@ -390,6 +412,17 @@
       "stem": "204_QG1oUKr7kts",
       "title": "الحبيب عمر بن حفيظ: الأسرة والصحبة وعظيم أثرهما في الحياتين",
       "vid": "QG1oUKr7kts"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 17299,
+      "dur": 1930,
+      "file": "206_nriZGzUnX6U.txt",
+      "n": 206,
+      "stem": "206_nriZGzUnX6U",
+      "title": "الحبيب عمر بن حفيظ: سبيل الأنبياء وهداهم أمام الحوادث والمعتدين وواجب المؤمنين الواضح في تبعيَّتهم",
+      "vid": "nriZGzUnX6U"
     },
     {
       "align_coverage": null,
@@ -528,6 +561,6 @@
   "sheikh": "habib-omar-ibn-hafiz",
   "sheikh_name": "الحبيب عمر بن حفيظ",
   "title": "خطب الجمعة والعيدين والكسوف والخسوف",
-  "transcribed": 47,
+  "transcribed": 50,
   "v": 2
 }

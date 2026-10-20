@@ -1,31 +1,47 @@
 {
- "v": 1,
- "lid": "yt:8xABOqu1gkw",
- "vid": "8xABOqu1gkw",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--95",
- "n": 15,
- "n_src": "read",
- "title": "حلقة 14： انضباط المريد ｜ أيها المريد ｜ الحبيب علي الجفري",
- "title_src": "filename",
- "sha256": "3fa38373e9f5d9ce20d45f7de6e90cccf1d39804f00b44ac9f080223c396dd45",
- "nh": "60c0e2d62db32fd26277a98a677558890c70ef80cafd6fa9a69a267a0f97dc5e",
- "chars": 18462,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/95/015_حلقة 14： انضباط المريد ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/95/015_حلقة 14： انضباط المريد ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
-   "sha256": "3fa38373e9f5d9ce20d45f7de6e90cccf1d39804f00b44ac9f080223c396dd45",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:8xABOqu1gkw",
+  "vid": "8xABOqu1gkw",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--95",
+  "n": 15,
+  "n_src": "read",
+  "title": "حلقة 14： انضباط المريد ｜ أيها المريد ｜ الحبيب علي الجفري",
+  "title_src": "filename",
+  "sha256": "3fa38373e9f5d9ce20d45f7de6e90cccf1d39804f00b44ac9f080223c396dd45",
+  "nh": "60c0e2d62db32fd26277a98a677558890c70ef80cafd6fa9a69a267a0f97dc5e",
+  "chars": 18462,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/95/015_حلقة 14： انضباط المريد ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/95/015_حلقة 14： انضباط المريد ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
+      "sha256": "3fa38373e9f5d9ce20d45f7de6e90cccf1d39804f00b44ac9f080223c396dd45",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9872,
+    "spoken_align_pct": 98.72,
+    "audio_span_pct": 96.12,
+    "words": 3287,
+    "aligned": 3245,
+    "interpolated": 42,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 17:42",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

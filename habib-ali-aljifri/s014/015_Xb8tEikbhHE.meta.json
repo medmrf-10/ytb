@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:Xb8tEikbhHE",
- "vid": "Xb8tEikbhHE",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--95",
- "n": 16,
- "n_src": "read",
- "title": "حلقة 15： التهيؤ للصلاة ｜ أيها المريد ｜ الحبيب علي الجفري",
- "title_src": "filename",
- "sha256": "7acf1e380a75865221600e8b9da0a3b1bc4b7286b818e3afa2006a486a221a12",
- "nh": "b0af3086fab18a4617a1260b1b0d67f74d9d843bece4938463c697885fc6a593",
- "chars": 17294,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/95/016_حلقة 15： التهيؤ للصلاة ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/95/016_حلقة 15： التهيؤ للصلاة ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
-   "sha256": "7acf1e380a75865221600e8b9da0a3b1bc4b7286b818e3afa2006a486a221a12",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:Xb8tEikbhHE",
+  "vid": "Xb8tEikbhHE",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--95",
+  "n": 16,
+  "n_src": "read",
+  "title": "حلقة 15： التهيؤ للصلاة ｜ أيها المريد ｜ الحبيب علي الجفري",
+  "title_src": "filename",
+  "sha256": "7acf1e380a75865221600e8b9da0a3b1bc4b7286b818e3afa2006a486a221a12",
+  "nh": "b0af3086fab18a4617a1260b1b0d67f74d9d843bece4938463c697885fc6a593",
+  "chars": 17294,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/95/016_حلقة 15： التهيؤ للصلاة ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/95/016_حلقة 15： التهيؤ للصلاة ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
+      "sha256": "7acf1e380a75865221600e8b9da0a3b1bc4b7286b818e3afa2006a486a221a12",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9861,
+    "spoken_align_pct": 98.61,
+    "audio_span_pct": 96.35,
+    "words": 3314,
+    "aligned": 3268,
+    "interpolated": 46,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 17:42"
   }
- ],
- "variants": [],
- "also_in": []
 }

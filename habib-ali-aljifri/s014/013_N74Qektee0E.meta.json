@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:N74Qektee0E",
- "vid": "N74Qektee0E",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--95",
- "n": 14,
- "n_src": "read",
- "title": "حلقة 13： طهارة الظاهر 2 ｜ أيها المريد ｜ الحبيب علي الجفري",
- "title_src": "filename",
- "sha256": "424243337a7fc4268f8069b10bd126a764798d7cf7d800a60a12542e847f613b",
- "nh": "d6480fb065d9945586d548c85aa63abc88217fddc0d570f2cbce9d1ed9d73b5c",
- "chars": 17237,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/95/014_حلقة 13： طهارة الظاهر 2 ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/95/014_حلقة 13： طهارة الظاهر 2 ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
-   "sha256": "424243337a7fc4268f8069b10bd126a764798d7cf7d800a60a12542e847f613b",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:N74Qektee0E",
+  "vid": "N74Qektee0E",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--95",
+  "n": 14,
+  "n_src": "read",
+  "title": "حلقة 13： طهارة الظاهر 2 ｜ أيها المريد ｜ الحبيب علي الجفري",
+  "title_src": "filename",
+  "sha256": "424243337a7fc4268f8069b10bd126a764798d7cf7d800a60a12542e847f613b",
+  "nh": "d6480fb065d9945586d548c85aa63abc88217fddc0d570f2cbce9d1ed9d73b5c",
+  "chars": 17237,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/95/014_حلقة 13： طهارة الظاهر 2 ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/95/014_حلقة 13： طهارة الظاهر 2 ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
+      "sha256": "424243337a7fc4268f8069b10bd126a764798d7cf7d800a60a12542e847f613b",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9854,
+    "spoken_align_pct": 98.54,
+    "audio_span_pct": 95.99,
+    "words": 3279,
+    "aligned": 3231,
+    "interpolated": 48,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 17:42"
   }
- ],
- "variants": [],
- "also_in": []
 }
