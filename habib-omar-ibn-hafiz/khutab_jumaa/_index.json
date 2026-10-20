@@ -2,7 +2,7 @@
   "aligned": 0,
   "aligned_ratio": 0.0,
   "category": "الخطب والمحاضرات",
-  "coverage": 0.1721,
+  "coverage": 0.1751,
   "declared_total": 337,
   "key": "khutab_jumaa",
   "lessons": [
@@ -60,6 +60,17 @@
       "stem": "016_Qwj9rK7MGPM",
       "title": "خطبة جمعة : جمع القلوب على الله وجمع عباده على محبته",
       "vid": "Qwj9rK7MGPM"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 15044,
+      "dur": 2045,
+      "file": "017__1ggB1aVmS0.txt",
+      "n": 17,
+      "stem": "017__1ggB1aVmS0",
+      "title": "خطبة جمعة : إلى من يسلّم المؤمن زمام أموره",
+      "vid": "_1ggB1aVmS0"
     },
     {
       "align_coverage": null,
@@ -649,6 +660,6 @@
   "sheikh": "habib-omar-ibn-hafiz",
   "sheikh_name": "الحبيب عمر بن حفيظ",
   "title": "خطب الجمعة والعيدين والكسوف والخسوف",
-  "transcribed": 58,
+  "transcribed": 59,
   "v": 2
 }

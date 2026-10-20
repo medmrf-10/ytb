@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:qcXrAEkKPXI",
- "vid": "qcXrAEkKPXI",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--408",
- "n": 1,
- "n_src": "read",
- "title": "1- الجديد في إعجاز القرآن الكريم ｜ ما معنى الإعجاز وهل هناك جديدٌ حقاً ؟",
- "title_src": "filename",
- "sha256": "d7542e13d59fbfc2835ac71fd19f39bbe29ca5d99f535ab9e025d5ccdcccdd8d",
- "nh": "5233cf7b0797cb030ff94fa82cd50aebabee4c92a0c01ba5094998931d322067",
- "chars": 12184,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/408/001_1- الجديد في إعجاز القرآن الكريم ｜ ما معنى الإعجاز وهل هناك جديدٌ حقاً ؟.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/408/001_1- الجديد في إعجاز القرآن الكريم ｜ ما معنى الإعجاز وهل هناك جديدٌ حقاً ؟.txt",
-   "sha256": "d7542e13d59fbfc2835ac71fd19f39bbe29ca5d99f535ab9e025d5ccdcccdd8d",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:qcXrAEkKPXI",
+  "vid": "qcXrAEkKPXI",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--408",
+  "n": 1,
+  "n_src": "read",
+  "title": "1- الجديد في إعجاز القرآن الكريم ｜ ما معنى الإعجاز وهل هناك جديدٌ حقاً ؟",
+  "title_src": "filename",
+  "sha256": "d7542e13d59fbfc2835ac71fd19f39bbe29ca5d99f535ab9e025d5ccdcccdd8d",
+  "nh": "5233cf7b0797cb030ff94fa82cd50aebabee4c92a0c01ba5094998931d322067",
+  "chars": 12184,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/408/001_1- الجديد في إعجاز القرآن الكريم ｜ ما معنى الإعجاز وهل هناك جديدٌ حقاً ؟.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/408/0.txt",
-   "sha256": "d7542e13d59fbfc2835ac71fd19f39bbe29ca5d99f535ab9e025d5ccdcccdd8d",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/408/001_1- الجديد في إعجاز القرآن الكريم ｜ ما معنى الإعجاز وهل هناك جديدٌ حقاً ؟.txt",
+      "sha256": "d7542e13d59fbfc2835ac71fd19f39bbe29ca5d99f535ab9e025d5ccdcccdd8d",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/408/0.txt",
+      "sha256": "d7542e13d59fbfc2835ac71fd19f39bbe29ca5d99f535ab9e025d5ccdcccdd8d",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9995,
+    "spoken_align_pct": 99.95,
+    "audio_span_pct": 99.94,
+    "words": 2219,
+    "aligned": 2218,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 18:51"
   }
- ],
- "variants": [],
- "also_in": []
 }

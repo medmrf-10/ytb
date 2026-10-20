@@ -8,9 +8,9 @@
 
 - **المشايخ ذوو المحتوى الفعلي:** 25 شيخاً
 - **السلاسل المفرّغة:** 387 سلسلة
-- **الدروس المفرّغة نصياً (`.txt`):** 6,647 درساً
-- **الدروس المحاذاة صوتياً (`.align.json`):** 2,791 درساً
-- **إجمالي الحجم النصي:** 157,001,647 حرفاً
+- **الدروس المفرّغة نصياً (`.txt`):** 6,652 درساً
+- **الدروس المحاذاة صوتياً (`.align.json`):** 2,804 درساً
+- **إجمالي الحجم النصي:** 157,062,447 حرفاً
 
 ---
 
@@ -18,10 +18,10 @@
 
 | # | الشيخ | المعرّف (`Slug`) | السلاسل | الدروس المفرغة (`.txt`) | الدروس المحاذاة (`.align.json`) | المجلد |
 |---:|---|---|---:|---:|---:|---|
-| 1 | محمد سعيد رمضان البوطي | `said-bouti` | 34 | 1,165 | 281 | [`said-bouti/`](./said-bouti/) |
-| 2 | محمد متولي الشعراوي | `sharawi` | 48 | 648 | 322 | [`sharawi/`](./sharawi/) |
+| 1 | محمد سعيد رمضان البوطي | `said-bouti` | 34 | 1,165 | 282 | [`said-bouti/`](./said-bouti/) |
+| 2 | محمد متولي الشعراوي | `sharawi` | 48 | 648 | 334 | [`sharawi/`](./sharawi/) |
 | 3 | أدهم العاسمي | `adham-alasimi` | 29 | 546 | 162 | [`adham-alasimi/`](./adham-alasimi/) |
-| 4 | الحبيب عمر بن حفيظ | `habib-omar-ibn-hafiz` | 16 | 508 | 95 | [`habib-omar-ibn-hafiz/`](./habib-omar-ibn-hafiz/) |
+| 4 | الحبيب عمر بن حفيظ | `habib-omar-ibn-hafiz` | 16 | 509 | 95 | [`habib-omar-ibn-hafiz/`](./habib-omar-ibn-hafiz/) |
 | 5 | أحمد السيد | `ahmed-alsayed` | 34 | 483 | 284 | [`ahmed-alsayed/`](./ahmed-alsayed/) |
 | 6 | الحبيب علي الجفري | `habib-ali-aljifri` | 23 | 471 | 173 | [`habib-ali-aljifri/`](./habib-ali-aljifri/) |
 | 7 | فاضل السامرائي | `fadhel-samarrai` | 42 | 460 | 426 | [`fadhel-samarrai/`](./fadhel-samarrai/) |
@@ -30,7 +30,7 @@
 | 10 | علي جمعة | `ali-gomaa` | 14 | 276 | 51 | [`ali-gomaa/`](./ali-gomaa/) |
 | 11 | محمد الحسن الددو | `daddo` | 17 | 244 | 193 | [`daddo/`](./daddo/) |
 | 12 | علي محمود العمري | `ali-mahmoud-alomari` | 18 | 241 | 111 | [`ali-mahmoud-alomari/`](./ali-mahmoud-alomari/) |
-| 13 | مولود السريري | `mouloud-sariri` | 17 | 214 | 106 | [`mouloud-sariri/`](./mouloud-sariri/) |
+| 13 | مولود السريري | `mouloud-sariri` | 17 | 218 | 106 | [`mouloud-sariri/`](./mouloud-sariri/) |
 | 14 | علي هاني العقرباوي | `ali-hani-aqrabawi` | 14 | 197 | 150 | [`ali-hani-aqrabawi/`](./ali-hani-aqrabawi/) |
 | 15 | أيمن عبد الرحيم | `ayman-abdelrahim` | 20 | 130 | 119 | [`ayman-abdelrahim/`](./ayman-abdelrahim/) |
 | 16 | معاذ سعيد حوى | `maath-hawa` | 7 | 92 | 92 | [`maath-hawa/`](./maath-hawa/) |
