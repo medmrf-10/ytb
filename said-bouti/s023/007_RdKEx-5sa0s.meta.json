@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:RdKEx-5sa0s",
- "vid": "RdKEx-5sa0s",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--369",
- "n": 7,
- "n_src": "plpos",
- "title": "7- يغالطونك إذ يقولون :  ثبات الوحي لا يتفق مع صيرورة الحركة",
- "title_src": "yt_titles",
- "sha256": "d39dd444790e3e2b28de62d7613f6c5dee17eba4854d1f3a94c0144af9bb2915",
- "nh": "fc5b27951d0899c85a9740438db73f808b4edceb0f9593ce3b1d45f36b9b93b0",
- "chars": 26028,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/369/007_7- يغالطونك إذ يقولون ：  ثبات الوحي لا يتفق مع صيرورة الحركة.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/369/007_7- يغالطونك إذ يقولون ：  ثبات الوحي لا يتفق مع صيرورة الحركة.txt",
-   "sha256": "d39dd444790e3e2b28de62d7613f6c5dee17eba4854d1f3a94c0144af9bb2915",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:RdKEx-5sa0s",
+  "vid": "RdKEx-5sa0s",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--369",
+  "n": 7,
+  "n_src": "plpos",
+  "title": "7- يغالطونك إذ يقولون :  ثبات الوحي لا يتفق مع صيرورة الحركة",
+  "title_src": "yt_titles",
+  "sha256": "d39dd444790e3e2b28de62d7613f6c5dee17eba4854d1f3a94c0144af9bb2915",
+  "nh": "fc5b27951d0899c85a9740438db73f808b4edceb0f9593ce3b1d45f36b9b93b0",
+  "chars": 26028,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/369/007_7- يغالطونك إذ يقولون ：  ثبات الوحي لا يتفق مع صيرورة الحركة.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/yoghalitonak-007/transcript.txt",
-   "sha256": "9158d192c7b4e93e916f60ca214d5db36aec75ad74c4adcb4885b255af54a17e",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-yaghalitun/07.txt",
-   "sha256": "9158d192c7b4e93e916f60ca214d5db36aec75ad74c4adcb4885b255af54a17e",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/369/6.txt",
-   "sha256": "d39dd444790e3e2b28de62d7613f6c5dee17eba4854d1f3a94c0144af9bb2915",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/369/007_7- يغالطونك إذ يقولون ：  ثبات الوحي لا يتفق مع صيرورة الحركة.txt",
+      "sha256": "d39dd444790e3e2b28de62d7613f6c5dee17eba4854d1f3a94c0144af9bb2915",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/yoghalitonak-007/transcript.txt",
+      "sha256": "9158d192c7b4e93e916f60ca214d5db36aec75ad74c4adcb4885b255af54a17e",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-yaghalitun/07.txt",
+      "sha256": "9158d192c7b4e93e916f60ca214d5db36aec75ad74c4adcb4885b255af54a17e",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/369/6.txt",
+      "sha256": "d39dd444790e3e2b28de62d7613f6c5dee17eba4854d1f3a94c0144af9bb2915",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9994,
+    "spoken_align_pct": 99.94,
+    "audio_span_pct": 99.07,
+    "words": 4728,
+    "aligned": 4725,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 21:56"
   }
- ],
- "variants": [],
- "also_in": []
 }
