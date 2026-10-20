@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:Jw95vEKf-zE",
- "vid": "Jw95vEKf-zE",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--628",
- "n": 4,
- "n_src": "mutfile",
- "title": "السيرة النبوية للمصلحين 04 ｜ نزول الوحي ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "a77c9b5c44d06c54857b2a05124da492b2a7a07c02901844c3de594b6b5045c1",
- "nh": "098263b4ead99b8331137afd318ca0eb2d4c5ccbcb13f5139f0c43987c435f4b",
- "chars": 25417,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/628/004_السيرة النبوية للمصلحين 04 ｜ نزول الوحي ｜ أحمد السيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/628/004_السيرة النبوية للمصلحين 04 ｜ نزول الوحي ｜ أحمد السيد.txt",
-   "sha256": "a77c9b5c44d06c54857b2a05124da492b2a7a07c02901844c3de594b6b5045c1",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:Jw95vEKf-zE",
+  "vid": "Jw95vEKf-zE",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--628",
+  "n": 4,
+  "n_src": "mutfile",
+  "title": "السيرة النبوية للمصلحين 04 ｜ نزول الوحي ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "a77c9b5c44d06c54857b2a05124da492b2a7a07c02901844c3de594b6b5045c1",
+  "nh": "098263b4ead99b8331137afd318ca0eb2d4c5ccbcb13f5139f0c43987c435f4b",
+  "chars": 25417,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/628/004_السيرة النبوية للمصلحين 04 ｜ نزول الوحي ｜ أحمد السيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/elsiraLilmosli7in-004/transcript.txt",
-   "sha256": "b6201b22c44aa46a4c3a4455d0f111a975232756abb7bc79c0c32ce0b6c67c0f",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-628/004.txt",
-   "sha256": "b6201b22c44aa46a4c3a4455d0f111a975232756abb7bc79c0c32ce0b6c67c0f",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/628/004_السيرة النبوية للمصلحين 04 ｜ نزول الوحي ｜ أحمد السيد.txt",
+      "sha256": "a77c9b5c44d06c54857b2a05124da492b2a7a07c02901844c3de594b6b5045c1",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/elsiraLilmosli7in-004/transcript.txt",
+      "sha256": "b6201b22c44aa46a4c3a4455d0f111a975232756abb7bc79c0c32ce0b6c67c0f",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-628/004.txt",
+      "sha256": "b6201b22c44aa46a4c3a4455d0f111a975232756abb7bc79c0c32ce0b6c67c0f",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9985,
+    "spoken_align_pct": 99.85,
+    "audio_span_pct": 99.81,
+    "words": 4786,
+    "aligned": 4779,
+    "interpolated": 7,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 19:47"
   }
- ],
- "variants": [],
- "also_in": []
 }

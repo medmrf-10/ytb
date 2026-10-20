@@ -1,43 +1,59 @@
 {
- "v": 1,
- "lid": "yt:bVfbrn_bHaM",
- "vid": "bVfbrn_bHaM",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--628",
- "n": 1,
- "n_src": "mutfile",
- "title": "السيرة النبوية للمصلحين 01 ｜ مقدمة ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "e1c31e24cc6267abe7e6c58c3a81d9a943dbf8e84d1787a505d043a3a9839939",
- "nh": "5b6beda41f87a33c7f9ddcd5bda5b8a7ae23ba485e2ad9f1bea4623be55f2deb",
- "chars": 37599,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/628/001_السيرة النبوية للمصلحين 01 ｜ مقدمة ｜ أحمد السيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/628/001_السيرة النبوية للمصلحين 01 ｜ مقدمة ｜ أحمد السيد.txt",
-   "sha256": "e1c31e24cc6267abe7e6c58c3a81d9a943dbf8e84d1787a505d043a3a9839939",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:bVfbrn_bHaM",
+  "vid": "bVfbrn_bHaM",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--628",
+  "n": 1,
+  "n_src": "mutfile",
+  "title": "السيرة النبوية للمصلحين 01 ｜ مقدمة ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "e1c31e24cc6267abe7e6c58c3a81d9a943dbf8e84d1787a505d043a3a9839939",
+  "nh": "5b6beda41f87a33c7f9ddcd5bda5b8a7ae23ba485e2ad9f1bea4623be55f2deb",
+  "chars": 37599,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/628/001_السيرة النبوية للمصلحين 01 ｜ مقدمة ｜ أحمد السيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/elsiraLilmosli7in-001/transcript.txt",
-   "sha256": "76e31eaaaf6c5516a4856091ecdd277c54c010ea52d5d04e20ab29815f6efbff",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-628/001.txt",
-   "sha256": "76e31eaaaf6c5516a4856091ecdd277c54c010ea52d5d04e20ab29815f6efbff",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/628/001_السيرة النبوية للمصلحين 01 ｜ مقدمة ｜ أحمد السيد.txt",
+      "sha256": "e1c31e24cc6267abe7e6c58c3a81d9a943dbf8e84d1787a505d043a3a9839939",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/elsiraLilmosli7in-001/transcript.txt",
+      "sha256": "76e31eaaaf6c5516a4856091ecdd277c54c010ea52d5d04e20ab29815f6efbff",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-628/001.txt",
+      "sha256": "76e31eaaaf6c5516a4856091ecdd277c54c010ea52d5d04e20ab29815f6efbff",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9957,
+    "spoken_align_pct": 99.57,
+    "audio_span_pct": 99.85,
+    "words": 6812,
+    "aligned": 6783,
+    "interpolated": 29,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 19:45",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

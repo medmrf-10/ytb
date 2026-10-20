@@ -9,8 +9,8 @@
 - **المشايخ ذوو المحتوى الفعلي:** 25 شيخاً
 - **السلاسل المفرّغة:** 387 سلسلة
 - **الدروس المفرّغة نصياً (`.txt`):** 6,691 درساً
-- **الدروس المحاذاة صوتياً (`.align.json`):** 2,885 درساً
-- **إجمالي الحجم النصي:** 157,617,041 حرفاً
+- **الدروس المحاذاة صوتياً (`.align.json`):** 2,888 درساً
+- **إجمالي الحجم النصي:** 157,616,969 حرفاً
 
 ---
 
@@ -22,7 +22,7 @@
 | 2 | محمد متولي الشعراوي | `sharawi` | 48 | 648 | 335 | [`sharawi/`](./sharawi/) |
 | 3 | أدهم العاسمي | `adham-alasimi` | 29 | 546 | 162 | [`adham-alasimi/`](./adham-alasimi/) |
 | 4 | الحبيب عمر بن حفيظ | `habib-omar-ibn-hafiz` | 16 | 522 | 95 | [`habib-omar-ibn-hafiz/`](./habib-omar-ibn-hafiz/) |
-| 5 | أحمد السيد | `ahmed-alsayed` | 34 | 483 | 302 | [`ahmed-alsayed/`](./ahmed-alsayed/) |
+| 5 | أحمد السيد | `ahmed-alsayed` | 34 | 483 | 305 | [`ahmed-alsayed/`](./ahmed-alsayed/) |
 | 6 | الحبيب علي الجفري | `habib-ali-aljifri` | 23 | 471 | 173 | [`habib-ali-aljifri/`](./habib-ali-aljifri/) |
 | 7 | فاضل السامرائي | `fadhel-samarrai` | 42 | 460 | 426 | [`fadhel-samarrai/`](./fadhel-samarrai/) |
 | 8 | ذاكر الهاشمي | `dhaker-alhashimi` | 20 | 348 | 95 | [`dhaker-alhashimi/`](./dhaker-alhashimi/) |
