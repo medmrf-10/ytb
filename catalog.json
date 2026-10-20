@@ -489,8 +489,8 @@
       "slug": "said-bouti"
     },
     {
-      "aligned": 247,
-      "chars": 13959106,
+      "aligned": 256,
+      "chars": 13958957,
       "lessons": 648,
       "name": "محمد متولي الشعراوي",
       "path": "sharawi/",
@@ -806,28 +806,28 @@
           "transcribed": 16
         },
         {
-          "aligned": 15,
-          "aligned_pct": "71.4%",
+          "aligned": 21,
+          "aligned_pct": "100.0%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 21,
           "dir": "s028/",
-          "dur": 54563,
+          "dur": 54565,
           "key": "s028",
           "series_id": "shaarawy__s028",
           "title": "تفسير سورة العنكبوت",
           "transcribed": 21
         },
         {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
+          "aligned": 3,
+          "aligned_pct": "14.3%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 21,
           "dir": "s029/",
-          "dur": 54559,
+          "dur": 54561,
           "key": "s029",
           "series_id": "shaarawy__s029",
           "title": "تفسير سورة الروم",
@@ -5706,8 +5706,8 @@
     }
   ],
   "totals": {
-    "aligned": 1990,
-    "chars": 156203979,
+    "aligned": 1999,
+    "chars": 156203830,
     "lessons": 6589,
     "series": 386,
     "sheikhs": 25
