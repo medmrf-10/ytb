@@ -489,8 +489,8 @@
       "slug": "said-bouti"
     },
     {
-      "aligned": 300,
-      "chars": 13957590,
+      "aligned": 305,
+      "chars": 13957435,
       "lessons": 648,
       "name": "محمد متولي الشعراوي",
       "path": "sharawi/",
@@ -862,14 +862,14 @@
           "transcribed": 10
         },
         {
-          "aligned": 19,
-          "aligned_pct": "79.2%",
+          "aligned": 24,
+          "aligned_pct": "100.0%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 24,
           "dir": "s032/",
-          "dur": 59697,
+          "dur": 59698,
           "key": "s032",
           "series_id": "shaarawy__s032",
           "title": "تفسير سورة الأحزاب",
@@ -1591,7 +1591,7 @@
       "slug": "adham-alasimi"
     },
     {
-      "aligned": 235,
+      "aligned": 241,
       "chars": 18506308,
       "lessons": 483,
       "name": "أحمد السيد",
@@ -1670,14 +1670,14 @@
           "transcribed": 31
         },
         {
-          "aligned": 1,
-          "aligned_pct": "4.2%",
+          "aligned": 7,
+          "aligned_pct": "29.2%",
           "category": "تفسير وتدبر",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 24,
           "dir": "s023/",
-          "dur": 74830,
+          "dur": 74833,
           "key": "s023",
           "series_id": "sayed__s023",
           "title": "مدارسة سورة الأنعام",
@@ -5706,8 +5706,8 @@
     }
   ],
   "totals": {
-    "aligned": 2299,
-    "chars": 156143646,
+    "aligned": 2310,
+    "chars": 156143491,
     "lessons": 6589,
     "series": 386,
     "sheikhs": 25

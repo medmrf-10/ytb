@@ -367,14 +367,14 @@
       "transcribed": 10
     },
     {
-      "aligned": 19,
-      "aligned_pct": "79.2%",
+      "aligned": 24,
+      "aligned_pct": "100.0%",
       "category": "التفسير وعلوم القرآن",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
       "declared_total": 24,
       "dir": "s032/",
-      "dur": 59697,
+      "dur": 59698,
       "key": "s032",
       "series_id": "shaarawy__s032",
       "title": "تفسير سورة الأحزاب",
@@ -677,8 +677,8 @@
   ],
   "slug": "sharawi",
   "totals": {
-    "aligned": 300,
-    "chars": 13957590,
+    "aligned": 305,
+    "chars": 13957435,
     "lessons": 648,
     "series": 48
   },
