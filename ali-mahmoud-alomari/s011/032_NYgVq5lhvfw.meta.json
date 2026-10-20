@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:NYgVq5lhvfw",
- "vid": "NYgVq5lhvfw",
- "sheikh": "ali-mahmoud-alomari",
- "row_id": "ali-mahmoud-alomari--alamri-hisam",
- "n": 8,
- "n_src": "trfile",
- "title": "( 11 )ج١ القياس الاستثنائي . شرح الحسام الكاتي على إيساغوجي",
- "title_src": "yt_titles",
- "sha256": "f6626781fa270a535fc73331af8c70908135b8e960d1165d87faa9edf2e6d276",
- "nh": "6b569aa3d3f56e36ab81c5a6f9d164d947817c454b523e42c93a9e170cc6a9ab",
- "chars": 8667,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/alamriHisam-008/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/alamriHisam-008/transcript.txt",
-   "sha256": "58a8d39f8ce4d5b2c2d91431b613db42385f0e6df8b8127e49f5c3dcdc6563da",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:NYgVq5lhvfw",
+  "vid": "NYgVq5lhvfw",
+  "sheikh": "ali-mahmoud-alomari",
+  "row_id": "ali-mahmoud-alomari--alamri-hisam",
+  "n": 8,
+  "n_src": "trfile",
+  "title": "( 11 )ج١ القياس الاستثنائي . شرح الحسام الكاتي على إيساغوجي",
+  "title_src": "yt_titles",
+  "sha256": "f6626781fa270a535fc73331af8c70908135b8e960d1165d87faa9edf2e6d276",
+  "nh": "6b569aa3d3f56e36ab81c5a6f9d164d947817c454b523e42c93a9e170cc6a9ab",
+  "chars": 8667,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/alamriHisam-008/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alamri/hisam/hisam-08_AlAmri.txt",
-   "sha256": "58a8d39f8ce4d5b2c2d91431b613db42385f0e6df8b8127e49f5c3dcdc6563da",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/alamriHisam-008/transcript.txt",
+      "sha256": "58a8d39f8ce4d5b2c2d91431b613db42385f0e6df8b8127e49f5c3dcdc6563da",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alamri/hisam/hisam-08_AlAmri.txt",
+      "sha256": "58a8d39f8ce4d5b2c2d91431b613db42385f0e6df8b8127e49f5c3dcdc6563da",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alamri-hisam/08.txt",
+      "sha256": "58a8d39f8ce4d5b2c2d91431b613db42385f0e6df8b8127e49f5c3dcdc6563da",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "cleaned": {
+    "what": "english_agent_preamble_removed",
+    "removed_chars": 516,
+    "when": "2026-10-14 13:09:25",
+    "archive": "_fix/english-preamble/ali-mahmoud-alomari__alamri-hisam__008_NYgVq5lhvfw.txt.orig"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alamri-hisam/08.txt",
-   "sha256": "58a8d39f8ce4d5b2c2d91431b613db42385f0e6df8b8127e49f5c3dcdc6563da",
-   "rel": "identical"
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9993,
+    "spoken_align_pct": 99.93,
+    "audio_span_pct": 99.99,
+    "words": 1528,
+    "aligned": 1527,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 19:43"
   }
- ],
- "variants": [],
- "also_in": [],
- "cleaned": {
-  "what": "english_agent_preamble_removed",
-  "removed_chars": 516,
-  "when": "2026-10-14 13:09:25",
-  "archive": "_fix/english-preamble/ali-mahmoud-alomari__alamri-hisam__008_NYgVq5lhvfw.txt.orig"
- }
 }

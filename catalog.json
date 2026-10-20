@@ -4236,8 +4236,8 @@
     },
     {
       "aligned": 106,
-      "chars": 4792667,
-      "lessons": 242,
+      "chars": 4817045,
+      "lessons": 244,
       "name": "مولود السريري",
       "path": "mouloud-sariri/",
       "photo": "_meta/img/mouloud-sariri.jpg",
@@ -4471,22 +4471,22 @@
           "aligned": 0,
           "aligned_pct": "0.0%",
           "category": "الخطب والوعظ",
-          "coverage": 0.565,
-          "coverage_pct": "56.5%",
+          "coverage": 0.575,
+          "coverage_pct": "57.5%",
           "declared_total": 200,
           "dir": "s043/",
-          "dur": 171973,
+          "dur": 175001,
           "key": "s043",
           "series_id": "sariri__s043",
           "title": "خطب منبرية وخطب الجمعة",
-          "transcribed": 113
+          "transcribed": 115
         }
       ],
       "slug": "mouloud-sariri"
     },
     {
-      "aligned": 133,
-      "chars": 6966754,
+      "aligned": 143,
+      "chars": 6966657,
       "lessons": 241,
       "name": "علي محمود العمري",
       "path": "ali-mahmoud-alomari/",
@@ -4634,14 +4634,14 @@
           "transcribed": 28
         },
         {
-          "aligned": 22,
-          "aligned_pct": "68.8%",
+          "aligned": 32,
+          "aligned_pct": "100.0%",
           "category": "المنطق والفلسفة",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 32,
           "dir": "s011/",
-          "dur": 35934,
+          "dur": 35928,
           "key": "s011",
           "series_id": "omari__s011",
           "title": "شرح الحسام الكاتي على متن إيساغوجي في المنطق",
@@ -5720,9 +5720,9 @@
     }
   ],
   "totals": {
-    "aligned": 2875,
-    "chars": 157592760,
-    "lessons": 6689,
+    "aligned": 2885,
+    "chars": 157617041,
+    "lessons": 6691,
     "series": 387,
     "sheikhs": 25
   },

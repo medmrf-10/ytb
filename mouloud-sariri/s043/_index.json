@@ -2,7 +2,7 @@
   "aligned": 0,
   "aligned_ratio": 0.0,
   "category": "الخطب والوعظ",
-  "coverage": 0.565,
+  "coverage": 0.575,
   "declared_total": 200,
   "key": "s043",
   "lessons": [
@@ -1241,6 +1241,17 @@
     {
       "align_coverage": null,
       "aligned": false,
+      "chars": 11997,
+      "dur": 1502,
+      "file": "115_4UL0O4dIB4w.txt",
+      "n": 115,
+      "stem": "115_4UL0O4dIB4w",
+      "title": "خطب منبرية(مميزة) : \"السعي الى إماتة الرحمة \" / الشيخ العلامة مولود السريري",
+      "vid": "4UL0O4dIB4w"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
       "chars": 9339,
       "dur": 1208,
       "file": "116_SEcOlfWNc3Q.txt",
@@ -1248,12 +1259,23 @@
       "stem": "116_SEcOlfWNc3Q",
       "title": "خطب منبرية(مميزة) : \" الثبات عند المحن \" / الشيخ العلامة مولود السريري",
       "vid": "SEcOlfWNc3Q"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 12381,
+      "dur": 1526,
+      "file": "117_psHeqjjNssI.txt",
+      "n": 117,
+      "stem": "117_psHeqjjNssI",
+      "title": "خطب منبرية(مميزة) : \" إنما المومنون إخوة \" / الشيخ العلامة مولود السريري",
+      "vid": "psHeqjjNssI"
     }
   ],
   "series_id": "sariri__s043",
   "sheikh": "mouloud-sariri",
   "sheikh_name": "مولود السريري",
   "title": "خطب منبرية وخطب الجمعة",
-  "transcribed": 113,
+  "transcribed": 115,
   "v": 2
 }

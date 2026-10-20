@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:QQbU7b2ac54",
- "vid": "QQbU7b2ac54",
- "sheikh": "ali-mahmoud-alomari",
- "row_id": "ali-mahmoud-alomari--alamri-hisam",
- "n": 12,
- "n_src": "trfile",
- "title": "(10) ج٤ شرح الحسام الكاتي على إيساغوجي",
- "title_src": "yt_titles",
- "sha256": "664339cb4b37774564d6f75ff24b08172bac5384af92e6c8f50e6b159a2974d8",
- "nh": "2ed6ce53d1aef588207776f31ccd7bb1c90bf2d7892bbcfeb77f5535849544c8",
- "chars": 4161,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/alamriHisam-012/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/alamriHisam-012/transcript.txt",
-   "sha256": "664339cb4b37774564d6f75ff24b08172bac5384af92e6c8f50e6b159a2974d8",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:QQbU7b2ac54",
+  "vid": "QQbU7b2ac54",
+  "sheikh": "ali-mahmoud-alomari",
+  "row_id": "ali-mahmoud-alomari--alamri-hisam",
+  "n": 12,
+  "n_src": "trfile",
+  "title": "(10) ج٤ شرح الحسام الكاتي على إيساغوجي",
+  "title_src": "yt_titles",
+  "sha256": "664339cb4b37774564d6f75ff24b08172bac5384af92e6c8f50e6b159a2974d8",
+  "nh": "2ed6ce53d1aef588207776f31ccd7bb1c90bf2d7892bbcfeb77f5535849544c8",
+  "chars": 4161,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/alamriHisam-012/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alamri/hisam/hisam-12_AlAmri.txt",
-   "sha256": "664339cb4b37774564d6f75ff24b08172bac5384af92e6c8f50e6b159a2974d8",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alamri-hisam/12.txt",
-   "sha256": "664339cb4b37774564d6f75ff24b08172bac5384af92e6c8f50e6b159a2974d8",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/alamriHisam-012/transcript.txt",
+      "sha256": "664339cb4b37774564d6f75ff24b08172bac5384af92e6c8f50e6b159a2974d8",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alamri/hisam/hisam-12_AlAmri.txt",
+      "sha256": "664339cb4b37774564d6f75ff24b08172bac5384af92e6c8f50e6b159a2974d8",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alamri-hisam/12.txt",
+      "sha256": "664339cb4b37774564d6f75ff24b08172bac5384af92e6c8f50e6b159a2974d8",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9987,
+    "spoken_align_pct": 99.87,
+    "audio_span_pct": 99.29,
+    "words": 742,
+    "aligned": 741,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 19:43"
   }
- ],
- "variants": [],
- "also_in": []
 }
