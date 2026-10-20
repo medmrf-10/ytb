@@ -1,43 +1,59 @@
 {
- "v": 1,
- "lid": "yt:OtUHXHbR2no",
- "vid": "OtUHXHbR2no",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--628",
- "n": 17,
- "n_src": "mutfile",
- "title": "السيرة النبوية للمصلحين 17 ｜ السرايا والاستعداد لغزوة بدر ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "5243afb72da4acc68d72011830fb6c2fcda41c52c943a317bdfa9898c489f773",
- "nh": "3868d6b26b9bf6b7ed1d9861b7171670657fc09440dc0ddd6f8b762401d7b13a",
- "chars": 33508,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/628/017_السيرة النبوية للمصلحين 17 ｜ السرايا والاستعداد لغزوة بدر ｜ أحمد السيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/628/017_السيرة النبوية للمصلحين 17 ｜ السرايا والاستعداد لغزوة بدر ｜ أحمد السيد.txt",
-   "sha256": "5243afb72da4acc68d72011830fb6c2fcda41c52c943a317bdfa9898c489f773",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:OtUHXHbR2no",
+  "vid": "OtUHXHbR2no",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--628",
+  "n": 17,
+  "n_src": "mutfile",
+  "title": "السيرة النبوية للمصلحين 17 ｜ السرايا والاستعداد لغزوة بدر ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "5243afb72da4acc68d72011830fb6c2fcda41c52c943a317bdfa9898c489f773",
+  "nh": "3868d6b26b9bf6b7ed1d9861b7171670657fc09440dc0ddd6f8b762401d7b13a",
+  "chars": 33508,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/628/017_السيرة النبوية للمصلحين 17 ｜ السرايا والاستعداد لغزوة بدر ｜ أحمد السيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/elsiraLilmosli7in-017/transcript.txt",
-   "sha256": "1ef4e3a019a758cb8d71c36ecbdc21c7e199c949ca03fcffe6a31205637ac3cd",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-628/017.txt",
-   "sha256": "1ef4e3a019a758cb8d71c36ecbdc21c7e199c949ca03fcffe6a31205637ac3cd",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/628/017_السيرة النبوية للمصلحين 17 ｜ السرايا والاستعداد لغزوة بدر ｜ أحمد السيد.txt",
+      "sha256": "5243afb72da4acc68d72011830fb6c2fcda41c52c943a317bdfa9898c489f773",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/elsiraLilmosli7in-017/transcript.txt",
+      "sha256": "1ef4e3a019a758cb8d71c36ecbdc21c7e199c949ca03fcffe6a31205637ac3cd",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-628/017.txt",
+      "sha256": "1ef4e3a019a758cb8d71c36ecbdc21c7e199c949ca03fcffe6a31205637ac3cd",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9916,
+    "spoken_align_pct": 99.16,
+    "audio_span_pct": 99.83,
+    "words": 6338,
+    "aligned": 6285,
+    "interpolated": 53,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 19:59",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
