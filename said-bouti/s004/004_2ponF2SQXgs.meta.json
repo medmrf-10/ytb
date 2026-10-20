@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:2ponF2SQXgs",
- "vid": "2ponF2SQXgs",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--418",
- "n": 4,
- "n_src": "plpos",
- "title": "4 - الحب في القرآن | الحب الكسبي وكيف نحافظ عليه؟",
- "title_src": "yt_titles",
- "sha256": "1bf39370a65922f9687a95c9ee667ba4f2f1b47049a87c41aba8a6f7e8e46b4e",
- "nh": "4d33295516e022d1e860f972b0c476e4ce00164cc1e4d44adea1212dd55aa822",
- "chars": 27161,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/418/004_4 - الحب في القرآن ｜ الحب الكسبي وكيف نحافظ عليه؟.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/418/004_4 - الحب في القرآن ｜ الحب الكسبي وكيف نحافظ عليه؟.txt",
-   "sha256": "1bf39370a65922f9687a95c9ee667ba4f2f1b47049a87c41aba8a6f7e8e46b4e",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:2ponF2SQXgs",
+  "vid": "2ponF2SQXgs",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--418",
+  "n": 4,
+  "n_src": "plpos",
+  "title": "4 - الحب في القرآن | الحب الكسبي وكيف نحافظ عليه؟",
+  "title_src": "yt_titles",
+  "sha256": "1bf39370a65922f9687a95c9ee667ba4f2f1b47049a87c41aba8a6f7e8e46b4e",
+  "nh": "4d33295516e022d1e860f972b0c476e4ce00164cc1e4d44adea1212dd55aa822",
+  "chars": 27161,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/418/004_4 - الحب في القرآن ｜ الحب الكسبي وكيف نحافظ عليه؟.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/al7obFiEl9or1n-004/transcript.txt",
-   "sha256": "f8639c1a5a0b5a8eda1713e308e650c140a67fadd36fd922732f854f87e51207",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-hubb/04.txt",
-   "sha256": "f8639c1a5a0b5a8eda1713e308e650c140a67fadd36fd922732f854f87e51207",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/418/004_4 - الحب في القرآن ｜ الحب الكسبي وكيف نحافظ عليه؟.txt",
+      "sha256": "1bf39370a65922f9687a95c9ee667ba4f2f1b47049a87c41aba8a6f7e8e46b4e",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/al7obFiEl9or1n-004/transcript.txt",
+      "sha256": "f8639c1a5a0b5a8eda1713e308e650c140a67fadd36fd922732f854f87e51207",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-hubb/04.txt",
+      "sha256": "f8639c1a5a0b5a8eda1713e308e650c140a67fadd36fd922732f854f87e51207",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9998,
+    "spoken_align_pct": 99.98,
+    "audio_span_pct": 99.56,
+    "words": 5216,
+    "aligned": 5215,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 13:10"
   }
- ],
- "variants": [],
- "also_in": []
 }

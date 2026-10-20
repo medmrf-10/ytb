@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:dcDKL-2XWHk",
- "vid": "dcDKL-2XWHk",
- "sheikh": "adham-alasimi",
- "row_id": "adham-alasimi--777",
- "n": 5,
- "n_src": "read",
- "title": "درس (22) من شرح كتاب ＂مقاصد الرعاية لحقوق الله عز وجل＂ ⧸الشيخ أدهم العاسمي - رمض",
- "title_src": "filename",
- "sha256": "921a9bce6085999165885269c3652ef8d25b08fba4e7f247be87704b70f5442c",
- "nh": "a03a02a91277a479dd241149abd29ae433446832d4bfa643f2494b74e276fe3e",
- "chars": 9420,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/777/005_درس (22) من شرح كتاب ＂مقاصد الرعاية لحقوق الله عز وجل＂ ⧸الشيخ أدهم العاسمي - رمض.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/777/005_درس (22) من شرح كتاب ＂مقاصد الرعاية لحقوق الله عز وجل＂ ⧸الشيخ أدهم العاسمي - رمض.txt",
-   "sha256": "921a9bce6085999165885269c3652ef8d25b08fba4e7f247be87704b70f5442c",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:dcDKL-2XWHk",
+  "vid": "dcDKL-2XWHk",
+  "sheikh": "adham-alasimi",
+  "row_id": "adham-alasimi--777",
+  "n": 5,
+  "n_src": "read",
+  "title": "درس (22) من شرح كتاب ＂مقاصد الرعاية لحقوق الله عز وجل＂ ⧸الشيخ أدهم العاسمي - رمض",
+  "title_src": "filename",
+  "sha256": "921a9bce6085999165885269c3652ef8d25b08fba4e7f247be87704b70f5442c",
+  "nh": "a03a02a91277a479dd241149abd29ae433446832d4bfa643f2494b74e276fe3e",
+  "chars": 9420,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/777/005_درس (22) من شرح كتاب ＂مقاصد الرعاية لحقوق الله عز وجل＂ ⧸الشيخ أدهم العاسمي - رمض.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/777/4.txt",
-   "sha256": "921a9bce6085999165885269c3652ef8d25b08fba4e7f247be87704b70f5442c",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/777/005_درس (22) من شرح كتاب ＂مقاصد الرعاية لحقوق الله عز وجل＂ ⧸الشيخ أدهم العاسمي - رمض.txt",
+      "sha256": "921a9bce6085999165885269c3652ef8d25b08fba4e7f247be87704b70f5442c",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/777/4.txt",
+      "sha256": "921a9bce6085999165885269c3652ef8d25b08fba4e7f247be87704b70f5442c",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 98.2,
+    "words": 1780,
+    "aligned": 1780,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 13:04"
   }
- ],
- "variants": [],
- "also_in": []
 }
