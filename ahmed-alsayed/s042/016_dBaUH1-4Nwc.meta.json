@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:dBaUH1-4Nwc",
- "vid": "dBaUH1-4Nwc",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--660",
- "n": 17,
- "n_src": "mutfile",
- "title": "الأمة بين احتلالين 16 ｜ انطلاق جحافل هولاكو واستمرار خلافات المسلمين ｜ أحمد السي",
- "title_src": "filename",
- "sha256": "9f204e34df60d462ed35649d50a88e5fc8fb87a70397a1f173fe3819eb7bf864",
- "nh": "8809faa9d292ac6121f714139200814cac2f7d06cf1b73e65633fbd6476a2fe1",
- "chars": 63538,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/660/017_الأمة بين احتلالين 16 ｜ انطلاق جحافل هولاكو واستمرار خلافات المسلمين ｜ أحمد السي.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/660/017_الأمة بين احتلالين 16 ｜ انطلاق جحافل هولاكو واستمرار خلافات المسلمين ｜ أحمد السي.txt",
-   "sha256": "9f204e34df60d462ed35649d50a88e5fc8fb87a70397a1f173fe3819eb7bf864",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:dBaUH1-4Nwc",
+  "vid": "dBaUH1-4Nwc",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--660",
+  "n": 17,
+  "n_src": "mutfile",
+  "title": "الأمة بين احتلالين 16 ｜ انطلاق جحافل هولاكو واستمرار خلافات المسلمين ｜ أحمد السي",
+  "title_src": "filename",
+  "sha256": "9f204e34df60d462ed35649d50a88e5fc8fb87a70397a1f173fe3819eb7bf864",
+  "nh": "8809faa9d292ac6121f714139200814cac2f7d06cf1b73e65633fbd6476a2fe1",
+  "chars": 63538,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/660/017_الأمة بين احتلالين 16 ｜ انطلاق جحافل هولاكو واستمرار خلافات المسلمين ｜ أحمد السي.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/elommaBaynI7tilayn-017/transcript.txt",
-   "sha256": "79847210dd30a791115d9c438551361f3c92c1dd208f158767e59cfb94b05120",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-660/017.txt",
-   "sha256": "79847210dd30a791115d9c438551361f3c92c1dd208f158767e59cfb94b05120",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/660/017_الأمة بين احتلالين 16 ｜ انطلاق جحافل هولاكو واستمرار خلافات المسلمين ｜ أحمد السي.txt",
+      "sha256": "9f204e34df60d462ed35649d50a88e5fc8fb87a70397a1f173fe3819eb7bf864",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/elommaBaynI7tilayn-017/transcript.txt",
+      "sha256": "79847210dd30a791115d9c438551361f3c92c1dd208f158767e59cfb94b05120",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-660/017.txt",
+      "sha256": "79847210dd30a791115d9c438551361f3c92c1dd208f158767e59cfb94b05120",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.999,
+    "spoken_align_pct": 99.9,
+    "audio_span_pct": 99.89,
+    "words": 11676,
+    "aligned": 11664,
+    "interpolated": 12,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 03:20"
   }
- ],
- "variants": [],
- "also_in": []
 }
