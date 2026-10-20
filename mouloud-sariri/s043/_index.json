@@ -2,7 +2,7 @@
   "aligned": 0,
   "aligned_ratio": 0.0,
   "category": "الخطب والوعظ",
-  "coverage": 0.485,
+  "coverage": 0.5,
   "declared_total": 200,
   "key": "s043",
   "lessons": [
@@ -1072,12 +1072,45 @@
       "stem": "097_vglRIlZLLC0",
       "title": "خطب منبرية :  \"استفزاز الشيطان لابن ادم\" / الشيخ العلامة مولود السريري",
       "vid": "vglRIlZLLC0"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 12229,
+      "dur": 1627,
+      "file": "098_JvcuUtI_5Ls.txt",
+      "n": 98,
+      "stem": "098_JvcuUtI_5Ls",
+      "title": "خطب منبرية : \"استحوذ عليهم الشيطان\" / الشيخ العلامة مولود السريري",
+      "vid": "JvcuUtI_5Ls"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 10295,
+      "dur": 1465,
+      "file": "099_d224HamPwdE.txt",
+      "n": 99,
+      "stem": "099_d224HamPwdE",
+      "title": "خطب منبرية : \"الحي و الميت شرعا \" / الشيخ العلامة مولود السريري",
+      "vid": "d224HamPwdE"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 14492,
+      "dur": 1905,
+      "file": "101_ThMDSV1aUvk.txt",
+      "n": 101,
+      "stem": "101_ThMDSV1aUvk",
+      "title": "خطب منبرية : \"فضل الإصلاح بين الناس \" / الشيخ العلامة مولود السريري",
+      "vid": "ThMDSV1aUvk"
     }
   ],
   "series_id": "sariri__s043",
   "sheikh": "mouloud-sariri",
   "sheikh_name": "مولود السريري",
   "title": "خطب منبرية وخطب الجمعة",
-  "transcribed": 97,
+  "transcribed": 100,
   "v": 2
 }

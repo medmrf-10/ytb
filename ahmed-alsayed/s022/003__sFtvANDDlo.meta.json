@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:_sFtvANDDlo",
- "vid": "_sFtvANDDlo",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--687",
- "n": 3,
- "n_src": "mutfile",
- "title": "مقاصد السور ｜ سورة الفتح ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "22d1cf5f6e520621667c87b9d702ae96bb03487e0a24ee0afd2cf31043fb1093",
- "nh": "fadb00ad35f1064a36a8a4dfc03e7aa0cb3f786c2fa89c1f16a41223409ad734",
- "chars": 27717,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/687/003_مقاصد السور ｜ سورة الفتح ｜ أحمد السيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/687/003_مقاصد السور ｜ سورة الفتح ｜ أحمد السيد.txt",
-   "sha256": "22d1cf5f6e520621667c87b9d702ae96bb03487e0a24ee0afd2cf31043fb1093",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:_sFtvANDDlo",
+  "vid": "_sFtvANDDlo",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--687",
+  "n": 3,
+  "n_src": "mutfile",
+  "title": "مقاصد السور ｜ سورة الفتح ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "22d1cf5f6e520621667c87b9d702ae96bb03487e0a24ee0afd2cf31043fb1093",
+  "nh": "fadb00ad35f1064a36a8a4dfc03e7aa0cb3f786c2fa89c1f16a41223409ad734",
+  "chars": 27717,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/687/003_مقاصد السور ｜ سورة الفتح ｜ أحمد السيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/ma9asidElssowar-003/transcript.txt",
-   "sha256": "c908abadec77f3c8d857dde70d3a1d9adb0573f154c4f0d4e433199898c57766",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-687/003.txt",
-   "sha256": "c908abadec77f3c8d857dde70d3a1d9adb0573f154c4f0d4e433199898c57766",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/687/003_مقاصد السور ｜ سورة الفتح ｜ أحمد السيد.txt",
+      "sha256": "22d1cf5f6e520621667c87b9d702ae96bb03487e0a24ee0afd2cf31043fb1093",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/ma9asidElssowar-003/transcript.txt",
+      "sha256": "c908abadec77f3c8d857dde70d3a1d9adb0573f154c4f0d4e433199898c57766",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-687/003.txt",
+      "sha256": "c908abadec77f3c8d857dde70d3a1d9adb0573f154c4f0d4e433199898c57766",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9988,
+    "spoken_align_pct": 99.88,
+    "audio_span_pct": 99.82,
+    "words": 5160,
+    "aligned": 5153,
+    "interpolated": 6,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 19:12"
   }
- ],
- "variants": [],
- "also_in": []
 }

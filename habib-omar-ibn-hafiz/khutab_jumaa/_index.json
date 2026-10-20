@@ -2,7 +2,7 @@
   "aligned": 0,
   "aligned_ratio": 0.0,
   "category": "الخطب والمحاضرات",
-  "coverage": 0.2018,
+  "coverage": 0.2077,
   "declared_total": 337,
   "key": "khutab_jumaa",
   "lessons": [
@@ -471,6 +471,17 @@
     {
       "align_coverage": null,
       "aligned": false,
+      "chars": 18522,
+      "dur": 2126,
+      "file": "155_7ACN0EHdOnk.txt",
+      "n": 155,
+      "stem": "155_7ACN0EHdOnk",
+      "title": "مقتضى الإيمان أن لا يقبل التوجيه والإرشاد إلا مِن وحي الله وما تفرع عنه وحاجة الأمة إلى وعي ذلك",
+      "vid": "7ACN0EHdOnk"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
       "chars": 13822,
       "dur": 1864,
       "file": "176_5sMg71_kBF4.txt",
@@ -625,6 +636,17 @@
     {
       "align_coverage": null,
       "aligned": false,
+      "chars": 20329,
+      "dur": 2171,
+      "file": "221_Xbmqz03vSRY.txt",
+      "n": 221,
+      "stem": "221_Xbmqz03vSRY",
+      "title": "#مباشر: #خطبة_الجمعة بعنوان: أسرار الحمد للرحمن ومجاليه في حياة أهل الإيمان، في الأردن - 9/11/1445",
+      "vid": "Xbmqz03vSRY"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
       "chars": 13305,
       "dur": 1591,
       "file": "227_3Mcff5i5BmI.txt",
@@ -759,6 +781,6 @@
   "sheikh": "habib-omar-ibn-hafiz",
   "sheikh_name": "الحبيب عمر بن حفيظ",
   "title": "خطب الجمعة والعيدين والكسوف والخسوف",
-  "transcribed": 68,
+  "transcribed": 70,
   "v": 2
 }
