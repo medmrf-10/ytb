@@ -1,6 +1,6 @@
 {
-  "aligned": 16,
-  "aligned_ratio": 0.5926,
+  "aligned": 20,
+  "aligned_ratio": 0.7407,
   "category": "سلسلة علمية",
   "coverage": 1.0,
   "declared_total": 27,
@@ -183,8 +183,8 @@
       "vid": "qtMtpfmBeIg"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 60751,
       "dur": 5464,
       "file": "017_4o3A2AMfyaM.txt",
@@ -194,8 +194,8 @@
       "vid": "4o3A2AMfyaM"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 71307,
       "dur": 6788,
       "file": "018_Ap2D9UGYC5w.txt",
@@ -205,10 +205,10 @@
       "vid": "Ap2D9UGYC5w"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 43747,
-      "dur": 4092,
+      "dur": 4093,
       "file": "019_ePHddcnFV-4.txt",
       "n": 19,
       "stem": "019_ePHddcnFV-4",
@@ -216,8 +216,8 @@
       "vid": "ePHddcnFV-4"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 54946,
       "dur": 5640,
       "file": "020_JGmCGL_WDNY.txt",
