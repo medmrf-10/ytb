@@ -1,6 +1,6 @@
 {
-  "aligned": 20,
-  "aligned_ratio": 0.9091,
+  "aligned": 22,
+  "aligned_ratio": 1.0,
   "category": "العقيدة والفكر الإسلامي",
   "coverage": 1.0,
   "declared_total": 22,
@@ -227,10 +227,10 @@
       "vid": "itUMSVX00PE"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 12446,
-      "dur": 1633,
+      "dur": 1632,
       "file": "021_iJjKB3x0znU.txt",
       "n": 21,
       "stem": "021_iJjKB3x0znU",
@@ -238,8 +238,8 @@
       "vid": "iJjKB3x0znU"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 11636,
       "dur": 1447,
       "file": "022_qsVPoj8Esuo.txt",

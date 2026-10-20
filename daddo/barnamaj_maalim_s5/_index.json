@@ -1,6 +1,6 @@
 {
-  "aligned": 1,
-  "aligned_ratio": 0.0455,
+  "aligned": 8,
+  "aligned_ratio": 0.3636,
   "category": "برامج وحوارات",
   "coverage": 1.0,
   "declared_total": 22,
@@ -18,9 +18,9 @@
       "vid": "4_L6gNFh-Og"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 52001,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 51884,
       "dur": 4328,
       "file": "002_5ozrxupvkvY.txt",
       "n": 2,
@@ -29,10 +29,10 @@
       "vid": "5ozrxupvkvY"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 20697,
-      "dur": 3096,
+      "dur": 3097,
       "file": "003_6nCXkN6h7GY.txt",
       "n": 3,
       "stem": "003_6nCXkN6h7GY",
@@ -40,10 +40,10 @@
       "vid": "6nCXkN6h7GY"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 26255,
-      "dur": 2630,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 26192,
+      "dur": 2631,
       "file": "004_nwQWoJfcdU8.txt",
       "n": 4,
       "stem": "004_nwQWoJfcdU8",
@@ -51,9 +51,9 @@
       "vid": "nwQWoJfcdU8"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 23277,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 23240,
       "dur": 2441,
       "file": "005_ybA91Q5FUV8.txt",
       "n": 5,
@@ -62,10 +62,10 @@
       "vid": "ybA91Q5FUV8"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 29204,
-      "dur": 2927,
+      "dur": 2928,
       "file": "006_J8A41I-Vwvw.txt",
       "n": 6,
       "stem": "006_J8A41I-Vwvw",
@@ -73,10 +73,10 @@
       "vid": "J8A41I-Vwvw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 33854,
-      "dur": 3208,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 33602,
+      "dur": 3209,
       "file": "007_O-lhLrOH43c.txt",
       "n": 7,
       "stem": "007_O-lhLrOH43c",
@@ -84,9 +84,9 @@
       "vid": "O-lhLrOH43c"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 26626,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 26255,
       "dur": 2577,
       "file": "008_MulkRqqQ0Ho.txt",
       "n": 8,
