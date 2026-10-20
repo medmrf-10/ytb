@@ -9,8 +9,8 @@
 - **المشايخ ذوو المحتوى الفعلي:** 25 شيخاً
 - **السلاسل المفرّغة:** 386 سلسلة
 - **الدروس المفرّغة نصياً (`.txt`):** 6,589 درساً
-- **الدروس المحاذاة صوتياً (`.align.json`):** 2,402 درساً
-- **إجمالي الحجم النصي:** 156,141,973 حرفاً
+- **الدروس المحاذاة صوتياً (`.align.json`):** 2,418 درساً
+- **إجمالي الحجم النصي:** 156,141,768 حرفاً
 
 ---
 
@@ -18,7 +18,7 @@
 
 | # | الشيخ | المعرّف (`Slug`) | السلاسل | الدروس المفرغة (`.txt`) | الدروس المحاذاة (`.align.json`) | المجلد |
 |---:|---|---|---:|---:|---:|---|
-| 1 | محمد سعيد رمضان البوطي | `said-bouti` | 34 | 1,165 | 251 | [`said-bouti/`](./said-bouti/) |
+| 1 | محمد سعيد رمضان البوطي | `said-bouti` | 34 | 1,165 | 252 | [`said-bouti/`](./said-bouti/) |
 | 2 | محمد متولي الشعراوي | `sharawi` | 48 | 648 | 305 | [`sharawi/`](./sharawi/) |
 | 3 | أدهم العاسمي | `adham-alasimi` | 29 | 546 | 104 | [`adham-alasimi/`](./adham-alasimi/) |
 | 4 | أحمد السيد | `ahmed-alsayed` | 34 | 483 | 258 | [`ahmed-alsayed/`](./ahmed-alsayed/) |
@@ -28,10 +28,10 @@
 | 8 | ذاكر الهاشمي | `dhaker-alhashimi` | 20 | 348 | 95 | [`dhaker-alhashimi/`](./dhaker-alhashimi/) |
 | 9 | محمد البردوني الحسيمي | `bardouni-husaymi` | 16 | 343 | 120 | [`bardouni-husaymi/`](./bardouni-husaymi/) |
 | 10 | علي جمعة | `ali-gomaa` | 14 | 276 | 51 | [`ali-gomaa/`](./ali-gomaa/) |
-| 11 | محمد الحسن الددو | `daddo` | 17 | 244 | 155 | [`daddo/`](./daddo/) |
+| 11 | محمد الحسن الددو | `daddo` | 17 | 244 | 160 | [`daddo/`](./daddo/) |
 | 12 | علي محمود العمري | `ali-mahmoud-alomari` | 18 | 241 | 83 | [`ali-mahmoud-alomari/`](./ali-mahmoud-alomari/) |
 | 13 | مولود السريري | `mouloud-sariri` | 17 | 214 | 106 | [`mouloud-sariri/`](./mouloud-sariri/) |
-| 14 | علي هاني العقرباوي | `ali-hani-aqrabawi` | 14 | 197 | 140 | [`ali-hani-aqrabawi/`](./ali-hani-aqrabawi/) |
+| 14 | علي هاني العقرباوي | `ali-hani-aqrabawi` | 14 | 197 | 150 | [`ali-hani-aqrabawi/`](./ali-hani-aqrabawi/) |
 | 15 | أيمن عبد الرحيم | `ayman-abdelrahim` | 20 | 130 | 119 | [`ayman-abdelrahim/`](./ayman-abdelrahim/) |
 | 16 | معاذ سعيد حوى | `maath-hawa` | 7 | 92 | 92 | [`maath-hawa/`](./maath-hawa/) |
 | 17 | فاضل سليمان | `fadhel-sulaiman` | 3 | 89 | 0 | [`fadhel-sulaiman/`](./fadhel-sulaiman/) |
