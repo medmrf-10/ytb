@@ -2,7 +2,7 @@
   "aligned": 0,
   "aligned_ratio": 0.0,
   "category": "الخطب والمحاضرات",
-  "coverage": 0.2107,
+  "coverage": 0.2136,
   "declared_total": 337,
   "key": "khutab_jumaa",
   "lessons": [
@@ -493,6 +493,17 @@
     {
       "align_coverage": null,
       "aligned": false,
+      "chars": 19051,
+      "dur": 2187,
+      "file": "156_kn650tEN_NU.txt",
+      "n": 156,
+      "stem": "156_kn650tEN_NU",
+      "title": "الحبيب عمر: حقيقة الإيمان والاستسلام للإله ودناءة الاستسلام لمن عداه واتخاذ الناس بعضهم بعضا أربابا",
+      "vid": "kn650tEN_NU"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
       "chars": 13822,
       "dur": 1864,
       "file": "176_5sMg71_kBF4.txt",
@@ -792,6 +803,6 @@
   "sheikh": "habib-omar-ibn-hafiz",
   "sheikh_name": "الحبيب عمر بن حفيظ",
   "title": "خطب الجمعة والعيدين والكسوف والخسوف",
-  "transcribed": 71,
+  "transcribed": 72,
   "v": 2
 }
