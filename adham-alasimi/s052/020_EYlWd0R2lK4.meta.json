@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:EYlWd0R2lK4",
- "vid": "EYlWd0R2lK4",
- "sheikh": "adham-alasimi",
- "row_id": "adham-alasimi--786",
- "n": 22,
- "n_src": "read",
- "title": "الهجرة أسبابها ودروسها ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
- "title_src": "filename",
- "sha256": "a1c1b93f1da4ae5b77e539f44773a56ade3d1ef1ed2a2e3780a50567d58ce135",
- "nh": "11506ee8165d7387068667e62724dbe93ef2baf2416ac17654587c4142e3d4d3",
- "chars": 14693,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/786/022_الهجرة أسبابها ودروسها ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/786/022_الهجرة أسبابها ودروسها ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
-   "sha256": "a1c1b93f1da4ae5b77e539f44773a56ade3d1ef1ed2a2e3780a50567d58ce135",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:EYlWd0R2lK4",
+  "vid": "EYlWd0R2lK4",
+  "sheikh": "adham-alasimi",
+  "row_id": "adham-alasimi--786",
+  "n": 22,
+  "n_src": "read",
+  "title": "الهجرة أسبابها ودروسها ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+  "title_src": "filename",
+  "sha256": "a1c1b93f1da4ae5b77e539f44773a56ade3d1ef1ed2a2e3780a50567d58ce135",
+  "nh": "11506ee8165d7387068667e62724dbe93ef2baf2416ac17654587c4142e3d4d3",
+  "chars": 14693,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/786/022_الهجرة أسبابها ودروسها ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/786/21.txt",
-   "sha256": "a1c1b93f1da4ae5b77e539f44773a56ade3d1ef1ed2a2e3780a50567d58ce135",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/786/022_الهجرة أسبابها ودروسها ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+      "sha256": "a1c1b93f1da4ae5b77e539f44773a56ade3d1ef1ed2a2e3780a50567d58ce135",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/786/21.txt",
+      "sha256": "a1c1b93f1da4ae5b77e539f44773a56ade3d1ef1ed2a2e3780a50567d58ce135",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9996,
+    "spoken_align_pct": 99.96,
+    "audio_span_pct": 99.95,
+    "words": 2817,
+    "aligned": 2816,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 16:39"
   }
- ],
- "variants": [],
- "also_in": []
 }
