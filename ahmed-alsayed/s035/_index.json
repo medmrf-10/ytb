@@ -1,6 +1,6 @@
 {
-  "aligned": 20,
-  "aligned_ratio": 0.7407,
+  "aligned": 21,
+  "aligned_ratio": 0.7778,
   "category": "سلسلة علمية",
   "coverage": 1.0,
   "declared_total": 27,
@@ -227,10 +227,10 @@
       "vid": "JGmCGL_WDNY"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 66910,
-      "dur": 5928,
+      "dur": 5929,
       "file": "021_kuR-8SNb3x4.txt",
       "n": 21,
       "stem": "021_kuR-8SNb3x4",
