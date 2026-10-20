@@ -1,43 +1,59 @@
 {
- "v": 1,
- "lid": "yt:_pmqgfyh_mk",
- "vid": "_pmqgfyh_mk",
- "sheikh": "ali-mahmoud-alomari",
- "row_id": "ali-mahmoud-alomari--alamri-barahin-sharh",
- "n": 14,
- "n_src": "trfile",
- "title": "الدرس 14",
- "title_src": "filename",
- "sha256": "9addce5ea1d0222db75900a1ba49d6d51565ce4e15c39146114dbd0f7ac883a2",
- "nh": "affd8850024d9039f4256d15410746ae7a9845cc49fc9d71d17b22b9f18529de",
- "chars": 34357,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/alamriBarahinSharh-014/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/alamriBarahinSharh-014/transcript.txt",
-   "sha256": "9addce5ea1d0222db75900a1ba49d6d51565ce4e15c39146114dbd0f7ac883a2",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:_pmqgfyh_mk",
+  "vid": "_pmqgfyh_mk",
+  "sheikh": "ali-mahmoud-alomari",
+  "row_id": "ali-mahmoud-alomari--alamri-barahin-sharh",
+  "n": 14,
+  "n_src": "trfile",
+  "title": "الدرس 14",
+  "title_src": "filename",
+  "sha256": "9addce5ea1d0222db75900a1ba49d6d51565ce4e15c39146114dbd0f7ac883a2",
+  "nh": "affd8850024d9039f4256d15410746ae7a9845cc49fc9d71d17b22b9f18529de",
+  "chars": 34357,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/alamriBarahinSharh-014/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alamri/barahin-sharh/barahin-sharh-14_AlAmri.txt",
-   "sha256": "9addce5ea1d0222db75900a1ba49d6d51565ce4e15c39146114dbd0f7ac883a2",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alamri-barahin-sharh/14.txt",
-   "sha256": "9addce5ea1d0222db75900a1ba49d6d51565ce4e15c39146114dbd0f7ac883a2",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/alamriBarahinSharh-014/transcript.txt",
+      "sha256": "9addce5ea1d0222db75900a1ba49d6d51565ce4e15c39146114dbd0f7ac883a2",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alamri/barahin-sharh/barahin-sharh-14_AlAmri.txt",
+      "sha256": "9addce5ea1d0222db75900a1ba49d6d51565ce4e15c39146114dbd0f7ac883a2",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alamri-barahin-sharh/14.txt",
+      "sha256": "9addce5ea1d0222db75900a1ba49d6d51565ce4e15c39146114dbd0f7ac883a2",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9988,
+    "spoken_align_pct": 99.88,
+    "audio_span_pct": 99.8,
+    "words": 6438,
+    "aligned": 6430,
+    "interpolated": 8,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 12:40",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
