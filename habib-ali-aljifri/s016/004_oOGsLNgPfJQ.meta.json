@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "rn:habib-ali-aljifri--101:5",
- "vid": null,
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--101",
- "n": 5,
- "n_src": "read",
- "title": "أيها المريد ｜ الحلقة 4 ｜ ميزان الخوف من الله ｜ علي الجفري ｜",
- "title_src": "filename",
- "sha256": "b9a4a3aa31239186504cdec5994bd41a8085327724ea377626b07e1fa91d3e63",
- "nh": "fa3f2a7005305ffa0147888350f2a50c6da1505cc4960347bcf52049ce3695d0",
- "chars": 12965,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/101/005_أيها المريد ｜ الحلقة 4 ｜ ميزان الخوف من الله ｜ علي الجفري ｜ English subtitle.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/101/005_أيها المريد ｜ الحلقة 4 ｜ ميزان الخوف من الله ｜ علي الجفري ｜ English subtitle.txt",
-   "sha256": "b9a4a3aa31239186504cdec5994bd41a8085327724ea377626b07e1fa91d3e63",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:habib-ali-aljifri--101:5",
+  "vid": null,
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--101",
+  "n": 5,
+  "n_src": "read",
+  "title": "أيها المريد ｜ الحلقة 4 ｜ ميزان الخوف من الله ｜ علي الجفري ｜",
+  "title_src": "filename",
+  "sha256": "b9a4a3aa31239186504cdec5994bd41a8085327724ea377626b07e1fa91d3e63",
+  "nh": "fa3f2a7005305ffa0147888350f2a50c6da1505cc4960347bcf52049ce3695d0",
+  "chars": 12965,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/101/005_أيها المريد ｜ الحلقة 4 ｜ ميزان الخوف من الله ｜ علي الجفري ｜ English subtitle.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/101/4.txt",
-   "sha256": "b9a4a3aa31239186504cdec5994bd41a8085327724ea377626b07e1fa91d3e63",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/101/005_أيها المريد ｜ الحلقة 4 ｜ ميزان الخوف من الله ｜ علي الجفري ｜ English subtitle.txt",
+      "sha256": "b9a4a3aa31239186504cdec5994bd41a8085327724ea377626b07e1fa91d3e63",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/101/4.txt",
+      "sha256": "b9a4a3aa31239186504cdec5994bd41a8085327724ea377626b07e1fa91d3e63",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9996,
+    "spoken_align_pct": 99.96,
+    "audio_span_pct": 94.78,
+    "words": 2442,
+    "aligned": 2441,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 16:56"
   }
- ],
- "variants": [],
- "also_in": []
 }

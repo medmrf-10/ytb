@@ -2,7 +2,7 @@
   "aligned": 0,
   "aligned_ratio": 0.0,
   "category": "الخطب والمحاضرات",
-  "coverage": 0.0623,
+  "coverage": 0.0772,
   "declared_total": 337,
   "key": "khutab_jumaa",
   "lessons": [
@@ -31,6 +31,17 @@
     {
       "align_coverage": null,
       "aligned": false,
+      "chars": 16303,
+      "dur": 1775,
+      "file": "010_UkP45QPScN8.txt",
+      "n": 10,
+      "stem": "010_UkP45QPScN8",
+      "title": "الحبيب عمر : منهج النبوة ومقابلة متغيرات الحياة ( خطبة )",
+      "vid": "UkP45QPScN8"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
       "chars": 13646,
       "dur": 1677,
       "file": "011_0zTMGF4pE5I.txt",
@@ -53,6 +64,17 @@
     {
       "align_coverage": null,
       "aligned": false,
+      "chars": 14498,
+      "dur": 1769,
+      "file": "027_LBp3tEEvnVI.txt",
+      "n": 27,
+      "stem": "027_LBp3tEEvnVI",
+      "title": "خطبة جمعة : من حقائق الإسلام والإيمان وصفات أهلهما",
+      "vid": "LBp3tEEvnVI"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
       "chars": 13965,
       "dur": 1592,
       "file": "037_TbMF0e_IUFA.txt",
@@ -60,6 +82,17 @@
       "stem": "037_TbMF0e_IUFA",
       "title": "خطبة جمعة للعلامة الحبيب عمر بن حفيظ بعنوان: آثار ما يحل في الأذهان من تذكُّر وتصوُّر",
       "vid": "TbMF0e_IUFA"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 15954,
+      "dur": 1766,
+      "file": "044_VnzJUK1L5WA.txt",
+      "n": 44,
+      "stem": "044_VnzJUK1L5WA",
+      "title": "الحبيب عمر بن حفيظ: أساس الميل والرغبة ركيزة الولاء، وارتباطه بمعنى تقوى الله",
+      "vid": "VnzJUK1L5WA"
     },
     {
       "align_coverage": null,
@@ -82,6 +115,17 @@
       "stem": "061_FMZOvxh1jtY",
       "title": "عظيم أثر اللسان في الهدى والضلال والدنيا والمآل",
       "vid": "FMZOvxh1jtY"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 13601,
+      "dur": 1723,
+      "file": "072_txvO54tD6tU.txt",
+      "n": 72,
+      "stem": "072_txvO54tD6tU",
+      "title": "الحبيب عمر بن حفيظ: مكانة الاستغفار ومعناه واغتنام العمر بالمحاسبة استعداداً للقاء الرحمن",
+      "vid": "txvO54tD6tU"
     },
     {
       "align_coverage": null,
@@ -159,6 +203,17 @@
       "stem": "227_3Mcff5i5BmI",
       "title": "مهمة الأعوام والليالي والأيام للمؤمنين التهيؤ والاستعداد للقاء إلههم ومرافقة نبيهم ورؤية وجهه الأنور",
       "vid": "3Mcff5i5BmI"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 16281,
+      "dur": 1750,
+      "file": "230_1ih0dUQI9I8.txt",
+      "n": 230,
+      "stem": "230_1ih0dUQI9I8",
+      "title": "الحبيب عمر بن حفيظ: ميزة المؤمن في مجال التقوى في مختلف الأحوال",
+      "vid": "1ih0dUQI9I8"
     },
     {
       "align_coverage": null,
@@ -242,6 +297,6 @@
   "sheikh": "habib-omar-ibn-hafiz",
   "sheikh_name": "الحبيب عمر بن حفيظ",
   "title": "خطب الجمعة والعيدين والكسوف والخسوف",
-  "transcribed": 21,
+  "transcribed": 26,
   "v": 2
 }

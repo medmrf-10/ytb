@@ -73,14 +73,14 @@
       "transcribed": 8
     },
     {
-      "aligned": 17,
-      "aligned_pct": "56.7%",
+      "aligned": 30,
+      "aligned_pct": "100.0%",
       "category": "شرح علمي",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
       "declared_total": 30,
       "dir": "s008/",
-      "dur": 21986,
+      "dur": 21978,
       "key": "s008",
       "series_id": "jifri__s008",
       "title": "شرح كتاب سبيل الادكار والاعتبار للإمام الحداد",
@@ -143,8 +143,8 @@
       "transcribed": 30
     },
     {
-      "aligned": 0,
-      "aligned_pct": "0.0%",
+      "aligned": 5,
+      "aligned_pct": "16.7%",
       "category": "برنامج رمضاني",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
@@ -327,8 +327,8 @@
   ],
   "slug": "habib-ali-aljifri",
   "totals": {
-    "aligned": 76,
-    "chars": 6585296,
+    "aligned": 94,
+    "chars": 6585216,
     "lessons": 471,
     "series": 23
   },

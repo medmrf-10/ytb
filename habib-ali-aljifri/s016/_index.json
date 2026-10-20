@@ -1,16 +1,16 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 5,
+  "aligned_ratio": 0.1667,
   "category": "برنامج رمضاني",
   "coverage": 1.0,
   "declared_total": 30,
   "key": "s016",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 12370,
-      "dur": 1373,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 12326,
+      "dur": 1372,
       "file": "001_3H52MV6JUtw.txt",
       "n": 1,
       "stem": "001_3H52MV6JUtw",
@@ -18,10 +18,10 @@
       "vid": "3H52MV6JUtw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 12946,
-      "dur": 1396,
+      "dur": 1397,
       "file": "002_0GvfMPGqgWc.txt",
       "n": 2,
       "stem": "002_0GvfMPGqgWc",
@@ -29,9 +29,9 @@
       "vid": "0GvfMPGqgWc"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 13041,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 13005,
       "dur": 1461,
       "file": "003_o9BLMfbLc4k.txt",
       "n": 3,
@@ -40,10 +40,10 @@
       "vid": "o9BLMfbLc4k"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 12878,
-      "dur": 1516,
+      "dur": 1515,
       "file": "004_oOGsLNgPfJQ.txt",
       "n": 4,
       "stem": "004_oOGsLNgPfJQ",
@@ -51,10 +51,10 @@
       "vid": "oOGsLNgPfJQ"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 13948,
-      "dur": 1618,
+      "dur": 1619,
       "file": "005_QEEYeGvSC-U.txt",
       "n": 5,
       "stem": "005_QEEYeGvSC-U",
