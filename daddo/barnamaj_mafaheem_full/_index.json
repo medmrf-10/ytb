@@ -1,6 +1,6 @@
 {
-  "aligned": 11,
-  "aligned_ratio": 0.3929,
+  "aligned": 19,
+  "aligned_ratio": 0.6786,
   "category": "برامج وحوارات",
   "coverage": 1.0,
   "declared_total": 28,
@@ -40,9 +40,9 @@
       "vid": "PtvuH-e2H3E"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 38556,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 38514,
       "dur": 2998,
       "file": "004_LWf3V-BfQgo.txt",
       "n": 4,
@@ -62,10 +62,10 @@
       "vid": "yhpH0xmV3Wc"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 37117,
-      "dur": 2831,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 36941,
+      "dur": 2832,
       "file": "006_q4Z3pSx23Xo.txt",
       "n": 6,
       "stem": "006_q4Z3pSx23Xo",
@@ -95,10 +95,10 @@
       "vid": "YJJ2PY6RlyU"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 36518,
-      "dur": 2916,
+      "dur": 2917,
       "file": "009_rYT3OiI3jII.txt",
       "n": 9,
       "stem": "009_rYT3OiI3jII",
@@ -106,10 +106,10 @@
       "vid": "rYT3OiI3jII"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 36354,
-      "dur": 3191,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 36309,
+      "dur": 3192,
       "file": "010_k0eLYNaYYOE.txt",
       "n": 10,
       "stem": "010_k0eLYNaYYOE",
@@ -128,9 +128,9 @@
       "vid": "za1O_pzKiXw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 43719,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 43540,
       "dur": 3166,
       "file": "012_8pEOARCiez4.txt",
       "n": 12,
@@ -139,9 +139,9 @@
       "vid": "8pEOARCiez4"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 42335,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 42287,
       "dur": 3215,
       "file": "013__2jSztH4ts4.txt",
       "n": 13,
@@ -150,8 +150,8 @@
       "vid": "_2jSztH4ts4"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 42350,
       "dur": 3177,
       "file": "014_qdud6gycZjw.txt",
@@ -161,8 +161,8 @@
       "vid": "qdud6gycZjw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 41278,
       "dur": 3146,
       "file": "015_QPkDzprFBAw.txt",
