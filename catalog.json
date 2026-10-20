@@ -1,7 +1,7 @@
 {
   "sheikhs": [
     {
-      "aligned": 221,
+      "aligned": 226,
       "chars": 20562740,
       "lessons": 1165,
       "name": "محمد سعيد رمضان البوطي",
@@ -402,14 +402,14 @@
           "transcribed": 6
         },
         {
-          "aligned": 19,
-          "aligned_pct": "79.2%",
+          "aligned": 24,
+          "aligned_pct": "100.0%",
           "category": "خطب الجمعة والمحاضرات",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 24,
           "dir": "s056/",
-          "dur": 27414,
+          "dur": 27416,
           "key": "s056",
           "series_id": "bouti__s056",
           "title": "خطب الجمعة والعيدين — عام 2007 م",
@@ -489,8 +489,8 @@
       "slug": "said-bouti"
     },
     {
-      "aligned": 297,
-      "chars": 13957687,
+      "aligned": 300,
+      "chars": 13957590,
       "lessons": 648,
       "name": "محمد متولي الشعراوي",
       "path": "sharawi/",
@@ -862,14 +862,14 @@
           "transcribed": 10
         },
         {
-          "aligned": 16,
-          "aligned_pct": "66.7%",
+          "aligned": 19,
+          "aligned_pct": "79.2%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 24,
           "dir": "s032/",
-          "dur": 59695,
+          "dur": 59697,
           "key": "s032",
           "series_id": "shaarawy__s032",
           "title": "تفسير سورة الأحزاب",
@@ -1591,8 +1591,8 @@
       "slug": "adham-alasimi"
     },
     {
-      "aligned": 234,
-      "chars": 18506840,
+      "aligned": 235,
+      "chars": 18506308,
       "lessons": 483,
       "name": "أحمد السيد",
       "path": "ahmed-alsayed/",
@@ -1852,8 +1852,8 @@
           "transcribed": 6
         },
         {
-          "aligned": 22,
-          "aligned_pct": "95.7%",
+          "aligned": 23,
+          "aligned_pct": "100.0%",
           "category": "سلسلة علمية",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
@@ -2413,7 +2413,7 @@
       "slug": "habib-ali-aljifri"
     },
     {
-      "aligned": 401,
+      "aligned": 407,
       "chars": 3112209,
       "lessons": 460,
       "name": "فاضل السامرائي",
@@ -2464,14 +2464,14 @@
           "transcribed": 10
         },
         {
-          "aligned": 18,
-          "aligned_pct": "75.0%",
+          "aligned": 24,
+          "aligned_pct": "100.0%",
           "category": "التفسير والبيان القرآني (حسب السور)",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 24,
           "dir": "s017/",
-          "dur": 7105,
+          "dur": 7107,
           "key": "s017",
           "series_id": "samarrai__s017",
           "title": "اللمسات البيانية في سورة الأنعام (حلقات ومباحث وفوائد بيانية)",
@@ -5706,8 +5706,8 @@
     }
   ],
   "totals": {
-    "aligned": 2284,
-    "chars": 156144275,
+    "aligned": 2299,
+    "chars": 156143646,
     "lessons": 6589,
     "series": 386,
     "sheikhs": 25
