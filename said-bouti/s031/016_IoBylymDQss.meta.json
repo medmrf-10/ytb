@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:IoBylymDQss",
- "vid": "IoBylymDQss",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--379",
- "n": 16,
- "n_src": "plpos",
- "title": "16- تاريخ التشريع الإسلامي | منهج الإمام مالك في الاجتهاد",
- "title_src": "yt_titles",
- "sha256": "a38737053e7a3b71c289abbcb66664fe14b222e374dcdf1048c54d790ec436c5",
- "nh": "df682a1cb68c45380ab1cdc4b1e548a4983c055c642853d51a487c5371f43fa4",
- "chars": 27347,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/379/016_16- تاريخ التشريع الإسلامي ｜ منهج الإمام مالك في الاجتهاد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/379/016_16- تاريخ التشريع الإسلامي ｜ منهج الإمام مالك في الاجتهاد.txt",
-   "sha256": "a38737053e7a3b71c289abbcb66664fe14b222e374dcdf1048c54d790ec436c5",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:IoBylymDQss",
+  "vid": "IoBylymDQss",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--379",
+  "n": 16,
+  "n_src": "plpos",
+  "title": "16- تاريخ التشريع الإسلامي | منهج الإمام مالك في الاجتهاد",
+  "title_src": "yt_titles",
+  "sha256": "a38737053e7a3b71c289abbcb66664fe14b222e374dcdf1048c54d790ec436c5",
+  "nh": "df682a1cb68c45380ab1cdc4b1e548a4983c055c642853d51a487c5371f43fa4",
+  "chars": 27347,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/379/016_16- تاريخ التشريع الإسلامي ｜ منهج الإمام مالك في الاجتهاد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/tari5Eltachri3-016/transcript.txt",
-   "sha256": "38c69835bda7834aabb6156c74a3036aff6dfd65d875db99e4c1867b2dd64014",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-tarikh/16.txt",
-   "sha256": "38c69835bda7834aabb6156c74a3036aff6dfd65d875db99e4c1867b2dd64014",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/379/15.txt",
-   "sha256": "a38737053e7a3b71c289abbcb66664fe14b222e374dcdf1048c54d790ec436c5",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/379/016_16- تاريخ التشريع الإسلامي ｜ منهج الإمام مالك في الاجتهاد.txt",
+      "sha256": "a38737053e7a3b71c289abbcb66664fe14b222e374dcdf1048c54d790ec436c5",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/tari5Eltachri3-016/transcript.txt",
+      "sha256": "38c69835bda7834aabb6156c74a3036aff6dfd65d875db99e4c1867b2dd64014",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-tarikh/16.txt",
+      "sha256": "38c69835bda7834aabb6156c74a3036aff6dfd65d875db99e4c1867b2dd64014",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/379/15.txt",
+      "sha256": "a38737053e7a3b71c289abbcb66664fe14b222e374dcdf1048c54d790ec436c5",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.65,
+    "words": 5053,
+    "aligned": 5053,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 21:07"
   }
- ],
- "variants": [],
- "also_in": []
 }

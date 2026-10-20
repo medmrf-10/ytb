@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:LTwV8kTjQUo",
- "vid": "LTwV8kTjQUo",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--379",
- "n": 14,
- "n_src": "plpos",
- "title": "14- تاريخ التشريع الإسلامي | الإمام أبو حنيفة منهجه وتلامذته | الإمام مالك و منهجه",
- "title_src": "yt_titles",
- "sha256": "084d395e66d4d54b7ac3979b3781df1f1cbfb1a3e6bd4378a94a9619cea66041",
- "nh": "f67a0f1a17b0bbd6753fba68e914fd3277a0a4206026a5166799e13a3e9bb37f",
- "chars": 26502,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/379/014_14- تاريخ التشريع الإسلامي ｜ الإمام أبو حنيفة منهجه وتلامذته ｜ الإمام مالك و منه.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/379/014_14- تاريخ التشريع الإسلامي ｜ الإمام أبو حنيفة منهجه وتلامذته ｜ الإمام مالك و منه.txt",
-   "sha256": "084d395e66d4d54b7ac3979b3781df1f1cbfb1a3e6bd4378a94a9619cea66041",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:LTwV8kTjQUo",
+  "vid": "LTwV8kTjQUo",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--379",
+  "n": 14,
+  "n_src": "plpos",
+  "title": "14- تاريخ التشريع الإسلامي | الإمام أبو حنيفة منهجه وتلامذته | الإمام مالك و منهجه",
+  "title_src": "yt_titles",
+  "sha256": "084d395e66d4d54b7ac3979b3781df1f1cbfb1a3e6bd4378a94a9619cea66041",
+  "nh": "f67a0f1a17b0bbd6753fba68e914fd3277a0a4206026a5166799e13a3e9bb37f",
+  "chars": 26502,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/379/014_14- تاريخ التشريع الإسلامي ｜ الإمام أبو حنيفة منهجه وتلامذته ｜ الإمام مالك و منه.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/tari5Eltachri3-014/transcript.txt",
-   "sha256": "ac97c4d666d0a58223b3db8c693c5bb8199c3b720da45bfb9d072c48fc8fc8ee",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-tarikh/14.txt",
-   "sha256": "ac97c4d666d0a58223b3db8c693c5bb8199c3b720da45bfb9d072c48fc8fc8ee",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/379/13.txt",
-   "sha256": "084d395e66d4d54b7ac3979b3781df1f1cbfb1a3e6bd4378a94a9619cea66041",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/379/014_14- تاريخ التشريع الإسلامي ｜ الإمام أبو حنيفة منهجه وتلامذته ｜ الإمام مالك و منه.txt",
+      "sha256": "084d395e66d4d54b7ac3979b3781df1f1cbfb1a3e6bd4378a94a9619cea66041",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/tari5Eltachri3-014/transcript.txt",
+      "sha256": "ac97c4d666d0a58223b3db8c693c5bb8199c3b720da45bfb9d072c48fc8fc8ee",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-tarikh/14.txt",
+      "sha256": "ac97c4d666d0a58223b3db8c693c5bb8199c3b720da45bfb9d072c48fc8fc8ee",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/379/13.txt",
+      "sha256": "084d395e66d4d54b7ac3979b3781df1f1cbfb1a3e6bd4378a94a9619cea66041",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9998,
+    "spoken_align_pct": 99.98,
+    "audio_span_pct": 99.08,
+    "words": 5011,
+    "aligned": 5010,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 21:02"
   }
- ],
- "variants": [],
- "also_in": []
 }

@@ -1,7 +1,7 @@
 {
   "sheikhs": [
     {
-      "aligned": 322,
+      "aligned": 330,
       "chars": 20562717,
       "lessons": 1165,
       "name": "محمد سعيد رمضان البوطي",
@@ -332,14 +332,14 @@
           "transcribed": 70
         },
         {
-          "aligned": 10,
-          "aligned_pct": "26.3%",
+          "aligned": 18,
+          "aligned_pct": "47.4%",
           "category": "السيرة النبوية والتاريخ",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 38,
           "dir": "s031/",
-          "dur": 106844,
+          "dur": 106837,
           "key": "s031",
           "series_id": "bouti__s031",
           "title": "محاضرات في تاريخ التشريع الإسلامي",
@@ -5720,7 +5720,7 @@
     }
   ],
   "totals": {
-    "aligned": 2950,
+    "aligned": 2958,
     "chars": 157906895,
     "lessons": 6712,
     "series": 387,
