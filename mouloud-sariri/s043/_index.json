@@ -2,7 +2,7 @@
   "aligned": 0,
   "aligned_ratio": 0.0,
   "category": "الخطب والوعظ",
-  "coverage": 0.62,
+  "coverage": 0.635,
   "declared_total": 200,
   "key": "s043",
   "lessons": [
@@ -1340,6 +1340,17 @@
     {
       "align_coverage": null,
       "aligned": false,
+      "chars": 16031,
+      "dur": 1938,
+      "file": "124_WLfKVzN0Dbs.txt",
+      "n": 124,
+      "stem": "124_WLfKVzN0Dbs",
+      "title": "خطب منبرية (مميزة) : \" خطر الغرور \" | الشيخ العلامة مولود السريري",
+      "vid": "WLfKVzN0Dbs"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
       "chars": 14957,
       "dur": 1936,
       "file": "125_K_ugvIEzatI.txt",
@@ -1369,12 +1380,34 @@
       "stem": "127_oU8lQ_EZDbk",
       "title": "خطب منبرية : \" بعض ثمرات الإسلام \" | الشيخ العلامة مولود السريري",
       "vid": "oU8lQ_EZDbk"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 17918,
+      "dur": 2136,
+      "file": "128_GVf7FYg1mX4.txt",
+      "n": 128,
+      "stem": "128_GVf7FYg1mX4",
+      "title": "خطب منبرية : \" عاقبة السخرية والاستهزاء \" | الشيخ العلامة مولود السريري",
+      "vid": "GVf7FYg1mX4"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 13159,
+      "dur": 1686,
+      "file": "131_RFI3r3rh4_I.txt",
+      "n": 131,
+      "stem": "131_RFI3r3rh4_I",
+      "title": "خطب منبرية : \" وقفة مع حديث  إن الله تعالى فرض فرائض فلا تضيّعوها \" | الشيخ العلامة مولود السريري",
+      "vid": "RFI3r3rh4_I"
     }
   ],
   "series_id": "sariri__s043",
   "sheikh": "mouloud-sariri",
   "sheikh_name": "مولود السريري",
   "title": "خطب منبرية وخطب الجمعة",
-  "transcribed": 124,
+  "transcribed": 127,
   "v": 2
 }

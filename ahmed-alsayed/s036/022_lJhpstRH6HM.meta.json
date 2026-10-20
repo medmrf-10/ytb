@@ -1,43 +1,59 @@
 {
- "v": 1,
- "lid": "yt:lJhpstRH6HM",
- "vid": "lJhpstRH6HM",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--628",
- "n": 22,
- "n_src": "mutfile",
- "title": "السيرة النبوية للمصلحين 22 ｜ بئر معونة وبنو النضير ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "84b41eb5567503db329cd06596dcdc37b6635e0620983aed1a2eacd28a4743a4",
- "nh": "1869a8a5591af6dae348d57e92d94610c562e244616650407406453be11037e9",
- "chars": 24802,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/628/022_السيرة النبوية للمصلحين 22 ｜ بئر معونة وبنو النضير ｜ أحمد السيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/628/022_السيرة النبوية للمصلحين 22 ｜ بئر معونة وبنو النضير ｜ أحمد السيد.txt",
-   "sha256": "84b41eb5567503db329cd06596dcdc37b6635e0620983aed1a2eacd28a4743a4",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:lJhpstRH6HM",
+  "vid": "lJhpstRH6HM",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--628",
+  "n": 22,
+  "n_src": "mutfile",
+  "title": "السيرة النبوية للمصلحين 22 ｜ بئر معونة وبنو النضير ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "84b41eb5567503db329cd06596dcdc37b6635e0620983aed1a2eacd28a4743a4",
+  "nh": "1869a8a5591af6dae348d57e92d94610c562e244616650407406453be11037e9",
+  "chars": 24802,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/628/022_السيرة النبوية للمصلحين 22 ｜ بئر معونة وبنو النضير ｜ أحمد السيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/elsiraLilmosli7in-022/transcript.txt",
-   "sha256": "f1605c43e3869cba207c92a831f820c619b6fb60c2859825757972ec41a86ab5",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-628/022.txt",
-   "sha256": "f1605c43e3869cba207c92a831f820c619b6fb60c2859825757972ec41a86ab5",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/628/022_السيرة النبوية للمصلحين 22 ｜ بئر معونة وبنو النضير ｜ أحمد السيد.txt",
+      "sha256": "84b41eb5567503db329cd06596dcdc37b6635e0620983aed1a2eacd28a4743a4",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/elsiraLilmosli7in-022/transcript.txt",
+      "sha256": "f1605c43e3869cba207c92a831f820c619b6fb60c2859825757972ec41a86ab5",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-628/022.txt",
+      "sha256": "f1605c43e3869cba207c92a831f820c619b6fb60c2859825757972ec41a86ab5",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9994,
+    "spoken_align_pct": 99.94,
+    "audio_span_pct": 99.8,
+    "words": 4680,
+    "aligned": 4677,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 20:05",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
