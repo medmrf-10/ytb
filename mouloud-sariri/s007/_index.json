@@ -1,6 +1,6 @@
 {
-  "aligned": 1,
-  "aligned_ratio": 0.0526,
+  "aligned": 8,
+  "aligned_ratio": 0.4211,
   "category": "أصول الفقه ومقاصد الشريعة",
   "coverage": 1.0,
   "declared_total": 19,
@@ -18,9 +18,9 @@
       "vid": "_ST3kLIcKIo"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 32142,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 32077,
       "dur": 4229,
       "file": "002_Cr-WRBijOSQ.txt",
       "n": 2,
@@ -29,9 +29,9 @@
       "vid": "Cr-WRBijOSQ"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 36730,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 36545,
       "dur": 4305,
       "file": "003_-gisGdSgom8.txt",
       "n": 3,
@@ -40,8 +40,8 @@
       "vid": "-gisGdSgom8"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 31236,
       "dur": 4292,
       "file": "004_Em2C8UtIs2Q.txt",
@@ -51,10 +51,10 @@
       "vid": "Em2C8UtIs2Q"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 29891,
-      "dur": 4480,
+      "dur": 4481,
       "file": "005_M57O-J-J4hc.txt",
       "n": 5,
       "stem": "005_M57O-J-J4hc",
@@ -62,8 +62,8 @@
       "vid": "M57O-J-J4hc"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 36140,
       "dur": 4897,
       "file": "006_WmF2Spk3Myk.txt",
@@ -73,9 +73,9 @@
       "vid": "WmF2Spk3Myk"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 25974,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 25872,
       "dur": 3463,
       "file": "007_aJmh84N_zYw.txt",
       "n": 7,
@@ -84,9 +84,9 @@
       "vid": "aJmh84N_zYw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 30361,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 30217,
       "dur": 4139,
       "file": "008_OVOuoAnPN2Q.txt",
       "n": 8,
