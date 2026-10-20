@@ -1,6 +1,6 @@
 {
-  "aligned": 6,
-  "aligned_ratio": 0.2,
+  "aligned": 7,
+  "aligned_ratio": 0.2333,
   "category": "التفسير وعلوم القرآن",
   "coverage": 1.0,
   "declared_total": 30,
@@ -73,10 +73,10 @@
       "vid": "0__cbNBM0eQ"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 31204,
-      "dur": 2758,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 31155,
+      "dur": 2759,
       "file": "007_0hJ8MA8cv3s.txt",
       "n": 7,
       "stem": "007_0hJ8MA8cv3s",
