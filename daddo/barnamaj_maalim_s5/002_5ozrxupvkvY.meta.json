@@ -8,30 +8,14 @@
   "align": {
     "engine": "ctc-pure-mac-mps",
     "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
-    "cov": 0.0514,
-    "spoken_align_pct": 5.14,
-    "audio_span_pct": 4.39,
-    "words": 8999,
-    "aligned": 461,
-    "interpolated": 8512,
-    "retried_without_silence_compact": true,
-    "local_agc_applied": true,
-    "at": "2026-10-20 08:43",
-    "low_coverage_diagnosis": {
-      "spoken_align_pct": 5.14,
-      "interpolated_words": 8512,
-      "unaligned_clusters_count": 6,
-      "max_cluster_words": 8258,
-      "wpm": 124.4,
-      "audio_span_pct": 4.39,
-      "forced_steps": 0,
-      "causes": [
-        "TEXT_HALLUCINATION_OR_CHUNK_REPEAT(clusters=6, max_run=8258w @ 3.12s: «بسم الله الرحمن الرحيم، الحمد لله رب العالمين، وأصلي وأسلم ع»)",
-        "DEAD_SILENCE_TAIL_OR_TRUNCATION(audio_span=4.4%)"
-      ]
-    },
-    "stripped_reasons": [
-      "CHUNK_BOUNDARY_OVERLAP"
-    ]
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 4.37,
+    "words": 328,
+    "aligned": 328,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 11:02"
   }
 }

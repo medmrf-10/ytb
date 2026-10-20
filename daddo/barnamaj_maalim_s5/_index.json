@@ -1,6 +1,6 @@
 {
-  "aligned": 21,
-  "aligned_ratio": 0.9545,
+  "aligned": 22,
+  "aligned_ratio": 1.0,
   "category": "برامج وحوارات",
   "coverage": 1.0,
   "declared_total": 22,
@@ -18,8 +18,8 @@
       "vid": "4_L6gNFh-Og"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 1837,
       "dur": 4328,
       "file": "002_5ozrxupvkvY.txt",
