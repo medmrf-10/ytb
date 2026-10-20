@@ -8,27 +8,14 @@
   "align": {
     "engine": "ctc-pure-mac-mps",
     "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
-    "cov": 0.539,
-    "spoken_align_pct": 53.9,
-    "audio_span_pct": 15.87,
-    "words": 3029,
-    "aligned": 1632,
-    "interpolated": 1396,
-    "retried_without_silence_compact": true,
-    "local_agc_applied": true,
-    "at": "2026-10-19 06:29",
-    "low_coverage_diagnosis": {
-      "spoken_align_pct": 53.9,
-      "interpolated_words": 1396,
-      "unaligned_clusters_count": 10,
-      "max_cluster_words": 899,
-      "wpm": 45.7,
-      "audio_span_pct": 15.87,
-      "forced_steps": 0,
-      "causes": [
-        "TEXT_HALLUCINATION_OR_CHUNK_REPEAT(clusters=10, max_run=899w @ 53.44s: «أو بالثبوت الذي يسمى بالحال بالنسبة للأمور... للأمور النفسية»)",
-        "DEAD_SILENCE_TAIL_OR_TRUNCATION(audio_span=15.9%)"
-      ]
-    }
+    "cov": 0.9986,
+    "spoken_align_pct": 99.86,
+    "audio_span_pct": 14.47,
+    "words": 726,
+    "aligned": 725,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 20:20"
   }
 }
