@@ -1,14 +1,14 @@
 {
-  "aligned": 2,
-  "aligned_ratio": 0.1053,
+  "aligned": 11,
+  "aligned_ratio": 0.5789,
   "category": "التزكية والسلوك",
   "coverage": 1.0,
   "declared_total": 19,
   "key": "kibrit_ahmar_jordan",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 38887,
       "dur": 4350,
       "file": "001_hGda41xVzi0.txt",
@@ -29,8 +29,8 @@
       "vid": "VaJe082VACE"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 39879,
       "dur": 4521,
       "file": "003_M7JSvOPrkew.txt",
@@ -51,8 +51,8 @@
       "vid": "GTP5dYcQoZY"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 14666,
       "dur": 1566,
       "file": "005_fpPF60b5TcQ.txt",
@@ -62,10 +62,10 @@
       "vid": "fpPF60b5TcQ"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 38520,
-      "dur": 4090,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 38380,
+      "dur": 4091,
       "file": "006_JC9NuZVWmCw.txt",
       "n": 6,
       "stem": "006_JC9NuZVWmCw",
@@ -73,8 +73,8 @@
       "vid": "JC9NuZVWmCw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 23103,
       "dur": 2859,
       "file": "007_BDr0tM2Tfmc.txt",
@@ -84,10 +84,10 @@
       "vid": "BDr0tM2Tfmc"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 34902,
-      "dur": 4177,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 34772,
+      "dur": 4178,
       "file": "008_UUOjmQ3zV2c.txt",
       "n": 8,
       "stem": "008_UUOjmQ3zV2c",
@@ -95,10 +95,10 @@
       "vid": "UUOjmQ3zV2c"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 10471,
-      "dur": 1441,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 10449,
+      "dur": 1442,
       "file": "009_P0i7adTeg2A.txt",
       "n": 9,
       "stem": "009_P0i7adTeg2A",
@@ -106,8 +106,8 @@
       "vid": "P0i7adTeg2A"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 26255,
       "dur": 3278,
       "file": "010_CcRD0OfoHmM.txt",
@@ -117,8 +117,8 @@
       "vid": "CcRD0OfoHmM"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 34462,
       "dur": 4393,
       "file": "011_-jDig4hnHck.txt",
