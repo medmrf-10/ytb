@@ -1,7 +1,7 @@
 {
   "sheikhs": [
     {
-      "aligned": 292,
+      "aligned": 296,
       "chars": 20562717,
       "lessons": 1165,
       "name": "محمد سعيد رمضان البوطي",
@@ -38,14 +38,14 @@
           "transcribed": 63
         },
         {
-          "aligned": 11,
-          "aligned_pct": "35.5%",
+          "aligned": 15,
+          "aligned_pct": "48.4%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 31,
           "dir": "s003/",
-          "dur": 50416,
+          "dur": 50413,
           "key": "s003",
           "series_id": "bouti__s003",
           "title": "برنامج الجديد في إعجاز القرآن الكريم",
@@ -1592,8 +1592,8 @@
     },
     {
       "aligned": 95,
-      "chars": 9293655,
-      "lessons": 512,
+      "chars": 9328379,
+      "lessons": 514,
       "name": "الحبيب عمر بن حفيظ",
       "path": "habib-omar-ibn-hafiz/",
       "photo": "_meta/img/habib-omar-ibn-hafiz.jpg",
@@ -1673,15 +1673,15 @@
           "aligned": 0,
           "aligned_pct": "0.0%",
           "category": "الخطب والمحاضرات",
-          "coverage": 0.184,
-          "coverage_pct": "18.4%",
+          "coverage": 0.1899,
+          "coverage_pct": "19.0%",
           "declared_total": 337,
           "dir": "khutab_jumaa/",
-          "dur": 111057,
+          "dur": 115243,
           "key": "khutab_jumaa",
           "series_id": "hafiz__khutab_jumaa",
           "title": "خطب الجمعة والعيدين والكسوف والخسوف",
-          "transcribed": 62
+          "transcribed": 64
         },
         {
           "aligned": 19,
@@ -5720,9 +5720,9 @@
     }
   ],
   "totals": {
-    "aligned": 2815,
-    "chars": 157140671,
-    "lessons": 6657,
+    "aligned": 2819,
+    "chars": 157175395,
+    "lessons": 6659,
     "series": 387,
     "sheikhs": 25
   },
