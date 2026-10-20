@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:dU-X1ZIFZvY",
- "vid": "dU-X1ZIFZvY",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--379",
- "n": 30,
- "n_src": "plpos",
- "title": "30- تاريخ التشريع الإسلامي | خصائص الدور الخامس",
- "title_src": "yt_titles",
- "sha256": "01aa3c99672075fa42740a3794bf1f92fa638b0c5096121f293921c0e6babef5",
- "nh": "e1106511671084fbcb9be043a54084021222c158c1ec5e619a40eaaee404325f",
- "chars": 6817,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/379/030_30- تاريخ التشريع الإسلامي ｜ خصائص الدور الخامس.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/379/030_30- تاريخ التشريع الإسلامي ｜ خصائص الدور الخامس.txt",
-   "sha256": "01aa3c99672075fa42740a3794bf1f92fa638b0c5096121f293921c0e6babef5",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:dU-X1ZIFZvY",
+  "vid": "dU-X1ZIFZvY",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--379",
+  "n": 30,
+  "n_src": "plpos",
+  "title": "30- تاريخ التشريع الإسلامي | خصائص الدور الخامس",
+  "title_src": "yt_titles",
+  "sha256": "01aa3c99672075fa42740a3794bf1f92fa638b0c5096121f293921c0e6babef5",
+  "nh": "e1106511671084fbcb9be043a54084021222c158c1ec5e619a40eaaee404325f",
+  "chars": 6817,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/379/030_30- تاريخ التشريع الإسلامي ｜ خصائص الدور الخامس.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/tari5Eltachri3-030/transcript.txt",
-   "sha256": "51bf3ae194a3d3ebdf32264ffaa0e190d692a08c80a5a482f5f58834919116df",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-tarikh/30.txt",
-   "sha256": "51bf3ae194a3d3ebdf32264ffaa0e190d692a08c80a5a482f5f58834919116df",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/379/29.txt",
-   "sha256": "01aa3c99672075fa42740a3794bf1f92fa638b0c5096121f293921c0e6babef5",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/379/030_30- تاريخ التشريع الإسلامي ｜ خصائص الدور الخامس.txt",
+      "sha256": "01aa3c99672075fa42740a3794bf1f92fa638b0c5096121f293921c0e6babef5",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/tari5Eltachri3-030/transcript.txt",
+      "sha256": "51bf3ae194a3d3ebdf32264ffaa0e190d692a08c80a5a482f5f58834919116df",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-tarikh/30.txt",
+      "sha256": "51bf3ae194a3d3ebdf32264ffaa0e190d692a08c80a5a482f5f58834919116df",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/379/29.txt",
+      "sha256": "01aa3c99672075fa42740a3794bf1f92fa638b0c5096121f293921c0e6babef5",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9966,
+    "spoken_align_pct": 99.66,
+    "audio_span_pct": 97.26,
+    "words": 1187,
+    "aligned": 1183,
+    "interpolated": 4,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 21:29"
   }
- ],
- "variants": [],
- "also_in": []
 }
