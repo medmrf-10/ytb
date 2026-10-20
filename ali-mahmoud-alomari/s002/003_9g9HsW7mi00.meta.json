@@ -1,43 +1,59 @@
 {
- "v": 1,
- "lid": "yt:9g9HsW7mi00",
- "vid": "9g9HsW7mi00",
- "sheikh": "ali-mahmoud-alomari",
- "row_id": "ali-mahmoud-alomari--alamri-barahin-sharh",
- "n": 3,
- "n_src": "trfile",
- "title": "الدَّرس الثالث شرح أم البراهين للشيخ أبي عبد الله السَّنوسي رضي الله عنه",
- "title_src": "yt_titles",
- "sha256": "6a8ed1f1a55462fdb15ed4f1f5f12dca7f6c6a7ec11d6e5653343cb008d3207a",
- "nh": "40ec730d7bcb892b47a926be6554b2b9b1a8b39f59125ee0f9ce745c2a5e5928",
- "chars": 52824,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/alamriBarahinSharh-003/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/alamriBarahinSharh-003/transcript.txt",
-   "sha256": "6a8ed1f1a55462fdb15ed4f1f5f12dca7f6c6a7ec11d6e5653343cb008d3207a",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:9g9HsW7mi00",
+  "vid": "9g9HsW7mi00",
+  "sheikh": "ali-mahmoud-alomari",
+  "row_id": "ali-mahmoud-alomari--alamri-barahin-sharh",
+  "n": 3,
+  "n_src": "trfile",
+  "title": "الدَّرس الثالث شرح أم البراهين للشيخ أبي عبد الله السَّنوسي رضي الله عنه",
+  "title_src": "yt_titles",
+  "sha256": "6a8ed1f1a55462fdb15ed4f1f5f12dca7f6c6a7ec11d6e5653343cb008d3207a",
+  "nh": "40ec730d7bcb892b47a926be6554b2b9b1a8b39f59125ee0f9ce745c2a5e5928",
+  "chars": 52824,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/alamriBarahinSharh-003/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alamri/barahin-sharh/barahin-sharh-03_AlAmri.txt",
-   "sha256": "6a8ed1f1a55462fdb15ed4f1f5f12dca7f6c6a7ec11d6e5653343cb008d3207a",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alamri-barahin-sharh/03.txt",
-   "sha256": "6a8ed1f1a55462fdb15ed4f1f5f12dca7f6c6a7ec11d6e5653343cb008d3207a",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/alamriBarahinSharh-003/transcript.txt",
+      "sha256": "6a8ed1f1a55462fdb15ed4f1f5f12dca7f6c6a7ec11d6e5653343cb008d3207a",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alamri/barahin-sharh/barahin-sharh-03_AlAmri.txt",
+      "sha256": "6a8ed1f1a55462fdb15ed4f1f5f12dca7f6c6a7ec11d6e5653343cb008d3207a",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alamri-barahin-sharh/03.txt",
+      "sha256": "6a8ed1f1a55462fdb15ed4f1f5f12dca7f6c6a7ec11d6e5653343cb008d3207a",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9905,
+    "spoken_align_pct": 99.05,
+    "audio_span_pct": 99.99,
+    "words": 9708,
+    "aligned": 9613,
+    "interpolated": 92,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 12:24",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

@@ -1,15 +1,15 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 3,
+  "aligned_ratio": 0.125,
   "category": "العقيدة وعلم الكلام",
   "coverage": 1.0,
   "declared_total": 24,
   "key": "s002",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 44811,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 44592,
       "dur": 4968,
       "file": "001_y7msC4NbzVU.txt",
       "n": 1,
@@ -18,10 +18,10 @@
       "vid": "y7msC4NbzVU"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 37730,
-      "dur": 4595,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 37705,
+      "dur": 4594,
       "file": "002_u67_GOMsKjw.txt",
       "n": 2,
       "stem": "002_u67_GOMsKjw",
@@ -29,10 +29,10 @@
       "vid": "u67_GOMsKjw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 52824,
-      "dur": 6090,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 52683,
+      "dur": 6089,
       "file": "003_9g9HsW7mi00.txt",
       "n": 3,
       "stem": "003_9g9HsW7mi00",
