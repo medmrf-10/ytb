@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:ppaX-6Ie-ZA",
- "vid": "ppaX-6Ie-ZA",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--95",
- "n": 10,
- "n_src": "read",
- "title": "حلقة 9： الكبر ｜ أيها المريد ｜ الحبيب علي الجفري",
- "title_src": "filename",
- "sha256": "829abc0b1136de8cba9d4a231fdd6bc3234dc5e6f4fde41fc5102360eac7e17e",
- "nh": "dd2f1cf02d6767c1e2bff4d3e593fc694e7f179323b2fc8e00de9350b462a4d3",
- "chars": 17529,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/95/010_حلقة 9： الكبر ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/95/010_حلقة 9： الكبر ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
-   "sha256": "829abc0b1136de8cba9d4a231fdd6bc3234dc5e6f4fde41fc5102360eac7e17e",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:ppaX-6Ie-ZA",
+  "vid": "ppaX-6Ie-ZA",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--95",
+  "n": 10,
+  "n_src": "read",
+  "title": "حلقة 9： الكبر ｜ أيها المريد ｜ الحبيب علي الجفري",
+  "title_src": "filename",
+  "sha256": "829abc0b1136de8cba9d4a231fdd6bc3234dc5e6f4fde41fc5102360eac7e17e",
+  "nh": "dd2f1cf02d6767c1e2bff4d3e593fc694e7f179323b2fc8e00de9350b462a4d3",
+  "chars": 17529,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/95/010_حلقة 9： الكبر ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/95/010_حلقة 9： الكبر ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
+      "sha256": "829abc0b1136de8cba9d4a231fdd6bc3234dc5e6f4fde41fc5102360eac7e17e",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9817,
+    "spoken_align_pct": 98.17,
+    "audio_span_pct": 96.25,
+    "words": 3395,
+    "aligned": 3333,
+    "interpolated": 62,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 17:36"
   }
- ],
- "variants": [],
- "also_in": []
 }

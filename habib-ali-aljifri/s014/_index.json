@@ -1,6 +1,6 @@
 {
-  "aligned": 5,
-  "aligned_ratio": 0.1667,
+  "aligned": 9,
+  "aligned_ratio": 0.3,
   "category": "برنامج رمضاني",
   "coverage": 1.0,
   "declared_total": 30,
@@ -62,10 +62,10 @@
       "vid": "CY1B5sWUHC0"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 16753,
-      "dur": 1657,
+      "dur": 1656,
       "file": "006_PBIiSuZ15MQ.txt",
       "n": 6,
       "stem": "006_PBIiSuZ15MQ",
@@ -73,10 +73,10 @@
       "vid": "PBIiSuZ15MQ"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 18281,
-      "dur": 1686,
+      "dur": 1685,
       "file": "007_xnJHOCnZ9I8.txt",
       "n": 7,
       "stem": "007_xnJHOCnZ9I8",
@@ -84,10 +84,10 @@
       "vid": "xnJHOCnZ9I8"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 18113,
-      "dur": 1718,
+      "dur": 1717,
       "file": "008_fik-Qb45-F0.txt",
       "n": 8,
       "stem": "008_fik-Qb45-F0",
@@ -95,10 +95,10 @@
       "vid": "fik-Qb45-F0"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 17356,
-      "dur": 1801,
+      "dur": 1800,
       "file": "009_ppaX-6Ie-ZA.txt",
       "n": 9,
       "stem": "009_ppaX-6Ie-ZA",

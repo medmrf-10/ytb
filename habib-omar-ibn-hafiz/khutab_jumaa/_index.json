@@ -2,7 +2,7 @@
   "aligned": 0,
   "aligned_ratio": 0.0,
   "category": "الخطب والمحاضرات",
-  "coverage": 0.1306,
+  "coverage": 0.1395,
   "declared_total": 337,
   "key": "khutab_jumaa",
   "lessons": [
@@ -108,6 +108,17 @@
     {
       "align_coverage": null,
       "aligned": false,
+      "chars": 16293,
+      "dur": 1943,
+      "file": "041_L9J51rghcso.txt",
+      "n": 41,
+      "stem": "041_L9J51rghcso",
+      "title": "الحبيب عمر بن حفيظ: العلامات والعناوين الرئيسة لفكر وأعمال كلٍّ من فريقي الجنة والنار",
+      "vid": "L9J51rghcso"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
       "chars": 15954,
       "dur": 1766,
       "file": "044_VnzJUK1L5WA.txt",
@@ -203,6 +214,17 @@
       "stem": "117_kB5rwiT9cbo",
       "title": "الحبيب عمر بن حفيظ: دقائق التقوى في المقاصد والأعمال والتهيؤ للقبول عند ذي الجلال",
       "vid": "kB5rwiT9cbo"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 12985,
+      "dur": 1949,
+      "file": "130_-f-wYdcQanY.txt",
+      "n": 130,
+      "stem": "130_-f-wYdcQanY",
+      "title": "الحبيب عمر بن حفيظ: مكانة الصحبة في التقوى وعظيم خطرها سلباً وإيجابا",
+      "vid": "-f-wYdcQanY"
     },
     {
       "align_coverage": null,
@@ -313,6 +335,17 @@
       "stem": "183_dPtTqg7G5vQ",
       "title": "الحبيب عمر بن حفيظ: ميزة المؤمنين في السعي وحركة الحياة وفارق ما بينهم وبين من لم يؤمن بالله",
       "vid": "dPtTqg7G5vQ"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 16667,
+      "dur": 1941,
+      "file": "186_xbA2uRjnUU4.txt",
+      "n": 186,
+      "stem": "186_xbA2uRjnUU4",
+      "title": "الحبيب عمر بن حفيظ: مقاصد العبادات والتحرر من خدائع أهل الضلالات والأوهام والظنون الكاذبات",
+      "vid": "xbA2uRjnUU4"
     },
     {
       "align_coverage": null,
@@ -495,6 +528,6 @@
   "sheikh": "habib-omar-ibn-hafiz",
   "sheikh_name": "الحبيب عمر بن حفيظ",
   "title": "خطب الجمعة والعيدين والكسوف والخسوف",
-  "transcribed": 44,
+  "transcribed": 47,
   "v": 2
 }

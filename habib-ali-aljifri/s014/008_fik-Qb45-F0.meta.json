@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:fik-Qb45-F0",
- "vid": "fik-Qb45-F0",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--95",
- "n": 9,
- "n_src": "read",
- "title": "حلقة 8： مداخل الشيطان ｜ أيها المريد ｜ الحبيب علي الجفري",
- "title_src": "filename",
- "sha256": "02f3212310bc43344cea17bacff15944846e9e5dda365ef858b2ec9ee266d9ed",
- "nh": "6c55965415512415be4a6c0556b42d41bcb7c1be83437deb71810cdcc948db83",
- "chars": 18307,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/95/009_حلقة 8： مداخل الشيطان ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/95/009_حلقة 8： مداخل الشيطان ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
-   "sha256": "02f3212310bc43344cea17bacff15944846e9e5dda365ef858b2ec9ee266d9ed",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:fik-Qb45-F0",
+  "vid": "fik-Qb45-F0",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--95",
+  "n": 9,
+  "n_src": "read",
+  "title": "حلقة 8： مداخل الشيطان ｜ أيها المريد ｜ الحبيب علي الجفري",
+  "title_src": "filename",
+  "sha256": "02f3212310bc43344cea17bacff15944846e9e5dda365ef858b2ec9ee266d9ed",
+  "nh": "6c55965415512415be4a6c0556b42d41bcb7c1be83437deb71810cdcc948db83",
+  "chars": 18307,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/95/009_حلقة 8： مداخل الشيطان ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/95/009_حلقة 8： مداخل الشيطان ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
+      "sha256": "02f3212310bc43344cea17bacff15944846e9e5dda365ef858b2ec9ee266d9ed",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9883,
+    "spoken_align_pct": 98.83,
+    "audio_span_pct": 96.01,
+    "words": 3576,
+    "aligned": 3534,
+    "interpolated": 42,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 17:35"
   }
- ],
- "variants": [],
- "also_in": []
 }
