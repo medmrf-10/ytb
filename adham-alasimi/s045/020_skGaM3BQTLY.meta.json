@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:skGaM3BQTLY",
- "vid": "skGaM3BQTLY",
- "sheikh": "adham-alasimi",
- "row_id": "adham-alasimi--790",
- "n": 10,
- "n_src": "read",
- "title": "وقفة مع أسماء القيامة(1)⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي",
- "title_src": "filename",
- "sha256": "71bf6096768e75a21e728211b6d14d70606557e5836f8e46f29499758b70fcfa",
- "nh": "8232abe7cf7f5ac5054ca580d88b29c77f1a08cff190fb1a0fa52161fb492c28",
- "chars": 12369,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/790/010_وقفة مع أسماء القيامة(1)⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/790/010_وقفة مع أسماء القيامة(1)⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
-   "sha256": "71bf6096768e75a21e728211b6d14d70606557e5836f8e46f29499758b70fcfa",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:skGaM3BQTLY",
+  "vid": "skGaM3BQTLY",
+  "sheikh": "adham-alasimi",
+  "row_id": "adham-alasimi--790",
+  "n": 10,
+  "n_src": "read",
+  "title": "وقفة مع أسماء القيامة(1)⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي",
+  "title_src": "filename",
+  "sha256": "71bf6096768e75a21e728211b6d14d70606557e5836f8e46f29499758b70fcfa",
+  "nh": "8232abe7cf7f5ac5054ca580d88b29c77f1a08cff190fb1a0fa52161fb492c28",
+  "chars": 12369,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/790/010_وقفة مع أسماء القيامة(1)⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/790/9.txt",
-   "sha256": "71bf6096768e75a21e728211b6d14d70606557e5836f8e46f29499758b70fcfa",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/790/010_وقفة مع أسماء القيامة(1)⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+      "sha256": "71bf6096768e75a21e728211b6d14d70606557e5836f8e46f29499758b70fcfa",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/790/9.txt",
+      "sha256": "71bf6096768e75a21e728211b6d14d70606557e5836f8e46f29499758b70fcfa",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 98.81,
+    "words": 2275,
+    "aligned": 2275,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 16:23"
   }
- ],
- "variants": [],
- "also_in": []
 }

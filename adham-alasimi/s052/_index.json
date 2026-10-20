@@ -1,14 +1,14 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 1,
+  "aligned_ratio": 0.0345,
   "category": "خطب ومواعظ",
   "coverage": 1.0,
   "declared_total": 29,
   "key": "s052",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 16531,
       "dur": 1983,
       "file": "001_KJrhWu9iU0c.txt",

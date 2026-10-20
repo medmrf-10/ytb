@@ -1173,7 +1173,7 @@
       "slug": "sharawi"
     },
     {
-      "aligned": 119,
+      "aligned": 134,
       "chars": 9513464,
       "lessons": 546,
       "name": "أدهم العاسمي",
@@ -1490,14 +1490,14 @@
           "transcribed": 17
         },
         {
-          "aligned": 15,
-          "aligned_pct": "51.7%",
+          "aligned": 29,
+          "aligned_pct": "100.0%",
           "category": "سلسلة علمية",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 29,
           "dir": "s045/",
-          "dur": 36156,
+          "dur": 36148,
           "key": "s045",
           "series_id": "asimi__s045",
           "title": "سلسلة منازل الآخرة",
@@ -1546,8 +1546,8 @@
           "transcribed": 8
         },
         {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
+          "aligned": 1,
+          "aligned_pct": "3.5%",
           "category": "خطب ومواعظ",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
@@ -5720,7 +5720,7 @@
     }
   ],
   "totals": {
-    "aligned": 2588,
+    "aligned": 2603,
     "chars": 156244450,
     "lessons": 6597,
     "series": 387,
