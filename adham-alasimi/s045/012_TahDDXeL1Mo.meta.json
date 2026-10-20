@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:TahDDXeL1Mo",
- "vid": "TahDDXeL1Mo",
- "sheikh": "adham-alasimi",
- "row_id": "adham-alasimi--790",
- "n": 18,
- "n_src": "read",
- "title": "انقراض الخلق⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي",
- "title_src": "filename",
- "sha256": "c7ca111613168c90ff6961b9146d6139cbe55e9492720a74428ce27270176e9e",
- "nh": "d6d013fdc138fbee7bda649b72e3f6f6dc4f10ce5c0bc992072345cd19bcb30e",
- "chars": 12841,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/790/018_انقراض الخلق⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/790/018_انقراض الخلق⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
-   "sha256": "c7ca111613168c90ff6961b9146d6139cbe55e9492720a74428ce27270176e9e",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:TahDDXeL1Mo",
+  "vid": "TahDDXeL1Mo",
+  "sheikh": "adham-alasimi",
+  "row_id": "adham-alasimi--790",
+  "n": 18,
+  "n_src": "read",
+  "title": "انقراض الخلق⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي",
+  "title_src": "filename",
+  "sha256": "c7ca111613168c90ff6961b9146d6139cbe55e9492720a74428ce27270176e9e",
+  "nh": "d6d013fdc138fbee7bda649b72e3f6f6dc4f10ce5c0bc992072345cd19bcb30e",
+  "chars": 12841,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/790/018_انقراض الخلق⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/790/17.txt",
-   "sha256": "c7ca111613168c90ff6961b9146d6139cbe55e9492720a74428ce27270176e9e",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/790/018_انقراض الخلق⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+      "sha256": "c7ca111613168c90ff6961b9146d6139cbe55e9492720a74428ce27270176e9e",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/790/17.txt",
+      "sha256": "c7ca111613168c90ff6961b9146d6139cbe55e9492720a74428ce27270176e9e",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 98.79,
+    "words": 2337,
+    "aligned": 2337,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 16:18"
   }
- ],
- "variants": [],
- "also_in": []
 }

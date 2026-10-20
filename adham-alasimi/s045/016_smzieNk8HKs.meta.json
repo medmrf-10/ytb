@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:smzieNk8HKs",
- "vid": "smzieNk8HKs",
- "sheikh": "adham-alasimi",
- "row_id": "adham-alasimi--790",
- "n": 14,
- "n_src": "read",
- "title": "الحشر⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي",
- "title_src": "filename",
- "sha256": "3eb880ed649c8032c2ade14fa63c168afe14895b51c03893b678f3228af05c32",
- "nh": "3740165fb577b70db242de2a807442057e2ac44b80c524faa7466e8727a1e269",
- "chars": 12475,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/790/014_الحشر⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/790/014_الحشر⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
-   "sha256": "3eb880ed649c8032c2ade14fa63c168afe14895b51c03893b678f3228af05c32",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:smzieNk8HKs",
+  "vid": "smzieNk8HKs",
+  "sheikh": "adham-alasimi",
+  "row_id": "adham-alasimi--790",
+  "n": 14,
+  "n_src": "read",
+  "title": "الحشر⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي",
+  "title_src": "filename",
+  "sha256": "3eb880ed649c8032c2ade14fa63c168afe14895b51c03893b678f3228af05c32",
+  "nh": "3740165fb577b70db242de2a807442057e2ac44b80c524faa7466e8727a1e269",
+  "chars": 12475,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/790/014_الحشر⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/790/13.txt",
-   "sha256": "3eb880ed649c8032c2ade14fa63c168afe14895b51c03893b678f3228af05c32",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/790/014_الحشر⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+      "sha256": "3eb880ed649c8032c2ade14fa63c168afe14895b51c03893b678f3228af05c32",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/790/13.txt",
+      "sha256": "3eb880ed649c8032c2ade14fa63c168afe14895b51c03893b678f3228af05c32",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9996,
+    "spoken_align_pct": 99.96,
+    "audio_span_pct": 98.78,
+    "words": 2249,
+    "aligned": 2248,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 16:20"
   }
- ],
- "variants": [],
- "also_in": []
 }

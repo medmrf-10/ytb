@@ -1,6 +1,6 @@
 {
-  "aligned": 7,
-  "aligned_ratio": 0.2414,
+  "aligned": 15,
+  "aligned_ratio": 0.5172,
   "category": "سلسلة علمية",
   "coverage": 1.0,
   "declared_total": 29,
@@ -84,8 +84,8 @@
       "vid": "-SJXKVYnJHw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 11280,
       "dur": 1377,
       "file": "008_JUL3N_vxTXc.txt",
@@ -95,8 +95,8 @@
       "vid": "JUL3N_vxTXc"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 11860,
       "dur": 1405,
       "file": "009_oF-YuaQsAiE.txt",
@@ -106,10 +106,10 @@
       "vid": "oF-YuaQsAiE"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 12429,
-      "dur": 1395,
+      "dur": 1394,
       "file": "010_MqVCJlDCG_k.txt",
       "n": 10,
       "stem": "010_MqVCJlDCG_k",
@@ -117,10 +117,10 @@
       "vid": "MqVCJlDCG_k"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 9518,
-      "dur": 1120,
+      "dur": 1119,
       "file": "011_vSIk5MKBhks.txt",
       "n": 11,
       "stem": "011_vSIk5MKBhks",
@@ -128,8 +128,8 @@
       "vid": "vSIk5MKBhks"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 12661,
       "dur": 1387,
       "file": "012_TahDDXeL1Mo.txt",
@@ -139,10 +139,10 @@
       "vid": "TahDDXeL1Mo"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 12120,
-      "dur": 1328,
+      "dur": 1327,
       "file": "013_d5-jT8mU07A.txt",
       "n": 13,
       "stem": "013_d5-jT8mU07A",
@@ -150,8 +150,8 @@
       "vid": "d5-jT8mU07A"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 11923,
       "dur": 1387,
       "file": "014_f3SG5YZFc4Y.txt",
@@ -161,10 +161,10 @@
       "vid": "f3SG5YZFc4Y"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 10037,
-      "dur": 1152,
+      "dur": 1151,
       "file": "015_wZNGzN4UBZs.txt",
       "n": 15,
       "stem": "015_wZNGzN4UBZs",

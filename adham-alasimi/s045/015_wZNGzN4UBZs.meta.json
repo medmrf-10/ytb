@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:wZNGzN4UBZs",
- "vid": "wZNGzN4UBZs",
- "sheikh": "adham-alasimi",
- "row_id": "adham-alasimi--790",
- "n": 15,
- "n_src": "read",
- "title": "تبديل الأرض والسموات⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي",
- "title_src": "filename",
- "sha256": "bc3fb269e3c0032a7c4fb3fbba9da5e10070db43e0743034df5eef9e1d9a9dea",
- "nh": "54ec67bffd932699553da411f7ce37f748ad90bdf7cfa77d9a218c8ade0525a7",
- "chars": 10199,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/790/015_تبديل الأرض والسموات⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/790/015_تبديل الأرض والسموات⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
-   "sha256": "bc3fb269e3c0032a7c4fb3fbba9da5e10070db43e0743034df5eef9e1d9a9dea",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:wZNGzN4UBZs",
+  "vid": "wZNGzN4UBZs",
+  "sheikh": "adham-alasimi",
+  "row_id": "adham-alasimi--790",
+  "n": 15,
+  "n_src": "read",
+  "title": "تبديل الأرض والسموات⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي",
+  "title_src": "filename",
+  "sha256": "bc3fb269e3c0032a7c4fb3fbba9da5e10070db43e0743034df5eef9e1d9a9dea",
+  "nh": "54ec67bffd932699553da411f7ce37f748ad90bdf7cfa77d9a218c8ade0525a7",
+  "chars": 10199,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/790/015_تبديل الأرض والسموات⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/790/14.txt",
-   "sha256": "bc3fb269e3c0032a7c4fb3fbba9da5e10070db43e0743034df5eef9e1d9a9dea",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/790/015_تبديل الأرض والسموات⧸ منازل الآخرة⧸ الشيخ أدهم العاسمي.txt",
+      "sha256": "bc3fb269e3c0032a7c4fb3fbba9da5e10070db43e0743034df5eef9e1d9a9dea",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/790/14.txt",
+      "sha256": "bc3fb269e3c0032a7c4fb3fbba9da5e10070db43e0743034df5eef9e1d9a9dea",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 98.55,
+    "words": 1819,
+    "aligned": 1819,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 16:19"
   }
- ],
- "variants": [],
- "also_in": []
 }
