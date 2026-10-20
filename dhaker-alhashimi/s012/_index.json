@@ -1,6 +1,6 @@
 {
-  "aligned": 19,
-  "aligned_ratio": 0.8636,
+  "aligned": 22,
+  "aligned_ratio": 1.0,
   "category": "التربية والأسرة",
   "coverage": 1.0,
   "declared_total": 22,
@@ -216,8 +216,8 @@
       "vid": "aZ8pnyqA_U4"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 55097,
       "dur": 5120,
       "file": "020_XQlEDNPmdAY.txt",
@@ -227,9 +227,9 @@
       "vid": "XQlEDNPmdAY"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 46309,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 46217,
       "dur": 4545,
       "file": "021_C5UbbbhLVOg.txt",
       "n": 21,
@@ -238,8 +238,8 @@
       "vid": "C5UbbbhLVOg"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 26489,
       "dur": 2775,
       "file": "022_tAa-6ZUugmQ.txt",

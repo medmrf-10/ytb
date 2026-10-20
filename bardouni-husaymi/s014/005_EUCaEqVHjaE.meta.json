@@ -1,46 +1,59 @@
 {
- "v": 1,
- "lid": "yt:EUCaEqVHjaE",
- "vid": "EUCaEqVHjaE",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--992",
- "n": 5,
- "n_src": "read",
- "title": "شرح الرسالة العضدية ｜ الدرس 5 (المقدمة-تتمة-) ｜ الشيخ محمد البردوني",
- "title_src": "filename",
- "sha256": "bbd75e174b6660b625c67fd0f4b4162dcb71d893006512f2d5d7fc39902fb871",
- "nh": "ee517e3fac7903b4fd1c3dbd0218adcf70f8969b0ae893dd22997a7fff4d3a59",
- "chars": 9732,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/992/005_شرح الرسالة العضدية ｜ الدرس 5 (المقدمة-تتمة-) ｜ الشيخ محمد البردوني.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/992/005_شرح الرسالة العضدية ｜ الدرس 5 (المقدمة-تتمة-) ｜ الشيخ محمد البردوني.txt",
-   "sha256": "bbd75e174b6660b625c67fd0f4b4162dcb71d893006512f2d5d7fc39902fb871",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:EUCaEqVHjaE",
+  "vid": "EUCaEqVHjaE",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--992",
+  "n": 5,
+  "n_src": "read",
+  "title": "شرح الرسالة العضدية ｜ الدرس 5 (المقدمة-تتمة-) ｜ الشيخ محمد البردوني",
+  "title_src": "filename",
+  "sha256": "bbd75e174b6660b625c67fd0f4b4162dcb71d893006512f2d5d7fc39902fb871",
+  "nh": "ee517e3fac7903b4fd1c3dbd0218adcf70f8969b0ae893dd22997a7fff4d3a59",
+  "chars": 9732,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/992/005_شرح الرسالة العضدية ｜ الدرس 5 (المقدمة-تتمة-) ｜ الشيخ محمد البردوني.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/sariri/risala-adudiyya/8.txt",
-   "sha256": "bbd75e174b6660b625c67fd0f4b4162dcb71d893006512f2d5d7fc39902fb871",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/36/8.txt",
-   "sha256": "bbd75e174b6660b625c67fd0f4b4162dcb71d893006512f2d5d7fc39902fb871",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/992/005_شرح الرسالة العضدية ｜ الدرس 5 (المقدمة-تتمة-) ｜ الشيخ محمد البردوني.txt",
+      "sha256": "bbd75e174b6660b625c67fd0f4b4162dcb71d893006512f2d5d7fc39902fb871",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/sariri/risala-adudiyya/8.txt",
+      "sha256": "bbd75e174b6660b625c67fd0f4b4162dcb71d893006512f2d5d7fc39902fb871",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/36/8.txt",
+      "sha256": "bbd75e174b6660b625c67fd0f4b4162dcb71d893006512f2d5d7fc39902fb871",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "mouloud-sariri--36",
+    "mouloud-sariri--sariri-risala-adudiyya"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9705,
+    "spoken_align_pct": 97.05,
+    "audio_span_pct": 72.02,
+    "words": 1594,
+    "aligned": 1546,
+    "interpolated": 47,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 09:57"
   }
- ],
- "variants": [],
- "also_in": [
-  "mouloud-sariri--36",
-  "mouloud-sariri--sariri-risala-adudiyya"
- ]
 }

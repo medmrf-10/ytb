@@ -1,46 +1,59 @@
 {
- "v": 1,
- "lid": "yt:orKWplmdHvQ",
- "vid": "orKWplmdHvQ",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--992",
- "n": 1,
- "n_src": "read",
- "title": "شرح الرسالة العضدية ｜ الدرس 1 (المقدمة) ｜ الشيخ محمد البردوني الحسيمي",
- "title_src": "filename",
- "sha256": "69d3c45c556194e0bbc702e82c0973ae7c40dd8a1a69e80aa2543cb6d94c1222",
- "nh": "6b8d4a09fc38acdf1f9bc1105fb9c8ca4cab130ce11121d86ac11876122ba273",
- "chars": 7338,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/992/001_شرح الرسالة العضدية ｜ الدرس 1 (المقدمة) ｜ الشيخ محمد البردوني الحسيمي.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/992/001_شرح الرسالة العضدية ｜ الدرس 1 (المقدمة) ｜ الشيخ محمد البردوني الحسيمي.txt",
-   "sha256": "69d3c45c556194e0bbc702e82c0973ae7c40dd8a1a69e80aa2543cb6d94c1222",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:orKWplmdHvQ",
+  "vid": "orKWplmdHvQ",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--992",
+  "n": 1,
+  "n_src": "read",
+  "title": "شرح الرسالة العضدية ｜ الدرس 1 (المقدمة) ｜ الشيخ محمد البردوني الحسيمي",
+  "title_src": "filename",
+  "sha256": "69d3c45c556194e0bbc702e82c0973ae7c40dd8a1a69e80aa2543cb6d94c1222",
+  "nh": "6b8d4a09fc38acdf1f9bc1105fb9c8ca4cab130ce11121d86ac11876122ba273",
+  "chars": 7338,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/992/001_شرح الرسالة العضدية ｜ الدرس 1 (المقدمة) ｜ الشيخ محمد البردوني الحسيمي.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/sariri/risala-adudiyya/0.txt",
-   "sha256": "69d3c45c556194e0bbc702e82c0973ae7c40dd8a1a69e80aa2543cb6d94c1222",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/36/0.txt",
-   "sha256": "69d3c45c556194e0bbc702e82c0973ae7c40dd8a1a69e80aa2543cb6d94c1222",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/992/001_شرح الرسالة العضدية ｜ الدرس 1 (المقدمة) ｜ الشيخ محمد البردوني الحسيمي.txt",
+      "sha256": "69d3c45c556194e0bbc702e82c0973ae7c40dd8a1a69e80aa2543cb6d94c1222",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/sariri/risala-adudiyya/0.txt",
+      "sha256": "69d3c45c556194e0bbc702e82c0973ae7c40dd8a1a69e80aa2543cb6d94c1222",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/36/0.txt",
+      "sha256": "69d3c45c556194e0bbc702e82c0973ae7c40dd8a1a69e80aa2543cb6d94c1222",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "mouloud-sariri--36",
+    "mouloud-sariri--sariri-risala-adudiyya"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9992,
+    "spoken_align_pct": 99.92,
+    "audio_span_pct": 99.61,
+    "words": 1304,
+    "aligned": 1303,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 09:51"
   }
- ],
- "variants": [],
- "also_in": [
-  "mouloud-sariri--36",
-  "mouloud-sariri--sariri-risala-adudiyya"
- ]
 }
