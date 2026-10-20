@@ -2,7 +2,7 @@
   "aligned": 0,
   "aligned_ratio": 0.0,
   "category": "الخطب والمحاضرات",
-  "coverage": 0.1276,
+  "coverage": 0.1306,
   "declared_total": 337,
   "key": "khutab_jumaa",
   "lessons": [
@@ -416,6 +416,17 @@
     {
       "align_coverage": null,
       "aligned": false,
+      "chars": 15508,
+      "dur": 1913,
+      "file": "264_MtyBqW3j2Cc.txt",
+      "n": 264,
+      "stem": "264_MtyBqW3j2Cc",
+      "title": "الحبيب عمر بن حفيظ: مدارك خطاب الحق في قوالب الأيام الفاضلة والنوازل والشدائد وواجب المؤمن فيها",
+      "vid": "MtyBqW3j2Cc"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
       "chars": 14977,
       "dur": 1667,
       "file": "275_tsTFVDQ6DP4.txt",
@@ -484,6 +495,6 @@
   "sheikh": "habib-omar-ibn-hafiz",
   "sheikh_name": "الحبيب عمر بن حفيظ",
   "title": "خطب الجمعة والعيدين والكسوف والخسوف",
-  "transcribed": 43,
+  "transcribed": 44,
   "v": 2
 }

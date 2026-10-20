@@ -1,6 +1,6 @@
 {
-  "aligned": 1,
-  "aligned_ratio": 0.0333,
+  "aligned": 5,
+  "aligned_ratio": 0.1667,
   "category": "برنامج رمضاني",
   "coverage": 1.0,
   "declared_total": 30,
@@ -18,10 +18,10 @@
       "vid": "XANSUX_rz7A"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 18888,
-      "dur": 1796,
+      "dur": 1795,
       "file": "002_0YifZO8FgbM.txt",
       "n": 2,
       "stem": "002_0YifZO8FgbM",
@@ -29,10 +29,10 @@
       "vid": "0YifZO8FgbM"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 15808,
-      "dur": 1649,
+      "dur": 1648,
       "file": "003_O_F0pMyCPPw.txt",
       "n": 3,
       "stem": "003_O_F0pMyCPPw",
@@ -40,10 +40,10 @@
       "vid": "O_F0pMyCPPw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 16539,
-      "dur": 1649,
+      "dur": 1648,
       "file": "004_QEGKyMmLRec.txt",
       "n": 4,
       "stem": "004_QEGKyMmLRec",
@@ -51,10 +51,10 @@
       "vid": "QEGKyMmLRec"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 16409,
-      "dur": 1651,
+      "dur": 1650,
       "file": "005_CY1B5sWUHC0.txt",
       "n": 5,
       "stem": "005_CY1B5sWUHC0",
