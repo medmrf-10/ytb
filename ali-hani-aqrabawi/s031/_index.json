@@ -1,6 +1,6 @@
 {
-  "aligned": 14,
-  "aligned_ratio": 0.6667,
+  "aligned": 21,
+  "aligned_ratio": 1.0,
   "category": "البلاغة والبيان",
   "coverage": 1.0,
   "declared_total": 21,
@@ -161,9 +161,9 @@
       "vid": "wwv-DSwQ5uk"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 22710,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 22636,
       "dur": 2374,
       "file": "015_VtpgHJ8U5_0.txt",
       "n": 15,
@@ -172,9 +172,9 @@
       "vid": "VtpgHJ8U5_0"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 28308,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 28263,
       "dur": 2826,
       "file": "016_qopAM0QSJi4.txt",
       "n": 16,
@@ -183,10 +183,10 @@
       "vid": "qopAM0QSJi4"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 21134,
-      "dur": 2076,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 21042,
+      "dur": 2077,
       "file": "017_B_d7gHa2lmE.txt",
       "n": 17,
       "stem": "017_B_d7gHa2lmE",
@@ -194,10 +194,10 @@
       "vid": "B_d7gHa2lmE"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 30478,
-      "dur": 2941,
+      "dur": 2942,
       "file": "018_lDuDQ9cY7Gc.txt",
       "n": 18,
       "stem": "018_lDuDQ9cY7Gc",
@@ -205,10 +205,10 @@
       "vid": "lDuDQ9cY7Gc"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 26269,
-      "dur": 2197,
+      "dur": 2198,
       "file": "019_aMX_kMyDpMA.txt",
       "n": 19,
       "stem": "019_aMX_kMyDpMA",
@@ -216,8 +216,8 @@
       "vid": "aMX_kMyDpMA"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 34325,
       "dur": 3082,
       "file": "020_1ACwn5QLcAQ.txt",
@@ -227,8 +227,8 @@
       "vid": "1ACwn5QLcAQ"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 19330,
       "dur": 1780,
       "file": "021_D6zLB_ukQNQ.txt",
