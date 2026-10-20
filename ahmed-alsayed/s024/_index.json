@@ -1,6 +1,6 @@
 {
-  "aligned": 18,
-  "aligned_ratio": 0.9,
+  "aligned": 20,
+  "aligned_ratio": 1.0,
   "category": "تفسير وتدبر",
   "coverage": 1.0,
   "declared_total": 20,
@@ -194,8 +194,8 @@
       "vid": "4VI9kA1bVlY"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 30047,
       "dur": 3066,
       "file": "018_xnO8E2SlsJQ.txt",
@@ -216,8 +216,8 @@
       "vid": "VU9-6_MntGw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 42918,
       "dur": 4325,
       "file": "020_BIbJHeKwy2s.txt",
