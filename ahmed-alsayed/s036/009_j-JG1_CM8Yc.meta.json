@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:j-JG1_CM8Yc",
- "vid": "j-JG1_CM8Yc",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--628",
- "n": 9,
- "n_src": "mutfile",
- "title": "السيرة النبوية للمصلحين 09 ｜ الهجرة إلى الحبشة ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "41ab1de1ea718840453e9f52e0a3a26fded99eb21bb50f356a25c85fe3cafdcc",
- "nh": "1e02d7a98a9976d2810018317be86323590acb7ffa9f2c25e0e9023f9aea80ec",
- "chars": 28953,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/628/009_السيرة النبوية للمصلحين 09 ｜ الهجرة إلى الحبشة ｜ أحمد السيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/628/009_السيرة النبوية للمصلحين 09 ｜ الهجرة إلى الحبشة ｜ أحمد السيد.txt",
-   "sha256": "41ab1de1ea718840453e9f52e0a3a26fded99eb21bb50f356a25c85fe3cafdcc",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:j-JG1_CM8Yc",
+  "vid": "j-JG1_CM8Yc",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--628",
+  "n": 9,
+  "n_src": "mutfile",
+  "title": "السيرة النبوية للمصلحين 09 ｜ الهجرة إلى الحبشة ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "41ab1de1ea718840453e9f52e0a3a26fded99eb21bb50f356a25c85fe3cafdcc",
+  "nh": "1e02d7a98a9976d2810018317be86323590acb7ffa9f2c25e0e9023f9aea80ec",
+  "chars": 28953,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/628/009_السيرة النبوية للمصلحين 09 ｜ الهجرة إلى الحبشة ｜ أحمد السيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/elsiraLilmosli7in-009/transcript.txt",
-   "sha256": "2ee8affbaaee0e7f66d23248a2a8503f8ab5f34e9057497719b8999fca8264f8",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-628/009.txt",
-   "sha256": "2ee8affbaaee0e7f66d23248a2a8503f8ab5f34e9057497719b8999fca8264f8",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/628/009_السيرة النبوية للمصلحين 09 ｜ الهجرة إلى الحبشة ｜ أحمد السيد.txt",
+      "sha256": "41ab1de1ea718840453e9f52e0a3a26fded99eb21bb50f356a25c85fe3cafdcc",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/elsiraLilmosli7in-009/transcript.txt",
+      "sha256": "2ee8affbaaee0e7f66d23248a2a8503f8ab5f34e9057497719b8999fca8264f8",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-628/009.txt",
+      "sha256": "2ee8affbaaee0e7f66d23248a2a8503f8ab5f34e9057497719b8999fca8264f8",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9981,
+    "spoken_align_pct": 99.81,
+    "audio_span_pct": 99.81,
+    "words": 5317,
+    "aligned": 5307,
+    "interpolated": 10,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 19:52"
   }
- ],
- "variants": [],
- "also_in": []
 }

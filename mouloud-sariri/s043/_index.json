@@ -2,7 +2,7 @@
   "aligned": 0,
   "aligned_ratio": 0.0,
   "category": "الخطب والوعظ",
-  "coverage": 0.585,
+  "coverage": 0.605,
   "declared_total": 200,
   "key": "s043",
   "lessons": [
@@ -1274,6 +1274,17 @@
     {
       "align_coverage": null,
       "aligned": false,
+      "chars": 13676,
+      "dur": 1794,
+      "file": "118_o_EYjPfLVXg.txt",
+      "n": 118,
+      "stem": "118_o_EYjPfLVXg",
+      "title": "خطب منبرية(مميزة) :  \" الصراع على امتلاك القلوب \"  | الشيخ العلامة مولود السريري",
+      "vid": "o_EYjPfLVXg"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
       "chars": 14470,
       "dur": 1888,
       "file": "119_uJKNPOjkCf4.txt",
@@ -1292,12 +1303,45 @@
       "stem": "120_Fz_2rOVNlUs",
       "title": "خطب منبرية : \" الحرمان من النعم \" / الشيخ العلامة مولود السريري",
       "vid": "Fz_2rOVNlUs"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 14446,
+      "dur": 1917,
+      "file": "121_FvF4ufmKBxE.txt",
+      "n": 121,
+      "stem": "121_FvF4ufmKBxE",
+      "title": "خطب منبرية : \" المؤمن لا ييأس \" / الشيخ العلامة مولود السريري",
+      "vid": "FvF4ufmKBxE"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 11844,
+      "dur": 1566,
+      "file": "122_WojjB-TLrIA.txt",
+      "n": 122,
+      "stem": "122_WojjB-TLrIA",
+      "title": "خطب منبرية : \" أوهام وقع فيها كثير من الناس \" / الشيخ العلامة مولود السريري",
+      "vid": "WojjB-TLrIA"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 14687,
+      "dur": 1809,
+      "file": "123_qFTWwgpfYXQ.txt",
+      "n": 123,
+      "stem": "123_qFTWwgpfYXQ",
+      "title": "خطب منبرية : \" الزمان يتقلب \" / الشيخ العلامة مولود السريري",
+      "vid": "qFTWwgpfYXQ"
     }
   ],
   "series_id": "sariri__s043",
   "sheikh": "mouloud-sariri",
   "sheikh_name": "مولود السريري",
   "title": "خطب منبرية وخطب الجمعة",
-  "transcribed": 117,
+  "transcribed": 121,
   "v": 2
 }

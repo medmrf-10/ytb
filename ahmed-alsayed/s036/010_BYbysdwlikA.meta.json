@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:BYbysdwlikA",
- "vid": "BYbysdwlikA",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--628",
- "n": 10,
- "n_src": "mutfile",
- "title": "السيرة النبوية للمصلحين 10 ｜ المسلمون في الحبشة ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "4b1c658d4c3b97f5afb7e7c769c3f2a465c4bb492d3d75d45973cfb0447e1851",
- "nh": "80e505d6e8b6977c99a707052b3186ffa5bc77a64a216938e705694054daf812",
- "chars": 25708,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/628/010_السيرة النبوية للمصلحين 10 ｜ المسلمون في الحبشة ｜ أحمد السيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/628/010_السيرة النبوية للمصلحين 10 ｜ المسلمون في الحبشة ｜ أحمد السيد.txt",
-   "sha256": "4b1c658d4c3b97f5afb7e7c769c3f2a465c4bb492d3d75d45973cfb0447e1851",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:BYbysdwlikA",
+  "vid": "BYbysdwlikA",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--628",
+  "n": 10,
+  "n_src": "mutfile",
+  "title": "السيرة النبوية للمصلحين 10 ｜ المسلمون في الحبشة ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "4b1c658d4c3b97f5afb7e7c769c3f2a465c4bb492d3d75d45973cfb0447e1851",
+  "nh": "80e505d6e8b6977c99a707052b3186ffa5bc77a64a216938e705694054daf812",
+  "chars": 25708,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/628/010_السيرة النبوية للمصلحين 10 ｜ المسلمون في الحبشة ｜ أحمد السيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/elsiraLilmosli7in-010/transcript.txt",
-   "sha256": "490605bb4eae1782963b3fe4248d17b790d9c6c5a7cfc850ef2422ccd5c17072",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-628/010.txt",
-   "sha256": "490605bb4eae1782963b3fe4248d17b790d9c6c5a7cfc850ef2422ccd5c17072",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/628/010_السيرة النبوية للمصلحين 10 ｜ المسلمون في الحبشة ｜ أحمد السيد.txt",
+      "sha256": "4b1c658d4c3b97f5afb7e7c769c3f2a465c4bb492d3d75d45973cfb0447e1851",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/elsiraLilmosli7in-010/transcript.txt",
+      "sha256": "490605bb4eae1782963b3fe4248d17b790d9c6c5a7cfc850ef2422ccd5c17072",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-628/010.txt",
+      "sha256": "490605bb4eae1782963b3fe4248d17b790d9c6c5a7cfc850ef2422ccd5c17072",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9987,
+    "spoken_align_pct": 99.87,
+    "audio_span_pct": 99.73,
+    "words": 4767,
+    "aligned": 4761,
+    "interpolated": 6,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 19:52"
   }
- ],
- "variants": [],
- "also_in": []
 }
