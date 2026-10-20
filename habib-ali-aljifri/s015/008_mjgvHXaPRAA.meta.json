@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:mjgvHXaPRAA",
- "vid": "mjgvHXaPRAA",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--123",
- "n": 33,
- "n_src": "read|renumbered",
- "title": "أيها المريد ｜ الحلقة 8 ｜العقبة 3 العوائق ｜ علي الجفري ｜",
- "title_src": "filename",
- "sha256": "dc6281c4324eb726f0d9d73f41fc8e88892fa92d494052475b61da734dace7b1",
- "nh": "eaa5c480baca2349532149f19095cd865d2797b06d127062610f837497f2cdce",
- "chars": 15307,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/jifri/mut-123/008_أيها المريد ｜ الحلقة 8 ｜العقبة 3 العوائق ｜ علي الجفري ｜ English Subtitle.txt",
-  "commit_ts": 1791841975,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/jifri/mut-123/008_أيها المريد ｜ الحلقة 8 ｜العقبة 3 العوائق ｜ علي الجفري ｜ English Subtitle.txt",
-   "sha256": "dc6281c4324eb726f0d9d73f41fc8e88892fa92d494052475b61da734dace7b1",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:mjgvHXaPRAA",
+  "vid": "mjgvHXaPRAA",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--123",
+  "n": 33,
+  "n_src": "read|renumbered",
+  "title": "أيها المريد ｜ الحلقة 8 ｜العقبة 3 العوائق ｜ علي الجفري ｜",
+  "title_src": "filename",
+  "sha256": "dc6281c4324eb726f0d9d73f41fc8e88892fa92d494052475b61da734dace7b1",
+  "nh": "eaa5c480baca2349532149f19095cd865d2797b06d127062610f837497f2cdce",
+  "chars": 15307,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/jifri/mut-123/008_أيها المريد ｜ الحلقة 8 ｜العقبة 3 العوائق ｜ علي الجفري ｜ English Subtitle.txt",
+    "commit_ts": 1791841975,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/jifri/mut-123/008_أيها المريد ｜ الحلقة 8 ｜العقبة 3 العوائق ｜ علي الجفري ｜ English Subtitle.txt",
+      "sha256": "dc6281c4324eb726f0d9d73f41fc8e88892fa92d494052475b61da734dace7b1",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.94,
+    "words": 2890,
+    "aligned": 2890,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 17:16"
   }
- ],
- "variants": [],
- "also_in": []
 }

@@ -4,5 +4,30 @@
   "words": 3471,
   "wpm": 133.3,
   "model": "gemini-3.8-flash-high",
-  "ok": true
+  "ok": true,
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9498,
+    "spoken_align_pct": 94.98,
+    "audio_span_pct": 99.72,
+    "words": 3448,
+    "aligned": 3274,
+    "interpolated": 173,
+    "retried_without_silence_compact": true,
+    "local_agc_applied": true,
+    "at": "2026-10-20 17:10",
+    "low_coverage_diagnosis": {
+      "spoken_align_pct": 94.98,
+      "interpolated_words": 173,
+      "unaligned_clusters_count": 4,
+      "max_cluster_words": 19,
+      "wpm": 132.4,
+      "audio_span_pct": 99.72,
+      "forced_steps": 0,
+      "causes": [
+        "TEXT_HALLUCINATION_OR_CHUNK_REPEAT(clusters=4, max_run=19w @ 497.04s: «من افات النفوس؟ هل انت مخلص لله عز وجل في اقوالك وافعالك؟»)"
+      ]
+    }
+  }
 }

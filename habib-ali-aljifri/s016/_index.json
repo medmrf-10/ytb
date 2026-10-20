@@ -1,6 +1,6 @@
 {
-  "aligned": 26,
-  "aligned_ratio": 0.8667,
+  "aligned": 30,
+  "aligned_ratio": 1.0,
   "category": "برنامج رمضاني",
   "coverage": 1.0,
   "declared_total": 30,
@@ -282,8 +282,8 @@
       "vid": "omsZOX3tTzA"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 18666,
       "dur": 1562,
       "file": "026_e249ZNYiZVA.txt",
@@ -304,8 +304,8 @@
       "vid": "6UnezUFHq6o"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 11443,
       "dur": 1543,
       "file": "028_Ac1huAYoTVc.txt",
@@ -315,8 +315,8 @@
       "vid": "Ac1huAYoTVc"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 14791,
       "dur": 1683,
       "file": "029_PdKvZeCSsvg.txt",
@@ -326,8 +326,8 @@
       "vid": "PdKvZeCSsvg"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 13144,
       "dur": 1371,
       "file": "030_B8YKphek-vk.txt",

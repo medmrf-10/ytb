@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:IyI0VetolSE",
- "vid": "IyI0VetolSE",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--123",
- "n": 1,
- "n_src": "read",
- "title": "أيها المريد ｜ الحلقة 1 ｜ ما هي العقبات السبع في الطريق إلى الله؟ ｜ علي الجفري ｜",
- "title_src": "filename",
- "sha256": "9c4c3e0c97e065ddc5d117b502647e3b08ea09516b62985c5531fdd015bc484c",
- "nh": "2dc4e221b3304c48e5a8c577a7e66f9ca0304b330f7ddf7fce8481efd78c1975",
- "chars": 8350,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/123/001_أيها المريد ｜ الحلقة 1 ｜ ما هي العقبات السبع في الطريق إلى الله؟ ｜ علي الجفري ｜ .txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/123/001_أيها المريد ｜ الحلقة 1 ｜ ما هي العقبات السبع في الطريق إلى الله؟ ｜ علي الجفري ｜ .txt",
-   "sha256": "9c4c3e0c97e065ddc5d117b502647e3b08ea09516b62985c5531fdd015bc484c",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:IyI0VetolSE",
+  "vid": "IyI0VetolSE",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--123",
+  "n": 1,
+  "n_src": "read",
+  "title": "أيها المريد ｜ الحلقة 1 ｜ ما هي العقبات السبع في الطريق إلى الله؟ ｜ علي الجفري ｜",
+  "title_src": "filename",
+  "sha256": "9c4c3e0c97e065ddc5d117b502647e3b08ea09516b62985c5531fdd015bc484c",
+  "nh": "2dc4e221b3304c48e5a8c577a7e66f9ca0304b330f7ddf7fce8481efd78c1975",
+  "chars": 8350,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/123/001_أيها المريد ｜ الحلقة 1 ｜ ما هي العقبات السبع في الطريق إلى الله؟ ｜ علي الجفري ｜ .txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/jifri/mut-123/001_أيها المريد ｜ الحلقة 1 ｜ ما هي العقبات السبع في الطريق إلى الله؟ ｜ علي الجفري ｜ .txt",
-   "sha256": "c821788ac911cd6592cf7f9b44f97b6316ecde03311d1d25a01880fb50365819",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/123/001_أيها المريد ｜ الحلقة 1 ｜ ما هي العقبات السبع في الطريق إلى الله؟ ｜ علي الجفري ｜ .txt",
+      "sha256": "9c4c3e0c97e065ddc5d117b502647e3b08ea09516b62985c5531fdd015bc484c",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/jifri/mut-123/001_أيها المريد ｜ الحلقة 1 ｜ ما هي العقبات السبع في الطريق إلى الله؟ ｜ علي الجفري ｜ .txt",
+      "sha256": "c821788ac911cd6592cf7f9b44f97b6316ecde03311d1d25a01880fb50365819",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9962,
+    "spoken_align_pct": 99.62,
+    "audio_span_pct": 99.06,
+    "words": 1575,
+    "aligned": 1569,
+    "interpolated": 6,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 17:13"
   }
- ],
- "variants": [],
- "also_in": []
 }

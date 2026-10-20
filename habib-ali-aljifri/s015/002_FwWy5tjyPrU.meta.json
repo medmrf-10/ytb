@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "rn:habib-ali-aljifri--123:2",
- "vid": null,
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--123",
- "n": 2,
- "n_src": "read",
- "title": "أيها المريد ｜ الحلقة 2 ｜ العقبة 1 العلم – العلوم الشرعية ｜ علي الجفري ｜ English",
- "title_src": "filename",
- "sha256": "2a89de577f7588358458378036185e76a2fdff0decca621df75f69efc875180b",
- "nh": "ff819bf9290f05acb97e9aa4afcfbf50a60359e18e601a241a00f7e99991176e",
- "chars": 6535,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/jifri/mut-123/002_أيها المريد ｜ الحلقة 2 ｜ العقبة 1 العلم – العلوم الشرعية ｜ علي الجفري ｜ English .txt",
-  "commit_ts": 1791841975,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/jifri/mut-123/002_أيها المريد ｜ الحلقة 2 ｜ العقبة 1 العلم – العلوم الشرعية ｜ علي الجفري ｜ English .txt",
-   "sha256": "2a89de577f7588358458378036185e76a2fdff0decca621df75f69efc875180b",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:habib-ali-aljifri--123:2",
+  "vid": null,
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--123",
+  "n": 2,
+  "n_src": "read",
+  "title": "أيها المريد ｜ الحلقة 2 ｜ العقبة 1 العلم – العلوم الشرعية ｜ علي الجفري ｜ English",
+  "title_src": "filename",
+  "sha256": "2a89de577f7588358458378036185e76a2fdff0decca621df75f69efc875180b",
+  "nh": "ff819bf9290f05acb97e9aa4afcfbf50a60359e18e601a241a00f7e99991176e",
+  "chars": 6535,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/jifri/mut-123/002_أيها المريد ｜ الحلقة 2 ｜ العقبة 1 العلم – العلوم الشرعية ｜ علي الجفري ｜ English .txt",
+    "commit_ts": 1791841975,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/jifri/mut-123/002_أيها المريد ｜ الحلقة 2 ｜ العقبة 1 العلم – العلوم الشرعية ｜ علي الجفري ｜ English .txt",
+      "sha256": "2a89de577f7588358458378036185e76a2fdff0decca621df75f69efc875180b",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9996,
+    "spoken_align_pct": 99.96,
+    "audio_span_pct": 99.83,
+    "words": 2838,
+    "aligned": 2834,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 17:14"
   }
- ],
- "variants": [],
- "also_in": []
 }

@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:Ac1huAYoTVc",
- "vid": "Ac1huAYoTVc",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--101",
- "n": 29,
- "n_src": "read",
- "title": "أيها المريد ｜ الحلقة28 ｜ مفهوم الفناء ｜ علي الجفري ｜",
- "title_src": "filename",
- "sha256": "94413e36e8de6537257913a90622daf39001b8bb8ad8001a01108631ad207c1e",
- "nh": "2bdcfe657c70f4617dbd346dff884358dab521a9bcca3b48d473a00c80f2cee3",
- "chars": 11611,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/101/029_أيها المريد ｜ الحلقة28 ｜ مفهوم الفناء ｜ علي الجفري ｜ English subtitle.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/101/029_أيها المريد ｜ الحلقة28 ｜ مفهوم الفناء ｜ علي الجفري ｜ English subtitle.txt",
-   "sha256": "94413e36e8de6537257913a90622daf39001b8bb8ad8001a01108631ad207c1e",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:Ac1huAYoTVc",
+  "vid": "Ac1huAYoTVc",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--101",
+  "n": 29,
+  "n_src": "read",
+  "title": "أيها المريد ｜ الحلقة28 ｜ مفهوم الفناء ｜ علي الجفري ｜",
+  "title_src": "filename",
+  "sha256": "94413e36e8de6537257913a90622daf39001b8bb8ad8001a01108631ad207c1e",
+  "nh": "2bdcfe657c70f4617dbd346dff884358dab521a9bcca3b48d473a00c80f2cee3",
+  "chars": 11611,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/101/029_أيها المريد ｜ الحلقة28 ｜ مفهوم الفناء ｜ علي الجفري ｜ English subtitle.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/101/28.txt",
-   "sha256": "94413e36e8de6537257913a90622daf39001b8bb8ad8001a01108631ad207c1e",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/101/029_أيها المريد ｜ الحلقة28 ｜ مفهوم الفناء ｜ علي الجفري ｜ English subtitle.txt",
+      "sha256": "94413e36e8de6537257913a90622daf39001b8bb8ad8001a01108631ad207c1e",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/101/28.txt",
+      "sha256": "94413e36e8de6537257913a90622daf39001b8bb8ad8001a01108631ad207c1e",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9884,
+    "spoken_align_pct": 98.84,
+    "audio_span_pct": 99.36,
+    "words": 2233,
+    "aligned": 2207,
+    "interpolated": 26,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 17:11"
   }
- ],
- "variants": [],
- "also_in": []
 }

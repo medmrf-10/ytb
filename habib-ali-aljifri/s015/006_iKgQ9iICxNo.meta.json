@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:iKgQ9iICxNo",
- "vid": "iKgQ9iICxNo",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--123",
- "n": 6,
- "n_src": "read",
- "title": "أيها المريد ｜ الحلقة 6 ｜العقبة 2 التوبة – أنواع الذنوب ｜ علي الجفري ｜ English Su",
- "title_src": "filename",
- "sha256": "d7bc3537e95558236398e186c414939524649bafca576f1592d88a5d875137a8",
- "nh": "39a26c01e070aa5b191d59ddeccb2da6ad23c233405a328aebb1466db6800d41",
- "chars": 15289,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/123/006_أيها المريد ｜ الحلقة 6 ｜العقبة 2 التوبة – أنواع الذنوب ｜ علي الجفري ｜ English Su.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/123/006_أيها المريد ｜ الحلقة 6 ｜العقبة 2 التوبة – أنواع الذنوب ｜ علي الجفري ｜ English Su.txt",
-   "sha256": "d7bc3537e95558236398e186c414939524649bafca576f1592d88a5d875137a8",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:iKgQ9iICxNo",
+  "vid": "iKgQ9iICxNo",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--123",
+  "n": 6,
+  "n_src": "read",
+  "title": "أيها المريد ｜ الحلقة 6 ｜العقبة 2 التوبة – أنواع الذنوب ｜ علي الجفري ｜ English Su",
+  "title_src": "filename",
+  "sha256": "d7bc3537e95558236398e186c414939524649bafca576f1592d88a5d875137a8",
+  "nh": "39a26c01e070aa5b191d59ddeccb2da6ad23c233405a328aebb1466db6800d41",
+  "chars": 15289,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/123/006_أيها المريد ｜ الحلقة 6 ｜العقبة 2 التوبة – أنواع الذنوب ｜ علي الجفري ｜ English Su.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/jifri/mut-123/006_أيها المريد ｜ الحلقة 6 ｜العقبة 2 التوبة – أنواع الذنوب ｜ علي الجفري ｜ English Su.txt",
-   "sha256": "26e2223c89d85b9deeb1c688c05d4b99cd4b14cd3945bf6eaa6546209d28e457",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/123/006_أيها المريد ｜ الحلقة 6 ｜العقبة 2 التوبة – أنواع الذنوب ｜ علي الجفري ｜ English Su.txt",
+      "sha256": "d7bc3537e95558236398e186c414939524649bafca576f1592d88a5d875137a8",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/jifri/mut-123/006_أيها المريد ｜ الحلقة 6 ｜العقبة 2 التوبة – أنواع الذنوب ｜ علي الجفري ｜ English Su.txt",
+      "sha256": "26e2223c89d85b9deeb1c688c05d4b99cd4b14cd3945bf6eaa6546209d28e457",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9997,
+    "spoken_align_pct": 99.97,
+    "audio_span_pct": 99.83,
+    "words": 2950,
+    "aligned": 2949,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 17:16"
   }
- ],
- "variants": [],
- "also_in": []
 }

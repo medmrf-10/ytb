@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:1SeOT-RVQ0U",
- "vid": "1SeOT-RVQ0U",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--123",
- "n": 4,
- "n_src": "read",
- "title": "أيها المريد ｜ الحلقة 4 ｜ العقبة 1 العلم – خطر العلم ｜ علي الجفري ｜ English Subti",
- "title_src": "filename",
- "sha256": "c71cd11136ea726911f76bd81756674fe4d1bfac1e0254ad90c929fdf7d60761",
- "nh": "75f7ae1a75ab7a1524eb93f5b4407f1839ec1d504488bae6b4ec5e04e02fee70",
- "chars": 13940,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/jifri/mut-123/004_أيها المريد ｜ الحلقة 4 ｜ العقبة 1 العلم – خطر العلم ｜ علي الجفري ｜ English Subti.txt",
-  "commit_ts": 1791841975,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/jifri/mut-123/004_أيها المريد ｜ الحلقة 4 ｜ العقبة 1 العلم – خطر العلم ｜ علي الجفري ｜ English Subti.txt",
-   "sha256": "c71cd11136ea726911f76bd81756674fe4d1bfac1e0254ad90c929fdf7d60761",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:1SeOT-RVQ0U",
+  "vid": "1SeOT-RVQ0U",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--123",
+  "n": 4,
+  "n_src": "read",
+  "title": "أيها المريد ｜ الحلقة 4 ｜ العقبة 1 العلم – خطر العلم ｜ علي الجفري ｜ English Subti",
+  "title_src": "filename",
+  "sha256": "c71cd11136ea726911f76bd81756674fe4d1bfac1e0254ad90c929fdf7d60761",
+  "nh": "75f7ae1a75ab7a1524eb93f5b4407f1839ec1d504488bae6b4ec5e04e02fee70",
+  "chars": 13940,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/jifri/mut-123/004_أيها المريد ｜ الحلقة 4 ｜ العقبة 1 العلم – خطر العلم ｜ علي الجفري ｜ English Subti.txt",
+    "commit_ts": 1791841975,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/jifri/mut-123/004_أيها المريد ｜ الحلقة 4 ｜ العقبة 1 العلم – خطر العلم ｜ علي الجفري ｜ English Subti.txt",
+      "sha256": "c71cd11136ea726911f76bd81756674fe4d1bfac1e0254ad90c929fdf7d60761",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9996,
+    "spoken_align_pct": 99.96,
+    "audio_span_pct": 99.83,
+    "words": 2592,
+    "aligned": 2591,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 17:15"
   }
- ],
- "variants": [],
- "also_in": []
 }

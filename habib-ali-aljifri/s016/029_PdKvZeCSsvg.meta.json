@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:PdKvZeCSsvg",
- "vid": "PdKvZeCSsvg",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--101",
- "n": 30,
- "n_src": "read",
- "title": "أيها المريد ｜ الحلقة29 ｜ حقيقة البقاء ｜",
- "title_src": "filename",
- "sha256": "23c96c6606e064c48b8ac8f165c4b972881c2cdb036d20337fcdd62e363e480d",
- "nh": "d6e36f8bda768bbdd2cfe93a612a7cbfcb4d009cedf016fc89b95605c59ba72f",
- "chars": 14984,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/101/030_أيها المريد ｜ الحلقة29  ｜ حقيقة البقاء ｜ English subtitle.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/101/030_أيها المريد ｜ الحلقة29  ｜ حقيقة البقاء ｜ English subtitle.txt",
-   "sha256": "23c96c6606e064c48b8ac8f165c4b972881c2cdb036d20337fcdd62e363e480d",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:PdKvZeCSsvg",
+  "vid": "PdKvZeCSsvg",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--101",
+  "n": 30,
+  "n_src": "read",
+  "title": "أيها المريد ｜ الحلقة29 ｜ حقيقة البقاء ｜",
+  "title_src": "filename",
+  "sha256": "23c96c6606e064c48b8ac8f165c4b972881c2cdb036d20337fcdd62e363e480d",
+  "nh": "d6e36f8bda768bbdd2cfe93a612a7cbfcb4d009cedf016fc89b95605c59ba72f",
+  "chars": 14984,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/101/030_أيها المريد ｜ الحلقة29  ｜ حقيقة البقاء ｜ English subtitle.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/101/29.txt",
-   "sha256": "32337b987a71e0b9aea7a91f881d4525cf630602d0715c963c57a4a359f8794d",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/101/030_أيها المريد ｜ الحلقة29  ｜ حقيقة البقاء ｜ English subtitle.txt",
+      "sha256": "23c96c6606e064c48b8ac8f165c4b972881c2cdb036d20337fcdd62e363e480d",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/101/29.txt",
+      "sha256": "32337b987a71e0b9aea7a91f881d4525cf630602d0715c963c57a4a359f8794d",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9993,
+    "spoken_align_pct": 99.93,
+    "audio_span_pct": 99.3,
+    "words": 2844,
+    "aligned": 2842,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 17:12"
   }
- ],
- "variants": [],
- "also_in": []
 }

@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "rn:habib-ali-aljifri--123:17",
- "vid": null,
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--123",
- "n": 17,
- "n_src": "read",
- "title": "أيها المريد ｜ الحلقة 17 ｜ مصادر خواطر الخير والشر الأربعة ｜ علي الجفري ｜ English",
- "title_src": "filename",
- "sha256": "59dec6d6b03e039cf63776733e074108dce8128c583a336aa6166afd940fe4c1",
- "nh": "09e09016e4b5f51ba33b858ceaf859a89f66ee1f7208262abfc1391cc7d48226",
- "chars": 9489,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/jifri/mut-123/017_أيها المريد ｜ الحلقة 17 ｜ مصادر خواطر الخير والشر الأربعة ｜ علي الجفري ｜ English.txt",
-  "commit_ts": 1791841975,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/jifri/mut-123/017_أيها المريد ｜ الحلقة 17 ｜ مصادر خواطر الخير والشر الأربعة ｜ علي الجفري ｜ English.txt",
-   "sha256": "59dec6d6b03e039cf63776733e074108dce8128c583a336aa6166afd940fe4c1",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:habib-ali-aljifri--123:17",
+  "vid": null,
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--123",
+  "n": 17,
+  "n_src": "read",
+  "title": "أيها المريد ｜ الحلقة 17 ｜ مصادر خواطر الخير والشر الأربعة ｜ علي الجفري ｜ English",
+  "title_src": "filename",
+  "sha256": "59dec6d6b03e039cf63776733e074108dce8128c583a336aa6166afd940fe4c1",
+  "nh": "09e09016e4b5f51ba33b858ceaf859a89f66ee1f7208262abfc1391cc7d48226",
+  "chars": 9489,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/jifri/mut-123/017_أيها المريد ｜ الحلقة 17 ｜ مصادر خواطر الخير والشر الأربعة ｜ علي الجفري ｜ English.txt",
+    "commit_ts": 1791841975,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/jifri/mut-123/017_أيها المريد ｜ الحلقة 17 ｜ مصادر خواطر الخير والشر الأربعة ｜ علي الجفري ｜ English.txt",
+      "sha256": "59dec6d6b03e039cf63776733e074108dce8128c583a336aa6166afd940fe4c1",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9997,
+    "spoken_align_pct": 99.97,
+    "audio_span_pct": 99.82,
+    "words": 2867,
+    "aligned": 2859,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 17:21"
   }
- ],
- "variants": [],
- "also_in": []
 }

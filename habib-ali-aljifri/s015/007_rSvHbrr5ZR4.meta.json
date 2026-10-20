@@ -1,37 +1,53 @@
 {
- "v": 1,
- "lid": "yt:rSvHbrr5ZR4",
- "vid": "rSvHbrr5ZR4",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--123",
- "n": 7,
- "n_src": "read",
- "title": "أيها المريد ｜ الحلقة 7 ｜ العقبة 2 التوبة– شروط التوبة ｜ علي الجفري ｜ English Sub",
- "title_src": "filename",
- "sha256": "c1df2c49afa87ddcd6c057a8d2178fa056b7b034de10e1f53c8b3db3f99e519f",
- "nh": "facf3ed0bba2f1f2c8403bd3365c7713cf9d2d9321cb9861d4ccaaa17ba70f88",
- "chars": 16194,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/123/007_أيها المريد ｜ الحلقة 7 ｜ العقبة 2 التوبة– شروط التوبة ｜ علي الجفري ｜ English Sub.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/123/007_أيها المريد ｜ الحلقة 7 ｜ العقبة 2 التوبة– شروط التوبة ｜ علي الجفري ｜ English Sub.txt",
-   "sha256": "c1df2c49afa87ddcd6c057a8d2178fa056b7b034de10e1f53c8b3db3f99e519f",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:rSvHbrr5ZR4",
+  "vid": "rSvHbrr5ZR4",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--123",
+  "n": 7,
+  "n_src": "read",
+  "title": "أيها المريد ｜ الحلقة 7 ｜ العقبة 2 التوبة– شروط التوبة ｜ علي الجفري ｜ English Sub",
+  "title_src": "filename",
+  "sha256": "c1df2c49afa87ddcd6c057a8d2178fa056b7b034de10e1f53c8b3db3f99e519f",
+  "nh": "facf3ed0bba2f1f2c8403bd3365c7713cf9d2d9321cb9861d4ccaaa17ba70f88",
+  "chars": 16194,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/123/007_أيها المريد ｜ الحلقة 7 ｜ العقبة 2 التوبة– شروط التوبة ｜ علي الجفري ｜ English Sub.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/jifri/mut-123/007_أيها المريد ｜ الحلقة 7 ｜ العقبة 2 التوبة– شروط التوبة ｜ علي الجفري ｜ English Sub.txt",
-   "sha256": "e89a1bf3d0652864e31cae4aef491c32ccad1321ee27327031dc7e0b34abbee4",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/123/007_أيها المريد ｜ الحلقة 7 ｜ العقبة 2 التوبة– شروط التوبة ｜ علي الجفري ｜ English Sub.txt",
+      "sha256": "c1df2c49afa87ddcd6c057a8d2178fa056b7b034de10e1f53c8b3db3f99e519f",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/jifri/mut-123/007_أيها المريد ｜ الحلقة 7 ｜ العقبة 2 التوبة– شروط التوبة ｜ علي الجفري ｜ English Sub.txt",
+      "sha256": "e89a1bf3d0652864e31cae4aef491c32ccad1321ee27327031dc7e0b34abbee4",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9997,
+    "spoken_align_pct": 99.97,
+    "audio_span_pct": 99.83,
+    "words": 3144,
+    "aligned": 3143,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 17:17",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

@@ -129,22 +129,22 @@
       "transcribed": 30
     },
     {
-      "aligned": 0,
-      "aligned_pct": "0.0%",
+      "aligned": 14,
+      "aligned_pct": "46.7%",
       "category": "برنامج رمضاني",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
       "declared_total": 30,
       "dir": "s015/",
-      "dur": 47145,
+      "dur": 47140,
       "key": "s015",
       "series_id": "jifri__s015",
       "title": "برنامج أيها المريد - الموسم الثاني (العقبات السبع في الطريق إلى الله - مترجم للإنجليزية)",
       "transcribed": 30
     },
     {
-      "aligned": 26,
-      "aligned_pct": "86.7%",
+      "aligned": 30,
+      "aligned_pct": "100.0%",
       "category": "برنامج رمضاني",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
@@ -327,8 +327,8 @@
   ],
   "slug": "habib-ali-aljifri",
   "totals": {
-    "aligned": 115,
-    "chars": 6585183,
+    "aligned": 133,
+    "chars": 6585076,
     "lessons": 471,
     "series": 23
   },

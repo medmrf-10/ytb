@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:aQE84Y5p4OQ",
- "vid": "aQE84Y5p4OQ",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--123",
- "n": 5,
- "n_src": "read",
- "title": "أيها المريد ｜ الحلقة 5 ｜ العقبة 2 التوبة – معنى التوبة ｜ علي الجفري ｜ English Su",
- "title_src": "filename",
- "sha256": "d816a205a14a99d075bbfa145347931a78749bd3cba0ac30b7f20eac557c8491",
- "nh": "ebe43fcd94d754878d75bc66e8089030fc7744bf044ca0290a54c92f2f611a3f",
- "chars": 13977,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/123/005_أيها المريد ｜ الحلقة 5 ｜ العقبة 2 التوبة – معنى التوبة ｜ علي الجفري ｜ English Su.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/123/005_أيها المريد ｜ الحلقة 5 ｜ العقبة 2 التوبة – معنى التوبة ｜ علي الجفري ｜ English Su.txt",
-   "sha256": "d816a205a14a99d075bbfa145347931a78749bd3cba0ac30b7f20eac557c8491",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:aQE84Y5p4OQ",
+  "vid": "aQE84Y5p4OQ",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--123",
+  "n": 5,
+  "n_src": "read",
+  "title": "أيها المريد ｜ الحلقة 5 ｜ العقبة 2 التوبة – معنى التوبة ｜ علي الجفري ｜ English Su",
+  "title_src": "filename",
+  "sha256": "d816a205a14a99d075bbfa145347931a78749bd3cba0ac30b7f20eac557c8491",
+  "nh": "ebe43fcd94d754878d75bc66e8089030fc7744bf044ca0290a54c92f2f611a3f",
+  "chars": 13977,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/123/005_أيها المريد ｜ الحلقة 5 ｜ العقبة 2 التوبة – معنى التوبة ｜ علي الجفري ｜ English Su.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/jifri/mut-123/005_أيها المريد ｜ الحلقة 5 ｜ العقبة 2 التوبة – معنى التوبة ｜ علي الجفري ｜ English Su.txt",
-   "sha256": "495275fb12f2235a4f9e2905d175053bc1f1defbff4c81624c8097d1ffa8eb5f",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/123/005_أيها المريد ｜ الحلقة 5 ｜ العقبة 2 التوبة – معنى التوبة ｜ علي الجفري ｜ English Su.txt",
+      "sha256": "d816a205a14a99d075bbfa145347931a78749bd3cba0ac30b7f20eac557c8491",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/jifri/mut-123/005_أيها المريد ｜ الحلقة 5 ｜ العقبة 2 التوبة – معنى التوبة ｜ علي الجفري ｜ English Su.txt",
+      "sha256": "495275fb12f2235a4f9e2905d175053bc1f1defbff4c81624c8097d1ffa8eb5f",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9996,
+    "spoken_align_pct": 99.96,
+    "audio_span_pct": 99.83,
+    "words": 2631,
+    "aligned": 2630,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 17:14"
   }
- ],
- "variants": [],
- "also_in": []
 }
