@@ -1827,8 +1827,8 @@
       "slug": "habib-omar-ibn-hafiz"
     },
     {
-      "aligned": 301,
-      "chars": 18505920,
+      "aligned": 302,
+      "chars": 18505717,
       "lessons": 483,
       "name": "أحمد السيد",
       "path": "ahmed-alsayed/",
@@ -1892,14 +1892,14 @@
           "transcribed": 12
         },
         {
-          "aligned": 30,
-          "aligned_pct": "96.8%",
+          "aligned": 31,
+          "aligned_pct": "100.0%",
           "category": "تفسير وتدبر",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 31,
           "dir": "s022/",
-          "dur": 97578,
+          "dur": 97579,
           "key": "s022",
           "series_id": "sayed__s022",
           "title": "مقاصد السور القرآنية",
@@ -4235,8 +4235,8 @@
       "slug": "daddo"
     },
     {
-      "aligned": 112,
-      "chars": 6967032,
+      "aligned": 122,
+      "chars": 6966930,
       "lessons": 241,
       "name": "علي محمود العمري",
       "path": "ali-mahmoud-alomari/",
@@ -4384,14 +4384,14 @@
           "transcribed": 28
         },
         {
-          "aligned": 1,
-          "aligned_pct": "3.1%",
+          "aligned": 11,
+          "aligned_pct": "34.4%",
           "category": "المنطق والفلسفة",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 32,
           "dir": "s011/",
-          "dur": 35942,
+          "dur": 35938,
           "key": "s011",
           "series_id": "omari__s011",
           "title": "شرح الحسام الكاتي على متن إيساغوجي في المنطق",
@@ -4500,8 +4500,8 @@
     },
     {
       "aligned": 106,
-      "chars": 4714301,
-      "lessons": 235,
+      "chars": 4749902,
+      "lessons": 238,
       "name": "مولود السريري",
       "path": "mouloud-sariri/",
       "photo": "_meta/img/mouloud-sariri.jpg",
@@ -4735,15 +4735,15 @@
           "aligned": 0,
           "aligned_pct": "0.0%",
           "category": "الخطب والوعظ",
-          "coverage": 0.53,
-          "coverage_pct": "53.0%",
+          "coverage": 0.545,
+          "coverage_pct": "54.5%",
           "declared_total": 200,
           "dir": "s043/",
-          "dur": 161802,
+          "dur": 166543,
           "key": "s043",
           "series_id": "sariri__s043",
           "title": "خطب منبرية وخطب الجمعة",
-          "transcribed": 106
+          "transcribed": 109
         }
       ],
       "slug": "mouloud-sariri"
@@ -5720,9 +5720,9 @@
     }
   ],
   "totals": {
-    "aligned": 2853,
-    "chars": 157495824,
-    "lessons": 6681,
+    "aligned": 2864,
+    "chars": 157531120,
+    "lessons": 6684,
     "series": 387,
     "sheikhs": 25
   },
