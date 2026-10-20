@@ -1,37 +1,53 @@
 {
- "v": 1,
- "lid": "yt:rZp2-YQ1LmQ",
- "vid": "rZp2-YQ1LmQ",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--123",
- "n": 26,
- "n_src": "read",
- "title": "أيها المريد ｜ الحلقة 26 ｜ الأخطار القضاء، المصائب ｜ علي الجفري ｜ English Subtitl",
- "title_src": "filename",
- "sha256": "f8df1d85f6cedd0b6671e1c1a6de248759fa4cbda5ba5e194e9e5db35b8be12c",
- "nh": "a54bfc1466b6b645f8794f3c4d3c32d29eb458c4aab3940eac4277c3c9996955",
- "chars": 13970,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/123/026_أيها المريد ｜ الحلقة 26 ｜ الأخطار القضاء، المصائب ｜ علي الجفري ｜ English Subtitl.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/123/026_أيها المريد ｜ الحلقة 26 ｜ الأخطار القضاء، المصائب ｜ علي الجفري ｜ English Subtitl.txt",
-   "sha256": "f8df1d85f6cedd0b6671e1c1a6de248759fa4cbda5ba5e194e9e5db35b8be12c",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:rZp2-YQ1LmQ",
+  "vid": "rZp2-YQ1LmQ",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--123",
+  "n": 26,
+  "n_src": "read",
+  "title": "أيها المريد ｜ الحلقة 26 ｜ الأخطار القضاء، المصائب ｜ علي الجفري ｜ English Subtitl",
+  "title_src": "filename",
+  "sha256": "f8df1d85f6cedd0b6671e1c1a6de248759fa4cbda5ba5e194e9e5db35b8be12c",
+  "nh": "a54bfc1466b6b645f8794f3c4d3c32d29eb458c4aab3940eac4277c3c9996955",
+  "chars": 13970,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/123/026_أيها المريد ｜ الحلقة 26 ｜ الأخطار القضاء، المصائب ｜ علي الجفري ｜ English Subtitl.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/jifri/mut-123/026_أيها المريد ｜ الحلقة 26 ｜ الأخطار القضاء، المصائب ｜ علي الجفري ｜ English Subtitl.txt",
-   "sha256": "8c0469b9c0812c8d61535ac3b93510b08956d7caf88c4d411143e68fbb8896e4",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/123/026_أيها المريد ｜ الحلقة 26 ｜ الأخطار القضاء، المصائب ｜ علي الجفري ｜ English Subtitl.txt",
+      "sha256": "f8df1d85f6cedd0b6671e1c1a6de248759fa4cbda5ba5e194e9e5db35b8be12c",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/jifri/mut-123/026_أيها المريد ｜ الحلقة 26 ｜ الأخطار القضاء، المصائب ｜ علي الجفري ｜ English Subtitl.txt",
+      "sha256": "8c0469b9c0812c8d61535ac3b93510b08956d7caf88c4d411143e68fbb8896e4",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.82,
+    "words": 2632,
+    "aligned": 2632,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 17:27",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

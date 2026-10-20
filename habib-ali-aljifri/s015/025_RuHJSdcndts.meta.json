@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:RuHJSdcndts",
- "vid": "RuHJSdcndts",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--123",
- "n": 25,
- "n_src": "read",
- "title": "أيها المريد ｜ الحلقة 25 ｜عقبة العوارض： هم الرزق ｜ علي الجفري ｜",
- "title_src": "filename",
- "sha256": "2740c7bc5c886240ecf8929ac3cb491017f9080d0b43e3665293061dd8921253",
- "nh": "1b2101237c46eeb6d21cb620d800581bff7a20d6bf66406d8822dd36e9371120",
- "chars": 14479,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/jifri/mut-123/025_أيها المريد ｜ الحلقة 25 ｜عقبة العوارض： هم الرزق ｜ علي الجفري ｜ English Subtitle.txt",
-  "commit_ts": 1791841975,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/jifri/mut-123/025_أيها المريد ｜ الحلقة 25 ｜عقبة العوارض： هم الرزق ｜ علي الجفري ｜ English Subtitle.txt",
-   "sha256": "2740c7bc5c886240ecf8929ac3cb491017f9080d0b43e3665293061dd8921253",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:RuHJSdcndts",
+  "vid": "RuHJSdcndts",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--123",
+  "n": 25,
+  "n_src": "read",
+  "title": "أيها المريد ｜ الحلقة 25 ｜عقبة العوارض： هم الرزق ｜ علي الجفري ｜",
+  "title_src": "filename",
+  "sha256": "2740c7bc5c886240ecf8929ac3cb491017f9080d0b43e3665293061dd8921253",
+  "nh": "1b2101237c46eeb6d21cb620d800581bff7a20d6bf66406d8822dd36e9371120",
+  "chars": 14479,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/jifri/mut-123/025_أيها المريد ｜ الحلقة 25 ｜عقبة العوارض： هم الرزق ｜ علي الجفري ｜ English Subtitle.txt",
+    "commit_ts": 1791841975,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/jifri/mut-123/025_أيها المريد ｜ الحلقة 25 ｜عقبة العوارض： هم الرزق ｜ علي الجفري ｜ English Subtitle.txt",
+      "sha256": "2740c7bc5c886240ecf8929ac3cb491017f9080d0b43e3665293061dd8921253",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9993,
+    "spoken_align_pct": 99.93,
+    "audio_span_pct": 99.82,
+    "words": 2715,
+    "aligned": 2713,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 17:26"
   }
- ],
- "variants": [],
- "also_in": []
 }

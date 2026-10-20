@@ -1,14 +1,14 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 1,
+  "aligned_ratio": 0.0333,
   "category": "برنامج رمضاني",
   "coverage": 1.0,
   "declared_total": 30,
   "key": "s014",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 17910,
       "dur": 1824,
       "file": "001_XANSUX_rz7A.txt",

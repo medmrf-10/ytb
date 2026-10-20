@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:O_F0pMyCPPw",
- "vid": "O_F0pMyCPPw",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--95",
- "n": 4,
- "n_src": "read",
- "title": "حلقة 3： تصحيح التوبة ｜ أيها المريد ｜ الحبيب علي الجفري",
- "title_src": "filename",
- "sha256": "aa5773d33d6e38ba75acfd6e73d35fc579c9a3aa0f15ecbd5805661139d44193",
- "nh": "b5e1bacddf82e119e7d03aee928cc610f339ec5ce4d0b10c88788eb1a3312c5a",
- "chars": 15938,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/95/004_حلقة 3： تصحيح التوبة ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/95/004_حلقة 3： تصحيح التوبة ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
-   "sha256": "aa5773d33d6e38ba75acfd6e73d35fc579c9a3aa0f15ecbd5805661139d44193",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:O_F0pMyCPPw",
+  "vid": "O_F0pMyCPPw",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--95",
+  "n": 4,
+  "n_src": "read",
+  "title": "حلقة 3： تصحيح التوبة ｜ أيها المريد ｜ الحبيب علي الجفري",
+  "title_src": "filename",
+  "sha256": "aa5773d33d6e38ba75acfd6e73d35fc579c9a3aa0f15ecbd5805661139d44193",
+  "nh": "b5e1bacddf82e119e7d03aee928cc610f339ec5ce4d0b10c88788eb1a3312c5a",
+  "chars": 15938,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/95/004_حلقة 3： تصحيح التوبة ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/95/004_حلقة 3： تصحيح التوبة ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
+      "sha256": "aa5773d33d6e38ba75acfd6e73d35fc579c9a3aa0f15ecbd5805661139d44193",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9855,
+    "spoken_align_pct": 98.55,
+    "audio_span_pct": 95.93,
+    "words": 3033,
+    "aligned": 2989,
+    "interpolated": 44,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 17:31"
   }
- ],
- "variants": [],
- "also_in": []
 }

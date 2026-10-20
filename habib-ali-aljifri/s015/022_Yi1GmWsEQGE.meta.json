@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:Yi1GmWsEQGE",
- "vid": "Yi1GmWsEQGE",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--123",
- "n": 22,
- "n_src": "read",
- "title": "أيها المريد ｜ الحلقة 22 ｜ النفس، تقوى البطن ｜ علي الجفري ｜",
- "title_src": "filename",
- "sha256": "32fab046425f83a4529645f3e32a1037d58d38690db4082b2ad1e4fcc7b838ed",
- "nh": "ad1efcd3b232a029ac685779ca7cbd75be5c8e17f8b1ed4f551d2f3d1f2c3892",
- "chars": 8044,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/jifri/mut-123/022_أيها المريد ｜ الحلقة 22 ｜ النفس، تقوى البطن ｜ علي الجفري ｜ English Subtitle.txt",
-  "commit_ts": 1791841975,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/jifri/mut-123/022_أيها المريد ｜ الحلقة 22 ｜ النفس، تقوى البطن ｜ علي الجفري ｜ English Subtitle.txt",
-   "sha256": "32fab046425f83a4529645f3e32a1037d58d38690db4082b2ad1e4fcc7b838ed",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:Yi1GmWsEQGE",
+  "vid": "Yi1GmWsEQGE",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--123",
+  "n": 22,
+  "n_src": "read",
+  "title": "أيها المريد ｜ الحلقة 22 ｜ النفس، تقوى البطن ｜ علي الجفري ｜",
+  "title_src": "filename",
+  "sha256": "32fab046425f83a4529645f3e32a1037d58d38690db4082b2ad1e4fcc7b838ed",
+  "nh": "ad1efcd3b232a029ac685779ca7cbd75be5c8e17f8b1ed4f551d2f3d1f2c3892",
+  "chars": 8044,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/jifri/mut-123/022_أيها المريد ｜ الحلقة 22 ｜ النفس، تقوى البطن ｜ علي الجفري ｜ English Subtitle.txt",
+    "commit_ts": 1791841975,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/jifri/mut-123/022_أيها المريد ｜ الحلقة 22 ｜ النفس، تقوى البطن ｜ علي الجفري ｜ English Subtitle.txt",
+      "sha256": "32fab046425f83a4529645f3e32a1037d58d38690db4082b2ad1e4fcc7b838ed",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9913,
+    "spoken_align_pct": 99.13,
+    "audio_span_pct": 93.03,
+    "words": 1499,
+    "aligned": 1486,
+    "interpolated": 13,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 17:26"
   }
- ],
- "variants": [],
- "also_in": []
 }

@@ -1,37 +1,53 @@
 {
- "v": 1,
- "lid": "yt:zHxGR4U1r4I",
- "vid": "zHxGR4U1r4I",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--123",
- "n": 29,
- "n_src": "read",
- "title": "أيها المريد ｜ الحلقة 29 ｜عقبة القوادح： العجب ｜ علي الجفري ｜",
- "title_src": "filename",
- "sha256": "e107eff59381f2bd2d511e2d937d3aa330316770a2f1e3f80d711b94be56d575",
- "nh": "1b45a50dae386f12fe70b9a30fbf43c307b6430ba1e5ffa01c43615bf55f6178",
- "chars": 15182,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/123/029_أيها المريد ｜ الحلقة 29 ｜عقبة القوادح： العجب ｜ علي الجفري ｜ English Subtitle.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/123/029_أيها المريد ｜ الحلقة 29 ｜عقبة القوادح： العجب ｜ علي الجفري ｜ English Subtitle.txt",
-   "sha256": "e107eff59381f2bd2d511e2d937d3aa330316770a2f1e3f80d711b94be56d575",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:zHxGR4U1r4I",
+  "vid": "zHxGR4U1r4I",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--123",
+  "n": 29,
+  "n_src": "read",
+  "title": "أيها المريد ｜ الحلقة 29 ｜عقبة القوادح： العجب ｜ علي الجفري ｜",
+  "title_src": "filename",
+  "sha256": "e107eff59381f2bd2d511e2d937d3aa330316770a2f1e3f80d711b94be56d575",
+  "nh": "1b45a50dae386f12fe70b9a30fbf43c307b6430ba1e5ffa01c43615bf55f6178",
+  "chars": 15182,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/123/029_أيها المريد ｜ الحلقة 29 ｜عقبة القوادح： العجب ｜ علي الجفري ｜ English Subtitle.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/jifri/mut-123/029_أيها المريد ｜ الحلقة 29 ｜عقبة القوادح： العجب ｜ علي الجفري ｜ English Subtitle.txt",
-   "sha256": "5eca94ded6b20eddfdb53b0bb28fb4865ec65d1f3b9a99849947b18cefbff6fe",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/123/029_أيها المريد ｜ الحلقة 29 ｜عقبة القوادح： العجب ｜ علي الجفري ｜ English Subtitle.txt",
+      "sha256": "e107eff59381f2bd2d511e2d937d3aa330316770a2f1e3f80d711b94be56d575",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/jifri/mut-123/029_أيها المريد ｜ الحلقة 29 ｜عقبة القوادح： العجب ｜ علي الجفري ｜ English Subtitle.txt",
+      "sha256": "5eca94ded6b20eddfdb53b0bb28fb4865ec65d1f3b9a99849947b18cefbff6fe",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.83,
+    "words": 2890,
+    "aligned": 2888,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 17:30",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

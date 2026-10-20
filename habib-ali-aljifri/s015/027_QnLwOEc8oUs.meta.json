@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:QnLwOEc8oUs",
- "vid": "QnLwOEc8oUs",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--123",
- "n": 27,
- "n_src": "read",
- "title": "أيها المريد ｜ الحلقة 27 ｜ عقبة البواعث ｜ علي الجفري ｜",
- "title_src": "filename",
- "sha256": "8ad83a89c562bab13d37e942d84b9be6f5d602b1643839c7dc828b1a335fcd7f",
- "nh": "82e47d56e4a558c6febfc72fafce4ec9c903c8fe5a86d0381dcf5842862eaba6",
- "chars": 15943,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/jifri/mut-123/027_أيها المريد ｜ الحلقة 27 ｜ عقبة البواعث ｜ علي الجفري ｜ English Subtitle.txt",
-  "commit_ts": 1791841975,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/jifri/mut-123/027_أيها المريد ｜ الحلقة 27 ｜ عقبة البواعث ｜ علي الجفري ｜ English Subtitle.txt",
-   "sha256": "8ad83a89c562bab13d37e942d84b9be6f5d602b1643839c7dc828b1a335fcd7f",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:QnLwOEc8oUs",
+  "vid": "QnLwOEc8oUs",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--123",
+  "n": 27,
+  "n_src": "read",
+  "title": "أيها المريد ｜ الحلقة 27 ｜ عقبة البواعث ｜ علي الجفري ｜",
+  "title_src": "filename",
+  "sha256": "8ad83a89c562bab13d37e942d84b9be6f5d602b1643839c7dc828b1a335fcd7f",
+  "nh": "82e47d56e4a558c6febfc72fafce4ec9c903c8fe5a86d0381dcf5842862eaba6",
+  "chars": 15943,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/jifri/mut-123/027_أيها المريد ｜ الحلقة 27 ｜ عقبة البواعث ｜ علي الجفري ｜ English Subtitle.txt",
+    "commit_ts": 1791841975,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/jifri/mut-123/027_أيها المريد ｜ الحلقة 27 ｜ عقبة البواعث ｜ علي الجفري ｜ English Subtitle.txt",
+      "sha256": "8ad83a89c562bab13d37e942d84b9be6f5d602b1643839c7dc828b1a335fcd7f",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9997,
+    "spoken_align_pct": 99.97,
+    "audio_span_pct": 99.84,
+    "words": 3016,
+    "aligned": 3015,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 17:28"
   }
- ],
- "variants": [],
- "also_in": []
 }

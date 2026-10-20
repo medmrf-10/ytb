@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:59Jvs9JWpmE",
- "vid": "59Jvs9JWpmE",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--123",
- "n": 18,
- "n_src": "read",
- "title": "أيها المريد ｜ الحلقة 18 ｜ النفس، مكونات الإنسان الخمسة ｜ علي الجفري ｜ English Su",
- "title_src": "filename",
- "sha256": "ffffc5fc484abf9a83307bfc82bc8fb820e66ec54f2eed9546be905babedfee9",
- "nh": "71b92e56589e9a75fe5d48e280e18484fa942d11cec09fe55c6606b7db404205",
- "chars": 12911,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/123/018_أيها المريد ｜ الحلقة 18 ｜ النفس، مكونات الإنسان الخمسة ｜ علي الجفري ｜ English Su.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/123/018_أيها المريد ｜ الحلقة 18 ｜ النفس، مكونات الإنسان الخمسة ｜ علي الجفري ｜ English Su.txt",
-   "sha256": "ffffc5fc484abf9a83307bfc82bc8fb820e66ec54f2eed9546be905babedfee9",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:59Jvs9JWpmE",
+  "vid": "59Jvs9JWpmE",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--123",
+  "n": 18,
+  "n_src": "read",
+  "title": "أيها المريد ｜ الحلقة 18 ｜ النفس، مكونات الإنسان الخمسة ｜ علي الجفري ｜ English Su",
+  "title_src": "filename",
+  "sha256": "ffffc5fc484abf9a83307bfc82bc8fb820e66ec54f2eed9546be905babedfee9",
+  "nh": "71b92e56589e9a75fe5d48e280e18484fa942d11cec09fe55c6606b7db404205",
+  "chars": 12911,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/123/018_أيها المريد ｜ الحلقة 18 ｜ النفس، مكونات الإنسان الخمسة ｜ علي الجفري ｜ English Su.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/jifri/mut-123/018_أيها المريد ｜ الحلقة 18 ｜ النفس، مكونات الإنسان الخمسة ｜ علي الجفري ｜ English Su.txt",
-   "sha256": "e5dec671fd82e6f183e9dd152b029e5aa8a4c34813925ae9dd1a37aaa667b37d",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/123/018_أيها المريد ｜ الحلقة 18 ｜ النفس، مكونات الإنسان الخمسة ｜ علي الجفري ｜ English Su.txt",
+      "sha256": "ffffc5fc484abf9a83307bfc82bc8fb820e66ec54f2eed9546be905babedfee9",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/jifri/mut-123/018_أيها المريد ｜ الحلقة 18 ｜ النفس، مكونات الإنسان الخمسة ｜ علي الجفري ｜ English Su.txt",
+      "sha256": "e5dec671fd82e6f183e9dd152b029e5aa8a4c34813925ae9dd1a37aaa667b37d",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9987,
+    "spoken_align_pct": 99.87,
+    "audio_span_pct": 99.83,
+    "words": 2357,
+    "aligned": 2354,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 17:23"
   }
- ],
- "variants": [],
- "also_in": []
 }

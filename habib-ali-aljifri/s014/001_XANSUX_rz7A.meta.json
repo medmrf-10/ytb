@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:XANSUX_rz7A",
- "vid": "XANSUX_rz7A",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--95",
- "n": 2,
- "n_src": "read",
- "title": "1- مفهوم الإرادة ｜ #أيها المريد ｜ #الحبيب علي الجفري",
- "title_src": "filename",
- "sha256": "88cd7f3683b8c57df899a5b9b185400813d99e8f055556c166d08277b08d4c9b",
- "nh": "37b1492ece3eacf00ed91bcb1bb3b8ea64bb5f00842d31ae1b8dc70cd6915807",
- "chars": 18085,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/95/002_1- مفهوم الإرادة ｜ #أيها_المريد ｜ #الحبيب_علي_الجفري.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/95/002_1- مفهوم الإرادة ｜ #أيها_المريد ｜ #الحبيب_علي_الجفري.txt",
-   "sha256": "88cd7f3683b8c57df899a5b9b185400813d99e8f055556c166d08277b08d4c9b",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:XANSUX_rz7A",
+  "vid": "XANSUX_rz7A",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--95",
+  "n": 2,
+  "n_src": "read",
+  "title": "1- مفهوم الإرادة ｜ #أيها المريد ｜ #الحبيب علي الجفري",
+  "title_src": "filename",
+  "sha256": "88cd7f3683b8c57df899a5b9b185400813d99e8f055556c166d08277b08d4c9b",
+  "nh": "37b1492ece3eacf00ed91bcb1bb3b8ea64bb5f00842d31ae1b8dc70cd6915807",
+  "chars": 18085,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/95/002_1- مفهوم الإرادة ｜ #أيها_المريد ｜ #الحبيب_علي_الجفري.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/95/002_1- مفهوم الإرادة ｜ #أيها_المريد ｜ #الحبيب_علي_الجفري.txt",
+      "sha256": "88cd7f3683b8c57df899a5b9b185400813d99e8f055556c166d08277b08d4c9b",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9831,
+    "spoken_align_pct": 98.31,
+    "audio_span_pct": 96.32,
+    "words": 3377,
+    "aligned": 3320,
+    "interpolated": 57,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 17:31"
   }
- ],
- "variants": [],
- "also_in": []
 }

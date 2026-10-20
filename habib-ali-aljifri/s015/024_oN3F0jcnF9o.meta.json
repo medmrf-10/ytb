@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:oN3F0jcnF9o",
- "vid": "oN3F0jcnF9o",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--123",
- "n": 24,
- "n_src": "read",
- "title": "أيها المريد ｜ الحلقة 24 ｜ النفس – الحسد، الكبر ｜ علي الجفري ｜",
- "title_src": "filename",
- "sha256": "b880c2542533a90672df817d6169684fa748f9a55c41aec04909c36beecaea6f",
- "nh": "d8d5e19edc8395128042796bb107179a510fb910fc8288dcbca7b480fe4aa8fa",
- "chars": 15224,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/123/024_أيها المريد ｜ الحلقة 24 ｜ النفس – الحسد، الكبر ｜ علي الجفري ｜ English Subtitle.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/123/024_أيها المريد ｜ الحلقة 24 ｜ النفس – الحسد، الكبر ｜ علي الجفري ｜ English Subtitle.txt",
-   "sha256": "b880c2542533a90672df817d6169684fa748f9a55c41aec04909c36beecaea6f",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:oN3F0jcnF9o",
+  "vid": "oN3F0jcnF9o",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--123",
+  "n": 24,
+  "n_src": "read",
+  "title": "أيها المريد ｜ الحلقة 24 ｜ النفس – الحسد، الكبر ｜ علي الجفري ｜",
+  "title_src": "filename",
+  "sha256": "b880c2542533a90672df817d6169684fa748f9a55c41aec04909c36beecaea6f",
+  "nh": "d8d5e19edc8395128042796bb107179a510fb910fc8288dcbca7b480fe4aa8fa",
+  "chars": 15224,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/123/024_أيها المريد ｜ الحلقة 24 ｜ النفس – الحسد، الكبر ｜ علي الجفري ｜ English Subtitle.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/jifri/mut-123/024_أيها المريد ｜ الحلقة 24 ｜ النفس – الحسد، الكبر ｜ علي الجفري ｜ English Subtitle.txt",
-   "sha256": "b880c2542533a90672df817d6169684fa748f9a55c41aec04909c36beecaea6f",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/123/024_أيها المريد ｜ الحلقة 24 ｜ النفس – الحسد، الكبر ｜ علي الجفري ｜ English Subtitle.txt",
+      "sha256": "b880c2542533a90672df817d6169684fa748f9a55c41aec04909c36beecaea6f",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/jifri/mut-123/024_أيها المريد ｜ الحلقة 24 ｜ النفس – الحسد، الكبر ｜ علي الجفري ｜ English Subtitle.txt",
+      "sha256": "b880c2542533a90672df817d6169684fa748f9a55c41aec04909c36beecaea6f",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9993,
+    "spoken_align_pct": 99.93,
+    "audio_span_pct": 99.83,
+    "words": 2833,
+    "aligned": 2831,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 17:28"
   }
- ],
- "variants": [],
- "also_in": []
 }
