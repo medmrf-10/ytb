@@ -4,5 +4,30 @@
   "words": 5855,
   "wpm": 154.6,
   "model": "gemini-3.8-flash-high",
-  "ok": true
+  "ok": true,
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9066,
+    "spoken_align_pct": 90.66,
+    "audio_span_pct": 99.74,
+    "words": 5766,
+    "aligned": 5084,
+    "interpolated": 524,
+    "retried_without_silence_compact": true,
+    "local_agc_applied": true,
+    "at": "2026-10-20 12:03",
+    "low_coverage_diagnosis": {
+      "spoken_align_pct": 90.66,
+      "interpolated_words": 524,
+      "unaligned_clusters_count": 5,
+      "max_cluster_words": 18,
+      "wpm": 148.1,
+      "audio_span_pct": 99.74,
+      "forced_steps": 0,
+      "causes": [
+        "TEXT_HALLUCINATION_OR_CHUNK_REPEAT(clusters=5, max_run=18w @ 854.94s: «00:04:50 00:04:52 وان كان 00:04:52 00:04:54 هناك جانب 00:04:»)"
+      ]
+    }
+  }
 }
