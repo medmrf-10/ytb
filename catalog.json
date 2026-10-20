@@ -1591,7 +1591,7 @@
       "slug": "adham-alasimi"
     },
     {
-      "aligned": 212,
+      "aligned": 211,
       "chars": 18509654,
       "lessons": 483,
       "name": "أحمد السيد",
@@ -1684,14 +1684,14 @@
           "transcribed": 24
         },
         {
-          "aligned": 20,
-          "aligned_pct": "100.0%",
+          "aligned": 19,
+          "aligned_pct": "95.0%",
           "category": "تفسير وتدبر",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 20,
           "dir": "s024/",
-          "dur": 48785,
+          "dur": 48784,
           "key": "s024",
           "series_id": "sayed__s024",
           "title": "معالجة القرآن لنفوس المصلحين",
@@ -3971,8 +3971,8 @@
       "slug": "ali-gomaa"
     },
     {
-      "aligned": 118,
-      "chars": 7381591,
+      "aligned": 134,
+      "chars": 7381478,
       "lessons": 244,
       "name": "محمد الحسن الددو",
       "path": "daddo/",
@@ -3980,14 +3980,14 @@
       "series": 17,
       "series_list": [
         {
-          "aligned": 6,
-          "aligned_pct": "27.3%",
+          "aligned": 22,
+          "aligned_pct": "100.0%",
           "category": "الحديث وعلومه",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 22,
           "dir": "ahadith_fitan_malihim/",
-          "dur": 26146,
+          "dur": 26155,
           "key": "ahadith_fitan_malihim",
           "series_id": "dedew__ahadith_fitan_malihim",
           "title": "سلسلة أحاديث الفتن والملاحم وأشراط الساعة",
@@ -5235,8 +5235,8 @@
       "slug": "ayman-abdelrahim"
     },
     {
-      "aligned": 70,
-      "chars": 1847697,
+      "aligned": 82,
+      "chars": 1847579,
       "lessons": 92,
       "name": "معاذ سعيد حوى",
       "path": "maath-hawa/",
@@ -5286,14 +5286,14 @@
           "transcribed": 11
         },
         {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
+          "aligned": 12,
+          "aligned_pct": "54.5%",
           "category": "خطب ومحاضرات",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 22,
           "dir": "khutab_jumuah/",
-          "dur": 30069,
+          "dur": 30074,
           "key": "khutab_jumuah",
           "series_id": "hawwa__khutab_jumuah",
           "title": "خطب الجمعة",
@@ -5706,8 +5706,8 @@
     }
   ],
   "totals": {
-    "aligned": 2066,
-    "chars": 156202979,
+    "aligned": 2093,
+    "chars": 156202748,
     "lessons": 6589,
     "series": 386,
     "sheikhs": 25
