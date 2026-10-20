@@ -1,7 +1,7 @@
 {
   "sheikhs": [
     {
-      "aligned": 242,
+      "aligned": 251,
       "chars": 20562717,
       "lessons": 1165,
       "name": "محمد سعيد رمضان البوطي",
@@ -52,14 +52,14 @@
           "transcribed": 31
         },
         {
-          "aligned": 16,
-          "aligned_pct": "61.5%",
+          "aligned": 25,
+          "aligned_pct": "96.2%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 26,
           "dir": "s004/",
-          "dur": 69095,
+          "dur": 69086,
           "key": "s004",
           "series_id": "bouti__s004",
           "title": "سلسلة الحب في القرآن الكريم",
@@ -5706,7 +5706,7 @@
     }
   ],
   "totals": {
-    "aligned": 2393,
+    "aligned": 2402,
     "chars": 156141973,
     "lessons": 6589,
     "series": 386,

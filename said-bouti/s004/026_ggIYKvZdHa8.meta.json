@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:ggIYKvZdHa8",
- "vid": "ggIYKvZdHa8",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--418",
- "n": 26,
- "n_src": "plpos",
- "title": "26- الحب في القرآن | الخاتمة ما يجب أن نقطفه من هذه الدروس",
- "title_src": "yt_titles",
- "sha256": "de323ac4c9186aea421979e3d706b970fc44d9564052850a91ee3711d79330aa",
- "nh": "47f323fbc8c20f4195154605760f1261c8f77e964e8465062e27da0c4ce4d2e7",
- "chars": 18143,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/418/026_26- الحب في القرآن ｜ الخاتمة ما يجب أن نقطفه من هذه الدروس.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/418/026_26- الحب في القرآن ｜ الخاتمة ما يجب أن نقطفه من هذه الدروس.txt",
-   "sha256": "de323ac4c9186aea421979e3d706b970fc44d9564052850a91ee3711d79330aa",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:ggIYKvZdHa8",
+  "vid": "ggIYKvZdHa8",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--418",
+  "n": 26,
+  "n_src": "plpos",
+  "title": "26- الحب في القرآن | الخاتمة ما يجب أن نقطفه من هذه الدروس",
+  "title_src": "yt_titles",
+  "sha256": "de323ac4c9186aea421979e3d706b970fc44d9564052850a91ee3711d79330aa",
+  "nh": "47f323fbc8c20f4195154605760f1261c8f77e964e8465062e27da0c4ce4d2e7",
+  "chars": 18143,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/418/026_26- الحب في القرآن ｜ الخاتمة ما يجب أن نقطفه من هذه الدروس.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/al7obFiEl9or1n-026/transcript.txt",
-   "sha256": "b0c3d1bae44c1a93fe69ec94f5ddc34f83320f950a5313fd062b47845c1ace50",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-hubb/26.txt",
-   "sha256": "b0c3d1bae44c1a93fe69ec94f5ddc34f83320f950a5313fd062b47845c1ace50",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/418/25.txt",
-   "sha256": "de323ac4c9186aea421979e3d706b970fc44d9564052850a91ee3711d79330aa",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/418/026_26- الحب في القرآن ｜ الخاتمة ما يجب أن نقطفه من هذه الدروس.txt",
+      "sha256": "de323ac4c9186aea421979e3d706b970fc44d9564052850a91ee3711d79330aa",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/al7obFiEl9or1n-026/transcript.txt",
+      "sha256": "b0c3d1bae44c1a93fe69ec94f5ddc34f83320f950a5313fd062b47845c1ace50",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-hubb/26.txt",
+      "sha256": "b0c3d1bae44c1a93fe69ec94f5ddc34f83320f950a5313fd062b47845c1ace50",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/418/25.txt",
+      "sha256": "de323ac4c9186aea421979e3d706b970fc44d9564052850a91ee3711d79330aa",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9997,
+    "spoken_align_pct": 99.97,
+    "audio_span_pct": 99.59,
+    "words": 3352,
+    "aligned": 3351,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 13:30"
   }
- ],
- "variants": [],
- "also_in": []
 }
