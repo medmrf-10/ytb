@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:WQNqgppEuU8",
- "vid": "WQNqgppEuU8",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--379",
- "n": 35,
- "n_src": "plpos",
- "title": "35- تاريخ التشريع الإسلامي | درس خاص بمناسبة المولد النبوي الشريف",
- "title_src": "yt_titles",
- "sha256": "555a3cec64efd4ee24ddd380b8a5baf9e89cf74f2a247aa361ae7510fce7ea08",
- "nh": "1f95898eb4dccb7fc0f7e6176d52b3ee55eb06d97ebfb77f92c4d55a7f1db96e",
- "chars": 20489,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/379/035_35- تاريخ التشريع الإسلامي ｜ درس خاص بمناسبة المولد النبوي الشريف.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/379/035_35- تاريخ التشريع الإسلامي ｜ درس خاص بمناسبة المولد النبوي الشريف.txt",
-   "sha256": "555a3cec64efd4ee24ddd380b8a5baf9e89cf74f2a247aa361ae7510fce7ea08",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:WQNqgppEuU8",
+  "vid": "WQNqgppEuU8",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--379",
+  "n": 35,
+  "n_src": "plpos",
+  "title": "35- تاريخ التشريع الإسلامي | درس خاص بمناسبة المولد النبوي الشريف",
+  "title_src": "yt_titles",
+  "sha256": "555a3cec64efd4ee24ddd380b8a5baf9e89cf74f2a247aa361ae7510fce7ea08",
+  "nh": "1f95898eb4dccb7fc0f7e6176d52b3ee55eb06d97ebfb77f92c4d55a7f1db96e",
+  "chars": 20489,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/379/035_35- تاريخ التشريع الإسلامي ｜ درس خاص بمناسبة المولد النبوي الشريف.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/tari5Eltachri3-035/transcript.txt",
-   "sha256": "d389b0da8af351c479aa14bae455ca95fe2ee777a77dea1e7ea2aecad18ecb73",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-tarikh/35.txt",
-   "sha256": "d389b0da8af351c479aa14bae455ca95fe2ee777a77dea1e7ea2aecad18ecb73",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/379/34.txt",
-   "sha256": "555a3cec64efd4ee24ddd380b8a5baf9e89cf74f2a247aa361ae7510fce7ea08",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/379/035_35- تاريخ التشريع الإسلامي ｜ درس خاص بمناسبة المولد النبوي الشريف.txt",
+      "sha256": "555a3cec64efd4ee24ddd380b8a5baf9e89cf74f2a247aa361ae7510fce7ea08",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/tari5Eltachri3-035/transcript.txt",
+      "sha256": "d389b0da8af351c479aa14bae455ca95fe2ee777a77dea1e7ea2aecad18ecb73",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-tarikh/35.txt",
+      "sha256": "d389b0da8af351c479aa14bae455ca95fe2ee777a77dea1e7ea2aecad18ecb73",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/379/34.txt",
+      "sha256": "555a3cec64efd4ee24ddd380b8a5baf9e89cf74f2a247aa361ae7510fce7ea08",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9989,
+    "spoken_align_pct": 99.89,
+    "audio_span_pct": 98.78,
+    "words": 3800,
+    "aligned": 3784,
+    "interpolated": 4,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 21:39"
   }
- ],
- "variants": [],
- "also_in": []
 }

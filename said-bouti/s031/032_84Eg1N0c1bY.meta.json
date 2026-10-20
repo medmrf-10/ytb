@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:84Eg1N0c1bY",
- "vid": "84Eg1N0c1bY",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--379",
- "n": 32,
- "n_src": "plpos",
- "title": "32- تاريخ التشريع الإسلامي | مزايا الدور الخامس (2)",
- "title_src": "yt_titles",
- "sha256": "ab5e71e326533680ceb962272ef1913c116f67962862d92a878ca0480838de00",
- "nh": "05590d262cfeb4d4efe905b02d0602cfddca9faa7bdf70f4830c6b29b789c562",
- "chars": 21700,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/379/032_32- تاريخ التشريع الإسلامي ｜ مزايا الدور الخامس (2).txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/379/032_32- تاريخ التشريع الإسلامي ｜ مزايا الدور الخامس (2).txt",
-   "sha256": "ab5e71e326533680ceb962272ef1913c116f67962862d92a878ca0480838de00",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:84Eg1N0c1bY",
+  "vid": "84Eg1N0c1bY",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--379",
+  "n": 32,
+  "n_src": "plpos",
+  "title": "32- تاريخ التشريع الإسلامي | مزايا الدور الخامس (2)",
+  "title_src": "yt_titles",
+  "sha256": "ab5e71e326533680ceb962272ef1913c116f67962862d92a878ca0480838de00",
+  "nh": "05590d262cfeb4d4efe905b02d0602cfddca9faa7bdf70f4830c6b29b789c562",
+  "chars": 21700,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/379/032_32- تاريخ التشريع الإسلامي ｜ مزايا الدور الخامس (2).txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/tari5Eltachri3-032/transcript.txt",
-   "sha256": "15a6a6ed69b8ea5918f84544ebb29dd83e5a7c59749a447f52abaf649d8a4fc2",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-tarikh/32.txt",
-   "sha256": "15a6a6ed69b8ea5918f84544ebb29dd83e5a7c59749a447f52abaf649d8a4fc2",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/379/032_32- تاريخ التشريع الإسلامي ｜ مزايا الدور الخامس (2).txt",
+      "sha256": "ab5e71e326533680ceb962272ef1913c116f67962862d92a878ca0480838de00",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/tari5Eltachri3-032/transcript.txt",
+      "sha256": "15a6a6ed69b8ea5918f84544ebb29dd83e5a7c59749a447f52abaf649d8a4fc2",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-tarikh/32.txt",
+      "sha256": "15a6a6ed69b8ea5918f84544ebb29dd83e5a7c59749a447f52abaf649d8a4fc2",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9995,
+    "spoken_align_pct": 99.95,
+    "audio_span_pct": 98.9,
+    "words": 3834,
+    "aligned": 3832,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 21:33"
   }
- ],
- "variants": [],
- "also_in": []
 }
