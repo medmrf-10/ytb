@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:OK2qY2zXfkc",
- "vid": "OK2qY2zXfkc",
- "sheikh": "ali-mahmoud-alomari",
- "row_id": "ali-mahmoud-alomari--alamri-mughni",
- "n": 21,
- "n_src": "trfile",
- "title": "الدرس 21",
- "title_src": "filename",
- "sha256": "50ccef0aaadbba8b6ac3900ef837177c2e34c5c697ea965012b84e2e8ff808a8",
- "nh": "e29397d47863b6e71e7c4b9ba594a182a912afd685acf60b8884d9beeb86acfd",
- "chars": 17088,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/alamriMughni-021/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/alamriMughni-021/transcript.txt",
-   "sha256": "50ccef0aaadbba8b6ac3900ef837177c2e34c5c697ea965012b84e2e8ff808a8",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:OK2qY2zXfkc",
+  "vid": "OK2qY2zXfkc",
+  "sheikh": "ali-mahmoud-alomari",
+  "row_id": "ali-mahmoud-alomari--alamri-mughni",
+  "n": 21,
+  "n_src": "trfile",
+  "title": "الدرس 21",
+  "title_src": "filename",
+  "sha256": "50ccef0aaadbba8b6ac3900ef837177c2e34c5c697ea965012b84e2e8ff808a8",
+  "nh": "e29397d47863b6e71e7c4b9ba594a182a912afd685acf60b8884d9beeb86acfd",
+  "chars": 17088,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/alamriMughni-021/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alamri/mughni/mughni-21_AlAmri.txt",
-   "sha256": "50ccef0aaadbba8b6ac3900ef837177c2e34c5c697ea965012b84e2e8ff808a8",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alamri-mughni/21.txt",
-   "sha256": "50ccef0aaadbba8b6ac3900ef837177c2e34c5c697ea965012b84e2e8ff808a8",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/alamriMughni-021/transcript.txt",
+      "sha256": "50ccef0aaadbba8b6ac3900ef837177c2e34c5c697ea965012b84e2e8ff808a8",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alamri/mughni/mughni-21_AlAmri.txt",
+      "sha256": "50ccef0aaadbba8b6ac3900ef837177c2e34c5c697ea965012b84e2e8ff808a8",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alamri-mughni/21.txt",
+      "sha256": "50ccef0aaadbba8b6ac3900ef837177c2e34c5c697ea965012b84e2e8ff808a8",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9983,
+    "spoken_align_pct": 99.83,
+    "audio_span_pct": 99.98,
+    "words": 2993,
+    "aligned": 2979,
+    "interpolated": 5,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 14:58"
   }
- ],
- "variants": [],
- "also_in": []
 }
