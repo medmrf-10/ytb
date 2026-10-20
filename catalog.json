@@ -1,7 +1,7 @@
 {
   "sheikhs": [
     {
-      "aligned": 312,
+      "aligned": 314,
       "chars": 20562717,
       "lessons": 1165,
       "name": "محمد سعيد رمضان البوطي",
@@ -332,14 +332,14 @@
           "transcribed": 70
         },
         {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
+          "aligned": 2,
+          "aligned_pct": "5.3%",
           "category": "السيرة النبوية والتاريخ",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 38,
           "dir": "s031/",
-          "dur": 106854,
+          "dur": 106852,
           "key": "s031",
           "series_id": "bouti__s031",
           "title": "محاضرات في تاريخ التشريع الإسلامي",
@@ -3541,7 +3541,7 @@
       "slug": "dhaker-alhashimi"
     },
     {
-      "aligned": 138,
+      "aligned": 143,
       "chars": 6211601,
       "lessons": 343,
       "name": "محمد البردوني الحسيمي",
@@ -3564,14 +3564,14 @@
           "transcribed": 9
         },
         {
-          "aligned": 29,
-          "aligned_pct": "80.6%",
+          "aligned": 34,
+          "aligned_pct": "94.4%",
           "category": "العقيدة وعلم الكلام",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 36,
           "dir": "s002/",
-          "dur": 152104,
+          "dur": 152101,
           "key": "s002",
           "series_id": "bardoni__s002",
           "title": "شرح عقيدة أم البراهين للإمام السنوسي (كاملاً — الدروس 1 – 36)",
@@ -5720,7 +5720,7 @@
     }
   ],
   "totals": {
-    "aligned": 2934,
+    "aligned": 2941,
     "chars": 157906895,
     "lessons": 6712,
     "series": 387,

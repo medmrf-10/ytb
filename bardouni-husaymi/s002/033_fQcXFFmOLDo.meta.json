@@ -1,46 +1,59 @@
 {
- "v": 1,
- "lid": "yt:fQcXFFmOLDo",
- "vid": "fQcXFFmOLDo",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--984",
- "n": 3,
- "n_src": "read",
- "title": "شرح أم البراهين ｜ الدرس 33 ( معاني لا إله إلا الله ) ｜ الشيخ محمد البردوني",
- "title_src": "filename",
- "sha256": "3ac8798478d10282f34b4a6f0ce184e33b455269cc6ce4c064856ff760ec79c2",
- "nh": "71f2debbd0c82ca44dc7c40865b1e01edc3865b25a3d2a167ae6bad2e04706a6",
- "chars": 43526,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/984/003_شرح أم البراهين ｜ الدرس 33 ( معاني لا إله إلا الله ) ｜ الشيخ محمد البردوني.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/984/003_شرح أم البراهين ｜ الدرس 33 ( معاني لا إله إلا الله ) ｜ الشيخ محمد البردوني.txt",
-   "sha256": "3ac8798478d10282f34b4a6f0ce184e33b455269cc6ce4c064856ff760ec79c2",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:fQcXFFmOLDo",
+  "vid": "fQcXFFmOLDo",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--984",
+  "n": 3,
+  "n_src": "read",
+  "title": "شرح أم البراهين ｜ الدرس 33 ( معاني لا إله إلا الله ) ｜ الشيخ محمد البردوني",
+  "title_src": "filename",
+  "sha256": "3ac8798478d10282f34b4a6f0ce184e33b455269cc6ce4c064856ff760ec79c2",
+  "nh": "71f2debbd0c82ca44dc7c40865b1e01edc3865b25a3d2a167ae6bad2e04706a6",
+  "chars": 43526,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/984/003_شرح أم البراهين ｜ الدرس 33 ( معاني لا إله إلا الله ) ｜ الشيخ محمد البردوني.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alasimi/um-baraheen/2.txt",
-   "sha256": "3ac8798478d10282f34b4a6f0ce184e33b455269cc6ce4c064856ff760ec79c2",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/743/2.txt",
-   "sha256": "3ac8798478d10282f34b4a6f0ce184e33b455269cc6ce4c064856ff760ec79c2",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/984/003_شرح أم البراهين ｜ الدرس 33 ( معاني لا إله إلا الله ) ｜ الشيخ محمد البردوني.txt",
+      "sha256": "3ac8798478d10282f34b4a6f0ce184e33b455269cc6ce4c064856ff760ec79c2",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alasimi/um-baraheen/2.txt",
+      "sha256": "3ac8798478d10282f34b4a6f0ce184e33b455269cc6ce4c064856ff760ec79c2",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/743/2.txt",
+      "sha256": "3ac8798478d10282f34b4a6f0ce184e33b455269cc6ce4c064856ff760ec79c2",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "adham-alasimi--743",
+    "adham-alasimi--alasimi-um-baraheen"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9988,
+    "spoken_align_pct": 99.88,
+    "audio_span_pct": 97.63,
+    "words": 8153,
+    "aligned": 8142,
+    "interpolated": 10,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 20:44"
   }
- ],
- "variants": [],
- "also_in": [
-  "adham-alasimi--743",
-  "adham-alasimi--alasimi-um-baraheen"
- ]
 }
