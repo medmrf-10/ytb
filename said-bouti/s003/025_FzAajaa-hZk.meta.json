@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:FzAajaa-hZk",
- "vid": "FzAajaa-hZk",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--408",
- "n": 25,
- "n_src": "read",
- "title": "25- الجديد في إعجاز القرآن الكريم التكرار في القرآن الكريم",
- "title_src": "filename",
- "sha256": "1c2322bc8b133d421fc7d34603bc12c98a3f7a7365e3e87d804fab6861d7c684",
- "nh": "92d87c75607130359ecf121ed152bbac6180996c6e6ace483fa922de0c2f02f6",
- "chars": 14079,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/408/025_25- الجديد في إعجاز القرآن الكريم  التكرار في القرآن الكريم.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/408/025_25- الجديد في إعجاز القرآن الكريم  التكرار في القرآن الكريم.txt",
-   "sha256": "1c2322bc8b133d421fc7d34603bc12c98a3f7a7365e3e87d804fab6861d7c684",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:FzAajaa-hZk",
+  "vid": "FzAajaa-hZk",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--408",
+  "n": 25,
+  "n_src": "read",
+  "title": "25- الجديد في إعجاز القرآن الكريم التكرار في القرآن الكريم",
+  "title_src": "filename",
+  "sha256": "1c2322bc8b133d421fc7d34603bc12c98a3f7a7365e3e87d804fab6861d7c684",
+  "nh": "92d87c75607130359ecf121ed152bbac6180996c6e6ace483fa922de0c2f02f6",
+  "chars": 14079,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/408/025_25- الجديد في إعجاز القرآن الكريم  التكرار في القرآن الكريم.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/408/025_25- الجديد في إعجاز القرآن الكريم  التكرار في القرآن الكريم.txt",
+      "sha256": "1c2322bc8b133d421fc7d34603bc12c98a3f7a7365e3e87d804fab6861d7c684",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9995,
+    "spoken_align_pct": 99.95,
+    "audio_span_pct": 99.68,
+    "words": 2286,
+    "aligned": 2217,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 19:06"
   }
- ],
- "variants": [],
- "also_in": []
 }

@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:X8nnv3nN7hw",
- "vid": "X8nnv3nN7hw",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--408",
- "n": 30,
- "n_src": "read",
- "title": "30- الجديد في إعجاز القرآن الكريم ｜ ما معنى عبارة (القرآن حمّال أوجه) ؟",
- "title_src": "filename",
- "sha256": "1fe8fb0e6ad256b962cc8440827efbea21bdbd4cc183098aebc097d21c069e52",
- "nh": "f15833dc311b9e56696aeea71799947d9b944fc824b05d49f3eb7a3cc898e68e",
- "chars": 12676,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/408/030_30- الجديد في إعجاز القرآن الكريم ｜ ما معنى عبارة  (القرآن حمّال أوجه) ؟.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/408/030_30- الجديد في إعجاز القرآن الكريم ｜ ما معنى عبارة  (القرآن حمّال أوجه) ؟.txt",
-   "sha256": "1fe8fb0e6ad256b962cc8440827efbea21bdbd4cc183098aebc097d21c069e52",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:X8nnv3nN7hw",
+  "vid": "X8nnv3nN7hw",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--408",
+  "n": 30,
+  "n_src": "read",
+  "title": "30- الجديد في إعجاز القرآن الكريم ｜ ما معنى عبارة (القرآن حمّال أوجه) ؟",
+  "title_src": "filename",
+  "sha256": "1fe8fb0e6ad256b962cc8440827efbea21bdbd4cc183098aebc097d21c069e52",
+  "nh": "f15833dc311b9e56696aeea71799947d9b944fc824b05d49f3eb7a3cc898e68e",
+  "chars": 12676,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/408/030_30- الجديد في إعجاز القرآن الكريم ｜ ما معنى عبارة  (القرآن حمّال أوجه) ؟.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/408/29.txt",
-   "sha256": "1fe8fb0e6ad256b962cc8440827efbea21bdbd4cc183098aebc097d21c069e52",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/408/030_30- الجديد في إعجاز القرآن الكريم ｜ ما معنى عبارة  (القرآن حمّال أوجه) ؟.txt",
+      "sha256": "1fe8fb0e6ad256b962cc8440827efbea21bdbd4cc183098aebc097d21c069e52",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/408/29.txt",
+      "sha256": "1fe8fb0e6ad256b962cc8440827efbea21bdbd4cc183098aebc097d21c069e52",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9996,
+    "spoken_align_pct": 99.96,
+    "audio_span_pct": 99.96,
+    "words": 2332,
+    "aligned": 2331,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 19:09"
   }
- ],
- "variants": [],
- "also_in": []
 }

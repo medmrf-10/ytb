@@ -1,7 +1,7 @@
 {
   "sheikhs": [
     {
-      "aligned": 300,
+      "aligned": 312,
       "chars": 20562717,
       "lessons": 1165,
       "name": "محمد سعيد رمضان البوطي",
@@ -38,14 +38,14 @@
           "transcribed": 63
         },
         {
-          "aligned": 19,
-          "aligned_pct": "61.3%",
+          "aligned": 31,
+          "aligned_pct": "100.0%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 31,
           "dir": "s003/",
-          "dur": 50411,
+          "dur": 50404,
           "key": "s003",
           "series_id": "bouti__s003",
           "title": "برنامج الجديد في إعجاز القرآن الكريم",
@@ -1592,8 +1592,8 @@
     },
     {
       "aligned": 95,
-      "chars": 9328379,
-      "lessons": 514,
+      "chars": 9383436,
+      "lessons": 517,
       "name": "الحبيب عمر بن حفيظ",
       "path": "habib-omar-ibn-hafiz/",
       "photo": "_meta/img/habib-omar-ibn-hafiz.jpg",
@@ -1673,15 +1673,15 @@
           "aligned": 0,
           "aligned_pct": "0.0%",
           "category": "الخطب والمحاضرات",
-          "coverage": 0.1899,
-          "coverage_pct": "19.0%",
+          "coverage": 0.1988,
+          "coverage_pct": "19.9%",
           "declared_total": 337,
           "dir": "khutab_jumaa/",
-          "dur": 115243,
+          "dur": 121676,
           "key": "khutab_jumaa",
           "series_id": "hafiz__khutab_jumaa",
           "title": "خطب الجمعة والعيدين والكسوف والخسوف",
-          "transcribed": 64
+          "transcribed": 67
         },
         {
           "aligned": 19,
@@ -4500,8 +4500,8 @@
     },
     {
       "aligned": 106,
-      "chars": 4537607,
-      "lessons": 221,
+      "chars": 4599711,
+      "lessons": 226,
       "name": "مولود السريري",
       "path": "mouloud-sariri/",
       "photo": "_meta/img/mouloud-sariri.jpg",
@@ -4735,15 +4735,15 @@
           "aligned": 0,
           "aligned_pct": "0.0%",
           "category": "الخطب والوعظ",
-          "coverage": 0.46,
-          "coverage_pct": "46.0%",
+          "coverage": 0.485,
+          "coverage_pct": "48.5%",
           "declared_total": 200,
           "dir": "s043/",
-          "dur": 138342,
+          "dur": 146729,
           "key": "s043",
           "series_id": "sariri__s043",
           "title": "خطب منبرية وخطب الجمعة",
-          "transcribed": 92
+          "transcribed": 97
         }
       ],
       "slug": "mouloud-sariri"
@@ -5720,9 +5720,9 @@
     }
   ],
   "totals": {
-    "aligned": 2823,
-    "chars": 157185698,
-    "lessons": 6660,
+    "aligned": 2835,
+    "chars": 157302859,
+    "lessons": 6668,
     "series": 387,
     "sheikhs": 25
   },

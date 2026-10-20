@@ -2,7 +2,7 @@
   "aligned": 0,
   "aligned_ratio": 0.0,
   "category": "الخطب والمحاضرات",
-  "coverage": 0.1899,
+  "coverage": 0.1988,
   "declared_total": 337,
   "key": "khutab_jumaa",
   "lessons": [
@@ -49,6 +49,28 @@
       "stem": "011_0zTMGF4pE5I",
       "title": "الحبيب عمر- خطبة جامع الصالح: المؤثرات في استقامة الفكر",
       "vid": "0zTMGF4pE5I"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 17568,
+      "dur": 2141,
+      "file": "014_OBzHolA3RdY.txt",
+      "n": 14,
+      "stem": "014_OBzHolA3RdY",
+      "title": "خطبة جمعة : ثقافة إصلاح المعاش والمعاد",
+      "vid": "OBzHolA3RdY"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 19852,
+      "dur": 2121,
+      "file": "015_UXJ7FQaNjbw.txt",
+      "n": 15,
+      "stem": "015_UXJ7FQaNjbw",
+      "title": "خطبة جمعة :حسن الأدب والقيام بالأمانة",
+      "vid": "UXJ7FQaNjbw"
     },
     {
       "align_coverage": null,
@@ -137,6 +159,17 @@
       "stem": "031_Dk_ENQiFL8U",
       "title": "خطبة جمعة للحبيب عمر : خطر شئون ساحات القلوب وما يحل فيها",
       "vid": "Dk_ENQiFL8U"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 17637,
+      "dur": 2171,
+      "file": "032_bW15UZQoPtM.txt",
+      "n": 32,
+      "stem": "032_bW15UZQoPtM",
+      "title": "خطبة جمعة للحبيب عمر : رعاية التقوى واغتنام العمر بإقامة القدوة برسول الله",
+      "vid": "bW15UZQoPtM"
     },
     {
       "align_coverage": null,
@@ -715,6 +748,6 @@
   "sheikh": "habib-omar-ibn-hafiz",
   "sheikh_name": "الحبيب عمر بن حفيظ",
   "title": "خطب الجمعة والعيدين والكسوف والخسوف",
-  "transcribed": 64,
+  "transcribed": 67,
   "v": 2
 }
