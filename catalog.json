@@ -1592,8 +1592,8 @@
     },
     {
       "aligned": 95,
-      "chars": 9383436,
-      "lessons": 517,
+      "chars": 9403429,
+      "lessons": 518,
       "name": "الحبيب عمر بن حفيظ",
       "path": "habib-omar-ibn-hafiz/",
       "photo": "_meta/img/habib-omar-ibn-hafiz.jpg",
@@ -1673,15 +1673,15 @@
           "aligned": 0,
           "aligned_pct": "0.0%",
           "category": "الخطب والمحاضرات",
-          "coverage": 0.1988,
-          "coverage_pct": "19.9%",
+          "coverage": 0.2018,
+          "coverage_pct": "20.2%",
           "declared_total": 337,
           "dir": "khutab_jumaa/",
-          "dur": 121676,
+          "dur": 123856,
           "key": "khutab_jumaa",
           "series_id": "hafiz__khutab_jumaa",
           "title": "خطب الجمعة والعيدين والكسوف والخسوف",
-          "transcribed": 67
+          "transcribed": 68
         },
         {
           "aligned": 19,
@@ -1827,7 +1827,7 @@
       "slug": "habib-omar-ibn-hafiz"
     },
     {
-      "aligned": 284,
+      "aligned": 285,
       "chars": 18506022,
       "lessons": 483,
       "name": "أحمد السيد",
@@ -1892,14 +1892,14 @@
           "transcribed": 12
         },
         {
-          "aligned": 13,
-          "aligned_pct": "41.9%",
+          "aligned": 14,
+          "aligned_pct": "45.2%",
           "category": "تفسير وتدبر",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 31,
           "dir": "s022/",
-          "dur": 97574,
+          "dur": 97573,
           "key": "s022",
           "series_id": "sayed__s022",
           "title": "مقاصد السور القرآنية",
@@ -5720,9 +5720,9 @@
     }
   ],
   "totals": {
-    "aligned": 2835,
-    "chars": 157302859,
-    "lessons": 6668,
+    "aligned": 2836,
+    "chars": 157322852,
+    "lessons": 6669,
     "series": 387,
     "sheikhs": 25
   },
