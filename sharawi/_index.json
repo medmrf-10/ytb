@@ -311,14 +311,14 @@
       "transcribed": 16
     },
     {
-      "aligned": 4,
-      "aligned_pct": "19.1%",
+      "aligned": 15,
+      "aligned_pct": "71.4%",
       "category": "التفسير وعلوم القرآن",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
       "declared_total": 21,
       "dir": "s028/",
-      "dur": 54557,
+      "dur": 54563,
       "key": "s028",
       "series_id": "shaarawy__s028",
       "title": "تفسير سورة العنكبوت",
@@ -677,8 +677,8 @@
   ],
   "slug": "sharawi",
   "totals": {
-    "aligned": 236,
-    "chars": 13959432,
+    "aligned": 247,
+    "chars": 13959106,
     "lessons": 648,
     "series": 48
   },
