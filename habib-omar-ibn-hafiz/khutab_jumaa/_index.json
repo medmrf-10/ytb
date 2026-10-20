@@ -2,7 +2,7 @@
   "aligned": 0,
   "aligned_ratio": 0.0,
   "category": "الخطب والمحاضرات",
-  "coverage": 0.0119,
+  "coverage": 0.0237,
   "declared_total": 337,
   "key": "khutab_jumaa",
   "lessons": [
@@ -31,6 +31,28 @@
     {
       "align_coverage": null,
       "aligned": false,
+      "chars": 12939,
+      "dur": 1619,
+      "file": "204_QG1oUKr7kts.txt",
+      "n": 204,
+      "stem": "204_QG1oUKr7kts",
+      "title": "الحبيب عمر بن حفيظ: الأسرة والصحبة وعظيم أثرهما في الحياتين",
+      "vid": "QG1oUKr7kts"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 16091,
+      "dur": 1683,
+      "file": "210_Krd-BZeyK5A.txt",
+      "n": 210,
+      "stem": "210_Krd-BZeyK5A",
+      "title": "الحبيب عمر بن حفيظ: اليقين أشرف ما يُنال على الإطلاق وتنميته بالتقوى وعلائق القلوب",
+      "vid": "Krd-BZeyK5A"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
       "chars": 13230,
       "dur": 1901,
       "file": "232_FPGP9fI_Mmg.txt",
@@ -49,12 +71,34 @@
       "stem": "238_SVZkNlujWqw",
       "title": "تأثير المرئيات والمسموعات على الفكر والتصور وتأثيرها على التقوى سلبا وإيجابا ومكان القصص في ذلك",
       "vid": "SVZkNlujWqw"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 15210,
+      "dur": 1817,
+      "file": "277_SBj-rxdaTCk.txt",
+      "n": 277,
+      "stem": "277_SBj-rxdaTCk",
+      "title": "الحبيب عمر بن حفيظ: التوكل على الله معناه ووجوبه على المؤمنين وتميزهم بحقيقته",
+      "vid": "SBj-rxdaTCk"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 15756,
+      "dur": 1763,
+      "file": "337_S_1XN2bVyj4.txt",
+      "n": 337,
+      "stem": "337_S_1XN2bVyj4",
+      "title": "خطبة الجمعة: أساس القدوة والأسوة وما يترتب عليه في الدارين من السعادة أو الشقاء",
+      "vid": "S_1XN2bVyj4"
     }
   ],
   "series_id": "hafiz__khutab_jumaa",
   "sheikh": "habib-omar-ibn-hafiz",
   "sheikh_name": "الحبيب عمر بن حفيظ",
   "title": "خطب الجمعة والعيدين والكسوف والخسوف",
-  "transcribed": 4,
+  "transcribed": 8,
   "v": 2
 }

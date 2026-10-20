@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:URZ7tZDwBnM",
- "vid": "URZ7tZDwBnM",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--114",
- "n": 30,
- "n_src": "read",
- "title": "الإنسانية قبل التدين ｜ الحلقة 29- هل الإنسانية بديل للدين ｜ علي الجفري ｜ English",
- "title_src": "filename",
- "sha256": "1608ecf19bf9b73f6b8175c035b3a583e5e9aaf8fec60e0886dd2a339e9989ba",
- "nh": "dd42aedf2a3ada2d776c846ee76d5a3110e9dea266d2e4c349004b65fca02c9f",
- "chars": 10033,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/114/030_الإنسانية قبل التدين ｜ الحلقة 29- هل الإنسانية بديل للدين ｜ علي الجفري ｜ English.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/114/030_الإنسانية قبل التدين ｜ الحلقة 29- هل الإنسانية بديل للدين ｜ علي الجفري ｜ English.txt",
-   "sha256": "1608ecf19bf9b73f6b8175c035b3a583e5e9aaf8fec60e0886dd2a339e9989ba",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:URZ7tZDwBnM",
+  "vid": "URZ7tZDwBnM",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--114",
+  "n": 30,
+  "n_src": "read",
+  "title": "الإنسانية قبل التدين ｜ الحلقة 29- هل الإنسانية بديل للدين ｜ علي الجفري ｜ English",
+  "title_src": "filename",
+  "sha256": "1608ecf19bf9b73f6b8175c035b3a583e5e9aaf8fec60e0886dd2a339e9989ba",
+  "nh": "dd42aedf2a3ada2d776c846ee76d5a3110e9dea266d2e4c349004b65fca02c9f",
+  "chars": 10033,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/114/030_الإنسانية قبل التدين ｜ الحلقة 29- هل الإنسانية بديل للدين ｜ علي الجفري ｜ English.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/114/29.txt",
-   "sha256": "1608ecf19bf9b73f6b8175c035b3a583e5e9aaf8fec60e0886dd2a339e9989ba",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/114/030_الإنسانية قبل التدين ｜ الحلقة 29- هل الإنسانية بديل للدين ｜ علي الجفري ｜ English.txt",
+      "sha256": "1608ecf19bf9b73f6b8175c035b3a583e5e9aaf8fec60e0886dd2a339e9989ba",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/114/29.txt",
+      "sha256": "1608ecf19bf9b73f6b8175c035b3a583e5e9aaf8fec60e0886dd2a339e9989ba",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9994,
+    "spoken_align_pct": 99.94,
+    "audio_span_pct": 94.6,
+    "words": 1800,
+    "aligned": 1799,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 16:12"
   }
- ],
- "variants": [],
- "also_in": []
 }

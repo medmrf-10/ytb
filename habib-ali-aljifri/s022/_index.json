@@ -1,6 +1,6 @@
 {
-  "aligned": 26,
-  "aligned_ratio": 0.8966,
+  "aligned": 29,
+  "aligned_ratio": 1.0,
   "category": "برنامج فكري وتزكوي",
   "coverage": 1.0,
   "declared_total": 29,
@@ -293,8 +293,8 @@
       "vid": "Pa5gYpMSBBo"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 10313,
       "dur": 1030,
       "file": "027_m7Cp7TLFXw8.txt",
@@ -304,8 +304,8 @@
       "vid": "m7Cp7TLFXw8"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 9764,
       "dur": 1051,
       "file": "028_KgFsxWxCE-0.txt",
@@ -315,10 +315,10 @@
       "vid": "KgFsxWxCE-0"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 9887,
-      "dur": 1137,
+      "dur": 1136,
       "file": "029_URZ7tZDwBnM.txt",
       "n": 29,
       "stem": "029_URZ7tZDwBnM",
