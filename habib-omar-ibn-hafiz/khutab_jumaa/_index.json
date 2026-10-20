@@ -2,7 +2,7 @@
   "aligned": 0,
   "aligned_ratio": 0.0,
   "category": "الخطب والمحاضرات",
-  "coverage": 0.2077,
+  "coverage": 0.2107,
   "declared_total": 337,
   "key": "khutab_jumaa",
   "lessons": [
@@ -236,6 +236,17 @@
       "stem": "046_O9d5W5QPuYY",
       "title": "الحبيب عمر بن حفيظ: حقائق الدِّين والمبدأ وتسامي أهله عن التبعيَّة لأهل الكفر والفسوق",
       "vid": "O9d5W5QPuYY"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 19692,
+      "dur": 2209,
+      "file": "047_ehrzOM8kv1E.txt",
+      "n": 47,
+      "stem": "047_ehrzOM8kv1E",
+      "title": "ميزة المؤمنين في سعة مداركهم وسمو فكرهم وانحصار الكافرين في المادة والحسِّيَّات",
+      "vid": "ehrzOM8kv1E"
     },
     {
       "align_coverage": null,
@@ -781,6 +792,6 @@
   "sheikh": "habib-omar-ibn-hafiz",
   "sheikh_name": "الحبيب عمر بن حفيظ",
   "title": "خطب الجمعة والعيدين والكسوف والخسوف",
-  "transcribed": 70,
+  "transcribed": 71,
   "v": 2
 }

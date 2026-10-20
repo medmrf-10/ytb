@@ -2,7 +2,7 @@
   "aligned": 0,
   "aligned_ratio": 0.0,
   "category": "الخطب والوعظ",
-  "coverage": 0.505,
+  "coverage": 0.515,
   "declared_total": 200,
   "key": "s043",
   "lessons": [
@@ -1109,6 +1109,28 @@
     {
       "align_coverage": null,
       "aligned": false,
+      "chars": 9651,
+      "dur": 1316,
+      "file": "102_jpykKliQtao.txt",
+      "n": 102,
+      "stem": "102_jpykKliQtao",
+      "title": "خطب منبرية : \"وقفة مع دعاء يا مقلب القلوب ثبت قلبي على دينك \" / الشيخ العلامة مولود السريري",
+      "vid": "jpykKliQtao"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 11739,
+      "dur": 1629,
+      "file": "103_AlhYO1xD-X0.txt",
+      "n": 103,
+      "stem": "103_AlhYO1xD-X0",
+      "title": "خطب منبرية : \"الزمان كشاف \" / الشيخ العلامة مولود السريري",
+      "vid": "AlhYO1xD-X0"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
       "chars": 12433,
       "dur": 1635,
       "file": "104_mI4HstINW1A.txt",
@@ -1122,6 +1144,6 @@
   "sheikh": "mouloud-sariri",
   "sheikh_name": "مولود السريري",
   "title": "خطب منبرية وخطب الجمعة",
-  "transcribed": 101,
+  "transcribed": 103,
   "v": 2
 }
