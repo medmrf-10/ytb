@@ -143,14 +143,14 @@
       "transcribed": 17
     },
     {
-      "aligned": 0,
-      "aligned_pct": "0.0%",
+      "aligned": 10,
+      "aligned_pct": "52.6%",
       "category": "اللغة العربية والأدب",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
       "declared_total": 19,
       "dir": "s027/",
-      "dur": 15415,
+      "dur": 15421,
       "key": "s027",
       "series_id": "sariri__s027",
       "title": "شرح متن الصرف الصغير (كاملاً — 19 درساً)",
@@ -243,8 +243,8 @@
   ],
   "slug": "mouloud-sariri",
   "totals": {
-    "aligned": 68,
-    "chars": 4455522,
+    "aligned": 78,
+    "chars": 4455465,
     "lessons": 214,
     "series": 17
   },
