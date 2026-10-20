@@ -2,7 +2,7 @@
   "aligned": 0,
   "aligned_ratio": 0.0,
   "category": "الخطب والمحاضرات",
-  "coverage": 0.0445,
+  "coverage": 0.0504,
   "declared_total": 337,
   "key": "khutab_jumaa",
   "lessons": [
@@ -49,6 +49,28 @@
       "stem": "037_TbMF0e_IUFA",
       "title": "خطبة جمعة للعلامة الحبيب عمر بن حفيظ بعنوان: آثار ما يحل في الأذهان من تذكُّر وتصوُّر",
       "vid": "TbMF0e_IUFA"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 12887,
+      "dur": 1616,
+      "file": "050_BUQYQUW4d8s.txt",
+      "n": 50,
+      "stem": "050_BUQYQUW4d8s",
+      "title": "ارتباط حقيقة الشهادتين والدين بالعواطف والمشاعر والوجدان والأحاسيس وترجمة ذلك في عمل الأعضاء",
+      "vid": "BUQYQUW4d8s"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 14773,
+      "dur": 1625,
+      "file": "061_FMZOvxh1jtY.txt",
+      "n": 61,
+      "stem": "061_FMZOvxh1jtY",
+      "title": "عظيم أثر اللسان في الهدى والضلال والدنيا والمآل",
+      "vid": "FMZOvxh1jtY"
     },
     {
       "align_coverage": null,
@@ -176,6 +198,6 @@
   "sheikh": "habib-omar-ibn-hafiz",
   "sheikh_name": "الحبيب عمر بن حفيظ",
   "title": "خطب الجمعة والعيدين والكسوف والخسوف",
-  "transcribed": 15,
+  "transcribed": 17,
   "v": 2
 }

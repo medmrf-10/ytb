@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:5cXA0n58EsQ",
- "vid": "5cXA0n58EsQ",
- "sheikh": "adham-alasimi",
- "row_id": "adham-alasimi--786",
- "n": 27,
- "n_src": "read",
- "title": "ثوابت في حياة النبي ﷺ ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
- "title_src": "filename",
- "sha256": "7eaf9ada2863eeab30351c0e9469be7804316373a5bad96c294d02d213da8f6b",
- "nh": "59e0835b081167bdf450470c481d459f091813f66a5e9d1bf13b8caa6eaabbd9",
- "chars": 16983,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/786/027_ثوابت في حياة النبي ﷺ ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/786/027_ثوابت في حياة النبي ﷺ ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
-   "sha256": "7eaf9ada2863eeab30351c0e9469be7804316373a5bad96c294d02d213da8f6b",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:5cXA0n58EsQ",
+  "vid": "5cXA0n58EsQ",
+  "sheikh": "adham-alasimi",
+  "row_id": "adham-alasimi--786",
+  "n": 27,
+  "n_src": "read",
+  "title": "ثوابت في حياة النبي ﷺ ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي",
+  "title_src": "filename",
+  "sha256": "7eaf9ada2863eeab30351c0e9469be7804316373a5bad96c294d02d213da8f6b",
+  "nh": "59e0835b081167bdf450470c481d459f091813f66a5e9d1bf13b8caa6eaabbd9",
+  "chars": 16983,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/786/027_ثوابت في حياة النبي ﷺ ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/786/26.txt",
-   "sha256": "7eaf9ada2863eeab30351c0e9469be7804316373a5bad96c294d02d213da8f6b",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/786/027_ثوابت في حياة النبي ﷺ ⧸ خطبة الجمعة ⧸ الشيخ أدهم العاسمي.txt",
+      "sha256": "7eaf9ada2863eeab30351c0e9469be7804316373a5bad96c294d02d213da8f6b",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/786/26.txt",
+      "sha256": "7eaf9ada2863eeab30351c0e9469be7804316373a5bad96c294d02d213da8f6b",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.98,
+    "words": 3129,
+    "aligned": 3121,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 16:42"
   }
- ],
- "variants": [],
- "also_in": []
 }

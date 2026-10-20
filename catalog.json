@@ -1173,7 +1173,7 @@
       "slug": "sharawi"
     },
     {
-      "aligned": 154,
+      "aligned": 157,
       "chars": 9513464,
       "lessons": 546,
       "name": "أدهم العاسمي",
@@ -1546,14 +1546,14 @@
           "transcribed": 8
         },
         {
-          "aligned": 21,
-          "aligned_pct": "72.4%",
+          "aligned": 24,
+          "aligned_pct": "82.8%",
           "category": "خطب ومواعظ",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 29,
           "dir": "s052/",
-          "dur": 48314,
+          "dur": 48312,
           "key": "s052",
           "series_id": "asimi__s052",
           "title": "خطب الجمعة لعام 2025م",
@@ -2414,8 +2414,8 @@
     },
     {
       "aligned": 95,
-      "chars": 8553847,
-      "lessons": 465,
+      "chars": 8581507,
+      "lessons": 467,
       "name": "الحبيب عمر بن حفيظ",
       "path": "habib-omar-ibn-hafiz/",
       "photo": "_meta/img/habib-omar-ibn-hafiz.jpg",
@@ -2495,15 +2495,15 @@
           "aligned": 0,
           "aligned_pct": "0.0%",
           "category": "الخطب والمحاضرات",
-          "coverage": 0.0445,
-          "coverage_pct": "4.5%",
+          "coverage": 0.0504,
+          "coverage_pct": "5.0%",
           "declared_total": 337,
           "dir": "khutab_jumaa/",
-          "dur": 23028,
+          "dur": 26269,
           "key": "khutab_jumaa",
           "series_id": "hafiz__khutab_jumaa",
           "title": "خطب الجمعة والعيدين والكسوف والخسوف",
-          "transcribed": 15
+          "transcribed": 17
         },
         {
           "aligned": 19,
@@ -5720,9 +5720,9 @@
     }
   ],
   "totals": {
-    "aligned": 2623,
-    "chars": 156329231,
-    "lessons": 6604,
+    "aligned": 2626,
+    "chars": 156356891,
+    "lessons": 6606,
     "series": 387,
     "sheikhs": 25
   },
