@@ -1,6 +1,6 @@
 {
-  "aligned": 13,
-  "aligned_ratio": 0.65,
+  "aligned": 20,
+  "aligned_ratio": 1.0,
   "category": "برامج وحوارات",
   "coverage": 1.0,
   "declared_total": 20,
@@ -139,8 +139,8 @@
       "vid": "1lqnBZP8_7A"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 36757,
       "dur": 2973,
       "file": "013_2lQybufLyVM.txt",
@@ -161,10 +161,10 @@
       "vid": "aY9rof8Ive4"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 34748,
-      "dur": 3062,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 34230,
+      "dur": 3063,
       "file": "015_knYlpLw9qhs.txt",
       "n": 15,
       "stem": "015_knYlpLw9qhs",
@@ -172,10 +172,10 @@
       "vid": "knYlpLw9qhs"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 37412,
-      "dur": 3022,
+      "dur": 3023,
       "file": "016_x2KqfY58TRs.txt",
       "n": 16,
       "stem": "016_x2KqfY58TRs",
@@ -183,9 +183,9 @@
       "vid": "x2KqfY58TRs"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 35854,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 35778,
       "dur": 2970,
       "file": "017_FTi6eX6qhLk.txt",
       "n": 17,
@@ -194,10 +194,10 @@
       "vid": "FTi6eX6qhLk"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 37489,
-      "dur": 2949,
+      "dur": 2950,
       "file": "018_jPyGW35uHzI.txt",
       "n": 18,
       "stem": "018_jPyGW35uHzI",
@@ -205,9 +205,9 @@
       "vid": "jPyGW35uHzI"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 36063,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 35932,
       "dur": 3060,
       "file": "019_CxNQ_Bnm3-s.txt",
       "n": 19,
@@ -216,9 +216,9 @@
       "vid": "CxNQ_Bnm3-s"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 31875,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 31754,
       "dur": 3204,
       "file": "020__bgp0bSRMj8.txt",
       "n": 20,
