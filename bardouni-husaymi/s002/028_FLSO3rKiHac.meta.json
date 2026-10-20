@@ -1,46 +1,59 @@
 {
- "v": 1,
- "lid": "yt:FLSO3rKiHac",
- "vid": "FLSO3rKiHac",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--984",
- "n": 9,
- "n_src": "read",
- "title": "شرح أم البراهين ｜ الدرس 28 ( قوله ＂ برهان وجوب الوحدانية لله سبحانه-تتمة- ＂ ) ｜",
- "title_src": "filename",
- "sha256": "737debf606d2169b8aa7285e05fc583048eeeeee9e10bfadae9ed59d642ea14b",
- "nh": "5a142f0d8c0cab11582a1733e90e242a01844a453d4d033c9b47441331603a8a",
- "chars": 29843,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/984/009_شرح أم البراهين ｜ الدرس 28 ( قوله ＂ برهان وجوب الوحدانية لله سبحانه-تتمة-  ＂ ) ｜.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/984/009_شرح أم البراهين ｜ الدرس 28 ( قوله ＂ برهان وجوب الوحدانية لله سبحانه-تتمة-  ＂ ) ｜.txt",
-   "sha256": "737debf606d2169b8aa7285e05fc583048eeeeee9e10bfadae9ed59d642ea14b",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:FLSO3rKiHac",
+  "vid": "FLSO3rKiHac",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--984",
+  "n": 9,
+  "n_src": "read",
+  "title": "شرح أم البراهين ｜ الدرس 28 ( قوله ＂ برهان وجوب الوحدانية لله سبحانه-تتمة- ＂ ) ｜",
+  "title_src": "filename",
+  "sha256": "737debf606d2169b8aa7285e05fc583048eeeeee9e10bfadae9ed59d642ea14b",
+  "nh": "5a142f0d8c0cab11582a1733e90e242a01844a453d4d033c9b47441331603a8a",
+  "chars": 29843,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/984/009_شرح أم البراهين ｜ الدرس 28 ( قوله ＂ برهان وجوب الوحدانية لله سبحانه-تتمة-  ＂ ) ｜.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alasimi/um-baraheen/8.txt",
-   "sha256": "737debf606d2169b8aa7285e05fc583048eeeeee9e10bfadae9ed59d642ea14b",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/743/8.txt",
-   "sha256": "737debf606d2169b8aa7285e05fc583048eeeeee9e10bfadae9ed59d642ea14b",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/984/009_شرح أم البراهين ｜ الدرس 28 ( قوله ＂ برهان وجوب الوحدانية لله سبحانه-تتمة-  ＂ ) ｜.txt",
+      "sha256": "737debf606d2169b8aa7285e05fc583048eeeeee9e10bfadae9ed59d642ea14b",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alasimi/um-baraheen/8.txt",
+      "sha256": "737debf606d2169b8aa7285e05fc583048eeeeee9e10bfadae9ed59d642ea14b",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/743/8.txt",
+      "sha256": "737debf606d2169b8aa7285e05fc583048eeeeee9e10bfadae9ed59d642ea14b",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "adham-alasimi--743",
+    "adham-alasimi--alasimi-um-baraheen"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9993,
+    "spoken_align_pct": 99.93,
+    "audio_span_pct": 99.99,
+    "words": 5436,
+    "aligned": 5432,
+    "interpolated": 4,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 20:37"
   }
- ],
- "variants": [],
- "also_in": [
-  "adham-alasimi--743",
-  "adham-alasimi--alasimi-um-baraheen"
- ]
 }

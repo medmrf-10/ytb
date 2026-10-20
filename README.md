@@ -9,7 +9,7 @@
 - **المشايخ ذوو المحتوى الفعلي:** 25 شيخاً
 - **السلاسل المفرّغة:** 387 سلسلة
 - **الدروس المفرّغة نصياً (`.txt`):** 6,712 درساً
-- **الدروس المحاذاة صوتياً (`.align.json`):** 2,926 درساً
+- **الدروس المحاذاة صوتياً (`.align.json`):** 2,934 درساً
 - **إجمالي الحجم النصي:** 157,906,895 حرفاً
 
 ---
@@ -26,7 +26,7 @@
 | 6 | الحبيب علي الجفري | `habib-ali-aljifri` | 23 | 471 | 173 | [`habib-ali-aljifri/`](./habib-ali-aljifri/) |
 | 7 | فاضل السامرائي | `fadhel-samarrai` | 42 | 460 | 426 | [`fadhel-samarrai/`](./fadhel-samarrai/) |
 | 8 | ذاكر الهاشمي | `dhaker-alhashimi` | 20 | 348 | 95 | [`dhaker-alhashimi/`](./dhaker-alhashimi/) |
-| 9 | محمد البردوني الحسيمي | `bardouni-husaymi` | 16 | 343 | 130 | [`bardouni-husaymi/`](./bardouni-husaymi/) |
+| 9 | محمد البردوني الحسيمي | `bardouni-husaymi` | 16 | 343 | 138 | [`bardouni-husaymi/`](./bardouni-husaymi/) |
 | 10 | علي جمعة | `ali-gomaa` | 14 | 276 | 51 | [`ali-gomaa/`](./ali-gomaa/) |
 | 11 | مولود السريري | `mouloud-sariri` | 17 | 265 | 106 | [`mouloud-sariri/`](./mouloud-sariri/) |
 | 12 | محمد الحسن الددو | `daddo` | 17 | 244 | 193 | [`daddo/`](./daddo/) |

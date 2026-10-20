@@ -1,46 +1,59 @@
 {
- "v": 1,
- "lid": "yt:PLbMPERpY1o",
- "vid": "PLbMPERpY1o",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--984",
- "n": 13,
- "n_src": "read",
- "title": "شرح أم البراهين ｜ الدرس 24 ( قوله ＂ برهان وجود الله-تتمة- ＂ ) ｜ الشيخ محمد البر",
- "title_src": "filename",
- "sha256": "99144a36a6b9675dbeb5bcb367745cca8c24a4a15d17e906e797522012224a99",
- "nh": "b35145d6d6dca11dedf9f2896022570e76089f0fd21af18524d593d296c1b4c3",
- "chars": 25287,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/984/013_شرح أم البراهين ｜ الدرس 24 ( قوله ＂ برهان وجود الله-تتمة-  ＂ ) ｜ الشيخ محمد البر.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/984/013_شرح أم البراهين ｜ الدرس 24 ( قوله ＂ برهان وجود الله-تتمة-  ＂ ) ｜ الشيخ محمد البر.txt",
-   "sha256": "99144a36a6b9675dbeb5bcb367745cca8c24a4a15d17e906e797522012224a99",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:PLbMPERpY1o",
+  "vid": "PLbMPERpY1o",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--984",
+  "n": 13,
+  "n_src": "read",
+  "title": "شرح أم البراهين ｜ الدرس 24 ( قوله ＂ برهان وجود الله-تتمة- ＂ ) ｜ الشيخ محمد البر",
+  "title_src": "filename",
+  "sha256": "99144a36a6b9675dbeb5bcb367745cca8c24a4a15d17e906e797522012224a99",
+  "nh": "b35145d6d6dca11dedf9f2896022570e76089f0fd21af18524d593d296c1b4c3",
+  "chars": 25287,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/984/013_شرح أم البراهين ｜ الدرس 24 ( قوله ＂ برهان وجود الله-تتمة-  ＂ ) ｜ الشيخ محمد البر.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alasimi/um-baraheen/12.txt",
-   "sha256": "99144a36a6b9675dbeb5bcb367745cca8c24a4a15d17e906e797522012224a99",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/743/12.txt",
-   "sha256": "99144a36a6b9675dbeb5bcb367745cca8c24a4a15d17e906e797522012224a99",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/984/013_شرح أم البراهين ｜ الدرس 24 ( قوله ＂ برهان وجود الله-تتمة-  ＂ ) ｜ الشيخ محمد البر.txt",
+      "sha256": "99144a36a6b9675dbeb5bcb367745cca8c24a4a15d17e906e797522012224a99",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alasimi/um-baraheen/12.txt",
+      "sha256": "99144a36a6b9675dbeb5bcb367745cca8c24a4a15d17e906e797522012224a99",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/743/12.txt",
+      "sha256": "99144a36a6b9675dbeb5bcb367745cca8c24a4a15d17e906e797522012224a99",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "adham-alasimi--743",
+    "adham-alasimi--alasimi-um-baraheen"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9894,
+    "spoken_align_pct": 98.94,
+    "audio_span_pct": 99.84,
+    "words": 4537,
+    "aligned": 4488,
+    "interpolated": 48,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 20:31"
   }
- ],
- "variants": [],
- "also_in": [
-  "adham-alasimi--743",
-  "adham-alasimi--alasimi-um-baraheen"
- ]
 }

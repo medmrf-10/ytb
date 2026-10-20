@@ -1,46 +1,59 @@
 {
- "v": 1,
- "lid": "yt:lyo9ZjyeI2k",
- "vid": "lyo9ZjyeI2k",
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--984",
- "n": 12,
- "n_src": "read",
- "title": "شرح أم البراهين ｜ الدرس 25 ( قوله ＂ برهان وجوب القدم لله سبحانه ＂ ) ｜ الشيخ محم",
- "title_src": "filename",
- "sha256": "fe70dc029194eb177c923b177c23575e8d4c5429e0ee69af93f349cede8c5f11",
- "nh": "b944b8b57b2dcff8a3cb63d4bbe5ac30b2950cc63f3b0c82d8cb2994d7b5885c",
- "chars": 30332,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/984/012_شرح أم البراهين ｜ الدرس 25 ( قوله ＂ برهان وجوب القدم لله سبحانه  ＂ ) ｜ الشيخ محم.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/984/012_شرح أم البراهين ｜ الدرس 25 ( قوله ＂ برهان وجوب القدم لله سبحانه  ＂ ) ｜ الشيخ محم.txt",
-   "sha256": "fe70dc029194eb177c923b177c23575e8d4c5429e0ee69af93f349cede8c5f11",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:lyo9ZjyeI2k",
+  "vid": "lyo9ZjyeI2k",
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--984",
+  "n": 12,
+  "n_src": "read",
+  "title": "شرح أم البراهين ｜ الدرس 25 ( قوله ＂ برهان وجوب القدم لله سبحانه ＂ ) ｜ الشيخ محم",
+  "title_src": "filename",
+  "sha256": "fe70dc029194eb177c923b177c23575e8d4c5429e0ee69af93f349cede8c5f11",
+  "nh": "b944b8b57b2dcff8a3cb63d4bbe5ac30b2950cc63f3b0c82d8cb2994d7b5885c",
+  "chars": 30332,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/984/012_شرح أم البراهين ｜ الدرس 25 ( قوله ＂ برهان وجوب القدم لله سبحانه  ＂ ) ｜ الشيخ محم.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alasimi/um-baraheen/11.txt",
-   "sha256": "fe70dc029194eb177c923b177c23575e8d4c5429e0ee69af93f349cede8c5f11",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/743/11.txt",
-   "sha256": "fe70dc029194eb177c923b177c23575e8d4c5429e0ee69af93f349cede8c5f11",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/984/012_شرح أم البراهين ｜ الدرس 25 ( قوله ＂ برهان وجوب القدم لله سبحانه  ＂ ) ｜ الشيخ محم.txt",
+      "sha256": "fe70dc029194eb177c923b177c23575e8d4c5429e0ee69af93f349cede8c5f11",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alasimi/um-baraheen/11.txt",
+      "sha256": "fe70dc029194eb177c923b177c23575e8d4c5429e0ee69af93f349cede8c5f11",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/743/11.txt",
+      "sha256": "fe70dc029194eb177c923b177c23575e8d4c5429e0ee69af93f349cede8c5f11",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "adham-alasimi--743",
+    "adham-alasimi--alasimi-um-baraheen"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9977,
+    "spoken_align_pct": 99.77,
+    "audio_span_pct": 99.97,
+    "words": 5614,
+    "aligned": 5599,
+    "interpolated": 13,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 20:33"
   }
- ],
- "variants": [],
- "also_in": [
-  "adham-alasimi--743",
-  "adham-alasimi--alasimi-um-baraheen"
- ]
 }
