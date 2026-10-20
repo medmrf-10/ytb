@@ -2,8 +2,8 @@
 
 - **إجمالي المشايخ:** 25 شيخاً
 - **إجمالي السلاسل المفرغة:** 386 سلسلة
-- **إجمالي الدروس المفرغة نصياً (`.txt`):** 6,589 درساً (156,138,330 حرفاً)
-- **إجمالي الدروس المحاذاة صوتياً (`.align.json`):** 2,512 درساً
+- **إجمالي الدروس المفرغة نصياً (`.txt`):** 6,589 درساً (156,138,248 حرفاً)
+- **إجمالي الدروس المحاذاة صوتياً (`.align.json`):** 2,520 درساً
 
 ## 1. جدول المشايخ الإجمالي
 
@@ -15,7 +15,7 @@
 | 4 | أحمد السيد | `ahmed-alsayed` | 34 | 483 | 284 | [`ahmed-alsayed/`](./ahmed-alsayed/) |
 | 5 | الحبيب علي الجفري | `habib-ali-aljifri` | 23 | 471 | 30 | [`habib-ali-aljifri/`](./habib-ali-aljifri/) |
 | 6 | فاضل السامرائي | `fadhel-samarrai` | 42 | 460 | 407 | [`fadhel-samarrai/`](./fadhel-samarrai/) |
-| 7 | الحبيب عمر بن حفيظ | `habib-omar-ibn-hafiz` | 15 | 450 | 82 | [`habib-omar-ibn-hafiz/`](./habib-omar-ibn-hafiz/) |
+| 7 | الحبيب عمر بن حفيظ | `habib-omar-ibn-hafiz` | 15 | 450 | 90 | [`habib-omar-ibn-hafiz/`](./habib-omar-ibn-hafiz/) |
 | 8 | ذاكر الهاشمي | `dhaker-alhashimi` | 20 | 348 | 95 | [`dhaker-alhashimi/`](./dhaker-alhashimi/) |
 | 9 | محمد البردوني الحسيمي | `bardouni-husaymi` | 16 | 343 | 120 | [`bardouni-husaymi/`](./bardouni-husaymi/) |
 | 10 | علي جمعة | `ali-gomaa` | 14 | 276 | 51 | [`ali-gomaa/`](./ali-gomaa/) |
@@ -286,7 +286,7 @@
 | [`s063`](./fadhel-samarrai/s063/) | اللمسات البيانية في قصار المفصل وجزء عم (مباحث مختارة) | 22 | 22 | 100.0% | 22 (100.0%) |
 
 ### الحبيب عمر بن حفيظ (`habib-omar-ibn-hafiz`)
-- إجمالي الدروس المفرغة: **450** درساً (المحاذاة: **82**) في **15** سلسلة.
+- إجمالي الدروس المفرغة: **450** درساً (المحاذاة: **90**) في **15** سلسلة.
 
 | الكود | عنوان السلسلة | المفرغ | المعلن | نسبة التفريغ | المحاذاة |
 |---|---|---:|---:|---:|---:|
@@ -299,7 +299,7 @@
 | [`kibrit_ahmar_tazkiah`](./habib-omar-ibn-hafiz/kibrit_ahmar_tazkiah/) | دروس التزكية الأسبوعية: شرح كتاب الكبريت الأحمر (الشرح الأول) | 16 | 19 | 84.2% | 0 (0.0%) |
 | [`ladhati_bidhati`](./habib-omar-ibn-hafiz/ladhati_bidhati/) | شرح قصيدة «لذاتي بذاتي» للشيخ عبد الله باكثير | 14 | 14 | 100.0% | 14 (100.0%) |
 | [`mamlakat_qalb`](./habib-omar-ibn-hafiz/mamlakat_qalb/) | شرح كتاب مملكة القلب والأعضاء للحبيب عمر بن حفيظ | 13 | 15 | 86.7% | 0 (0.0%) |
-| [`mukatabat_ataiyyah`](./habib-omar-ibn-hafiz/mukatabat_ataiyyah/) | شرح كتاب المكاتبات والمناجاة الإلهية لابن عطاء الله السكندري | 28 | 28 | 100.0% | 15 (53.6%) |
+| [`mukatabat_ataiyyah`](./habib-omar-ibn-hafiz/mukatabat_ataiyyah/) | شرح كتاب المكاتبات والمناجاة الإلهية لابن عطاء الله السكندري | 28 | 28 | 100.0% | 23 (82.1%) |
 | [`munqidh_dalal`](./habib-omar-ibn-hafiz/munqidh_dalal/) | شرح كتاب المنقذ من الضلال للإمام الغزالي | 8 | 8 | 100.0% | 8 (100.0%) |
 | [`qabas_noor_ihya`](./habib-omar-ibn-hafiz/qabas_noor_ihya/) | شرح كتاب قبس النور المبين من إحياء علوم الدين | 151 | 183 | 82.5% | 0 (0.0%) |
 | [`silat_aqrabin`](./habib-omar-ibn-hafiz/silat_aqrabin/) | شرح كتاب صلة الأقربين للحبيب عمر بن حفيظ | 14 | 14 | 100.0% | 14 (100.0%) |
