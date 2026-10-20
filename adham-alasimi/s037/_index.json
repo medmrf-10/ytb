@@ -1,6 +1,6 @@
 {
-  "aligned": 17,
-  "aligned_ratio": 0.7391,
+  "aligned": 23,
+  "aligned_ratio": 1.0,
   "category": "سلسلة علمية",
   "coverage": 1.0,
   "declared_total": 23,
@@ -194,9 +194,9 @@
       "vid": "V7yv2Lm0Ryc"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 13732,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 13669,
       "dur": 1657,
       "file": "018_5N9QmijT_XE.txt",
       "n": 18,
@@ -205,9 +205,9 @@
       "vid": "5N9QmijT_XE"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 20602,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 20546,
       "dur": 2147,
       "file": "019_667GTKgtKeY.txt",
       "n": 19,
@@ -216,10 +216,10 @@
       "vid": "667GTKgtKeY"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 15906,
-      "dur": 1708,
+      "dur": 1709,
       "file": "020_PV2IyfwE-0c.txt",
       "n": 20,
       "stem": "020_PV2IyfwE-0c",
@@ -227,9 +227,9 @@
       "vid": "PV2IyfwE-0c"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 17201,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 17144,
       "dur": 1836,
       "file": "021_X4J3d3v-K3c.txt",
       "n": 21,
@@ -238,9 +238,9 @@
       "vid": "X4J3d3v-K3c"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 14903,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 14879,
       "dur": 1604,
       "file": "022_XchYpinP1ec.txt",
       "n": 22,
@@ -249,10 +249,10 @@
       "vid": "XchYpinP1ec"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 20943,
-      "dur": 2024,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 20875,
+      "dur": 2025,
       "file": "023_YbZQ58Ya_0w.txt",
       "n": 23,
       "stem": "023_YbZQ58Ya_0w",
