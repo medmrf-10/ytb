@@ -1,6 +1,6 @@
 {
-  "aligned": 3,
-  "aligned_ratio": 0.1667,
+  "aligned": 11,
+  "aligned_ratio": 0.6111,
   "category": "التزكية والأخلاق",
   "coverage": 1.0,
   "declared_total": 18,
@@ -40,10 +40,10 @@
       "vid": "bPJ8hL8iCHg"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 39243,
-      "dur": 4216,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 39202,
+      "dur": 4217,
       "file": "004_WLlfnsV40-E.txt",
       "n": 4,
       "stem": "004_WLlfnsV40-E",
@@ -51,10 +51,10 @@
       "vid": "WLlfnsV40-E"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 40191,
-      "dur": 3794,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 40109,
+      "dur": 3795,
       "file": "005_TeNIfNnX0-I.txt",
       "n": 5,
       "stem": "005_TeNIfNnX0-I",
@@ -62,8 +62,8 @@
       "vid": "TeNIfNnX0-I"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 29801,
       "dur": 2910,
       "file": "006_ymB4ogIiM9U.txt",
@@ -73,10 +73,10 @@
       "vid": "ymB4ogIiM9U"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 38559,
-      "dur": 3520,
+      "dur": 3521,
       "file": "007_TJLvj8-hkvU.txt",
       "n": 7,
       "stem": "007_TJLvj8-hkvU",
@@ -84,8 +84,8 @@
       "vid": "TJLvj8-hkvU"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 35563,
       "dur": 3459,
       "file": "008_L1lkD7sP300.txt",
@@ -95,9 +95,9 @@
       "vid": "L1lkD7sP300"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 35893,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 35818,
       "dur": 3459,
       "file": "009_mIsNPSQv1Mg.txt",
       "n": 9,
@@ -106,10 +106,10 @@
       "vid": "mIsNPSQv1Mg"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 31178,
-      "dur": 3249,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 31147,
+      "dur": 3250,
       "file": "010_Rnr3TiBq7TQ.txt",
       "n": 10,
       "stem": "010_Rnr3TiBq7TQ",
@@ -117,9 +117,9 @@
       "vid": "Rnr3TiBq7TQ"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 27798,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 27769,
       "dur": 2980,
       "file": "011_BY0TQ6vdhtM.txt",
       "n": 11,
