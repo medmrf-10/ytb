@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:DqdCDpikAcg",
- "vid": "DqdCDpikAcg",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--alsayed-mut-738",
- "n": 27,
- "n_src": "trfile",
- "title": "سيرة رسول الله ﷺ 26 ｜ الحصار الاقتصادي والأمني للنبي ﷺ وبني هاشم والمطلب ｜ أحمد",
- "title_src": "filename",
- "sha256": "1b064ec2d48df2b40ed1e19a1a0b388473de3074155ca99cb2e6f4345d07f686",
- "nh": "acb9f0149cde1e2629f71802ff7d2e45b7ab00fb520c1d2f7c3b578ab7ec7855",
- "chars": 46876,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/alsayed/mut-738/027_سيرة رسول الله ﷺ 26 ｜ الحصار الاقتصادي والأمني للنبي ﷺ وبني هاشم والمطلب ｜ أحمد .txt",
-  "commit_ts": 1791841974,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alsayed/mut-738/027_سيرة رسول الله ﷺ 26 ｜ الحصار الاقتصادي والأمني للنبي ﷺ وبني هاشم والمطلب ｜ أحمد .txt",
-   "sha256": "1b064ec2d48df2b40ed1e19a1a0b388473de3074155ca99cb2e6f4345d07f686",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:DqdCDpikAcg",
+  "vid": "DqdCDpikAcg",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--alsayed-mut-738",
+  "n": 27,
+  "n_src": "trfile",
+  "title": "سيرة رسول الله ﷺ 26 ｜ الحصار الاقتصادي والأمني للنبي ﷺ وبني هاشم والمطلب ｜ أحمد",
+  "title_src": "filename",
+  "sha256": "1b064ec2d48df2b40ed1e19a1a0b388473de3074155ca99cb2e6f4345d07f686",
+  "nh": "acb9f0149cde1e2629f71802ff7d2e45b7ab00fb520c1d2f7c3b578ab7ec7855",
+  "chars": 46876,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/alsayed/mut-738/027_سيرة رسول الله ﷺ 26 ｜ الحصار الاقتصادي والأمني للنبي ﷺ وبني هاشم والمطلب ｜ أحمد .txt",
+    "commit_ts": 1791841974,
+    "head": "8a8b281"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-738/027.txt",
-   "sha256": "c1e6115fed8165b259751a94caa7cda084a991d72ce80144900fc9c708f49d9b",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alsayed/mut-738/027_سيرة رسول الله ﷺ 26 ｜ الحصار الاقتصادي والأمني للنبي ﷺ وبني هاشم والمطلب ｜ أحمد .txt",
+      "sha256": "1b064ec2d48df2b40ed1e19a1a0b388473de3074155ca99cb2e6f4345d07f686",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-738/027.txt",
+      "sha256": "c1e6115fed8165b259751a94caa7cda084a991d72ce80144900fc9c708f49d9b",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9995,
+    "spoken_align_pct": 99.95,
+    "audio_span_pct": 99.91,
+    "words": 9185,
+    "aligned": 9180,
+    "interpolated": 5,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 14:38"
   }
- ],
- "variants": [],
- "also_in": []
 }

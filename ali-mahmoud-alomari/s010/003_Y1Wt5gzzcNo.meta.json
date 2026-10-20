@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:Y1Wt5gzzcNo",
- "vid": "Y1Wt5gzzcNo",
- "sheikh": "ali-mahmoud-alomari",
- "row_id": "ali-mahmoud-alomari--alamri-mughni",
- "n": 3,
- "n_src": "trfile",
- "title": "تتمة الدرس الثاني/ مغني الطلاب شرح متن إيساغوجي",
- "title_src": "yt_titles",
- "sha256": "66d721828da2d68fd321db99c152e5ba2f8bc06f9d97d13ce3d4c0321090ce2c",
- "nh": "7cabb59d153fe230273ae2d47a9b3687b6097e9bf91bbd200ee24305bb7ed108",
- "chars": 5353,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/alamriMughni-003/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/alamriMughni-003/transcript.txt",
-   "sha256": "7380fd7dc103c30c857d989d1acddb0823bc8b778b411b63e452c51a05e2dcf5",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:Y1Wt5gzzcNo",
+  "vid": "Y1Wt5gzzcNo",
+  "sheikh": "ali-mahmoud-alomari",
+  "row_id": "ali-mahmoud-alomari--alamri-mughni",
+  "n": 3,
+  "n_src": "trfile",
+  "title": "تتمة الدرس الثاني/ مغني الطلاب شرح متن إيساغوجي",
+  "title_src": "yt_titles",
+  "sha256": "66d721828da2d68fd321db99c152e5ba2f8bc06f9d97d13ce3d4c0321090ce2c",
+  "nh": "7cabb59d153fe230273ae2d47a9b3687b6097e9bf91bbd200ee24305bb7ed108",
+  "chars": 5353,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/alamriMughni-003/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alamri/mughni/mughni-03_AlAmri.txt",
-   "sha256": "7380fd7dc103c30c857d989d1acddb0823bc8b778b411b63e452c51a05e2dcf5",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/alamriMughni-003/transcript.txt",
+      "sha256": "7380fd7dc103c30c857d989d1acddb0823bc8b778b411b63e452c51a05e2dcf5",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alamri/mughni/mughni-03_AlAmri.txt",
+      "sha256": "7380fd7dc103c30c857d989d1acddb0823bc8b778b411b63e452c51a05e2dcf5",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alamri-mughni/03.txt",
+      "sha256": "7380fd7dc103c30c857d989d1acddb0823bc8b778b411b63e452c51a05e2dcf5",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "cleaned": {
+    "what": "english_agent_preamble_removed",
+    "removed_chars": 75,
+    "when": "2026-10-14 13:09:26",
+    "archive": "_fix/english-preamble/ali-mahmoud-alomari__alamri-mughni__003_Y1Wt5gzzcNo.txt.orig"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alamri-mughni/03.txt",
-   "sha256": "7380fd7dc103c30c857d989d1acddb0823bc8b778b411b63e452c51a05e2dcf5",
-   "rel": "identical"
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9981,
+    "spoken_align_pct": 99.81,
+    "audio_span_pct": 99.96,
+    "words": 1031,
+    "aligned": 1025,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 14:39"
   }
- ],
- "variants": [],
- "also_in": [],
- "cleaned": {
-  "what": "english_agent_preamble_removed",
-  "removed_chars": 75,
-  "when": "2026-10-14 13:09:26",
-  "archive": "_fix/english-preamble/ali-mahmoud-alomari__alamri-mughni__003_Y1Wt5gzzcNo.txt.orig"
- }
 }
