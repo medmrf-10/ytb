@@ -1,6 +1,6 @@
 {
-  "aligned": 17,
-  "aligned_ratio": 0.9444,
+  "aligned": 18,
+  "aligned_ratio": 1.0,
   "category": "البلاغة والبيان",
   "coverage": 1.0,
   "declared_total": 18,
@@ -194,10 +194,10 @@
       "vid": "k0F76qYqXLg"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 15743,
-      "dur": 1838,
+      "dur": 1839,
       "file": "018_yWo27wVi9no.txt",
       "n": 18,
       "stem": "018_yWo27wVi9no",

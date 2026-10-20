@@ -1,15 +1,15 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 7,
+  "aligned_ratio": 0.3889,
   "category": "النحو والإعراب",
   "coverage": 1.0,
   "declared_total": 18,
   "key": "s017",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 32351,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 32277,
       "dur": 3077,
       "file": "001_iUeBAhtSWOE.txt",
       "n": 1,
@@ -18,10 +18,10 @@
       "vid": "iUeBAhtSWOE"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 30881,
-      "dur": 2854,
+      "dur": 2855,
       "file": "002_mTMdO3uVmEg.txt",
       "n": 2,
       "stem": "002_mTMdO3uVmEg",
@@ -29,10 +29,10 @@
       "vid": "mTMdO3uVmEg"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 44048,
-      "dur": 4379,
+      "dur": 4380,
       "file": "003_zq3vzijbmww.txt",
       "n": 3,
       "stem": "003_zq3vzijbmww",
@@ -40,10 +40,10 @@
       "vid": "zq3vzijbmww"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 45112,
-      "dur": 4379,
+      "dur": 4380,
       "file": "004_TmpaEzEks18.txt",
       "n": 4,
       "stem": "004_TmpaEzEks18",
@@ -51,8 +51,8 @@
       "vid": "TmpaEzEks18"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 19722,
       "dur": 1921,
       "file": "005_Wz7O9nCFiPU.txt",
@@ -73,10 +73,10 @@
       "vid": "m3aDgt_yw0w"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 37813,
-      "dur": 3658,
+      "dur": 3659,
       "file": "007_lm6eAzkzMp8.txt",
       "n": 7,
       "stem": "007_lm6eAzkzMp8",
@@ -84,8 +84,8 @@
       "vid": "lm6eAzkzMp8"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 20498,
       "dur": 2131,
       "file": "008_exhFEp9yyCM.txt",

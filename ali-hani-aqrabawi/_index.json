@@ -31,14 +31,14 @@
       "transcribed": 15
     },
     {
-      "aligned": 0,
-      "aligned_pct": "0.0%",
+      "aligned": 7,
+      "aligned_pct": "38.9%",
       "category": "النحو والإعراب",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
       "declared_total": 18,
       "dir": "s017/",
-      "dur": 46915,
+      "dur": 46919,
       "key": "s017",
       "series_id": "alihani__s017",
       "title": "نحو (14): شرح السيوطي على ألفية ابن مالك (البهجة المرضية)",
@@ -87,14 +87,14 @@
       "transcribed": 11
     },
     {
-      "aligned": 17,
-      "aligned_pct": "94.4%",
+      "aligned": 18,
+      "aligned_pct": "100.0%",
       "category": "البلاغة والبيان",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
       "declared_total": 18,
       "dir": "s030/",
-      "dur": 44037,
+      "dur": 44038,
       "key": "s030",
       "series_id": "alihani__s030",
       "title": "بلاغة (2-أ): شرح تحفة الإخوان في علم البيان لأحمد الدردير",
@@ -201,8 +201,8 @@
   ],
   "slug": "ali-hani-aqrabawi",
   "totals": {
-    "aligned": 81,
-    "chars": 5289174,
+    "aligned": 89,
+    "chars": 5289100,
     "lessons": 197,
     "series": 14
   },
