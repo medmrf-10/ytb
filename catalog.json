@@ -1,8 +1,8 @@
 {
   "sheikhs": [
     {
-      "aligned": 177,
-      "chars": 20562851,
+      "aligned": 191,
+      "chars": 20562768,
       "lessons": 1165,
       "name": "محمد سعيد رمضان البوطي",
       "path": "said-bouti/",
@@ -416,14 +416,14 @@
           "transcribed": 24
         },
         {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
+          "aligned": 14,
+          "aligned_pct": "63.6%",
           "category": "خطب الجمعة والمحاضرات",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 22,
           "dir": "s057/",
-          "dur": 31602,
+          "dur": 31606,
           "key": "s057",
           "series_id": "bouti__s057",
           "title": "خطب الجمعة والعيدين — عام 2010 م",
@@ -5235,8 +5235,8 @@
       "slug": "ayman-abdelrahim"
     },
     {
-      "aligned": 82,
-      "chars": 1847579,
+      "aligned": 92,
+      "chars": 1847415,
       "lessons": 92,
       "name": "معاذ سعيد حوى",
       "path": "maath-hawa/",
@@ -5286,14 +5286,14 @@
           "transcribed": 11
         },
         {
-          "aligned": 12,
-          "aligned_pct": "54.5%",
+          "aligned": 22,
+          "aligned_pct": "100.0%",
           "category": "خطب ومحاضرات",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 22,
           "dir": "khutab_jumuah/",
-          "dur": 30074,
+          "dur": 30079,
           "key": "khutab_jumuah",
           "series_id": "hawwa__khutab_jumuah",
           "title": "خطب الجمعة",
@@ -5706,8 +5706,8 @@
     }
   ],
   "totals": {
-    "aligned": 2093,
-    "chars": 156202748,
+    "aligned": 2117,
+    "chars": 156202501,
     "lessons": 6589,
     "series": 386,
     "sheikhs": 25

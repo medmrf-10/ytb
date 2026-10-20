@@ -9,8 +9,8 @@
 - **المشايخ ذوو المحتوى الفعلي:** 25 شيخاً
 - **السلاسل المفرّغة:** 386 سلسلة
 - **الدروس المفرّغة نصياً (`.txt`):** 6,589 درساً
-- **الدروس المحاذاة صوتياً (`.align.json`):** 2,093 درساً
-- **إجمالي الحجم النصي:** 156,202,748 حرفاً
+- **الدروس المحاذاة صوتياً (`.align.json`):** 2,117 درساً
+- **إجمالي الحجم النصي:** 156,202,501 حرفاً
 
 ---
 
@@ -18,7 +18,7 @@
 
 | # | الشيخ | المعرّف (`Slug`) | السلاسل | الدروس المفرغة (`.txt`) | الدروس المحاذاة (`.align.json`) | المجلد |
 |---:|---|---|---:|---:|---:|---|
-| 1 | محمد سعيد رمضان البوطي | `said-bouti` | 34 | 1,165 | 177 | [`said-bouti/`](./said-bouti/) |
+| 1 | محمد سعيد رمضان البوطي | `said-bouti` | 34 | 1,165 | 191 | [`said-bouti/`](./said-bouti/) |
 | 2 | محمد متولي الشعراوي | `sharawi` | 48 | 648 | 274 | [`sharawi/`](./sharawi/) |
 | 3 | أدهم العاسمي | `adham-alasimi` | 29 | 546 | 55 | [`adham-alasimi/`](./adham-alasimi/) |
 | 4 | أحمد السيد | `ahmed-alsayed` | 34 | 483 | 211 | [`ahmed-alsayed/`](./ahmed-alsayed/) |
@@ -33,7 +33,7 @@
 | 13 | مولود السريري | `mouloud-sariri` | 17 | 214 | 106 | [`mouloud-sariri/`](./mouloud-sariri/) |
 | 14 | علي هاني العقرباوي | `ali-hani-aqrabawi` | 14 | 197 | 140 | [`ali-hani-aqrabawi/`](./ali-hani-aqrabawi/) |
 | 15 | أيمن عبد الرحيم | `ayman-abdelrahim` | 20 | 130 | 119 | [`ayman-abdelrahim/`](./ayman-abdelrahim/) |
-| 16 | معاذ سعيد حوى | `maath-hawa` | 7 | 92 | 82 | [`maath-hawa/`](./maath-hawa/) |
+| 16 | معاذ سعيد حوى | `maath-hawa` | 7 | 92 | 92 | [`maath-hawa/`](./maath-hawa/) |
 | 17 | فاضل سليمان | `fadhel-sulaiman` | 3 | 89 | 0 | [`fadhel-sulaiman/`](./fadhel-sulaiman/) |
 | 18 | سيف العصري | `saif-alasri` | 1 | 56 | 0 | [`saif-alasri/`](./saif-alasri/) |
 | 19 | أبو بكر المشهور | `aboubakr-almashhour` | 6 | 39 | 0 | [`aboubakr-almashhour/`](./aboubakr-almashhour/) |
