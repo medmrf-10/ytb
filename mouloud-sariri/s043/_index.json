@@ -2,7 +2,7 @@
   "aligned": 0,
   "aligned_ratio": 0.0,
   "category": "الخطب والوعظ",
-  "coverage": 0.575,
+  "coverage": 0.585,
   "declared_total": 200,
   "key": "s043",
   "lessons": [
@@ -1270,12 +1270,34 @@
       "stem": "117_psHeqjjNssI",
       "title": "خطب منبرية(مميزة) : \" إنما المومنون إخوة \" / الشيخ العلامة مولود السريري",
       "vid": "psHeqjjNssI"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 14470,
+      "dur": 1888,
+      "file": "119_uJKNPOjkCf4.txt",
+      "n": 119,
+      "stem": "119_uJKNPOjkCf4",
+      "title": "خطب منبرية : \" مفاسد الجهل بأحكام الشرع  \" / الشيخ العلامة مولود السريري",
+      "vid": "uJKNPOjkCf4"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 12644,
+      "dur": 1637,
+      "file": "120_Fz_2rOVNlUs.txt",
+      "n": 120,
+      "stem": "120_Fz_2rOVNlUs",
+      "title": "خطب منبرية : \" الحرمان من النعم \" / الشيخ العلامة مولود السريري",
+      "vid": "Fz_2rOVNlUs"
     }
   ],
   "series_id": "sariri__s043",
   "sheikh": "mouloud-sariri",
   "sheikh_name": "مولود السريري",
   "title": "خطب منبرية وخطب الجمعة",
-  "transcribed": 115,
+  "transcribed": 117,
   "v": 2
 }
