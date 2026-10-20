@@ -1,6 +1,6 @@
 {
-  "aligned": 27,
-  "aligned_ratio": 0.9643,
+  "aligned": 28,
+  "aligned_ratio": 1.0,
   "category": "برامج وحوارات",
   "coverage": 1.0,
   "declared_total": 28,
@@ -304,8 +304,8 @@
       "vid": "JhdUOHWVdCY"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 43113,
       "dur": 3359,
       "file": "028_MvuQUiyiXHE.txt",
