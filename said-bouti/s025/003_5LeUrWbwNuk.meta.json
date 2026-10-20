@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:5LeUrWbwNuk",
- "vid": "5LeUrWbwNuk",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--346",
- "n": 4,
- "n_src": "plpos",
- "title": "3 - رحلة الخلود | العلامة البوطي | الإيمان بيوم القيامة",
- "title_src": "yt_titles",
- "sha256": "4a3dfe154d5e78c2f57db0a50846b2e7516b6dfdc73e4e5d74b4a2cd3fcbb150",
- "nh": "61167e8608878a275c1ac09b6b681742126291937f06a7c03887fb0e6cad506a",
- "chars": 14018,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/346/004_3 - رحلة الخلود ｜ العلامة البوطي ｜ الإيمان بيوم القيامة.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/346/004_3 - رحلة الخلود ｜ العلامة البوطي ｜ الإيمان بيوم القيامة.txt",
-   "sha256": "4a3dfe154d5e78c2f57db0a50846b2e7516b6dfdc73e4e5d74b4a2cd3fcbb150",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:5LeUrWbwNuk",
+  "vid": "5LeUrWbwNuk",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--346",
+  "n": 4,
+  "n_src": "plpos",
+  "title": "3 - رحلة الخلود | العلامة البوطي | الإيمان بيوم القيامة",
+  "title_src": "yt_titles",
+  "sha256": "4a3dfe154d5e78c2f57db0a50846b2e7516b6dfdc73e4e5d74b4a2cd3fcbb150",
+  "nh": "61167e8608878a275c1ac09b6b681742126291937f06a7c03887fb0e6cad506a",
+  "chars": 14018,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/346/004_3 - رحلة الخلود ｜ العلامة البوطي ｜ الإيمان بيوم القيامة.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/ri7latEl5oloud-004/transcript.txt",
-   "sha256": "ec26f8f0395b6da42d261a86e84a637c998dc7584112fa6f82a38a06ecd22d67",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-rihla/04.txt",
-   "sha256": "ec26f8f0395b6da42d261a86e84a637c998dc7584112fa6f82a38a06ecd22d67",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/346/3.txt",
-   "sha256": "4a3dfe154d5e78c2f57db0a50846b2e7516b6dfdc73e4e5d74b4a2cd3fcbb150",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/346/004_3 - رحلة الخلود ｜ العلامة البوطي ｜ الإيمان بيوم القيامة.txt",
+      "sha256": "4a3dfe154d5e78c2f57db0a50846b2e7516b6dfdc73e4e5d74b4a2cd3fcbb150",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/ri7latEl5oloud-004/transcript.txt",
+      "sha256": "ec26f8f0395b6da42d261a86e84a637c998dc7584112fa6f82a38a06ecd22d67",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-rihla/04.txt",
+      "sha256": "ec26f8f0395b6da42d261a86e84a637c998dc7584112fa6f82a38a06ecd22d67",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/346/3.txt",
+      "sha256": "4a3dfe154d5e78c2f57db0a50846b2e7516b6dfdc73e4e5d74b4a2cd3fcbb150",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.38,
+    "words": 2560,
+    "aligned": 2548,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 08:28"
   }
- ],
- "variants": [],
- "also_in": []
 }

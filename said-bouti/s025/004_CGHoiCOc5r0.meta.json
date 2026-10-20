@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:CGHoiCOc5r0",
- "vid": "CGHoiCOc5r0",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--346",
- "n": 5,
- "n_src": "plpos",
- "title": "4 - رحلة الخلود | العلامة البوطي | أول أحداث يوم القيامة : البعث",
- "title_src": "yt_titles",
- "sha256": "a0a5d75eb587898f9691e801dff0dd5a74fd5e6d883e362a76d7980911bb42f7",
- "nh": "da7f9a7e8d3b9bea5f9a16988141b45037fada6ca5e110459f4d0a03a7c93cbf",
- "chars": 12962,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/346/005_4 - رحلة الخلود ｜ العلامة البوطي ｜ أول أحداث يوم القيامة ： البعث.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/346/005_4 - رحلة الخلود ｜ العلامة البوطي ｜ أول أحداث يوم القيامة ： البعث.txt",
-   "sha256": "a0a5d75eb587898f9691e801dff0dd5a74fd5e6d883e362a76d7980911bb42f7",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:CGHoiCOc5r0",
+  "vid": "CGHoiCOc5r0",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--346",
+  "n": 5,
+  "n_src": "plpos",
+  "title": "4 - رحلة الخلود | العلامة البوطي | أول أحداث يوم القيامة : البعث",
+  "title_src": "yt_titles",
+  "sha256": "a0a5d75eb587898f9691e801dff0dd5a74fd5e6d883e362a76d7980911bb42f7",
+  "nh": "da7f9a7e8d3b9bea5f9a16988141b45037fada6ca5e110459f4d0a03a7c93cbf",
+  "chars": 12962,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/346/005_4 - رحلة الخلود ｜ العلامة البوطي ｜ أول أحداث يوم القيامة ： البعث.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/ri7latEl5oloud-005/transcript.txt",
-   "sha256": "89f08d2ab83a0271534d9655f723a59fbe4fb4a5ebb806f348dff5e6e00a9576",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-rihla/05.txt",
-   "sha256": "89f08d2ab83a0271534d9655f723a59fbe4fb4a5ebb806f348dff5e6e00a9576",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/346/4.txt",
-   "sha256": "a0a5d75eb587898f9691e801dff0dd5a74fd5e6d883e362a76d7980911bb42f7",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/346/005_4 - رحلة الخلود ｜ العلامة البوطي ｜ أول أحداث يوم القيامة ： البعث.txt",
+      "sha256": "a0a5d75eb587898f9691e801dff0dd5a74fd5e6d883e362a76d7980911bb42f7",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/ri7latEl5oloud-005/transcript.txt",
+      "sha256": "89f08d2ab83a0271534d9655f723a59fbe4fb4a5ebb806f348dff5e6e00a9576",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-rihla/05.txt",
+      "sha256": "89f08d2ab83a0271534d9655f723a59fbe4fb4a5ebb806f348dff5e6e00a9576",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/346/4.txt",
+      "sha256": "a0a5d75eb587898f9691e801dff0dd5a74fd5e6d883e362a76d7980911bb42f7",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9988,
+    "spoken_align_pct": 99.88,
+    "audio_span_pct": 99.33,
+    "words": 2405,
+    "aligned": 2402,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 08:28"
   }
- ],
- "variants": [],
- "also_in": []
 }

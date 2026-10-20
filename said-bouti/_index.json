@@ -297,14 +297,14 @@
       "transcribed": 11
     },
     {
-      "aligned": 0,
-      "aligned_pct": "0.0%",
+      "aligned": 6,
+      "aligned_pct": "27.3%",
       "category": "العقيدة والفكر الإسلامي",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
       "declared_total": 22,
       "dir": "s025/",
-      "dur": 37153,
+      "dur": 37151,
       "key": "s025",
       "series_id": "bouti__s025",
       "title": "برنامج رحلة الخلود (الموت والدار الآخرة)",
@@ -409,8 +409,8 @@
       "transcribed": 24
     },
     {
-      "aligned": 18,
-      "aligned_pct": "81.8%",
+      "aligned": 22,
+      "aligned_pct": "100.0%",
       "category": "خطب الجمعة والمحاضرات",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
@@ -481,7 +481,7 @@
   ],
   "slug": "said-bouti",
   "totals": {
-    "aligned": 195,
+    "aligned": 205,
     "chars": 20562740,
     "lessons": 1165,
     "series": 34
