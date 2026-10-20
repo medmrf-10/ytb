@@ -2,7 +2,7 @@
   "aligned": 0,
   "aligned_ratio": 0.0,
   "category": "الخطب والوعظ",
-  "coverage": 0.5,
+  "coverage": 0.505,
   "declared_total": 200,
   "key": "s043",
   "lessons": [
@@ -1105,12 +1105,23 @@
       "stem": "101_ThMDSV1aUvk",
       "title": "خطب منبرية : \"فضل الإصلاح بين الناس \" / الشيخ العلامة مولود السريري",
       "vid": "ThMDSV1aUvk"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 12433,
+      "dur": 1635,
+      "file": "104_mI4HstINW1A.txt",
+      "n": 104,
+      "stem": "104_mI4HstINW1A",
+      "title": "خطب منبرية : \"نعمة الابتلاء \" / الشيخ العلامة مولود السريري",
+      "vid": "mI4HstINW1A"
     }
   ],
   "series_id": "sariri__s043",
   "sheikh": "mouloud-sariri",
   "sheikh_name": "مولود السريري",
   "title": "خطب منبرية وخطب الجمعة",
-  "transcribed": 100,
+  "transcribed": 101,
   "v": 2
 }

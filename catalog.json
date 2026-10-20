@@ -1827,7 +1827,7 @@
       "slug": "habib-omar-ibn-hafiz"
     },
     {
-      "aligned": 291,
+      "aligned": 294,
       "chars": 18506022,
       "lessons": 483,
       "name": "أحمد السيد",
@@ -1892,14 +1892,14 @@
           "transcribed": 12
         },
         {
-          "aligned": 20,
-          "aligned_pct": "64.5%",
+          "aligned": 23,
+          "aligned_pct": "74.2%",
           "category": "تفسير وتدبر",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 31,
           "dir": "s022/",
-          "dur": 97572,
+          "dur": 97574,
           "key": "s022",
           "series_id": "sayed__s022",
           "title": "مقاصد السور القرآنية",
@@ -4500,8 +4500,8 @@
     },
     {
       "aligned": 106,
-      "chars": 4636727,
-      "lessons": 229,
+      "chars": 4649160,
+      "lessons": 230,
       "name": "مولود السريري",
       "path": "mouloud-sariri/",
       "photo": "_meta/img/mouloud-sariri.jpg",
@@ -4735,15 +4735,15 @@
           "aligned": 0,
           "aligned_pct": "0.0%",
           "category": "الخطب والوعظ",
-          "coverage": 0.5,
-          "coverage_pct": "50.0%",
+          "coverage": 0.505,
+          "coverage_pct": "50.5%",
           "declared_total": 200,
           "dir": "s043/",
-          "dur": 151726,
+          "dur": 153361,
           "key": "s043",
           "series_id": "sariri__s043",
           "title": "خطب منبرية وخطب الجمعة",
-          "transcribed": 100
+          "transcribed": 101
         }
       ],
       "slug": "mouloud-sariri"
@@ -5720,9 +5720,9 @@
     }
   ],
   "totals": {
-    "aligned": 2842,
-    "chars": 157398719,
-    "lessons": 6674,
+    "aligned": 2845,
+    "chars": 157411152,
+    "lessons": 6675,
     "series": 387,
     "sheikhs": 25
   },
