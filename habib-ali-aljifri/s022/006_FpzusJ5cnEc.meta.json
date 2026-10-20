@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:FpzusJ5cnEc",
- "vid": "FpzusJ5cnEc",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--114",
- "n": 6,
- "n_src": "read",
- "title": "الإنسانية قبل التدين ｜ الحلقة 6 - مفهوم الإنسان الكامل ｜ علي الجفري ｜ English Su",
- "title_src": "filename",
- "sha256": "ee4d88ddf5536fbc183c1e4f8111b6107d1265bc2a848a15538015dde26153a1",
- "nh": "dcd0964047da3e2c8ae2ba5bbbc56df6258900eb2d04bee6db73c8f51447e278",
- "chars": 9871,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/114/006_الإنسانية قبل التدين ｜ الحلقة 6 - مفهوم الإنسان الكامل ｜ علي الجفري ｜ English Su.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/114/006_الإنسانية قبل التدين ｜ الحلقة 6 - مفهوم الإنسان الكامل ｜ علي الجفري ｜ English Su.txt",
-   "sha256": "ee4d88ddf5536fbc183c1e4f8111b6107d1265bc2a848a15538015dde26153a1",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:FpzusJ5cnEc",
+  "vid": "FpzusJ5cnEc",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--114",
+  "n": 6,
+  "n_src": "read",
+  "title": "الإنسانية قبل التدين ｜ الحلقة 6 - مفهوم الإنسان الكامل ｜ علي الجفري ｜ English Su",
+  "title_src": "filename",
+  "sha256": "ee4d88ddf5536fbc183c1e4f8111b6107d1265bc2a848a15538015dde26153a1",
+  "nh": "dcd0964047da3e2c8ae2ba5bbbc56df6258900eb2d04bee6db73c8f51447e278",
+  "chars": 9871,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/114/006_الإنسانية قبل التدين ｜ الحلقة 6 - مفهوم الإنسان الكامل ｜ علي الجفري ｜ English Su.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/114/5.txt",
-   "sha256": "ee4d88ddf5536fbc183c1e4f8111b6107d1265bc2a848a15538015dde26153a1",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/114/006_الإنسانية قبل التدين ｜ الحلقة 6 - مفهوم الإنسان الكامل ｜ علي الجفري ｜ English Su.txt",
+      "sha256": "ee4d88ddf5536fbc183c1e4f8111b6107d1265bc2a848a15538015dde26153a1",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/114/5.txt",
+      "sha256": "ee4d88ddf5536fbc183c1e4f8111b6107d1265bc2a848a15538015dde26153a1",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9983,
+    "spoken_align_pct": 99.83,
+    "audio_span_pct": 94.27,
+    "words": 1775,
+    "aligned": 1772,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 16:02"
   }
- ],
- "variants": [],
- "also_in": []
 }

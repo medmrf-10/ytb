@@ -1,39 +1,52 @@
 {
- "v": 1,
- "lid": "yt:ZFdhS30B8fg",
- "vid": "ZFdhS30B8fg",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--114",
- "n": 14,
- "n_src": "read",
- "title": "الإنسانية قبل التدين ｜ الحلقة 13- إنسانية العفو والمسامحة ｜ علي الجفري ｜ Englis",
- "title_src": "filename",
- "sha256": "bfbeae031612c0bc5ae2cb0680fce55705ac2d2162d5d76f7783427aed7821ae",
- "nh": "f6359c58ad1704952474d7dfdd3d4ca155e5dd93f892f84e0bbd9f19046c1c75",
- "chars": 10615,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/114/014_الإنسانية قبل التدين ｜ الحلقة 13- إنسانية العفو والمسامحة  ｜ علي الجفري ｜ Englis.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/114/014_الإنسانية قبل التدين ｜ الحلقة 13- إنسانية العفو والمسامحة  ｜ علي الجفري ｜ Englis.txt",
-   "sha256": "bfbeae031612c0bc5ae2cb0680fce55705ac2d2162d5d76f7783427aed7821ae",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:ZFdhS30B8fg",
+  "vid": "ZFdhS30B8fg",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--114",
+  "n": 14,
+  "n_src": "read",
+  "title": "الإنسانية قبل التدين ｜ الحلقة 13- إنسانية العفو والمسامحة ｜ علي الجفري ｜ Englis",
+  "title_src": "filename",
+  "sha256": "bfbeae031612c0bc5ae2cb0680fce55705ac2d2162d5d76f7783427aed7821ae",
+  "nh": "f6359c58ad1704952474d7dfdd3d4ca155e5dd93f892f84e0bbd9f19046c1c75",
+  "chars": 10615,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/114/014_الإنسانية قبل التدين ｜ الحلقة 13- إنسانية العفو والمسامحة  ｜ علي الجفري ｜ Englis.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/114/13.txt",
-   "sha256": "b642add4881407054bddad7974a287b3a3c8f58081ad058ea5409bddbae4e734",
-   "rel": "variant"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/114/014_الإنسانية قبل التدين ｜ الحلقة 13- إنسانية العفو والمسامحة  ｜ علي الجفري ｜ Englis.txt",
+      "sha256": "bfbeae031612c0bc5ae2cb0680fce55705ac2d2162d5d76f7783427aed7821ae",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/114/13.txt",
+      "sha256": "b642add4881407054bddad7974a287b3a3c8f58081ad058ea5409bddbae4e734",
+      "rel": "variant"
+    }
+  ],
+  "variants": [
+    "_variants/014_ZFdhS30B8fg.des-dur.txt"
+  ],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9995,
+    "spoken_align_pct": 99.95,
+    "audio_span_pct": 93.52,
+    "words": 1961,
+    "aligned": 1960,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 16:05"
   }
- ],
- "variants": [
-  "_variants/014_ZFdhS30B8fg.des-dur.txt"
- ],
- "also_in": []
 }

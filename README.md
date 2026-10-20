@@ -7,10 +7,10 @@
 ## 1. الإحصاءات العامة
 
 - **المشايخ ذوو المحتوى الفعلي:** 25 شيخاً
-- **السلاسل المفرّغة:** 386 سلسلة
-- **الدروس المفرّغة نصياً (`.txt`):** 6,589 درساً
-- **الدروس المحاذاة صوتياً (`.align.json`):** 2,544 درساً
-- **إجمالي الحجم النصي:** 156,138,248 حرفاً
+- **السلاسل المفرّغة:** 387 سلسلة
+- **الدروس المفرّغة نصياً (`.txt`):** 6,593 درساً
+- **الدروس المحاذاة صوتياً (`.align.json`):** 2,570 درساً
+- **إجمالي الحجم النصي:** 156,184,454 حرفاً
 
 ---
 
@@ -22,9 +22,9 @@
 | 2 | محمد متولي الشعراوي | `sharawi` | 48 | 648 | 305 | [`sharawi/`](./sharawi/) |
 | 3 | أدهم العاسمي | `adham-alasimi` | 29 | 546 | 104 | [`adham-alasimi/`](./adham-alasimi/) |
 | 4 | أحمد السيد | `ahmed-alsayed` | 34 | 483 | 284 | [`ahmed-alsayed/`](./ahmed-alsayed/) |
-| 5 | الحبيب علي الجفري | `habib-ali-aljifri` | 23 | 471 | 30 | [`habib-ali-aljifri/`](./habib-ali-aljifri/) |
+| 5 | الحبيب علي الجفري | `habib-ali-aljifri` | 23 | 471 | 56 | [`habib-ali-aljifri/`](./habib-ali-aljifri/) |
 | 6 | فاضل السامرائي | `fadhel-samarrai` | 42 | 460 | 426 | [`fadhel-samarrai/`](./fadhel-samarrai/) |
-| 7 | الحبيب عمر بن حفيظ | `habib-omar-ibn-hafiz` | 15 | 450 | 95 | [`habib-omar-ibn-hafiz/`](./habib-omar-ibn-hafiz/) |
+| 7 | الحبيب عمر بن حفيظ | `habib-omar-ibn-hafiz` | 16 | 454 | 95 | [`habib-omar-ibn-hafiz/`](./habib-omar-ibn-hafiz/) |
 | 8 | ذاكر الهاشمي | `dhaker-alhashimi` | 20 | 348 | 95 | [`dhaker-alhashimi/`](./dhaker-alhashimi/) |
 | 9 | محمد البردوني الحسيمي | `bardouni-husaymi` | 16 | 343 | 120 | [`bardouni-husaymi/`](./bardouni-husaymi/) |
 | 10 | علي جمعة | `ali-gomaa` | 14 | 276 | 51 | [`ali-gomaa/`](./ali-gomaa/) |

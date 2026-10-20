@@ -73,6 +73,20 @@
       "transcribed": 11
     },
     {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "الخطب والمحاضرات",
+      "coverage": 0.0119,
+      "coverage_pct": "1.2%",
+      "declared_total": 337,
+      "dir": "khutab_jumaa/",
+      "dur": 6080,
+      "key": "khutab_jumaa",
+      "series_id": "hafiz__khutab_jumaa",
+      "title": "خطب الجمعة والعيدين والكسوف والخسوف",
+      "transcribed": 4
+    },
+    {
       "aligned": 19,
       "aligned_pct": "100.0%",
       "category": "التزكية والسلوك",
@@ -216,9 +230,9 @@
   "slug": "habib-omar-ibn-hafiz",
   "totals": {
     "aligned": 95,
-    "chars": 8362841,
-    "lessons": 450,
-    "series": 15
+    "chars": 8409070,
+    "lessons": 454,
+    "series": 16
   },
   "v": 2
 }

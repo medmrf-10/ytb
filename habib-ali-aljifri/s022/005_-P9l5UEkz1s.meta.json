@@ -1,39 +1,52 @@
 {
- "v": 1,
- "lid": "yt:-P9l5UEkz1s",
- "vid": "-P9l5UEkz1s",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--114",
- "n": 5,
- "n_src": "read",
- "title": "الإنسانية قبل التدين ｜ الحلقة 5 - هل للأخلاق والقيم صلة بالدين؟ ｜ علي الجفري ｜ E",
- "title_src": "filename",
- "sha256": "c1c88ca95ae5afdbd0bccbf62db367d7cb7a3889b7e386752c04b332302f2aaa",
- "nh": "43cd9724d816aaef2d846dc09880202eeae9f2be0eee128e9af7d3a5af772b79",
- "chars": 9153,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/114/005_الإنسانية قبل التدين ｜ الحلقة 5 - هل للأخلاق والقيم صلة بالدين؟ ｜ علي الجفري ｜ E.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/114/005_الإنسانية قبل التدين ｜ الحلقة 5 - هل للأخلاق والقيم صلة بالدين؟ ｜ علي الجفري ｜ E.txt",
-   "sha256": "c1c88ca95ae5afdbd0bccbf62db367d7cb7a3889b7e386752c04b332302f2aaa",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:-P9l5UEkz1s",
+  "vid": "-P9l5UEkz1s",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--114",
+  "n": 5,
+  "n_src": "read",
+  "title": "الإنسانية قبل التدين ｜ الحلقة 5 - هل للأخلاق والقيم صلة بالدين؟ ｜ علي الجفري ｜ E",
+  "title_src": "filename",
+  "sha256": "c1c88ca95ae5afdbd0bccbf62db367d7cb7a3889b7e386752c04b332302f2aaa",
+  "nh": "43cd9724d816aaef2d846dc09880202eeae9f2be0eee128e9af7d3a5af772b79",
+  "chars": 9153,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/114/005_الإنسانية قبل التدين ｜ الحلقة 5 - هل للأخلاق والقيم صلة بالدين؟ ｜ علي الجفري ｜ E.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/114/4.txt",
-   "sha256": "ab92ac4d5c2b2741dabb796728e6330a9307b0df1729ee70565a0fa14b9c6163",
-   "rel": "variant"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/114/005_الإنسانية قبل التدين ｜ الحلقة 5 - هل للأخلاق والقيم صلة بالدين؟ ｜ علي الجفري ｜ E.txt",
+      "sha256": "c1c88ca95ae5afdbd0bccbf62db367d7cb7a3889b7e386752c04b332302f2aaa",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/114/4.txt",
+      "sha256": "ab92ac4d5c2b2741dabb796728e6330a9307b0df1729ee70565a0fa14b9c6163",
+      "rel": "variant"
+    }
+  ],
+  "variants": [
+    "_variants/005_-P9l5UEkz1s.des-dur.txt"
+  ],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.65,
+    "words": 1640,
+    "aligned": 1640,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 16:01"
   }
- ],
- "variants": [
-  "_variants/005_-P9l5UEkz1s.des-dur.txt"
- ],
- "also_in": []
 }

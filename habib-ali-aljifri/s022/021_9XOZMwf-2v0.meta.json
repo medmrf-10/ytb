@@ -1,39 +1,52 @@
 {
- "v": 1,
- "lid": "yt:9XOZMwf-2v0",
- "vid": "9XOZMwf-2v0",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--114",
- "n": 22,
- "n_src": "read",
- "title": "الإنسانية قبل التدين ｜ الحلقة 21 - الجهاد الحق ｜ علي الجفري ｜",
- "title_src": "filename",
- "sha256": "dcf42339562e5b6d6a0488b1f4fe885470beb6a65a41541c7c8e710b666cb411",
- "nh": "4ee3f68a93b66b80055951912a12760dd4f19d643649b4f92c2cb84e9af8240a",
- "chars": 10145,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/114/022_الإنسانية قبل التدين ｜ الحلقة 21 - الجهاد الحق ｜ علي الجفري ｜ English Subtitle.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/114/022_الإنسانية قبل التدين ｜ الحلقة 21 - الجهاد الحق ｜ علي الجفري ｜ English Subtitle.txt",
-   "sha256": "dcf42339562e5b6d6a0488b1f4fe885470beb6a65a41541c7c8e710b666cb411",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:9XOZMwf-2v0",
+  "vid": "9XOZMwf-2v0",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--114",
+  "n": 22,
+  "n_src": "read",
+  "title": "الإنسانية قبل التدين ｜ الحلقة 21 - الجهاد الحق ｜ علي الجفري ｜",
+  "title_src": "filename",
+  "sha256": "dcf42339562e5b6d6a0488b1f4fe885470beb6a65a41541c7c8e710b666cb411",
+  "nh": "4ee3f68a93b66b80055951912a12760dd4f19d643649b4f92c2cb84e9af8240a",
+  "chars": 10145,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/114/022_الإنسانية قبل التدين ｜ الحلقة 21 - الجهاد الحق ｜ علي الجفري ｜ English Subtitle.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/114/21.txt",
-   "sha256": "a8a530b45248f8fc839b88445042f593edc9fff82e6a8aaa46cae848865ec37d",
-   "rel": "variant"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/114/022_الإنسانية قبل التدين ｜ الحلقة 21 - الجهاد الحق ｜ علي الجفري ｜ English Subtitle.txt",
+      "sha256": "dcf42339562e5b6d6a0488b1f4fe885470beb6a65a41541c7c8e710b666cb411",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/114/21.txt",
+      "sha256": "a8a530b45248f8fc839b88445042f593edc9fff82e6a8aaa46cae848865ec37d",
+      "rel": "variant"
+    }
+  ],
+  "variants": [
+    "_variants/022_9XOZMwf-2v0.des-dur.txt"
+  ],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 94.25,
+    "words": 1840,
+    "aligned": 1840,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 16:09"
   }
- ],
- "variants": [
-  "_variants/022_9XOZMwf-2v0.des-dur.txt"
- ],
- "also_in": []
 }

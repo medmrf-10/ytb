@@ -2079,8 +2079,8 @@
       "slug": "ahmed-alsayed"
     },
     {
-      "aligned": 30,
-      "chars": 6585319,
+      "aligned": 56,
+      "chars": 6585296,
       "lessons": 471,
       "name": "الحبيب علي الجفري",
       "path": "habib-ali-aljifri/",
@@ -2298,14 +2298,14 @@
           "transcribed": 30
         },
         {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
+          "aligned": 26,
+          "aligned_pct": "89.7%",
           "category": "برنامج فكري وتزكوي",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 29,
           "dir": "s022/",
-          "dur": 29068,
+          "dur": 29058,
           "key": "s022",
           "series_id": "jifri__s022",
           "title": "برنامج الإنسانية قبل التدين - الموسم الثاني (البرنامج الرمضاني - مترجم للإنجليزية)",
@@ -3014,12 +3014,12 @@
     },
     {
       "aligned": 95,
-      "chars": 8362841,
-      "lessons": 450,
+      "chars": 8409070,
+      "lessons": 454,
       "name": "الحبيب عمر بن حفيظ",
       "path": "habib-omar-ibn-hafiz/",
       "photo": "_meta/img/habib-omar-ibn-hafiz.jpg",
-      "series": 15,
+      "series": 16,
       "series_list": [
         {
           "aligned": 0,
@@ -3090,6 +3090,20 @@
           "series_id": "hafiz__khuluquna",
           "title": "شرح كتاب «خلقنا» للحبيب عمر بن حفيظ (Our Traits)",
           "transcribed": 11
+        },
+        {
+          "aligned": 0,
+          "aligned_pct": "0.0%",
+          "category": "الخطب والمحاضرات",
+          "coverage": 0.0119,
+          "coverage_pct": "1.2%",
+          "declared_total": 337,
+          "dir": "khutab_jumaa/",
+          "dur": 6080,
+          "key": "khutab_jumaa",
+          "series_id": "hafiz__khutab_jumaa",
+          "title": "خطب الجمعة والعيدين والكسوف والخسوف",
+          "transcribed": 4
         },
         {
           "aligned": 19,
@@ -5706,10 +5720,10 @@
     }
   ],
   "totals": {
-    "aligned": 2544,
-    "chars": 156138248,
-    "lessons": 6589,
-    "series": 386,
+    "aligned": 2570,
+    "chars": 156184454,
+    "lessons": 6593,
+    "series": 387,
     "sheikhs": 25
   },
   "v": 2

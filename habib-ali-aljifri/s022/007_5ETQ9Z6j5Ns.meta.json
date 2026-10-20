@@ -1,39 +1,52 @@
 {
- "v": 1,
- "lid": "yt:5ETQ9Z6j5Ns",
- "vid": "5ETQ9Z6j5Ns",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--114",
- "n": 7,
- "n_src": "read",
- "title": "الإنسانية قبل التدين ｜ الحلقة 7 - كيف تؤثر المحبة في الإنسانية ｜ علي الجفري ｜ En",
- "title_src": "filename",
- "sha256": "06539a4165fd67f570bd78a0743dfe6504194d198875884a1c26fa0f0916b444",
- "nh": "9803bf7fb1c486968e64284edd3d448efca4251c7321751c47d1c9218d4d1433",
- "chars": 10393,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/114/007_الإنسانية قبل التدين ｜ الحلقة 7 - كيف تؤثر المحبة في الإنسانية ｜ علي الجفري ｜ En.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/114/007_الإنسانية قبل التدين ｜ الحلقة 7 - كيف تؤثر المحبة في الإنسانية ｜ علي الجفري ｜ En.txt",
-   "sha256": "06539a4165fd67f570bd78a0743dfe6504194d198875884a1c26fa0f0916b444",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:5ETQ9Z6j5Ns",
+  "vid": "5ETQ9Z6j5Ns",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--114",
+  "n": 7,
+  "n_src": "read",
+  "title": "الإنسانية قبل التدين ｜ الحلقة 7 - كيف تؤثر المحبة في الإنسانية ｜ علي الجفري ｜ En",
+  "title_src": "filename",
+  "sha256": "06539a4165fd67f570bd78a0743dfe6504194d198875884a1c26fa0f0916b444",
+  "nh": "9803bf7fb1c486968e64284edd3d448efca4251c7321751c47d1c9218d4d1433",
+  "chars": 10393,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/114/007_الإنسانية قبل التدين ｜ الحلقة 7 - كيف تؤثر المحبة في الإنسانية ｜ علي الجفري ｜ En.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/114/6.txt",
-   "sha256": "cc6b56f7db538181277c66f80e11caf3a3cf6ac35d6b1ec34e32f83522360e7f",
-   "rel": "variant"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/114/007_الإنسانية قبل التدين ｜ الحلقة 7 - كيف تؤثر المحبة في الإنسانية ｜ علي الجفري ｜ En.txt",
+      "sha256": "06539a4165fd67f570bd78a0743dfe6504194d198875884a1c26fa0f0916b444",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/114/6.txt",
+      "sha256": "cc6b56f7db538181277c66f80e11caf3a3cf6ac35d6b1ec34e32f83522360e7f",
+      "rel": "variant"
+    }
+  ],
+  "variants": [
+    "_variants/007_5ETQ9Z6j5Ns.des-dur.txt"
+  ],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9984,
+    "spoken_align_pct": 99.84,
+    "audio_span_pct": 94.43,
+    "words": 1841,
+    "aligned": 1838,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 16:03"
   }
- ],
- "variants": [
-  "_variants/007_5ETQ9Z6j5Ns.des-dur.txt"
- ],
- "also_in": []
 }

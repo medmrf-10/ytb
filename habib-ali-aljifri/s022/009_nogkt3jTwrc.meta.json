@@ -1,39 +1,52 @@
 {
- "v": 1,
- "lid": "yt:nogkt3jTwrc",
- "vid": "nogkt3jTwrc",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--114",
- "n": 10,
- "n_src": "read",
- "title": "الإنسانية قبل التدين ｜ الحلقة 9 - هل الولاء والبراء من الإسلام ｜ علي الجفري ｜ En",
- "title_src": "filename",
- "sha256": "e5147da8d8a228ba94ca75f58a4d76d8f913939ea80385c6bdcc863d274d8549",
- "nh": "c5c36545ba50ce7e4b127252154273c5c4e1e33b5b051cda865a3ee216d937c7",
- "chars": 10455,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/114/010_الإنسانية قبل التدين ｜ الحلقة 9 - هل الولاء والبراء من الإسلام ｜ علي الجفري ｜ En.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/114/010_الإنسانية قبل التدين ｜ الحلقة 9 - هل الولاء والبراء من الإسلام ｜ علي الجفري ｜ En.txt",
-   "sha256": "e5147da8d8a228ba94ca75f58a4d76d8f913939ea80385c6bdcc863d274d8549",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:nogkt3jTwrc",
+  "vid": "nogkt3jTwrc",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--114",
+  "n": 10,
+  "n_src": "read",
+  "title": "الإنسانية قبل التدين ｜ الحلقة 9 - هل الولاء والبراء من الإسلام ｜ علي الجفري ｜ En",
+  "title_src": "filename",
+  "sha256": "e5147da8d8a228ba94ca75f58a4d76d8f913939ea80385c6bdcc863d274d8549",
+  "nh": "c5c36545ba50ce7e4b127252154273c5c4e1e33b5b051cda865a3ee216d937c7",
+  "chars": 10455,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/114/010_الإنسانية قبل التدين ｜ الحلقة 9 - هل الولاء والبراء من الإسلام ｜ علي الجفري ｜ En.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/114/9.txt",
-   "sha256": "07a83121d89a20049b26626984f47031638ae7493fa2c11b5627ca60fb8ca168",
-   "rel": "variant"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/114/010_الإنسانية قبل التدين ｜ الحلقة 9 - هل الولاء والبراء من الإسلام ｜ علي الجفري ｜ En.txt",
+      "sha256": "e5147da8d8a228ba94ca75f58a4d76d8f913939ea80385c6bdcc863d274d8549",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/114/9.txt",
+      "sha256": "07a83121d89a20049b26626984f47031638ae7493fa2c11b5627ca60fb8ca168",
+      "rel": "variant"
+    }
+  ],
+  "variants": [
+    "_variants/010_nogkt3jTwrc.des-dur.txt"
+  ],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9995,
+    "spoken_align_pct": 99.95,
+    "audio_span_pct": 94.15,
+    "words": 1918,
+    "aligned": 1917,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 16:03"
   }
- ],
- "variants": [
-  "_variants/010_nogkt3jTwrc.des-dur.txt"
- ],
- "also_in": []
 }

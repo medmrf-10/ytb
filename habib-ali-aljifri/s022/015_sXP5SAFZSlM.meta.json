@@ -1,39 +1,52 @@
 {
- "v": 1,
- "lid": "yt:sXP5SAFZSlM",
- "vid": "sXP5SAFZSlM",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--114",
- "n": 16,
- "n_src": "read",
- "title": "الإنسانية قبل التدين ｜ الحلقة 15- اضطراب الهوية الجنسية ｜ علي الجفري ｜ English S",
- "title_src": "filename",
- "sha256": "62bb566a796c9a58ccfef29e5d1c8c195dbcb377cc73485c3c012750f6577c33",
- "nh": "92aea8376cbbc0e5bfab12baaa77ecdb680ecd10d73d898e8c94b5c1b389e7a6",
- "chars": 11742,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/114/016_الإنسانية قبل التدين ｜ الحلقة 15- اضطراب الهوية الجنسية ｜ علي الجفري ｜ English S.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/114/016_الإنسانية قبل التدين ｜ الحلقة 15- اضطراب الهوية الجنسية ｜ علي الجفري ｜ English S.txt",
-   "sha256": "62bb566a796c9a58ccfef29e5d1c8c195dbcb377cc73485c3c012750f6577c33",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:sXP5SAFZSlM",
+  "vid": "sXP5SAFZSlM",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--114",
+  "n": 16,
+  "n_src": "read",
+  "title": "الإنسانية قبل التدين ｜ الحلقة 15- اضطراب الهوية الجنسية ｜ علي الجفري ｜ English S",
+  "title_src": "filename",
+  "sha256": "62bb566a796c9a58ccfef29e5d1c8c195dbcb377cc73485c3c012750f6577c33",
+  "nh": "92aea8376cbbc0e5bfab12baaa77ecdb680ecd10d73d898e8c94b5c1b389e7a6",
+  "chars": 11742,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/114/016_الإنسانية قبل التدين ｜ الحلقة 15- اضطراب الهوية الجنسية ｜ علي الجفري ｜ English S.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/114/15.txt",
-   "sha256": "2a22ff26558b439473c4c99efb3a670a9739f1a250c66daa75d9bc849e409046",
-   "rel": "variant"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/114/016_الإنسانية قبل التدين ｜ الحلقة 15- اضطراب الهوية الجنسية ｜ علي الجفري ｜ English S.txt",
+      "sha256": "62bb566a796c9a58ccfef29e5d1c8c195dbcb377cc73485c3c012750f6577c33",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/114/15.txt",
+      "sha256": "2a22ff26558b439473c4c99efb3a670a9739f1a250c66daa75d9bc849e409046",
+      "rel": "variant"
+    }
+  ],
+  "variants": [
+    "_variants/016_sXP5SAFZSlM.des-dur.txt"
+  ],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9995,
+    "spoken_align_pct": 99.95,
+    "audio_span_pct": 95.23,
+    "words": 2216,
+    "aligned": 2215,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 16:06"
   }
- ],
- "variants": [
-  "_variants/016_sXP5SAFZSlM.des-dur.txt"
- ],
- "also_in": []
 }

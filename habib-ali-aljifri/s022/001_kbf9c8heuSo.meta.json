@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:kbf9c8heuSo",
- "vid": "kbf9c8heuSo",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--114",
- "n": 2,
- "n_src": "read",
- "title": "الإنسانية قبل التدين ｜ الحلقة 1- وعاء التدين ｜ الحبيب علي الجفري ｜ English Subti",
- "title_src": "filename",
- "sha256": "f13d4914e5b9f570cbfebd42cc184aa158fd249a9518d81e8fd7894d178cbe9e",
- "nh": "ab2584156e69b8614514a3513fa0b8c9bc61e0c17f5fc68c7247885029eb50fb",
- "chars": 8236,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/114/002_الإنسانية قبل التدين ｜ الحلقة 1- وعاء التدين ｜ الحبيب علي الجفري ｜ English Subti.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/114/002_الإنسانية قبل التدين ｜ الحلقة 1- وعاء التدين ｜ الحبيب علي الجفري ｜ English Subti.txt",
-   "sha256": "f13d4914e5b9f570cbfebd42cc184aa158fd249a9518d81e8fd7894d178cbe9e",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:kbf9c8heuSo",
+  "vid": "kbf9c8heuSo",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--114",
+  "n": 2,
+  "n_src": "read",
+  "title": "الإنسانية قبل التدين ｜ الحلقة 1- وعاء التدين ｜ الحبيب علي الجفري ｜ English Subti",
+  "title_src": "filename",
+  "sha256": "f13d4914e5b9f570cbfebd42cc184aa158fd249a9518d81e8fd7894d178cbe9e",
+  "nh": "ab2584156e69b8614514a3513fa0b8c9bc61e0c17f5fc68c7247885029eb50fb",
+  "chars": 8236,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/114/002_الإنسانية قبل التدين ｜ الحلقة 1- وعاء التدين ｜ الحبيب علي الجفري ｜ English Subti.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/114/002_الإنسانية قبل التدين ｜ الحلقة 1- وعاء التدين ｜ الحبيب علي الجفري ｜ English Subti.txt",
+      "sha256": "f13d4914e5b9f570cbfebd42cc184aa158fd249a9518d81e8fd7894d178cbe9e",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 93.7,
+    "words": 1484,
+    "aligned": 1484,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 16:01"
   }
- ],
- "variants": [],
- "also_in": []
 }

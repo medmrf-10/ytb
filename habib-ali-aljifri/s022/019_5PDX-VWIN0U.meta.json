@@ -1,39 +1,52 @@
 {
- "v": 1,
- "lid": "yt:5PDX-VWIN0U",
- "vid": "5PDX-VWIN0U",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--114",
- "n": 20,
- "n_src": "read",
- "title": "الإنسانية قبل التدين ｜ الحلقة 19 - لا إنسانية في الفتنة الطائفية ｜ علي الجفري ｜",
- "title_src": "filename",
- "sha256": "6a1e0212d79bccb81112ce4faba5119dd35e06969829d8885224b22e3f6be19a",
- "nh": "c7f367991d3304e49ea1002bfa58bb5f922bcdfac623fdb2d551de5cc5f54f8d",
- "chars": 10614,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/114/020_الإنسانية قبل التدين ｜ الحلقة 19 - لا إنسانية في الفتنة الطائفية ｜ علي الجفري ｜ .txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/114/020_الإنسانية قبل التدين ｜ الحلقة 19 - لا إنسانية في الفتنة الطائفية ｜ علي الجفري ｜ .txt",
-   "sha256": "6a1e0212d79bccb81112ce4faba5119dd35e06969829d8885224b22e3f6be19a",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:5PDX-VWIN0U",
+  "vid": "5PDX-VWIN0U",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--114",
+  "n": 20,
+  "n_src": "read",
+  "title": "الإنسانية قبل التدين ｜ الحلقة 19 - لا إنسانية في الفتنة الطائفية ｜ علي الجفري ｜",
+  "title_src": "filename",
+  "sha256": "6a1e0212d79bccb81112ce4faba5119dd35e06969829d8885224b22e3f6be19a",
+  "nh": "c7f367991d3304e49ea1002bfa58bb5f922bcdfac623fdb2d551de5cc5f54f8d",
+  "chars": 10614,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/114/020_الإنسانية قبل التدين ｜ الحلقة 19 - لا إنسانية في الفتنة الطائفية ｜ علي الجفري ｜ .txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/114/19.txt",
-   "sha256": "5df3e54947bdc9c8c855434dd5be4b9f66242ccb46962b5465b5661b490a5529",
-   "rel": "variant"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/114/020_الإنسانية قبل التدين ｜ الحلقة 19 - لا إنسانية في الفتنة الطائفية ｜ علي الجفري ｜ .txt",
+      "sha256": "6a1e0212d79bccb81112ce4faba5119dd35e06969829d8885224b22e3f6be19a",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/114/19.txt",
+      "sha256": "5df3e54947bdc9c8c855434dd5be4b9f66242ccb46962b5465b5661b490a5529",
+      "rel": "variant"
+    }
+  ],
+  "variants": [
+    "_variants/020_5PDX-VWIN0U.des-dur.txt"
+  ],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9995,
+    "spoken_align_pct": 99.95,
+    "audio_span_pct": 93.48,
+    "words": 1875,
+    "aligned": 1874,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 16:08"
   }
- ],
- "variants": [
-  "_variants/020_5PDX-VWIN0U.des-dur.txt"
- ],
- "also_in": []
 }

@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "rn:habib-ali-aljifri--114:21",
- "vid": null,
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--114",
- "n": 21,
- "n_src": "read",
- "title": "الإنسانية قبل التدين ｜ الحلقة 20 - مفهوم الجهاد و الحرب ｜ علي الجفري ｜ English",
- "title_src": "filename",
- "sha256": "169c3c6a59b5b77cff772d0632a1c3f9cd10cc14640033cf467231d13a325edc",
- "nh": "57883e6ee36836da89d0f89e68d988e7ceb947a5e20336f34d55b20b17a0c783",
- "chars": 6272,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/114/021_الإنسانية قبل التدين ｜ الحلقة 20 - مفهوم الجهاد و الحرب  ｜ علي الجفري ｜ English .txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/114/021_الإنسانية قبل التدين ｜ الحلقة 20 - مفهوم الجهاد و الحرب  ｜ علي الجفري ｜ English .txt",
-   "sha256": "169c3c6a59b5b77cff772d0632a1c3f9cd10cc14640033cf467231d13a325edc",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:habib-ali-aljifri--114:21",
+  "vid": null,
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--114",
+  "n": 21,
+  "n_src": "read",
+  "title": "الإنسانية قبل التدين ｜ الحلقة 20 - مفهوم الجهاد و الحرب ｜ علي الجفري ｜ English",
+  "title_src": "filename",
+  "sha256": "169c3c6a59b5b77cff772d0632a1c3f9cd10cc14640033cf467231d13a325edc",
+  "nh": "57883e6ee36836da89d0f89e68d988e7ceb947a5e20336f34d55b20b17a0c783",
+  "chars": 6272,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/114/021_الإنسانية قبل التدين ｜ الحلقة 20 - مفهوم الجهاد و الحرب  ｜ علي الجفري ｜ English .txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/114/021_الإنسانية قبل التدين ｜ الحلقة 20 - مفهوم الجهاد و الحرب  ｜ علي الجفري ｜ English .txt",
+      "sha256": "169c3c6a59b5b77cff772d0632a1c3f9cd10cc14640033cf467231d13a325edc",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9989,
+    "spoken_align_pct": 99.89,
+    "audio_span_pct": 93.91,
+    "words": 1764,
+    "aligned": 1762,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 16:08"
   }
- ],
- "variants": [],
- "also_in": []
 }
