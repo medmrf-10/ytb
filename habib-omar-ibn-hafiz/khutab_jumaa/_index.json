@@ -2,7 +2,7 @@
   "aligned": 0,
   "aligned_ratio": 0.0,
   "category": "الخطب والمحاضرات",
-  "coverage": 0.0504,
+  "coverage": 0.0623,
   "declared_total": 337,
   "key": "khutab_jumaa",
   "lessons": [
@@ -27,6 +27,17 @@
       "stem": "009_USo2A1SVF8o",
       "title": "الحبيب عمر / خطبة جمعة : عظيم أثر اللسان",
       "vid": "USo2A1SVF8o"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 13646,
+      "dur": 1677,
+      "file": "011_0zTMGF4pE5I.txt",
+      "n": 11,
+      "stem": "011_0zTMGF4pE5I",
+      "title": "الحبيب عمر- خطبة جامع الصالح: المؤثرات في استقامة الفكر",
+      "vid": "0zTMGF4pE5I"
     },
     {
       "align_coverage": null,
@@ -71,6 +82,17 @@
       "stem": "061_FMZOvxh1jtY",
       "title": "عظيم أثر اللسان في الهدى والضلال والدنيا والمآل",
       "vid": "FMZOvxh1jtY"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 13672,
+      "dur": 1620,
+      "file": "075_IYb6P4v62iM.txt",
+      "n": 75,
+      "stem": "075_IYb6P4v62iM",
+      "title": "الحبيب عمر بن حفيظ: غنائم العمر ونوعية الاشتغال ومنزلة الاستغفار",
+      "vid": "IYb6P4v62iM"
     },
     {
       "align_coverage": null,
@@ -163,6 +185,17 @@
     {
       "align_coverage": null,
       "aligned": false,
+      "chars": 14977,
+      "dur": 1667,
+      "file": "275_tsTFVDQ6DP4.txt",
+      "n": 275,
+      "stem": "275_tsTFVDQ6DP4",
+      "title": "الحبيب عمر بن حفيظ: التوبة ومكانتها ورقائق معانيها وعظيم آثارها",
+      "vid": "tsTFVDQ6DP4"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
       "chars": 15210,
       "dur": 1817,
       "file": "277_SBj-rxdaTCk.txt",
@@ -185,6 +218,17 @@
     {
       "align_coverage": null,
       "aligned": false,
+      "chars": 16181,
+      "dur": 1659,
+      "file": "324_dZez_gRm4_E.txt",
+      "n": 324,
+      "stem": "324_dZez_gRm4_E",
+      "title": "خطبة الجمعة: حول حقيقة التوبة ووجوبها وفوائدها ورتبة أهلها",
+      "vid": "dZez_gRm4_E"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
       "chars": 15756,
       "dur": 1763,
       "file": "337_S_1XN2bVyj4.txt",
@@ -198,6 +242,6 @@
   "sheikh": "habib-omar-ibn-hafiz",
   "sheikh_name": "الحبيب عمر بن حفيظ",
   "title": "خطب الجمعة والعيدين والكسوف والخسوف",
-  "transcribed": 17,
+  "transcribed": 21,
   "v": 2
 }

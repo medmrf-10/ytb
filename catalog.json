@@ -1173,7 +1173,7 @@
       "slug": "sharawi"
     },
     {
-      "aligned": 157,
+      "aligned": 162,
       "chars": 9513464,
       "lessons": 546,
       "name": "أدهم العاسمي",
@@ -1546,14 +1546,14 @@
           "transcribed": 8
         },
         {
-          "aligned": 24,
-          "aligned_pct": "82.8%",
+          "aligned": 29,
+          "aligned_pct": "100.0%",
           "category": "خطب ومواعظ",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 29,
           "dir": "s052/",
-          "dur": 48312,
+          "dur": 48308,
           "key": "s052",
           "series_id": "asimi__s052",
           "title": "خطب الجمعة لعام 2025م",
@@ -2079,7 +2079,7 @@
       "slug": "ahmed-alsayed"
     },
     {
-      "aligned": 59,
+      "aligned": 76,
       "chars": 6585296,
       "lessons": 471,
       "name": "الحبيب علي الجفري",
@@ -2158,14 +2158,14 @@
           "transcribed": 8
         },
         {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
+          "aligned": 17,
+          "aligned_pct": "56.7%",
           "category": "شرح علمي",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 30,
           "dir": "s008/",
-          "dur": 21992,
+          "dur": 21986,
           "key": "s008",
           "series_id": "jifri__s008",
           "title": "شرح كتاب سبيل الادكار والاعتبار للإمام الحداد",
@@ -2414,8 +2414,8 @@
     },
     {
       "aligned": 95,
-      "chars": 8581507,
-      "lessons": 467,
+      "chars": 8639983,
+      "lessons": 471,
       "name": "الحبيب عمر بن حفيظ",
       "path": "habib-omar-ibn-hafiz/",
       "photo": "_meta/img/habib-omar-ibn-hafiz.jpg",
@@ -2495,15 +2495,15 @@
           "aligned": 0,
           "aligned_pct": "0.0%",
           "category": "الخطب والمحاضرات",
-          "coverage": 0.0504,
-          "coverage_pct": "5.0%",
+          "coverage": 0.0623,
+          "coverage_pct": "6.2%",
           "declared_total": 337,
           "dir": "khutab_jumaa/",
-          "dur": 26269,
+          "dur": 32892,
           "key": "khutab_jumaa",
           "series_id": "hafiz__khutab_jumaa",
           "title": "خطب الجمعة والعيدين والكسوف والخسوف",
-          "transcribed": 17
+          "transcribed": 21
         },
         {
           "aligned": 19,
@@ -5720,9 +5720,9 @@
     }
   ],
   "totals": {
-    "aligned": 2626,
-    "chars": 156356891,
-    "lessons": 6606,
+    "aligned": 2648,
+    "chars": 156415367,
+    "lessons": 6610,
     "series": 387,
     "sheikhs": 25
   },

@@ -1,6 +1,6 @@
 {
-  "aligned": 24,
-  "aligned_ratio": 0.8276,
+  "aligned": 29,
+  "aligned_ratio": 1.0,
   "category": "خطب ومواعظ",
   "coverage": 1.0,
   "declared_total": 29,
@@ -260,10 +260,10 @@
       "vid": "0fGVziBO3gs"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 16182,
-      "dur": 1815,
+      "dur": 1814,
       "file": "024_EOod2_LB6Xw.txt",
       "n": 24,
       "stem": "024_EOod2_LB6Xw",
@@ -271,10 +271,10 @@
       "vid": "EOod2_LB6Xw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 16765,
-      "dur": 1857,
+      "dur": 1856,
       "file": "025_5cXA0n58EsQ.txt",
       "n": 25,
       "stem": "025_5cXA0n58EsQ",
@@ -293,10 +293,10 @@
       "vid": "TZ_VUWptYAE"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 12988,
-      "dur": 1600,
+      "dur": 1599,
       "file": "027_p8C_UlvliyA.txt",
       "n": 27,
       "stem": "027_p8C_UlvliyA",
@@ -304,10 +304,10 @@
       "vid": "p8C_UlvliyA"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 7606,
-      "dur": 963,
+      "dur": 962,
       "file": "028_nfcvVfn6BqI.txt",
       "n": 28,
       "stem": "028_nfcvVfn6BqI",
@@ -315,8 +315,8 @@
       "vid": "nfcvVfn6BqI"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 15565,
       "dur": 1883,
       "file": "029_4eI8qJQPRZc.txt",

@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:pXoKD60NDBE",
- "vid": "pXoKD60NDBE",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--113",
- "n": 23,
- "n_src": "read",
- "title": "الحبيب علي الجفري - سبيل الادكار (8-30)",
- "title_src": "filename",
- "sha256": "c285c83ceebe9b60ecc0654c716df1dcb4f23b91446cb9d538d9930612f3ebaf",
- "nh": "ce2706e4b5b3d7b19fa497da813d3ba960266fe2559c9be405b9da69220ad900",
- "chars": 7036,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/113/023_الحبيب علي الجفري - سبيل الادكار (8-30).txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/113/023_الحبيب علي الجفري - سبيل الادكار (8-30).txt",
-   "sha256": "c285c83ceebe9b60ecc0654c716df1dcb4f23b91446cb9d538d9930612f3ebaf",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:pXoKD60NDBE",
+  "vid": "pXoKD60NDBE",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--113",
+  "n": 23,
+  "n_src": "read",
+  "title": "الحبيب علي الجفري - سبيل الادكار (8-30)",
+  "title_src": "filename",
+  "sha256": "c285c83ceebe9b60ecc0654c716df1dcb4f23b91446cb9d538d9930612f3ebaf",
+  "nh": "ce2706e4b5b3d7b19fa497da813d3ba960266fe2559c9be405b9da69220ad900",
+  "chars": 7036,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/113/023_الحبيب علي الجفري - سبيل الادكار (8-30).txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/113/023_الحبيب علي الجفري - سبيل الادكار (8-30).txt",
+      "sha256": "c285c83ceebe9b60ecc0654c716df1dcb4f23b91446cb9d538d9930612f3ebaf",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.59,
+    "words": 1300,
+    "aligned": 1300,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 16:47"
   }
- ],
- "variants": [],
- "also_in": []
 }
