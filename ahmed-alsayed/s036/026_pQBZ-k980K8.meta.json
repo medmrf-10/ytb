@@ -1,43 +1,59 @@
 {
- "v": 1,
- "lid": "yt:pQBZ-k980K8",
- "vid": "pQBZ-k980K8",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--628",
- "n": 26,
- "n_src": "mutfile",
- "title": "السيرة النبوية للمصلحين 26 ｜ صلح الحديبية ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "1ef5e440fab72c98b6711501f5a7e56906af3890e27fdb4e4a50aa588d6b872a",
- "nh": "a346f36e9b85b918364ecf81b6c4ea23643d79f2978030d9fac7fb8a6f8297ab",
- "chars": 38288,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/628/026_السيرة النبوية للمصلحين 26 ｜ صلح الحديبية ｜ أحمد السيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/628/026_السيرة النبوية للمصلحين 26 ｜ صلح الحديبية ｜ أحمد السيد.txt",
-   "sha256": "1ef5e440fab72c98b6711501f5a7e56906af3890e27fdb4e4a50aa588d6b872a",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:pQBZ-k980K8",
+  "vid": "pQBZ-k980K8",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--628",
+  "n": 26,
+  "n_src": "mutfile",
+  "title": "السيرة النبوية للمصلحين 26 ｜ صلح الحديبية ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "1ef5e440fab72c98b6711501f5a7e56906af3890e27fdb4e4a50aa588d6b872a",
+  "nh": "a346f36e9b85b918364ecf81b6c4ea23643d79f2978030d9fac7fb8a6f8297ab",
+  "chars": 38288,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/628/026_السيرة النبوية للمصلحين 26 ｜ صلح الحديبية ｜ أحمد السيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/elsiraLilmosli7in-026/transcript.txt",
-   "sha256": "6294cd7965f71a2f8eee935464094191c254fdae79ddcecebd182a858ce68b4c",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-628/026.txt",
-   "sha256": "6294cd7965f71a2f8eee935464094191c254fdae79ddcecebd182a858ce68b4c",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/628/026_السيرة النبوية للمصلحين 26 ｜ صلح الحديبية ｜ أحمد السيد.txt",
+      "sha256": "1ef5e440fab72c98b6711501f5a7e56906af3890e27fdb4e4a50aa588d6b872a",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/elsiraLilmosli7in-026/transcript.txt",
+      "sha256": "6294cd7965f71a2f8eee935464094191c254fdae79ddcecebd182a858ce68b4c",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-628/026.txt",
+      "sha256": "6294cd7965f71a2f8eee935464094191c254fdae79ddcecebd182a858ce68b4c",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9995,
+    "spoken_align_pct": 99.95,
+    "audio_span_pct": 99.87,
+    "words": 7498,
+    "aligned": 7494,
+    "interpolated": 4,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 20:08",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

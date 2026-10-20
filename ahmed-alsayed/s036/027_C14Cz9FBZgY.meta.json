@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:C14Cz9FBZgY",
- "vid": "C14Cz9FBZgY",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--628",
- "n": 27,
- "n_src": "mutfile",
- "title": "السيرة النبوية للمصلحين 27 ｜ غزوة ذي قرد ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "7a52651874962866a49f98bb2167594c4ccd18fe7966083ac01531a490db3126",
- "nh": "e7a2a1f199f9b77519793fc3ca4f809a322f40f29ebf847b51ffecc8157745d6",
- "chars": 20693,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/628/027_السيرة النبوية للمصلحين 27 ｜ غزوة ذي قرد ｜ أحمد السيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/628/027_السيرة النبوية للمصلحين 27 ｜ غزوة ذي قرد ｜ أحمد السيد.txt",
-   "sha256": "7a52651874962866a49f98bb2167594c4ccd18fe7966083ac01531a490db3126",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:C14Cz9FBZgY",
+  "vid": "C14Cz9FBZgY",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--628",
+  "n": 27,
+  "n_src": "mutfile",
+  "title": "السيرة النبوية للمصلحين 27 ｜ غزوة ذي قرد ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "7a52651874962866a49f98bb2167594c4ccd18fe7966083ac01531a490db3126",
+  "nh": "e7a2a1f199f9b77519793fc3ca4f809a322f40f29ebf847b51ffecc8157745d6",
+  "chars": 20693,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/628/027_السيرة النبوية للمصلحين 27 ｜ غزوة ذي قرد ｜ أحمد السيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/elsiraLilmosli7in-027/transcript.txt",
-   "sha256": "efb331a759b0e9e1edfe3049a753b9639fde65dd8509f87728e513f1fa502c1f",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-628/027.txt",
-   "sha256": "efb331a759b0e9e1edfe3049a753b9639fde65dd8509f87728e513f1fa502c1f",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/628/027_السيرة النبوية للمصلحين 27 ｜ غزوة ذي قرد ｜ أحمد السيد.txt",
+      "sha256": "7a52651874962866a49f98bb2167594c4ccd18fe7966083ac01531a490db3126",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/elsiraLilmosli7in-027/transcript.txt",
+      "sha256": "efb331a759b0e9e1edfe3049a753b9639fde65dd8509f87728e513f1fa502c1f",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-628/027.txt",
+      "sha256": "efb331a759b0e9e1edfe3049a753b9639fde65dd8509f87728e513f1fa502c1f",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9985,
+    "spoken_align_pct": 99.85,
+    "audio_span_pct": 99.75,
+    "words": 4042,
+    "aligned": 4036,
+    "interpolated": 6,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 20:09"
   }
- ],
- "variants": [],
- "also_in": []
 }

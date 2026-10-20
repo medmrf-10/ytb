@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:xYvg6Kj6Jzw",
- "vid": "xYvg6Kj6Jzw",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--628",
- "n": 28,
- "n_src": "mutfile",
- "title": "السيرة النبوية للمصلحين 28 ｜ غزوة خيبر ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "c48a1430ea16ec0ef51739b44d9e6977a5747a83c860c23556dcb6809509b592",
- "nh": "3d7f25032b3edda52cee7bed3e69c2e89e1ae744240e903b2116f8a8d57cefb2",
- "chars": 19378,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/628/028_السيرة النبوية للمصلحين 28 ｜ غزوة خيبر ｜ أحمد السيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/628/028_السيرة النبوية للمصلحين 28 ｜ غزوة خيبر ｜ أحمد السيد.txt",
-   "sha256": "c48a1430ea16ec0ef51739b44d9e6977a5747a83c860c23556dcb6809509b592",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:xYvg6Kj6Jzw",
+  "vid": "xYvg6Kj6Jzw",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--628",
+  "n": 28,
+  "n_src": "mutfile",
+  "title": "السيرة النبوية للمصلحين 28 ｜ غزوة خيبر ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "c48a1430ea16ec0ef51739b44d9e6977a5747a83c860c23556dcb6809509b592",
+  "nh": "3d7f25032b3edda52cee7bed3e69c2e89e1ae744240e903b2116f8a8d57cefb2",
+  "chars": 19378,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/628/028_السيرة النبوية للمصلحين 28 ｜ غزوة خيبر ｜ أحمد السيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/elsiraLilmosli7in-028/transcript.txt",
-   "sha256": "8c93b15072ac6620ea4bf870c01829e4087c6837dd02d0036e08ad083ba35bcf",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-628/028.txt",
-   "sha256": "8c93b15072ac6620ea4bf870c01829e4087c6837dd02d0036e08ad083ba35bcf",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/628/028_السيرة النبوية للمصلحين 28 ｜ غزوة خيبر ｜ أحمد السيد.txt",
+      "sha256": "c48a1430ea16ec0ef51739b44d9e6977a5747a83c860c23556dcb6809509b592",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/elsiraLilmosli7in-028/transcript.txt",
+      "sha256": "8c93b15072ac6620ea4bf870c01829e4087c6837dd02d0036e08ad083ba35bcf",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-628/028.txt",
+      "sha256": "8c93b15072ac6620ea4bf870c01829e4087c6837dd02d0036e08ad083ba35bcf",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9986,
+    "spoken_align_pct": 99.86,
+    "audio_span_pct": 99.47,
+    "words": 3659,
+    "aligned": 3654,
+    "interpolated": 5,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 20:10"
   }
- ],
- "variants": [],
- "also_in": []
 }
