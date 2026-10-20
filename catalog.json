@@ -1,7 +1,7 @@
 {
   "sheikhs": [
     {
-      "aligned": 346,
+      "aligned": 352,
       "chars": 20562650,
       "lessons": 1165,
       "name": "محمد سعيد رمضان البوطي",
@@ -276,14 +276,14 @@
           "transcribed": 11
         },
         {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
+          "aligned": 3,
+          "aligned_pct": "7.9%",
           "category": "العقيدة والفكر الإسلامي",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 38,
           "dir": "s023/",
-          "dur": 109485,
+          "dur": 109483,
           "key": "s023",
           "series_id": "bouti__s023",
           "title": "سلسلة يغالطونك إذ يقولون (مناقشة الشبهات الفكرية المعاصرة)",
@@ -332,14 +332,14 @@
           "transcribed": 70
         },
         {
-          "aligned": 34,
-          "aligned_pct": "89.5%",
+          "aligned": 37,
+          "aligned_pct": "97.4%",
           "category": "السيرة النبوية والتاريخ",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 38,
           "dir": "s031/",
-          "dur": 106823,
+          "dur": 106820,
           "key": "s031",
           "series_id": "bouti__s031",
           "title": "محاضرات في تاريخ التشريع الإسلامي",
@@ -5720,7 +5720,7 @@
     }
   ],
   "totals": {
-    "aligned": 2974,
+    "aligned": 2980,
     "chars": 157906828,
     "lessons": 6712,
     "series": 387,

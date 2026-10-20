@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:bzsd1p7G90s",
- "vid": "bzsd1p7G90s",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--369",
- "n": 3,
- "n_src": "plpos",
- "title": "3- يغالطونك إذ يقولون - درس خاص عن الأحداث التي تمر بها سوريا",
- "title_src": "yt_titles",
- "sha256": "bf20d14d062b0d26a287d7cf5f7e287dbcd0abcc0ca15f0b685fe2e8afc5d431",
- "nh": "38d1c5056686d7c37feb252b806f72b3cc3a3ce92f8f9fad46720b3c043da6ad",
- "chars": 19159,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/369/003_3- يغالطونك إذ يقولون - درس خاص عن الأحداث التي تمر بها سوريا.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/369/003_3- يغالطونك إذ يقولون - درس خاص عن الأحداث التي تمر بها سوريا.txt",
-   "sha256": "bf20d14d062b0d26a287d7cf5f7e287dbcd0abcc0ca15f0b685fe2e8afc5d431",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:bzsd1p7G90s",
+  "vid": "bzsd1p7G90s",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--369",
+  "n": 3,
+  "n_src": "plpos",
+  "title": "3- يغالطونك إذ يقولون - درس خاص عن الأحداث التي تمر بها سوريا",
+  "title_src": "yt_titles",
+  "sha256": "bf20d14d062b0d26a287d7cf5f7e287dbcd0abcc0ca15f0b685fe2e8afc5d431",
+  "nh": "38d1c5056686d7c37feb252b806f72b3cc3a3ce92f8f9fad46720b3c043da6ad",
+  "chars": 19159,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/369/003_3- يغالطونك إذ يقولون - درس خاص عن الأحداث التي تمر بها سوريا.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/yoghalitonak-003/transcript.txt",
-   "sha256": "2654ebb66bb0bd0a6428028a2f58f6bda0a2ec311625a73c65c19f5e25f5a4c4",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-yaghalitun/03.txt",
-   "sha256": "2654ebb66bb0bd0a6428028a2f58f6bda0a2ec311625a73c65c19f5e25f5a4c4",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/369/2.txt",
-   "sha256": "bf20d14d062b0d26a287d7cf5f7e287dbcd0abcc0ca15f0b685fe2e8afc5d431",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/369/003_3- يغالطونك إذ يقولون - درس خاص عن الأحداث التي تمر بها سوريا.txt",
+      "sha256": "bf20d14d062b0d26a287d7cf5f7e287dbcd0abcc0ca15f0b685fe2e8afc5d431",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/yoghalitonak-003/transcript.txt",
+      "sha256": "2654ebb66bb0bd0a6428028a2f58f6bda0a2ec311625a73c65c19f5e25f5a4c4",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-yaghalitun/03.txt",
+      "sha256": "2654ebb66bb0bd0a6428028a2f58f6bda0a2ec311625a73c65c19f5e25f5a4c4",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/369/2.txt",
+      "sha256": "bf20d14d062b0d26a287d7cf5f7e287dbcd0abcc0ca15f0b685fe2e8afc5d431",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9991,
+    "spoken_align_pct": 99.91,
+    "audio_span_pct": 99.97,
+    "words": 3447,
+    "aligned": 3444,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 21:48"
   }
- ],
- "variants": [],
- "also_in": []
 }
