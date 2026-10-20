@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:rYUUU6bHz_I",
- "vid": "rYUUU6bHz_I",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--408",
- "n": 18,
- "n_src": "read",
- "title": "18- الجديد في إعجاز القرآن الكريم ｜ سنن كونية تحققت",
- "title_src": "filename",
- "sha256": "8bf07d8683d0a3f82ba79109eca6fc8b9b748e2ddf4f81c94f4be83fbc378806",
- "nh": "201473c573d38fd784f756fb10672e3b6282154f2886c4d43ae1a11a9ec0b3b5",
- "chars": 9328,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/408/018_18- الجديد في إعجاز القرآن الكريم ｜ سنن كونية تحققت.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/408/018_18- الجديد في إعجاز القرآن الكريم ｜ سنن كونية تحققت.txt",
-   "sha256": "8bf07d8683d0a3f82ba79109eca6fc8b9b748e2ddf4f81c94f4be83fbc378806",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:rYUUU6bHz_I",
+  "vid": "rYUUU6bHz_I",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--408",
+  "n": 18,
+  "n_src": "read",
+  "title": "18- الجديد في إعجاز القرآن الكريم ｜ سنن كونية تحققت",
+  "title_src": "filename",
+  "sha256": "8bf07d8683d0a3f82ba79109eca6fc8b9b748e2ddf4f81c94f4be83fbc378806",
+  "nh": "201473c573d38fd784f756fb10672e3b6282154f2886c4d43ae1a11a9ec0b3b5",
+  "chars": 9328,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/408/018_18- الجديد في إعجاز القرآن الكريم ｜ سنن كونية تحققت.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/408/17.txt",
-   "sha256": "8bf07d8683d0a3f82ba79109eca6fc8b9b748e2ddf4f81c94f4be83fbc378806",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/408/018_18- الجديد في إعجاز القرآن الكريم ｜ سنن كونية تحققت.txt",
+      "sha256": "8bf07d8683d0a3f82ba79109eca6fc8b9b748e2ddf4f81c94f4be83fbc378806",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/408/17.txt",
+      "sha256": "8bf07d8683d0a3f82ba79109eca6fc8b9b748e2ddf4f81c94f4be83fbc378806",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9982,
+    "spoken_align_pct": 99.82,
+    "audio_span_pct": 81.95,
+    "words": 1686,
+    "aligned": 1682,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 19:02"
   }
- ],
- "variants": [],
- "also_in": []
 }

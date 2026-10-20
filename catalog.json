@@ -1,7 +1,7 @@
 {
   "sheikhs": [
     {
-      "aligned": 296,
+      "aligned": 300,
       "chars": 20562717,
       "lessons": 1165,
       "name": "محمد سعيد رمضان البوطي",
@@ -38,14 +38,14 @@
           "transcribed": 63
         },
         {
-          "aligned": 15,
-          "aligned_pct": "48.4%",
+          "aligned": 19,
+          "aligned_pct": "61.3%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 31,
           "dir": "s003/",
-          "dur": 50413,
+          "dur": 50411,
           "key": "s003",
           "series_id": "bouti__s003",
           "title": "برنامج الجديد في إعجاز القرآن الكريم",
@@ -4500,8 +4500,8 @@
     },
     {
       "aligned": 106,
-      "chars": 4527304,
-      "lessons": 220,
+      "chars": 4537607,
+      "lessons": 221,
       "name": "مولود السريري",
       "path": "mouloud-sariri/",
       "photo": "_meta/img/mouloud-sariri.jpg",
@@ -4735,15 +4735,15 @@
           "aligned": 0,
           "aligned_pct": "0.0%",
           "category": "الخطب والوعظ",
-          "coverage": 0.455,
-          "coverage_pct": "45.5%",
+          "coverage": 0.46,
+          "coverage_pct": "46.0%",
           "declared_total": 200,
           "dir": "s043/",
-          "dur": 137059,
+          "dur": 138342,
           "key": "s043",
           "series_id": "sariri__s043",
           "title": "خطب منبرية وخطب الجمعة",
-          "transcribed": 91
+          "transcribed": 92
         }
       ],
       "slug": "mouloud-sariri"
@@ -5720,9 +5720,9 @@
     }
   ],
   "totals": {
-    "aligned": 2819,
-    "chars": 157175395,
-    "lessons": 6659,
+    "aligned": 2823,
+    "chars": 157185698,
+    "lessons": 6660,
     "series": 387,
     "sheikhs": 25
   },

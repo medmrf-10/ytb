@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:SlubNfoctm8",
- "vid": "SlubNfoctm8",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--408",
- "n": 17,
- "n_src": "read",
- "title": "17- الجديد في إعجاز القرآن الكريم ｜ الجانب الملفت في الإعجاز التشريعي",
- "title_src": "filename",
- "sha256": "466092cd15e5c6093db7b8bd0aabe0b7d15442d029f872eb171dcd0f435db200",
- "nh": "11d43de4cfcf2a62b437032b5e430f9406ade3369125624d53ca9108152c7c27",
- "chars": 13912,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/408/017_17- الجديد في إعجاز القرآن الكريم ｜ الجانب  الملفت في الإعجاز التشريعي.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/408/017_17- الجديد في إعجاز القرآن الكريم ｜ الجانب  الملفت في الإعجاز التشريعي.txt",
-   "sha256": "466092cd15e5c6093db7b8bd0aabe0b7d15442d029f872eb171dcd0f435db200",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:SlubNfoctm8",
+  "vid": "SlubNfoctm8",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--408",
+  "n": 17,
+  "n_src": "read",
+  "title": "17- الجديد في إعجاز القرآن الكريم ｜ الجانب الملفت في الإعجاز التشريعي",
+  "title_src": "filename",
+  "sha256": "466092cd15e5c6093db7b8bd0aabe0b7d15442d029f872eb171dcd0f435db200",
+  "nh": "11d43de4cfcf2a62b437032b5e430f9406ade3369125624d53ca9108152c7c27",
+  "chars": 13912,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/408/017_17- الجديد في إعجاز القرآن الكريم ｜ الجانب  الملفت في الإعجاز التشريعي.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/408/16.txt",
-   "sha256": "466092cd15e5c6093db7b8bd0aabe0b7d15442d029f872eb171dcd0f435db200",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/408/017_17- الجديد في إعجاز القرآن الكريم ｜ الجانب  الملفت في الإعجاز التشريعي.txt",
+      "sha256": "466092cd15e5c6093db7b8bd0aabe0b7d15442d029f872eb171dcd0f435db200",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/408/16.txt",
+      "sha256": "466092cd15e5c6093db7b8bd0aabe0b7d15442d029f872eb171dcd0f435db200",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9996,
+    "spoken_align_pct": 99.96,
+    "audio_span_pct": 100.0,
+    "words": 2476,
+    "aligned": 2475,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-20 19:01"
   }
- ],
- "variants": [],
- "also_in": []
 }
