@@ -1,6 +1,6 @@
 {
-  "aligned": 23,
-  "aligned_ratio": 0.7667,
+  "aligned": 24,
+  "aligned_ratio": 0.8,
   "category": "برنامج رمضاني",
   "coverage": 1.0,
   "declared_total": 30,
@@ -326,10 +326,10 @@
       "vid": "8yd7ocqPPuQ"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 17395,
-      "dur": 1745,
+      "dur": 1744,
       "file": "030_ORL6PCkbEjs.txt",
       "n": 30,
       "stem": "030_ORL6PCkbEjs",
