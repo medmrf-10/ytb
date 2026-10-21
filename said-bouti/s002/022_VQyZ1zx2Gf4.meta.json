@@ -1,57 +1,70 @@
 {
- "v": 1,
- "lid": "yt:VQyZ1zx2Gf4",
- "vid": "VQyZ1zx2Gf4",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--371",
- "n": 22,
- "n_src": "plpos",
- "title": "22- علوم القرآن الكريم | مظهر جلال الربوبية",
- "title_src": "yt_titles",
- "sha256": "057175ffc4b58c5f93f026aae2bf38ca7a4cf6d3ed6687e040e77a85fd7a156b",
- "nh": "83c1ab49f03f94402ae08d1d051f07fd5e51c880fe17cea82ebf99f7738133ba",
- "chars": 23049,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/371/022_22- علوم القرآن الكريم ｜ مظهر جلال الربوبية.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/371/022_22- علوم القرآن الكريم ｜ مظهر جلال الربوبية.txt",
-   "sha256": "057175ffc4b58c5f93f026aae2bf38ca7a4cf6d3ed6687e040e77a85fd7a156b",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:VQyZ1zx2Gf4",
+  "vid": "VQyZ1zx2Gf4",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--371",
+  "n": 22,
+  "n_src": "plpos",
+  "title": "22- علوم القرآن الكريم | مظهر جلال الربوبية",
+  "title_src": "yt_titles",
+  "sha256": "057175ffc4b58c5f93f026aae2bf38ca7a4cf6d3ed6687e040e77a85fd7a156b",
+  "nh": "83c1ab49f03f94402ae08d1d051f07fd5e51c880fe17cea82ebf99f7738133ba",
+  "chars": 23049,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/371/022_22- علوم القرآن الكريم ｜ مظهر جلال الربوبية.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/3oloumEl9or1n-022/transcript.txt",
-   "sha256": "a2aa3340ac49e5259bfb4aad01bdc5ae63e47cdfdc4fda9ae7c2a29edcef6af3",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/muqtatafat-ulum/21.txt",
-   "sha256": "057175ffc4b58c5f93f026aae2bf38ca7a4cf6d3ed6687e040e77a85fd7a156b",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-ulum-quran/22.txt",
-   "sha256": "a2aa3340ac49e5259bfb4aad01bdc5ae63e47cdfdc4fda9ae7c2a29edcef6af3",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/355/21.txt",
-   "sha256": "057175ffc4b58c5f93f026aae2bf38ca7a4cf6d3ed6687e040e77a85fd7a156b",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/371/022_22- علوم القرآن الكريم ｜ مظهر جلال الربوبية.txt",
+      "sha256": "057175ffc4b58c5f93f026aae2bf38ca7a4cf6d3ed6687e040e77a85fd7a156b",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/3oloumEl9or1n-022/transcript.txt",
+      "sha256": "a2aa3340ac49e5259bfb4aad01bdc5ae63e47cdfdc4fda9ae7c2a29edcef6af3",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/muqtatafat-ulum/21.txt",
+      "sha256": "057175ffc4b58c5f93f026aae2bf38ca7a4cf6d3ed6687e040e77a85fd7a156b",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-ulum-quran/22.txt",
+      "sha256": "a2aa3340ac49e5259bfb4aad01bdc5ae63e47cdfdc4fda9ae7c2a29edcef6af3",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/355/21.txt",
+      "sha256": "057175ffc4b58c5f93f026aae2bf38ca7a4cf6d3ed6687e040e77a85fd7a156b",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "said-bouti--bouti-muqtatafat-ulum"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9979,
+    "spoken_align_pct": 99.79,
+    "audio_span_pct": 98.29,
+    "words": 3862,
+    "aligned": 3852,
+    "interpolated": 8,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 14:56"
   }
- ],
- "variants": [],
- "also_in": [
-  "said-bouti--bouti-muqtatafat-ulum"
- ]
 }
