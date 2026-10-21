@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:5VUJcDVWBw4",
- "vid": "5VUJcDVWBw4",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--369",
- "n": 31,
- "n_src": "plpos",
- "title": "31- يغالطونك إذ يقولون : مجالس الذكر تورُّطٌ في البدعة وملهاة عن العمل الإسلامي",
- "title_src": "yt_titles",
- "sha256": "721512c49d65a33e5f8d53165283c0e2dd033e713251ba7ece5fca9a0142ed83",
- "nh": "0a76ef67fd2943c2087ee5a2b21a5fa2e3b3d4fef6f6af9816a214dfe1181ad3",
- "chars": 21382,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/369/031_31- يغالطونك إذ يقولون ： مجالس الذكر تورُّطٌ في البدعة وملهاة عن العمل الإسلامي.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/369/031_31- يغالطونك إذ يقولون ： مجالس الذكر تورُّطٌ في البدعة وملهاة عن العمل الإسلامي.txt",
-   "sha256": "721512c49d65a33e5f8d53165283c0e2dd033e713251ba7ece5fca9a0142ed83",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:5VUJcDVWBw4",
+  "vid": "5VUJcDVWBw4",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--369",
+  "n": 31,
+  "n_src": "plpos",
+  "title": "31- يغالطونك إذ يقولون : مجالس الذكر تورُّطٌ في البدعة وملهاة عن العمل الإسلامي",
+  "title_src": "yt_titles",
+  "sha256": "721512c49d65a33e5f8d53165283c0e2dd033e713251ba7ece5fca9a0142ed83",
+  "nh": "0a76ef67fd2943c2087ee5a2b21a5fa2e3b3d4fef6f6af9816a214dfe1181ad3",
+  "chars": 21382,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/369/031_31- يغالطونك إذ يقولون ： مجالس الذكر تورُّطٌ في البدعة وملهاة عن العمل الإسلامي.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/yoghalitonak-031/transcript.txt",
-   "sha256": "2acf58ed4264062b095c0f0d679ef8b024631db294c8a2fe0e60bf7563a08c2e",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-yaghalitun/31.txt",
-   "sha256": "2acf58ed4264062b095c0f0d679ef8b024631db294c8a2fe0e60bf7563a08c2e",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/369/30.txt",
-   "sha256": "721512c49d65a33e5f8d53165283c0e2dd033e713251ba7ece5fca9a0142ed83",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/369/031_31- يغالطونك إذ يقولون ： مجالس الذكر تورُّطٌ في البدعة وملهاة عن العمل الإسلامي.txt",
+      "sha256": "721512c49d65a33e5f8d53165283c0e2dd033e713251ba7ece5fca9a0142ed83",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/yoghalitonak-031/transcript.txt",
+      "sha256": "2acf58ed4264062b095c0f0d679ef8b024631db294c8a2fe0e60bf7563a08c2e",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-yaghalitun/31.txt",
+      "sha256": "2acf58ed4264062b095c0f0d679ef8b024631db294c8a2fe0e60bf7563a08c2e",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/369/30.txt",
+      "sha256": "721512c49d65a33e5f8d53165283c0e2dd033e713251ba7ece5fca9a0142ed83",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9987,
+    "spoken_align_pct": 99.87,
+    "audio_span_pct": 99.63,
+    "words": 3894,
+    "aligned": 3888,
+    "interpolated": 5,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 07:39"
   }
- ],
- "variants": [],
- "also_in": []
 }
