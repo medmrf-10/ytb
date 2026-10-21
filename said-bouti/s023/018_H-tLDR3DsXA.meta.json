@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:H-tLDR3DsXA",
- "vid": "H-tLDR3DsXA",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--369",
- "n": 18,
- "n_src": "plpos",
- "title": "18 - يغالطونك إذ يقولون | القرآن يغني عن السنة",
- "title_src": "yt_titles",
- "sha256": "aa49458669ec6d3b23f9c187b8dc92d8e0a693fbb22ef1053f1bc48a4a91b58a",
- "nh": "c165fc621f49af5ac23e1c52d558cb497b1d3a557f0cf8c5ccda0a54e653f73d",
- "chars": 22912,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/369/018_18 - يغالطونك إذ يقولون ｜ القرآن يغني عن السنة.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/369/018_18 - يغالطونك إذ يقولون ｜ القرآن يغني عن السنة.txt",
-   "sha256": "aa49458669ec6d3b23f9c187b8dc92d8e0a693fbb22ef1053f1bc48a4a91b58a",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:H-tLDR3DsXA",
+  "vid": "H-tLDR3DsXA",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--369",
+  "n": 18,
+  "n_src": "plpos",
+  "title": "18 - يغالطونك إذ يقولون | القرآن يغني عن السنة",
+  "title_src": "yt_titles",
+  "sha256": "aa49458669ec6d3b23f9c187b8dc92d8e0a693fbb22ef1053f1bc48a4a91b58a",
+  "nh": "c165fc621f49af5ac23e1c52d558cb497b1d3a557f0cf8c5ccda0a54e653f73d",
+  "chars": 22912,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/369/018_18 - يغالطونك إذ يقولون ｜ القرآن يغني عن السنة.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/yoghalitonak-018/transcript.txt",
-   "sha256": "cf9422de64d8ed4f719c4bfd9bba00b68af696fe73023e5f45270efa0a5b3cff",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-yaghalitun/18.txt",
-   "sha256": "cf9422de64d8ed4f719c4bfd9bba00b68af696fe73023e5f45270efa0a5b3cff",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/369/17.txt",
-   "sha256": "aa49458669ec6d3b23f9c187b8dc92d8e0a693fbb22ef1053f1bc48a4a91b58a",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/369/018_18 - يغالطونك إذ يقولون ｜ القرآن يغني عن السنة.txt",
+      "sha256": "aa49458669ec6d3b23f9c187b8dc92d8e0a693fbb22ef1053f1bc48a4a91b58a",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/yoghalitonak-018/transcript.txt",
+      "sha256": "cf9422de64d8ed4f719c4bfd9bba00b68af696fe73023e5f45270efa0a5b3cff",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-yaghalitun/18.txt",
+      "sha256": "cf9422de64d8ed4f719c4bfd9bba00b68af696fe73023e5f45270efa0a5b3cff",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/369/17.txt",
+      "sha256": "aa49458669ec6d3b23f9c187b8dc92d8e0a693fbb22ef1053f1bc48a4a91b58a",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.999,
+    "spoken_align_pct": 99.9,
+    "audio_span_pct": 99.88,
+    "words": 4111,
+    "aligned": 4107,
+    "interpolated": 4,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 07:22"
   }
- ],
- "variants": [],
- "also_in": []
 }

@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:QIexrn_kiEM",
- "vid": "QIexrn_kiEM",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--369",
- "n": 21,
- "n_src": "plpos",
- "title": "21- يغالطونك إذ يقولون : الإيمان بالقضاء سبب التواكل والكسل الذي ران على المجتمعات الإسلامية.",
- "title_src": "yt_titles",
- "sha256": "5425b0efbc54bb175dfd0795d194bcf0168fadbc97c3df21c7ceb31012a4c5d6",
- "nh": "f60e0735cd37de8706a138dbebb6ba1f1a7d788c5642a215622b978278b1c101",
- "chars": 19305,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/369/021_21- يغالطونك إذ يقولون ： الإيمان بالقضاء سبب التواكل والكسل الذي ران على المجتمع.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/369/021_21- يغالطونك إذ يقولون ： الإيمان بالقضاء سبب التواكل والكسل الذي ران على المجتمع.txt",
-   "sha256": "5425b0efbc54bb175dfd0795d194bcf0168fadbc97c3df21c7ceb31012a4c5d6",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:QIexrn_kiEM",
+  "vid": "QIexrn_kiEM",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--369",
+  "n": 21,
+  "n_src": "plpos",
+  "title": "21- يغالطونك إذ يقولون : الإيمان بالقضاء سبب التواكل والكسل الذي ران على المجتمعات الإسلامية.",
+  "title_src": "yt_titles",
+  "sha256": "5425b0efbc54bb175dfd0795d194bcf0168fadbc97c3df21c7ceb31012a4c5d6",
+  "nh": "f60e0735cd37de8706a138dbebb6ba1f1a7d788c5642a215622b978278b1c101",
+  "chars": 19305,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/369/021_21- يغالطونك إذ يقولون ： الإيمان بالقضاء سبب التواكل والكسل الذي ران على المجتمع.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/yoghalitonak-021/transcript.txt",
-   "sha256": "a0490c05bbd3b4238b998beed2cc9e5484b7428c2bb45eea8a81928f8428d008",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-yaghalitun/21.txt",
-   "sha256": "a0490c05bbd3b4238b998beed2cc9e5484b7428c2bb45eea8a81928f8428d008",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/369/20.txt",
-   "sha256": "5425b0efbc54bb175dfd0795d194bcf0168fadbc97c3df21c7ceb31012a4c5d6",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/369/021_21- يغالطونك إذ يقولون ： الإيمان بالقضاء سبب التواكل والكسل الذي ران على المجتمع.txt",
+      "sha256": "5425b0efbc54bb175dfd0795d194bcf0168fadbc97c3df21c7ceb31012a4c5d6",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/yoghalitonak-021/transcript.txt",
+      "sha256": "a0490c05bbd3b4238b998beed2cc9e5484b7428c2bb45eea8a81928f8428d008",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-yaghalitun/21.txt",
+      "sha256": "a0490c05bbd3b4238b998beed2cc9e5484b7428c2bb45eea8a81928f8428d008",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/369/20.txt",
+      "sha256": "5425b0efbc54bb175dfd0795d194bcf0168fadbc97c3df21c7ceb31012a4c5d6",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9994,
+    "spoken_align_pct": 99.94,
+    "audio_span_pct": 99.39,
+    "words": 3598,
+    "aligned": 3596,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 07:28"
   }
- ],
- "variants": [],
- "also_in": []
 }
