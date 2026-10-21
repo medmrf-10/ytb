@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:xtAjliATni4",
- "vid": "xtAjliATni4",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--377",
- "n": 12,
- "n_src": "plpos",
- "title": "6- كبرى اليقينيات الكونية | الصفات المعنوية (العلم - الإرادة - القدرة - السمع - البصر - الكلام)",
- "title_src": "yt_titles",
- "sha256": "18d15683c48289b5796898f766deaac731b351b751a1edf486ee424a4ee6aa73",
- "nh": "b32e0a84273cd9ac4b3a4003364f75d60de19eec3af88b4da21b865b0176e446",
- "chars": 21123,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/377/012_6- كبرى اليقينيات الكونية ｜ الصفات المعنوية (العلم - الإرادة - القدرة - السمع - .txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/377/012_6- كبرى اليقينيات الكونية ｜ الصفات المعنوية (العلم - الإرادة - القدرة - السمع - .txt",
-   "sha256": "18d15683c48289b5796898f766deaac731b351b751a1edf486ee424a4ee6aa73",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:xtAjliATni4",
+  "vid": "xtAjliATni4",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--377",
+  "n": 12,
+  "n_src": "plpos",
+  "title": "6- كبرى اليقينيات الكونية | الصفات المعنوية (العلم - الإرادة - القدرة - السمع - البصر - الكلام)",
+  "title_src": "yt_titles",
+  "sha256": "18d15683c48289b5796898f766deaac731b351b751a1edf486ee424a4ee6aa73",
+  "nh": "b32e0a84273cd9ac4b3a4003364f75d60de19eec3af88b4da21b865b0176e446",
+  "chars": 21123,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/377/012_6- كبرى اليقينيات الكونية ｜ الصفات المعنوية (العلم - الإرادة - القدرة - السمع - .txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/kobraElya9inyat-012/transcript.txt",
-   "sha256": "a5cb7fa877cd7dca8d042629e12bf718b18108f31c5adfe65b11d671241fbadb",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/12.txt",
-   "sha256": "a5cb7fa877cd7dca8d042629e12bf718b18108f31c5adfe65b11d671241fbadb",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/377/012_6- كبرى اليقينيات الكونية ｜ الصفات المعنوية (العلم - الإرادة - القدرة - السمع - .txt",
+      "sha256": "18d15683c48289b5796898f766deaac731b351b751a1edf486ee424a4ee6aa73",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/kobraElya9inyat-012/transcript.txt",
+      "sha256": "a5cb7fa877cd7dca8d042629e12bf718b18108f31c5adfe65b11d671241fbadb",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/12.txt",
+      "sha256": "a5cb7fa877cd7dca8d042629e12bf718b18108f31c5adfe65b11d671241fbadb",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9717,
+    "spoken_align_pct": 97.17,
+    "audio_span_pct": 97.78,
+    "words": 3888,
+    "aligned": 3778,
+    "interpolated": 110,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 13:02"
   }
- ],
- "variants": [],
- "also_in": []
 }

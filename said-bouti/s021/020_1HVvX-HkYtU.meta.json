@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:1HVvX-HkYtU",
- "vid": "1HVvX-HkYtU",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--377",
- "n": 20,
- "n_src": "plpos",
- "title": "14- كبرى اليقينيات الكونية | أجوبة عن إشكالات حول القضاء والقدر",
- "title_src": "yt_titles",
- "sha256": "61e2433e97ced11974c64ff4fa41176d217ee06bc0e88ec3db2334c6bb9ee446",
- "nh": "55aa593367a26e2f5cc6ce11685f9ef13d83d0b7de800d666952cfd3fc84d7fb",
- "chars": 23073,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/377/020_14- كبرى اليقينيات الكونية ｜ أجوبة عن إشكالات حول القضاء والقدر.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/377/020_14- كبرى اليقينيات الكونية ｜ أجوبة عن إشكالات حول القضاء والقدر.txt",
-   "sha256": "61e2433e97ced11974c64ff4fa41176d217ee06bc0e88ec3db2334c6bb9ee446",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:1HVvX-HkYtU",
+  "vid": "1HVvX-HkYtU",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--377",
+  "n": 20,
+  "n_src": "plpos",
+  "title": "14- كبرى اليقينيات الكونية | أجوبة عن إشكالات حول القضاء والقدر",
+  "title_src": "yt_titles",
+  "sha256": "61e2433e97ced11974c64ff4fa41176d217ee06bc0e88ec3db2334c6bb9ee446",
+  "nh": "55aa593367a26e2f5cc6ce11685f9ef13d83d0b7de800d666952cfd3fc84d7fb",
+  "chars": 23073,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/377/020_14- كبرى اليقينيات الكونية ｜ أجوبة عن إشكالات حول القضاء والقدر.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/kobraElya9inyat-020/transcript.txt",
-   "sha256": "8ae2ee0fb6499a45bc66722b94ba07827babf389a5f734c6ea6776728851211c",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/20.txt",
-   "sha256": "8ae2ee0fb6499a45bc66722b94ba07827babf389a5f734c6ea6776728851211c",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/377/19.txt",
-   "sha256": "61e2433e97ced11974c64ff4fa41176d217ee06bc0e88ec3db2334c6bb9ee446",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/377/020_14- كبرى اليقينيات الكونية ｜ أجوبة عن إشكالات حول القضاء والقدر.txt",
+      "sha256": "61e2433e97ced11974c64ff4fa41176d217ee06bc0e88ec3db2334c6bb9ee446",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/kobraElya9inyat-020/transcript.txt",
+      "sha256": "8ae2ee0fb6499a45bc66722b94ba07827babf389a5f734c6ea6776728851211c",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/20.txt",
+      "sha256": "8ae2ee0fb6499a45bc66722b94ba07827babf389a5f734c6ea6776728851211c",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/377/19.txt",
+      "sha256": "61e2433e97ced11974c64ff4fa41176d217ee06bc0e88ec3db2334c6bb9ee446",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9868,
+    "spoken_align_pct": 98.68,
+    "audio_span_pct": 97.78,
+    "words": 4316,
+    "aligned": 4259,
+    "interpolated": 57,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 13:07"
   }
- ],
- "variants": [],
- "also_in": []
 }

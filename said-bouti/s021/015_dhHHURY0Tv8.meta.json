@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:dhHHURY0Tv8",
- "vid": "dhHHURY0Tv8",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--377",
- "n": 15,
- "n_src": "plpos",
- "title": "9- كبرى اليقينيات الكونية | نفي العلة الغائية عن أفعاله جل جلاله",
- "title_src": "yt_titles",
- "sha256": "c3dbf1e71b3c2b3e25a4b08c207066ef2cd9ae67d217c00ef9273ef0ebd221c2",
- "nh": "ec327e8d25fb12a34b2a891f2ea2b2106a182970c3442cff3e9da088bee17fde",
- "chars": 22039,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/377/015_9- كبرى اليقينيات الكونية ｜ نفي العلة الغائية عن أفعاله جل جلاله.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/377/015_9- كبرى اليقينيات الكونية ｜ نفي العلة الغائية عن أفعاله جل جلاله.txt",
-   "sha256": "c3dbf1e71b3c2b3e25a4b08c207066ef2cd9ae67d217c00ef9273ef0ebd221c2",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:dhHHURY0Tv8",
+  "vid": "dhHHURY0Tv8",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--377",
+  "n": 15,
+  "n_src": "plpos",
+  "title": "9- كبرى اليقينيات الكونية | نفي العلة الغائية عن أفعاله جل جلاله",
+  "title_src": "yt_titles",
+  "sha256": "c3dbf1e71b3c2b3e25a4b08c207066ef2cd9ae67d217c00ef9273ef0ebd221c2",
+  "nh": "ec327e8d25fb12a34b2a891f2ea2b2106a182970c3442cff3e9da088bee17fde",
+  "chars": 22039,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/377/015_9- كبرى اليقينيات الكونية ｜ نفي العلة الغائية عن أفعاله جل جلاله.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/kobraElya9inyat-015/transcript.txt",
-   "sha256": "19110cd8d347112a7acfb1e9b770d6790803af1841f17e195fcdfeb72bc22d9f",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/15.txt",
-   "sha256": "19110cd8d347112a7acfb1e9b770d6790803af1841f17e195fcdfeb72bc22d9f",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/377/14.txt",
-   "sha256": "c3dbf1e71b3c2b3e25a4b08c207066ef2cd9ae67d217c00ef9273ef0ebd221c2",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/377/015_9- كبرى اليقينيات الكونية ｜ نفي العلة الغائية عن أفعاله جل جلاله.txt",
+      "sha256": "c3dbf1e71b3c2b3e25a4b08c207066ef2cd9ae67d217c00ef9273ef0ebd221c2",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/kobraElya9inyat-015/transcript.txt",
+      "sha256": "19110cd8d347112a7acfb1e9b770d6790803af1841f17e195fcdfeb72bc22d9f",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/15.txt",
+      "sha256": "19110cd8d347112a7acfb1e9b770d6790803af1841f17e195fcdfeb72bc22d9f",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/377/14.txt",
+      "sha256": "c3dbf1e71b3c2b3e25a4b08c207066ef2cd9ae67d217c00ef9273ef0ebd221c2",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9762,
+    "spoken_align_pct": 97.62,
+    "audio_span_pct": 97.7,
+    "words": 4112,
+    "aligned": 4014,
+    "interpolated": 98,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 13:05"
   }
- ],
- "variants": [],
- "also_in": []
 }
