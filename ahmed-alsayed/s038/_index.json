@@ -1,6 +1,6 @@
 {
-  "aligned": 13,
-  "aligned_ratio": 0.325,
+  "aligned": 20,
+  "aligned_ratio": 0.5,
   "category": "سلسلة علمية",
   "coverage": 1.0,
   "declared_total": 40,
@@ -106,10 +106,10 @@
       "vid": "YLyNJqSioks"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 60265,
-      "dur": 5887,
+      "dur": 5886,
       "file": "010_xZlRqHzbJ4k.txt",
       "n": 10,
       "stem": "010_xZlRqHzbJ4k",
@@ -128,9 +128,9 @@
       "vid": "ykF8F9rEG0Y"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 39301,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 39112,
       "dur": 3908,
       "file": "012_i3eXEMKxKyU.txt",
       "n": 12,
@@ -139,10 +139,10 @@
       "vid": "i3eXEMKxKyU"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 41912,
-      "dur": 4237,
+      "dur": 4236,
       "file": "013_XHhaO6G1WbY.txt",
       "n": 13,
       "stem": "013_XHhaO6G1WbY",
@@ -161,8 +161,8 @@
       "vid": "ipEVCtRB_28"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 11712,
       "dur": 2811,
       "file": "015_sDs_INv_nLw.txt",
@@ -172,8 +172,8 @@
       "vid": "sDs_INv_nLw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 59649,
       "dur": 5978,
       "file": "016_wz-ODqlz-7o.txt",
@@ -183,10 +183,10 @@
       "vid": "wz-ODqlz-7o"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 31564,
-      "dur": 3233,
+      "dur": 3232,
       "file": "017_MZT6cz2BA4w.txt",
       "n": 17,
       "stem": "017_MZT6cz2BA4w",
@@ -194,8 +194,8 @@
       "vid": "MZT6cz2BA4w"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 32852,
       "dur": 3247,
       "file": "018_pyM_gFLRGqU.txt",
