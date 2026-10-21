@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:RC0a2_0wgvw",
- "vid": "RC0a2_0wgvw",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--403",
- "n": 1,
- "n_src": "plpos",
- "title": "مقدمة 1- فقه السيرة النبوية | أهمية السيرة النبوية في فهم الإسلام",
- "title_src": "yt_titles",
- "sha256": "cb814e9f50227be928d9328bf931baf3db627bbd85ccf8a502a8387d390cfdd4",
- "nh": "afd2631a334c2129304e193f8877df81412eb5eed7c26263e4223e0170251758",
- "chars": 21594,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/403/001_مقدمة 1- فقه السيرة النبوية ｜ أهمية السيرة النبوية في فهم الإسلام.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/403/001_مقدمة 1- فقه السيرة النبوية ｜ أهمية السيرة النبوية في فهم الإسلام.txt",
-   "sha256": "cb814e9f50227be928d9328bf931baf3db627bbd85ccf8a502a8387d390cfdd4",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:RC0a2_0wgvw",
+  "vid": "RC0a2_0wgvw",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--403",
+  "n": 1,
+  "n_src": "plpos",
+  "title": "مقدمة 1- فقه السيرة النبوية | أهمية السيرة النبوية في فهم الإسلام",
+  "title_src": "yt_titles",
+  "sha256": "cb814e9f50227be928d9328bf931baf3db627bbd85ccf8a502a8387d390cfdd4",
+  "nh": "afd2631a334c2129304e193f8877df81412eb5eed7c26263e4223e0170251758",
+  "chars": 21594,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/403/001_مقدمة 1- فقه السيرة النبوية ｜ أهمية السيرة النبوية في فهم الإسلام.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/fi9hElsirah-001/transcript.txt",
-   "sha256": "c0207c12a4d8c86cb66391f22331bb9ab4de90e96c152213127bd018a65fa8f0",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-sira/01.txt",
-   "sha256": "c0207c12a4d8c86cb66391f22331bb9ab4de90e96c152213127bd018a65fa8f0",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/403/001_مقدمة 1- فقه السيرة النبوية ｜ أهمية السيرة النبوية في فهم الإسلام.txt",
+      "sha256": "cb814e9f50227be928d9328bf931baf3db627bbd85ccf8a502a8387d390cfdd4",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/fi9hElsirah-001/transcript.txt",
+      "sha256": "c0207c12a4d8c86cb66391f22331bb9ab4de90e96c152213127bd018a65fa8f0",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-sira/01.txt",
+      "sha256": "c0207c12a4d8c86cb66391f22331bb9ab4de90e96c152213127bd018a65fa8f0",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9997,
+    "spoken_align_pct": 99.97,
+    "audio_span_pct": 99.89,
+    "words": 3800,
+    "aligned": 3798,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 15:41"
   }
- ],
- "variants": [],
- "also_in": []
 }

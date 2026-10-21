@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:336RK4yHB04",
- "vid": "336RK4yHB04",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--403",
- "n": 9,
- "n_src": "plpos",
- "title": "7- فقه السيرة النبوية | الإيذاء - سياسة المفاوضات (1)",
- "title_src": "yt_titles",
- "sha256": "ab20b7fc11635a082fd364f56db560c38792fe6df5724ea44d2ad4e804eef914",
- "nh": "304f4d74d69d6e00c01a15cfb29fcbd90809bcc7d2ef90076dd4805b9384fcba",
- "chars": 23224,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/403/009_7- فقه السيرة النبوية ｜ الإيذاء - سياسة المفاوضات (1).txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/403/009_7- فقه السيرة النبوية ｜ الإيذاء - سياسة المفاوضات (1).txt",
-   "sha256": "ab20b7fc11635a082fd364f56db560c38792fe6df5724ea44d2ad4e804eef914",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:336RK4yHB04",
+  "vid": "336RK4yHB04",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--403",
+  "n": 9,
+  "n_src": "plpos",
+  "title": "7- فقه السيرة النبوية | الإيذاء - سياسة المفاوضات (1)",
+  "title_src": "yt_titles",
+  "sha256": "ab20b7fc11635a082fd364f56db560c38792fe6df5724ea44d2ad4e804eef914",
+  "nh": "304f4d74d69d6e00c01a15cfb29fcbd90809bcc7d2ef90076dd4805b9384fcba",
+  "chars": 23224,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/403/009_7- فقه السيرة النبوية ｜ الإيذاء - سياسة المفاوضات (1).txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/fi9hElsirah-009/transcript.txt",
-   "sha256": "e95f9c1f4850f633ef8ee3769670beaf85b3333913c377022919929f7405e7cd",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-sira/09.txt",
-   "sha256": "e95f9c1f4850f633ef8ee3769670beaf85b3333913c377022919929f7405e7cd",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/403/009_7- فقه السيرة النبوية ｜ الإيذاء - سياسة المفاوضات (1).txt",
+      "sha256": "ab20b7fc11635a082fd364f56db560c38792fe6df5724ea44d2ad4e804eef914",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/fi9hElsirah-009/transcript.txt",
+      "sha256": "e95f9c1f4850f633ef8ee3769670beaf85b3333913c377022919929f7405e7cd",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-sira/09.txt",
+      "sha256": "e95f9c1f4850f633ef8ee3769670beaf85b3333913c377022919929f7405e7cd",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9981,
+    "spoken_align_pct": 99.81,
+    "audio_span_pct": 99.92,
+    "words": 4345,
+    "aligned": 4311,
+    "interpolated": 8,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 15:49"
   }
- ],
- "variants": [],
- "also_in": []
 }

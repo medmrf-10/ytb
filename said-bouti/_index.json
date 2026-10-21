@@ -311,14 +311,14 @@
       "transcribed": 22
     },
     {
-      "aligned": 0,
-      "aligned_pct": "0.0%",
+      "aligned": 10,
+      "aligned_pct": "14.3%",
       "category": "السيرة النبوية والتاريخ",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
       "declared_total": 70,
       "dir": "s030/",
-      "dur": 208967,
+      "dur": 208962,
       "key": "s030",
       "series_id": "bouti__s030",
       "title": "شرح كتاب فقه السيرة النبوية ومعه موجز تاريخ الخلافة الراشدة",
@@ -481,8 +481,8 @@
   ],
   "slug": "said-bouti",
   "totals": {
-    "aligned": 561,
-    "chars": 20561743,
+    "aligned": 571,
+    "chars": 20561722,
     "lessons": 1165,
     "series": 34
   },

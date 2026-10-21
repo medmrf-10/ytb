@@ -1,14 +1,14 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 10,
+  "aligned_ratio": 0.1429,
   "category": "السيرة النبوية والتاريخ",
   "coverage": 1.0,
   "declared_total": 70,
   "key": "s030",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 21389,
       "dur": 2751,
       "file": "001_RC0a2_0wgvw.txt",
@@ -18,10 +18,10 @@
       "vid": "RC0a2_0wgvw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 21624,
-      "dur": 3028,
+      "dur": 3027,
       "file": "002_E8pCzVTXq9A.txt",
       "n": 2,
       "stem": "002_E8pCzVTXq9A",
@@ -29,10 +29,10 @@
       "vid": "E8pCzVTXq9A"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 20536,
-      "dur": 2985,
+      "dur": 2984,
       "file": "003_td8YF0pwm3Q.txt",
       "n": 3,
       "stem": "003_td8YF0pwm3Q",
@@ -40,10 +40,10 @@
       "vid": "td8YF0pwm3Q"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 14344,
-      "dur": 2066,
+      "dur": 2065,
       "file": "004_OyjWmPNQW9E.txt",
       "n": 4,
       "stem": "004_OyjWmPNQW9E",
@@ -51,10 +51,10 @@
       "vid": "OyjWmPNQW9E"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 22073,
-      "dur": 3039,
+      "dur": 3038,
       "file": "005_YBR9ZSkolko.txt",
       "n": 5,
       "stem": "005_YBR9ZSkolko",
@@ -62,10 +62,10 @@
       "vid": "YBR9ZSkolko"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 25421,
-      "dur": 3336,
+      "dur": 3335,
       "file": "006_o09TV1dnfRw.txt",
       "n": 6,
       "stem": "006_o09TV1dnfRw",
@@ -73,8 +73,8 @@
       "vid": "o09TV1dnfRw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 24593,
       "dur": 3310,
       "file": "007_nvm2HHUfnJE.txt",
@@ -84,8 +84,8 @@
       "vid": "nvm2HHUfnJE"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 21240,
       "dur": 2956,
       "file": "008_WXGTNmkYBhE.txt",
@@ -95,8 +95,8 @@
       "vid": "WXGTNmkYBhE"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 22751,
       "dur": 3044,
       "file": "009_336RK4yHB04.txt",
@@ -106,9 +106,9 @@
       "vid": "336RK4yHB04"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 21861,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 21840,
       "dur": 3000,
       "file": "010_88aOI5U3Ixs.txt",
       "n": 10,
