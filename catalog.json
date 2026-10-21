@@ -1,7 +1,7 @@
 {
   "sheikhs": [
     {
-      "aligned": 494,
+      "aligned": 498,
       "chars": 20561743,
       "lessons": 1165,
       "name": "محمد سعيد رمضان البوطي",
@@ -248,14 +248,14 @@
           "transcribed": 9
         },
         {
-          "aligned": 50,
-          "aligned_pct": "92.6%",
+          "aligned": 54,
+          "aligned_pct": "100.0%",
           "category": "العقيدة والفكر الإسلامي",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 54,
           "dir": "s021/",
-          "dur": 158972,
+          "dur": 158968,
           "key": "s021",
           "series_id": "bouti__s021",
           "title": "شرح كتاب كبرى اليقينيات الكونية (وجود الخالق ووظيفة المخلوق)",
@@ -489,8 +489,8 @@
       "slug": "said-bouti"
     },
     {
-      "aligned": 416,
-      "chars": 13955014,
+      "aligned": 422,
+      "chars": 13954773,
       "lessons": 648,
       "name": "محمد متولي الشعراوي",
       "path": "sharawi/",
@@ -512,14 +512,14 @@
           "transcribed": 16
         },
         {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
+          "aligned": 6,
+          "aligned_pct": "10.9%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 55,
           "dir": "s002/",
-          "dur": 125687,
+          "dur": 125686,
           "key": "s002",
           "series_id": "shaarawy__s002",
           "title": "تفسير سورة آل عمران",
@@ -5760,8 +5760,8 @@
     }
   ],
   "totals": {
-    "aligned": 3319,
-    "chars": 157898987,
+    "aligned": 3329,
+    "chars": 157898746,
     "lessons": 6712,
     "series": 389,
     "sheikhs": 26

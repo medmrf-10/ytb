@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:a4sFgHLHNiY",
- "vid": "a4sFgHLHNiY",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--377",
- "n": 51,
- "n_src": "plpos",
- "title": "45- كبرى اليقينيات الكونية | الردة وأسبابها | الحاكمية (1)",
- "title_src": "yt_titles",
- "sha256": "8a28284c06c596e228c0cd275e77b85c1ede2cfac46461329467ce72b5f4aa5e",
- "nh": "269c745b97e0d3304c26e01a1529754ffcfa8b122f193904195f619870080af3",
- "chars": 20223,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/377/051_45- كبرى اليقينيات الكونية ｜ الردة وأسبابها ｜ الحاكمية (1).txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/377/051_45- كبرى اليقينيات الكونية ｜ الردة وأسبابها ｜ الحاكمية (1).txt",
-   "sha256": "8a28284c06c596e228c0cd275e77b85c1ede2cfac46461329467ce72b5f4aa5e",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:a4sFgHLHNiY",
+  "vid": "a4sFgHLHNiY",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--377",
+  "n": 51,
+  "n_src": "plpos",
+  "title": "45- كبرى اليقينيات الكونية | الردة وأسبابها | الحاكمية (1)",
+  "title_src": "yt_titles",
+  "sha256": "8a28284c06c596e228c0cd275e77b85c1ede2cfac46461329467ce72b5f4aa5e",
+  "nh": "269c745b97e0d3304c26e01a1529754ffcfa8b122f193904195f619870080af3",
+  "chars": 20223,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/377/051_45- كبرى اليقينيات الكونية ｜ الردة وأسبابها ｜ الحاكمية (1).txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/kobraElya9inyat-051/transcript.txt",
-   "sha256": "12f99e4adf444ec50b7041163a8d6f9106350f485a2c88ffb2188b6dcb8a7d8b",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/51.txt",
-   "sha256": "12f99e4adf444ec50b7041163a8d6f9106350f485a2c88ffb2188b6dcb8a7d8b",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/377/0.txt",
-   "sha256": "8a28284c06c596e228c0cd275e77b85c1ede2cfac46461329467ce72b5f4aa5e",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/377/051_45- كبرى اليقينيات الكونية ｜ الردة وأسبابها ｜ الحاكمية (1).txt",
+      "sha256": "8a28284c06c596e228c0cd275e77b85c1ede2cfac46461329467ce72b5f4aa5e",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/kobraElya9inyat-051/transcript.txt",
+      "sha256": "12f99e4adf444ec50b7041163a8d6f9106350f485a2c88ffb2188b6dcb8a7d8b",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/51.txt",
+      "sha256": "12f99e4adf444ec50b7041163a8d6f9106350f485a2c88ffb2188b6dcb8a7d8b",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/377/0.txt",
+      "sha256": "8a28284c06c596e228c0cd275e77b85c1ede2cfac46461329467ce72b5f4aa5e",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9992,
+    "spoken_align_pct": 99.92,
+    "audio_span_pct": 99.96,
+    "words": 3779,
+    "aligned": 3776,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 13:43"
   }
- ],
- "variants": [],
- "also_in": []
 }

@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:hX5WkNWEDb4",
- "vid": "hX5WkNWEDb4",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--377",
- "n": 54,
- "n_src": "plpos",
- "title": "48- كبرى اليقينيات الكونية |  لا حاكمية إلا الله ووظيفة الإنسان تنفيذ حكم الله في الأرض",
- "title_src": "yt_titles",
- "sha256": "bb6eabfc30c39c022db3c39d8d110e974078a6c22790c727f438f57a10a3cb50",
- "nh": "07b0818d36132e1e9ccddc3bd201431394b71133b7ef0ab369cbbf8d206d9f0e",
- "chars": 23011,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/377/054_48- كبرى اليقينيات الكونية ｜  لا حاكمية إلا الله ووظيفة الإنسان تنفيذ حكم الله ف.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/377/054_48- كبرى اليقينيات الكونية ｜  لا حاكمية إلا الله ووظيفة الإنسان تنفيذ حكم الله ف.txt",
-   "sha256": "bb6eabfc30c39c022db3c39d8d110e974078a6c22790c727f438f57a10a3cb50",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:hX5WkNWEDb4",
+  "vid": "hX5WkNWEDb4",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--377",
+  "n": 54,
+  "n_src": "plpos",
+  "title": "48- كبرى اليقينيات الكونية |  لا حاكمية إلا الله ووظيفة الإنسان تنفيذ حكم الله في الأرض",
+  "title_src": "yt_titles",
+  "sha256": "bb6eabfc30c39c022db3c39d8d110e974078a6c22790c727f438f57a10a3cb50",
+  "nh": "07b0818d36132e1e9ccddc3bd201431394b71133b7ef0ab369cbbf8d206d9f0e",
+  "chars": 23011,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/377/054_48- كبرى اليقينيات الكونية ｜  لا حاكمية إلا الله ووظيفة الإنسان تنفيذ حكم الله ف.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/kobraElya9inyat-054/transcript.txt",
-   "sha256": "bd80daf7eb90c2c0c81a8c6bb6f76fe937c4d3c716a738f1ab0e4508921d03e9",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/54.txt",
-   "sha256": "bd80daf7eb90c2c0c81a8c6bb6f76fe937c4d3c716a738f1ab0e4508921d03e9",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/377/53.txt",
-   "sha256": "bb6eabfc30c39c022db3c39d8d110e974078a6c22790c727f438f57a10a3cb50",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/377/054_48- كبرى اليقينيات الكونية ｜  لا حاكمية إلا الله ووظيفة الإنسان تنفيذ حكم الله ف.txt",
+      "sha256": "bb6eabfc30c39c022db3c39d8d110e974078a6c22790c727f438f57a10a3cb50",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/kobraElya9inyat-054/transcript.txt",
+      "sha256": "bd80daf7eb90c2c0c81a8c6bb6f76fe937c4d3c716a738f1ab0e4508921d03e9",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/54.txt",
+      "sha256": "bd80daf7eb90c2c0c81a8c6bb6f76fe937c4d3c716a738f1ab0e4508921d03e9",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/377/53.txt",
+      "sha256": "bb6eabfc30c39c022db3c39d8d110e974078a6c22790c727f438f57a10a3cb50",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9993,
+    "spoken_align_pct": 99.93,
+    "audio_span_pct": 100.0,
+    "words": 4238,
+    "aligned": 4235,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 13:46"
   }
- ],
- "variants": [],
- "also_in": []
 }

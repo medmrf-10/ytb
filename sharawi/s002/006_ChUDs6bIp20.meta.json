@@ -1,34 +1,47 @@
 {
- "v": 1,
- "lid": "yt:ChUDs6bIp20",
- "vid": "ChUDs6bIp20",
- "sheikh": "sharawi",
- "row_id": "sharawi--501",
- "n": 6,
- "n_src": "playlist",
- "title": "تفسير سورة آل عمران للشيخ الشعراوي - من الآية 16 إلى الآية 18",
- "title_src": "youtube",
- "sha256": "dba37eb15939d5c701093121d51958c33792daad7bba0a789ee5af82b2024e06",
- "chars": 24692,
- "quality": "ok",
- "winner": {
-  "store": "ytb-transcribe",
-  "path": "ytb/sharawi/501/006_ChUDs6bIp20.txt",
-  "model": "gemini-3.8-flash-high"
- },
- "sources": [
-  {
-   "store": "youtube",
-   "path": "https://youtu.be/ChUDs6bIp20",
-   "rel": "source"
+  "v": 1,
+  "lid": "yt:ChUDs6bIp20",
+  "vid": "ChUDs6bIp20",
+  "sheikh": "sharawi",
+  "row_id": "sharawi--501",
+  "n": 6,
+  "n_src": "playlist",
+  "title": "تفسير سورة آل عمران للشيخ الشعراوي - من الآية 16 إلى الآية 18",
+  "title_src": "youtube",
+  "sha256": "dba37eb15939d5c701093121d51958c33792daad7bba0a789ee5af82b2024e06",
+  "chars": 24692,
+  "quality": "ok",
+  "winner": {
+    "store": "ytb-transcribe",
+    "path": "ytb/sharawi/501/006_ChUDs6bIp20.txt",
+    "model": "gemini-3.8-flash-high"
+  },
+  "sources": [
+    {
+      "store": "youtube",
+      "path": "https://youtu.be/ChUDs6bIp20",
+      "rel": "source"
+    }
+  ],
+  "series": "sharawi--501",
+  "series_slug": "sharawi--501",
+  "lesson_no": 6,
+  "yt": "ChUDs6bIp20",
+  "transcribed": "2026-10-16 07:05:06",
+  "audio": "ytb-build/audio/sharawi--501/006.mp3",
+  "job": "agy+gemini عبر agy",
+  "usage_tail": "usage before: {}\nwall: 479s\nstatus: ERROR | conversation: 14ae1254-e2ba-49c0-bab8-61a616dec023\nusage tokens: {'input_tokens': 262321, 'output_tokens': 28612, 'thinking_tokens': 14765, 'cache_read_tokens': 2387339, 'total_tokens': 290933}\ndenied: None\nusage after: {}\nbucket deltas (percentage points): {}\nchars: 24691 | words: 4626\nduplicate 8/12-gram runs: 10\nwrote /root/workspace/ytb/sharawi/501/006_ChUDs6bIp20.txt\n",
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9972,
+    "spoken_align_pct": 99.72,
+    "audio_span_pct": 99.99,
+    "words": 4594,
+    "aligned": 4579,
+    "interpolated": 13,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 13:50"
   }
- ],
- "series": "sharawi--501",
- "series_slug": "sharawi--501",
- "lesson_no": 6,
- "yt": "ChUDs6bIp20",
- "transcribed": "2026-10-16 07:05:06",
- "audio": "ytb-build/audio/sharawi--501/006.mp3",
- "job": "agy+gemini عبر agy",
- "usage_tail": "usage before: {}\nwall: 479s\nstatus: ERROR | conversation: 14ae1254-e2ba-49c0-bab8-61a616dec023\nusage tokens: {'input_tokens': 262321, 'output_tokens': 28612, 'thinking_tokens': 14765, 'cache_read_tokens': 2387339, 'total_tokens': 290933}\ndenied: None\nusage after: {}\nbucket deltas (percentage points): {}\nchars: 24691 | words: 4626\nduplicate 8/12-gram runs: 10\nwrote /root/workspace/ytb/sharawi/501/006_ChUDs6bIp20.txt\n"
 }
