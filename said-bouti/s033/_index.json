@@ -1,6 +1,6 @@
 {
-  "aligned": 2,
-  "aligned_ratio": 0.0065,
+  "aligned": 5,
+  "aligned_ratio": 0.0161,
   "category": "التزكية والتصوف",
   "coverage": 1.0,
   "declared_total": 310,
@@ -524,10 +524,10 @@
       "vid": "BSnXsJ3W_TE"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 19822,
-      "dur": 2476,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 19802,
+      "dur": 2477,
       "file": "048_archive__bouti__s033__ep048.txt",
       "n": 48,
       "stem": "048_archive__bouti__s033__ep048",
@@ -1965,10 +1965,10 @@
       "vid": "CZCXrc1VPjI"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 22336,
-      "dur": 2706,
+      "dur": 2707,
       "file": "179_archive__bouti__s033__ep179.txt",
       "n": 179,
       "stem": "179_archive__bouti__s033__ep179",
@@ -3362,10 +3362,10 @@
       "vid": "itY7dWBH6ZQ"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 23557,
-      "dur": 3245,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 23538,
+      "dur": 3246,
       "file": "306_archive__bouti__s033__ep304.txt",
       "n": 306,
       "stem": "306_archive__bouti__s033__ep304",

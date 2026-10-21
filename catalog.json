@@ -1,8 +1,8 @@
 {
   "sheikhs": [
     {
-      "aligned": 450,
-      "chars": 20561798,
+      "aligned": 455,
+      "chars": 20561759,
       "lessons": 1165,
       "name": "محمد سعيد رمضان البوطي",
       "path": "said-bouti/",
@@ -248,14 +248,14 @@
           "transcribed": 9
         },
         {
-          "aligned": 9,
-          "aligned_pct": "16.7%",
+          "aligned": 11,
+          "aligned_pct": "20.4%",
           "category": "العقيدة والفكر الإسلامي",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 54,
           "dir": "s021/",
-          "dur": 158993,
+          "dur": 158991,
           "key": "s021",
           "series_id": "bouti__s021",
           "title": "شرح كتاب كبرى اليقينيات الكونية (وجود الخالق ووظيفة المخلوق)",
@@ -346,14 +346,14 @@
           "transcribed": 38
         },
         {
-          "aligned": 2,
-          "aligned_pct": "0.7%",
+          "aligned": 5,
+          "aligned_pct": "1.6%",
           "category": "التزكية والتصوف",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 310,
           "dir": "s033/",
-          "dur": 811382,
+          "dur": 811385,
           "key": "s033",
           "series_id": "bouti__s033",
           "title": "شرح الحكم العطائية لابن عطاء الله السكندري",
@@ -5760,8 +5760,8 @@
     }
   ],
   "totals": {
-    "aligned": 3275,
-    "chars": 157899042,
+    "aligned": 3280,
+    "chars": 157899003,
     "lessons": 6712,
     "series": 389,
     "sheikhs": 26

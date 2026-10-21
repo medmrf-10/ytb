@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:XrBUrI_V4Hc",
- "vid": "XrBUrI_V4Hc",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--377",
- "n": 11,
- "n_src": "plpos",
- "title": "5- كبرى اليقينيات الكونية | صفات الله السلبية (القيام بالذات والمخالفة للحوادث)",
- "title_src": "yt_titles",
- "sha256": "6b4bf905c3093e3ecdb171ec38a7f279e8a2fe6829c2d9bc377f60c42c808f3d",
- "nh": "b60350d05899309e20bab12ca6e44153ee1bedfd7d26d042e7611ea2f19af68a",
- "chars": 21359,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/377/011_5- كبرى اليقينيات الكونية ｜ صفات الله السلبية (القيام بالذات والمخالفة للحوادث).txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/377/011_5- كبرى اليقينيات الكونية ｜ صفات الله السلبية (القيام بالذات والمخالفة للحوادث).txt",
-   "sha256": "6b4bf905c3093e3ecdb171ec38a7f279e8a2fe6829c2d9bc377f60c42c808f3d",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:XrBUrI_V4Hc",
+  "vid": "XrBUrI_V4Hc",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--377",
+  "n": 11,
+  "n_src": "plpos",
+  "title": "5- كبرى اليقينيات الكونية | صفات الله السلبية (القيام بالذات والمخالفة للحوادث)",
+  "title_src": "yt_titles",
+  "sha256": "6b4bf905c3093e3ecdb171ec38a7f279e8a2fe6829c2d9bc377f60c42c808f3d",
+  "nh": "b60350d05899309e20bab12ca6e44153ee1bedfd7d26d042e7611ea2f19af68a",
+  "chars": 21359,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/377/011_5- كبرى اليقينيات الكونية ｜ صفات الله السلبية (القيام بالذات والمخالفة للحوادث).txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/kobraElya9inyat-011/transcript.txt",
-   "sha256": "b9547bc52efacabf38fa635bd249c5a2d62bd474b2580991e3f4c4ace7aea70a",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/11.txt",
-   "sha256": "b9547bc52efacabf38fa635bd249c5a2d62bd474b2580991e3f4c4ace7aea70a",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/377/011_5- كبرى اليقينيات الكونية ｜ صفات الله السلبية (القيام بالذات والمخالفة للحوادث).txt",
+      "sha256": "6b4bf905c3093e3ecdb171ec38a7f279e8a2fe6829c2d9bc377f60c42c808f3d",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/kobraElya9inyat-011/transcript.txt",
+      "sha256": "b9547bc52efacabf38fa635bd249c5a2d62bd474b2580991e3f4c4ace7aea70a",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/11.txt",
+      "sha256": "b9547bc52efacabf38fa635bd249c5a2d62bd474b2580991e3f4c4ace7aea70a",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9736,
+    "spoken_align_pct": 97.36,
+    "audio_span_pct": 97.56,
+    "words": 4013,
+    "aligned": 3907,
+    "interpolated": 106,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 12:32"
   }
- ],
- "variants": [],
- "also_in": []
 }

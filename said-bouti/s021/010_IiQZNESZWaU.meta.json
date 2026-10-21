@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:IiQZNESZWaU",
- "vid": "IiQZNESZWaU",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--377",
- "n": 10,
- "n_src": "plpos",
- "title": "4 - كبرى اليقينيات الكونية | صفات الله السلبية  (الوحدانية والقدم والبقاء)",
- "title_src": "yt_titles",
- "sha256": "e78d41cdf7b885ac90ed7b4645120f0b9026f410bda0e6e505306016e645e59e",
- "nh": "b879c85745c200b490d7d10ef7a067a69aea43bde0a4e0e91febf9a2af29ba33",
- "chars": 23181,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/377/010_4 - كبرى اليقينيات الكونية ｜ صفات الله السلبية  (الوحدانية والقدم والبقاء).txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/377/010_4 - كبرى اليقينيات الكونية ｜ صفات الله السلبية  (الوحدانية والقدم والبقاء).txt",
-   "sha256": "e78d41cdf7b885ac90ed7b4645120f0b9026f410bda0e6e505306016e645e59e",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:IiQZNESZWaU",
+  "vid": "IiQZNESZWaU",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--377",
+  "n": 10,
+  "n_src": "plpos",
+  "title": "4 - كبرى اليقينيات الكونية | صفات الله السلبية  (الوحدانية والقدم والبقاء)",
+  "title_src": "yt_titles",
+  "sha256": "e78d41cdf7b885ac90ed7b4645120f0b9026f410bda0e6e505306016e645e59e",
+  "nh": "b879c85745c200b490d7d10ef7a067a69aea43bde0a4e0e91febf9a2af29ba33",
+  "chars": 23181,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/377/010_4 - كبرى اليقينيات الكونية ｜ صفات الله السلبية  (الوحدانية والقدم والبقاء).txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/kobraElya9inyat-010/transcript.txt",
-   "sha256": "337ee98b7ecd88027644cde04b67b7963e78cfd678298182f25718827f1b7916",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/10.txt",
-   "sha256": "337ee98b7ecd88027644cde04b67b7963e78cfd678298182f25718827f1b7916",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/377/010_4 - كبرى اليقينيات الكونية ｜ صفات الله السلبية  (الوحدانية والقدم والبقاء).txt",
+      "sha256": "e78d41cdf7b885ac90ed7b4645120f0b9026f410bda0e6e505306016e645e59e",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/kobraElya9inyat-010/transcript.txt",
+      "sha256": "337ee98b7ecd88027644cde04b67b7963e78cfd678298182f25718827f1b7916",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/10.txt",
+      "sha256": "337ee98b7ecd88027644cde04b67b7963e78cfd678298182f25718827f1b7916",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9836,
+    "spoken_align_pct": 98.36,
+    "audio_span_pct": 97.88,
+    "words": 4347,
+    "aligned": 4253,
+    "interpolated": 71,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 12:31"
   }
- ],
- "variants": [],
- "also_in": []
 }
