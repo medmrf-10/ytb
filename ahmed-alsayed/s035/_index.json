@@ -1,6 +1,6 @@
 {
-  "aligned": 26,
-  "aligned_ratio": 0.963,
+  "aligned": 27,
+  "aligned_ratio": 1.0,
   "category": "سلسلة علمية",
   "coverage": 1.0,
   "declared_total": 27,
@@ -293,9 +293,9 @@
       "vid": "DqdCDpikAcg"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 59336,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 59220,
       "dur": 5438,
       "file": "027_EV3X-KqnNIw.txt",
       "n": 27,

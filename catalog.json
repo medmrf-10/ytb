@@ -1,7 +1,7 @@
 {
   "sheikhs": [
     {
-      "aligned": 356,
+      "aligned": 357,
       "chars": 20562650,
       "lessons": 1165,
       "name": "محمد سعيد رمضان البوطي",
@@ -66,14 +66,14 @@
           "transcribed": 26
         },
         {
-          "aligned": 29,
-          "aligned_pct": "96.7%",
+          "aligned": 30,
+          "aligned_pct": "100.0%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 30,
           "dir": "s005/",
-          "dur": 52596,
+          "dur": 52595,
           "key": "s005",
           "series_id": "bouti__s005",
           "title": "برنامج مشاهد وعبر من القرآن والسنة",
@@ -1827,8 +1827,8 @@
       "slug": "habib-omar-ibn-hafiz"
     },
     {
-      "aligned": 333,
-      "chars": 18505029,
+      "aligned": 335,
+      "chars": 18504825,
       "lessons": 483,
       "name": "أحمد السيد",
       "path": "ahmed-alsayed/",
@@ -2032,8 +2032,8 @@
           "transcribed": 12
         },
         {
-          "aligned": 26,
-          "aligned_pct": "96.3%",
+          "aligned": 27,
+          "aligned_pct": "100.0%",
           "category": "سلسلة علمية",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
@@ -2046,8 +2046,8 @@
           "transcribed": 27
         },
         {
-          "aligned": 31,
-          "aligned_pct": "96.9%",
+          "aligned": 32,
+          "aligned_pct": "100.0%",
           "category": "سلسلة علمية",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
@@ -2315,7 +2315,7 @@
       "slug": "ahmed-alsayed"
     },
     {
-      "aligned": 173,
+      "aligned": 179,
       "chars": 6584869,
       "lessons": 471,
       "name": "الحبيب علي الجفري",
@@ -2436,14 +2436,14 @@
           "transcribed": 27
         },
         {
-          "aligned": 24,
-          "aligned_pct": "80.0%",
+          "aligned": 30,
+          "aligned_pct": "100.0%",
           "category": "برنامج رمضاني",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 30,
           "dir": "s014/",
-          "dur": 51691,
+          "dur": 51685,
           "key": "s014",
           "series_id": "jifri__s014",
           "title": "برنامج أيها المريد - الموسم الأول (أصول السلوك والتزكية)",
@@ -5720,8 +5720,8 @@
     }
   ],
   "totals": {
-    "aligned": 2984,
-    "chars": 157906828,
+    "aligned": 2993,
+    "chars": 157906624,
     "lessons": 6712,
     "series": 387,
     "sheikhs": 25

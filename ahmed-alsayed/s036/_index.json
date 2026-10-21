@@ -1,6 +1,6 @@
 {
-  "aligned": 31,
-  "aligned_ratio": 0.9688,
+  "aligned": 32,
+  "aligned_ratio": 1.0,
   "category": "سلسلة علمية",
   "coverage": 1.0,
   "declared_total": 32,
@@ -227,9 +227,9 @@
       "vid": "ntmZwfsK7QE"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 37235,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 37147,
       "dur": 3890,
       "file": "021_DN4OCJRAQPs.txt",
       "n": 21,

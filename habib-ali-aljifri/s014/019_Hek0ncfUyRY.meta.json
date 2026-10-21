@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:Hek0ncfUyRY",
- "vid": "Hek0ncfUyRY",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--95",
- "n": 20,
- "n_src": "read",
- "title": "حلقة 19： الجمعة والرواتب ｜ أيها المريد ｜ الحبيب علي الجفري",
- "title_src": "filename",
- "sha256": "2bf36dc38c9769f1edf7666772a89f1beb2f4916f8978f361299934150365ea8",
- "nh": "fae1b624cd507d3e2524a5e049155dc4e2f5db9660310ccc20d8dac657588e24",
- "chars": 18728,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/95/020_حلقة 19： الجمعة والرواتب ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/95/020_حلقة 19： الجمعة والرواتب ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
-   "sha256": "2bf36dc38c9769f1edf7666772a89f1beb2f4916f8978f361299934150365ea8",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:Hek0ncfUyRY",
+  "vid": "Hek0ncfUyRY",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--95",
+  "n": 20,
+  "n_src": "read",
+  "title": "حلقة 19： الجمعة والرواتب ｜ أيها المريد ｜ الحبيب علي الجفري",
+  "title_src": "filename",
+  "sha256": "2bf36dc38c9769f1edf7666772a89f1beb2f4916f8978f361299934150365ea8",
+  "nh": "fae1b624cd507d3e2524a5e049155dc4e2f5db9660310ccc20d8dac657588e24",
+  "chars": 18728,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/95/020_حلقة 19： الجمعة والرواتب ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/95/020_حلقة 19： الجمعة والرواتب ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
+      "sha256": "2bf36dc38c9769f1edf7666772a89f1beb2f4916f8978f361299934150365ea8",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9851,
+    "spoken_align_pct": 98.51,
+    "audio_span_pct": 96.24,
+    "words": 3562,
+    "aligned": 3509,
+    "interpolated": 53,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 07:05"
   }
- ],
- "variants": [],
- "also_in": []
 }

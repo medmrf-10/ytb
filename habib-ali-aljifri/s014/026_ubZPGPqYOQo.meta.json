@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:ubZPGPqYOQo",
- "vid": "ubZPGPqYOQo",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--95",
- "n": 27,
- "n_src": "read",
- "title": "26： صلة المريد بالخلق ｜ أيها المريد ｜ الحبيب علي الجفري",
- "title_src": "filename",
- "sha256": "bac844ec63e1ecdfb0d7e09ef5d63a526d7d404006b9c9d602d9a81dc358b7aa",
- "nh": "0c880a87196f19c4091594aa56bc149edbd0334168bd951fb7d27a619c5309cf",
- "chars": 17557,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/95/027_26： صلة المريد بالخلق ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/95/027_26： صلة المريد بالخلق ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
-   "sha256": "bac844ec63e1ecdfb0d7e09ef5d63a526d7d404006b9c9d602d9a81dc358b7aa",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:ubZPGPqYOQo",
+  "vid": "ubZPGPqYOQo",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--95",
+  "n": 27,
+  "n_src": "read",
+  "title": "26： صلة المريد بالخلق ｜ أيها المريد ｜ الحبيب علي الجفري",
+  "title_src": "filename",
+  "sha256": "bac844ec63e1ecdfb0d7e09ef5d63a526d7d404006b9c9d602d9a81dc358b7aa",
+  "nh": "0c880a87196f19c4091594aa56bc149edbd0334168bd951fb7d27a619c5309cf",
+  "chars": 17557,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/95/027_26： صلة المريد بالخلق ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/95/027_26： صلة المريد بالخلق ｜ أيها المريد ｜  الحبيب علي الجفري.txt",
+      "sha256": "bac844ec63e1ecdfb0d7e09ef5d63a526d7d404006b9c9d602d9a81dc358b7aa",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9857,
+    "spoken_align_pct": 98.57,
+    "audio_span_pct": 96.25,
+    "words": 3348,
+    "aligned": 3300,
+    "interpolated": 48,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 07:08"
   }
- ],
- "variants": [],
- "also_in": []
 }
