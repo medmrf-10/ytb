@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:e-VpMA53P34",
- "vid": "e-VpMA53P34",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--403",
- "n": 57,
- "n_src": "plpos",
- "title": "55 - فقه السيرة النبوية | حج أبي بكر (2)",
- "title_src": "yt_titles",
- "sha256": "9e09248da770eced4e13e1c2d9a153de6a8b47807bb29e58270fee8374cbbdac",
- "nh": "50367515808be9878c4514c6dda391bfc162bcacffa813122d20a480fad40903",
- "chars": 22548,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/403/057_55 - فقه السيرة النبوية ｜ حج أبي بكر (2).txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/403/057_55 - فقه السيرة النبوية ｜ حج أبي بكر (2).txt",
-   "sha256": "9e09248da770eced4e13e1c2d9a153de6a8b47807bb29e58270fee8374cbbdac",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:e-VpMA53P34",
+  "vid": "e-VpMA53P34",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--403",
+  "n": 57,
+  "n_src": "plpos",
+  "title": "55 - فقه السيرة النبوية | حج أبي بكر (2)",
+  "title_src": "yt_titles",
+  "sha256": "9e09248da770eced4e13e1c2d9a153de6a8b47807bb29e58270fee8374cbbdac",
+  "nh": "50367515808be9878c4514c6dda391bfc162bcacffa813122d20a480fad40903",
+  "chars": 22548,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/403/057_55 - فقه السيرة النبوية ｜ حج أبي بكر (2).txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/fi9hElsirah-057/transcript.txt",
-   "sha256": "252ce1a6bb6084272c88d02c74a9f01328f196dc71c51614e917b9b37b4be7ff",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-sira/57.txt",
-   "sha256": "252ce1a6bb6084272c88d02c74a9f01328f196dc71c51614e917b9b37b4be7ff",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/403/057_55 - فقه السيرة النبوية ｜ حج أبي بكر (2).txt",
+      "sha256": "9e09248da770eced4e13e1c2d9a153de6a8b47807bb29e58270fee8374cbbdac",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/fi9hElsirah-057/transcript.txt",
+      "sha256": "252ce1a6bb6084272c88d02c74a9f01328f196dc71c51614e917b9b37b4be7ff",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-sira/57.txt",
+      "sha256": "252ce1a6bb6084272c88d02c74a9f01328f196dc71c51614e917b9b37b4be7ff",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9995,
+    "spoken_align_pct": 99.95,
+    "audio_span_pct": 98.26,
+    "words": 4038,
+    "aligned": 4021,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 16:40"
   }
- ],
- "variants": [],
- "also_in": []
 }

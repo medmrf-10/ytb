@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:LKiknPQlRfE",
- "vid": "LKiknPQlRfE",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--403",
- "n": 50,
- "n_src": "plpos",
- "title": "48 - فقه السيرة النبوية | فتح مكة (4)",
- "title_src": "yt_titles",
- "sha256": "61a56710343804f8c95f36ee2fef8c7ac0af8ab4c086e61f5030a52c24de8078",
- "nh": "51e68aac1eb2f2a67b2509656b2d449b30b10574775a0336c5cdcdc812e69e60",
- "chars": 21467,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/403/050_48 - فقه السيرة النبوية ｜ فتح مكة (4).txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/403/050_48 - فقه السيرة النبوية ｜ فتح مكة (4).txt",
-   "sha256": "61a56710343804f8c95f36ee2fef8c7ac0af8ab4c086e61f5030a52c24de8078",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:LKiknPQlRfE",
+  "vid": "LKiknPQlRfE",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--403",
+  "n": 50,
+  "n_src": "plpos",
+  "title": "48 - فقه السيرة النبوية | فتح مكة (4)",
+  "title_src": "yt_titles",
+  "sha256": "61a56710343804f8c95f36ee2fef8c7ac0af8ab4c086e61f5030a52c24de8078",
+  "nh": "51e68aac1eb2f2a67b2509656b2d449b30b10574775a0336c5cdcdc812e69e60",
+  "chars": 21467,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/403/050_48 - فقه السيرة النبوية ｜ فتح مكة (4).txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/fi9hElsirah-050/transcript.txt",
-   "sha256": "eb69b9456d88d90c70d27c40bd679fcf7d073d8f2a591af2e13f533583b6e3e6",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-sira/50.txt",
-   "sha256": "eb69b9456d88d90c70d27c40bd679fcf7d073d8f2a591af2e13f533583b6e3e6",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/403/5.txt",
-   "sha256": "61a56710343804f8c95f36ee2fef8c7ac0af8ab4c086e61f5030a52c24de8078",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/403/050_48 - فقه السيرة النبوية ｜ فتح مكة (4).txt",
+      "sha256": "61a56710343804f8c95f36ee2fef8c7ac0af8ab4c086e61f5030a52c24de8078",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/fi9hElsirah-050/transcript.txt",
+      "sha256": "eb69b9456d88d90c70d27c40bd679fcf7d073d8f2a591af2e13f533583b6e3e6",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-sira/50.txt",
+      "sha256": "eb69b9456d88d90c70d27c40bd679fcf7d073d8f2a591af2e13f533583b6e3e6",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/403/5.txt",
+      "sha256": "61a56710343804f8c95f36ee2fef8c7ac0af8ab4c086e61f5030a52c24de8078",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9998,
+    "spoken_align_pct": 99.98,
+    "audio_span_pct": 98.28,
+    "words": 4044,
+    "aligned": 4043,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 16:33"
   }
- ],
- "variants": [],
- "also_in": []
 }

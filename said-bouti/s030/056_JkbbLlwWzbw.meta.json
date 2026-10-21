@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:JkbbLlwWzbw",
- "vid": "JkbbLlwWzbw",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--403",
- "n": 56,
- "n_src": "plpos",
- "title": "54 - فقه السيرة النبوية | غزوة تبوك (3) | حج أبي بكر (1)",
- "title_src": "yt_titles",
- "sha256": "98f8a8365f4c2695c773672f06150f73161a702ae90b65a758213fcc22701534",
- "nh": "35e74e6cce8fabd37e3ea999a61d75bf421b3836ce75a56a025e10b7eccb62c1",
- "chars": 17116,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/403/056_54 - فقه السيرة النبوية ｜ غزوة تبوك (3) ｜ حج أبي بكر (1).txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/403/056_54 - فقه السيرة النبوية ｜ غزوة تبوك (3) ｜ حج أبي بكر (1).txt",
-   "sha256": "98f8a8365f4c2695c773672f06150f73161a702ae90b65a758213fcc22701534",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:JkbbLlwWzbw",
+  "vid": "JkbbLlwWzbw",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--403",
+  "n": 56,
+  "n_src": "plpos",
+  "title": "54 - فقه السيرة النبوية | غزوة تبوك (3) | حج أبي بكر (1)",
+  "title_src": "yt_titles",
+  "sha256": "98f8a8365f4c2695c773672f06150f73161a702ae90b65a758213fcc22701534",
+  "nh": "35e74e6cce8fabd37e3ea999a61d75bf421b3836ce75a56a025e10b7eccb62c1",
+  "chars": 17116,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/403/056_54 - فقه السيرة النبوية ｜ غزوة تبوك (3) ｜ حج أبي بكر (1).txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/fi9hElsirah-056/transcript.txt",
-   "sha256": "9461af94cbcc23d31ea530578515bba7b35a04f3129e521f26a0867cf24ed57e",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-sira/56.txt",
-   "sha256": "9461af94cbcc23d31ea530578515bba7b35a04f3129e521f26a0867cf24ed57e",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/403/056_54 - فقه السيرة النبوية ｜ غزوة تبوك (3) ｜ حج أبي بكر (1).txt",
+      "sha256": "98f8a8365f4c2695c773672f06150f73161a702ae90b65a758213fcc22701534",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/fi9hElsirah-056/transcript.txt",
+      "sha256": "9461af94cbcc23d31ea530578515bba7b35a04f3129e521f26a0867cf24ed57e",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-sira/56.txt",
+      "sha256": "9461af94cbcc23d31ea530578515bba7b35a04f3129e521f26a0867cf24ed57e",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9997,
+    "spoken_align_pct": 99.97,
+    "audio_span_pct": 98.03,
+    "words": 3203,
+    "aligned": 3202,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 16:39"
   }
- ],
- "variants": [],
- "also_in": []
 }
