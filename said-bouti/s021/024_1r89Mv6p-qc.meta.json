@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:1r89Mv6p-qc",
- "vid": "1r89Mv6p-qc",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--377",
- "n": 24,
- "n_src": "plpos",
- "title": "18- كبرى اليقينيات الكونية | أنبياء الله وكيفية الإيمان بهم",
- "title_src": "yt_titles",
- "sha256": "2ed25c52bd8309c053f83b784b28e2d5b12ffceaebce0bba736660e47901df29",
- "nh": "548f6d7b0b31c03a153e8ff88301c2bdc20463afc8fec89543f10c93fb1bbcec",
- "chars": 22771,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/377/024_18- كبرى اليقينيات الكونية ｜ أنبياء الله وكيفية الإيمان بهم.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/377/024_18- كبرى اليقينيات الكونية ｜ أنبياء الله وكيفية الإيمان بهم.txt",
-   "sha256": "2ed25c52bd8309c053f83b784b28e2d5b12ffceaebce0bba736660e47901df29",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:1r89Mv6p-qc",
+  "vid": "1r89Mv6p-qc",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--377",
+  "n": 24,
+  "n_src": "plpos",
+  "title": "18- كبرى اليقينيات الكونية | أنبياء الله وكيفية الإيمان بهم",
+  "title_src": "yt_titles",
+  "sha256": "2ed25c52bd8309c053f83b784b28e2d5b12ffceaebce0bba736660e47901df29",
+  "nh": "548f6d7b0b31c03a153e8ff88301c2bdc20463afc8fec89543f10c93fb1bbcec",
+  "chars": 22771,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/377/024_18- كبرى اليقينيات الكونية ｜ أنبياء الله وكيفية الإيمان بهم.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/kobraElya9inyat-024/transcript.txt",
-   "sha256": "c4ab6217fa2384cf3604e853e5ce1033772100bc0a78dfc083de088ff1bccee5",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/24.txt",
-   "sha256": "c4ab6217fa2384cf3604e853e5ce1033772100bc0a78dfc083de088ff1bccee5",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/377/23.txt",
-   "sha256": "2ed25c52bd8309c053f83b784b28e2d5b12ffceaebce0bba736660e47901df29",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/377/024_18- كبرى اليقينيات الكونية ｜ أنبياء الله وكيفية الإيمان بهم.txt",
+      "sha256": "2ed25c52bd8309c053f83b784b28e2d5b12ffceaebce0bba736660e47901df29",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/kobraElya9inyat-024/transcript.txt",
+      "sha256": "c4ab6217fa2384cf3604e853e5ce1033772100bc0a78dfc083de088ff1bccee5",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/24.txt",
+      "sha256": "c4ab6217fa2384cf3604e853e5ce1033772100bc0a78dfc083de088ff1bccee5",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/377/23.txt",
+      "sha256": "2ed25c52bd8309c053f83b784b28e2d5b12ffceaebce0bba736660e47901df29",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9838,
+    "spoken_align_pct": 98.38,
+    "audio_span_pct": 97.77,
+    "words": 4193,
+    "aligned": 4117,
+    "interpolated": 68,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 13:12"
   }
- ],
- "variants": [],
- "also_in": []
 }

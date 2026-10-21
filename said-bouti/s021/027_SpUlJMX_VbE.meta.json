@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:SpUlJMX_VbE",
- "vid": "SpUlJMX_VbE",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--377",
- "n": 27,
- "n_src": "plpos",
- "title": "21- كبرى اليقينيات الكونية | المعجزات (2)",
- "title_src": "yt_titles",
- "sha256": "cfb8a7fb1721b3895b8b93c416427a934517cfe7ce2759f7bcda3a20bedab473",
- "nh": "b53de3497029909f1c7a0b62ae186fa90e656ec7f5ed396a775c419b055640a7",
- "chars": 24419,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/377/027_21- كبرى اليقينيات الكونية ｜ المعجزات (2).txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/377/027_21- كبرى اليقينيات الكونية ｜ المعجزات (2).txt",
-   "sha256": "cfb8a7fb1721b3895b8b93c416427a934517cfe7ce2759f7bcda3a20bedab473",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:SpUlJMX_VbE",
+  "vid": "SpUlJMX_VbE",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--377",
+  "n": 27,
+  "n_src": "plpos",
+  "title": "21- كبرى اليقينيات الكونية | المعجزات (2)",
+  "title_src": "yt_titles",
+  "sha256": "cfb8a7fb1721b3895b8b93c416427a934517cfe7ce2759f7bcda3a20bedab473",
+  "nh": "b53de3497029909f1c7a0b62ae186fa90e656ec7f5ed396a775c419b055640a7",
+  "chars": 24419,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/377/027_21- كبرى اليقينيات الكونية ｜ المعجزات (2).txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/kobraElya9inyat-027/transcript.txt",
-   "sha256": "9e135f8b1f0a21bc1d8d175fc1cb5b09ae0edcee9bafe44392dc53d0bfa6037a",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/27.txt",
-   "sha256": "9e135f8b1f0a21bc1d8d175fc1cb5b09ae0edcee9bafe44392dc53d0bfa6037a",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/377/027_21- كبرى اليقينيات الكونية ｜ المعجزات (2).txt",
+      "sha256": "cfb8a7fb1721b3895b8b93c416427a934517cfe7ce2759f7bcda3a20bedab473",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/kobraElya9inyat-027/transcript.txt",
+      "sha256": "9e135f8b1f0a21bc1d8d175fc1cb5b09ae0edcee9bafe44392dc53d0bfa6037a",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/27.txt",
+      "sha256": "9e135f8b1f0a21bc1d8d175fc1cb5b09ae0edcee9bafe44392dc53d0bfa6037a",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9716,
+    "spoken_align_pct": 97.16,
+    "audio_span_pct": 97.98,
+    "words": 4336,
+    "aligned": 4205,
+    "interpolated": 123,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 13:16"
   }
- ],
- "variants": [],
- "also_in": []
 }
