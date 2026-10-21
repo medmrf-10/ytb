@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:ykF8F9rEG0Y",
- "vid": "ykF8F9rEG0Y",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--661",
- "n": 12,
- "n_src": "mutfile",
- "title": "خير القرون 11 ｜ خارطة فتوح بلاد الشام ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "dad8d7f79227960abbc3279e352cc4ae480fe7795b58b3a7aaf7794751be7b63",
- "nh": "ee35dfc3d511a7dfe545b90baafea57cd41e050b78be919d71c59d1b6b9357aa",
- "chars": 45578,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/661/012_خير القرون 11 ｜ خارطة فتوح بلاد الشام ｜ أحمد السيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/661/012_خير القرون 11 ｜ خارطة فتوح بلاد الشام ｜ أحمد السيد.txt",
-   "sha256": "dad8d7f79227960abbc3279e352cc4ae480fe7795b58b3a7aaf7794751be7b63",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:ykF8F9rEG0Y",
+  "vid": "ykF8F9rEG0Y",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--661",
+  "n": 12,
+  "n_src": "mutfile",
+  "title": "خير القرون 11 ｜ خارطة فتوح بلاد الشام ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "dad8d7f79227960abbc3279e352cc4ae480fe7795b58b3a7aaf7794751be7b63",
+  "nh": "ee35dfc3d511a7dfe545b90baafea57cd41e050b78be919d71c59d1b6b9357aa",
+  "chars": 45578,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/661/012_خير القرون 11 ｜ خارطة فتوح بلاد الشام ｜ أحمد السيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-661/012.txt",
-   "sha256": "ec447ba98f4f2bcfa1148dbbc40e1cf1e9eb6f8a240f7b01c3caee315e376e5b",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/661/012_خير القرون 11 ｜ خارطة فتوح بلاد الشام ｜ أحمد السيد.txt",
+      "sha256": "dad8d7f79227960abbc3279e352cc4ae480fe7795b58b3a7aaf7794751be7b63",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-661/012.txt",
+      "sha256": "ec447ba98f4f2bcfa1148dbbc40e1cf1e9eb6f8a240f7b01c3caee315e376e5b",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9816,
+    "spoken_align_pct": 98.16,
+    "audio_span_pct": 99.77,
+    "words": 8321,
+    "aligned": 8164,
+    "interpolated": 153,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 07:59"
   }
- ],
- "variants": [],
- "also_in": []
 }

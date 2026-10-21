@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:HtAGqS7Yscg",
- "vid": "HtAGqS7Yscg",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--661",
- "n": 7,
- "n_src": "mutfile",
- "title": "خير القرون 06 ｜ أصحاب محمد ﷺ ينطلقون إلى الفتوح ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "aea145189b976b32f656fa44726f30bbd1ac42d978ae6cefe90a29fe7b9894ab",
- "nh": "ce47f9bdcd7ff947345b521bc52de59e20328ed895028e03a7847922b5f78064",
- "chars": 44425,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/661/007_خير القرون 06 ｜ أصحاب محمد ﷺ ينطلقون إلى الفتوح ｜ أحمد السيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/661/007_خير القرون 06 ｜ أصحاب محمد ﷺ ينطلقون إلى الفتوح ｜ أحمد السيد.txt",
-   "sha256": "aea145189b976b32f656fa44726f30bbd1ac42d978ae6cefe90a29fe7b9894ab",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:HtAGqS7Yscg",
+  "vid": "HtAGqS7Yscg",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--661",
+  "n": 7,
+  "n_src": "mutfile",
+  "title": "خير القرون 06 ｜ أصحاب محمد ﷺ ينطلقون إلى الفتوح ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "aea145189b976b32f656fa44726f30bbd1ac42d978ae6cefe90a29fe7b9894ab",
+  "nh": "ce47f9bdcd7ff947345b521bc52de59e20328ed895028e03a7847922b5f78064",
+  "chars": 44425,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/661/007_خير القرون 06 ｜ أصحاب محمد ﷺ ينطلقون إلى الفتوح ｜ أحمد السيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-661/007.txt",
-   "sha256": "d6466860bc47fa7aa691c3c309c8f5ac9268903164faa9ae519207401d5c2886",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/661/007_خير القرون 06 ｜ أصحاب محمد ﷺ ينطلقون إلى الفتوح ｜ أحمد السيد.txt",
+      "sha256": "aea145189b976b32f656fa44726f30bbd1ac42d978ae6cefe90a29fe7b9894ab",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-661/007.txt",
+      "sha256": "d6466860bc47fa7aa691c3c309c8f5ac9268903164faa9ae519207401d5c2886",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9972,
+    "spoken_align_pct": 99.72,
+    "audio_span_pct": 99.76,
+    "words": 8357,
+    "aligned": 8334,
+    "interpolated": 23,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 07:54"
   }
- ],
- "variants": [],
- "also_in": []
 }

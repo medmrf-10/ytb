@@ -1,6 +1,6 @@
 {
-  "aligned": 6,
-  "aligned_ratio": 0.15,
+  "aligned": 13,
+  "aligned_ratio": 0.325,
   "category": "سلسلة علمية",
   "coverage": 1.0,
   "declared_total": 40,
@@ -29,9 +29,9 @@
       "vid": "Pq5_RVsyZxA"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 54349,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 54194,
       "dur": 5266,
       "file": "003_WnflYTW8ejU.txt",
       "n": 3,
@@ -51,8 +51,8 @@
       "vid": "SOeJ0xL10RU"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 30394,
       "dur": 3059,
       "file": "005_MlNlUsO6eY0.txt",
@@ -62,8 +62,8 @@
       "vid": "MlNlUsO6eY0"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 43943,
       "dur": 4286,
       "file": "006_HtAGqS7Yscg.txt",
@@ -73,10 +73,10 @@
       "vid": "HtAGqS7Yscg"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 44304,
-      "dur": 4278,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 44197,
+      "dur": 4277,
       "file": "007_NdmIliqCCPE.txt",
       "n": 7,
       "stem": "007_NdmIliqCCPE",
@@ -84,9 +84,9 @@
       "vid": "NdmIliqCCPE"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 44175,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 43983,
       "dur": 4265,
       "file": "008_INUKXHhCOnw.txt",
       "n": 8,
@@ -95,9 +95,9 @@
       "vid": "INUKXHhCOnw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 38236,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 38078,
       "dur": 3669,
       "file": "009_YLyNJqSioks.txt",
       "n": 9,
@@ -117,8 +117,8 @@
       "vid": "xZlRqHzbJ4k"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 44757,
       "dur": 4485,
       "file": "011_ykF8F9rEG0Y.txt",
