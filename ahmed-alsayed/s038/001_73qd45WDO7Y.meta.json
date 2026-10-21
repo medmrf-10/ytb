@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:73qd45WDO7Y",
- "vid": "73qd45WDO7Y",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--661",
- "n": 2,
- "n_src": "mutfile",
- "title": "خير القرون 01 ｜ كيف ندرس مرحلة خير القرون؟ ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "db6a074c259546e3fa69ffad40660a6af817308fee0d0e0ec78b8732f54af5d7",
- "nh": "d98f45d48effc6589e07498be3b19fb5601e454769a24caeecb3ca6f0fd715c3",
- "chars": 46386,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/661/002_خير القرون 01 ｜ كيف ندرس مرحلة خير القرون؟ ｜ أحمد السيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/661/002_خير القرون 01 ｜ كيف ندرس مرحلة خير القرون؟ ｜ أحمد السيد.txt",
-   "sha256": "db6a074c259546e3fa69ffad40660a6af817308fee0d0e0ec78b8732f54af5d7",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:73qd45WDO7Y",
+  "vid": "73qd45WDO7Y",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--661",
+  "n": 2,
+  "n_src": "mutfile",
+  "title": "خير القرون 01 ｜ كيف ندرس مرحلة خير القرون؟ ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "db6a074c259546e3fa69ffad40660a6af817308fee0d0e0ec78b8732f54af5d7",
+  "nh": "d98f45d48effc6589e07498be3b19fb5601e454769a24caeecb3ca6f0fd715c3",
+  "chars": 46386,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/661/002_خير القرون 01 ｜ كيف ندرس مرحلة خير القرون؟ ｜ أحمد السيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-661/002.txt",
-   "sha256": "8e49f525dad82a71953f16cef9874cfd3cdf76c15c14e691b1bbad60d198dce6",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/661/002_خير القرون 01 ｜ كيف ندرس مرحلة خير القرون؟ ｜ أحمد السيد.txt",
+      "sha256": "db6a074c259546e3fa69ffad40660a6af817308fee0d0e0ec78b8732f54af5d7",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-661/002.txt",
+      "sha256": "8e49f525dad82a71953f16cef9874cfd3cdf76c15c14e691b1bbad60d198dce6",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9777,
+    "spoken_align_pct": 97.77,
+    "audio_span_pct": 99.78,
+    "words": 8444,
+    "aligned": 8256,
+    "interpolated": 188,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 07:49"
   }
- ],
- "variants": [],
- "also_in": []
 }

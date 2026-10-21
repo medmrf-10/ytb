@@ -1,7 +1,7 @@
 {
   "sheikhs": [
     {
-      "aligned": 382,
+      "aligned": 389,
       "chars": 20562538,
       "lessons": 1165,
       "name": "محمد سعيد رمضان البوطي",
@@ -276,14 +276,14 @@
           "transcribed": 11
         },
         {
-          "aligned": 31,
-          "aligned_pct": "81.6%",
+          "aligned": 38,
+          "aligned_pct": "100.0%",
           "category": "العقيدة والفكر الإسلامي",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 38,
           "dir": "s023/",
-          "dur": 109470,
+          "dur": 109466,
           "key": "s023",
           "series_id": "bouti__s023",
           "title": "سلسلة يغالطونك إذ يقولون (مناقشة الشبهات الفكرية المعاصرة)",
@@ -1827,7 +1827,7 @@
       "slug": "habib-omar-ibn-hafiz"
     },
     {
-      "aligned": 335,
+      "aligned": 337,
       "chars": 18504825,
       "lessons": 483,
       "name": "أحمد السيد",
@@ -2060,14 +2060,14 @@
           "transcribed": 32
         },
         {
-          "aligned": 4,
-          "aligned_pct": "10.0%",
+          "aligned": 6,
+          "aligned_pct": "15.0%",
           "category": "سلسلة علمية",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 40,
           "dir": "s038/",
-          "dur": 157233,
+          "dur": 157232,
           "key": "s038",
           "series_id": "sayed__s038",
           "title": "خير القرون (تاريخ الخلافة الراشدة والصحابة)",
@@ -5760,7 +5760,7 @@
     }
   ],
   "totals": {
-    "aligned": 3019,
+    "aligned": 3028,
     "chars": 157906512,
     "lessons": 6712,
     "series": 389,

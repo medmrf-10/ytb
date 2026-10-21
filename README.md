@@ -9,7 +9,7 @@
 - **المشايخ ذوو المحتوى الفعلي:** 26 شيخاً
 - **السلاسل المفرّغة:** 389 سلسلة
 - **الدروس المفرّغة نصياً (`.txt`):** 6,712 درساً
-- **الدروس المحاذاة صوتياً (`.align.json`):** 3,019 درساً
+- **الدروس المحاذاة صوتياً (`.align.json`):** 3,028 درساً
 - **إجمالي الحجم النصي:** 157,906,512 حرفاً
 
 ---
@@ -18,11 +18,11 @@
 
 | # | الشيخ | المعرّف (`Slug`) | السلاسل | الدروس المفرغة (`.txt`) | الدروس المحاذاة (`.align.json`) | المجلد |
 |---:|---|---|---:|---:|---:|---|
-| 1 | محمد سعيد رمضان البوطي | `said-bouti` | 34 | 1,165 | 382 | [`said-bouti/`](./said-bouti/) |
+| 1 | محمد سعيد رمضان البوطي | `said-bouti` | 34 | 1,165 | 389 | [`said-bouti/`](./said-bouti/) |
 | 2 | محمد متولي الشعراوي | `sharawi` | 48 | 648 | 335 | [`sharawi/`](./sharawi/) |
 | 3 | أدهم العاسمي | `adham-alasimi` | 29 | 546 | 162 | [`adham-alasimi/`](./adham-alasimi/) |
 | 4 | الحبيب عمر بن حفيظ | `habib-omar-ibn-hafiz` | 16 | 522 | 95 | [`habib-omar-ibn-hafiz/`](./habib-omar-ibn-hafiz/) |
-| 5 | أحمد السيد | `ahmed-alsayed` | 34 | 483 | 335 | [`ahmed-alsayed/`](./ahmed-alsayed/) |
+| 5 | أحمد السيد | `ahmed-alsayed` | 34 | 483 | 337 | [`ahmed-alsayed/`](./ahmed-alsayed/) |
 | 6 | الحبيب علي الجفري | `habib-ali-aljifri` | 23 | 471 | 179 | [`habib-ali-aljifri/`](./habib-ali-aljifri/) |
 | 7 | فاضل السامرائي | `fadhel-samarrai` | 42 | 460 | 426 | [`fadhel-samarrai/`](./fadhel-samarrai/) |
 | 8 | ذاكر الهاشمي | `dhaker-alhashimi` | 20 | 348 | 95 | [`dhaker-alhashimi/`](./dhaker-alhashimi/) |
