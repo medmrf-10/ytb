@@ -1,6 +1,6 @@
 {
-  "aligned": 40,
-  "aligned_ratio": 0.9302,
+  "aligned": 43,
+  "aligned_ratio": 1.0,
   "category": "التفسير وعلوم القرآن",
   "coverage": 1.0,
   "declared_total": 43,
@@ -447,8 +447,8 @@
       "vid": "2-0HO_K1X0E"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 1056,
       "dur": 121,
       "file": "041_I_irQzWVcq8.txt",
@@ -458,8 +458,8 @@
       "vid": "I_irQzWVcq8"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 1109,
       "dur": 112,
       "file": "042_iTRx0mSAiSo.txt",
@@ -469,8 +469,8 @@
       "vid": "iTRx0mSAiSo"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 1707,
       "dur": 165,
       "file": "043_yRb05tWvDII.txt",
