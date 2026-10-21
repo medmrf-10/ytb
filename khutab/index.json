@@ -4,15 +4,64 @@
   {
    "id": "omar",
    "name": "الحبيب عمر بن حفيظ",
-   "count": 1
+   "count": 6
   },
   {
    "id": "sariri",
    "name": "الشيخ مولود السريري",
-   "count": 1
+   "count": 6
   }
  ],
  "items": [
+  {
+   "id": "omar-008",
+   "author": "omar",
+   "n": 8,
+   "title": "وعي الخطاب الإلهي وأثره في المسار",
+   "topic": "أثر استقاء التوجيه من الوحي والخشية في الخلوة وطمع الأنبياء في اللحوق بالصالحين",
+   "yt": "94b4dFgWfCY",
+   "src": "H:habib-omar-ibn-hafiz/khutab_jumaa:8",
+   "dur": 651,
+   "blocks": 10,
+   "chars": 5439,
+   "has": [],
+   "file": "omar/omar-008.json"
+  },
+  {
+   "id": "omar-009",
+   "author": "omar",
+   "n": 9,
+   "title": "عظيم أثر اللسان وثقافة عمارة الأوقات بالذكر",
+   "topic": "خطر آفات اللسان وفضل رطوبته بالذكر وثقافة الصالحين في عمارة البيوت والمهن بالعبادة",
+   "yt": "USo2A1SVF8o",
+   "src": "H:habib-omar-ibn-hafiz/khutab_jumaa:9",
+   "dur": 632,
+   "blocks": 12,
+   "chars": 5368,
+   "has": [],
+   "file": "omar/omar-009.json"
+  },
+  {
+   "id": "omar-010",
+   "author": "omar",
+   "n": 10,
+   "title": "منهج النبوة ومقابلة متغيرات الحياة",
+   "topic": "ذكرى المولد النبوي ومقابلة الفتن بالرجوع إلى الله والصدق في النيات والصلاة على النبي ﷺ",
+   "yt": "UkP45QPScN8",
+   "src": "H:habib-omar-ibn-hafiz/khutab_jumaa:10",
+   "dur": 1775,
+   "blocks": 15,
+   "chars": 7686,
+   "has": [
+    "intro1",
+    "dua1",
+    "close1",
+    "intro2",
+    "dua2",
+    "close2"
+   ],
+   "file": "omar/omar-010.json"
+  },
   {
    "id": "omar-011",
    "author": "omar",
@@ -35,6 +84,67 @@
    "file": "omar/omar-011.json"
   },
   {
+   "id": "omar-014",
+   "author": "omar",
+   "n": 14,
+   "title": "ثقافة إصلاح المعاش والمعاد",
+   "topic": "ثقافة القرآن في عمارة الأرض بالحق وميزان النبوة في طلب الحلال واستجلاب الرزق بالإيمان",
+   "yt": "OBzHolA3RdY",
+   "src": "H:habib-omar-ibn-hafiz/khutab_jumaa:14",
+   "dur": 2141,
+   "blocks": 16,
+   "chars": 11473,
+   "has": [
+    "intro1",
+    "dua1",
+    "close1",
+    "intro2",
+    "dua2",
+    "close2"
+   ],
+   "file": "omar/omar-014.json"
+  },
+  {
+   "id": "omar-015",
+   "author": "omar",
+   "n": 15,
+   "title": "حسن الأدب والقيام بالأمانة",
+   "topic": "أدب النبوة ومنهج كبار الأئمة في العلم والورع ونبذ الجدل وحفظ أمانة الدين والدماء",
+   "yt": "UXJ7FQaNjbw",
+   "src": "H:habib-omar-ibn-hafiz/khutab_jumaa:15",
+   "dur": 2121,
+   "blocks": 23,
+   "chars": 12867,
+   "has": [
+    "intro1",
+    "dua1",
+    "close1",
+    "intro2",
+    "dua2",
+    "close2"
+   ],
+   "file": "omar/omar-015.json"
+  },
+  {
+   "id": "sariri-001",
+   "author": "sariri",
+   "n": 1,
+   "title": "الرياء آفة النفوس",
+   "topic": "التطهير غرض الدين الأعظم ويبدأ باجتناب الشرك والرياء ومجاهدة حظوظ النفس وأكل الحلال وإعطاء الحقوق",
+   "yt": "8_ssQFOI0Vs",
+   "src": "H:mouloud-sariri/s043:1",
+   "dur": 2038,
+   "blocks": 25,
+   "chars": 12621,
+   "has": [
+    "intro1",
+    "close1",
+    "intro2",
+    "dua2"
+   ],
+   "file": "sariri/sariri-001.json"
+  },
+  {
    "id": "sariri-002",
    "author": "sariri",
    "n": 2,
@@ -52,6 +162,82 @@
     "dua2"
    ],
    "file": "sariri/sariri-002.json"
+  },
+  {
+   "id": "sariri-003",
+   "author": "sariri",
+   "n": 3,
+   "title": "إرادة العلو والفساد من موانع دخول الجنة",
+   "topic": "تفسير قوله تعالى ﴿تلك الدار الآخرة نجعلها للذين لا يريدون علوا في الأرض ولا فسادا﴾ وبيان حقيقة مرض حب العلو والرضا بالفساد",
+   "yt": "TZwYj8BbzXQ",
+   "src": "H:mouloud-sariri/s043:3",
+   "dur": 1974,
+   "blocks": 24,
+   "chars": 12476,
+   "has": [
+    "intro1",
+    "close1",
+    "intro2",
+    "dua2"
+   ],
+   "file": "sariri/sariri-003.json"
+  },
+  {
+   "id": "sariri-004",
+   "author": "sariri",
+   "n": 4,
+   "title": "آفة الطغيان وأسبابه",
+   "topic": "بيان حقيقة الطغيان ومجاوزة الحدود، وأسبابه كالشعور بالاستغناء وألسنة المتملقين، وأهمية الأمانة وصدق الصحبة",
+   "yt": "5he7a0ppSpI",
+   "src": "H:mouloud-sariri/s043:4",
+   "dur": 1828,
+   "blocks": 29,
+   "chars": 11165,
+   "has": [
+    "intro1",
+    "close1",
+    "intro2",
+    "dua2"
+   ],
+   "file": "sariri/sariri-004.json"
+  },
+  {
+   "id": "sariri-005",
+   "author": "sariri",
+   "n": 5,
+   "title": "الجمع بين الأسباب المادية والروحية في كسب المسببات",
+   "topic": "إحياء سنة الجمع بين الأسباب المادية والحسية والأسباب الروحية الشرعية في كسب الأرزاق ودفع المكاره",
+   "yt": "zpTBD5hh39s",
+   "src": "H:mouloud-sariri/s043:5",
+   "dur": 1816,
+   "blocks": 28,
+   "chars": 12264,
+   "has": [
+    "intro1",
+    "close1",
+    "intro2",
+    "dua2"
+   ],
+   "file": "sariri/sariri-005.json"
+  },
+  {
+   "id": "sariri-006",
+   "author": "sariri",
+   "n": 6,
+   "title": "بدع عاشوراء",
+   "topic": "بيان سنة صيام عاشوراء والتحذير من البدع المحدثة فيه كصلاة عاشوراء والاكتحال وإيقاد النيران والاحتفال",
+   "yt": "Fal2-1-ItyQ",
+   "src": "H:mouloud-sariri/s043:6",
+   "dur": 1747,
+   "blocks": 23,
+   "chars": 13038,
+   "has": [
+    "intro1",
+    "close1",
+    "intro2",
+    "dua2"
+   ],
+   "file": "sariri/sariri-006.json"
   }
  ]
 }
