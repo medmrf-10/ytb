@@ -1,57 +1,70 @@
 {
- "v": 1,
- "lid": "yt:OiPAVo5Dydk",
- "vid": "OiPAVo5Dydk",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--371",
- "n": 16,
- "n_src": "plpos",
- "title": "16- علوم القرآن الكريم | مظاهر الإعجاز البلاغي: الكلمة القرآنية",
- "title_src": "yt_titles",
- "sha256": "2c7f83a3d00dc4a69f53968531cb5b87919b9e27cce8089cc7abc928ea585b91",
- "nh": "b3450f178bd62a48320326221c825ad0528bee97f83e3d6e2373c61a88ea8c21",
- "chars": 20308,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/371/016_16- علوم القرآن الكريم ｜ مظاهر الإعجاز البلاغي： الكلمة القرآنية.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/371/016_16- علوم القرآن الكريم ｜ مظاهر الإعجاز البلاغي： الكلمة القرآنية.txt",
-   "sha256": "2c7f83a3d00dc4a69f53968531cb5b87919b9e27cce8089cc7abc928ea585b91",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:OiPAVo5Dydk",
+  "vid": "OiPAVo5Dydk",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--371",
+  "n": 16,
+  "n_src": "plpos",
+  "title": "16- علوم القرآن الكريم | مظاهر الإعجاز البلاغي: الكلمة القرآنية",
+  "title_src": "yt_titles",
+  "sha256": "2c7f83a3d00dc4a69f53968531cb5b87919b9e27cce8089cc7abc928ea585b91",
+  "nh": "b3450f178bd62a48320326221c825ad0528bee97f83e3d6e2373c61a88ea8c21",
+  "chars": 20308,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/371/016_16- علوم القرآن الكريم ｜ مظاهر الإعجاز البلاغي： الكلمة القرآنية.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/3oloumEl9or1n-016/transcript.txt",
-   "sha256": "95fee30e3d666e6a921664f8bb56422e57284d95a7cc435fd4a0a1ce42cb7963",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/muqtatafat-ulum/15.txt",
-   "sha256": "2c7f83a3d00dc4a69f53968531cb5b87919b9e27cce8089cc7abc928ea585b91",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-ulum-quran/16.txt",
-   "sha256": "95fee30e3d666e6a921664f8bb56422e57284d95a7cc435fd4a0a1ce42cb7963",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/355/15.txt",
-   "sha256": "2c7f83a3d00dc4a69f53968531cb5b87919b9e27cce8089cc7abc928ea585b91",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/371/016_16- علوم القرآن الكريم ｜ مظاهر الإعجاز البلاغي： الكلمة القرآنية.txt",
+      "sha256": "2c7f83a3d00dc4a69f53968531cb5b87919b9e27cce8089cc7abc928ea585b91",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/3oloumEl9or1n-016/transcript.txt",
+      "sha256": "95fee30e3d666e6a921664f8bb56422e57284d95a7cc435fd4a0a1ce42cb7963",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/muqtatafat-ulum/15.txt",
+      "sha256": "2c7f83a3d00dc4a69f53968531cb5b87919b9e27cce8089cc7abc928ea585b91",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-ulum-quran/16.txt",
+      "sha256": "95fee30e3d666e6a921664f8bb56422e57284d95a7cc435fd4a0a1ce42cb7963",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/355/15.txt",
+      "sha256": "2c7f83a3d00dc4a69f53968531cb5b87919b9e27cce8089cc7abc928ea585b91",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "said-bouti--bouti-muqtatafat-ulum"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9994,
+    "spoken_align_pct": 99.94,
+    "audio_span_pct": 98.19,
+    "words": 3573,
+    "aligned": 3563,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 14:50"
   }
- ],
- "variants": [],
- "also_in": [
-  "said-bouti--bouti-muqtatafat-ulum"
- ]
 }

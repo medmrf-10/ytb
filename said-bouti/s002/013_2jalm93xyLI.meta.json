@@ -1,57 +1,70 @@
 {
- "v": 1,
- "lid": "yt:2jalm93xyLI",
- "vid": "2jalm93xyLI",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--371",
- "n": 13,
- "n_src": "plpos",
- "title": "13- علوم القرآن الكريم | أسلوب القرآن ودراسة عامة لخصائصه",
- "title_src": "yt_titles",
- "sha256": "44920a24914856f1d76d537039af3df5ebffd1d98bbe021626f85818c1c53933",
- "nh": "0afc20520d6c9c66894bc25441a2dc8dd0dde4d074dcccd3f7f299d38d0d4822",
- "chars": 19615,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/371/013_13- علوم القرآن الكريم ｜ أسلوب القرآن ودراسة عامة لخصائصه.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/371/013_13- علوم القرآن الكريم ｜ أسلوب القرآن ودراسة عامة لخصائصه.txt",
-   "sha256": "44920a24914856f1d76d537039af3df5ebffd1d98bbe021626f85818c1c53933",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:2jalm93xyLI",
+  "vid": "2jalm93xyLI",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--371",
+  "n": 13,
+  "n_src": "plpos",
+  "title": "13- علوم القرآن الكريم | أسلوب القرآن ودراسة عامة لخصائصه",
+  "title_src": "yt_titles",
+  "sha256": "44920a24914856f1d76d537039af3df5ebffd1d98bbe021626f85818c1c53933",
+  "nh": "0afc20520d6c9c66894bc25441a2dc8dd0dde4d074dcccd3f7f299d38d0d4822",
+  "chars": 19615,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/371/013_13- علوم القرآن الكريم ｜ أسلوب القرآن ودراسة عامة لخصائصه.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/3oloumEl9or1n-013/transcript.txt",
-   "sha256": "2c4f94bce30668658dddb34bc3c4f770d37e3f052542444808332365e6a94e4a",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/muqtatafat-ulum/12.txt",
-   "sha256": "44920a24914856f1d76d537039af3df5ebffd1d98bbe021626f85818c1c53933",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-ulum-quran/13.txt",
-   "sha256": "2c4f94bce30668658dddb34bc3c4f770d37e3f052542444808332365e6a94e4a",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/355/12.txt",
-   "sha256": "44920a24914856f1d76d537039af3df5ebffd1d98bbe021626f85818c1c53933",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/371/013_13- علوم القرآن الكريم ｜ أسلوب القرآن ودراسة عامة لخصائصه.txt",
+      "sha256": "44920a24914856f1d76d537039af3df5ebffd1d98bbe021626f85818c1c53933",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/3oloumEl9or1n-013/transcript.txt",
+      "sha256": "2c4f94bce30668658dddb34bc3c4f770d37e3f052542444808332365e6a94e4a",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/muqtatafat-ulum/12.txt",
+      "sha256": "44920a24914856f1d76d537039af3df5ebffd1d98bbe021626f85818c1c53933",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-ulum-quran/13.txt",
+      "sha256": "2c4f94bce30668658dddb34bc3c4f770d37e3f052542444808332365e6a94e4a",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/355/12.txt",
+      "sha256": "44920a24914856f1d76d537039af3df5ebffd1d98bbe021626f85818c1c53933",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "said-bouti--bouti-muqtatafat-ulum"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 98.22,
+    "words": 3675,
+    "aligned": 3675,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 14:47"
   }
- ],
- "variants": [],
- "also_in": [
-  "said-bouti--bouti-muqtatafat-ulum"
- ]
 }

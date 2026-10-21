@@ -1,57 +1,70 @@
 {
- "v": 1,
- "lid": "yt:d2bJBXZ-s_Y",
- "vid": "d2bJBXZ-s_Y",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--371",
- "n": 9,
- "n_src": "plpos",
- "title": "9- علوم القرآن الكريم | المكي والمدني",
- "title_src": "yt_titles",
- "sha256": "2206378f4ef0e1e42a3aa76296af0429af2f4d791af21f33327280bb7fe06bdb",
- "nh": "d624534b6c6f08b2296005588f17716434ca049f233ac3a3624b84a3f2910f87",
- "chars": 17527,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/371/009_9- علوم القرآن الكريم ｜ المكي والمدني.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/371/009_9- علوم القرآن الكريم ｜ المكي والمدني.txt",
-   "sha256": "2206378f4ef0e1e42a3aa76296af0429af2f4d791af21f33327280bb7fe06bdb",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:d2bJBXZ-s_Y",
+  "vid": "d2bJBXZ-s_Y",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--371",
+  "n": 9,
+  "n_src": "plpos",
+  "title": "9- علوم القرآن الكريم | المكي والمدني",
+  "title_src": "yt_titles",
+  "sha256": "2206378f4ef0e1e42a3aa76296af0429af2f4d791af21f33327280bb7fe06bdb",
+  "nh": "d624534b6c6f08b2296005588f17716434ca049f233ac3a3624b84a3f2910f87",
+  "chars": 17527,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/371/009_9- علوم القرآن الكريم ｜ المكي والمدني.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/3oloumEl9or1n-009/transcript.txt",
-   "sha256": "f04ae3bbd3252186cd2375b1b2299fccebd0c7e1b3212646be610aaff6ccd7df",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/muqtatafat-ulum/8.txt",
-   "sha256": "2206378f4ef0e1e42a3aa76296af0429af2f4d791af21f33327280bb7fe06bdb",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-ulum-quran/09.txt",
-   "sha256": "f04ae3bbd3252186cd2375b1b2299fccebd0c7e1b3212646be610aaff6ccd7df",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/355/8.txt",
-   "sha256": "2206378f4ef0e1e42a3aa76296af0429af2f4d791af21f33327280bb7fe06bdb",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/371/009_9- علوم القرآن الكريم ｜ المكي والمدني.txt",
+      "sha256": "2206378f4ef0e1e42a3aa76296af0429af2f4d791af21f33327280bb7fe06bdb",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/3oloumEl9or1n-009/transcript.txt",
+      "sha256": "f04ae3bbd3252186cd2375b1b2299fccebd0c7e1b3212646be610aaff6ccd7df",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/muqtatafat-ulum/8.txt",
+      "sha256": "2206378f4ef0e1e42a3aa76296af0429af2f4d791af21f33327280bb7fe06bdb",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-ulum-quran/09.txt",
+      "sha256": "f04ae3bbd3252186cd2375b1b2299fccebd0c7e1b3212646be610aaff6ccd7df",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/355/8.txt",
+      "sha256": "2206378f4ef0e1e42a3aa76296af0429af2f4d791af21f33327280bb7fe06bdb",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "said-bouti--bouti-muqtatafat-ulum"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 97.86,
+    "words": 3011,
+    "aligned": 3001,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 14:43"
   }
- ],
- "variants": [],
- "also_in": [
-  "said-bouti--bouti-muqtatafat-ulum"
- ]
 }

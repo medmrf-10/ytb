@@ -1,57 +1,70 @@
 {
- "v": 1,
- "lid": "yt:Ekw0wFjkJfs",
- "vid": "Ekw0wFjkJfs",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--371",
- "n": 7,
- "n_src": "plpos",
- "title": "7- علوم القرآن الكريم | التفسير: نشأته وتطوره",
- "title_src": "yt_titles",
- "sha256": "1f629ff86443561cebbac44243caad0e6fadf1dd0211f7f8298b9f687dcb7395",
- "nh": "61187a604febe7418ec24c54d54a6736941a9bd98c6d5984531a30d51566281a",
- "chars": 22920,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/371/007_7- علوم القرآن الكريم ｜ التفسير： نشأته وتطوره.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/371/007_7- علوم القرآن الكريم ｜ التفسير： نشأته وتطوره.txt",
-   "sha256": "1f629ff86443561cebbac44243caad0e6fadf1dd0211f7f8298b9f687dcb7395",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:Ekw0wFjkJfs",
+  "vid": "Ekw0wFjkJfs",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--371",
+  "n": 7,
+  "n_src": "plpos",
+  "title": "7- علوم القرآن الكريم | التفسير: نشأته وتطوره",
+  "title_src": "yt_titles",
+  "sha256": "1f629ff86443561cebbac44243caad0e6fadf1dd0211f7f8298b9f687dcb7395",
+  "nh": "61187a604febe7418ec24c54d54a6736941a9bd98c6d5984531a30d51566281a",
+  "chars": 22920,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/371/007_7- علوم القرآن الكريم ｜ التفسير： نشأته وتطوره.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/3oloumEl9or1n-007/transcript.txt",
-   "sha256": "3d55f9cc079a3a9b89d049e40f8b116c2900bbd75d2ff95b0512f9e56bc62818",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/muqtatafat-ulum/6.txt",
-   "sha256": "1f629ff86443561cebbac44243caad0e6fadf1dd0211f7f8298b9f687dcb7395",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-ulum-quran/07.txt",
-   "sha256": "3d55f9cc079a3a9b89d049e40f8b116c2900bbd75d2ff95b0512f9e56bc62818",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/355/6.txt",
-   "sha256": "1f629ff86443561cebbac44243caad0e6fadf1dd0211f7f8298b9f687dcb7395",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/371/007_7- علوم القرآن الكريم ｜ التفسير： نشأته وتطوره.txt",
+      "sha256": "1f629ff86443561cebbac44243caad0e6fadf1dd0211f7f8298b9f687dcb7395",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/3oloumEl9or1n-007/transcript.txt",
+      "sha256": "3d55f9cc079a3a9b89d049e40f8b116c2900bbd75d2ff95b0512f9e56bc62818",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/muqtatafat-ulum/6.txt",
+      "sha256": "1f629ff86443561cebbac44243caad0e6fadf1dd0211f7f8298b9f687dcb7395",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-ulum-quran/07.txt",
+      "sha256": "3d55f9cc079a3a9b89d049e40f8b116c2900bbd75d2ff95b0512f9e56bc62818",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/355/6.txt",
+      "sha256": "1f629ff86443561cebbac44243caad0e6fadf1dd0211f7f8298b9f687dcb7395",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "said-bouti--bouti-muqtatafat-ulum"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9998,
+    "spoken_align_pct": 99.98,
+    "audio_span_pct": 98.36,
+    "words": 4283,
+    "aligned": 4282,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 14:41"
   }
- ],
- "variants": [],
- "also_in": [
-  "said-bouti--bouti-muqtatafat-ulum"
- ]
 }
