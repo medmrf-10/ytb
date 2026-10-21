@@ -9,8 +9,8 @@
 - **المشايخ ذوو المحتوى الفعلي:** 26 شيخاً
 - **السلاسل المفرّغة:** 389 سلسلة
 - **الدروس المفرّغة نصياً (`.txt`):** 6,712 درساً
-- **الدروس المحاذاة صوتياً (`.align.json`):** 3,213 درساً
-- **إجمالي الحجم النصي:** 157,900,053 حرفاً
+- **الدروس المحاذاة صوتياً (`.align.json`):** 3,226 درساً
+- **إجمالي الحجم النصي:** 157,899,572 حرفاً
 
 ---
 
@@ -18,7 +18,7 @@
 
 | # | الشيخ | المعرّف (`Slug`) | السلاسل | الدروس المفرغة (`.txt`) | الدروس المحاذاة (`.align.json`) | المجلد |
 |---:|---|---|---:|---:|---:|---|
-| 1 | محمد سعيد رمضان البوطي | `said-bouti` | 34 | 1,165 | 389 | [`said-bouti/`](./said-bouti/) |
+| 1 | محمد سعيد رمضان البوطي | `said-bouti` | 34 | 1,165 | 401 | [`said-bouti/`](./said-bouti/) |
 | 2 | محمد متولي الشعراوي | `sharawi` | 48 | 648 | 416 | [`sharawi/`](./sharawi/) |
 | 3 | أدهم العاسمي | `adham-alasimi` | 29 | 546 | 162 | [`adham-alasimi/`](./adham-alasimi/) |
 | 4 | الحبيب عمر بن حفيظ | `habib-omar-ibn-hafiz` | 16 | 522 | 95 | [`habib-omar-ibn-hafiz/`](./habib-omar-ibn-hafiz/) |
@@ -30,7 +30,7 @@
 | 10 | علي جمعة | `ali-gomaa` | 14 | 276 | 51 | [`ali-gomaa/`](./ali-gomaa/) |
 | 11 | مولود السريري | `mouloud-sariri` | 17 | 265 | 106 | [`mouloud-sariri/`](./mouloud-sariri/) |
 | 12 | محمد الحسن الددو | `daddo` | 17 | 244 | 193 | [`daddo/`](./daddo/) |
-| 13 | علي محمود العمري | `ali-mahmoud-alomari` | 18 | 241 | 188 | [`ali-mahmoud-alomari/`](./ali-mahmoud-alomari/) |
+| 13 | علي محمود العمري | `ali-mahmoud-alomari` | 18 | 241 | 189 | [`ali-mahmoud-alomari/`](./ali-mahmoud-alomari/) |
 | 14 | علي هاني العقرباوي | `ali-hani-aqrabawi` | 14 | 197 | 150 | [`ali-hani-aqrabawi/`](./ali-hani-aqrabawi/) |
 | 15 | أيمن عبد الرحيم | `ayman-abdelrahim` | 20 | 130 | 119 | [`ayman-abdelrahim/`](./ayman-abdelrahim/) |
 | 16 | معاذ سعيد حوى | `maath-hawa` | 7 | 92 | 92 | [`maath-hawa/`](./maath-hawa/) |

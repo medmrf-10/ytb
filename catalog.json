@@ -1,8 +1,8 @@
 {
   "sheikhs": [
     {
-      "aligned": 389,
-      "chars": 20562538,
+      "aligned": 401,
+      "chars": 20562328,
       "lessons": 1165,
       "name": "محمد سعيد رمضان البوطي",
       "path": "said-bouti/",
@@ -430,14 +430,14 @@
           "transcribed": 22
         },
         {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
+          "aligned": 12,
+          "aligned_pct": "23.1%",
           "category": "خطب الجمعة والمحاضرات",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 52,
           "dir": "s059/",
-          "dur": 98159,
+          "dur": 98152,
           "key": "s059",
           "series_id": "bouti__s059",
           "title": "خطب الجمعة والعيدين — عام 2012 م",
@@ -4485,8 +4485,8 @@
       "slug": "daddo"
     },
     {
-      "aligned": 188,
-      "chars": 6963262,
+      "aligned": 189,
+      "chars": 6962991,
       "lessons": 241,
       "name": "علي محمود العمري",
       "path": "ali-mahmoud-alomari/",
@@ -4494,14 +4494,14 @@
       "series": 18,
       "series_list": [
         {
-          "aligned": 45,
-          "aligned_pct": "97.8%",
+          "aligned": 46,
+          "aligned_pct": "100.0%",
           "category": "العقيدة وعلم الكلام",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 46,
           "dir": "s001/",
-          "dur": 191305,
+          "dur": 191304,
           "key": "s001",
           "series_id": "omari__s001",
           "title": "شرح كتاب الاقتصاد في الاعتقاد للإمام الغزالي",
@@ -5760,8 +5760,8 @@
     }
   ],
   "totals": {
-    "aligned": 3213,
-    "chars": 157900053,
+    "aligned": 3226,
+    "chars": 157899572,
     "lessons": 6712,
     "series": 389,
     "sheikhs": 26

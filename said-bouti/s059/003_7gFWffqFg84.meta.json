@@ -1,51 +1,67 @@
 {
- "v": 1,
- "lid": "yt:7gFWffqFg84",
- "vid": "7gFWffqFg84",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--bouti-khutab-2010",
- "n": 3,
- "n_src": "trfile",
- "title": "خطبة الإمام الشهيد البوطي | عندما يكون الحكم سياسياً والقناع إسلامياً",
- "title_src": "yt_titles",
- "sha256": "217cec3c076cea6e5c08c6c2a81de63d5912ffbf6f48875d2f93defb495e5001",
- "nh": "2760650fef8c888ef3d35660694fa7d729c9eaa6631ad4cb6282643bb917dd81",
- "chars": 14478,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/5o6ab-003/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/5o6ab-003/transcript.txt",
-   "sha256": "217cec3c076cea6e5c08c6c2a81de63d5912ffbf6f48875d2f93defb495e5001",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:7gFWffqFg84",
+  "vid": "7gFWffqFg84",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--bouti-khutab-2010",
+  "n": 3,
+  "n_src": "trfile",
+  "title": "خطبة الإمام الشهيد البوطي | عندما يكون الحكم سياسياً والقناع إسلامياً",
+  "title_src": "yt_titles",
+  "sha256": "217cec3c076cea6e5c08c6c2a81de63d5912ffbf6f48875d2f93defb495e5001",
+  "nh": "2760650fef8c888ef3d35660694fa7d729c9eaa6631ad4cb6282643bb917dd81",
+  "chars": 14478,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/5o6ab-003/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/khutab-2010/2.txt",
-   "sha256": "3972a45793de1a6881e32f9f0b47febbcd0862a4feadec821b1dc366f53c03ec",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-khutab-2012/03.txt",
-   "sha256": "217cec3c076cea6e5c08c6c2a81de63d5912ffbf6f48875d2f93defb495e5001",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/344/2.txt",
-   "sha256": "3972a45793de1a6881e32f9f0b47febbcd0862a4feadec821b1dc366f53c03ec",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/5o6ab-003/transcript.txt",
+      "sha256": "217cec3c076cea6e5c08c6c2a81de63d5912ffbf6f48875d2f93defb495e5001",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/khutab-2010/2.txt",
+      "sha256": "3972a45793de1a6881e32f9f0b47febbcd0862a4feadec821b1dc366f53c03ec",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-khutab-2012/03.txt",
+      "sha256": "217cec3c076cea6e5c08c6c2a81de63d5912ffbf6f48875d2f93defb495e5001",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/344/2.txt",
+      "sha256": "3972a45793de1a6881e32f9f0b47febbcd0862a4feadec821b1dc366f53c03ec",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "said-bouti--bouti-khutab-2012"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.97,
+    "words": 2698,
+    "aligned": 2698,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 10:44",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": [
-  "said-bouti--bouti-khutab-2012"
- ]
 }

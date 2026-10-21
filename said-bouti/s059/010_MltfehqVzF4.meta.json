@@ -1,51 +1,67 @@
 {
- "v": 1,
- "lid": "yt:MltfehqVzF4",
- "vid": "MltfehqVzF4",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--bouti-khutab-2010",
- "n": 10,
- "n_src": "trfile",
- "title": "خطبة الإمام البوطي | نحن مع عدالة الله لا مع ديمقراطية النفاق",
- "title_src": "yt_titles",
- "sha256": "deaf10f6b80b80ef3b24366598374ebcb3c2803cd72503c22490528555a39e9b",
- "nh": "31bb78125e17ba21945e0b8c828deac9fae69a3b399f5c04ff702f139ae125d9",
- "chars": 12947,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/5o6ab-010/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/5o6ab-010/transcript.txt",
-   "sha256": "deaf10f6b80b80ef3b24366598374ebcb3c2803cd72503c22490528555a39e9b",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:MltfehqVzF4",
+  "vid": "MltfehqVzF4",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--bouti-khutab-2010",
+  "n": 10,
+  "n_src": "trfile",
+  "title": "خطبة الإمام البوطي | نحن مع عدالة الله لا مع ديمقراطية النفاق",
+  "title_src": "yt_titles",
+  "sha256": "deaf10f6b80b80ef3b24366598374ebcb3c2803cd72503c22490528555a39e9b",
+  "nh": "31bb78125e17ba21945e0b8c828deac9fae69a3b399f5c04ff702f139ae125d9",
+  "chars": 12947,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/5o6ab-010/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/khutab-2010/9.txt",
-   "sha256": "11d57ecc3e7f23cc2d871f033c32c85ca2e88f5979f3fa06035f7b81b179475b",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-khutab-2012/10.txt",
-   "sha256": "deaf10f6b80b80ef3b24366598374ebcb3c2803cd72503c22490528555a39e9b",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/344/9.txt",
-   "sha256": "11d57ecc3e7f23cc2d871f033c32c85ca2e88f5979f3fa06035f7b81b179475b",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/5o6ab-010/transcript.txt",
+      "sha256": "deaf10f6b80b80ef3b24366598374ebcb3c2803cd72503c22490528555a39e9b",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/khutab-2010/9.txt",
+      "sha256": "11d57ecc3e7f23cc2d871f033c32c85ca2e88f5979f3fa06035f7b81b179475b",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-khutab-2012/10.txt",
+      "sha256": "deaf10f6b80b80ef3b24366598374ebcb3c2803cd72503c22490528555a39e9b",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/344/9.txt",
+      "sha256": "11d57ecc3e7f23cc2d871f033c32c85ca2e88f5979f3fa06035f7b81b179475b",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "said-bouti--bouti-khutab-2012"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.97,
+    "words": 2355,
+    "aligned": 2355,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 10:49",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": [
-  "said-bouti--bouti-khutab-2012"
- ]
 }

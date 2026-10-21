@@ -1,51 +1,64 @@
 {
- "v": 1,
- "lid": "yt:33JKhHcbTuU",
- "vid": "33JKhHcbTuU",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--bouti-khutab-2010",
- "n": 1,
- "n_src": "trfile",
- "title": "خطبة الإمام الشهيد : يفرح الله بتوبة عباده وفي عباده من يسوئهم ذلك",
- "title_src": "yt_titles",
- "sha256": "5dc8ad6d81042b0855fe867330097b3c0ee88e3dda34bff931f047fe66ce33e4",
- "nh": "f04994ffbb9192c042fbbd8fda4b71ff7b22e19eff372a13f59f97e0087a4106",
- "chars": 12192,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/5o6ab-001/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/5o6ab-001/transcript.txt",
-   "sha256": "5dc8ad6d81042b0855fe867330097b3c0ee88e3dda34bff931f047fe66ce33e4",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:33JKhHcbTuU",
+  "vid": "33JKhHcbTuU",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--bouti-khutab-2010",
+  "n": 1,
+  "n_src": "trfile",
+  "title": "خطبة الإمام الشهيد : يفرح الله بتوبة عباده وفي عباده من يسوئهم ذلك",
+  "title_src": "yt_titles",
+  "sha256": "5dc8ad6d81042b0855fe867330097b3c0ee88e3dda34bff931f047fe66ce33e4",
+  "nh": "f04994ffbb9192c042fbbd8fda4b71ff7b22e19eff372a13f59f97e0087a4106",
+  "chars": 12192,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/5o6ab-001/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/khutab-2010/0.txt",
-   "sha256": "6be1cb79271c882db21e18f6b2bde8190364e76bde77c1f018820b0d7f3f66f5",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-khutab-2012/01.txt",
-   "sha256": "5dc8ad6d81042b0855fe867330097b3c0ee88e3dda34bff931f047fe66ce33e4",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/344/0.txt",
-   "sha256": "6be1cb79271c882db21e18f6b2bde8190364e76bde77c1f018820b0d7f3f66f5",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/5o6ab-001/transcript.txt",
+      "sha256": "5dc8ad6d81042b0855fe867330097b3c0ee88e3dda34bff931f047fe66ce33e4",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/khutab-2010/0.txt",
+      "sha256": "6be1cb79271c882db21e18f6b2bde8190364e76bde77c1f018820b0d7f3f66f5",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-khutab-2012/01.txt",
+      "sha256": "5dc8ad6d81042b0855fe867330097b3c0ee88e3dda34bff931f047fe66ce33e4",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/344/0.txt",
+      "sha256": "6be1cb79271c882db21e18f6b2bde8190364e76bde77c1f018820b0d7f3f66f5",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "said-bouti--bouti-khutab-2012"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.97,
+    "words": 2208,
+    "aligned": 2208,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 10:40"
   }
- ],
- "variants": [],
- "also_in": [
-  "said-bouti--bouti-khutab-2012"
- ]
 }
