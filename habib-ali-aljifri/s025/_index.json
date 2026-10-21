@@ -1,16 +1,16 @@
 {
-  "aligned": 16,
-  "aligned_ratio": 0.3902,
+  "aligned": 19,
+  "aligned_ratio": 0.4634,
   "category": "برنامج فكري وتزكوي",
   "coverage": 1.0,
   "declared_total": 41,
   "key": "s025",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 23856,
-      "dur": 2232,
+      "dur": 2231,
       "file": "001_aLAHoMnqDcA.txt",
       "n": 1,
       "stem": "001_aLAHoMnqDcA",
@@ -40,10 +40,10 @@
       "vid": "xEC6_Y26pxg"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 18995,
-      "dur": 2077,
+      "dur": 2076,
       "file": "004_C4nM4otUTqI.txt",
       "n": 4,
       "stem": "004_C4nM4otUTqI",
@@ -73,10 +73,10 @@
       "vid": "GMBz_md7WXw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 20425,
-      "dur": 2107,
+      "dur": 2106,
       "file": "007_oActI5nEcgQ.txt",
       "n": 7,
       "stem": "007_oActI5nEcgQ",

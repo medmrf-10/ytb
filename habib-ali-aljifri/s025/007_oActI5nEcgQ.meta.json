@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:oActI5nEcgQ",
- "vid": "oActI5nEcgQ",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--99",
- "n": 4,
- "n_src": "read",
- "title": "حلقة 3： ميلاد الشجاعة ｜ #الشجرة الطيبة ｜ #الحبيب علي الجفري",
- "title_src": "filename",
- "sha256": "b33678682ae37e4921514df0f3e1380748c94b92b669e8c72fa901ee6f0e3881",
- "nh": "cbd93b89149440cc99fba44ae8ab1b0cb3a63d84cafb5fa433d73f1c7284240d",
- "chars": 20655,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/99/004_حلقة 3： ميلاد الشجاعة ｜ #الشجرة_الطيبة ｜ #الحبيب_علي_الجفري.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/99/004_حلقة 3： ميلاد الشجاعة ｜ #الشجرة_الطيبة ｜ #الحبيب_علي_الجفري.txt",
-   "sha256": "b33678682ae37e4921514df0f3e1380748c94b92b669e8c72fa901ee6f0e3881",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:oActI5nEcgQ",
+  "vid": "oActI5nEcgQ",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--99",
+  "n": 4,
+  "n_src": "read",
+  "title": "حلقة 3： ميلاد الشجاعة ｜ #الشجرة الطيبة ｜ #الحبيب علي الجفري",
+  "title_src": "filename",
+  "sha256": "b33678682ae37e4921514df0f3e1380748c94b92b669e8c72fa901ee6f0e3881",
+  "nh": "cbd93b89149440cc99fba44ae8ab1b0cb3a63d84cafb5fa433d73f1c7284240d",
+  "chars": 20655,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/99/004_حلقة 3： ميلاد الشجاعة ｜ #الشجرة_الطيبة ｜ #الحبيب_علي_الجفري.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/99/27.txt",
-   "sha256": "b33678682ae37e4921514df0f3e1380748c94b92b669e8c72fa901ee6f0e3881",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/99/004_حلقة 3： ميلاد الشجاعة ｜ #الشجرة_الطيبة ｜ #الحبيب_علي_الجفري.txt",
+      "sha256": "b33678682ae37e4921514df0f3e1380748c94b92b669e8c72fa901ee6f0e3881",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/99/27.txt",
+      "sha256": "b33678682ae37e4921514df0f3e1380748c94b92b669e8c72fa901ee6f0e3881",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9987,
+    "spoken_align_pct": 99.87,
+    "audio_span_pct": 97.09,
+    "words": 3748,
+    "aligned": 3743,
+    "interpolated": 5,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 08:36"
   }
- ],
- "variants": [],
- "also_in": []
 }

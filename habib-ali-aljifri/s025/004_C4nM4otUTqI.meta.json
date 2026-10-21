@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:C4nM4otUTqI",
- "vid": "C4nM4otUTqI",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--99",
- "n": 2,
- "n_src": "read",
- "title": "حلقة 2： أصول الأخلاق ｜ #الشجرة الطيبة ｜ #الحبيب علي الجفري",
- "title_src": "filename",
- "sha256": "8e1fbf9d76a037ca3ccef4a9b7dc59c6b88c9c44b6c6c91fb4bf81d462239221",
- "nh": "685b9b4eca30013fa59ce7f3f107dd001baf9c47bbc2c2e171e962ceab08c232",
- "chars": 19354,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/99/002_حلقة 2： أصول الأخلاق ｜ #الشجرة_الطيبة ｜ #الحبيب_علي_الجفري.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/99/002_حلقة 2： أصول الأخلاق ｜ #الشجرة_الطيبة ｜ #الحبيب_علي_الجفري.txt",
-   "sha256": "8e1fbf9d76a037ca3ccef4a9b7dc59c6b88c9c44b6c6c91fb4bf81d462239221",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:C4nM4otUTqI",
+  "vid": "C4nM4otUTqI",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--99",
+  "n": 2,
+  "n_src": "read",
+  "title": "حلقة 2： أصول الأخلاق ｜ #الشجرة الطيبة ｜ #الحبيب علي الجفري",
+  "title_src": "filename",
+  "sha256": "8e1fbf9d76a037ca3ccef4a9b7dc59c6b88c9c44b6c6c91fb4bf81d462239221",
+  "nh": "685b9b4eca30013fa59ce7f3f107dd001baf9c47bbc2c2e171e962ceab08c232",
+  "chars": 19354,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/99/002_حلقة 2： أصول الأخلاق ｜ #الشجرة_الطيبة ｜ #الحبيب_علي_الجفري.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/99/002_حلقة 2： أصول الأخلاق ｜ #الشجرة_الطيبة ｜ #الحبيب_علي_الجفري.txt",
+      "sha256": "8e1fbf9d76a037ca3ccef4a9b7dc59c6b88c9c44b6c6c91fb4bf81d462239221",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9997,
+    "spoken_align_pct": 99.97,
+    "audio_span_pct": 97.01,
+    "words": 3550,
+    "aligned": 3549,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 08:35"
   }
- ],
- "variants": [],
- "also_in": []
 }
