@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:mZKqcpsHU2A",
- "vid": "mZKqcpsHU2A",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--377",
- "n": 37,
- "n_src": "plpos",
- "title": "31- كبرى اليقينيات الكونية | حقائق تتعلق بالموت (2)",
- "title_src": "yt_titles",
- "sha256": "8e0010586d3a1ef9c1551b008557d98054b3684088c11da569f18779f2e76009",
- "nh": "27769f5272f1ebcf290ba1d6d29db6f90507be832d64396b96721b0e3fa7028b",
- "chars": 25260,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/377/037_31- كبرى اليقينيات الكونية ｜ حقائق تتعلق بالموت (2).txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/377/037_31- كبرى اليقينيات الكونية ｜ حقائق تتعلق بالموت (2).txt",
-   "sha256": "8e0010586d3a1ef9c1551b008557d98054b3684088c11da569f18779f2e76009",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:mZKqcpsHU2A",
+  "vid": "mZKqcpsHU2A",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--377",
+  "n": 37,
+  "n_src": "plpos",
+  "title": "31- كبرى اليقينيات الكونية | حقائق تتعلق بالموت (2)",
+  "title_src": "yt_titles",
+  "sha256": "8e0010586d3a1ef9c1551b008557d98054b3684088c11da569f18779f2e76009",
+  "nh": "27769f5272f1ebcf290ba1d6d29db6f90507be832d64396b96721b0e3fa7028b",
+  "chars": 25260,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/377/037_31- كبرى اليقينيات الكونية ｜ حقائق تتعلق بالموت (2).txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/kobraElya9inyat-037/transcript.txt",
-   "sha256": "ab905a3e4c66ac264bfb8ad105d66924a2084ba76ce3b9f3795f5627a5b7dda6",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/37.txt",
-   "sha256": "ab905a3e4c66ac264bfb8ad105d66924a2084ba76ce3b9f3795f5627a5b7dda6",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/377/037_31- كبرى اليقينيات الكونية ｜ حقائق تتعلق بالموت (2).txt",
+      "sha256": "8e0010586d3a1ef9c1551b008557d98054b3684088c11da569f18779f2e76009",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/kobraElya9inyat-037/transcript.txt",
+      "sha256": "ab905a3e4c66ac264bfb8ad105d66924a2084ba76ce3b9f3795f5627a5b7dda6",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/37.txt",
+      "sha256": "ab905a3e4c66ac264bfb8ad105d66924a2084ba76ce3b9f3795f5627a5b7dda6",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9877,
+    "spoken_align_pct": 98.77,
+    "audio_span_pct": 98.95,
+    "words": 4424,
+    "aligned": 4354,
+    "interpolated": 54,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 13:28"
   }
- ],
- "variants": [],
- "also_in": []
 }
