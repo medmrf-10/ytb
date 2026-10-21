@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:Run4VTRZdnc",
- "vid": "Run4VTRZdnc",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--403",
- "n": 28,
- "n_src": "plpos",
- "title": "26- فقه السيرة النبوية | غزوة أحد وحمراء الأسد (2)",
- "title_src": "yt_titles",
- "sha256": "6d774a8489bb6434adceaa380f2fa0300a78f418da0e475f219aeb6b61ef90cf",
- "nh": "779f464d2de836b0db6518146518c83978ac79eb90ce90b5eb75a35cfc2c5aef",
- "chars": 24131,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/403/028_26- فقه السيرة النبوية ｜ غزوة أحد وحمراء الأسد (2).txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/403/028_26- فقه السيرة النبوية ｜ غزوة أحد وحمراء الأسد (2).txt",
-   "sha256": "6d774a8489bb6434adceaa380f2fa0300a78f418da0e475f219aeb6b61ef90cf",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:Run4VTRZdnc",
+  "vid": "Run4VTRZdnc",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--403",
+  "n": 28,
+  "n_src": "plpos",
+  "title": "26- فقه السيرة النبوية | غزوة أحد وحمراء الأسد (2)",
+  "title_src": "yt_titles",
+  "sha256": "6d774a8489bb6434adceaa380f2fa0300a78f418da0e475f219aeb6b61ef90cf",
+  "nh": "779f464d2de836b0db6518146518c83978ac79eb90ce90b5eb75a35cfc2c5aef",
+  "chars": 24131,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/403/028_26- فقه السيرة النبوية ｜ غزوة أحد وحمراء الأسد (2).txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/fi9hElsirah-028/transcript.txt",
-   "sha256": "4cd65ee46be8f7478831da80ce37fe62122b1778cb74b30a43ba50a40dda7e28",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-sira/28.txt",
-   "sha256": "4cd65ee46be8f7478831da80ce37fe62122b1778cb74b30a43ba50a40dda7e28",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/403/028_26- فقه السيرة النبوية ｜ غزوة أحد وحمراء الأسد (2).txt",
+      "sha256": "6d774a8489bb6434adceaa380f2fa0300a78f418da0e475f219aeb6b61ef90cf",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/fi9hElsirah-028/transcript.txt",
+      "sha256": "4cd65ee46be8f7478831da80ce37fe62122b1778cb74b30a43ba50a40dda7e28",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-sira/28.txt",
+      "sha256": "4cd65ee46be8f7478831da80ce37fe62122b1778cb74b30a43ba50a40dda7e28",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9842,
+    "spoken_align_pct": 98.42,
+    "audio_span_pct": 98.39,
+    "words": 4427,
+    "aligned": 4354,
+    "interpolated": 70,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 16:11"
   }
- ],
- "variants": [],
- "also_in": []
 }
