@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:jry2a2-CzKQ",
- "vid": "jry2a2-CzKQ",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--371",
- "n": 46,
- "n_src": "plpos",
- "title": "46- علوم القرآن الكريم | دراسات تطبيقية في الوصف (لِّمَنِ الْمُلْكُ الْيَوْمَ..)",
- "title_src": "yt_titles",
- "sha256": "2499133a6a29107f55aa17a484575820a85695d1b3a6d6bff855547094f0315f",
- "nh": "e4b9ea5600a36d6d46df88720a4bfbcd1079c3f6c1f42b3f1a953fe2dd178292",
- "chars": 18632,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/371/046_46- علوم القرآن الكريم ｜ دراسات تطبيقية في الوصف (لِّمَنِ الْمُلْكُ الْيَوْمَ..).txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/371/046_46- علوم القرآن الكريم ｜ دراسات تطبيقية في الوصف (لِّمَنِ الْمُلْكُ الْيَوْمَ..).txt",
-   "sha256": "2499133a6a29107f55aa17a484575820a85695d1b3a6d6bff855547094f0315f",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:jry2a2-CzKQ",
+  "vid": "jry2a2-CzKQ",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--371",
+  "n": 46,
+  "n_src": "plpos",
+  "title": "46- علوم القرآن الكريم | دراسات تطبيقية في الوصف (لِّمَنِ الْمُلْكُ الْيَوْمَ..)",
+  "title_src": "yt_titles",
+  "sha256": "2499133a6a29107f55aa17a484575820a85695d1b3a6d6bff855547094f0315f",
+  "nh": "e4b9ea5600a36d6d46df88720a4bfbcd1079c3f6c1f42b3f1a953fe2dd178292",
+  "chars": 18632,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/371/046_46- علوم القرآن الكريم ｜ دراسات تطبيقية في الوصف (لِّمَنِ الْمُلْكُ الْيَوْمَ..).txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/3oloumEl9or1n-046/transcript.txt",
-   "sha256": "2cb74802dd30ed1c137856e0d0fc42354d836bd65be6c3d42de6b771f71bdbdc",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-ulum-quran/46.txt",
-   "sha256": "2cb74802dd30ed1c137856e0d0fc42354d836bd65be6c3d42de6b771f71bdbdc",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/371/046_46- علوم القرآن الكريم ｜ دراسات تطبيقية في الوصف (لِّمَنِ الْمُلْكُ الْيَوْمَ..).txt",
+      "sha256": "2499133a6a29107f55aa17a484575820a85695d1b3a6d6bff855547094f0315f",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/3oloumEl9or1n-046/transcript.txt",
+      "sha256": "2cb74802dd30ed1c137856e0d0fc42354d836bd65be6c3d42de6b771f71bdbdc",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-ulum-quran/46.txt",
+      "sha256": "2cb74802dd30ed1c137856e0d0fc42354d836bd65be6c3d42de6b771f71bdbdc",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9901,
+    "spoken_align_pct": 99.01,
+    "audio_span_pct": 99.24,
+    "words": 3432,
+    "aligned": 3398,
+    "interpolated": 34,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 15:21"
   }
- ],
- "variants": [],
- "also_in": []
 }
