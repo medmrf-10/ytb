@@ -489,8 +489,8 @@
       "slug": "said-bouti"
     },
     {
-      "aligned": 403,
-      "chars": 13955431,
+      "aligned": 416,
+      "chars": 13955014,
       "lessons": 648,
       "name": "محمد متولي الشعراوي",
       "path": "sharawi/",
@@ -834,14 +834,14 @@
           "transcribed": 21
         },
         {
-          "aligned": 30,
-          "aligned_pct": "69.8%",
+          "aligned": 43,
+          "aligned_pct": "100.0%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 43,
           "dir": "s030/",
-          "dur": 73981,
+          "dur": 73982,
           "key": "s030",
           "series_id": "shaarawy__s030",
           "title": "تفسير سورة لقمان",
@@ -4485,7 +4485,7 @@
       "slug": "daddo"
     },
     {
-      "aligned": 143,
+      "aligned": 144,
       "chars": 6966657,
       "lessons": 241,
       "name": "علي محمود العمري",
@@ -4494,14 +4494,14 @@
       "series": 18,
       "series_list": [
         {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
+          "aligned": 1,
+          "aligned_pct": "2.2%",
           "category": "العقيدة وعلم الكلام",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 46,
           "dir": "s001/",
-          "dur": 191322,
+          "dur": 191321,
           "key": "s001",
           "series_id": "omari__s001",
           "title": "شرح كتاب الاقتصاد في الاعتقاد للإمام الغزالي",
@@ -5760,8 +5760,8 @@
     }
   ],
   "totals": {
-    "aligned": 3155,
-    "chars": 157903865,
+    "aligned": 3169,
+    "chars": 157903448,
     "lessons": 6712,
     "series": 389,
     "sheikhs": 26
