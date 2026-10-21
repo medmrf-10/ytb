@@ -1,51 +1,64 @@
 {
- "v": 1,
- "lid": "yt:vXq3-OKNvMY",
- "vid": "vXq3-OKNvMY",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--bouti-khutab-2010",
- "n": 21,
- "n_src": "trfile",
- "title": "خطبة الإمام البوطي | عبادة بلا عبودية لا تنفع صاحبها",
- "title_src": "yt_titles",
- "sha256": "452ce29345b7e313b536b6bb885bc7c2ce78024f18c197f8900cb1e07685437e",
- "nh": "473897d82fe560e310ee0b2b84572f18795e31ebc596447fdd763d49ef877cce",
- "chars": 13505,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/5o6ab-021/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/5o6ab-021/transcript.txt",
-   "sha256": "452ce29345b7e313b536b6bb885bc7c2ce78024f18c197f8900cb1e07685437e",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:vXq3-OKNvMY",
+  "vid": "vXq3-OKNvMY",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--bouti-khutab-2010",
+  "n": 21,
+  "n_src": "trfile",
+  "title": "خطبة الإمام البوطي | عبادة بلا عبودية لا تنفع صاحبها",
+  "title_src": "yt_titles",
+  "sha256": "452ce29345b7e313b536b6bb885bc7c2ce78024f18c197f8900cb1e07685437e",
+  "nh": "473897d82fe560e310ee0b2b84572f18795e31ebc596447fdd763d49ef877cce",
+  "chars": 13505,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/5o6ab-021/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/khutab-2010/20.txt",
-   "sha256": "4ad78c0169487eb3c93ac82808d0c333625107850e5ce9f515f1c4b765b2ac4a",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-khutab-2012/21.txt",
-   "sha256": "452ce29345b7e313b536b6bb885bc7c2ce78024f18c197f8900cb1e07685437e",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/344/20.txt",
-   "sha256": "4ad78c0169487eb3c93ac82808d0c333625107850e5ce9f515f1c4b765b2ac4a",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/5o6ab-021/transcript.txt",
+      "sha256": "452ce29345b7e313b536b6bb885bc7c2ce78024f18c197f8900cb1e07685437e",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/khutab-2010/20.txt",
+      "sha256": "4ad78c0169487eb3c93ac82808d0c333625107850e5ce9f515f1c4b765b2ac4a",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-khutab-2012/21.txt",
+      "sha256": "452ce29345b7e313b536b6bb885bc7c2ce78024f18c197f8900cb1e07685437e",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/344/20.txt",
+      "sha256": "4ad78c0169487eb3c93ac82808d0c333625107850e5ce9f515f1c4b765b2ac4a",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "said-bouti--bouti-khutab-2012"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9996,
+    "spoken_align_pct": 99.96,
+    "audio_span_pct": 99.96,
+    "words": 2483,
+    "aligned": 2482,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 10:56"
   }
- ],
- "variants": [],
- "also_in": [
-  "said-bouti--bouti-khutab-2012"
- ]
 }

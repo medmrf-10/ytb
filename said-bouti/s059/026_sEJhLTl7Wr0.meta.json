@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:sEJhLTl7Wr0",
- "vid": "sEJhLTl7Wr0",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--bouti-khutab-2012",
- "n": 26,
- "n_src": "trfile",
- "title": "خطبة الإمام البوطي | إن الله لا يغير ما بقوم حتى يغيروا ما بأنفسهم",
- "title_src": "yt_titles",
- "sha256": "917b8a901bb86d2158c82fb97111068e3a7ff2825095e2b893b2bee9975d72ae",
- "nh": "7f924ff0efb775249438001373f9d7da4a613d84f3eb4686b0c6f5e8bc4a19b4",
- "chars": 12280,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/5o6ab-026/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/5o6ab-026/transcript.txt",
-   "sha256": "917b8a901bb86d2158c82fb97111068e3a7ff2825095e2b893b2bee9975d72ae",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:sEJhLTl7Wr0",
+  "vid": "sEJhLTl7Wr0",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--bouti-khutab-2012",
+  "n": 26,
+  "n_src": "trfile",
+  "title": "خطبة الإمام البوطي | إن الله لا يغير ما بقوم حتى يغيروا ما بأنفسهم",
+  "title_src": "yt_titles",
+  "sha256": "917b8a901bb86d2158c82fb97111068e3a7ff2825095e2b893b2bee9975d72ae",
+  "nh": "7f924ff0efb775249438001373f9d7da4a613d84f3eb4686b0c6f5e8bc4a19b4",
+  "chars": 12280,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/5o6ab-026/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-khutab-2012/26.txt",
-   "sha256": "917b8a901bb86d2158c82fb97111068e3a7ff2825095e2b893b2bee9975d72ae",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/5o6ab-026/transcript.txt",
+      "sha256": "917b8a901bb86d2158c82fb97111068e3a7ff2825095e2b893b2bee9975d72ae",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-khutab-2012/26.txt",
+      "sha256": "917b8a901bb86d2158c82fb97111068e3a7ff2825095e2b893b2bee9975d72ae",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9991,
+    "spoken_align_pct": 99.91,
+    "audio_span_pct": 99.97,
+    "words": 2203,
+    "aligned": 2201,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 11:00"
   }
- ],
- "variants": [],
- "also_in": []
 }

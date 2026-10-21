@@ -1,51 +1,67 @@
 {
- "v": 1,
- "lid": "yt:gtDc7LrYZ78",
- "vid": "gtDc7LrYZ78",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--bouti-khutab-2010",
- "n": 13,
- "n_src": "trfile",
- "title": "خطبة الإمام البوطي | الإخلاص تلك القيمة القرآنية المنسية اليوم",
- "title_src": "yt_titles",
- "sha256": "892d01eac91c6461fbae7ad5b874affa9f57378c6e6df49b69737be1988194b8",
- "nh": "2ad82b9c95d0b5ac5c58cd41aafece43e1f3346e4fce524f45d5cd722e9012a5",
- "chars": 12703,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/5o6ab-013/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/5o6ab-013/transcript.txt",
-   "sha256": "892d01eac91c6461fbae7ad5b874affa9f57378c6e6df49b69737be1988194b8",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:gtDc7LrYZ78",
+  "vid": "gtDc7LrYZ78",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--bouti-khutab-2010",
+  "n": 13,
+  "n_src": "trfile",
+  "title": "خطبة الإمام البوطي | الإخلاص تلك القيمة القرآنية المنسية اليوم",
+  "title_src": "yt_titles",
+  "sha256": "892d01eac91c6461fbae7ad5b874affa9f57378c6e6df49b69737be1988194b8",
+  "nh": "2ad82b9c95d0b5ac5c58cd41aafece43e1f3346e4fce524f45d5cd722e9012a5",
+  "chars": 12703,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/5o6ab-013/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/khutab-2010/12.txt",
-   "sha256": "e2c53d84e2613a3d06c900e4589f7d7b8b92d1ce0962af6ef8d9dea08c489467",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-khutab-2012/13.txt",
-   "sha256": "892d01eac91c6461fbae7ad5b874affa9f57378c6e6df49b69737be1988194b8",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/344/12.txt",
-   "sha256": "e2c53d84e2613a3d06c900e4589f7d7b8b92d1ce0962af6ef8d9dea08c489467",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/5o6ab-013/transcript.txt",
+      "sha256": "892d01eac91c6461fbae7ad5b874affa9f57378c6e6df49b69737be1988194b8",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/khutab-2010/12.txt",
+      "sha256": "e2c53d84e2613a3d06c900e4589f7d7b8b92d1ce0962af6ef8d9dea08c489467",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-khutab-2012/13.txt",
+      "sha256": "892d01eac91c6461fbae7ad5b874affa9f57378c6e6df49b69737be1988194b8",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/344/12.txt",
+      "sha256": "e2c53d84e2613a3d06c900e4589f7d7b8b92d1ce0962af6ef8d9dea08c489467",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "said-bouti--bouti-khutab-2012"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.98,
+    "words": 2339,
+    "aligned": 2339,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 10:51",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": [
-  "said-bouti--bouti-khutab-2012"
- ]
 }
