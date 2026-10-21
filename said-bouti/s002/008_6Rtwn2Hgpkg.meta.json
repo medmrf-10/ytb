@@ -1,57 +1,70 @@
 {
- "v": 1,
- "lid": "yt:6Rtwn2Hgpkg",
- "vid": "6Rtwn2Hgpkg",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--371",
- "n": 8,
- "n_src": "plpos",
- "title": "8- علوم القرآن الكريم | التفسير: شروطه وضوابطه",
- "title_src": "yt_titles",
- "sha256": "b0c077c526b639458353634974de12876a3e3f48cc5389467327aef7f61703a7",
- "nh": "438ef9fe7ba49bb0ee591875cf4f6dc7daf79ddf8d3455330c34c0b603fb0560",
- "chars": 21610,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/371/008_8- علوم القرآن الكريم ｜ التفسير： شروطه وضوابطه.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/371/008_8- علوم القرآن الكريم ｜ التفسير： شروطه وضوابطه.txt",
-   "sha256": "b0c077c526b639458353634974de12876a3e3f48cc5389467327aef7f61703a7",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:6Rtwn2Hgpkg",
+  "vid": "6Rtwn2Hgpkg",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--371",
+  "n": 8,
+  "n_src": "plpos",
+  "title": "8- علوم القرآن الكريم | التفسير: شروطه وضوابطه",
+  "title_src": "yt_titles",
+  "sha256": "b0c077c526b639458353634974de12876a3e3f48cc5389467327aef7f61703a7",
+  "nh": "438ef9fe7ba49bb0ee591875cf4f6dc7daf79ddf8d3455330c34c0b603fb0560",
+  "chars": 21610,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/371/008_8- علوم القرآن الكريم ｜ التفسير： شروطه وضوابطه.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/3oloumEl9or1n-008/transcript.txt",
-   "sha256": "da76232a43ab3b4fc99242ec6b0a347b680155cbf092e8d759dca37a51a775a5",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/muqtatafat-ulum/7.txt",
-   "sha256": "b0c077c526b639458353634974de12876a3e3f48cc5389467327aef7f61703a7",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-ulum-quran/08.txt",
-   "sha256": "da76232a43ab3b4fc99242ec6b0a347b680155cbf092e8d759dca37a51a775a5",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/355/7.txt",
-   "sha256": "b0c077c526b639458353634974de12876a3e3f48cc5389467327aef7f61703a7",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/371/008_8- علوم القرآن الكريم ｜ التفسير： شروطه وضوابطه.txt",
+      "sha256": "b0c077c526b639458353634974de12876a3e3f48cc5389467327aef7f61703a7",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/3oloumEl9or1n-008/transcript.txt",
+      "sha256": "da76232a43ab3b4fc99242ec6b0a347b680155cbf092e8d759dca37a51a775a5",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/muqtatafat-ulum/7.txt",
+      "sha256": "b0c077c526b639458353634974de12876a3e3f48cc5389467327aef7f61703a7",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-ulum-quran/08.txt",
+      "sha256": "da76232a43ab3b4fc99242ec6b0a347b680155cbf092e8d759dca37a51a775a5",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/355/7.txt",
+      "sha256": "b0c077c526b639458353634974de12876a3e3f48cc5389467327aef7f61703a7",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "said-bouti--bouti-muqtatafat-ulum"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9997,
+    "spoken_align_pct": 99.97,
+    "audio_span_pct": 98.26,
+    "words": 3937,
+    "aligned": 3936,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 14:39"
   }
- ],
- "variants": [],
- "also_in": [
-  "said-bouti--bouti-muqtatafat-ulum"
- ]
 }

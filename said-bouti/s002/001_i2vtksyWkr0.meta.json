@@ -1,57 +1,70 @@
 {
- "v": 1,
- "lid": "yt:i2vtksyWkr0",
- "vid": "i2vtksyWkr0",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--371",
- "n": 1,
- "n_src": "plpos",
- "title": "1- علوم القرآن الكريم | القرآن: تعريفه ونزوله منجماً",
- "title_src": "yt_titles",
- "sha256": "a4fbdaa417249a93f84f18fe5adf6178fdb5ee1920340d23a842123532cb814a",
- "nh": "6bd1da06bd7e5f8dfd7ac77e974e31c3f31115859df8c4813137b26d4ae8e699",
- "chars": 26133,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/371/001_1- علوم القرآن الكريم ｜ القرآن： تعريفه ونزوله منجماً.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/371/001_1- علوم القرآن الكريم ｜ القرآن： تعريفه ونزوله منجماً.txt",
-   "sha256": "a4fbdaa417249a93f84f18fe5adf6178fdb5ee1920340d23a842123532cb814a",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:i2vtksyWkr0",
+  "vid": "i2vtksyWkr0",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--371",
+  "n": 1,
+  "n_src": "plpos",
+  "title": "1- علوم القرآن الكريم | القرآن: تعريفه ونزوله منجماً",
+  "title_src": "yt_titles",
+  "sha256": "a4fbdaa417249a93f84f18fe5adf6178fdb5ee1920340d23a842123532cb814a",
+  "nh": "6bd1da06bd7e5f8dfd7ac77e974e31c3f31115859df8c4813137b26d4ae8e699",
+  "chars": 26133,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/371/001_1- علوم القرآن الكريم ｜ القرآن： تعريفه ونزوله منجماً.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/3oloumEl9or1n-001/transcript.txt",
-   "sha256": "77cf8d3505d10d95b6c978a8925e92707f05f5a8e89cc596694bd64257d9ceb6",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/muqtatafat-ulum/0.txt",
-   "sha256": "a4fbdaa417249a93f84f18fe5adf6178fdb5ee1920340d23a842123532cb814a",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-ulum-quran/01.txt",
-   "sha256": "77cf8d3505d10d95b6c978a8925e92707f05f5a8e89cc596694bd64257d9ceb6",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/355/0.txt",
-   "sha256": "a4fbdaa417249a93f84f18fe5adf6178fdb5ee1920340d23a842123532cb814a",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/371/001_1- علوم القرآن الكريم ｜ القرآن： تعريفه ونزوله منجماً.txt",
+      "sha256": "a4fbdaa417249a93f84f18fe5adf6178fdb5ee1920340d23a842123532cb814a",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/3oloumEl9or1n-001/transcript.txt",
+      "sha256": "77cf8d3505d10d95b6c978a8925e92707f05f5a8e89cc596694bd64257d9ceb6",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/muqtatafat-ulum/0.txt",
+      "sha256": "a4fbdaa417249a93f84f18fe5adf6178fdb5ee1920340d23a842123532cb814a",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-ulum-quran/01.txt",
+      "sha256": "77cf8d3505d10d95b6c978a8925e92707f05f5a8e89cc596694bd64257d9ceb6",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/355/0.txt",
+      "sha256": "a4fbdaa417249a93f84f18fe5adf6178fdb5ee1920340d23a842123532cb814a",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "said-bouti--bouti-muqtatafat-ulum"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9996,
+    "spoken_align_pct": 99.96,
+    "audio_span_pct": 98.55,
+    "words": 4814,
+    "aligned": 4808,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 14:34"
   }
- ],
- "variants": [],
- "also_in": [
-  "said-bouti--bouti-muqtatafat-ulum"
- ]
 }

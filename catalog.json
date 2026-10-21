@@ -1,7 +1,7 @@
 {
   "sheikhs": [
     {
-      "aligned": 498,
+      "aligned": 503,
       "chars": 20561743,
       "lessons": 1165,
       "name": "محمد سعيد رمضان البوطي",
@@ -24,14 +24,14 @@
           "transcribed": 200
         },
         {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
+          "aligned": 5,
+          "aligned_pct": "7.9%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 63,
           "dir": "s002/",
-          "dur": 184860,
+          "dur": 184858,
           "key": "s002",
           "series_id": "bouti__s002",
           "title": "محاضرات في علوم القرآن الكريم ودراساته التطبيقية",
@@ -489,8 +489,8 @@
       "slug": "said-bouti"
     },
     {
-      "aligned": 467,
-      "chars": 13953766,
+      "aligned": 471,
+      "chars": 13953678,
       "lessons": 648,
       "name": "محمد متولي الشعراوي",
       "path": "sharawi/",
@@ -512,14 +512,14 @@
           "transcribed": 16
         },
         {
-          "aligned": 51,
-          "aligned_pct": "92.7%",
+          "aligned": 55,
+          "aligned_pct": "100.0%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 55,
           "dir": "s002/",
-          "dur": 125666,
+          "dur": 125669,
           "key": "s002",
           "series_id": "shaarawy__s002",
           "title": "تفسير سورة آل عمران",
@@ -5760,8 +5760,8 @@
     }
   ],
   "totals": {
-    "aligned": 3374,
-    "chars": 157897739,
+    "aligned": 3383,
+    "chars": 157897651,
     "lessons": 6712,
     "series": 389,
     "sheikhs": 26
