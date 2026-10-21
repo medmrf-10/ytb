@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:ohL_ai16tZE",
- "vid": "ohL_ai16tZE",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--371",
- "n": 50,
- "n_src": "plpos",
- "title": "50- علوم القرآن الكريم | دراسات تطبيقية في المبادئ والإنسانيات (رَبُّكُمْ أَعْلَمُ بِمَا فِي...)",
- "title_src": "yt_titles",
- "sha256": "63e90df539518d8dcf89881b7700f01643711659b00ced9523010cdafe6df49f",
- "nh": "c230bef556beaa840f6073b1c9f6f202b24c1589f7e74d5e2e363ea8e5299ee3",
- "chars": 20799,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/371/050_50- علوم القرآن الكريم ｜ دراسات تطبيقية في المبادئ والإنسانيات (رَبُّكُمْ أَعْلَ.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/371/050_50- علوم القرآن الكريم ｜ دراسات تطبيقية في المبادئ والإنسانيات (رَبُّكُمْ أَعْلَ.txt",
-   "sha256": "63e90df539518d8dcf89881b7700f01643711659b00ced9523010cdafe6df49f",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:ohL_ai16tZE",
+  "vid": "ohL_ai16tZE",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--371",
+  "n": 50,
+  "n_src": "plpos",
+  "title": "50- علوم القرآن الكريم | دراسات تطبيقية في المبادئ والإنسانيات (رَبُّكُمْ أَعْلَمُ بِمَا فِي...)",
+  "title_src": "yt_titles",
+  "sha256": "63e90df539518d8dcf89881b7700f01643711659b00ced9523010cdafe6df49f",
+  "nh": "c230bef556beaa840f6073b1c9f6f202b24c1589f7e74d5e2e363ea8e5299ee3",
+  "chars": 20799,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/371/050_50- علوم القرآن الكريم ｜ دراسات تطبيقية في المبادئ والإنسانيات (رَبُّكُمْ أَعْلَ.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/3oloumEl9or1n-050/transcript.txt",
-   "sha256": "9e06f44c4c5bea7c91b74c80e7e8a6e97b6b4aa33f0bc6a15270642844fea9a9",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-ulum-quran/50.txt",
-   "sha256": "9e06f44c4c5bea7c91b74c80e7e8a6e97b6b4aa33f0bc6a15270642844fea9a9",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/371/050_50- علوم القرآن الكريم ｜ دراسات تطبيقية في المبادئ والإنسانيات (رَبُّكُمْ أَعْلَ.txt",
+      "sha256": "63e90df539518d8dcf89881b7700f01643711659b00ced9523010cdafe6df49f",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/3oloumEl9or1n-050/transcript.txt",
+      "sha256": "9e06f44c4c5bea7c91b74c80e7e8a6e97b6b4aa33f0bc6a15270642844fea9a9",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-ulum-quran/50.txt",
+      "sha256": "9e06f44c4c5bea7c91b74c80e7e8a6e97b6b4aa33f0bc6a15270642844fea9a9",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9995,
+    "spoken_align_pct": 99.95,
+    "audio_span_pct": 99.28,
+    "words": 3873,
+    "aligned": 3871,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 15:24"
   }
- ],
- "variants": [],
- "also_in": []
 }
