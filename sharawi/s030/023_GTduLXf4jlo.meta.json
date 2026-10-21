@@ -1,34 +1,50 @@
 {
- "v": 1,
- "lid": "yt:GTduLXf4jlo",
- "vid": "GTduLXf4jlo",
- "sheikh": "sharawi",
- "row_id": "sharawi--523",
- "n": 13,
- "n_src": "playlist",
- "title": "تفسير سورة لقمان للشيخ الشعراوي - خواطر الاية 20 1/2",
- "title_src": "youtube",
- "sha256": "5cf31ecfe004defce6ba6066544ff3732b2ef4892f5279bd3930c6943cc98e4b",
- "chars": 15493,
- "quality": "ok",
- "winner": {
-  "store": "ytb-transcribe",
-  "path": "ytb/sharawi/523/013_GTduLXf4jlo.txt",
-  "model": "gemini-3.8-flash-high"
- },
- "sources": [
-  {
-   "store": "youtube",
-   "path": "https://youtu.be/GTduLXf4jlo",
-   "rel": "source"
+  "v": 1,
+  "lid": "yt:GTduLXf4jlo",
+  "vid": "GTduLXf4jlo",
+  "sheikh": "sharawi",
+  "row_id": "sharawi--523",
+  "n": 13,
+  "n_src": "playlist",
+  "title": "تفسير سورة لقمان للشيخ الشعراوي - خواطر الاية 20 1/2",
+  "title_src": "youtube",
+  "sha256": "5cf31ecfe004defce6ba6066544ff3732b2ef4892f5279bd3930c6943cc98e4b",
+  "chars": 15493,
+  "quality": "ok",
+  "winner": {
+    "store": "ytb-transcribe",
+    "path": "ytb/sharawi/523/013_GTduLXf4jlo.txt",
+    "model": "gemini-3.8-flash-high"
+  },
+  "sources": [
+    {
+      "store": "youtube",
+      "path": "https://youtu.be/GTduLXf4jlo",
+      "rel": "source"
+    }
+  ],
+  "series": "sharawi--523",
+  "series_slug": "sharawi--523",
+  "lesson_no": 13,
+  "yt": "GTduLXf4jlo",
+  "transcribed": "2026-10-14 02:30:11",
+  "audio": "ytb-build/audio/sharawi--523/013.mp3",
+  "job": "agy+gemini عبر agy",
+  "usage_tail": ": None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 55.471, \"Gemini Models / Five Hour Limit Remaining\": 96.874, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.019, \"Gemini Models / Five Hour Limit Remaining\": 0.08, \"Claude and GPT models / Five Hour Limit Remaining\": 0}\nchars: 15492 | words: 2827\nduplicate 8/12-gram runs: 2\nwrote /root/workspace/ytb/sharawi/523/013_GTduLXf4jlo.txt\n",
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9975,
+    "spoken_align_pct": 99.75,
+    "audio_span_pct": 99.97,
+    "words": 2817,
+    "aligned": 2808,
+    "interpolated": 7,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 09:25",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "series": "sharawi--523",
- "series_slug": "sharawi--523",
- "lesson_no": 13,
- "yt": "GTduLXf4jlo",
- "transcribed": "2026-10-14 02:30:11",
- "audio": "ytb-build/audio/sharawi--523/013.mp3",
- "job": "agy+gemini عبر agy",
- "usage_tail": ": None\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 55.471, \"Gemini Models / Five Hour Limit Remaining\": 96.874, \"Claude and GPT models / Weekly Limit Remaining\": 58.168, \"Claude and GPT models / Five Hour Limit Remaining\": 100}\nbucket deltas (percentage points): {\"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Weekly Limit Remaining\": 0.019, \"Gemini Models / Five Hour Limit Remaining\": 0.08, \"Claude and GPT models / Five Hour Limit Remaining\": 0}\nchars: 15492 | words: 2827\nduplicate 8/12-gram runs: 2\nwrote /root/workspace/ytb/sharawi/523/013_GTduLXf4jlo.txt\n"
 }
