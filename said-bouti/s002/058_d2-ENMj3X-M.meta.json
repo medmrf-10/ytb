@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:d2-ENMj3X-M",
- "vid": "d2-ENMj3X-M",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--371",
- "n": 58,
- "n_src": "plpos",
- "title": "58- علوم القرآن الكريم | دراسات تطبيقية في القصص (وَنَادَى نُوحٌ رَبَّهُ فَقَالَ...)",
- "title_src": "yt_titles",
- "sha256": "787bdb302ede12f4ecd5ac1e0c48bcb5d16c05f08073f4e5e06baa05b7b98885",
- "nh": "6ab265255e751daa6e075768b9aa16f17ee59a92d90b836ec463b39efae7c0ce",
- "chars": 26281,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/371/058_58- علوم القرآن الكريم ｜ دراسات تطبيقية في القصص (وَنَادَى نُوحٌ رَبَّهُ فَقَالَ.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/371/058_58- علوم القرآن الكريم ｜ دراسات تطبيقية في القصص (وَنَادَى نُوحٌ رَبَّهُ فَقَالَ.txt",
-   "sha256": "787bdb302ede12f4ecd5ac1e0c48bcb5d16c05f08073f4e5e06baa05b7b98885",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:d2-ENMj3X-M",
+  "vid": "d2-ENMj3X-M",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--371",
+  "n": 58,
+  "n_src": "plpos",
+  "title": "58- علوم القرآن الكريم | دراسات تطبيقية في القصص (وَنَادَى نُوحٌ رَبَّهُ فَقَالَ...)",
+  "title_src": "yt_titles",
+  "sha256": "787bdb302ede12f4ecd5ac1e0c48bcb5d16c05f08073f4e5e06baa05b7b98885",
+  "nh": "6ab265255e751daa6e075768b9aa16f17ee59a92d90b836ec463b39efae7c0ce",
+  "chars": 26281,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/371/058_58- علوم القرآن الكريم ｜ دراسات تطبيقية في القصص (وَنَادَى نُوحٌ رَبَّهُ فَقَالَ.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/3oloumEl9or1n-058/transcript.txt",
-   "sha256": "75a5283979fe182228a7eedff44a8c2991ddb9edc9386397b1c37d73da2554bc",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-ulum-quran/58.txt",
-   "sha256": "75a5283979fe182228a7eedff44a8c2991ddb9edc9386397b1c37d73da2554bc",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/371/058_58- علوم القرآن الكريم ｜ دراسات تطبيقية في القصص (وَنَادَى نُوحٌ رَبَّهُ فَقَالَ.txt",
+      "sha256": "787bdb302ede12f4ecd5ac1e0c48bcb5d16c05f08073f4e5e06baa05b7b98885",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/3oloumEl9or1n-058/transcript.txt",
+      "sha256": "75a5283979fe182228a7eedff44a8c2991ddb9edc9386397b1c37d73da2554bc",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-ulum-quran/58.txt",
+      "sha256": "75a5283979fe182228a7eedff44a8c2991ddb9edc9386397b1c37d73da2554bc",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9994,
+    "spoken_align_pct": 99.94,
+    "audio_span_pct": 99.4,
+    "words": 5055,
+    "aligned": 5047,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 15:34"
   }
- ],
- "variants": [],
- "also_in": []
 }

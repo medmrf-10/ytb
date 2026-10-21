@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:R809eytOpKI",
- "vid": "R809eytOpKI",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--371",
- "n": 61,
- "n_src": "plpos",
- "title": "61- علوم القرآن الكريم | دراسات تطبيقية في القصص (أَمَّن يَهْدِيكُمْ فِي ظُلُمَاتِ...)",
- "title_src": "yt_titles",
- "sha256": "a2da64b511219ab30f5a42c4779f6d209b604f672f98054ec717110c8cf14cd3",
- "nh": "d5ee5688280b8205866bc1c2c8938101b4cd1946c0210a2b4991209e29a9a2cf",
- "chars": 15163,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/371/061_61- علوم القرآن الكريم ｜ دراسات تطبيقية في القصص (أَمَّن يَهْدِيكُمْ فِي ظُلُمَا.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/371/061_61- علوم القرآن الكريم ｜ دراسات تطبيقية في القصص (أَمَّن يَهْدِيكُمْ فِي ظُلُمَا.txt",
-   "sha256": "a2da64b511219ab30f5a42c4779f6d209b604f672f98054ec717110c8cf14cd3",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:R809eytOpKI",
+  "vid": "R809eytOpKI",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--371",
+  "n": 61,
+  "n_src": "plpos",
+  "title": "61- علوم القرآن الكريم | دراسات تطبيقية في القصص (أَمَّن يَهْدِيكُمْ فِي ظُلُمَاتِ...)",
+  "title_src": "yt_titles",
+  "sha256": "a2da64b511219ab30f5a42c4779f6d209b604f672f98054ec717110c8cf14cd3",
+  "nh": "d5ee5688280b8205866bc1c2c8938101b4cd1946c0210a2b4991209e29a9a2cf",
+  "chars": 15163,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/371/061_61- علوم القرآن الكريم ｜ دراسات تطبيقية في القصص (أَمَّن يَهْدِيكُمْ فِي ظُلُمَا.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/3oloumEl9or1n-061/transcript.txt",
-   "sha256": "a29659ede7f7580e87aa74b0c245b110ae4ed6803a310be4fa69156b2736cc82",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-ulum-quran/61.txt",
-   "sha256": "a29659ede7f7580e87aa74b0c245b110ae4ed6803a310be4fa69156b2736cc82",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/371/061_61- علوم القرآن الكريم ｜ دراسات تطبيقية في القصص (أَمَّن يَهْدِيكُمْ فِي ظُلُمَا.txt",
+      "sha256": "a2da64b511219ab30f5a42c4779f6d209b604f672f98054ec717110c8cf14cd3",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/3oloumEl9or1n-061/transcript.txt",
+      "sha256": "a29659ede7f7580e87aa74b0c245b110ae4ed6803a310be4fa69156b2736cc82",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-ulum-quran/61.txt",
+      "sha256": "a29659ede7f7580e87aa74b0c245b110ae4ed6803a310be4fa69156b2736cc82",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9989,
+    "spoken_align_pct": 99.89,
+    "audio_span_pct": 100.0,
+    "words": 2819,
+    "aligned": 2812,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 15:37"
   }
- ],
- "variants": [],
- "also_in": []
 }
