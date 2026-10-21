@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:IvZTc4S87E8",
- "vid": "IvZTc4S87E8",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--bouti-khutab-2012",
- "n": 37,
- "n_src": "trfile",
- "title": "خطبة الإمام البوطي | رسول الله يوصينا بالتوجه إلى المسجد الأقصى والصلاة فيه",
- "title_src": "yt_titles",
- "sha256": "c8282933c1b0d0bb1615309c6fa93bcedd9305387630023ea640406f3f5f9863",
- "nh": "174b22a804fda14f8a230c250b6bb44f6cb18c5a4fcbf46d8e8e26569639eb08",
- "chars": 11220,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/5o6ab-037/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/5o6ab-037/transcript.txt",
-   "sha256": "c8282933c1b0d0bb1615309c6fa93bcedd9305387630023ea640406f3f5f9863",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:IvZTc4S87E8",
+  "vid": "IvZTc4S87E8",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--bouti-khutab-2012",
+  "n": 37,
+  "n_src": "trfile",
+  "title": "خطبة الإمام البوطي | رسول الله يوصينا بالتوجه إلى المسجد الأقصى والصلاة فيه",
+  "title_src": "yt_titles",
+  "sha256": "c8282933c1b0d0bb1615309c6fa93bcedd9305387630023ea640406f3f5f9863",
+  "nh": "174b22a804fda14f8a230c250b6bb44f6cb18c5a4fcbf46d8e8e26569639eb08",
+  "chars": 11220,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/5o6ab-037/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-khutab-2012/37.txt",
-   "sha256": "c8282933c1b0d0bb1615309c6fa93bcedd9305387630023ea640406f3f5f9863",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/5o6ab-037/transcript.txt",
+      "sha256": "c8282933c1b0d0bb1615309c6fa93bcedd9305387630023ea640406f3f5f9863",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-khutab-2012/37.txt",
+      "sha256": "c8282933c1b0d0bb1615309c6fa93bcedd9305387630023ea640406f3f5f9863",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.97,
+    "words": 2110,
+    "aligned": 2110,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 12:11"
   }
- ],
- "variants": [],
- "also_in": []
 }

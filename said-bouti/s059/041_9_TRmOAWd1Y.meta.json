@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:9_TRmOAWd1Y",
- "vid": "9_TRmOAWd1Y",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--bouti-khutab-2012",
- "n": 41,
- "n_src": "trfile",
- "title": "خطبة الإمام البوطي | نصيحة لكل أخ في الله (وخاصة منهم الدعاة)",
- "title_src": "yt_titles",
- "sha256": "ae6975900d90b8f41e2dbe04fb7648d37775ed62d15dca97cdcb6f1ff3c500d5",
- "nh": "51f20a9944da20f81b7120d5edd1abee28bd340952b400f4b6e46a9109167201",
- "chars": 12231,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/5o6ab-041/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/5o6ab-041/transcript.txt",
-   "sha256": "ae6975900d90b8f41e2dbe04fb7648d37775ed62d15dca97cdcb6f1ff3c500d5",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:9_TRmOAWd1Y",
+  "vid": "9_TRmOAWd1Y",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--bouti-khutab-2012",
+  "n": 41,
+  "n_src": "trfile",
+  "title": "خطبة الإمام البوطي | نصيحة لكل أخ في الله (وخاصة منهم الدعاة)",
+  "title_src": "yt_titles",
+  "sha256": "ae6975900d90b8f41e2dbe04fb7648d37775ed62d15dca97cdcb6f1ff3c500d5",
+  "nh": "51f20a9944da20f81b7120d5edd1abee28bd340952b400f4b6e46a9109167201",
+  "chars": 12231,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/5o6ab-041/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-khutab-2012/41.txt",
-   "sha256": "ae6975900d90b8f41e2dbe04fb7648d37775ed62d15dca97cdcb6f1ff3c500d5",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/5o6ab-041/transcript.txt",
+      "sha256": "ae6975900d90b8f41e2dbe04fb7648d37775ed62d15dca97cdcb6f1ff3c500d5",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-khutab-2012/41.txt",
+      "sha256": "ae6975900d90b8f41e2dbe04fb7648d37775ed62d15dca97cdcb6f1ff3c500d5",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9996,
+    "spoken_align_pct": 99.96,
+    "audio_span_pct": 99.99,
+    "words": 2279,
+    "aligned": 2278,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 12:16"
   }
- ],
- "variants": [],
- "also_in": []
 }

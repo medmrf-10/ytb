@@ -1,37 +1,53 @@
 {
- "v": 1,
- "lid": "yt:nZXfqlTXVGg",
- "vid": "nZXfqlTXVGg",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--bouti-khutab-2012",
- "n": 47,
- "n_src": "trfile",
- "title": "خطبة الإمام الشهيد البوطي | سلاحنا الأمضى الدعاء والتضرع إلى الله",
- "title_src": "yt_titles",
- "sha256": "69fa6a83888939ef6c8db9b40321b49bd75479d1fe167f9c1dcab2b34516e38f",
- "nh": "ffbcd56b47dee7f151eb3a0ca7cdb19cf21e2c8c6d6c9f402ac750082dd1f8b5",
- "chars": 12860,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/5o6ab-047/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/5o6ab-047/transcript.txt",
-   "sha256": "69fa6a83888939ef6c8db9b40321b49bd75479d1fe167f9c1dcab2b34516e38f",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:nZXfqlTXVGg",
+  "vid": "nZXfqlTXVGg",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--bouti-khutab-2012",
+  "n": 47,
+  "n_src": "trfile",
+  "title": "خطبة الإمام الشهيد البوطي | سلاحنا الأمضى الدعاء والتضرع إلى الله",
+  "title_src": "yt_titles",
+  "sha256": "69fa6a83888939ef6c8db9b40321b49bd75479d1fe167f9c1dcab2b34516e38f",
+  "nh": "ffbcd56b47dee7f151eb3a0ca7cdb19cf21e2c8c6d6c9f402ac750082dd1f8b5",
+  "chars": 12860,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/5o6ab-047/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-khutab-2012/47.txt",
-   "sha256": "69fa6a83888939ef6c8db9b40321b49bd75479d1fe167f9c1dcab2b34516e38f",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/5o6ab-047/transcript.txt",
+      "sha256": "69fa6a83888939ef6c8db9b40321b49bd75479d1fe167f9c1dcab2b34516e38f",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-khutab-2012/47.txt",
+      "sha256": "69fa6a83888939ef6c8db9b40321b49bd75479d1fe167f9c1dcab2b34516e38f",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9992,
+    "spoken_align_pct": 99.92,
+    "audio_span_pct": 99.97,
+    "words": 2374,
+    "aligned": 2372,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 12:17",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

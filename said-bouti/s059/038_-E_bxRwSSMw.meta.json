@@ -1,37 +1,53 @@
 {
- "v": 1,
- "lid": "yt:-E_bxRwSSMw",
- "vid": "-E_bxRwSSMw",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--bouti-khutab-2012",
- "n": 38,
- "n_src": "trfile",
- "title": "خطبة الإمام البوطي | مَعين حرية الإنسان عبوديته لله",
- "title_src": "yt_titles",
- "sha256": "a151f3d88f3fb1a5eea6ad5f7da72e16889cd20cfe891074cefca95162d89da7",
- "nh": "303662bab67ae0f8bcfd781017c4884ad44cd0b42b40568866ec7c4c72660257",
- "chars": 11257,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/5o6ab-038/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/5o6ab-038/transcript.txt",
-   "sha256": "a151f3d88f3fb1a5eea6ad5f7da72e16889cd20cfe891074cefca95162d89da7",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:-E_bxRwSSMw",
+  "vid": "-E_bxRwSSMw",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--bouti-khutab-2012",
+  "n": 38,
+  "n_src": "trfile",
+  "title": "خطبة الإمام البوطي | مَعين حرية الإنسان عبوديته لله",
+  "title_src": "yt_titles",
+  "sha256": "a151f3d88f3fb1a5eea6ad5f7da72e16889cd20cfe891074cefca95162d89da7",
+  "nh": "303662bab67ae0f8bcfd781017c4884ad44cd0b42b40568866ec7c4c72660257",
+  "chars": 11257,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/5o6ab-038/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-khutab-2012/38.txt",
-   "sha256": "a151f3d88f3fb1a5eea6ad5f7da72e16889cd20cfe891074cefca95162d89da7",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/5o6ab-038/transcript.txt",
+      "sha256": "a151f3d88f3fb1a5eea6ad5f7da72e16889cd20cfe891074cefca95162d89da7",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-khutab-2012/38.txt",
+      "sha256": "a151f3d88f3fb1a5eea6ad5f7da72e16889cd20cfe891074cefca95162d89da7",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.96,
+    "words": 2053,
+    "aligned": 2053,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 12:12",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:AnV1DzEskRA",
- "vid": "AnV1DzEskRA",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--bouti-khutab-2012",
- "n": 51,
- "n_src": "trfile",
- "title": "خطبة الإمام البوطي: {وَأَوْفُواْ بِعَهْدِي أُوفِ بِعَهْدِكُمْ وَإِيَّايَ فَارْهَبُونِ}",
- "title_src": "yt_titles",
- "sha256": "ef1524ec6d81de39e02b3e45470f2275e4da98c67727e4f996ecb5304334ce6f",
- "nh": "ae5c563efc6ffd37fa0bc49bc092173c1fe9576b7c2a21b6f5f6ebc4565b1841",
- "chars": 12587,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/5o6ab-051/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/5o6ab-051/transcript.txt",
-   "sha256": "ef1524ec6d81de39e02b3e45470f2275e4da98c67727e4f996ecb5304334ce6f",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:AnV1DzEskRA",
+  "vid": "AnV1DzEskRA",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--bouti-khutab-2012",
+  "n": 51,
+  "n_src": "trfile",
+  "title": "خطبة الإمام البوطي: {وَأَوْفُواْ بِعَهْدِي أُوفِ بِعَهْدِكُمْ وَإِيَّايَ فَارْهَبُونِ}",
+  "title_src": "yt_titles",
+  "sha256": "ef1524ec6d81de39e02b3e45470f2275e4da98c67727e4f996ecb5304334ce6f",
+  "nh": "ae5c563efc6ffd37fa0bc49bc092173c1fe9576b7c2a21b6f5f6ebc4565b1841",
+  "chars": 12587,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/5o6ab-051/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-khutab-2012/51.txt",
-   "sha256": "ef1524ec6d81de39e02b3e45470f2275e4da98c67727e4f996ecb5304334ce6f",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/5o6ab-051/transcript.txt",
+      "sha256": "ef1524ec6d81de39e02b3e45470f2275e4da98c67727e4f996ecb5304334ce6f",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-khutab-2012/51.txt",
+      "sha256": "ef1524ec6d81de39e02b3e45470f2275e4da98c67727e4f996ecb5304334ce6f",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.98,
+    "words": 2328,
+    "aligned": 2328,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 12:20"
   }
- ],
- "variants": [],
- "also_in": []
 }

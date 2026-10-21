@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:r35PEg27vZM",
- "vid": "r35PEg27vZM",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--bouti-khutab-2012",
- "n": 44,
- "n_src": "trfile",
- "title": "خطبة الإمام البوطي | التعاون .. عنوان غريب في مجتمعاتنا الإسلامية",
- "title_src": "yt_titles",
- "sha256": "7bfa9b456c9433a17d3273ba02aa1bb873ee23d30b801ac7a93de3bcfc733475",
- "nh": "229f2d2bc56a1ea2709e39b2ad6b776ffba0b085aa8a9f66f2e2325ca89cafc3",
- "chars": 10363,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/5o6ab-044/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/5o6ab-044/transcript.txt",
-   "sha256": "7bfa9b456c9433a17d3273ba02aa1bb873ee23d30b801ac7a93de3bcfc733475",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:r35PEg27vZM",
+  "vid": "r35PEg27vZM",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--bouti-khutab-2012",
+  "n": 44,
+  "n_src": "trfile",
+  "title": "خطبة الإمام البوطي | التعاون .. عنوان غريب في مجتمعاتنا الإسلامية",
+  "title_src": "yt_titles",
+  "sha256": "7bfa9b456c9433a17d3273ba02aa1bb873ee23d30b801ac7a93de3bcfc733475",
+  "nh": "229f2d2bc56a1ea2709e39b2ad6b776ffba0b085aa8a9f66f2e2325ca89cafc3",
+  "chars": 10363,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/5o6ab-044/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-khutab-2012/44.txt",
-   "sha256": "7bfa9b456c9433a17d3273ba02aa1bb873ee23d30b801ac7a93de3bcfc733475",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/5o6ab-044/transcript.txt",
+      "sha256": "7bfa9b456c9433a17d3273ba02aa1bb873ee23d30b801ac7a93de3bcfc733475",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-khutab-2012/44.txt",
+      "sha256": "7bfa9b456c9433a17d3273ba02aa1bb873ee23d30b801ac7a93de3bcfc733475",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.96,
+    "words": 1815,
+    "aligned": 1815,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 12:14"
   }
- ],
- "variants": [],
- "also_in": []
 }
