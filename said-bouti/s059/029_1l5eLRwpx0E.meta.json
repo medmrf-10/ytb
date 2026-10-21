@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:1l5eLRwpx0E",
- "vid": "1l5eLRwpx0E",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--bouti-khutab-2012",
- "n": 29,
- "n_src": "trfile",
- "title": "خطبة | ففروا إلى الله",
- "title_src": "yt_titles",
- "sha256": "e1f6e94dfdd0599779fd5e83401183536ff1577d31c7f6c1ef92ba2e471a6321",
- "nh": "61d374c495282b5d571ab054bd87d670ed0abc17dcd801f5999c98496d995322",
- "chars": 11337,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/5o6ab-029/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/5o6ab-029/transcript.txt",
-   "sha256": "e1f6e94dfdd0599779fd5e83401183536ff1577d31c7f6c1ef92ba2e471a6321",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:1l5eLRwpx0E",
+  "vid": "1l5eLRwpx0E",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--bouti-khutab-2012",
+  "n": 29,
+  "n_src": "trfile",
+  "title": "خطبة | ففروا إلى الله",
+  "title_src": "yt_titles",
+  "sha256": "e1f6e94dfdd0599779fd5e83401183536ff1577d31c7f6c1ef92ba2e471a6321",
+  "nh": "61d374c495282b5d571ab054bd87d670ed0abc17dcd801f5999c98496d995322",
+  "chars": 11337,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/5o6ab-029/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-khutab-2012/29.txt",
-   "sha256": "e1f6e94dfdd0599779fd5e83401183536ff1577d31c7f6c1ef92ba2e471a6321",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/5o6ab-029/transcript.txt",
+      "sha256": "e1f6e94dfdd0599779fd5e83401183536ff1577d31c7f6c1ef92ba2e471a6321",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-khutab-2012/29.txt",
+      "sha256": "e1f6e94dfdd0599779fd5e83401183536ff1577d31c7f6c1ef92ba2e471a6321",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9995,
+    "spoken_align_pct": 99.95,
+    "audio_span_pct": 99.97,
+    "words": 2064,
+    "aligned": 2063,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 11:01"
   }
- ],
- "variants": [],
- "also_in": []
 }
