@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:kOPDZ4bUh5s",
- "vid": "kOPDZ4bUh5s",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--403",
- "n": 19,
- "n_src": "plpos",
- "title": "17- فقه السيرة النبوية | عرض الرسول نفسه على القبائل وبدء إسلام الأنصار| بيعة العقبة الأولى",
- "title_src": "yt_titles",
- "sha256": "e28fefe1124d336ed2cff7de08a8c4daa156a7d3a832e27ffcc6b7c43bc31fd5",
- "nh": "af5484ff27ccfaf3264a9a44f0f28802e96036894bb95e980edd0b4d39e6667f",
- "chars": 22007,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/403/019_17- فقه السيرة النبوية ｜ عرض الرسول نفسه على القبائل وبدء إسلام الأنصار｜ بيعة ال.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/403/019_17- فقه السيرة النبوية ｜ عرض الرسول نفسه على القبائل وبدء إسلام الأنصار｜ بيعة ال.txt",
-   "sha256": "e28fefe1124d336ed2cff7de08a8c4daa156a7d3a832e27ffcc6b7c43bc31fd5",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:kOPDZ4bUh5s",
+  "vid": "kOPDZ4bUh5s",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--403",
+  "n": 19,
+  "n_src": "plpos",
+  "title": "17- فقه السيرة النبوية | عرض الرسول نفسه على القبائل وبدء إسلام الأنصار| بيعة العقبة الأولى",
+  "title_src": "yt_titles",
+  "sha256": "e28fefe1124d336ed2cff7de08a8c4daa156a7d3a832e27ffcc6b7c43bc31fd5",
+  "nh": "af5484ff27ccfaf3264a9a44f0f28802e96036894bb95e980edd0b4d39e6667f",
+  "chars": 22007,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/403/019_17- فقه السيرة النبوية ｜ عرض الرسول نفسه على القبائل وبدء إسلام الأنصار｜ بيعة ال.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/fi9hElsirah-019/transcript.txt",
-   "sha256": "67e8e1b0a744617c59dabcbb313e550c7739a3ea9e174dca498744e0f340ef8e",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-sira/19.txt",
-   "sha256": "67e8e1b0a744617c59dabcbb313e550c7739a3ea9e174dca498744e0f340ef8e",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/403/18.txt",
-   "sha256": "e28fefe1124d336ed2cff7de08a8c4daa156a7d3a832e27ffcc6b7c43bc31fd5",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/403/019_17- فقه السيرة النبوية ｜ عرض الرسول نفسه على القبائل وبدء إسلام الأنصار｜ بيعة ال.txt",
+      "sha256": "e28fefe1124d336ed2cff7de08a8c4daa156a7d3a832e27ffcc6b7c43bc31fd5",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/fi9hElsirah-019/transcript.txt",
+      "sha256": "67e8e1b0a744617c59dabcbb313e550c7739a3ea9e174dca498744e0f340ef8e",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-sira/19.txt",
+      "sha256": "67e8e1b0a744617c59dabcbb313e550c7739a3ea9e174dca498744e0f340ef8e",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/403/18.txt",
+      "sha256": "e28fefe1124d336ed2cff7de08a8c4daa156a7d3a832e27ffcc6b7c43bc31fd5",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9997,
+    "spoken_align_pct": 99.97,
+    "audio_span_pct": 98.66,
+    "words": 3971,
+    "aligned": 3970,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 15:59"
   }
- ],
- "variants": [],
- "also_in": []
 }

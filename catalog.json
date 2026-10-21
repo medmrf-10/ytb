@@ -1,8 +1,8 @@
 {
   "sheikhs": [
     {
-      "aligned": 571,
-      "chars": 20561722,
+      "aligned": 581,
+      "chars": 20561459,
       "lessons": 1165,
       "name": "محمد سعيد رمضان البوطي",
       "path": "said-bouti/",
@@ -318,14 +318,14 @@
           "transcribed": 22
         },
         {
-          "aligned": 10,
-          "aligned_pct": "14.3%",
+          "aligned": 20,
+          "aligned_pct": "28.6%",
           "category": "السيرة النبوية والتاريخ",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 70,
           "dir": "s030/",
-          "dur": 208962,
+          "dur": 208957,
           "key": "s030",
           "series_id": "bouti__s030",
           "title": "شرح كتاب فقه السيرة النبوية ومعه موجز تاريخ الخلافة الراشدة",
@@ -5760,8 +5760,8 @@
     }
   ],
   "totals": {
-    "aligned": 3451,
-    "chars": 157897630,
+    "aligned": 3461,
+    "chars": 157897367,
     "lessons": 6712,
     "series": 389,
     "sheikhs": 26

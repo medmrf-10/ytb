@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:5Mgt-bLyizM",
- "vid": "5Mgt-bLyizM",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--403",
- "n": 12,
- "n_src": "plpos",
- "title": "10- فقه السيرة النبوية | أول هجرة في الإسلام",
- "title_src": "yt_titles",
- "sha256": "374158b4b293e70a6cff7ca90f2b0e1ca14db7f811ce283edd7b8d2f734ddc2d",
- "nh": "64b647f638f28c288e408929bf68bfb99914a67dd89aa386da9619c0faf37f2f",
- "chars": 21453,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/403/012_10- فقه السيرة النبوية ｜ أول هجرة في الإسلام.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/403/012_10- فقه السيرة النبوية ｜ أول هجرة في الإسلام.txt",
-   "sha256": "374158b4b293e70a6cff7ca90f2b0e1ca14db7f811ce283edd7b8d2f734ddc2d",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:5Mgt-bLyizM",
+  "vid": "5Mgt-bLyizM",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--403",
+  "n": 12,
+  "n_src": "plpos",
+  "title": "10- فقه السيرة النبوية | أول هجرة في الإسلام",
+  "title_src": "yt_titles",
+  "sha256": "374158b4b293e70a6cff7ca90f2b0e1ca14db7f811ce283edd7b8d2f734ddc2d",
+  "nh": "64b647f638f28c288e408929bf68bfb99914a67dd89aa386da9619c0faf37f2f",
+  "chars": 21453,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/403/012_10- فقه السيرة النبوية ｜ أول هجرة في الإسلام.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/fi9hElsirah-012/transcript.txt",
-   "sha256": "0bd49257ee88552149285ce9cd09474784226e3e5377807360b97f748dbef853",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-sira/12.txt",
-   "sha256": "0bd49257ee88552149285ce9cd09474784226e3e5377807360b97f748dbef853",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/403/11.txt",
-   "sha256": "374158b4b293e70a6cff7ca90f2b0e1ca14db7f811ce283edd7b8d2f734ddc2d",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/403/012_10- فقه السيرة النبوية ｜ أول هجرة في الإسلام.txt",
+      "sha256": "374158b4b293e70a6cff7ca90f2b0e1ca14db7f811ce283edd7b8d2f734ddc2d",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/fi9hElsirah-012/transcript.txt",
+      "sha256": "0bd49257ee88552149285ce9cd09474784226e3e5377807360b97f748dbef853",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-sira/12.txt",
+      "sha256": "0bd49257ee88552149285ce9cd09474784226e3e5377807360b97f748dbef853",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/403/11.txt",
+      "sha256": "374158b4b293e70a6cff7ca90f2b0e1ca14db7f811ce283edd7b8d2f734ddc2d",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9985,
+    "spoken_align_pct": 99.85,
+    "audio_span_pct": 100.0,
+    "words": 3885,
+    "aligned": 3879,
+    "interpolated": 6,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 15:53"
   }
- ],
- "variants": [],
- "also_in": []
 }

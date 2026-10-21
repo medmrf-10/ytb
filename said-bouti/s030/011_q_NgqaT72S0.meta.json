@@ -1,43 +1,59 @@
 {
- "v": 1,
- "lid": "yt:q_NgqaT72S0",
- "vid": "q_NgqaT72S0",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--403",
- "n": 11,
- "n_src": "plpos",
- "title": "9- فقه السيرة النبوية | سياسة المفاوضات(3) | الحصار الاقتصادي",
- "title_src": "yt_titles",
- "sha256": "c4dd1bfca4ddb711dec7ce229dcfd0589494ed81a32acc6aca261323434bdbda",
- "nh": "465212de6b6f431bb9575c995d3907b73f3344625f071176f3069559ff7440c7",
- "chars": 23841,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/403/011_9- فقه السيرة النبوية ｜ سياسة المفاوضات(3) ｜ الحصار الاقتصادي.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/403/011_9- فقه السيرة النبوية ｜ سياسة المفاوضات(3) ｜ الحصار الاقتصادي.txt",
-   "sha256": "c4dd1bfca4ddb711dec7ce229dcfd0589494ed81a32acc6aca261323434bdbda",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:q_NgqaT72S0",
+  "vid": "q_NgqaT72S0",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--403",
+  "n": 11,
+  "n_src": "plpos",
+  "title": "9- فقه السيرة النبوية | سياسة المفاوضات(3) | الحصار الاقتصادي",
+  "title_src": "yt_titles",
+  "sha256": "c4dd1bfca4ddb711dec7ce229dcfd0589494ed81a32acc6aca261323434bdbda",
+  "nh": "465212de6b6f431bb9575c995d3907b73f3344625f071176f3069559ff7440c7",
+  "chars": 23841,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/403/011_9- فقه السيرة النبوية ｜ سياسة المفاوضات(3) ｜ الحصار الاقتصادي.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/fi9hElsirah-011/transcript.txt",
-   "sha256": "9a677e13df3472830e52536742e295845348e682c5134d606b7137d8b4663d54",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-sira/11.txt",
-   "sha256": "9a677e13df3472830e52536742e295845348e682c5134d606b7137d8b4663d54",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/403/011_9- فقه السيرة النبوية ｜ سياسة المفاوضات(3) ｜ الحصار الاقتصادي.txt",
+      "sha256": "c4dd1bfca4ddb711dec7ce229dcfd0589494ed81a32acc6aca261323434bdbda",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/fi9hElsirah-011/transcript.txt",
+      "sha256": "9a677e13df3472830e52536742e295845348e682c5134d606b7137d8b4663d54",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-sira/11.txt",
+      "sha256": "9a677e13df3472830e52536742e295845348e682c5134d606b7137d8b4663d54",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9995,
+    "spoken_align_pct": 99.95,
+    "audio_span_pct": 99.8,
+    "words": 4230,
+    "aligned": 4214,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 15:51",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

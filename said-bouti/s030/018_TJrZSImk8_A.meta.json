@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:TJrZSImk8_A",
- "vid": "TJrZSImk8_A",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--403",
- "n": 18,
- "n_src": "plpos",
- "title": "16 - فقه السيرة النبوية | معجزة الإسراء والمعراج.. العبر والدلالات (3)",
- "title_src": "yt_titles",
- "sha256": "d39ce67fd706445d72a5cd8a8ec3a30af84cc2daa174a77dad0ec2237faaaa0e",
- "nh": "cb2ef75da6f05125d0aa1ba4ae628040e07fb115c15c398e3ad20aa5985718bd",
- "chars": 19562,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/403/018_16 - فقه السيرة النبوية ｜ معجزة الإسراء والمعراج.. العبر والدلالات (3).txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/403/018_16 - فقه السيرة النبوية ｜ معجزة الإسراء والمعراج.. العبر والدلالات (3).txt",
-   "sha256": "d39ce67fd706445d72a5cd8a8ec3a30af84cc2daa174a77dad0ec2237faaaa0e",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:TJrZSImk8_A",
+  "vid": "TJrZSImk8_A",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--403",
+  "n": 18,
+  "n_src": "plpos",
+  "title": "16 - فقه السيرة النبوية | معجزة الإسراء والمعراج.. العبر والدلالات (3)",
+  "title_src": "yt_titles",
+  "sha256": "d39ce67fd706445d72a5cd8a8ec3a30af84cc2daa174a77dad0ec2237faaaa0e",
+  "nh": "cb2ef75da6f05125d0aa1ba4ae628040e07fb115c15c398e3ad20aa5985718bd",
+  "chars": 19562,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/403/018_16 - فقه السيرة النبوية ｜ معجزة الإسراء والمعراج.. العبر والدلالات (3).txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/fi9hElsirah-018/transcript.txt",
-   "sha256": "d6d0cc35f915604e6c1350b4bfed6166a4f1a9bed7eba6846cc72446aff74b0a",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-sira/18.txt",
-   "sha256": "d6d0cc35f915604e6c1350b4bfed6166a4f1a9bed7eba6846cc72446aff74b0a",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/403/018_16 - فقه السيرة النبوية ｜ معجزة الإسراء والمعراج.. العبر والدلالات (3).txt",
+      "sha256": "d39ce67fd706445d72a5cd8a8ec3a30af84cc2daa174a77dad0ec2237faaaa0e",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/fi9hElsirah-018/transcript.txt",
+      "sha256": "d6d0cc35f915604e6c1350b4bfed6166a4f1a9bed7eba6846cc72446aff74b0a",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-sira/18.txt",
+      "sha256": "d6d0cc35f915604e6c1350b4bfed6166a4f1a9bed7eba6846cc72446aff74b0a",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9995,
+    "spoken_align_pct": 99.95,
+    "audio_span_pct": 99.85,
+    "words": 3656,
+    "aligned": 3654,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 15:58"
   }
- ],
- "variants": [],
- "also_in": []
 }

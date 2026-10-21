@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:bfm6dgUMnk8",
- "vid": "bfm6dgUMnk8",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--403",
- "n": 16,
- "n_src": "plpos",
- "title": "14- فقه السيرة النبوية | هجرة الرسول إلى الطائف | معجزة الإسراء والمعراج (1)",
- "title_src": "yt_titles",
- "sha256": "a6627da552a4b2a1b0f1bff49e6bb73148f48219467fd33fa4cf885f01930cf4",
- "nh": "65d59ba49e50f7ba6ae837e2605bb78031e63deec91c04f53542d48c56f09ce3",
- "chars": 20591,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/403/016_14- فقه السيرة النبوية ｜ هجرة الرسول إلى الطائف ｜ معجزة الإسراء والمعراج (1).txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/403/016_14- فقه السيرة النبوية ｜ هجرة الرسول إلى الطائف ｜ معجزة الإسراء والمعراج (1).txt",
-   "sha256": "a6627da552a4b2a1b0f1bff49e6bb73148f48219467fd33fa4cf885f01930cf4",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:bfm6dgUMnk8",
+  "vid": "bfm6dgUMnk8",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--403",
+  "n": 16,
+  "n_src": "plpos",
+  "title": "14- فقه السيرة النبوية | هجرة الرسول إلى الطائف | معجزة الإسراء والمعراج (1)",
+  "title_src": "yt_titles",
+  "sha256": "a6627da552a4b2a1b0f1bff49e6bb73148f48219467fd33fa4cf885f01930cf4",
+  "nh": "65d59ba49e50f7ba6ae837e2605bb78031e63deec91c04f53542d48c56f09ce3",
+  "chars": 20591,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/403/016_14- فقه السيرة النبوية ｜ هجرة الرسول إلى الطائف ｜ معجزة الإسراء والمعراج (1).txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/fi9hElsirah-016/transcript.txt",
-   "sha256": "12f78081c68ccd8d73ee5a437a3c45ac082d97e943897791ddcf8784d9244f37",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-sira/16.txt",
-   "sha256": "12f78081c68ccd8d73ee5a437a3c45ac082d97e943897791ddcf8784d9244f37",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/403/016_14- فقه السيرة النبوية ｜ هجرة الرسول إلى الطائف ｜ معجزة الإسراء والمعراج (1).txt",
+      "sha256": "a6627da552a4b2a1b0f1bff49e6bb73148f48219467fd33fa4cf885f01930cf4",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/fi9hElsirah-016/transcript.txt",
+      "sha256": "12f78081c68ccd8d73ee5a437a3c45ac082d97e943897791ddcf8784d9244f37",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-sira/16.txt",
+      "sha256": "12f78081c68ccd8d73ee5a437a3c45ac082d97e943897791ddcf8784d9244f37",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9872,
+    "spoken_align_pct": 98.72,
+    "audio_span_pct": 98.12,
+    "words": 3818,
+    "aligned": 3769,
+    "interpolated": 49,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 15:57"
   }
- ],
- "variants": [],
- "also_in": []
 }

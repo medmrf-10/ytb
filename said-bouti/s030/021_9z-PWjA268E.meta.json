@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:9z-PWjA268E",
- "vid": "9z-PWjA268E",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--403",
- "n": 21,
- "n_src": "plpos",
- "title": "19- فقه السيرة النبوية | إذن رسول الله لأصحابه بالهجرة إلى المدينة | هجرة الرسول",
- "title_src": "yt_titles",
- "sha256": "ab784dca77e5b6b6733dbda9b8b662ecf7ea96f4827ee01cf2b29a27cd6411a1",
- "nh": "f019fbe5cc66f3993762e35c428f55cbff812b295e5c321d729e174a343d21bd",
- "chars": 24607,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/403/021_19- فقه السيرة النبوية ｜ إذن رسول الله لأصحابه بالهجرة إلى المدينة ｜ هجرة الرسول.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/403/021_19- فقه السيرة النبوية ｜ إذن رسول الله لأصحابه بالهجرة إلى المدينة ｜ هجرة الرسول.txt",
-   "sha256": "ab784dca77e5b6b6733dbda9b8b662ecf7ea96f4827ee01cf2b29a27cd6411a1",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:9z-PWjA268E",
+  "vid": "9z-PWjA268E",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--403",
+  "n": 21,
+  "n_src": "plpos",
+  "title": "19- فقه السيرة النبوية | إذن رسول الله لأصحابه بالهجرة إلى المدينة | هجرة الرسول",
+  "title_src": "yt_titles",
+  "sha256": "ab784dca77e5b6b6733dbda9b8b662ecf7ea96f4827ee01cf2b29a27cd6411a1",
+  "nh": "f019fbe5cc66f3993762e35c428f55cbff812b295e5c321d729e174a343d21bd",
+  "chars": 24607,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/403/021_19- فقه السيرة النبوية ｜ إذن رسول الله لأصحابه بالهجرة إلى المدينة ｜ هجرة الرسول.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/fi9hElsirah-021/transcript.txt",
-   "sha256": "fdbe3aa3c9228ef0f15e944062bd73a122bf0a27efb4614f629757335b3e3948",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-sira/21.txt",
-   "sha256": "fdbe3aa3c9228ef0f15e944062bd73a122bf0a27efb4614f629757335b3e3948",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/403/20.txt",
-   "sha256": "ab784dca77e5b6b6733dbda9b8b662ecf7ea96f4827ee01cf2b29a27cd6411a1",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/403/021_19- فقه السيرة النبوية ｜ إذن رسول الله لأصحابه بالهجرة إلى المدينة ｜ هجرة الرسول.txt",
+      "sha256": "ab784dca77e5b6b6733dbda9b8b662ecf7ea96f4827ee01cf2b29a27cd6411a1",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/fi9hElsirah-021/transcript.txt",
+      "sha256": "fdbe3aa3c9228ef0f15e944062bd73a122bf0a27efb4614f629757335b3e3948",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-sira/21.txt",
+      "sha256": "fdbe3aa3c9228ef0f15e944062bd73a122bf0a27efb4614f629757335b3e3948",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/403/20.txt",
+      "sha256": "ab784dca77e5b6b6733dbda9b8b662ecf7ea96f4827ee01cf2b29a27cd6411a1",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9865,
+    "spoken_align_pct": 98.65,
+    "audio_span_pct": 98.29,
+    "words": 4463,
+    "aligned": 4396,
+    "interpolated": 60,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 16:01"
   }
- ],
- "variants": [],
- "also_in": []
 }

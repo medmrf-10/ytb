@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:-K7tiCUEPas",
- "vid": "-K7tiCUEPas",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--403",
- "n": 15,
- "n_src": "plpos",
- "title": "13- فقه السيرة النبوية | هجرة الرسول إلى الطائف",
- "title_src": "yt_titles",
- "sha256": "fc581df21ebb7d76b371821ec6c1e27f392ac07bdf6809a53a9b67a938dccc8d",
- "nh": "6f435b20d40f0c7f440e7da8703d653da3cc964adc958c2abeb7b0bc1b806b4a",
- "chars": 22520,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/403/015_13- فقه السيرة النبوية ｜ هجرة الرسول إلى الطائف.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/403/015_13- فقه السيرة النبوية ｜ هجرة الرسول إلى الطائف.txt",
-   "sha256": "fc581df21ebb7d76b371821ec6c1e27f392ac07bdf6809a53a9b67a938dccc8d",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:-K7tiCUEPas",
+  "vid": "-K7tiCUEPas",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--403",
+  "n": 15,
+  "n_src": "plpos",
+  "title": "13- فقه السيرة النبوية | هجرة الرسول إلى الطائف",
+  "title_src": "yt_titles",
+  "sha256": "fc581df21ebb7d76b371821ec6c1e27f392ac07bdf6809a53a9b67a938dccc8d",
+  "nh": "6f435b20d40f0c7f440e7da8703d653da3cc964adc958c2abeb7b0bc1b806b4a",
+  "chars": 22520,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/403/015_13- فقه السيرة النبوية ｜ هجرة الرسول إلى الطائف.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/fi9hElsirah-015/transcript.txt",
-   "sha256": "24135690e657a18236846742ebe7fabe288e31d18d3eb5251f7d76a709b16368",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-sira/15.txt",
-   "sha256": "24135690e657a18236846742ebe7fabe288e31d18d3eb5251f7d76a709b16368",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/403/14.txt",
-   "sha256": "fc581df21ebb7d76b371821ec6c1e27f392ac07bdf6809a53a9b67a938dccc8d",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/403/015_13- فقه السيرة النبوية ｜ هجرة الرسول إلى الطائف.txt",
+      "sha256": "fc581df21ebb7d76b371821ec6c1e27f392ac07bdf6809a53a9b67a938dccc8d",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/fi9hElsirah-015/transcript.txt",
+      "sha256": "24135690e657a18236846742ebe7fabe288e31d18d3eb5251f7d76a709b16368",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-sira/15.txt",
+      "sha256": "24135690e657a18236846742ebe7fabe288e31d18d3eb5251f7d76a709b16368",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/403/14.txt",
+      "sha256": "fc581df21ebb7d76b371821ec6c1e27f392ac07bdf6809a53a9b67a938dccc8d",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9998,
+    "spoken_align_pct": 99.98,
+    "audio_span_pct": 99.91,
+    "words": 4271,
+    "aligned": 4264,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 15:55"
   }
- ],
- "variants": [],
- "also_in": []
 }
