@@ -1,43 +1,59 @@
 {
- "v": 1,
- "lid": "yt:oXsHy-LyL90",
- "vid": "oXsHy-LyL90",
- "sheikh": "ali-mahmoud-alomari",
- "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
- "n": 44,
- "n_src": "trfile",
- "title": "الدَّرس الرابع والأربعون_ القطب الرَّابع_ الكلام عن أحكام الإمامة",
- "title_src": "yt_titles",
- "sha256": "93fa031f6c1b2a46355972cdb72debb39cff062a19540e8b39bee02102d2f678",
- "nh": "5dd9444aad38b9695ba5ede7c76f05320a3f66291e988aba261bf935c2ee8709",
- "chars": 41023,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/alamriIqtisad-044/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/alamriIqtisad-044/transcript.txt",
-   "sha256": "93fa031f6c1b2a46355972cdb72debb39cff062a19540e8b39bee02102d2f678",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:oXsHy-LyL90",
+  "vid": "oXsHy-LyL90",
+  "sheikh": "ali-mahmoud-alomari",
+  "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+  "n": 44,
+  "n_src": "trfile",
+  "title": "الدَّرس الرابع والأربعون_ القطب الرَّابع_ الكلام عن أحكام الإمامة",
+  "title_src": "yt_titles",
+  "sha256": "93fa031f6c1b2a46355972cdb72debb39cff062a19540e8b39bee02102d2f678",
+  "nh": "5dd9444aad38b9695ba5ede7c76f05320a3f66291e988aba261bf935c2ee8709",
+  "chars": 41023,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/alamriIqtisad-044/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-44_AlAmri.txt",
-   "sha256": "93fa031f6c1b2a46355972cdb72debb39cff062a19540e8b39bee02102d2f678",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alamri-iqtisad/44.txt",
-   "sha256": "93fa031f6c1b2a46355972cdb72debb39cff062a19540e8b39bee02102d2f678",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/alamriIqtisad-044/transcript.txt",
+      "sha256": "93fa031f6c1b2a46355972cdb72debb39cff062a19540e8b39bee02102d2f678",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-44_AlAmri.txt",
+      "sha256": "93fa031f6c1b2a46355972cdb72debb39cff062a19540e8b39bee02102d2f678",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alamri-iqtisad/44.txt",
+      "sha256": "93fa031f6c1b2a46355972cdb72debb39cff062a19540e8b39bee02102d2f678",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.999,
+    "spoken_align_pct": 99.9,
+    "audio_span_pct": 99.95,
+    "words": 7731,
+    "aligned": 7682,
+    "interpolated": 8,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 10:40",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
