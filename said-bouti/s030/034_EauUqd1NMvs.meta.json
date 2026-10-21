@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:EauUqd1NMvs",
- "vid": "EauUqd1NMvs",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--403",
- "n": 34,
- "n_src": "plpos",
- "title": "32- فقه السيرة النبوية | غزوة بني المصطلق (المريسيع) (2) | الحديث عن حادثة الإفك",
- "title_src": "yt_titles",
- "sha256": "610a7b0bb23e8cc026b3974eeecb477576163e4a7ca3272c0887f7d661739ed7",
- "nh": "d358df9b7809931d41b329ae5a2ac6ac9c3592253ec61d4c9f0dfd6bea1820ac",
- "chars": 19185,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/403/034_32- فقه السيرة النبوية ｜ غزوة بني المصطلق (المريسيع) (2) ｜ الحديث عن حادثة الإفك.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/403/034_32- فقه السيرة النبوية ｜ غزوة بني المصطلق (المريسيع) (2) ｜ الحديث عن حادثة الإفك.txt",
-   "sha256": "610a7b0bb23e8cc026b3974eeecb477576163e4a7ca3272c0887f7d661739ed7",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:EauUqd1NMvs",
+  "vid": "EauUqd1NMvs",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--403",
+  "n": 34,
+  "n_src": "plpos",
+  "title": "32- فقه السيرة النبوية | غزوة بني المصطلق (المريسيع) (2) | الحديث عن حادثة الإفك",
+  "title_src": "yt_titles",
+  "sha256": "610a7b0bb23e8cc026b3974eeecb477576163e4a7ca3272c0887f7d661739ed7",
+  "nh": "d358df9b7809931d41b329ae5a2ac6ac9c3592253ec61d4c9f0dfd6bea1820ac",
+  "chars": 19185,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/403/034_32- فقه السيرة النبوية ｜ غزوة بني المصطلق (المريسيع) (2) ｜ الحديث عن حادثة الإفك.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/fi9hElsirah-034/transcript.txt",
-   "sha256": "721c6b12b4587f81e72d852c27c797cf251364cae036f25f8341ff21656f86fa",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-sira/34.txt",
-   "sha256": "721c6b12b4587f81e72d852c27c797cf251364cae036f25f8341ff21656f86fa",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/403/034_32- فقه السيرة النبوية ｜ غزوة بني المصطلق (المريسيع) (2) ｜ الحديث عن حادثة الإفك.txt",
+      "sha256": "610a7b0bb23e8cc026b3974eeecb477576163e4a7ca3272c0887f7d661739ed7",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/fi9hElsirah-034/transcript.txt",
+      "sha256": "721c6b12b4587f81e72d852c27c797cf251364cae036f25f8341ff21656f86fa",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-sira/34.txt",
+      "sha256": "721c6b12b4587f81e72d852c27c797cf251364cae036f25f8341ff21656f86fa",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9984,
+    "spoken_align_pct": 99.84,
+    "audio_span_pct": 99.88,
+    "words": 3737,
+    "aligned": 3731,
+    "interpolated": 6,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 16:17"
   }
- ],
- "variants": [],
- "also_in": []
 }

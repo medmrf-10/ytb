@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:sUnSe6sb40c",
- "vid": "sUnSe6sb40c",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--403",
- "n": 39,
- "n_src": "plpos",
- "title": "37- فقه السيرة النبوية | غزوة بني قريظة(2)",
- "title_src": "yt_titles",
- "sha256": "e3d756b051064b11365d9e07c7173522bcb549d30a364ad90f42724a62ffb0b2",
- "nh": "678a59e56689bbc6cc5fbc2ba683e787f936f7498cf4f51870eaf86fa980cb6f",
- "chars": 16540,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/403/039_37- فقه السيرة النبوية ｜ غزوة بني قريظة(2).txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/403/039_37- فقه السيرة النبوية ｜ غزوة بني قريظة(2).txt",
-   "sha256": "e3d756b051064b11365d9e07c7173522bcb549d30a364ad90f42724a62ffb0b2",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:sUnSe6sb40c",
+  "vid": "sUnSe6sb40c",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--403",
+  "n": 39,
+  "n_src": "plpos",
+  "title": "37- فقه السيرة النبوية | غزوة بني قريظة(2)",
+  "title_src": "yt_titles",
+  "sha256": "e3d756b051064b11365d9e07c7173522bcb549d30a364ad90f42724a62ffb0b2",
+  "nh": "678a59e56689bbc6cc5fbc2ba683e787f936f7498cf4f51870eaf86fa980cb6f",
+  "chars": 16540,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/403/039_37- فقه السيرة النبوية ｜ غزوة بني قريظة(2).txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/fi9hElsirah-039/transcript.txt",
-   "sha256": "fd9e8809d0a768c84ada371e391ff644ce4fb9a9321b039ab04d93871ee5cfe3",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-sira/39.txt",
-   "sha256": "fd9e8809d0a768c84ada371e391ff644ce4fb9a9321b039ab04d93871ee5cfe3",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/403/039_37- فقه السيرة النبوية ｜ غزوة بني قريظة(2).txt",
+      "sha256": "e3d756b051064b11365d9e07c7173522bcb549d30a364ad90f42724a62ffb0b2",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/fi9hElsirah-039/transcript.txt",
+      "sha256": "fd9e8809d0a768c84ada371e391ff644ce4fb9a9321b039ab04d93871ee5cfe3",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-sira/39.txt",
+      "sha256": "fd9e8809d0a768c84ada371e391ff644ce4fb9a9321b039ab04d93871ee5cfe3",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.983,
+    "spoken_align_pct": 98.3,
+    "audio_span_pct": 97.68,
+    "words": 3003,
+    "aligned": 2952,
+    "interpolated": 51,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 16:20"
   }
- ],
- "variants": [],
- "also_in": []
 }
