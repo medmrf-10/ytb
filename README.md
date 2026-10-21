@@ -6,10 +6,10 @@
 
 ## 1. الإحصاءات العامة
 
-- **المشايخ ذوو المحتوى الفعلي:** 25 شيخاً
-- **السلاسل المفرّغة:** 387 سلسلة
+- **المشايخ ذوو المحتوى الفعلي:** 26 شيخاً
+- **السلاسل المفرّغة:** 389 سلسلة
 - **الدروس المفرّغة نصياً (`.txt`):** 6,712 درساً
-- **الدروس المحاذاة صوتياً (`.align.json`):** 2,993 درساً
+- **الدروس المحاذاة صوتياً (`.align.json`):** 3,002 درساً
 - **إجمالي الحجم النصي:** 157,906,624 حرفاً
 
 ---
@@ -18,7 +18,7 @@
 
 | # | الشيخ | المعرّف (`Slug`) | السلاسل | الدروس المفرغة (`.txt`) | الدروس المحاذاة (`.align.json`) | المجلد |
 |---:|---|---|---:|---:|---:|---|
-| 1 | محمد سعيد رمضان البوطي | `said-bouti` | 34 | 1,165 | 357 | [`said-bouti/`](./said-bouti/) |
+| 1 | محمد سعيد رمضان البوطي | `said-bouti` | 34 | 1,165 | 365 | [`said-bouti/`](./said-bouti/) |
 | 2 | محمد متولي الشعراوي | `sharawi` | 48 | 648 | 335 | [`sharawi/`](./sharawi/) |
 | 3 | أدهم العاسمي | `adham-alasimi` | 29 | 546 | 162 | [`adham-alasimi/`](./adham-alasimi/) |
 | 4 | الحبيب عمر بن حفيظ | `habib-omar-ibn-hafiz` | 16 | 522 | 95 | [`habib-omar-ibn-hafiz/`](./habib-omar-ibn-hafiz/) |
@@ -26,7 +26,7 @@
 | 6 | الحبيب علي الجفري | `habib-ali-aljifri` | 23 | 471 | 179 | [`habib-ali-aljifri/`](./habib-ali-aljifri/) |
 | 7 | فاضل السامرائي | `fadhel-samarrai` | 42 | 460 | 426 | [`fadhel-samarrai/`](./fadhel-samarrai/) |
 | 8 | ذاكر الهاشمي | `dhaker-alhashimi` | 20 | 348 | 95 | [`dhaker-alhashimi/`](./dhaker-alhashimi/) |
-| 9 | محمد البردوني الحسيمي | `bardouni-husaymi` | 16 | 343 | 144 | [`bardouni-husaymi/`](./bardouni-husaymi/) |
+| 9 | محمد البردوني الحسيمي | `bardouni-husaymi` | 16 | 343 | 145 | [`bardouni-husaymi/`](./bardouni-husaymi/) |
 | 10 | علي جمعة | `ali-gomaa` | 14 | 276 | 51 | [`ali-gomaa/`](./ali-gomaa/) |
 | 11 | مولود السريري | `mouloud-sariri` | 17 | 265 | 106 | [`mouloud-sariri/`](./mouloud-sariri/) |
 | 12 | محمد الحسن الددو | `daddo` | 17 | 244 | 193 | [`daddo/`](./daddo/) |
@@ -43,6 +43,7 @@
 | 23 | سعيد الكملي | `said-kamali` | 1 | 11 | 11 | [`said-kamali/`](./said-kamali/) |
 | 24 | بن صايب | `bensaib` | 1 | 8 | 0 | [`bensaib/`](./bensaib/) |
 | 25 | دروس غير منسوبة | `unattributed` | 1 | 1 | 0 | [`unattributed/`](./unattributed/) |
+| 26 | khutab | `khutab` | 2 | 0 | 0 | [`khutab/`](./khutab/) |
 
 > التفاصيل الكاملة لكل سلسلة داخل كل شيخ موجودة في [`COVERAGE.md`](./COVERAGE.md) وفي [`catalog.json`](./catalog.json).
 

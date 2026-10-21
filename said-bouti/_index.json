@@ -269,14 +269,14 @@
       "transcribed": 11
     },
     {
-      "aligned": 7,
-      "aligned_pct": "18.4%",
+      "aligned": 14,
+      "aligned_pct": "36.8%",
       "category": "العقيدة والفكر الإسلامي",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
       "declared_total": 38,
       "dir": "s023/",
-      "dur": 109480,
+      "dur": 109478,
       "key": "s023",
       "series_id": "bouti__s023",
       "title": "سلسلة يغالطونك إذ يقولون (مناقشة الشبهات الفكرية المعاصرة)",
@@ -325,14 +325,14 @@
       "transcribed": 70
     },
     {
-      "aligned": 37,
-      "aligned_pct": "97.4%",
+      "aligned": 38,
+      "aligned_pct": "100.0%",
       "category": "السيرة النبوية والتاريخ",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
       "declared_total": 38,
       "dir": "s031/",
-      "dur": 106820,
+      "dur": 106819,
       "key": "s031",
       "series_id": "bouti__s031",
       "title": "محاضرات في تاريخ التشريع الإسلامي",
@@ -481,7 +481,7 @@
   ],
   "slug": "said-bouti",
   "totals": {
-    "aligned": 357,
+    "aligned": 365,
     "chars": 20562650,
     "lessons": 1165,
     "series": 34

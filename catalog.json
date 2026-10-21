@@ -1,7 +1,7 @@
 {
   "sheikhs": [
     {
-      "aligned": 357,
+      "aligned": 365,
       "chars": 20562650,
       "lessons": 1165,
       "name": "محمد سعيد رمضان البوطي",
@@ -276,14 +276,14 @@
           "transcribed": 11
         },
         {
-          "aligned": 7,
-          "aligned_pct": "18.4%",
+          "aligned": 14,
+          "aligned_pct": "36.8%",
           "category": "العقيدة والفكر الإسلامي",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 38,
           "dir": "s023/",
-          "dur": 109480,
+          "dur": 109478,
           "key": "s023",
           "series_id": "bouti__s023",
           "title": "سلسلة يغالطونك إذ يقولون (مناقشة الشبهات الفكرية المعاصرة)",
@@ -332,14 +332,14 @@
           "transcribed": 70
         },
         {
-          "aligned": 37,
-          "aligned_pct": "97.4%",
+          "aligned": 38,
+          "aligned_pct": "100.0%",
           "category": "السيرة النبوية والتاريخ",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 38,
           "dir": "s031/",
-          "dur": 106820,
+          "dur": 106819,
           "key": "s031",
           "series_id": "bouti__s031",
           "title": "محاضرات في تاريخ التشريع الإسلامي",
@@ -3541,7 +3541,7 @@
       "slug": "dhaker-alhashimi"
     },
     {
-      "aligned": 144,
+      "aligned": 145,
       "chars": 6211601,
       "lessons": 343,
       "name": "محمد البردوني الحسيمي",
@@ -3564,14 +3564,14 @@
           "transcribed": 9
         },
         {
-          "aligned": 35,
-          "aligned_pct": "97.2%",
+          "aligned": 36,
+          "aligned_pct": "100.0%",
           "category": "العقيدة وعلم الكلام",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 36,
           "dir": "s002/",
-          "dur": 152100,
+          "dur": 152101,
           "key": "s002",
           "series_id": "bardoni__s002",
           "title": "شرح عقيدة أم البراهين للإمام السنوسي (كاملاً — الدروس 1 – 36)",
@@ -5717,14 +5717,54 @@
         }
       ],
       "slug": "unattributed"
+    },
+    {
+      "aligned": 0,
+      "chars": 0,
+      "lessons": 0,
+      "name": "khutab",
+      "path": "khutab/",
+      "photo": "",
+      "series": 2,
+      "series_list": [
+        {
+          "aligned": 0,
+          "aligned_pct": "0.0%",
+          "category": "",
+          "coverage": 1.0,
+          "coverage_pct": "100.0%",
+          "declared_total": 0,
+          "dir": "omar/",
+          "dur": 0,
+          "key": "omar",
+          "series_id": "khutab__omar",
+          "title": "omar",
+          "transcribed": 0
+        },
+        {
+          "aligned": 0,
+          "aligned_pct": "0.0%",
+          "category": "",
+          "coverage": 1.0,
+          "coverage_pct": "100.0%",
+          "declared_total": 0,
+          "dir": "sariri/",
+          "dur": 0,
+          "key": "sariri",
+          "series_id": "khutab__sariri",
+          "title": "sariri",
+          "transcribed": 0
+        }
+      ],
+      "slug": "khutab"
     }
   ],
   "totals": {
-    "aligned": 2993,
+    "aligned": 3002,
     "chars": 157906624,
     "lessons": 6712,
-    "series": 387,
-    "sheikhs": 25
+    "series": 389,
+    "sheikhs": 26
   },
   "v": 2
 }

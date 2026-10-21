@@ -1,0 +1,42 @@
+{
+  "name": "khutab",
+  "name_display": "khutab",
+  "series": [
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 0,
+      "dir": "omar/",
+      "dur": 0,
+      "key": "omar",
+      "series_id": "khutab__omar",
+      "title": "omar",
+      "transcribed": 0
+    },
+    {
+      "aligned": 0,
+      "aligned_pct": "0.0%",
+      "category": "",
+      "coverage": 1.0,
+      "coverage_pct": "100.0%",
+      "declared_total": 0,
+      "dir": "sariri/",
+      "dur": 0,
+      "key": "sariri",
+      "series_id": "khutab__sariri",
+      "title": "sariri",
+      "transcribed": 0
+    }
+  ],
+  "slug": "khutab",
+  "totals": {
+    "aligned": 0,
+    "chars": 0,
+    "lessons": 0,
+    "series": 2
+  },
+  "v": 2
+}

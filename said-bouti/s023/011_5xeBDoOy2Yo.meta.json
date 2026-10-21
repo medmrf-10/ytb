@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:5xeBDoOy2Yo",
- "vid": "5xeBDoOy2Yo",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--369",
- "n": 11,
- "n_src": "plpos",
- "title": "11- يغالطونك إذ يقولون :  نظام الحكم الإسلامي يتناقض مع المنهج الديمقراطي",
- "title_src": "yt_titles",
- "sha256": "a37c9cd49042bbd0a5d6fa44e9a6be94c80cf124ba59d13950d1baf7dfb373c6",
- "nh": "423d573323628376e508937aaa7f2add398ab07dd5ac3cb7ae3c70e3275c8701",
- "chars": 24171,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/369/011_11- يغالطونك إذ يقولون ：  نظام الحكم الإسلامي يتناقض مع المنهج الديمقراطي.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/369/011_11- يغالطونك إذ يقولون ：  نظام الحكم الإسلامي يتناقض مع المنهج الديمقراطي.txt",
-   "sha256": "a37c9cd49042bbd0a5d6fa44e9a6be94c80cf124ba59d13950d1baf7dfb373c6",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:5xeBDoOy2Yo",
+  "vid": "5xeBDoOy2Yo",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--369",
+  "n": 11,
+  "n_src": "plpos",
+  "title": "11- يغالطونك إذ يقولون :  نظام الحكم الإسلامي يتناقض مع المنهج الديمقراطي",
+  "title_src": "yt_titles",
+  "sha256": "a37c9cd49042bbd0a5d6fa44e9a6be94c80cf124ba59d13950d1baf7dfb373c6",
+  "nh": "423d573323628376e508937aaa7f2add398ab07dd5ac3cb7ae3c70e3275c8701",
+  "chars": 24171,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/369/011_11- يغالطونك إذ يقولون ：  نظام الحكم الإسلامي يتناقض مع المنهج الديمقراطي.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/yoghalitonak-011/transcript.txt",
-   "sha256": "873b635da088fd1e95fd94ee631d8394f4d83f80a665de6d6427bb06e07f8fe6",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-yaghalitun/11.txt",
-   "sha256": "873b635da088fd1e95fd94ee631d8394f4d83f80a665de6d6427bb06e07f8fe6",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/369/10.txt",
-   "sha256": "a37c9cd49042bbd0a5d6fa44e9a6be94c80cf124ba59d13950d1baf7dfb373c6",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/369/011_11- يغالطونك إذ يقولون ：  نظام الحكم الإسلامي يتناقض مع المنهج الديمقراطي.txt",
+      "sha256": "a37c9cd49042bbd0a5d6fa44e9a6be94c80cf124ba59d13950d1baf7dfb373c6",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/yoghalitonak-011/transcript.txt",
+      "sha256": "873b635da088fd1e95fd94ee631d8394f4d83f80a665de6d6427bb06e07f8fe6",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-yaghalitun/11.txt",
+      "sha256": "873b635da088fd1e95fd94ee631d8394f4d83f80a665de6d6427bb06e07f8fe6",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/369/10.txt",
+      "sha256": "a37c9cd49042bbd0a5d6fa44e9a6be94c80cf124ba59d13950d1baf7dfb373c6",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9998,
+    "spoken_align_pct": 99.98,
+    "audio_span_pct": 99.13,
+    "words": 4414,
+    "aligned": 4413,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 07:17"
   }
- ],
- "variants": [],
- "also_in": []
 }
