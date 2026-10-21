@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:ieJgaQScnIw",
- "vid": "ieJgaQScnIw",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--661",
- "n": 35,
- "n_src": "mutfile",
- "title": "خير القرون 34 ｜ أبو ذر： عاش وحيدا ومات وحيدا ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "078fec019a8eeb788c15716ec9741f48ce5d64d99ff8079a4b3f6059b905cf8f",
- "nh": "4e7af64342cfce2c84240b9026eb2991ecb05fa8368f5c098272a376aa7d4644",
- "chars": 34029,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/661/035_خير القرون 34 ｜ أبو ذر： عاش وحيدا ومات وحيدا ｜ أحمد السيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/661/035_خير القرون 34 ｜ أبو ذر： عاش وحيدا ومات وحيدا ｜ أحمد السيد.txt",
-   "sha256": "078fec019a8eeb788c15716ec9741f48ce5d64d99ff8079a4b3f6059b905cf8f",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:ieJgaQScnIw",
+  "vid": "ieJgaQScnIw",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--661",
+  "n": 35,
+  "n_src": "mutfile",
+  "title": "خير القرون 34 ｜ أبو ذر： عاش وحيدا ومات وحيدا ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "078fec019a8eeb788c15716ec9741f48ce5d64d99ff8079a4b3f6059b905cf8f",
+  "nh": "4e7af64342cfce2c84240b9026eb2991ecb05fa8368f5c098272a376aa7d4644",
+  "chars": 34029,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/661/035_خير القرون 34 ｜ أبو ذر： عاش وحيدا ومات وحيدا ｜ أحمد السيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-661/035.txt",
-   "sha256": "078fec019a8eeb788c15716ec9741f48ce5d64d99ff8079a4b3f6059b905cf8f",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/661/035_خير القرون 34 ｜ أبو ذر： عاش وحيدا ومات وحيدا ｜ أحمد السيد.txt",
+      "sha256": "078fec019a8eeb788c15716ec9741f48ce5d64d99ff8079a4b3f6059b905cf8f",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-661/035.txt",
+      "sha256": "078fec019a8eeb788c15716ec9741f48ce5d64d99ff8079a4b3f6059b905cf8f",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9985,
+    "spoken_align_pct": 99.85,
+    "audio_span_pct": 99.26,
+    "words": 6531,
+    "aligned": 6521,
+    "interpolated": 10,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 08:28"
   }
- ],
- "variants": [],
- "also_in": []
 }

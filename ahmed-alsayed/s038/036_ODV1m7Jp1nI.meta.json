@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:ODV1m7Jp1nI",
- "vid": "ODV1m7Jp1nI",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--661",
- "n": 37,
- "n_src": "mutfile",
- "title": "خير القرون 36 ｜ من مقتل عثمان إلى ابن الزبير ｜ ماذا قال النبي ﷺ عن هذه الحقبة؟ ｜",
- "title_src": "filename",
- "sha256": "4cb4e77072a01e2376762cc84683c62bb17cd1812dc742b709f2a47837c4c5eb",
- "nh": "7da785e52af9cf39d1e66a4a0b8c4e292c92fe2d6e696e644601a97fe03b2cce",
- "chars": 45629,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/661/037_خير القرون 36 ｜ من مقتل عثمان إلى ابن الزبير ｜ ماذا قال النبي ﷺ عن هذه الحقبة؟ ｜.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/661/037_خير القرون 36 ｜ من مقتل عثمان إلى ابن الزبير ｜ ماذا قال النبي ﷺ عن هذه الحقبة؟ ｜.txt",
-   "sha256": "4cb4e77072a01e2376762cc84683c62bb17cd1812dc742b709f2a47837c4c5eb",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:ODV1m7Jp1nI",
+  "vid": "ODV1m7Jp1nI",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--661",
+  "n": 37,
+  "n_src": "mutfile",
+  "title": "خير القرون 36 ｜ من مقتل عثمان إلى ابن الزبير ｜ ماذا قال النبي ﷺ عن هذه الحقبة؟ ｜",
+  "title_src": "filename",
+  "sha256": "4cb4e77072a01e2376762cc84683c62bb17cd1812dc742b709f2a47837c4c5eb",
+  "nh": "7da785e52af9cf39d1e66a4a0b8c4e292c92fe2d6e696e644601a97fe03b2cce",
+  "chars": 45629,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/661/037_خير القرون 36 ｜ من مقتل عثمان إلى ابن الزبير ｜ ماذا قال النبي ﷺ عن هذه الحقبة؟ ｜.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-661/037.txt",
-   "sha256": "e6f3d4c9b968073a4ba03a27a770683bb4020cabc841f74e95a7a15e6af88641",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/661/037_خير القرون 36 ｜ من مقتل عثمان إلى ابن الزبير ｜ ماذا قال النبي ﷺ عن هذه الحقبة؟ ｜.txt",
+      "sha256": "4cb4e77072a01e2376762cc84683c62bb17cd1812dc742b709f2a47837c4c5eb",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-661/037.txt",
+      "sha256": "e6f3d4c9b968073a4ba03a27a770683bb4020cabc841f74e95a7a15e6af88641",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9977,
+    "spoken_align_pct": 99.77,
+    "audio_span_pct": 99.86,
+    "words": 8955,
+    "aligned": 8934,
+    "interpolated": 21,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 08:30"
   }
- ],
- "variants": [],
- "also_in": []
 }
