@@ -1,6 +1,6 @@
 {
-  "aligned": 36,
-  "aligned_ratio": 0.878,
+  "aligned": 41,
+  "aligned_ratio": 1.0,
   "category": "برنامج فكري وتزكوي",
   "coverage": 1.0,
   "declared_total": 41,
@@ -392,10 +392,10 @@
       "vid": "6RHVlMxWBvs"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 22397,
-      "dur": 2178,
+      "dur": 2177,
       "file": "036_pd-sY0EHScE.txt",
       "n": 36,
       "stem": "036_pd-sY0EHScE",
@@ -403,8 +403,8 @@
       "vid": "pd-sY0EHScE"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 25388,
       "dur": 2449,
       "file": "037_opyIoXFXp1M.txt",
@@ -414,8 +414,8 @@
       "vid": "opyIoXFXp1M"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 8256,
       "dur": 786,
       "file": "038_CWz_0PGUQXo.txt",
@@ -425,10 +425,10 @@
       "vid": "CWz_0PGUQXo"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 8860,
-      "dur": 774,
+      "dur": 775,
       "file": "039_LXWiR1KRWIE.txt",
       "n": 39,
       "stem": "039_LXWiR1KRWIE",
@@ -436,8 +436,8 @@
       "vid": "LXWiR1KRWIE"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 7911,
       "dur": 789,
       "file": "040_PbjaDsJ_lN4.txt",
