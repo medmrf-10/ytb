@@ -1,43 +1,59 @@
 {
- "v": 1,
- "lid": "yt:josQXsA_5uM",
- "vid": "josQXsA_5uM",
- "sheikh": "ali-mahmoud-alomari",
- "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
- "n": 36,
- "n_src": "trfile",
- "title": "الدرس السادس والثلاثون_ القطب الثالث_ تممَّة الدعوة السادسة ومقدمة الدعوى السابعة",
- "title_src": "yt_titles",
- "sha256": "29ced41ec9e2debe82517a7a1f5f0cae1851f895b0b0fc1b3d9720a597c0ee5b",
- "nh": "d4cbb32c369164581d141fda38800e8ab0fb86f5ecffd9a048329902bf307add",
- "chars": 40955,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/alamriIqtisad-036/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/alamriIqtisad-036/transcript.txt",
-   "sha256": "29ced41ec9e2debe82517a7a1f5f0cae1851f895b0b0fc1b3d9720a597c0ee5b",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:josQXsA_5uM",
+  "vid": "josQXsA_5uM",
+  "sheikh": "ali-mahmoud-alomari",
+  "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+  "n": 36,
+  "n_src": "trfile",
+  "title": "الدرس السادس والثلاثون_ القطب الثالث_ تممَّة الدعوة السادسة ومقدمة الدعوى السابعة",
+  "title_src": "yt_titles",
+  "sha256": "29ced41ec9e2debe82517a7a1f5f0cae1851f895b0b0fc1b3d9720a597c0ee5b",
+  "nh": "d4cbb32c369164581d141fda38800e8ab0fb86f5ecffd9a048329902bf307add",
+  "chars": 40955,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/alamriIqtisad-036/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-36_AlAmri.txt",
-   "sha256": "29ced41ec9e2debe82517a7a1f5f0cae1851f895b0b0fc1b3d9720a597c0ee5b",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alamri-iqtisad/36.txt",
-   "sha256": "29ced41ec9e2debe82517a7a1f5f0cae1851f895b0b0fc1b3d9720a597c0ee5b",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/alamriIqtisad-036/transcript.txt",
+      "sha256": "29ced41ec9e2debe82517a7a1f5f0cae1851f895b0b0fc1b3d9720a597c0ee5b",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-36_AlAmri.txt",
+      "sha256": "29ced41ec9e2debe82517a7a1f5f0cae1851f895b0b0fc1b3d9720a597c0ee5b",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alamri-iqtisad/36.txt",
+      "sha256": "29ced41ec9e2debe82517a7a1f5f0cae1851f895b0b0fc1b3d9720a597c0ee5b",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9835,
+    "spoken_align_pct": 98.35,
+    "audio_span_pct": 100.0,
+    "words": 7885,
+    "aligned": 7622,
+    "interpolated": 128,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 10:29",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
