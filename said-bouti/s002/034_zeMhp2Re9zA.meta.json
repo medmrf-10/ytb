@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:zeMhp2Re9zA",
- "vid": "zeMhp2Re9zA",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--371",
- "n": 34,
- "n_src": "plpos",
- "title": "34- علوم القرآن الكريم | النزعة الإنسانية في القرآن الكريم",
- "title_src": "yt_titles",
- "sha256": "44d000c805e9eea9271f635612f966e83d8608219106565311efa1596d4c43de",
- "nh": "6ac205246dec599d7b838a82dcf71a539079499d01afb7c17b31e42680204962",
- "chars": 20471,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/371/034_34- علوم القرآن الكريم ｜ النزعة الإنسانية في القرآن الكريم.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/371/034_34- علوم القرآن الكريم ｜ النزعة الإنسانية في القرآن الكريم.txt",
-   "sha256": "44d000c805e9eea9271f635612f966e83d8608219106565311efa1596d4c43de",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:zeMhp2Re9zA",
+  "vid": "zeMhp2Re9zA",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--371",
+  "n": 34,
+  "n_src": "plpos",
+  "title": "34- علوم القرآن الكريم | النزعة الإنسانية في القرآن الكريم",
+  "title_src": "yt_titles",
+  "sha256": "44d000c805e9eea9271f635612f966e83d8608219106565311efa1596d4c43de",
+  "nh": "6ac205246dec599d7b838a82dcf71a539079499d01afb7c17b31e42680204962",
+  "chars": 20471,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/371/034_34- علوم القرآن الكريم ｜ النزعة الإنسانية في القرآن الكريم.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/3oloumEl9or1n-034/transcript.txt",
-   "sha256": "390d605fb9b61ce9a567c520e714f655dac65b24069f5a916c34024a91633920",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-ulum-quran/34.txt",
-   "sha256": "390d605fb9b61ce9a567c520e714f655dac65b24069f5a916c34024a91633920",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/371/034_34- علوم القرآن الكريم ｜ النزعة الإنسانية في القرآن الكريم.txt",
+      "sha256": "44d000c805e9eea9271f635612f966e83d8608219106565311efa1596d4c43de",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/3oloumEl9or1n-034/transcript.txt",
+      "sha256": "390d605fb9b61ce9a567c520e714f655dac65b24069f5a916c34024a91633920",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-ulum-quran/34.txt",
+      "sha256": "390d605fb9b61ce9a567c520e714f655dac65b24069f5a916c34024a91633920",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9997,
+    "spoken_align_pct": 99.97,
+    "audio_span_pct": 99.24,
+    "words": 3706,
+    "aligned": 3699,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 15:09"
   }
- ],
- "variants": [],
- "also_in": []
 }

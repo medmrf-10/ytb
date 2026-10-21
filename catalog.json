@@ -1,7 +1,7 @@
 {
   "sheikhs": [
     {
-      "aligned": 524,
+      "aligned": 533,
       "chars": 20561743,
       "lessons": 1165,
       "name": "محمد سعيد رمضان البوطي",
@@ -24,14 +24,14 @@
           "transcribed": 200
         },
         {
-          "aligned": 26,
-          "aligned_pct": "41.3%",
+          "aligned": 35,
+          "aligned_pct": "55.6%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 63,
           "dir": "s002/",
-          "dur": 184849,
+          "dur": 184846,
           "key": "s002",
           "series_id": "bouti__s002",
           "title": "محاضرات في علوم القرآن الكريم ودراساته التطبيقية",
@@ -5760,7 +5760,7 @@
     }
   ],
   "totals": {
-    "aligned": 3404,
+    "aligned": 3413,
     "chars": 157897651,
     "lessons": 6712,
     "series": 389,
