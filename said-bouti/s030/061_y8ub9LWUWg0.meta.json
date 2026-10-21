@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:y8ub9LWUWg0",
- "vid": "y8ub9LWUWg0",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--403",
- "n": 61,
- "n_src": "plpos",
- "title": "59- فقه السيرة النبوية | حجة الوداع وخطبتها",
- "title_src": "yt_titles",
- "sha256": "462a72b286ce81fcb457c8afd48bfcee7f55bc2fb67d95bb7c68a51cff9bd5e4",
- "nh": "0bfa12f5e37baad7798c77a51bc9374a249dead41b6b0eaa8b2badd4fd20ad11",
- "chars": 21653,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/403/061_59- فقه السيرة النبوية ｜ حجة الوداع وخطبتها.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/403/061_59- فقه السيرة النبوية ｜ حجة الوداع وخطبتها.txt",
-   "sha256": "462a72b286ce81fcb457c8afd48bfcee7f55bc2fb67d95bb7c68a51cff9bd5e4",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:y8ub9LWUWg0",
+  "vid": "y8ub9LWUWg0",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--403",
+  "n": 61,
+  "n_src": "plpos",
+  "title": "59- فقه السيرة النبوية | حجة الوداع وخطبتها",
+  "title_src": "yt_titles",
+  "sha256": "462a72b286ce81fcb457c8afd48bfcee7f55bc2fb67d95bb7c68a51cff9bd5e4",
+  "nh": "0bfa12f5e37baad7798c77a51bc9374a249dead41b6b0eaa8b2badd4fd20ad11",
+  "chars": 21653,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/403/061_59- فقه السيرة النبوية ｜ حجة الوداع وخطبتها.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/fi9hElsirah-061/transcript.txt",
-   "sha256": "965f45ed3fed3bf3ebfca0185dc6d98af0de32695126f39af12a2c5256bad802",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-sira/61.txt",
-   "sha256": "965f45ed3fed3bf3ebfca0185dc6d98af0de32695126f39af12a2c5256bad802",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/403/60.txt",
-   "sha256": "462a72b286ce81fcb457c8afd48bfcee7f55bc2fb67d95bb7c68a51cff9bd5e4",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/403/061_59- فقه السيرة النبوية ｜ حجة الوداع وخطبتها.txt",
+      "sha256": "462a72b286ce81fcb457c8afd48bfcee7f55bc2fb67d95bb7c68a51cff9bd5e4",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/fi9hElsirah-061/transcript.txt",
+      "sha256": "965f45ed3fed3bf3ebfca0185dc6d98af0de32695126f39af12a2c5256bad802",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-sira/61.txt",
+      "sha256": "965f45ed3fed3bf3ebfca0185dc6d98af0de32695126f39af12a2c5256bad802",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/403/60.txt",
+      "sha256": "462a72b286ce81fcb457c8afd48bfcee7f55bc2fb67d95bb7c68a51cff9bd5e4",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9998,
+    "spoken_align_pct": 99.98,
+    "audio_span_pct": 99.71,
+    "words": 4018,
+    "aligned": 4015,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 16:45"
   }
- ],
- "variants": [],
- "also_in": []
 }
