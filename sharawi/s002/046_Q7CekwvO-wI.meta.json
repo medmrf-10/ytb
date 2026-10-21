@@ -1,34 +1,47 @@
 {
- "v": 1,
- "lid": "yt:Q7CekwvO-wI",
- "vid": "Q7CekwvO-wI",
- "sheikh": "sharawi",
- "row_id": "sharawi--501",
- "n": 45,
- "n_src": "playlist",
- "title": "تفسير سورة آل عمران للشيخ الشعراوي - من الآية 190 إلى الآية 199",
- "title_src": "youtube",
- "sha256": "6b0842afdf1df6242fdb8a81c00dcb1b0c3b88ac55535536506140f757c58cae",
- "chars": 22006,
- "quality": "ok",
- "winner": {
-  "store": "ytb-transcribe",
-  "path": "ytb/sharawi/501/045_Q7CekwvO-wI.txt",
-  "model": "gemini-3.8-flash-high"
- },
- "sources": [
-  {
-   "store": "youtube",
-   "path": "https://youtu.be/Q7CekwvO-wI",
-   "rel": "source"
+  "v": 1,
+  "lid": "yt:Q7CekwvO-wI",
+  "vid": "Q7CekwvO-wI",
+  "sheikh": "sharawi",
+  "row_id": "sharawi--501",
+  "n": 45,
+  "n_src": "playlist",
+  "title": "تفسير سورة آل عمران للشيخ الشعراوي - من الآية 190 إلى الآية 199",
+  "title_src": "youtube",
+  "sha256": "6b0842afdf1df6242fdb8a81c00dcb1b0c3b88ac55535536506140f757c58cae",
+  "chars": 22006,
+  "quality": "ok",
+  "winner": {
+    "store": "ytb-transcribe",
+    "path": "ytb/sharawi/501/045_Q7CekwvO-wI.txt",
+    "model": "gemini-3.8-flash-high"
+  },
+  "sources": [
+    {
+      "store": "youtube",
+      "path": "https://youtu.be/Q7CekwvO-wI",
+      "rel": "source"
+    }
+  ],
+  "series": "_pool--501",
+  "series_slug": "_pool--501",
+  "lesson_no": 45,
+  "yt": "Q7CekwvO-wI",
+  "transcribed": "2026-10-16 10:00:10",
+  "audio": "ytb-build/audio/_pool--501/045.mp3",
+  "job": "agy+gemini عبر agy",
+  "usage_tail": "e\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 59.049, \"Gemini Models / Five Hour Limit Remaining\": 91.019, \"Claude and GPT models / Weekly Limit Remaining\": 4.714, \"Claude and GPT models / Five Hour Limit Remaining\": 94.316}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 0.11, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 1.438}\nchars: 22005 | words: 3848\nduplicate 8/12-gram runs: 30\nwrote /root/workspace/ytb/sharawi/501/045_Q7CekwvO-wI.txt\n",
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9971,
+    "spoken_align_pct": 99.71,
+    "audio_span_pct": 100.0,
+    "words": 3825,
+    "aligned": 3794,
+    "interpolated": 11,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 14:29"
   }
- ],
- "series": "_pool--501",
- "series_slug": "_pool--501",
- "lesson_no": 45,
- "yt": "Q7CekwvO-wI",
- "transcribed": "2026-10-16 10:00:10",
- "audio": "ytb-build/audio/_pool--501/045.mp3",
- "job": "agy+gemini عبر agy",
- "usage_tail": "e\nusage after: {\"Gemini Models / Weekly Limit Remaining\": 59.049, \"Gemini Models / Five Hour Limit Remaining\": 91.019, \"Claude and GPT models / Weekly Limit Remaining\": 4.714, \"Claude and GPT models / Five Hour Limit Remaining\": 94.316}\nbucket deltas (percentage points): {\"Gemini Models / Weekly Limit Remaining\": 0.11, \"Claude and GPT models / Five Hour Limit Remaining\": 0.0, \"Claude and GPT models / Weekly Limit Remaining\": 0.0, \"Gemini Models / Five Hour Limit Remaining\": 1.438}\nchars: 22005 | words: 3848\nduplicate 8/12-gram runs: 30\nwrote /root/workspace/ytb/sharawi/501/045_Q7CekwvO-wI.txt\n"
 }
