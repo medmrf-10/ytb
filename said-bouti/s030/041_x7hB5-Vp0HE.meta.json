@@ -1,51 +1,67 @@
 {
- "v": 1,
- "lid": "yt:x7hB5-Vp0HE",
- "vid": "x7hB5-Vp0HE",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--403",
- "n": 41,
- "n_src": "plpos",
- "title": "39- فقه السيرة النبوية | صلح الحديبية (2)",
- "title_src": "yt_titles",
- "sha256": "095eba2ef9b0c36e1a6514056d12356d772e867323d1f326f084dbd78025859c",
- "nh": "1fbcf8c988be867cf686fe6a52cf9b4bade80f176d26748d1da2fd1102343dcb",
- "chars": 14677,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/403/041_39- فقه السيرة النبوية ｜ صلح الحديبية (2).txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/403/041_39- فقه السيرة النبوية ｜ صلح الحديبية (2).txt",
-   "sha256": "095eba2ef9b0c36e1a6514056d12356d772e867323d1f326f084dbd78025859c",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:x7hB5-Vp0HE",
+  "vid": "x7hB5-Vp0HE",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--403",
+  "n": 41,
+  "n_src": "plpos",
+  "title": "39- فقه السيرة النبوية | صلح الحديبية (2)",
+  "title_src": "yt_titles",
+  "sha256": "095eba2ef9b0c36e1a6514056d12356d772e867323d1f326f084dbd78025859c",
+  "nh": "1fbcf8c988be867cf686fe6a52cf9b4bade80f176d26748d1da2fd1102343dcb",
+  "chars": 14677,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/403/041_39- فقه السيرة النبوية ｜ صلح الحديبية (2).txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/fi9hElsirah-041/transcript.txt",
-   "sha256": "0cd6165883419f14a1d9bea5ae3dbcf37376f0b4ce307b86c85a6e6ff94b9baa",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-sira/041.txt",
-   "sha256": "e4fcfe08595d1197d05f7358c0e6f46d6145014b0c0a4a9109fd3f8d68a271e0",
-   "rel": "variant"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-sira/41.txt",
-   "sha256": "0cd6165883419f14a1d9bea5ae3dbcf37376f0b4ce307b86c85a6e6ff94b9baa",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/403/041_39- فقه السيرة النبوية ｜ صلح الحديبية (2).txt",
+      "sha256": "095eba2ef9b0c36e1a6514056d12356d772e867323d1f326f084dbd78025859c",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/fi9hElsirah-041/transcript.txt",
+      "sha256": "0cd6165883419f14a1d9bea5ae3dbcf37376f0b4ce307b86c85a6e6ff94b9baa",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-sira/041.txt",
+      "sha256": "e4fcfe08595d1197d05f7358c0e6f46d6145014b0c0a4a9109fd3f8d68a271e0",
+      "rel": "variant"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-sira/41.txt",
+      "sha256": "0cd6165883419f14a1d9bea5ae3dbcf37376f0b4ce307b86c85a6e6ff94b9baa",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [
+    "_variants/041_x7hB5-Vp0HE.hw-ls.txt"
+  ],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9995,
+    "spoken_align_pct": 99.95,
+    "audio_span_pct": 99.89,
+    "words": 4268,
+    "aligned": 4266,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 16:23",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [
-  "_variants/041_x7hB5-Vp0HE.hw-ls.txt"
- ],
- "also_in": []
 }

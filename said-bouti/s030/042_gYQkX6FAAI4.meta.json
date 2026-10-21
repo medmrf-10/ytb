@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:gYQkX6FAAI4",
- "vid": "gYQkX6FAAI4",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--403",
- "n": 42,
- "n_src": "plpos",
- "title": "40 - فقه السيرة النبوية | صلح الحديبية (3)",
- "title_src": "yt_titles",
- "sha256": "85861bf75872db9a5845a66fe53352d86d2e25b15ce7b423b66d959b8e525370",
- "nh": "9e046a56878411ab83201f122c95ec61cabd5a4955b7a6c9a85e37b76d60bd0c",
- "chars": 20577,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/403/042_40 - فقه السيرة النبوية ｜ صلح الحديبية (3).txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/403/042_40 - فقه السيرة النبوية ｜ صلح الحديبية (3).txt",
-   "sha256": "85861bf75872db9a5845a66fe53352d86d2e25b15ce7b423b66d959b8e525370",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:gYQkX6FAAI4",
+  "vid": "gYQkX6FAAI4",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--403",
+  "n": 42,
+  "n_src": "plpos",
+  "title": "40 - فقه السيرة النبوية | صلح الحديبية (3)",
+  "title_src": "yt_titles",
+  "sha256": "85861bf75872db9a5845a66fe53352d86d2e25b15ce7b423b66d959b8e525370",
+  "nh": "9e046a56878411ab83201f122c95ec61cabd5a4955b7a6c9a85e37b76d60bd0c",
+  "chars": 20577,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/403/042_40 - فقه السيرة النبوية ｜ صلح الحديبية (3).txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/fi9hElsirah-042/transcript.txt",
-   "sha256": "af1ffe9667bdc65fb0e25c7058dad0328cd159fced67a9e12f4ace0ff144c4bf",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-sira/42.txt",
-   "sha256": "af1ffe9667bdc65fb0e25c7058dad0328cd159fced67a9e12f4ace0ff144c4bf",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/403/042_40 - فقه السيرة النبوية ｜ صلح الحديبية (3).txt",
+      "sha256": "85861bf75872db9a5845a66fe53352d86d2e25b15ce7b423b66d959b8e525370",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/fi9hElsirah-042/transcript.txt",
+      "sha256": "af1ffe9667bdc65fb0e25c7058dad0328cd159fced67a9e12f4ace0ff144c4bf",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-sira/42.txt",
+      "sha256": "af1ffe9667bdc65fb0e25c7058dad0328cd159fced67a9e12f4ace0ff144c4bf",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.75,
+    "words": 3658,
+    "aligned": 3649,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 16:24"
   }
- ],
- "variants": [],
- "also_in": []
 }

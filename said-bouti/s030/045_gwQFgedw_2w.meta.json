@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:gwQFgedw_2w",
- "vid": "gwQFgedw_2w",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--403",
- "n": 45,
- "n_src": "plpos",
- "title": "43- فقه السيرة النبوية | سرايا إلى القبائل وكتب إلى الملوك (2)",
- "title_src": "yt_titles",
- "sha256": "47845a259fe76922cd42fe0e2570b20091a633a31d2023c35dd33a73c6c972c4",
- "nh": "281ea65f2b489d18a7104b7ae84fa0875d0e318ebe29229799be378b55354dc1",
- "chars": 22654,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/403/045_43- فقه السيرة النبوية ｜ سرايا إلى القبائل وكتب إلى الملوك (2).txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/403/045_43- فقه السيرة النبوية ｜ سرايا إلى القبائل وكتب إلى الملوك (2).txt",
-   "sha256": "47845a259fe76922cd42fe0e2570b20091a633a31d2023c35dd33a73c6c972c4",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:gwQFgedw_2w",
+  "vid": "gwQFgedw_2w",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--403",
+  "n": 45,
+  "n_src": "plpos",
+  "title": "43- فقه السيرة النبوية | سرايا إلى القبائل وكتب إلى الملوك (2)",
+  "title_src": "yt_titles",
+  "sha256": "47845a259fe76922cd42fe0e2570b20091a633a31d2023c35dd33a73c6c972c4",
+  "nh": "281ea65f2b489d18a7104b7ae84fa0875d0e318ebe29229799be378b55354dc1",
+  "chars": 22654,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/403/045_43- فقه السيرة النبوية ｜ سرايا إلى القبائل وكتب إلى الملوك (2).txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/fi9hElsirah-045/transcript.txt",
-   "sha256": "013a9b52710de63f9d103f1bf9c59c6924c828dc7235cf539b3715cb28368492",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-sira/45.txt",
-   "sha256": "013a9b52710de63f9d103f1bf9c59c6924c828dc7235cf539b3715cb28368492",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/403/045_43- فقه السيرة النبوية ｜ سرايا إلى القبائل وكتب إلى الملوك (2).txt",
+      "sha256": "47845a259fe76922cd42fe0e2570b20091a633a31d2023c35dd33a73c6c972c4",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/fi9hElsirah-045/transcript.txt",
+      "sha256": "013a9b52710de63f9d103f1bf9c59c6924c828dc7235cf539b3715cb28368492",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-sira/45.txt",
+      "sha256": "013a9b52710de63f9d103f1bf9c59c6924c828dc7235cf539b3715cb28368492",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9993,
+    "spoken_align_pct": 99.93,
+    "audio_span_pct": 98.42,
+    "words": 4146,
+    "aligned": 4121,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 16:28"
   }
- ],
- "variants": [],
- "also_in": []
 }
