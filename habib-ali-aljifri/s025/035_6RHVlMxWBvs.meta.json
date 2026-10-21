@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:6RHVlMxWBvs",
- "vid": "6RHVlMxWBvs",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--99",
- "n": 28,
- "n_src": "read",
- "title": "27- فروع الصيانة ｜ #الشجرة الطيبة ｜ #الحبيب علي الجفري",
- "title_src": "filename",
- "sha256": "069fce0e97972b7d420f1e02ef55d4f13afc4682614b687df8d7acd7183c1c2b",
- "nh": "b793897e2203d325c8a1feac6edbf70ede37dc51fa537ba0a867cc82467942cf",
- "chars": 23490,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/99/028_27- فروع الصيانة ｜ #الشجرة_الطيبة ｜ #الحبيب_علي_الجفري.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/99/028_27- فروع الصيانة ｜ #الشجرة_الطيبة ｜ #الحبيب_علي_الجفري.txt",
-   "sha256": "069fce0e97972b7d420f1e02ef55d4f13afc4682614b687df8d7acd7183c1c2b",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:6RHVlMxWBvs",
+  "vid": "6RHVlMxWBvs",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--99",
+  "n": 28,
+  "n_src": "read",
+  "title": "27- فروع الصيانة ｜ #الشجرة الطيبة ｜ #الحبيب علي الجفري",
+  "title_src": "filename",
+  "sha256": "069fce0e97972b7d420f1e02ef55d4f13afc4682614b687df8d7acd7183c1c2b",
+  "nh": "b793897e2203d325c8a1feac6edbf70ede37dc51fa537ba0a867cc82467942cf",
+  "chars": 23490,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/99/028_27- فروع الصيانة ｜ #الشجرة_الطيبة ｜ #الحبيب_علي_الجفري.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/99/22.txt",
-   "sha256": "069fce0e97972b7d420f1e02ef55d4f13afc4682614b687df8d7acd7183c1c2b",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/99/028_27- فروع الصيانة ｜ #الشجرة_الطيبة ｜ #الحبيب_علي_الجفري.txt",
+      "sha256": "069fce0e97972b7d420f1e02ef55d4f13afc4682614b687df8d7acd7183c1c2b",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/99/22.txt",
+      "sha256": "069fce0e97972b7d420f1e02ef55d4f13afc4682614b687df8d7acd7183c1c2b",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9991,
+    "spoken_align_pct": 99.91,
+    "audio_span_pct": 97.0,
+    "words": 4437,
+    "aligned": 4433,
+    "interpolated": 4,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 08:50"
   }
- ],
- "variants": [],
- "also_in": []
 }

@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:-_RxP3HiRYA",
- "vid": "-_RxP3HiRYA",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--99",
- "n": 24,
- "n_src": "read",
- "title": "23- النزاهة عن مواقف الريبة ｜ #الشجرة الطيبة ｜ #الحبيب علي الجفري",
- "title_src": "filename",
- "sha256": "94c9c4e2ad12f11efd00d4cd22bfcaa61c538ec79994d0820022d7c4ea85b271",
- "nh": "875bd9697c080b3afa727a8f5c997b117016edb666f9e17b8c38dc063e56ffac",
- "chars": 23542,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/99/024_23- النزاهة عن مواقف الريبة ｜ #الشجرة_الطيبة ｜ #الحبيب_علي_الجفري.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/99/024_23- النزاهة عن مواقف الريبة ｜ #الشجرة_الطيبة ｜ #الحبيب_علي_الجفري.txt",
-   "sha256": "94c9c4e2ad12f11efd00d4cd22bfcaa61c538ec79994d0820022d7c4ea85b271",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:-_RxP3HiRYA",
+  "vid": "-_RxP3HiRYA",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--99",
+  "n": 24,
+  "n_src": "read",
+  "title": "23- النزاهة عن مواقف الريبة ｜ #الشجرة الطيبة ｜ #الحبيب علي الجفري",
+  "title_src": "filename",
+  "sha256": "94c9c4e2ad12f11efd00d4cd22bfcaa61c538ec79994d0820022d7c4ea85b271",
+  "nh": "875bd9697c080b3afa727a8f5c997b117016edb666f9e17b8c38dc063e56ffac",
+  "chars": 23542,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/99/024_23- النزاهة عن مواقف الريبة ｜ #الشجرة_الطيبة ｜ #الحبيب_علي_الجفري.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/99/18.txt",
-   "sha256": "94c9c4e2ad12f11efd00d4cd22bfcaa61c538ec79994d0820022d7c4ea85b271",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/99/024_23- النزاهة عن مواقف الريبة ｜ #الشجرة_الطيبة ｜ #الحبيب_علي_الجفري.txt",
+      "sha256": "94c9c4e2ad12f11efd00d4cd22bfcaa61c538ec79994d0820022d7c4ea85b271",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/99/18.txt",
+      "sha256": "94c9c4e2ad12f11efd00d4cd22bfcaa61c538ec79994d0820022d7c4ea85b271",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9998,
+    "spoken_align_pct": 99.98,
+    "audio_span_pct": 97.06,
+    "words": 4440,
+    "aligned": 4428,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 08:47"
   }
- ],
- "variants": [],
- "also_in": []
 }

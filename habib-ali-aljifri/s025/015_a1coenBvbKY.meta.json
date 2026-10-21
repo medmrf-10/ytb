@@ -8,12 +8,14 @@
   "align": {
     "engine": "ctc-pure-mac-mps",
     "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
-    "cov": 0.785,
-    "spoken_align_pct": 78.5,
-    "audio_span_pct": 100.0,
-    "words": 5786,
-    "aligned": 4541,
-    "interpolated": 1244,
-    "at": "2026-10-18 11:41"
+    "cov": 0.9993,
+    "spoken_align_pct": 99.93,
+    "audio_span_pct": 97.52,
+    "words": 4557,
+    "aligned": 4553,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 08:41"
   }
 }
