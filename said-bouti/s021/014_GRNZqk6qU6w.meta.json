@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:GRNZqk6qU6w",
- "vid": "GRNZqk6qU6w",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--377",
- "n": 14,
- "n_src": "plpos",
- "title": "8- كبرى اليقينيات الكونية | ما يترتب على صفات الله عز وجل من الحقائق الاعتقادية",
- "title_src": "yt_titles",
- "sha256": "5148d652b1f753d377fe8579c7b2c45c75b4157a85fb6fa4cb0c315593cfb83a",
- "nh": "abd3ec9dbf50804423962cff6d023bee3cb9039c43b1005f6a5003652f305136",
- "chars": 23508,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/377/014_8- كبرى اليقينيات الكونية ｜ ما يترتب على صفات الله عز وجل من الحقائق الاعتقادية.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/377/014_8- كبرى اليقينيات الكونية ｜ ما يترتب على صفات الله عز وجل من الحقائق الاعتقادية.txt",
-   "sha256": "5148d652b1f753d377fe8579c7b2c45c75b4157a85fb6fa4cb0c315593cfb83a",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:GRNZqk6qU6w",
+  "vid": "GRNZqk6qU6w",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--377",
+  "n": 14,
+  "n_src": "plpos",
+  "title": "8- كبرى اليقينيات الكونية | ما يترتب على صفات الله عز وجل من الحقائق الاعتقادية",
+  "title_src": "yt_titles",
+  "sha256": "5148d652b1f753d377fe8579c7b2c45c75b4157a85fb6fa4cb0c315593cfb83a",
+  "nh": "abd3ec9dbf50804423962cff6d023bee3cb9039c43b1005f6a5003652f305136",
+  "chars": 23508,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/377/014_8- كبرى اليقينيات الكونية ｜ ما يترتب على صفات الله عز وجل من الحقائق الاعتقادية.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/kobraElya9inyat-014/transcript.txt",
-   "sha256": "3c3b0bd4dfff39cbc7472759625cc0449e57066b1154ca2c16ebf113470f9329",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/14.txt",
-   "sha256": "3c3b0bd4dfff39cbc7472759625cc0449e57066b1154ca2c16ebf113470f9329",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/377/13.txt",
-   "sha256": "5148d652b1f753d377fe8579c7b2c45c75b4157a85fb6fa4cb0c315593cfb83a",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/377/014_8- كبرى اليقينيات الكونية ｜ ما يترتب على صفات الله عز وجل من الحقائق الاعتقادية.txt",
+      "sha256": "5148d652b1f753d377fe8579c7b2c45c75b4157a85fb6fa4cb0c315593cfb83a",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/kobraElya9inyat-014/transcript.txt",
+      "sha256": "3c3b0bd4dfff39cbc7472759625cc0449e57066b1154ca2c16ebf113470f9329",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/14.txt",
+      "sha256": "3c3b0bd4dfff39cbc7472759625cc0449e57066b1154ca2c16ebf113470f9329",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/377/13.txt",
+      "sha256": "5148d652b1f753d377fe8579c7b2c45c75b4157a85fb6fa4cb0c315593cfb83a",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9755,
+    "spoken_align_pct": 97.55,
+    "audio_span_pct": 97.71,
+    "words": 4081,
+    "aligned": 3977,
+    "interpolated": 100,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 12:59"
   }
- ],
- "variants": [],
- "also_in": []
 }
