@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:WYmyL0VnDm8",
- "vid": "WYmyL0VnDm8",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--377",
- "n": 42,
- "n_src": "plpos",
- "title": "36- كبرى اليقينيات الكونية | أحداث يوم القيامة وأدلتها (1)",
- "title_src": "yt_titles",
- "sha256": "406741c6986eb4879af294652da9edddf659f968cb4ea6b3e0057e53e6f47969",
- "nh": "ea11496de4387f29859499bc0576c1e1a88d185079cbb068b7ff7b0671b3e278",
- "chars": 16287,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/377/042_36- كبرى اليقينيات الكونية ｜ أحداث يوم القيامة وأدلتها (1).txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/377/042_36- كبرى اليقينيات الكونية ｜ أحداث يوم القيامة وأدلتها (1).txt",
-   "sha256": "406741c6986eb4879af294652da9edddf659f968cb4ea6b3e0057e53e6f47969",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:WYmyL0VnDm8",
+  "vid": "WYmyL0VnDm8",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--377",
+  "n": 42,
+  "n_src": "plpos",
+  "title": "36- كبرى اليقينيات الكونية | أحداث يوم القيامة وأدلتها (1)",
+  "title_src": "yt_titles",
+  "sha256": "406741c6986eb4879af294652da9edddf659f968cb4ea6b3e0057e53e6f47969",
+  "nh": "ea11496de4387f29859499bc0576c1e1a88d185079cbb068b7ff7b0671b3e278",
+  "chars": 16287,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/377/042_36- كبرى اليقينيات الكونية ｜ أحداث يوم القيامة وأدلتها (1).txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/kobraElya9inyat-042/transcript.txt",
-   "sha256": "658ee9dc94629578b991e220811503aa94c7bd79a10e1d5250367e27cedc9ab2",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/42.txt",
-   "sha256": "658ee9dc94629578b991e220811503aa94c7bd79a10e1d5250367e27cedc9ab2",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/377/042_36- كبرى اليقينيات الكونية ｜ أحداث يوم القيامة وأدلتها (1).txt",
+      "sha256": "406741c6986eb4879af294652da9edddf659f968cb4ea6b3e0057e53e6f47969",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/kobraElya9inyat-042/transcript.txt",
+      "sha256": "658ee9dc94629578b991e220811503aa94c7bd79a10e1d5250367e27cedc9ab2",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/42.txt",
+      "sha256": "658ee9dc94629578b991e220811503aa94c7bd79a10e1d5250367e27cedc9ab2",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9836,
+    "spoken_align_pct": 98.36,
+    "audio_span_pct": 97.05,
+    "words": 2979,
+    "aligned": 2930,
+    "interpolated": 49,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 13:33"
   }
- ],
- "variants": [],
- "also_in": []
 }

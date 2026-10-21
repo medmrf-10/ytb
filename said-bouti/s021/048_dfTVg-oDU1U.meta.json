@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:dfTVg-oDU1U",
- "vid": "dfTVg-oDU1U",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--377",
- "n": 48,
- "n_src": "plpos",
- "title": "42- كبرى اليقينيات الكونية | أحداث يوم القيامة (7) \"الجنة والنار\"",
- "title_src": "yt_titles",
- "sha256": "0a9f2004e327023b727681e150f35e5b00e9911fc8933609ac20eaf901654691",
- "nh": "5069a3feadd04864ac69f1022a61b450719536a67d9c76ea45aac26a34731bff",
- "chars": 20431,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/377/048_42- كبرى اليقينيات الكونية ｜ أحداث يوم القيامة (7) ＂الجنة والنار＂.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/377/048_42- كبرى اليقينيات الكونية ｜ أحداث يوم القيامة (7) ＂الجنة والنار＂.txt",
-   "sha256": "0a9f2004e327023b727681e150f35e5b00e9911fc8933609ac20eaf901654691",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:dfTVg-oDU1U",
+  "vid": "dfTVg-oDU1U",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--377",
+  "n": 48,
+  "n_src": "plpos",
+  "title": "42- كبرى اليقينيات الكونية | أحداث يوم القيامة (7) \"الجنة والنار\"",
+  "title_src": "yt_titles",
+  "sha256": "0a9f2004e327023b727681e150f35e5b00e9911fc8933609ac20eaf901654691",
+  "nh": "5069a3feadd04864ac69f1022a61b450719536a67d9c76ea45aac26a34731bff",
+  "chars": 20431,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/377/048_42- كبرى اليقينيات الكونية ｜ أحداث يوم القيامة (7) ＂الجنة والنار＂.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/kobraElya9inyat-048/transcript.txt",
-   "sha256": "1ccdc3dff0dccdb6143bdaa55cdeb5f68907f8549ca92b9ef5cde24416e6b934",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/48.txt",
-   "sha256": "1ccdc3dff0dccdb6143bdaa55cdeb5f68907f8549ca92b9ef5cde24416e6b934",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/377/12.txt",
-   "sha256": "0a9f2004e327023b727681e150f35e5b00e9911fc8933609ac20eaf901654691",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/377/048_42- كبرى اليقينيات الكونية ｜ أحداث يوم القيامة (7) ＂الجنة والنار＂.txt",
+      "sha256": "0a9f2004e327023b727681e150f35e5b00e9911fc8933609ac20eaf901654691",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/kobraElya9inyat-048/transcript.txt",
+      "sha256": "1ccdc3dff0dccdb6143bdaa55cdeb5f68907f8549ca92b9ef5cde24416e6b934",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/48.txt",
+      "sha256": "1ccdc3dff0dccdb6143bdaa55cdeb5f68907f8549ca92b9ef5cde24416e6b934",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/377/12.txt",
+      "sha256": "0a9f2004e327023b727681e150f35e5b00e9911fc8933609ac20eaf901654691",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9997,
+    "spoken_align_pct": 99.97,
+    "audio_span_pct": 99.97,
+    "words": 3839,
+    "aligned": 3838,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 13:38"
   }
- ],
- "variants": [],
- "also_in": []
 }
