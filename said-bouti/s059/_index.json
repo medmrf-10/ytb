@@ -1,6 +1,6 @@
 {
-  "aligned": 51,
-  "aligned_ratio": 0.9808,
+  "aligned": 52,
+  "aligned_ratio": 1.0,
   "category": "خطب الجمعة والمحاضرات",
   "coverage": 1.0,
   "declared_total": 52,
@@ -568,10 +568,10 @@
       "vid": "AnV1DzEskRA"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 12036,
-      "dur": 1791,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 12008,
+      "dur": 1790,
       "file": "052_RLO0bw5bHcQ.txt",
       "n": 52,
       "stem": "052_RLO0bw5bHcQ",

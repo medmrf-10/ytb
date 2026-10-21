@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:UK3SisgU-Aw",
- "vid": "UK3SisgU-Aw",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--377",
- "n": 2,
- "n_src": "plpos",
- "title": "مقدمة -2- كبرى اليقينيات الكونية | السبيل المتخذة للتحقيق في الإدعاء",
- "title_src": "yt_titles",
- "sha256": "6d01e7a4163dbb49e5a894b55bfc9208e4786ceec4a7ffa31c80a5b013f2f2f4",
- "nh": "642f4070e15a8dccea21e316653ce80ba9457de4c0d81f0358a4d70b60e12441",
- "chars": 22149,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/377/002_مقدمة -2- كبرى اليقينيات الكونية ｜ السبيل المتخذة للتحقيق في الإدعاء.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/377/002_مقدمة -2- كبرى اليقينيات الكونية ｜ السبيل المتخذة للتحقيق في الإدعاء.txt",
-   "sha256": "6d01e7a4163dbb49e5a894b55bfc9208e4786ceec4a7ffa31c80a5b013f2f2f4",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:UK3SisgU-Aw",
+  "vid": "UK3SisgU-Aw",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--377",
+  "n": 2,
+  "n_src": "plpos",
+  "title": "مقدمة -2- كبرى اليقينيات الكونية | السبيل المتخذة للتحقيق في الإدعاء",
+  "title_src": "yt_titles",
+  "sha256": "6d01e7a4163dbb49e5a894b55bfc9208e4786ceec4a7ffa31c80a5b013f2f2f4",
+  "nh": "642f4070e15a8dccea21e316653ce80ba9457de4c0d81f0358a4d70b60e12441",
+  "chars": 22149,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/377/002_مقدمة -2- كبرى اليقينيات الكونية ｜ السبيل المتخذة للتحقيق في الإدعاء.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/kobraElya9inyat-002/transcript.txt",
-   "sha256": "06f7353a6942906182accd329568fe8bc84ea67d0889c510c3de91e9c103fbaf",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/02.txt",
-   "sha256": "06f7353a6942906182accd329568fe8bc84ea67d0889c510c3de91e9c103fbaf",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/377/002_مقدمة -2- كبرى اليقينيات الكونية ｜ السبيل المتخذة للتحقيق في الإدعاء.txt",
+      "sha256": "6d01e7a4163dbb49e5a894b55bfc9208e4786ceec4a7ffa31c80a5b013f2f2f4",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/kobraElya9inyat-002/transcript.txt",
+      "sha256": "06f7353a6942906182accd329568fe8bc84ea67d0889c510c3de91e9c103fbaf",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/02.txt",
+      "sha256": "06f7353a6942906182accd329568fe8bc84ea67d0889c510c3de91e9c103fbaf",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9992,
+    "spoken_align_pct": 99.92,
+    "audio_span_pct": 99.96,
+    "words": 3969,
+    "aligned": 3964,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 12:23"
   }
- ],
- "variants": [],
- "also_in": []
 }

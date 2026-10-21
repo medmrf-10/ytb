@@ -1,8 +1,8 @@
 {
   "sheikhs": [
     {
-      "aligned": 441,
-      "chars": 20561826,
+      "aligned": 450,
+      "chars": 20561798,
       "lessons": 1165,
       "name": "محمد سعيد رمضان البوطي",
       "path": "said-bouti/",
@@ -248,14 +248,14 @@
           "transcribed": 9
         },
         {
-          "aligned": 1,
-          "aligned_pct": "1.8%",
+          "aligned": 9,
+          "aligned_pct": "16.7%",
           "category": "العقيدة والفكر الإسلامي",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 54,
           "dir": "s021/",
-          "dur": 158998,
+          "dur": 158993,
           "key": "s021",
           "series_id": "bouti__s021",
           "title": "شرح كتاب كبرى اليقينيات الكونية (وجود الخالق ووظيفة المخلوق)",
@@ -430,14 +430,14 @@
           "transcribed": 22
         },
         {
-          "aligned": 51,
-          "aligned_pct": "98.1%",
+          "aligned": 52,
+          "aligned_pct": "100.0%",
           "category": "خطب الجمعة والمحاضرات",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 52,
           "dir": "s059/",
-          "dur": 98141,
+          "dur": 98140,
           "key": "s059",
           "series_id": "bouti__s059",
           "title": "خطب الجمعة والعيدين — عام 2012 م",
@@ -5760,8 +5760,8 @@
     }
   ],
   "totals": {
-    "aligned": 3266,
-    "chars": 157899070,
+    "aligned": 3275,
+    "chars": 157899042,
     "lessons": 6712,
     "series": 389,
     "sheikhs": 26

@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:i4hPgpFfaO8",
- "vid": "i4hPgpFfaO8",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--377",
- "n": 5,
- "n_src": "plpos",
- "title": "مقدمة -5- كبرى اليقينيات الكونية | موقع العقيدة من مجموع البنية الإسلامية",
- "title_src": "yt_titles",
- "sha256": "bc5223cc6d39ca3b67f35433db4740408cb009e0333b371a56b9bde42439f9f3",
- "nh": "32bcbf38dfe7fbf7b49f0b7f003b117c9dbc214cf3d4aced3606a56c2f77a19d",
- "chars": 22095,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/377/005_مقدمة -5- كبرى اليقينيات الكونية ｜ موقع العقيدة من مجموع البنية الإسلامية.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/377/005_مقدمة -5- كبرى اليقينيات الكونية ｜ موقع العقيدة من مجموع البنية الإسلامية.txt",
-   "sha256": "bc5223cc6d39ca3b67f35433db4740408cb009e0333b371a56b9bde42439f9f3",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:i4hPgpFfaO8",
+  "vid": "i4hPgpFfaO8",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--377",
+  "n": 5,
+  "n_src": "plpos",
+  "title": "مقدمة -5- كبرى اليقينيات الكونية | موقع العقيدة من مجموع البنية الإسلامية",
+  "title_src": "yt_titles",
+  "sha256": "bc5223cc6d39ca3b67f35433db4740408cb009e0333b371a56b9bde42439f9f3",
+  "nh": "32bcbf38dfe7fbf7b49f0b7f003b117c9dbc214cf3d4aced3606a56c2f77a19d",
+  "chars": 22095,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/377/005_مقدمة -5- كبرى اليقينيات الكونية ｜ موقع العقيدة من مجموع البنية الإسلامية.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/kobraElya9inyat-005/transcript.txt",
-   "sha256": "36e9e579f13fb6590f2b51198e48a40c236ce9d6ee0d925962978c3cbd0f295b",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/05.txt",
-   "sha256": "36e9e579f13fb6590f2b51198e48a40c236ce9d6ee0d925962978c3cbd0f295b",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/377/005_مقدمة -5- كبرى اليقينيات الكونية ｜ موقع العقيدة من مجموع البنية الإسلامية.txt",
+      "sha256": "bc5223cc6d39ca3b67f35433db4740408cb009e0333b371a56b9bde42439f9f3",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/kobraElya9inyat-005/transcript.txt",
+      "sha256": "36e9e579f13fb6590f2b51198e48a40c236ce9d6ee0d925962978c3cbd0f295b",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-yaqiniyyat/05.txt",
+      "sha256": "36e9e579f13fb6590f2b51198e48a40c236ce9d6ee0d925962978c3cbd0f295b",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9988,
+    "spoken_align_pct": 99.88,
+    "audio_span_pct": 99.95,
+    "words": 4068,
+    "aligned": 4053,
+    "interpolated": 5,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 12:25"
   }
- ],
- "variants": [],
- "also_in": []
 }
