@@ -1,49 +1,65 @@
 {
- "v": 1,
- "lid": "yt:a0M54CBocu0",
- "vid": "a0M54CBocu0",
- "sheikh": "ali-mahmoud-alomari",
- "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
- "n": 12,
- "n_src": "trfile",
- "title": "الدَّرس الثَّاني عشر _ القطب الأول_ الدَّعوة الثَّامنة",
- "title_src": "yt_titles",
- "sha256": "88307ce78643a6910a3d2ec9dac2543e18647d7cd0d01bc5de133fa9581619f3",
- "nh": "57a942ecaf7deaf02430cbcaf1e93d95b6bd319d86ac14f5730c5b5efaf3ec2c",
- "chars": 41825,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/alamriIqtisad-012/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/alamriIqtisad-012/transcript.txt",
-   "sha256": "2a5c421ab74eb9fa14dcf68510ab36c23b699a97cd902f7d5dbb7fc7987b2367",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:a0M54CBocu0",
+  "vid": "a0M54CBocu0",
+  "sheikh": "ali-mahmoud-alomari",
+  "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+  "n": 12,
+  "n_src": "trfile",
+  "title": "الدَّرس الثَّاني عشر _ القطب الأول_ الدَّعوة الثَّامنة",
+  "title_src": "yt_titles",
+  "sha256": "88307ce78643a6910a3d2ec9dac2543e18647d7cd0d01bc5de133fa9581619f3",
+  "nh": "57a942ecaf7deaf02430cbcaf1e93d95b6bd319d86ac14f5730c5b5efaf3ec2c",
+  "chars": 41825,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/alamriIqtisad-012/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-12_AlAmri.txt",
-   "sha256": "2a5c421ab74eb9fa14dcf68510ab36c23b699a97cd902f7d5dbb7fc7987b2367",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/alamriIqtisad-012/transcript.txt",
+      "sha256": "2a5c421ab74eb9fa14dcf68510ab36c23b699a97cd902f7d5dbb7fc7987b2367",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-12_AlAmri.txt",
+      "sha256": "2a5c421ab74eb9fa14dcf68510ab36c23b699a97cd902f7d5dbb7fc7987b2367",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alamri-iqtisad/12.txt",
+      "sha256": "2a5c421ab74eb9fa14dcf68510ab36c23b699a97cd902f7d5dbb7fc7987b2367",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "cleaned": {
+    "what": "english_agent_preamble_removed",
+    "removed_chars": 172,
+    "when": "2026-10-14 13:09:27",
+    "archive": "_fix/english-preamble/ali-mahmoud-alomari__alamri-iqtisad__012_a0M54CBocu0.txt.orig"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alamri-iqtisad/12.txt",
-   "sha256": "2a5c421ab74eb9fa14dcf68510ab36c23b699a97cd902f7d5dbb7fc7987b2367",
-   "rel": "identical"
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9983,
+    "spoken_align_pct": 99.83,
+    "audio_span_pct": 100.0,
+    "words": 7773,
+    "aligned": 7755,
+    "interpolated": 13,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 09:55",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": [],
- "cleaned": {
-  "what": "english_agent_preamble_removed",
-  "removed_chars": 172,
-  "when": "2026-10-14 13:09:27",
-  "archive": "_fix/english-preamble/ali-mahmoud-alomari__alamri-iqtisad__012_a0M54CBocu0.txt.orig"
- }
 }

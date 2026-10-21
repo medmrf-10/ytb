@@ -1,43 +1,59 @@
 {
- "v": 1,
- "lid": "yt:j1cPdIEysw0",
- "vid": "j1cPdIEysw0",
- "sheikh": "ali-mahmoud-alomari",
- "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
- "n": 8,
- "n_src": "trfile",
- "title": "الدَّرس الثَّامن الاقتصاد في الاعتقاد_القطب الأول_ تتمة الدَّعوى الأولى و الدعوة الثانيَّة والثالثة",
- "title_src": "yt_titles",
- "sha256": "1f8f6f5ecb867ace33f66c8ecf5add0c0a5b7ffb470b7728ab88e838c28cc4d8",
- "nh": "0cf0e6ad4a9f0a420f041a0f92e065af65655cc4811edaaa5724ee581e32786d",
- "chars": 32083,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/alamriIqtisad-008/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/alamriIqtisad-008/transcript.txt",
-   "sha256": "1f8f6f5ecb867ace33f66c8ecf5add0c0a5b7ffb470b7728ab88e838c28cc4d8",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:j1cPdIEysw0",
+  "vid": "j1cPdIEysw0",
+  "sheikh": "ali-mahmoud-alomari",
+  "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+  "n": 8,
+  "n_src": "trfile",
+  "title": "الدَّرس الثَّامن الاقتصاد في الاعتقاد_القطب الأول_ تتمة الدَّعوى الأولى و الدعوة الثانيَّة والثالثة",
+  "title_src": "yt_titles",
+  "sha256": "1f8f6f5ecb867ace33f66c8ecf5add0c0a5b7ffb470b7728ab88e838c28cc4d8",
+  "nh": "0cf0e6ad4a9f0a420f041a0f92e065af65655cc4811edaaa5724ee581e32786d",
+  "chars": 32083,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/alamriIqtisad-008/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-08_AlAmri.txt",
-   "sha256": "1f8f6f5ecb867ace33f66c8ecf5add0c0a5b7ffb470b7728ab88e838c28cc4d8",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alamri-iqtisad/08.txt",
-   "sha256": "1f8f6f5ecb867ace33f66c8ecf5add0c0a5b7ffb470b7728ab88e838c28cc4d8",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/alamriIqtisad-008/transcript.txt",
+      "sha256": "1f8f6f5ecb867ace33f66c8ecf5add0c0a5b7ffb470b7728ab88e838c28cc4d8",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-08_AlAmri.txt",
+      "sha256": "1f8f6f5ecb867ace33f66c8ecf5add0c0a5b7ffb470b7728ab88e838c28cc4d8",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alamri-iqtisad/08.txt",
+      "sha256": "1f8f6f5ecb867ace33f66c8ecf5add0c0a5b7ffb470b7728ab88e838c28cc4d8",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.999,
+    "spoken_align_pct": 99.9,
+    "audio_span_pct": 99.99,
+    "words": 6043,
+    "aligned": 5973,
+    "interpolated": 6,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 09:51",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

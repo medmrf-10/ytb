@@ -1,43 +1,59 @@
 {
- "v": 1,
- "lid": "yt:sPr0rT35tV8",
- "vid": "sPr0rT35tV8",
- "sheikh": "ali-mahmoud-alomari",
- "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
- "n": 15,
- "n_src": "trfile",
- "title": "الدَّرس الخامس عشر_ القطب الثَّاني _ إثبات صفة القدرة وبيان عموم تعلّقها",
- "title_src": "yt_titles",
- "sha256": "fe31f89a3a87539522306a2794d29ebe2db315bf12ee87f6bb5130a260f7ba1c",
- "nh": "ab91d4339cff3baeaf4ae3e08606a870a2c2c30bba88b1d45a50ce368efd56de",
- "chars": 32944,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/alamriIqtisad-015/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/alamriIqtisad-015/transcript.txt",
-   "sha256": "fe31f89a3a87539522306a2794d29ebe2db315bf12ee87f6bb5130a260f7ba1c",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:sPr0rT35tV8",
+  "vid": "sPr0rT35tV8",
+  "sheikh": "ali-mahmoud-alomari",
+  "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+  "n": 15,
+  "n_src": "trfile",
+  "title": "الدَّرس الخامس عشر_ القطب الثَّاني _ إثبات صفة القدرة وبيان عموم تعلّقها",
+  "title_src": "yt_titles",
+  "sha256": "fe31f89a3a87539522306a2794d29ebe2db315bf12ee87f6bb5130a260f7ba1c",
+  "nh": "ab91d4339cff3baeaf4ae3e08606a870a2c2c30bba88b1d45a50ce368efd56de",
+  "chars": 32944,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/alamriIqtisad-015/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-15_AlAmri.txt",
-   "sha256": "fe31f89a3a87539522306a2794d29ebe2db315bf12ee87f6bb5130a260f7ba1c",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alamri-iqtisad/15.txt",
-   "sha256": "fe31f89a3a87539522306a2794d29ebe2db315bf12ee87f6bb5130a260f7ba1c",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/alamriIqtisad-015/transcript.txt",
+      "sha256": "fe31f89a3a87539522306a2794d29ebe2db315bf12ee87f6bb5130a260f7ba1c",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-15_AlAmri.txt",
+      "sha256": "fe31f89a3a87539522306a2794d29ebe2db315bf12ee87f6bb5130a260f7ba1c",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alamri-iqtisad/15.txt",
+      "sha256": "fe31f89a3a87539522306a2794d29ebe2db315bf12ee87f6bb5130a260f7ba1c",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9989,
+    "spoken_align_pct": 99.89,
+    "audio_span_pct": 99.93,
+    "words": 6187,
+    "aligned": 6132,
+    "interpolated": 7,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 09:59",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
