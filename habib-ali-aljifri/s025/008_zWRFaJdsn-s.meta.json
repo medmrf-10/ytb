@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:zWRFaJdsn-s",
- "vid": "zWRFaJdsn-s",
- "sheikh": "habib-ali-aljifri",
- "row_id": "habib-ali-aljifri--99",
- "n": 5,
- "n_src": "read",
- "title": "حلقة 4： فروع الشجاعة - الصبر والحلم 1 ｜ #الشجرة الطيبة ｜ #الحبيب علي الجفري",
- "title_src": "filename",
- "sha256": "9c20eec9e501c467eba163f46c420fd94cae06ee02636340622dd5ac7d25e59a",
- "nh": "c358580476e87be24cebfe6d0ee4a3113ae11fd0e6c3a8d8d8c5d41e32799ddf",
- "chars": 28257,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/99/005_حلقة 4： فروع الشجاعة - الصبر والحلم 1 ｜ #الشجرة_الطيبة ｜ #الحبيب_علي_الجفري.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/99/005_حلقة 4： فروع الشجاعة - الصبر والحلم 1 ｜ #الشجرة_الطيبة ｜ #الحبيب_علي_الجفري.txt",
-   "sha256": "9c20eec9e501c467eba163f46c420fd94cae06ee02636340622dd5ac7d25e59a",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:zWRFaJdsn-s",
+  "vid": "zWRFaJdsn-s",
+  "sheikh": "habib-ali-aljifri",
+  "row_id": "habib-ali-aljifri--99",
+  "n": 5,
+  "n_src": "read",
+  "title": "حلقة 4： فروع الشجاعة - الصبر والحلم 1 ｜ #الشجرة الطيبة ｜ #الحبيب علي الجفري",
+  "title_src": "filename",
+  "sha256": "9c20eec9e501c467eba163f46c420fd94cae06ee02636340622dd5ac7d25e59a",
+  "nh": "c358580476e87be24cebfe6d0ee4a3113ae11fd0e6c3a8d8d8c5d41e32799ddf",
+  "chars": 28257,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/99/005_حلقة 4： فروع الشجاعة - الصبر والحلم 1 ｜ #الشجرة_الطيبة ｜ #الحبيب_علي_الجفري.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
+  },
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/99/005_حلقة 4： فروع الشجاعة - الصبر والحلم 1 ｜ #الشجرة_الطيبة ｜ #الحبيب_علي_الجفري.txt",
+      "sha256": "9c20eec9e501c467eba163f46c420fd94cae06ee02636340622dd5ac7d25e59a",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9845,
+    "spoken_align_pct": 98.45,
+    "audio_span_pct": 97.74,
+    "words": 5371,
+    "aligned": 5288,
+    "interpolated": 83,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 08:37"
   }
- ],
- "variants": [],
- "also_in": []
 }
