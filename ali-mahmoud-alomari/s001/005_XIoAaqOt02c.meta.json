@@ -1,43 +1,59 @@
 {
- "v": 1,
- "lid": "yt:XIoAaqOt02c",
- "vid": "XIoAaqOt02c",
- "sheikh": "ali-mahmoud-alomari",
- "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
- "n": 5,
- "n_src": "trfile",
- "title": "الدرس الخامس شرح كتاب الاقتصاد في الاعتقاد لحجَّة الإسلام الإمام الغزالي رحمه الله تعالى",
- "title_src": "yt_titles",
- "sha256": "53c1cfe4feaad76388b55d20fe6d18c43c28a4a4cfc1f5a61b0c583ec296163b",
- "nh": "416abf1c9437e73d565628a2aef5820fa255804659463bf7779110d4e1d59dcc",
- "chars": 43794,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/alamriIqtisad-005/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/alamriIqtisad-005/transcript.txt",
-   "sha256": "53c1cfe4feaad76388b55d20fe6d18c43c28a4a4cfc1f5a61b0c583ec296163b",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:XIoAaqOt02c",
+  "vid": "XIoAaqOt02c",
+  "sheikh": "ali-mahmoud-alomari",
+  "row_id": "ali-mahmoud-alomari--alamri-iqtisad",
+  "n": 5,
+  "n_src": "trfile",
+  "title": "الدرس الخامس شرح كتاب الاقتصاد في الاعتقاد لحجَّة الإسلام الإمام الغزالي رحمه الله تعالى",
+  "title_src": "yt_titles",
+  "sha256": "53c1cfe4feaad76388b55d20fe6d18c43c28a4a4cfc1f5a61b0c583ec296163b",
+  "nh": "416abf1c9437e73d565628a2aef5820fa255804659463bf7779110d4e1d59dcc",
+  "chars": 43794,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/alamriIqtisad-005/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-05_AlAmri.txt",
-   "sha256": "53c1cfe4feaad76388b55d20fe6d18c43c28a4a4cfc1f5a61b0c583ec296163b",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alamri-iqtisad/05.txt",
-   "sha256": "53c1cfe4feaad76388b55d20fe6d18c43c28a4a4cfc1f5a61b0c583ec296163b",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/alamriIqtisad-005/transcript.txt",
+      "sha256": "53c1cfe4feaad76388b55d20fe6d18c43c28a4a4cfc1f5a61b0c583ec296163b",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alamri/iqtisad/iqtisad-05_AlAmri.txt",
+      "sha256": "53c1cfe4feaad76388b55d20fe6d18c43c28a4a4cfc1f5a61b0c583ec296163b",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alamri-iqtisad/05.txt",
+      "sha256": "53c1cfe4feaad76388b55d20fe6d18c43c28a4a4cfc1f5a61b0c583ec296163b",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.999,
+    "spoken_align_pct": 99.9,
+    "audio_span_pct": 99.99,
+    "words": 8373,
+    "aligned": 8253,
+    "interpolated": 8,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 09:47",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

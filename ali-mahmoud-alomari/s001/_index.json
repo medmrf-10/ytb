@@ -1,14 +1,14 @@
 {
-  "aligned": 1,
-  "aligned_ratio": 0.0217,
+  "aligned": 8,
+  "aligned_ratio": 0.1739,
   "category": "العقيدة وعلم الكلام",
   "coverage": 1.0,
   "declared_total": 46,
   "key": "s001",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 42346,
       "dur": 4653,
       "file": "001_dkMHU47cQzE.txt",
@@ -18,9 +18,9 @@
       "vid": "dkMHU47cQzE"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 50028,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 49889,
       "dur": 5186,
       "file": "002_L6-IQ9oKXGA.txt",
       "n": 2,
@@ -40,10 +40,10 @@
       "vid": "2FJOKsIXVRE"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 28561,
-      "dur": 3305,
+      "dur": 3304,
       "file": "004_OsVMKRtOYaA.txt",
       "n": 4,
       "stem": "004_OsVMKRtOYaA",
@@ -51,9 +51,9 @@
       "vid": "OsVMKRtOYaA"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 43794,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 43582,
       "dur": 4940,
       "file": "005_XIoAaqOt02c.txt",
       "n": 5,
@@ -62,9 +62,9 @@
       "vid": "XIoAaqOt02c"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 35955,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 35815,
       "dur": 3946,
       "file": "006_0sC8HT0K1lg.txt",
       "n": 6,
@@ -73,8 +73,8 @@
       "vid": "0sC8HT0K1lg"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 42177,
       "dur": 4777,
       "file": "007_p2TneMO3LcQ.txt",
@@ -95,9 +95,9 @@
       "vid": "j1cPdIEysw0"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 19310,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 19286,
       "dur": 2126,
       "file": "009_zq4D8Pp84JU.txt",
       "n": 9,
