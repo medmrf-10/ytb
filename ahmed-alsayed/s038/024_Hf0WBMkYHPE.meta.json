@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:Hf0WBMkYHPE",
- "vid": "Hf0WBMkYHPE",
- "sheikh": "ahmed-alsayed",
- "row_id": "ahmed-alsayed--661",
- "n": 25,
- "n_src": "mutfile",
- "title": "خير القرون 24 ｜ بين الخلافة والملك ｜ أحمد السيد",
- "title_src": "filename",
- "sha256": "076dc7a00cd6ffb48ae6dbdf66201699612a39fad9d14005c695a8df07c03ea5",
- "nh": "6eabd12d2dd4bb35c8e2052bbc567c9b398090920793e74c26af545a70b9f699",
- "chars": 29870,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/661/025_خير القرون 24 ｜ بين الخلافة والملك ｜ أحمد السيد.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/661/025_خير القرون 24 ｜ بين الخلافة والملك ｜ أحمد السيد.txt",
-   "sha256": "076dc7a00cd6ffb48ae6dbdf66201699612a39fad9d14005c695a8df07c03ea5",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:Hf0WBMkYHPE",
+  "vid": "Hf0WBMkYHPE",
+  "sheikh": "ahmed-alsayed",
+  "row_id": "ahmed-alsayed--661",
+  "n": 25,
+  "n_src": "mutfile",
+  "title": "خير القرون 24 ｜ بين الخلافة والملك ｜ أحمد السيد",
+  "title_src": "filename",
+  "sha256": "076dc7a00cd6ffb48ae6dbdf66201699612a39fad9d14005c695a8df07c03ea5",
+  "nh": "6eabd12d2dd4bb35c8e2052bbc567c9b398090920793e74c26af545a70b9f699",
+  "chars": 29870,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/661/025_خير القرون 24 ｜ بين الخلافة والملك ｜ أحمد السيد.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alsayed-mut-661/025.txt",
-   "sha256": "84c917c5e7b1361cbaf49ae7e5f5ff9b6706164e3aebf1f52d05570c3621ec27",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/661/025_خير القرون 24 ｜ بين الخلافة والملك ｜ أحمد السيد.txt",
+      "sha256": "076dc7a00cd6ffb48ae6dbdf66201699612a39fad9d14005c695a8df07c03ea5",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alsayed-mut-661/025.txt",
+      "sha256": "84c917c5e7b1361cbaf49ae7e5f5ff9b6706164e3aebf1f52d05570c3621ec27",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9975,
+    "spoken_align_pct": 99.75,
+    "audio_span_pct": 99.66,
+    "words": 5703,
+    "aligned": 5689,
+    "interpolated": 14,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-21 08:17"
   }
- ],
- "variants": [],
- "also_in": []
 }
