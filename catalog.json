@@ -5733,7 +5733,7 @@
           "category": "التزكية والأخلاق",
           "coverage": 0.0,
           "coverage_pct": "0.0%",
-          "declared_total": 22,
+          "declared_total": 27,
           "dir": "s001/",
           "dur": 0,
           "key": "s001",
@@ -5751,7 +5751,7 @@
       "name": "khutab",
       "path": "khutab/",
       "photo": "",
-      "series": 3,
+      "series": 5,
       "series_list": [
         {
           "aligned": 0,
@@ -5765,6 +5765,20 @@
           "key": "bouti",
           "series_id": "khutab__bouti",
           "title": "bouti",
+          "transcribed": 0
+        },
+        {
+          "aligned": 0,
+          "aligned_pct": "0.0%",
+          "category": "",
+          "coverage": 1.0,
+          "coverage_pct": "100.0%",
+          "declared_total": 0,
+          "dir": "jifri/",
+          "dur": 0,
+          "key": "jifri",
+          "series_id": "khutab__jifri",
+          "title": "jifri",
           "transcribed": 0
         },
         {
@@ -5794,6 +5808,20 @@
           "series_id": "khutab__sariri",
           "title": "sariri",
           "transcribed": 0
+        },
+        {
+          "aligned": 0,
+          "aligned_pct": "0.0%",
+          "category": "",
+          "coverage": 1.0,
+          "coverage_pct": "100.0%",
+          "declared_total": 0,
+          "dir": "sayed/",
+          "dur": 0,
+          "key": "sayed",
+          "series_id": "khutab__sayed",
+          "title": "sayed",
+          "transcribed": 0
         }
       ],
       "slug": "khutab"
@@ -5803,7 +5831,7 @@
     "aligned": 3505,
     "chars": 157897295,
     "lessons": 6712,
-    "series": 391,
+    "series": 393,
     "sheikhs": 27
   },
   "v": 2
