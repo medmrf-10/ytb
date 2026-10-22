@@ -5722,11 +5722,51 @@
       "aligned": 0,
       "chars": 0,
       "lessons": 0,
+      "name": "الشيخة جميلة الشيخ أحمد",
+      "path": "jamila-sheikh-ahmad/",
+      "photo": "",
+      "series": 1,
+      "series_list": [
+        {
+          "aligned": 0,
+          "aligned_pct": "0.0%",
+          "category": "التزكية والأخلاق",
+          "coverage": 0.0,
+          "coverage_pct": "0.0%",
+          "declared_total": 22,
+          "dir": "s001/",
+          "dur": 0,
+          "key": "s001",
+          "series_id": "jamila__s001",
+          "title": "مطهرة القلوب",
+          "transcribed": 0
+        }
+      ],
+      "slug": "jamila-sheikh-ahmad"
+    },
+    {
+      "aligned": 0,
+      "chars": 0,
+      "lessons": 0,
       "name": "khutab",
       "path": "khutab/",
       "photo": "",
-      "series": 2,
+      "series": 3,
       "series_list": [
+        {
+          "aligned": 0,
+          "aligned_pct": "0.0%",
+          "category": "",
+          "coverage": 1.0,
+          "coverage_pct": "100.0%",
+          "declared_total": 0,
+          "dir": "bouti/",
+          "dur": 0,
+          "key": "bouti",
+          "series_id": "khutab__bouti",
+          "title": "bouti",
+          "transcribed": 0
+        },
         {
           "aligned": 0,
           "aligned_pct": "0.0%",
@@ -5763,8 +5803,8 @@
     "aligned": 3505,
     "chars": 157897295,
     "lessons": 6712,
-    "series": 389,
-    "sheikhs": 26
+    "series": 391,
+    "sheikhs": 27
   },
   "v": 2
 }

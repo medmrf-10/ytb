@@ -41,6 +41,7 @@ SHEIKH_NAMES_AR = {
     "ahmed-abdelmonem": "أحمد عبد المنعم",
     "hatem-alaouni": "حاتم العوني",
     "bensaib": "بن صايب",
+    "jamila-sheikh-ahmad": "الشيخة جميلة الشيخ أحمد",
     "unattributed": "دروس غير منسوبة",
 }
 
