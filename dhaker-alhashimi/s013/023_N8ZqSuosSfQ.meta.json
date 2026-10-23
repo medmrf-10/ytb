@@ -1,31 +1,47 @@
 {
- "v": 1,
- "lid": "yt:N8ZqSuosSfQ",
- "vid": "N8ZqSuosSfQ",
- "sheikh": "dhaker-alhashimi",
- "row_id": "dhaker-alhashimi--hashimi-zawaj",
- "n": 22,
- "n_src": "read",
- "title": "ألف باء الزواج 21 | إجابة أسئلة مجالس المقدّمات  09 | خُلاصات إجابات الأسئلة",
- "title_src": "yt_titles",
- "sha256": "0da5a99fa7ffb5b0161c08d2602244106b0d8ffa9688ea6a2d5605c97d0741f6",
- "nh": "f305fc002059a1ea32671f1fcbbf548a6788106748ee52d37cf3eaee7e364b59",
- "chars": 54875,
- "quality": "ok",
- "winner": {
-  "store": "hw-ls",
-  "path": "hawshat/playlists/lessons/hashimi-zawaj/022.txt",
-  "commit_ts": 1791587745,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/hashimi-zawaj/022.txt",
-   "sha256": "0da5a99fa7ffb5b0161c08d2602244106b0d8ffa9688ea6a2d5605c97d0741f6",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:N8ZqSuosSfQ",
+  "vid": "N8ZqSuosSfQ",
+  "sheikh": "dhaker-alhashimi",
+  "row_id": "dhaker-alhashimi--hashimi-zawaj",
+  "n": 22,
+  "n_src": "read",
+  "title": "ألف باء الزواج 21 | إجابة أسئلة مجالس المقدّمات  09 | خُلاصات إجابات الأسئلة",
+  "title_src": "yt_titles",
+  "sha256": "0da5a99fa7ffb5b0161c08d2602244106b0d8ffa9688ea6a2d5605c97d0741f6",
+  "nh": "f305fc002059a1ea32671f1fcbbf548a6788106748ee52d37cf3eaee7e364b59",
+  "chars": 54875,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-ls",
+    "path": "hawshat/playlists/lessons/hashimi-zawaj/022.txt",
+    "commit_ts": 1791587745,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/hashimi-zawaj/022.txt",
+      "sha256": "0da5a99fa7ffb5b0161c08d2602244106b0d8ffa9688ea6a2d5605c97d0741f6",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9992,
+    "spoken_align_pct": 99.92,
+    "audio_span_pct": 99.89,
+    "words": 10405,
+    "aligned": 10396,
+    "interpolated": 8,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 17:57",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
