@@ -1,37 +1,53 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:6",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 6,
- "n_src": "read",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 119( قوله ＂والمطلقة قبل البناء لها نصف الصداق＂ ) ｜",
- "title_src": "filename",
- "sha256": "030cb5e723e792dc085d7f8f86286389fabb772882c87f45f0fe651835fde816",
- "nh": "b79432f37dad8de5af73301c9d4c893cef437552a2134cecc3b06be77264fc27",
- "chars": 17536,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1003/006_شرح رسالة ابن ابي زيد ｜ الدرس 119( قوله ＂والمطلقة قبل البناء لها نصف الصداق＂ ) ｜.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1003/006_شرح رسالة ابن ابي زيد ｜ الدرس 119( قوله ＂والمطلقة قبل البناء لها نصف الصداق＂ ) ｜.txt",
-   "sha256": "030cb5e723e792dc085d7f8f86286389fabb772882c87f45f0fe651835fde816",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:6",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 6,
+  "n_src": "read",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 119( قوله ＂والمطلقة قبل البناء لها نصف الصداق＂ ) ｜",
+  "title_src": "filename",
+  "sha256": "030cb5e723e792dc085d7f8f86286389fabb772882c87f45f0fe651835fde816",
+  "nh": "b79432f37dad8de5af73301c9d4c893cef437552a2134cecc3b06be77264fc27",
+  "chars": 17536,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1003/006_شرح رسالة ابن ابي زيد ｜ الدرس 119( قوله ＂والمطلقة قبل البناء لها نصف الصداق＂ ) ｜.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1003/120.txt",
-   "sha256": "030cb5e723e792dc085d7f8f86286389fabb772882c87f45f0fe651835fde816",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1003/006_شرح رسالة ابن ابي زيد ｜ الدرس 119( قوله ＂والمطلقة قبل البناء لها نصف الصداق＂ ) ｜.txt",
+      "sha256": "030cb5e723e792dc085d7f8f86286389fabb772882c87f45f0fe651835fde816",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1003/120.txt",
+      "sha256": "030cb5e723e792dc085d7f8f86286389fabb772882c87f45f0fe651835fde816",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9925,
+    "spoken_align_pct": 99.25,
+    "audio_span_pct": 99.82,
+    "words": 3711,
+    "aligned": 3683,
+    "interpolated": 28,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 20:05",
+    "stripped_reasons": [
+      "METADATA_HEADER"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

@@ -1,37 +1,54 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:20",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 20,
- "n_src": "read",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 105 ( باب في الأيمان و النذور ) ｜ الشيخ محمد البر",
- "title_src": "filename",
- "sha256": "53343b3cbcc289a3e37a67140b195861cd7a9936ee0fd715201d6a1a3aee92a1",
- "nh": "1b5cd5dcfd1cedaacc7fd41cfe571a1225f2ece9950bd17fede10beb99fe1a79",
- "chars": 12187,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1003/020_شرح رسالة ابن ابي زيد ｜ الدرس 105 ( باب في الأيمان و النذور  ) ｜ الشيخ محمد البر.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1003/020_شرح رسالة ابن ابي زيد ｜ الدرس 105 ( باب في الأيمان و النذور  ) ｜ الشيخ محمد البر.txt",
-   "sha256": "53343b3cbcc289a3e37a67140b195861cd7a9936ee0fd715201d6a1a3aee92a1",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:20",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 20,
+  "n_src": "read",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 105 ( باب في الأيمان و النذور ) ｜ الشيخ محمد البر",
+  "title_src": "filename",
+  "sha256": "53343b3cbcc289a3e37a67140b195861cd7a9936ee0fd715201d6a1a3aee92a1",
+  "nh": "1b5cd5dcfd1cedaacc7fd41cfe571a1225f2ece9950bd17fede10beb99fe1a79",
+  "chars": 12187,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1003/020_شرح رسالة ابن ابي زيد ｜ الدرس 105 ( باب في الأيمان و النذور  ) ｜ الشيخ محمد البر.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1003/106.txt",
-   "sha256": "53343b3cbcc289a3e37a67140b195861cd7a9936ee0fd715201d6a1a3aee92a1",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1003/020_شرح رسالة ابن ابي زيد ｜ الدرس 105 ( باب في الأيمان و النذور  ) ｜ الشيخ محمد البر.txt",
+      "sha256": "53343b3cbcc289a3e37a67140b195861cd7a9936ee0fd715201d6a1a3aee92a1",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1003/106.txt",
+      "sha256": "53343b3cbcc289a3e37a67140b195861cd7a9936ee0fd715201d6a1a3aee92a1",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9866,
+    "spoken_align_pct": 98.66,
+    "audio_span_pct": 99.57,
+    "words": 4175,
+    "aligned": 4119,
+    "interpolated": 56,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 20:03",
+    "stripped_reasons": [
+      "METADATA_HEADER",
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

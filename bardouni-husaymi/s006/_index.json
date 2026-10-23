@@ -1,6 +1,6 @@
 {
-  "aligned": 22,
-  "aligned_ratio": 0.1705,
+  "aligned": 29,
+  "aligned_ratio": 0.2248,
   "category": "الفقه المالكي وقواعده",
   "coverage": 1.0,
   "declared_total": 129,
@@ -40,8 +40,8 @@
       "vid": "H8Lupt8ep7A"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 33476,
       "dur": 4760,
       "file": "004_Rg_h--0b5g8.txt",
@@ -51,8 +51,8 @@
       "vid": "Rg_h--0b5g8"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 26137,
       "dur": 3460,
       "file": "005_CiwYNrCrrh8.txt",
@@ -73,8 +73,8 @@
       "vid": "7VKA7JgQYxo"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 23369,
       "dur": 3213,
       "file": "007_wgyxJjxU8eM.txt",
@@ -106,10 +106,10 @@
       "vid": "t8GH93j3GTE"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 21498,
-      "dur": 2894,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 21406,
+      "dur": 2893,
       "file": "010_VhuRlgrdJW0.txt",
       "n": 10,
       "stem": "010_VhuRlgrdJW0",
@@ -117,10 +117,10 @@
       "vid": "VhuRlgrdJW0"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 18945,
-      "dur": 3571,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 18936,
+      "dur": 3570,
       "file": "011_2IxnyAZweMw.txt",
       "n": 11,
       "stem": "011_2IxnyAZweMw",
@@ -128,10 +128,10 @@
       "vid": "2IxnyAZweMw"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 13264,
-      "dur": 2270,
+      "dur": 2269,
       "file": "012_AxCJCdjS3i4.txt",
       "n": 12,
       "stem": "012_AxCJCdjS3i4",
@@ -139,8 +139,8 @@
       "vid": "AxCJCdjS3i4"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 14585,
       "dur": 2003,
       "file": "013_KuGAVyoXaNY.txt",
