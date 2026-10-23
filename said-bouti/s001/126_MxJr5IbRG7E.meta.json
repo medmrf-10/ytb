@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:MxJr5IbRG7E",
- "vid": "MxJr5IbRG7E",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--bouti-414",
- "n": 126,
- "n_src": "read",
- "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 126",
- "title_src": "filename",
- "sha256": "80998564c65f0e480c78ae17c2661f7d6d54673c6920c5ab05ac1c1d7e41cc31",
- "nh": "143f50474b6f22e567352c6a435040f89f5db13f240d78f30a6ac59229e814e1",
- "chars": 17658,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/bouti/tafsir/126_تفسير القرآن الكريم للدكتور البوطي - الدرس 126.txt",
-  "commit_ts": 1791841975,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/tafsir/126_تفسير القرآن الكريم للدكتور البوطي - الدرس 126.txt",
-   "sha256": "80998564c65f0e480c78ae17c2661f7d6d54673c6920c5ab05ac1c1d7e41cc31",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:MxJr5IbRG7E",
+  "vid": "MxJr5IbRG7E",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--bouti-414",
+  "n": 126,
+  "n_src": "read",
+  "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 126",
+  "title_src": "filename",
+  "sha256": "80998564c65f0e480c78ae17c2661f7d6d54673c6920c5ab05ac1c1d7e41cc31",
+  "nh": "143f50474b6f22e567352c6a435040f89f5db13f240d78f30a6ac59229e814e1",
+  "chars": 17658,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/bouti/tafsir/126_تفسير القرآن الكريم للدكتور البوطي - الدرس 126.txt",
+    "commit_ts": 1791841975,
+    "head": "8a8b281"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-414/126.txt",
-   "sha256": "a98fb2a26fa49539c50bf9bd2397f26f795d05c5cdd4a6972c89b4962a477a21",
-   "rel": "same-body"
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/tafsir/126_تفسير القرآن الكريم للدكتور البوطي - الدرس 126.txt",
+      "sha256": "80998564c65f0e480c78ae17c2661f7d6d54673c6920c5ab05ac1c1d7e41cc31",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-414/126.txt",
+      "sha256": "a98fb2a26fa49539c50bf9bd2397f26f795d05c5cdd4a6972c89b4962a477a21",
+      "rel": "same-body"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9991,
+    "spoken_align_pct": 99.91,
+    "audio_span_pct": 99.99,
+    "words": 3380,
+    "aligned": 3377,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 23:41"
   }
- ],
- "variants": [],
- "also_in": []
 }
