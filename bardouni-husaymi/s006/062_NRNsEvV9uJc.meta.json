@@ -1,37 +1,53 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:64",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 64,
- "n_src": "read",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 62 ( قوله ＂ من أفطر في تطوعه متعمدا٫٫＂ ) ｜ الشيخ",
- "title_src": "filename",
- "sha256": "7b2a17459ea31e6a0eb46f8af44bb070c06679b39d5d003703c30ab2245c6001",
- "nh": "6094d7269177fb1bc1e818ac712b0a69921ebb68cb55e6e951944cbce288e115",
- "chars": 16285,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1003/064_شرح رسالة ابن ابي زيد ｜ الدرس 62 (  قوله ＂ من أفطر في تطوعه متعمدا٫٫＂  ) ｜ الشيخ.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1003/064_شرح رسالة ابن ابي زيد ｜ الدرس 62 (  قوله ＂ من أفطر في تطوعه متعمدا٫٫＂  ) ｜ الشيخ.txt",
-   "sha256": "7b2a17459ea31e6a0eb46f8af44bb070c06679b39d5d003703c30ab2245c6001",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:64",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 64,
+  "n_src": "read",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 62 ( قوله ＂ من أفطر في تطوعه متعمدا٫٫＂ ) ｜ الشيخ",
+  "title_src": "filename",
+  "sha256": "7b2a17459ea31e6a0eb46f8af44bb070c06679b39d5d003703c30ab2245c6001",
+  "nh": "6094d7269177fb1bc1e818ac712b0a69921ebb68cb55e6e951944cbce288e115",
+  "chars": 16285,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1003/064_شرح رسالة ابن ابي زيد ｜ الدرس 62 (  قوله ＂ من أفطر في تطوعه متعمدا٫٫＂  ) ｜ الشيخ.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1003/62.txt",
-   "sha256": "7b2a17459ea31e6a0eb46f8af44bb070c06679b39d5d003703c30ab2245c6001",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1003/064_شرح رسالة ابن ابي زيد ｜ الدرس 62 (  قوله ＂ من أفطر في تطوعه متعمدا٫٫＂  ) ｜ الشيخ.txt",
+      "sha256": "7b2a17459ea31e6a0eb46f8af44bb070c06679b39d5d003703c30ab2245c6001",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1003/62.txt",
+      "sha256": "7b2a17459ea31e6a0eb46f8af44bb070c06679b39d5d003703c30ab2245c6001",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9978,
+    "spoken_align_pct": 99.78,
+    "audio_span_pct": 100.0,
+    "words": 3167,
+    "aligned": 3160,
+    "interpolated": 7,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 20:46",
+    "stripped_reasons": [
+      "METADATA_HEADER"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

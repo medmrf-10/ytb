@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:61",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 61,
- "n_src": "read",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 65 ( قوله ＂ و لا يقرب الصائم النساء ＂ ) ｜ الشيخ",
- "title_src": "filename",
- "sha256": "5ab9a14107e90a52ebae7eba3cfeb734660e379c85d34118a8930880e4287df0",
- "nh": "d41ef7ff277de6106a41882821f72a08b055b6dffe29c738f2a775dc49952b3f",
- "chars": 17999,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1003/061_شرح رسالة ابن ابي زيد ｜ الدرس 65 (  قوله ＂ و لا يقرب الصائم النساء ＂  ) ｜ الشيخ .txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1003/061_شرح رسالة ابن ابي زيد ｜ الدرس 65 (  قوله ＂ و لا يقرب الصائم النساء ＂  ) ｜ الشيخ .txt",
-   "sha256": "5ab9a14107e90a52ebae7eba3cfeb734660e379c85d34118a8930880e4287df0",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:61",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 61,
+  "n_src": "read",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 65 ( قوله ＂ و لا يقرب الصائم النساء ＂ ) ｜ الشيخ",
+  "title_src": "filename",
+  "sha256": "5ab9a14107e90a52ebae7eba3cfeb734660e379c85d34118a8930880e4287df0",
+  "nh": "d41ef7ff277de6106a41882821f72a08b055b6dffe29c738f2a775dc49952b3f",
+  "chars": 17999,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1003/061_شرح رسالة ابن ابي زيد ｜ الدرس 65 (  قوله ＂ و لا يقرب الصائم النساء ＂  ) ｜ الشيخ .txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1003/65.txt",
-   "sha256": "5ab9a14107e90a52ebae7eba3cfeb734660e379c85d34118a8930880e4287df0",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1003/061_شرح رسالة ابن ابي زيد ｜ الدرس 65 (  قوله ＂ و لا يقرب الصائم النساء ＂  ) ｜ الشيخ .txt",
+      "sha256": "5ab9a14107e90a52ebae7eba3cfeb734660e379c85d34118a8930880e4287df0",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1003/65.txt",
+      "sha256": "5ab9a14107e90a52ebae7eba3cfeb734660e379c85d34118a8930880e4287df0",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9977,
+    "spoken_align_pct": 99.77,
+    "audio_span_pct": 99.98,
+    "words": 3518,
+    "aligned": 3510,
+    "interpolated": 8,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 20:49"
   }
- ],
- "variants": [],
- "also_in": []
 }

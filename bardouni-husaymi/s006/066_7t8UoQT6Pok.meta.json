@@ -1,37 +1,54 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:60",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 60,
- "n_src": "read",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 66 ( باب في الاعتكاف ) ｜ الشيخ البردوني",
- "title_src": "filename",
- "sha256": "354a734e8b87d410e8ba420f80109e3fca4d9742023a303d888fe01642e37325",
- "nh": "4ad69590a9ecd2e141eab022249c84f7234cae5458bdb7c0a0ecc6c974d6e745",
- "chars": 18217,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1003/060_شرح رسالة ابن ابي زيد ｜ الدرس 66 (   باب في الاعتكاف   ) ｜ الشيخ البردوني.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1003/060_شرح رسالة ابن ابي زيد ｜ الدرس 66 (   باب في الاعتكاف   ) ｜ الشيخ البردوني.txt",
-   "sha256": "354a734e8b87d410e8ba420f80109e3fca4d9742023a303d888fe01642e37325",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:60",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 60,
+  "n_src": "read",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 66 ( باب في الاعتكاف ) ｜ الشيخ البردوني",
+  "title_src": "filename",
+  "sha256": "354a734e8b87d410e8ba420f80109e3fca4d9742023a303d888fe01642e37325",
+  "nh": "4ad69590a9ecd2e141eab022249c84f7234cae5458bdb7c0a0ecc6c974d6e745",
+  "chars": 18217,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1003/060_شرح رسالة ابن ابي زيد ｜ الدرس 66 (   باب في الاعتكاف   ) ｜ الشيخ البردوني.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1003/66.txt",
-   "sha256": "354a734e8b87d410e8ba420f80109e3fca4d9742023a303d888fe01642e37325",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1003/060_شرح رسالة ابن ابي زيد ｜ الدرس 66 (   باب في الاعتكاف   ) ｜ الشيخ البردوني.txt",
+      "sha256": "354a734e8b87d410e8ba420f80109e3fca4d9742023a303d888fe01642e37325",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1003/66.txt",
+      "sha256": "354a734e8b87d410e8ba420f80109e3fca4d9742023a303d888fe01642e37325",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9994,
+    "spoken_align_pct": 99.94,
+    "audio_span_pct": 99.94,
+    "words": 3553,
+    "aligned": 3551,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 20:50",
+    "stripped_reasons": [
+      "METADATA_HEADER",
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

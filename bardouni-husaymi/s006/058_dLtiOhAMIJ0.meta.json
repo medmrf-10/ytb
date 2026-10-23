@@ -1,37 +1,54 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:68",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 68,
- "n_src": "read",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 58 ( قوله ＂ و لا يغسل الشهيد في المعترك ＂ ) ｜ ال",
- "title_src": "filename",
- "sha256": "bab2299dca8fcdef4a76d1b358e46886785b9e69f2a484c2fe3b814082c361f0",
- "nh": "0549611be426f65f179f8c4aacbebde2178bda878cf864e1af692ae1005fd616",
- "chars": 22760,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1003/068_شرح رسالة ابن ابي زيد ｜ الدرس 58 (  قوله ＂ و لا يغسل الشهيد في المعترك ＂  ) ｜ ال.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1003/068_شرح رسالة ابن ابي زيد ｜ الدرس 58 (  قوله ＂ و لا يغسل الشهيد في المعترك ＂  ) ｜ ال.txt",
-   "sha256": "bab2299dca8fcdef4a76d1b358e46886785b9e69f2a484c2fe3b814082c361f0",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:68",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 68,
+  "n_src": "read",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 58 ( قوله ＂ و لا يغسل الشهيد في المعترك ＂ ) ｜ ال",
+  "title_src": "filename",
+  "sha256": "bab2299dca8fcdef4a76d1b358e46886785b9e69f2a484c2fe3b814082c361f0",
+  "nh": "0549611be426f65f179f8c4aacbebde2178bda878cf864e1af692ae1005fd616",
+  "chars": 22760,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1003/068_شرح رسالة ابن ابي زيد ｜ الدرس 58 (  قوله ＂ و لا يغسل الشهيد في المعترك ＂  ) ｜ ال.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1003/58.txt",
-   "sha256": "bab2299dca8fcdef4a76d1b358e46886785b9e69f2a484c2fe3b814082c361f0",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1003/068_شرح رسالة ابن ابي زيد ｜ الدرس 58 (  قوله ＂ و لا يغسل الشهيد في المعترك ＂  ) ｜ ال.txt",
+      "sha256": "bab2299dca8fcdef4a76d1b358e46886785b9e69f2a484c2fe3b814082c361f0",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1003/58.txt",
+      "sha256": "bab2299dca8fcdef4a76d1b358e46886785b9e69f2a484c2fe3b814082c361f0",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9984,
+    "spoken_align_pct": 99.84,
+    "audio_span_pct": 99.98,
+    "words": 4465,
+    "aligned": 4458,
+    "interpolated": 7,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 20:43",
+    "stripped_reasons": [
+      "METADATA_HEADER",
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

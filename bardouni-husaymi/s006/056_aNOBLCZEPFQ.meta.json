@@ -1,37 +1,53 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:70",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 70,
- "n_src": "read",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 56 ( باب في بيان ما يفعل بالمحتضر ) ｜ الشيخ البر",
- "title_src": "filename",
- "sha256": "5862f786df137a81ab0866dbb1e1719cda7222651c6120fa88a0238a9382d17f",
- "nh": "55c9779791208467bda2449cfe1188405ca6389704c1c64fd78c88ea0f231778",
- "chars": 14728,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1003/070_شرح رسالة ابن ابي زيد ｜ الدرس 56 (  باب في بيان ما يفعل بالمحتضر  ) ｜ الشيخ البر.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1003/070_شرح رسالة ابن ابي زيد ｜ الدرس 56 (  باب في بيان ما يفعل بالمحتضر  ) ｜ الشيخ البر.txt",
-   "sha256": "5862f786df137a81ab0866dbb1e1719cda7222651c6120fa88a0238a9382d17f",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:70",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 70,
+  "n_src": "read",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 56 ( باب في بيان ما يفعل بالمحتضر ) ｜ الشيخ البر",
+  "title_src": "filename",
+  "sha256": "5862f786df137a81ab0866dbb1e1719cda7222651c6120fa88a0238a9382d17f",
+  "nh": "55c9779791208467bda2449cfe1188405ca6389704c1c64fd78c88ea0f231778",
+  "chars": 14728,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1003/070_شرح رسالة ابن ابي زيد ｜ الدرس 56 (  باب في بيان ما يفعل بالمحتضر  ) ｜ الشيخ البر.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1003/56.txt",
-   "sha256": "5862f786df137a81ab0866dbb1e1719cda7222651c6120fa88a0238a9382d17f",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1003/070_شرح رسالة ابن ابي زيد ｜ الدرس 56 (  باب في بيان ما يفعل بالمحتضر  ) ｜ الشيخ البر.txt",
+      "sha256": "5862f786df137a81ab0866dbb1e1719cda7222651c6120fa88a0238a9382d17f",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1003/56.txt",
+      "sha256": "5862f786df137a81ab0866dbb1e1719cda7222651c6120fa88a0238a9382d17f",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.999,
+    "spoken_align_pct": 99.9,
+    "audio_span_pct": 99.92,
+    "words": 2918,
+    "aligned": 2915,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 20:42",
+    "stripped_reasons": [
+      "METADATA_HEADER"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
