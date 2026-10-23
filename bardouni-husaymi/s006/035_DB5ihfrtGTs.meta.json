@@ -1,37 +1,53 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:91",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 91,
- "n_src": "read",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 35 ( قوله ＂ ثم إذا فرغت من قراءة القنوت ＂ ) ｜ ا",
- "title_src": "filename",
- "sha256": "e70473cccd7c76a3332dc5a6c8d879247b3d6906146abd96393b1d778ff99b80",
- "nh": "f99b4d2dde4cd2b266fb6a3f30bac1f0c45360667b916243818ec52f5eb95b3b",
- "chars": 22573,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1003/091_شرح رسالة ابن ابي زيد ｜ الدرس 35  ( قوله ＂  ثم إذا فرغت من قراءة القنوت ＂  ) ｜ ا.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1003/091_شرح رسالة ابن ابي زيد ｜ الدرس 35  ( قوله ＂  ثم إذا فرغت من قراءة القنوت ＂  ) ｜ ا.txt",
-   "sha256": "e70473cccd7c76a3332dc5a6c8d879247b3d6906146abd96393b1d778ff99b80",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:91",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 91,
+  "n_src": "read",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 35 ( قوله ＂ ثم إذا فرغت من قراءة القنوت ＂ ) ｜ ا",
+  "title_src": "filename",
+  "sha256": "e70473cccd7c76a3332dc5a6c8d879247b3d6906146abd96393b1d778ff99b80",
+  "nh": "f99b4d2dde4cd2b266fb6a3f30bac1f0c45360667b916243818ec52f5eb95b3b",
+  "chars": 22573,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1003/091_شرح رسالة ابن ابي زيد ｜ الدرس 35  ( قوله ＂  ثم إذا فرغت من قراءة القنوت ＂  ) ｜ ا.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1003/35.txt",
-   "sha256": "e70473cccd7c76a3332dc5a6c8d879247b3d6906146abd96393b1d778ff99b80",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1003/091_شرح رسالة ابن ابي زيد ｜ الدرس 35  ( قوله ＂  ثم إذا فرغت من قراءة القنوت ＂  ) ｜ ا.txt",
+      "sha256": "e70473cccd7c76a3332dc5a6c8d879247b3d6906146abd96393b1d778ff99b80",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1003/35.txt",
+      "sha256": "e70473cccd7c76a3332dc5a6c8d879247b3d6906146abd96393b1d778ff99b80",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9995,
+    "spoken_align_pct": 99.95,
+    "audio_span_pct": 99.85,
+    "words": 4345,
+    "aligned": 4343,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 20:24",
+    "stripped_reasons": [
+      "METADATA_HEADER"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

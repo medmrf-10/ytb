@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:87",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 87,
- "n_src": "read",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 39 ( باب جامع )｜ الشيخ محمد البردوني",
- "title_src": "filename",
- "sha256": "b655502458f13435573d3f5fcd9dfe980e8d0e97f83205e3a5924287d4d416be",
- "nh": "4b6e7835d05919c515706a8cd07d3807499a9db9751132a6593fdfdcd7641dcc",
- "chars": 21848,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1003/087_شرح رسالة ابن ابي زيد ｜ الدرس 39 ( باب جامع )｜ الشيخ  محمد البردوني.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1003/087_شرح رسالة ابن ابي زيد ｜ الدرس 39 ( باب جامع )｜ الشيخ  محمد البردوني.txt",
-   "sha256": "b655502458f13435573d3f5fcd9dfe980e8d0e97f83205e3a5924287d4d416be",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:87",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 87,
+  "n_src": "read",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 39 ( باب جامع )｜ الشيخ محمد البردوني",
+  "title_src": "filename",
+  "sha256": "b655502458f13435573d3f5fcd9dfe980e8d0e97f83205e3a5924287d4d416be",
+  "nh": "4b6e7835d05919c515706a8cd07d3807499a9db9751132a6593fdfdcd7641dcc",
+  "chars": 21848,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1003/087_شرح رسالة ابن ابي زيد ｜ الدرس 39 ( باب جامع )｜ الشيخ  محمد البردوني.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1003/39.txt",
-   "sha256": "b655502458f13435573d3f5fcd9dfe980e8d0e97f83205e3a5924287d4d416be",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1003/087_شرح رسالة ابن ابي زيد ｜ الدرس 39 ( باب جامع )｜ الشيخ  محمد البردوني.txt",
+      "sha256": "b655502458f13435573d3f5fcd9dfe980e8d0e97f83205e3a5924287d4d416be",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1003/39.txt",
+      "sha256": "b655502458f13435573d3f5fcd9dfe980e8d0e97f83205e3a5924287d4d416be",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9969,
+    "spoken_align_pct": 99.69,
+    "audio_span_pct": 100.0,
+    "words": 4137,
+    "aligned": 4124,
+    "interpolated": 13,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 20:28"
   }
- ],
- "variants": [],
- "also_in": []
 }
