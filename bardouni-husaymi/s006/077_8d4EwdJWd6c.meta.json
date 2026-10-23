@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:49",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 49,
- "n_src": "read",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 77 ( قوله＂و كل خليطين فإنهما يترادان بينهما بالسوي",
- "title_src": "filename",
- "sha256": "036f424d59129f1b9993bfb213fe80122c97a3d2d7c0d372445e14f315296e33",
- "nh": "56c76df682429cda1eb07fa0b3332fb35ee0b535b4a29a4514a7e2baf46307b2",
- "chars": 9286,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1003/049_شرح رسالة ابن ابي زيد ｜ الدرس 77 ( قوله＂و كل خليطين فإنهما يترادان بينهما بالسوي.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1003/049_شرح رسالة ابن ابي زيد ｜ الدرس 77 ( قوله＂و كل خليطين فإنهما يترادان بينهما بالسوي.txt",
-   "sha256": "036f424d59129f1b9993bfb213fe80122c97a3d2d7c0d372445e14f315296e33",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:49",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 49,
+  "n_src": "read",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 77 ( قوله＂و كل خليطين فإنهما يترادان بينهما بالسوي",
+  "title_src": "filename",
+  "sha256": "036f424d59129f1b9993bfb213fe80122c97a3d2d7c0d372445e14f315296e33",
+  "nh": "56c76df682429cda1eb07fa0b3332fb35ee0b535b4a29a4514a7e2baf46307b2",
+  "chars": 9286,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1003/049_شرح رسالة ابن ابي زيد ｜ الدرس 77 ( قوله＂و كل خليطين فإنهما يترادان بينهما بالسوي.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1003/77.txt",
-   "sha256": "036f424d59129f1b9993bfb213fe80122c97a3d2d7c0d372445e14f315296e33",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1003/049_شرح رسالة ابن ابي زيد ｜ الدرس 77 ( قوله＂و كل خليطين فإنهما يترادان بينهما بالسوي.txt",
+      "sha256": "036f424d59129f1b9993bfb213fe80122c97a3d2d7c0d372445e14f315296e33",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1003/77.txt",
+      "sha256": "036f424d59129f1b9993bfb213fe80122c97a3d2d7c0d372445e14f315296e33",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9994,
+    "spoken_align_pct": 99.94,
+    "audio_span_pct": 99.85,
+    "words": 1726,
+    "aligned": 1725,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 20:56"
   }
- ],
- "variants": [],
- "also_in": []
 }

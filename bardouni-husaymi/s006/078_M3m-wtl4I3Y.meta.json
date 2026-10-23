@@ -1,37 +1,53 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:48",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 48,
- "n_src": "read",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 78 ( قوله ＂ و لا توخذ في الصدقة السخلة ＂ ) ｜ الش",
- "title_src": "filename",
- "sha256": "ecf8d1f1f05f6e44b07850e769aa83beeaf5348e70a83c2e58e3bd4450d303ed",
- "nh": "6ca868e69cb11516ef65529f02b35ac9f6437e59de4344dd79f87247ca8bd798",
- "chars": 15818,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1003/048_شرح رسالة ابن ابي زيد ｜ الدرس 78 (  قوله ＂ و لا توخذ في الصدقة السخلة ＂  ) ｜ الش.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1003/048_شرح رسالة ابن ابي زيد ｜ الدرس 78 (  قوله ＂ و لا توخذ في الصدقة السخلة ＂  ) ｜ الش.txt",
-   "sha256": "ecf8d1f1f05f6e44b07850e769aa83beeaf5348e70a83c2e58e3bd4450d303ed",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:48",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 48,
+  "n_src": "read",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 78 ( قوله ＂ و لا توخذ في الصدقة السخلة ＂ ) ｜ الش",
+  "title_src": "filename",
+  "sha256": "ecf8d1f1f05f6e44b07850e769aa83beeaf5348e70a83c2e58e3bd4450d303ed",
+  "nh": "6ca868e69cb11516ef65529f02b35ac9f6437e59de4344dd79f87247ca8bd798",
+  "chars": 15818,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1003/048_شرح رسالة ابن ابي زيد ｜ الدرس 78 (  قوله ＂ و لا توخذ في الصدقة السخلة ＂  ) ｜ الش.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1003/78.txt",
-   "sha256": "ecf8d1f1f05f6e44b07850e769aa83beeaf5348e70a83c2e58e3bd4450d303ed",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1003/048_شرح رسالة ابن ابي زيد ｜ الدرس 78 (  قوله ＂ و لا توخذ في الصدقة السخلة ＂  ) ｜ الش.txt",
+      "sha256": "ecf8d1f1f05f6e44b07850e769aa83beeaf5348e70a83c2e58e3bd4450d303ed",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1003/78.txt",
+      "sha256": "ecf8d1f1f05f6e44b07850e769aa83beeaf5348e70a83c2e58e3bd4450d303ed",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9994,
+    "spoken_align_pct": 99.94,
+    "audio_span_pct": 99.75,
+    "words": 3129,
+    "aligned": 3127,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 20:57",
+    "stripped_reasons": [
+      "METADATA_HEADER"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

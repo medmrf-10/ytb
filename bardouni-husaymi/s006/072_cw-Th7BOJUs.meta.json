@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:54",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 54,
- "n_src": "read",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 72 ( قوله ＂ و لا زكاة على احد في عبده ＂ ) ｜ الشي",
- "title_src": "filename",
- "sha256": "fa5977fb0cc658f747c98d427ff2d5412d21fe54baf7b4a441183cd5ef59c4d2",
- "nh": "8e4dce0421b790621a4ddcdada0c69b91500ddac6cd08cbfa1171dc186562c2b",
- "chars": 9580,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1003/054_شرح رسالة ابن ابي زيد ｜ الدرس 72 (  قوله ＂ و لا زكاة على احد في عبده ＂  ) ｜ الشي.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1003/054_شرح رسالة ابن ابي زيد ｜ الدرس 72 (  قوله ＂ و لا زكاة على احد في عبده ＂  ) ｜ الشي.txt",
-   "sha256": "fa5977fb0cc658f747c98d427ff2d5412d21fe54baf7b4a441183cd5ef59c4d2",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:54",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 54,
+  "n_src": "read",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 72 ( قوله ＂ و لا زكاة على احد في عبده ＂ ) ｜ الشي",
+  "title_src": "filename",
+  "sha256": "fa5977fb0cc658f747c98d427ff2d5412d21fe54baf7b4a441183cd5ef59c4d2",
+  "nh": "8e4dce0421b790621a4ddcdada0c69b91500ddac6cd08cbfa1171dc186562c2b",
+  "chars": 9580,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1003/054_شرح رسالة ابن ابي زيد ｜ الدرس 72 (  قوله ＂ و لا زكاة على احد في عبده ＂  ) ｜ الشي.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1003/72.txt",
-   "sha256": "fa5977fb0cc658f747c98d427ff2d5412d21fe54baf7b4a441183cd5ef59c4d2",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1003/054_شرح رسالة ابن ابي زيد ｜ الدرس 72 (  قوله ＂ و لا زكاة على احد في عبده ＂  ) ｜ الشي.txt",
+      "sha256": "fa5977fb0cc658f747c98d427ff2d5412d21fe54baf7b4a441183cd5ef59c4d2",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1003/72.txt",
+      "sha256": "fa5977fb0cc658f747c98d427ff2d5412d21fe54baf7b4a441183cd5ef59c4d2",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.98,
+    "words": 1861,
+    "aligned": 1861,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 20:53"
   }
- ],
- "variants": [],
- "also_in": []
 }

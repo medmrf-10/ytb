@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:53",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 53,
- "n_src": "read",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 73 ( أحكام الجزية ) ｜ الشيخ البردوني",
- "title_src": "filename",
- "sha256": "fc40e54e511b72d6897cb2f94e26d2469ac92cf30985c36d1723ebef18105b6b",
- "nh": "b4b6cc1098ea640709c0a73196119344f3d444768fbd95410ecda630b6bd20d4",
- "chars": 15286,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1003/053_شرح رسالة ابن ابي زيد ｜ الدرس 73 (  أحكام الجزية  ) ｜ الشيخ البردوني.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1003/053_شرح رسالة ابن ابي زيد ｜ الدرس 73 (  أحكام الجزية  ) ｜ الشيخ البردوني.txt",
-   "sha256": "fc40e54e511b72d6897cb2f94e26d2469ac92cf30985c36d1723ebef18105b6b",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:53",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 53,
+  "n_src": "read",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 73 ( أحكام الجزية ) ｜ الشيخ البردوني",
+  "title_src": "filename",
+  "sha256": "fc40e54e511b72d6897cb2f94e26d2469ac92cf30985c36d1723ebef18105b6b",
+  "nh": "b4b6cc1098ea640709c0a73196119344f3d444768fbd95410ecda630b6bd20d4",
+  "chars": 15286,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1003/053_شرح رسالة ابن ابي زيد ｜ الدرس 73 (  أحكام الجزية  ) ｜ الشيخ البردوني.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1003/73.txt",
-   "sha256": "fc40e54e511b72d6897cb2f94e26d2469ac92cf30985c36d1723ebef18105b6b",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1003/053_شرح رسالة ابن ابي زيد ｜ الدرس 73 (  أحكام الجزية  ) ｜ الشيخ البردوني.txt",
+      "sha256": "fc40e54e511b72d6897cb2f94e26d2469ac92cf30985c36d1723ebef18105b6b",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1003/73.txt",
+      "sha256": "fc40e54e511b72d6897cb2f94e26d2469ac92cf30985c36d1723ebef18105b6b",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.99,
+    "words": 2914,
+    "aligned": 2914,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 20:54"
   }
- ],
- "variants": [],
- "also_in": []
 }

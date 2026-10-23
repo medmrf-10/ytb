@@ -1,37 +1,54 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:58",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 58,
- "n_src": "read",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 68 ( باب في زكاة العين ) ｜ الشيخ البردوني",
- "title_src": "filename",
- "sha256": "14a50d55c4c5e4e700a6e49505a8711f8a4230d8987046ab927a333a7c95ab89",
- "nh": "3c8e4da80fa987d4a24555222e931fc3ca0fedb0a13bdde6408a94f4e9c3e71f",
- "chars": 16286,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1003/058_شرح رسالة ابن ابي زيد ｜ الدرس 68 (  باب في زكاة العين  ) ｜ الشيخ البردوني.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1003/058_شرح رسالة ابن ابي زيد ｜ الدرس 68 (  باب في زكاة العين  ) ｜ الشيخ البردوني.txt",
-   "sha256": "14a50d55c4c5e4e700a6e49505a8711f8a4230d8987046ab927a333a7c95ab89",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:58",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 58,
+  "n_src": "read",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 68 ( باب في زكاة العين ) ｜ الشيخ البردوني",
+  "title_src": "filename",
+  "sha256": "14a50d55c4c5e4e700a6e49505a8711f8a4230d8987046ab927a333a7c95ab89",
+  "nh": "3c8e4da80fa987d4a24555222e931fc3ca0fedb0a13bdde6408a94f4e9c3e71f",
+  "chars": 16286,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1003/058_شرح رسالة ابن ابي زيد ｜ الدرس 68 (  باب في زكاة العين  ) ｜ الشيخ البردوني.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1003/68.txt",
-   "sha256": "14a50d55c4c5e4e700a6e49505a8711f8a4230d8987046ab927a333a7c95ab89",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1003/058_شرح رسالة ابن ابي زيد ｜ الدرس 68 (  باب في زكاة العين  ) ｜ الشيخ البردوني.txt",
+      "sha256": "14a50d55c4c5e4e700a6e49505a8711f8a4230d8987046ab927a333a7c95ab89",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1003/68.txt",
+      "sha256": "14a50d55c4c5e4e700a6e49505a8711f8a4230d8987046ab927a333a7c95ab89",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9997,
+    "spoken_align_pct": 99.97,
+    "audio_span_pct": 99.96,
+    "words": 3102,
+    "aligned": 3101,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 20:51",
+    "stripped_reasons": [
+      "METADATA_HEADER",
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
