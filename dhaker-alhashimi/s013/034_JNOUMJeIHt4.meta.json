@@ -1,31 +1,59 @@
 {
- "v": 1,
- "lid": "yt:JNOUMJeIHt4",
- "vid": "JNOUMJeIHt4",
- "sheikh": "dhaker-alhashimi",
- "row_id": "dhaker-alhashimi--hashimi-zawaj",
- "n": 35,
- "n_src": "read",
- "title": "ألف باء الزواج 32 | الحاجات | الاستعداد المادي 04 | إجابة أسئلة الجمهور",
- "title_src": "yt_titles",
- "sha256": "50ac2353f690b1f25ca8258e81e0479590220a0adf5da2f238d1a58d555dd2fb",
- "nh": "5aaefe193738ac84ee9381430668a41e930eef5578a87a51fb9694a7c41ec018",
- "chars": 75589,
- "quality": "ok",
- "winner": {
-  "store": "hw-ls",
-  "path": "hawshat/playlists/lessons/hashimi-zawaj/035.txt",
-  "commit_ts": 1791587745,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/hashimi-zawaj/035.txt",
-   "sha256": "50ac2353f690b1f25ca8258e81e0479590220a0adf5da2f238d1a58d555dd2fb",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:JNOUMJeIHt4",
+  "vid": "JNOUMJeIHt4",
+  "sheikh": "dhaker-alhashimi",
+  "row_id": "dhaker-alhashimi--hashimi-zawaj",
+  "n": 35,
+  "n_src": "read",
+  "title": "ألف باء الزواج 32 | الحاجات | الاستعداد المادي 04 | إجابة أسئلة الجمهور",
+  "title_src": "yt_titles",
+  "sha256": "50ac2353f690b1f25ca8258e81e0479590220a0adf5da2f238d1a58d555dd2fb",
+  "nh": "5aaefe193738ac84ee9381430668a41e930eef5578a87a51fb9694a7c41ec018",
+  "chars": 75589,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-ls",
+    "path": "hawshat/playlists/lessons/hashimi-zawaj/035.txt",
+    "commit_ts": 1791587745,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/hashimi-zawaj/035.txt",
+      "sha256": "50ac2353f690b1f25ca8258e81e0479590220a0adf5da2f238d1a58d555dd2fb",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.7812,
+    "spoken_align_pct": 78.12,
+    "audio_span_pct": 99.99,
+    "words": 14430,
+    "aligned": 11267,
+    "interpolated": 3156,
+    "retried_without_silence_compact": true,
+    "local_agc_applied": true,
+    "at": "2026-10-23 18:27",
+    "low_coverage_diagnosis": {
+      "spoken_align_pct": 78.12,
+      "interpolated_words": 3156,
+      "unaligned_clusters_count": 103,
+      "max_cluster_words": 80,
+      "wpm": 126.6,
+      "audio_span_pct": 99.99,
+      "forced_steps": 0,
+      "causes": [
+        "TEXT_HALLUCINATION_OR_CHUNK_REPEAT(clusters=103, max_run=80w @ 42.86s: «الأخير في الأسئلة المتعلقة بالاستعدادات المادية. السلام عليك»)"
+      ]
+    },
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

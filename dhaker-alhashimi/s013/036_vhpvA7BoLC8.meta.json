@@ -1,31 +1,59 @@
 {
- "v": 1,
- "lid": "yt:vhpvA7BoLC8",
- "vid": "vhpvA7BoLC8",
- "sheikh": "dhaker-alhashimi",
- "row_id": "dhaker-alhashimi--hashimi-zawaj",
- "n": 37,
- "n_src": "read",
- "title": "ألف باء الزواج 34 | حاجة الحاجة | فقه القول ولسان النفس أو الإبانة والتعبير",
- "title_src": "yt_titles",
- "sha256": "2201fd0ad3e9393cb8759709c7851822de2447674b49f9faf9a37689beccc96c",
- "nh": "427416a1e6e645555d69c46a4d52a0c8e4fb5956ea783f58eb562063d73b3653",
- "chars": 54338,
- "quality": "ok",
- "winner": {
-  "store": "hw-ls",
-  "path": "hawshat/playlists/lessons/hashimi-zawaj/037.txt",
-  "commit_ts": 1791587745,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/hashimi-zawaj/037.txt",
-   "sha256": "2201fd0ad3e9393cb8759709c7851822de2447674b49f9faf9a37689beccc96c",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:vhpvA7BoLC8",
+  "vid": "vhpvA7BoLC8",
+  "sheikh": "dhaker-alhashimi",
+  "row_id": "dhaker-alhashimi--hashimi-zawaj",
+  "n": 37,
+  "n_src": "read",
+  "title": "ألف باء الزواج 34 | حاجة الحاجة | فقه القول ولسان النفس أو الإبانة والتعبير",
+  "title_src": "yt_titles",
+  "sha256": "2201fd0ad3e9393cb8759709c7851822de2447674b49f9faf9a37689beccc96c",
+  "nh": "427416a1e6e645555d69c46a4d52a0c8e4fb5956ea783f58eb562063d73b3653",
+  "chars": 54338,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-ls",
+    "path": "hawshat/playlists/lessons/hashimi-zawaj/037.txt",
+    "commit_ts": 1791587745,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/hashimi-zawaj/037.txt",
+      "sha256": "2201fd0ad3e9393cb8759709c7851822de2447674b49f9faf9a37689beccc96c",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.8158,
+    "spoken_align_pct": 81.58,
+    "audio_span_pct": 99.89,
+    "words": 10510,
+    "aligned": 8574,
+    "interpolated": 1936,
+    "retried_without_silence_compact": true,
+    "local_agc_applied": true,
+    "at": "2026-10-23 18:29",
+    "low_coverage_diagnosis": {
+      "spoken_align_pct": 81.58,
+      "interpolated_words": 1936,
+      "unaligned_clusters_count": 65,
+      "max_cluster_words": 137,
+      "wpm": 127.0,
+      "audio_span_pct": 99.89,
+      "forced_steps": 0,
+      "causes": [
+        "TEXT_HALLUCINATION_OR_CHUNK_REPEAT(clusters=65, max_run=137w @ 73.52s: «مجالس فقه النفس أو من مواد فقه النفس. تكلمنا أولا عن المخادع»)"
+      ]
+    },
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
