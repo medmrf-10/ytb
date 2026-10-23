@@ -1,31 +1,59 @@
 {
- "v": 1,
- "lid": "yt:lUT-177zMo4",
- "vid": "lUT-177zMo4",
- "sheikh": "dhaker-alhashimi",
- "row_id": "dhaker-alhashimi--hashimi-zawaj",
- "n": 44,
- "n_src": "read",
- "title": "ألف باء الزواج 41 | مراجعات ما سبق عبر مشاركات الجمهور 06",
- "title_src": "yt_titles",
- "sha256": "e52b5fe85ba43ad7a94c9373d92c54c7a28d19ae5a24b78c7c4f5ee73603c31b",
- "nh": "8f58595251517d2337a808bf3c452dac0800fa30ad249821ff798bb6a776427c",
- "chars": 48555,
- "quality": "ok",
- "winner": {
-  "store": "hw-ls",
-  "path": "hawshat/playlists/lessons/hashimi-zawaj/044.txt",
-  "commit_ts": 1791587745,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/hashimi-zawaj/044.txt",
-   "sha256": "e52b5fe85ba43ad7a94c9373d92c54c7a28d19ae5a24b78c7c4f5ee73603c31b",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:lUT-177zMo4",
+  "vid": "lUT-177zMo4",
+  "sheikh": "dhaker-alhashimi",
+  "row_id": "dhaker-alhashimi--hashimi-zawaj",
+  "n": 44,
+  "n_src": "read",
+  "title": "ألف باء الزواج 41 | مراجعات ما سبق عبر مشاركات الجمهور 06",
+  "title_src": "yt_titles",
+  "sha256": "e52b5fe85ba43ad7a94c9373d92c54c7a28d19ae5a24b78c7c4f5ee73603c31b",
+  "nh": "8f58595251517d2337a808bf3c452dac0800fa30ad249821ff798bb6a776427c",
+  "chars": 48555,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-ls",
+    "path": "hawshat/playlists/lessons/hashimi-zawaj/044.txt",
+    "commit_ts": 1791587745,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/hashimi-zawaj/044.txt",
+      "sha256": "e52b5fe85ba43ad7a94c9373d92c54c7a28d19ae5a24b78c7c4f5ee73603c31b",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.7802,
+    "spoken_align_pct": 78.02,
+    "audio_span_pct": 95.81,
+    "words": 9155,
+    "aligned": 7128,
+    "interpolated": 2008,
+    "retried_without_silence_compact": true,
+    "local_agc_applied": true,
+    "at": "2026-10-23 18:46",
+    "low_coverage_diagnosis": {
+      "spoken_align_pct": 78.02,
+      "interpolated_words": 2008,
+      "unaligned_clusters_count": 55,
+      "max_cluster_words": 81,
+      "wpm": 109.3,
+      "audio_span_pct": 95.81,
+      "forced_steps": 1,
+      "causes": [
+        "TEXT_HALLUCINATION_OR_CHUNK_REPEAT(clusters=55, max_run=81w @ 246.24s: «ما بدك خبز؟ قلت لها: لا، توكلي، طيب؟ والأمور ماشية. فنعم هذا»)"
+      ]
+    },
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
