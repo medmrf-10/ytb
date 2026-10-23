@@ -1,37 +1,53 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:98",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 98,
- "n_src": "read",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 28 ( قوله ＂و من تيمم من هؤلاء ثم أصاب الماء ＂) ｜",
- "title_src": "filename",
- "sha256": "0b4812672f25fac9893386ce1717527374c3d69f1faab92a28eb3e1a54f86d1b",
- "nh": "d267c027a5077793fcc6aefa22ca31a59e2c928f039eb9d6a2882135f642b8d0",
- "chars": 14647,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1003/098_شرح رسالة ابن ابي زيد ｜ الدرس 28  ( قوله ＂و من تيمم من هؤلاء ثم أصاب الماء ＂) ｜ .txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1003/098_شرح رسالة ابن ابي زيد ｜ الدرس 28  ( قوله ＂و من تيمم من هؤلاء ثم أصاب الماء ＂) ｜ .txt",
-   "sha256": "0b4812672f25fac9893386ce1717527374c3d69f1faab92a28eb3e1a54f86d1b",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:98",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 98,
+  "n_src": "read",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 28 ( قوله ＂و من تيمم من هؤلاء ثم أصاب الماء ＂) ｜",
+  "title_src": "filename",
+  "sha256": "0b4812672f25fac9893386ce1717527374c3d69f1faab92a28eb3e1a54f86d1b",
+  "nh": "d267c027a5077793fcc6aefa22ca31a59e2c928f039eb9d6a2882135f642b8d0",
+  "chars": 14647,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1003/098_شرح رسالة ابن ابي زيد ｜ الدرس 28  ( قوله ＂و من تيمم من هؤلاء ثم أصاب الماء ＂) ｜ .txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1003/28.txt",
-   "sha256": "0b4812672f25fac9893386ce1717527374c3d69f1faab92a28eb3e1a54f86d1b",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1003/098_شرح رسالة ابن ابي زيد ｜ الدرس 28  ( قوله ＂و من تيمم من هؤلاء ثم أصاب الماء ＂) ｜ .txt",
+      "sha256": "0b4812672f25fac9893386ce1717527374c3d69f1faab92a28eb3e1a54f86d1b",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1003/28.txt",
+      "sha256": "0b4812672f25fac9893386ce1717527374c3d69f1faab92a28eb3e1a54f86d1b",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9993,
+    "spoken_align_pct": 99.93,
+    "audio_span_pct": 99.87,
+    "words": 2844,
+    "aligned": 2842,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 20:16",
+    "stripped_reasons": [
+      "METADATA_HEADER"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

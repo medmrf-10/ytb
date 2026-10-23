@@ -1,37 +1,54 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:99",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 99,
- "n_src": "read",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 27 ( باب في التيمم ) ｜ الشيخ محمد البردوني",
- "title_src": "filename",
- "sha256": "db45234890fe84632532bc24651389d64ba537313c2883bf5f8155ffa2c601b8",
- "nh": "443d65a1866ad013b4e4c732ba7780a4d77db758b666c7694286dd0c6be197b2",
- "chars": 21185,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1003/099_شرح رسالة ابن ابي زيد ｜ الدرس 27  ( باب في التيمم  ) ｜ الشيخ  محمد البردوني.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1003/099_شرح رسالة ابن ابي زيد ｜ الدرس 27  ( باب في التيمم  ) ｜ الشيخ  محمد البردوني.txt",
-   "sha256": "db45234890fe84632532bc24651389d64ba537313c2883bf5f8155ffa2c601b8",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:99",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 99,
+  "n_src": "read",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 27 ( باب في التيمم ) ｜ الشيخ محمد البردوني",
+  "title_src": "filename",
+  "sha256": "db45234890fe84632532bc24651389d64ba537313c2883bf5f8155ffa2c601b8",
+  "nh": "443d65a1866ad013b4e4c732ba7780a4d77db758b666c7694286dd0c6be197b2",
+  "chars": 21185,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1003/099_شرح رسالة ابن ابي زيد ｜ الدرس 27  ( باب في التيمم  ) ｜ الشيخ  محمد البردوني.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1003/27.txt",
-   "sha256": "db45234890fe84632532bc24651389d64ba537313c2883bf5f8155ffa2c601b8",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1003/099_شرح رسالة ابن ابي زيد ｜ الدرس 27  ( باب في التيمم  ) ｜ الشيخ  محمد البردوني.txt",
+      "sha256": "db45234890fe84632532bc24651389d64ba537313c2883bf5f8155ffa2c601b8",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1003/27.txt",
+      "sha256": "db45234890fe84632532bc24651389d64ba537313c2883bf5f8155ffa2c601b8",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.999,
+    "spoken_align_pct": 99.9,
+    "audio_span_pct": 99.9,
+    "words": 3974,
+    "aligned": 3970,
+    "interpolated": 4,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 20:17",
+    "stripped_reasons": [
+      "METADATA_HEADER",
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

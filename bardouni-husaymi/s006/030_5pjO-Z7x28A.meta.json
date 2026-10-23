@@ -1,37 +1,53 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:96",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 96,
- "n_src": "read",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 30 ( باب في المسح على الخفين ) ｜ الشيخ محمد الب",
- "title_src": "filename",
- "sha256": "e1262d8de056e1b7f4a6081b316793dfb6fd756e3904c197028b2a6803165bf6",
- "nh": "4dc4c842ca9fbb725d82d8879ee110bc11d825317bd784bfe8869ee51407341b",
- "chars": 15931,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1003/096_شرح رسالة ابن ابي زيد ｜ الدرس 30  ( باب في المسح على الخفين  ) ｜ الشيخ  محمد الب.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1003/096_شرح رسالة ابن ابي زيد ｜ الدرس 30  ( باب في المسح على الخفين  ) ｜ الشيخ  محمد الب.txt",
-   "sha256": "e1262d8de056e1b7f4a6081b316793dfb6fd756e3904c197028b2a6803165bf6",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:96",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 96,
+  "n_src": "read",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 30 ( باب في المسح على الخفين ) ｜ الشيخ محمد الب",
+  "title_src": "filename",
+  "sha256": "e1262d8de056e1b7f4a6081b316793dfb6fd756e3904c197028b2a6803165bf6",
+  "nh": "4dc4c842ca9fbb725d82d8879ee110bc11d825317bd784bfe8869ee51407341b",
+  "chars": 15931,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1003/096_شرح رسالة ابن ابي زيد ｜ الدرس 30  ( باب في المسح على الخفين  ) ｜ الشيخ  محمد الب.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1003/30.txt",
-   "sha256": "e1262d8de056e1b7f4a6081b316793dfb6fd756e3904c197028b2a6803165bf6",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1003/096_شرح رسالة ابن ابي زيد ｜ الدرس 30  ( باب في المسح على الخفين  ) ｜ الشيخ  محمد الب.txt",
+      "sha256": "e1262d8de056e1b7f4a6081b316793dfb6fd756e3904c197028b2a6803165bf6",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1003/30.txt",
+      "sha256": "e1262d8de056e1b7f4a6081b316793dfb6fd756e3904c197028b2a6803165bf6",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9994,
+    "spoken_align_pct": 99.94,
+    "audio_span_pct": 99.94,
+    "words": 3117,
+    "aligned": 3115,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 20:19",
+    "stripped_reasons": [
+      "METADATA_HEADER"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

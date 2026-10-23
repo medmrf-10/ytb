@@ -1,31 +1,47 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:206",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 206,
- "n_src": "read|renumbered",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 26 ( قوله ＂ و يتابع عمق سرته ٠٠٠＂ ) ｜ الشيخ البر",
- "title_src": "filename",
- "sha256": "1d785cd622737db49dc6f1de223e55823fba6d4f592259f3b9c8ecc227d338b8",
- "nh": "6491a6ecc6147427eb39015fa1183664983c1b08053513a65b325fa330688542",
- "chars": 8041,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/bardouni/sharh-risala-2/100_شرح رسالة ابن ابي زيد ｜ الدرس 26  ( قوله ＂ و يتابع عمق سرته ٠٠٠＂ ) ｜ الشيخ  البر.txt",
-  "commit_ts": 1791841975,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bardouni/sharh-risala-2/100_شرح رسالة ابن ابي زيد ｜ الدرس 26  ( قوله ＂ و يتابع عمق سرته ٠٠٠＂ ) ｜ الشيخ  البر.txt",
-   "sha256": "1d785cd622737db49dc6f1de223e55823fba6d4f592259f3b9c8ecc227d338b8",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:206",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 206,
+  "n_src": "read|renumbered",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 26 ( قوله ＂ و يتابع عمق سرته ٠٠٠＂ ) ｜ الشيخ البر",
+  "title_src": "filename",
+  "sha256": "1d785cd622737db49dc6f1de223e55823fba6d4f592259f3b9c8ecc227d338b8",
+  "nh": "6491a6ecc6147427eb39015fa1183664983c1b08053513a65b325fa330688542",
+  "chars": 8041,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/bardouni/sharh-risala-2/100_شرح رسالة ابن ابي زيد ｜ الدرس 26  ( قوله ＂ و يتابع عمق سرته ٠٠٠＂ ) ｜ الشيخ  البر.txt",
+    "commit_ts": 1791841975,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bardouni/sharh-risala-2/100_شرح رسالة ابن ابي زيد ｜ الدرس 26  ( قوله ＂ و يتابع عمق سرته ٠٠٠＂ ) ｜ الشيخ  البر.txt",
+      "sha256": "1d785cd622737db49dc6f1de223e55823fba6d4f592259f3b9c8ecc227d338b8",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9993,
+    "spoken_align_pct": 99.93,
+    "audio_span_pct": 99.97,
+    "words": 1524,
+    "aligned": 1523,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 20:15",
+    "stripped_reasons": [
+      "METADATA_HEADER"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
