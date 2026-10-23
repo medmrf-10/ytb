@@ -1,31 +1,47 @@
 {
- "v": 1,
- "lid": "yt:mJOl5_iIGMM",
- "vid": "mJOl5_iIGMM",
- "sheikh": "dhaker-alhashimi",
- "row_id": "dhaker-alhashimi--hashimi-zawaj",
- "n": 5,
- "n_src": "read",
- "title": "ألف باء الزواج 05 | جهالات ومُخادَعات ومُغالَطات 03 | حول الخِطبة واختيار الزوج أو الزوجة 01",
- "title_src": "yt_titles",
- "sha256": "63215f1032094bd89958c9572549cf213283140a740220a5e3c9bffbcab59426",
- "nh": "2916ae3bff9db9ba8bf04157e85bdef37fa30e5f358e0647709bca10c80cce1a",
- "chars": 72474,
- "quality": "ok",
- "winner": {
-  "store": "hw-ls",
-  "path": "hawshat/playlists/lessons/hashimi-zawaj/005.txt",
-  "commit_ts": 1791587745,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/hashimi-zawaj/005.txt",
-   "sha256": "63215f1032094bd89958c9572549cf213283140a740220a5e3c9bffbcab59426",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:mJOl5_iIGMM",
+  "vid": "mJOl5_iIGMM",
+  "sheikh": "dhaker-alhashimi",
+  "row_id": "dhaker-alhashimi--hashimi-zawaj",
+  "n": 5,
+  "n_src": "read",
+  "title": "ألف باء الزواج 05 | جهالات ومُخادَعات ومُغالَطات 03 | حول الخِطبة واختيار الزوج أو الزوجة 01",
+  "title_src": "yt_titles",
+  "sha256": "63215f1032094bd89958c9572549cf213283140a740220a5e3c9bffbcab59426",
+  "nh": "2916ae3bff9db9ba8bf04157e85bdef37fa30e5f358e0647709bca10c80cce1a",
+  "chars": 72474,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-ls",
+    "path": "hawshat/playlists/lessons/hashimi-zawaj/005.txt",
+    "commit_ts": 1791587745,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/hashimi-zawaj/005.txt",
+      "sha256": "63215f1032094bd89958c9572549cf213283140a740220a5e3c9bffbcab59426",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9829,
+    "spoken_align_pct": 98.29,
+    "audio_span_pct": 99.82,
+    "words": 14269,
+    "aligned": 14025,
+    "interpolated": 244,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 17:21",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

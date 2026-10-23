@@ -1,31 +1,56 @@
 {
- "v": 1,
- "lid": "yt:E6Gn0fAheyg",
- "vid": "E6Gn0fAheyg",
- "sheikh": "dhaker-alhashimi",
- "row_id": "dhaker-alhashimi--hashimi-zawaj",
- "n": 10,
- "n_src": "read",
- "title": "ألف باء الزواج 10 | جهالات ومخادعات ومغالطات 08 | شهر العسل وسنة أولى زواج والمشكلات الزوجية والطلاق",
- "title_src": "yt_titles",
- "sha256": "5ce78ba6bc9ed3b0dc4aa78508130205bbc033b12fb92aa104e0c7dcf56a4668",
- "nh": "45d861c7c03573b6ef2e41d5a53be61305f5f101aa8d873516c2763d9f7f5e7a",
- "chars": 70227,
- "quality": "ok",
- "winner": {
-  "store": "hw-ls",
-  "path": "hawshat/playlists/lessons/hashimi-zawaj/010.txt",
-  "commit_ts": 1791587745,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/hashimi-zawaj/010.txt",
-   "sha256": "5ce78ba6bc9ed3b0dc4aa78508130205bbc033b12fb92aa104e0c7dcf56a4668",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:E6Gn0fAheyg",
+  "vid": "E6Gn0fAheyg",
+  "sheikh": "dhaker-alhashimi",
+  "row_id": "dhaker-alhashimi--hashimi-zawaj",
+  "n": 10,
+  "n_src": "read",
+  "title": "ألف باء الزواج 10 | جهالات ومخادعات ومغالطات 08 | شهر العسل وسنة أولى زواج والمشكلات الزوجية والطلاق",
+  "title_src": "yt_titles",
+  "sha256": "5ce78ba6bc9ed3b0dc4aa78508130205bbc033b12fb92aa104e0c7dcf56a4668",
+  "nh": "45d861c7c03573b6ef2e41d5a53be61305f5f101aa8d873516c2763d9f7f5e7a",
+  "chars": 70227,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-ls",
+    "path": "hawshat/playlists/lessons/hashimi-zawaj/010.txt",
+    "commit_ts": 1791587745,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/hashimi-zawaj/010.txt",
+      "sha256": "5ce78ba6bc9ed3b0dc4aa78508130205bbc033b12fb92aa104e0c7dcf56a4668",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.757,
+    "spoken_align_pct": 75.7,
+    "audio_span_pct": 98.52,
+    "words": 13197,
+    "aligned": 9972,
+    "interpolated": 3201,
+    "retried_without_silence_compact": true,
+    "local_agc_applied": true,
+    "at": "2026-10-23 17:30",
+    "low_coverage_diagnosis": {
+      "spoken_align_pct": 75.7,
+      "interpolated_words": 3201,
+      "unaligned_clusters_count": 93,
+      "max_cluster_words": 139,
+      "wpm": 116.2,
+      "audio_span_pct": 98.52,
+      "forced_steps": 0,
+      "causes": [
+        "TEXT_HALLUCINATION_OR_CHUNK_REPEAT(clusters=93, max_run=139w @ 16.04s: «بسم الله الرحمن الرحيم، الحمد لله رب العالمين، والصلاة والسل»)"
+      ]
+    }
   }
- ],
- "variants": [],
- "also_in": []
 }

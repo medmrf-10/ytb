@@ -1,31 +1,47 @@
 {
- "v": 1,
- "lid": "yt:TgQPPepF2No",
- "vid": "TgQPPepF2No",
- "sheikh": "dhaker-alhashimi",
- "row_id": "dhaker-alhashimi--hashimi-zawaj",
- "n": 8,
- "n_src": "read",
- "title": "ألف باء الزواج 08 | جهالات ومُخادَعات ومُغالَطات 06 |  حول عقد الزواج أو النِكاح وما قبل الزفاف",
- "title_src": "yt_titles",
- "sha256": "1b6ebb98fb3d752aa8c01eb1f941eaa2233f07a015d3ff42930f860cb7a4f9c2",
- "nh": "292258ebe4ad926cf39a78fa8048fa76f4856da478b18c98fa908ec2085e6a14",
- "chars": 72019,
- "quality": "ok",
- "winner": {
-  "store": "hw-ls",
-  "path": "hawshat/playlists/lessons/hashimi-zawaj/008.txt",
-  "commit_ts": 1791587745,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/hashimi-zawaj/008.txt",
-   "sha256": "1b6ebb98fb3d752aa8c01eb1f941eaa2233f07a015d3ff42930f860cb7a4f9c2",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:TgQPPepF2No",
+  "vid": "TgQPPepF2No",
+  "sheikh": "dhaker-alhashimi",
+  "row_id": "dhaker-alhashimi--hashimi-zawaj",
+  "n": 8,
+  "n_src": "read",
+  "title": "ألف باء الزواج 08 | جهالات ومُخادَعات ومُغالَطات 06 |  حول عقد الزواج أو النِكاح وما قبل الزفاف",
+  "title_src": "yt_titles",
+  "sha256": "1b6ebb98fb3d752aa8c01eb1f941eaa2233f07a015d3ff42930f860cb7a4f9c2",
+  "nh": "292258ebe4ad926cf39a78fa8048fa76f4856da478b18c98fa908ec2085e6a14",
+  "chars": 72019,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-ls",
+    "path": "hawshat/playlists/lessons/hashimi-zawaj/008.txt",
+    "commit_ts": 1791587745,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/hashimi-zawaj/008.txt",
+      "sha256": "1b6ebb98fb3d752aa8c01eb1f941eaa2233f07a015d3ff42930f860cb7a4f9c2",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9826,
+    "spoken_align_pct": 98.26,
+    "audio_span_pct": 97.76,
+    "words": 13839,
+    "aligned": 13584,
+    "interpolated": 240,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 17:27",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
