@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:212",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 212,
- "n_src": "read|renumbered",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 20 ( قوله ＂و أقل ما يصلي فيه الرجل من اللباس ٠＂ )｜",
- "title_src": "filename",
- "sha256": "88f54460226e530802dba767b2192a8a6cea0f60f2369dc963405aafa56f7be6",
- "nh": "9a52b43b682d3031de33cccbba64ea42d1b475dae4d790960e81540de5a4fd53",
- "chars": 19886,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/bardouni/sharh-risala-2/106_شرح رسالة ابن ابي زيد ｜ الدرس 20 ( قوله ＂و أقل ما يصلي فيه الرجل من اللباس ٠＂ )｜.txt",
-  "commit_ts": 1791841975,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bardouni/sharh-risala-2/106_شرح رسالة ابن ابي زيد ｜ الدرس 20 ( قوله ＂و أقل ما يصلي فيه الرجل من اللباس ٠＂ )｜.txt",
-   "sha256": "88f54460226e530802dba767b2192a8a6cea0f60f2369dc963405aafa56f7be6",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:212",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 212,
+  "n_src": "read|renumbered",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 20 ( قوله ＂و أقل ما يصلي فيه الرجل من اللباس ٠＂ )｜",
+  "title_src": "filename",
+  "sha256": "88f54460226e530802dba767b2192a8a6cea0f60f2369dc963405aafa56f7be6",
+  "nh": "9a52b43b682d3031de33cccbba64ea42d1b475dae4d790960e81540de5a4fd53",
+  "chars": 19886,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/bardouni/sharh-risala-2/106_شرح رسالة ابن ابي زيد ｜ الدرس 20 ( قوله ＂و أقل ما يصلي فيه الرجل من اللباس ٠＂ )｜.txt",
+    "commit_ts": 1791841975,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bardouni/sharh-risala-2/106_شرح رسالة ابن ابي زيد ｜ الدرس 20 ( قوله ＂و أقل ما يصلي فيه الرجل من اللباس ٠＂ )｜.txt",
+      "sha256": "88f54460226e530802dba767b2192a8a6cea0f60f2369dc963405aafa56f7be6",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9997,
+    "spoken_align_pct": 99.97,
+    "audio_span_pct": 99.9,
+    "words": 3718,
+    "aligned": 3717,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 20:10"
   }
- ],
- "variants": [],
- "also_in": []
 }

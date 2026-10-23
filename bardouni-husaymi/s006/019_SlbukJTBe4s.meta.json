@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:107",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 107,
- "n_src": "read",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 19 ( قوله ＂ و طهارة البقعة ٠٠＂ ) ｜ الشيخ محمد البر",
- "title_src": "filename",
- "sha256": "64c5621bf5edee5a5548f2ea353c4d6808e1f840823638d551945cc0167df092",
- "nh": "9c6d3d5545c0d30237e6dd7e5a0f810cd7f16cc749c222e7d7cea2c2a27d9a22",
- "chars": 14111,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1003/107_شرح رسالة ابن ابي زيد ｜ الدرس 19 ( قوله ＂ و طهارة البقعة ٠٠＂ ) ｜ الشيخ محمد البر.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1003/107_شرح رسالة ابن ابي زيد ｜ الدرس 19 ( قوله ＂ و طهارة البقعة ٠٠＂ ) ｜ الشيخ محمد البر.txt",
-   "sha256": "64c5621bf5edee5a5548f2ea353c4d6808e1f840823638d551945cc0167df092",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:107",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 107,
+  "n_src": "read",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 19 ( قوله ＂ و طهارة البقعة ٠٠＂ ) ｜ الشيخ محمد البر",
+  "title_src": "filename",
+  "sha256": "64c5621bf5edee5a5548f2ea353c4d6808e1f840823638d551945cc0167df092",
+  "nh": "9c6d3d5545c0d30237e6dd7e5a0f810cd7f16cc749c222e7d7cea2c2a27d9a22",
+  "chars": 14111,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1003/107_شرح رسالة ابن ابي زيد ｜ الدرس 19 ( قوله ＂ و طهارة البقعة ٠٠＂ ) ｜ الشيخ محمد البر.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1003/15.txt",
-   "sha256": "64c5621bf5edee5a5548f2ea353c4d6808e1f840823638d551945cc0167df092",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1003/107_شرح رسالة ابن ابي زيد ｜ الدرس 19 ( قوله ＂ و طهارة البقعة ٠٠＂ ) ｜ الشيخ محمد البر.txt",
+      "sha256": "64c5621bf5edee5a5548f2ea353c4d6808e1f840823638d551945cc0167df092",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1003/15.txt",
+      "sha256": "64c5621bf5edee5a5548f2ea353c4d6808e1f840823638d551945cc0167df092",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9954,
+    "spoken_align_pct": 99.54,
+    "audio_span_pct": 99.7,
+    "words": 2626,
+    "aligned": 2614,
+    "interpolated": 12,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 20:09"
   }
- ],
- "variants": [],
- "also_in": []
 }
