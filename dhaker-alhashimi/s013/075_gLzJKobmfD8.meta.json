@@ -1,31 +1,47 @@
 {
- "v": 1,
- "lid": "yt:gLzJKobmfD8",
- "vid": "gLzJKobmfD8",
- "sheikh": "dhaker-alhashimi",
- "row_id": "dhaker-alhashimi--hashimi-zawaj",
- "n": 75,
- "n_src": "read",
- "title": "ألف باء الزواج 72 | أسئلة الخِطبة 05",
- "title_src": "yt_titles",
- "sha256": "87ae0a7e6943d38ebb0e5f15817d65bbee8e36cbe7abbe0364b9bee23249a0f6",
- "nh": "30fb4cf615f8805e90bbedc1b76c1649eacc027d1329bdc2551e06e9ad49617c",
- "chars": 38443,
- "quality": "ok",
- "winner": {
-  "store": "hw-ls",
-  "path": "hawshat/playlists/lessons/hashimi-zawaj/075.txt",
-  "commit_ts": 1791587745,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/hashimi-zawaj/075.txt",
-   "sha256": "87ae0a7e6943d38ebb0e5f15817d65bbee8e36cbe7abbe0364b9bee23249a0f6",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:gLzJKobmfD8",
+  "vid": "gLzJKobmfD8",
+  "sheikh": "dhaker-alhashimi",
+  "row_id": "dhaker-alhashimi--hashimi-zawaj",
+  "n": 75,
+  "n_src": "read",
+  "title": "ألف باء الزواج 72 | أسئلة الخِطبة 05",
+  "title_src": "yt_titles",
+  "sha256": "87ae0a7e6943d38ebb0e5f15817d65bbee8e36cbe7abbe0364b9bee23249a0f6",
+  "nh": "30fb4cf615f8805e90bbedc1b76c1649eacc027d1329bdc2551e06e9ad49617c",
+  "chars": 38443,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-ls",
+    "path": "hawshat/playlists/lessons/hashimi-zawaj/075.txt",
+    "commit_ts": 1791587745,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/hashimi-zawaj/075.txt",
+      "sha256": "87ae0a7e6943d38ebb0e5f15817d65bbee8e36cbe7abbe0364b9bee23249a0f6",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9865,
+    "spoken_align_pct": 98.65,
+    "audio_span_pct": 99.99,
+    "words": 7410,
+    "aligned": 7309,
+    "interpolated": 100,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 19:55",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
