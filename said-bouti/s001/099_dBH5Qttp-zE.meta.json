@@ -1,45 +1,58 @@
 {
- "v": 1,
- "lid": "rn:said-bouti--414:99",
- "vid": null,
- "sheikh": "said-bouti",
- "row_id": "said-bouti--414",
- "n": 99,
- "n_src": "read",
- "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 99",
- "title_src": "filename",
- "sha256": "05f5b0a43b07f1c71ed1a2da27a5ef825122df344682a2c0878698ee0e00bc0a",
- "nh": "05f5b0a43b07f1c71ed1a2da27a5ef825122df344682a2c0878698ee0e00bc0a",
- "chars": 128,
- "quality": "short",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/bouti/tafsir/099_تفسير القرآن الكريم للدكتور البوطي - الدرس 99.txt",
-  "commit_ts": 1791841975,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/tafsir/099_تفسير القرآن الكريم للدكتور البوطي - الدرس 99.txt",
-   "sha256": "05f5b0a43b07f1c71ed1a2da27a5ef825122df344682a2c0878698ee0e00bc0a",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:said-bouti--414:99",
+  "vid": null,
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--414",
+  "n": 99,
+  "n_src": "read",
+  "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 99",
+  "title_src": "filename",
+  "sha256": "05f5b0a43b07f1c71ed1a2da27a5ef825122df344682a2c0878698ee0e00bc0a",
+  "nh": "05f5b0a43b07f1c71ed1a2da27a5ef825122df344682a2c0878698ee0e00bc0a",
+  "chars": 128,
+  "quality": "short",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/bouti/tafsir/099_تفسير القرآن الكريم للدكتور البوطي - الدرس 99.txt",
+    "commit_ts": 1791841975,
+    "head": "8a8b281"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-414/099.txt",
-   "sha256": "b2f3b44dacb0673a8523a8e6da4ff75e8e2afcb15da9150817cd3b62b1e441f4",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/414/100.txt",
-   "sha256": "05f5b0a43b07f1c71ed1a2da27a5ef825122df344682a2c0878698ee0e00bc0a",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/tafsir/099_تفسير القرآن الكريم للدكتور البوطي - الدرس 99.txt",
+      "sha256": "05f5b0a43b07f1c71ed1a2da27a5ef825122df344682a2c0878698ee0e00bc0a",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-414/099.txt",
+      "sha256": "b2f3b44dacb0673a8523a8e6da4ff75e8e2afcb15da9150817cd3b62b1e441f4",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/414/100.txt",
+      "sha256": "05f5b0a43b07f1c71ed1a2da27a5ef825122df344682a2c0878698ee0e00bc0a",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "said-bouti--bouti-414"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9889,
+    "spoken_align_pct": 98.89,
+    "audio_span_pct": 98.2,
+    "words": 3080,
+    "aligned": 3039,
+    "interpolated": 34,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 23:15"
   }
- ],
- "variants": [],
- "also_in": [
-  "said-bouti--bouti-414"
- ]
 }

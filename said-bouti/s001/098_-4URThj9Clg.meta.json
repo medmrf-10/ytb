@@ -1,45 +1,58 @@
 {
- "v": 1,
- "lid": "yt:-4URThj9Clg",
- "vid": "-4URThj9Clg",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--414",
- "n": 98,
- "n_src": "read",
- "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 98",
- "title_src": "filename",
- "sha256": "8ccabd5fb97c329079dcf8faae12a4c9a78eb67745ee470defada20cfe3a44a7",
- "nh": "7331f6543eb43138d36191ec956dd75582aaf85546fbf673b98beadbfab8ab9a",
- "chars": 18743,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/bouti/tafsir/098_تفسير القرآن الكريم للدكتور البوطي - الدرس 98.txt",
-  "commit_ts": 1791841975,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/tafsir/098_تفسير القرآن الكريم للدكتور البوطي - الدرس 98.txt",
-   "sha256": "8ccabd5fb97c329079dcf8faae12a4c9a78eb67745ee470defada20cfe3a44a7",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:-4URThj9Clg",
+  "vid": "-4URThj9Clg",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--414",
+  "n": 98,
+  "n_src": "read",
+  "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 98",
+  "title_src": "filename",
+  "sha256": "8ccabd5fb97c329079dcf8faae12a4c9a78eb67745ee470defada20cfe3a44a7",
+  "nh": "7331f6543eb43138d36191ec956dd75582aaf85546fbf673b98beadbfab8ab9a",
+  "chars": 18743,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/bouti/tafsir/098_تفسير القرآن الكريم للدكتور البوطي - الدرس 98.txt",
+    "commit_ts": 1791841975,
+    "head": "8a8b281"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-414/098.txt",
-   "sha256": "d7bc6b67c9c47553c3d0663c357a7e749e056459225eddf8e5fc73e78a9cfed6",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/414/99.txt",
-   "sha256": "8ccabd5fb97c329079dcf8faae12a4c9a78eb67745ee470defada20cfe3a44a7",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/tafsir/098_تفسير القرآن الكريم للدكتور البوطي - الدرس 98.txt",
+      "sha256": "8ccabd5fb97c329079dcf8faae12a4c9a78eb67745ee470defada20cfe3a44a7",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-414/098.txt",
+      "sha256": "d7bc6b67c9c47553c3d0663c357a7e749e056459225eddf8e5fc73e78a9cfed6",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/414/99.txt",
+      "sha256": "8ccabd5fb97c329079dcf8faae12a4c9a78eb67745ee470defada20cfe3a44a7",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "said-bouti--bouti-414"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9991,
+    "spoken_align_pct": 99.91,
+    "audio_span_pct": 98.81,
+    "words": 3307,
+    "aligned": 3299,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 23:14"
   }
- ],
- "variants": [],
- "also_in": [
-  "said-bouti--bouti-414"
- ]
 }

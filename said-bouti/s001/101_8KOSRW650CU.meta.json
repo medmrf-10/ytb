@@ -1,45 +1,58 @@
 {
- "v": 1,
- "lid": "yt:8KOSRW650CU",
- "vid": "8KOSRW650CU",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--414",
- "n": 101,
- "n_src": "read",
- "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 101",
- "title_src": "filename",
- "sha256": "f6ab991ce1aa316e4f78a8d9d3c5ead40f96d274dc87d408ffd29b6eb78f4c25",
- "nh": "b654eaba4d93214906b66fd8da04ef0a320f0030243a0db35703cbc73a44aeb9",
- "chars": 18347,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/bouti/tafsir/101_تفسير القرآن الكريم للدكتور البوطي - الدرس 101.txt",
-  "commit_ts": 1791841975,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/tafsir/101_تفسير القرآن الكريم للدكتور البوطي - الدرس 101.txt",
-   "sha256": "f6ab991ce1aa316e4f78a8d9d3c5ead40f96d274dc87d408ffd29b6eb78f4c25",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:8KOSRW650CU",
+  "vid": "8KOSRW650CU",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--414",
+  "n": 101,
+  "n_src": "read",
+  "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 101",
+  "title_src": "filename",
+  "sha256": "f6ab991ce1aa316e4f78a8d9d3c5ead40f96d274dc87d408ffd29b6eb78f4c25",
+  "nh": "b654eaba4d93214906b66fd8da04ef0a320f0030243a0db35703cbc73a44aeb9",
+  "chars": 18347,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/bouti/tafsir/101_تفسير القرآن الكريم للدكتور البوطي - الدرس 101.txt",
+    "commit_ts": 1791841975,
+    "head": "8a8b281"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-414/101.txt",
-   "sha256": "cc59d4228af53e9b6b71d209bf61d6f442ae3c96a324603bb53adc4e601f4e56",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/414/102.txt",
-   "sha256": "f6ab991ce1aa316e4f78a8d9d3c5ead40f96d274dc87d408ffd29b6eb78f4c25",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/tafsir/101_تفسير القرآن الكريم للدكتور البوطي - الدرس 101.txt",
+      "sha256": "f6ab991ce1aa316e4f78a8d9d3c5ead40f96d274dc87d408ffd29b6eb78f4c25",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-414/101.txt",
+      "sha256": "cc59d4228af53e9b6b71d209bf61d6f442ae3c96a324603bb53adc4e601f4e56",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/414/102.txt",
+      "sha256": "f6ab991ce1aa316e4f78a8d9d3c5ead40f96d274dc87d408ffd29b6eb78f4c25",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "said-bouti--bouti-414"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9855,
+    "spoken_align_pct": 98.55,
+    "audio_span_pct": 98.25,
+    "words": 3246,
+    "aligned": 3197,
+    "interpolated": 47,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 23:16"
   }
- ],
- "variants": [],
- "also_in": [
-  "said-bouti--bouti-414"
- ]
 }
