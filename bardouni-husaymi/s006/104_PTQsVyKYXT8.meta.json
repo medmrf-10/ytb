@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:21",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 21,
- "n_src": "read",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 104 ( باب في الجهاد -تتمة- ) ｜ الشيخ محمد البردوني",
- "title_src": "filename",
- "sha256": "466c4e78b18751f1475df405e8a8477f162d7ce4e20a9d6dc261eb283ab6c1f4",
- "nh": "9b50c7a58fbfa83c7eeb9c6827d9e6adee99e62a5b61f830c12d9c4e8d9267f1",
- "chars": 16163,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1003/021_شرح رسالة ابن ابي زيد ｜ الدرس 104 ( باب في الجهاد -تتمة- ) ｜ الشيخ محمد البردوني.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1003/021_شرح رسالة ابن ابي زيد ｜ الدرس 104 ( باب في الجهاد -تتمة- ) ｜ الشيخ محمد البردوني.txt",
-   "sha256": "466c4e78b18751f1475df405e8a8477f162d7ce4e20a9d6dc261eb283ab6c1f4",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:21",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 21,
+  "n_src": "read",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 104 ( باب في الجهاد -تتمة- ) ｜ الشيخ محمد البردوني",
+  "title_src": "filename",
+  "sha256": "466c4e78b18751f1475df405e8a8477f162d7ce4e20a9d6dc261eb283ab6c1f4",
+  "nh": "9b50c7a58fbfa83c7eeb9c6827d9e6adee99e62a5b61f830c12d9c4e8d9267f1",
+  "chars": 16163,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1003/021_شرح رسالة ابن ابي زيد ｜ الدرس 104 ( باب في الجهاد -تتمة- ) ｜ الشيخ محمد البردوني.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1003/105.txt",
-   "sha256": "466c4e78b18751f1475df405e8a8477f162d7ce4e20a9d6dc261eb283ab6c1f4",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1003/021_شرح رسالة ابن ابي زيد ｜ الدرس 104 ( باب في الجهاد -تتمة- ) ｜ الشيخ محمد البردوني.txt",
+      "sha256": "466c4e78b18751f1475df405e8a8477f162d7ce4e20a9d6dc261eb283ab6c1f4",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1003/105.txt",
+      "sha256": "466c4e78b18751f1475df405e8a8477f162d7ce4e20a9d6dc261eb283ab6c1f4",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9956,
+    "spoken_align_pct": 99.56,
+    "audio_span_pct": 99.84,
+    "words": 3193,
+    "aligned": 3179,
+    "interpolated": 14,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 21:28"
   }
- ],
- "variants": [],
- "also_in": []
 }

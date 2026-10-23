@@ -1,37 +1,53 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:28",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 28,
- "n_src": "read",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 97 ( باب في الضحايا-تتمة- ) ｜ الشيخ محمد البردوني",
- "title_src": "filename",
- "sha256": "882177644a57c9cfea6dc1f3b1ed13f60ba36233e6ec7df351ec78323218ab4d",
- "nh": "a412c75967a88bf0d14edf51514622334e176457a64535435a094d1877bc2958",
- "chars": 13861,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1003/028_شرح رسالة ابن ابي زيد ｜ الدرس 97 ( باب في الضحايا-تتمة-  ) ｜ الشيخ محمد البردوني.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1003/028_شرح رسالة ابن ابي زيد ｜ الدرس 97 ( باب في الضحايا-تتمة-  ) ｜ الشيخ محمد البردوني.txt",
-   "sha256": "882177644a57c9cfea6dc1f3b1ed13f60ba36233e6ec7df351ec78323218ab4d",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:28",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 28,
+  "n_src": "read",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 97 ( باب في الضحايا-تتمة- ) ｜ الشيخ محمد البردوني",
+  "title_src": "filename",
+  "sha256": "882177644a57c9cfea6dc1f3b1ed13f60ba36233e6ec7df351ec78323218ab4d",
+  "nh": "a412c75967a88bf0d14edf51514622334e176457a64535435a094d1877bc2958",
+  "chars": 13861,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1003/028_شرح رسالة ابن ابي زيد ｜ الدرس 97 ( باب في الضحايا-تتمة-  ) ｜ الشيخ محمد البردوني.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1003/98.txt",
-   "sha256": "882177644a57c9cfea6dc1f3b1ed13f60ba36233e6ec7df351ec78323218ab4d",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1003/028_شرح رسالة ابن ابي زيد ｜ الدرس 97 ( باب في الضحايا-تتمة-  ) ｜ الشيخ محمد البردوني.txt",
+      "sha256": "882177644a57c9cfea6dc1f3b1ed13f60ba36233e6ec7df351ec78323218ab4d",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1003/98.txt",
+      "sha256": "882177644a57c9cfea6dc1f3b1ed13f60ba36233e6ec7df351ec78323218ab4d",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9996,
+    "spoken_align_pct": 99.96,
+    "audio_span_pct": 99.95,
+    "words": 2739,
+    "aligned": 2738,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 21:22",
+    "stripped_reasons": [
+      "METADATA_HEADER"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
