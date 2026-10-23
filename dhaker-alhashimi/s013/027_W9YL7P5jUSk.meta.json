@@ -1,31 +1,47 @@
 {
- "v": 1,
- "lid": "yt:W9YL7P5jUSk",
- "vid": "W9YL7P5jUSk",
- "sheikh": "dhaker-alhashimi",
- "row_id": "dhaker-alhashimi--hashimi-zawaj",
- "n": 26,
- "n_src": "read",
- "title": "ألف باء الزواج 25 | ممّ تتكون النفس | كيف تتشكل النفس | أمشاج",
- "title_src": "yt_titles",
- "sha256": "84c478484cce0c13177ab9f6fd03f7aec47cbebbbec0ba7dab03e7013e5975f5",
- "nh": "8988e6b47152f7090870f446b2b8441667b12f5f09ea9c3cea8f2b17e2f9ba61",
- "chars": 33360,
- "quality": "ok",
- "winner": {
-  "store": "hw-ls",
-  "path": "hawshat/playlists/lessons/hashimi-zawaj/026.txt",
-  "commit_ts": 1791587745,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/hashimi-zawaj/026.txt",
-   "sha256": "84c478484cce0c13177ab9f6fd03f7aec47cbebbbec0ba7dab03e7013e5975f5",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:W9YL7P5jUSk",
+  "vid": "W9YL7P5jUSk",
+  "sheikh": "dhaker-alhashimi",
+  "row_id": "dhaker-alhashimi--hashimi-zawaj",
+  "n": 26,
+  "n_src": "read",
+  "title": "ألف باء الزواج 25 | ممّ تتكون النفس | كيف تتشكل النفس | أمشاج",
+  "title_src": "yt_titles",
+  "sha256": "84c478484cce0c13177ab9f6fd03f7aec47cbebbbec0ba7dab03e7013e5975f5",
+  "nh": "8988e6b47152f7090870f446b2b8441667b12f5f09ea9c3cea8f2b17e2f9ba61",
+  "chars": 33360,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-ls",
+    "path": "hawshat/playlists/lessons/hashimi-zawaj/026.txt",
+    "commit_ts": 1791587745,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/hashimi-zawaj/026.txt",
+      "sha256": "84c478484cce0c13177ab9f6fd03f7aec47cbebbbec0ba7dab03e7013e5975f5",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9998,
+    "spoken_align_pct": 99.98,
+    "audio_span_pct": 99.72,
+    "words": 6014,
+    "aligned": 6013,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 18:05",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

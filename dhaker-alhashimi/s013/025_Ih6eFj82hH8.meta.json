@@ -1,31 +1,56 @@
 {
- "v": 1,
- "lid": "yt:Ih6eFj82hH8",
- "vid": "Ih6eFj82hH8",
- "sheikh": "dhaker-alhashimi",
- "row_id": "dhaker-alhashimi--hashimi-zawaj",
- "n": 24,
- "n_src": "read",
- "title": "ألف باء الزواج 23 | صوارف ومعوقات وموانع 02 | ج هـ ل | المخادعات",
- "title_src": "yt_titles",
- "sha256": "8d760bf626e553dee7163463ae4b6719262ff8f8a888c46e1908179531e2c6c6",
- "nh": "d961d27ac1800071db45a7759f04a724d21c78b0a45579de5b9b202708a95143",
- "chars": 67359,
- "quality": "ok",
- "winner": {
-  "store": "hw-ls",
-  "path": "hawshat/playlists/lessons/hashimi-zawaj/024.txt",
-  "commit_ts": 1791587745,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/hashimi-zawaj/024.txt",
-   "sha256": "8d760bf626e553dee7163463ae4b6719262ff8f8a888c46e1908179531e2c6c6",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:Ih6eFj82hH8",
+  "vid": "Ih6eFj82hH8",
+  "sheikh": "dhaker-alhashimi",
+  "row_id": "dhaker-alhashimi--hashimi-zawaj",
+  "n": 24,
+  "n_src": "read",
+  "title": "ألف باء الزواج 23 | صوارف ومعوقات وموانع 02 | ج هـ ل | المخادعات",
+  "title_src": "yt_titles",
+  "sha256": "8d760bf626e553dee7163463ae4b6719262ff8f8a888c46e1908179531e2c6c6",
+  "nh": "d961d27ac1800071db45a7759f04a724d21c78b0a45579de5b9b202708a95143",
+  "chars": 67359,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-ls",
+    "path": "hawshat/playlists/lessons/hashimi-zawaj/024.txt",
+    "commit_ts": 1791587745,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/hashimi-zawaj/024.txt",
+      "sha256": "8d760bf626e553dee7163463ae4b6719262ff8f8a888c46e1908179531e2c6c6",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.8655,
+    "spoken_align_pct": 86.55,
+    "audio_span_pct": 98.37,
+    "words": 12988,
+    "aligned": 11240,
+    "interpolated": 1747,
+    "retried_without_silence_compact": true,
+    "local_agc_applied": true,
+    "at": "2026-10-23 18:00",
+    "low_coverage_diagnosis": {
+      "spoken_align_pct": 86.55,
+      "interpolated_words": 1747,
+      "unaligned_clusters_count": 52,
+      "max_cluster_words": 77,
+      "wpm": 126.2,
+      "audio_span_pct": 98.37,
+      "forced_steps": 0,
+      "causes": [
+        "TEXT_HALLUCINATION_OR_CHUNK_REPEAT(clusters=52, max_run=77w @ 197.12s: «الموضوع الفلاني، ألا وهو ايش؟ الكبر. الثنائي ما بده حد يعترف»)"
+      ]
+    }
   }
- ],
- "variants": [],
- "also_in": []
 }
