@@ -1,31 +1,47 @@
 {
- "v": 1,
- "lid": "yt:5Tjku71RUMo",
- "vid": "5Tjku71RUMo",
- "sheikh": "dhaker-alhashimi",
- "row_id": "dhaker-alhashimi--hashimi-zawaj",
- "n": 33,
- "n_src": "read",
- "title": "ألف باء الزواج 30 | الحاجات |  الاستعداد المادي 02",
- "title_src": "yt_titles",
- "sha256": "7b4711690ab1790a3d5aea13a9ff24d8a79a9266c002f973906aabd60ff02b86",
- "nh": "5fe1a440e12002ce4e02a118fd247c028f44b723f5ac04e01c1727dc551f7e86",
- "chars": 92406,
- "quality": "ok",
- "winner": {
-  "store": "hw-ls",
-  "path": "hawshat/playlists/lessons/hashimi-zawaj/033.txt",
-  "commit_ts": 1791587745,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/hashimi-zawaj/033.txt",
-   "sha256": "7b4711690ab1790a3d5aea13a9ff24d8a79a9266c002f973906aabd60ff02b86",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:5Tjku71RUMo",
+  "vid": "5Tjku71RUMo",
+  "sheikh": "dhaker-alhashimi",
+  "row_id": "dhaker-alhashimi--hashimi-zawaj",
+  "n": 33,
+  "n_src": "read",
+  "title": "ألف باء الزواج 30 | الحاجات |  الاستعداد المادي 02",
+  "title_src": "yt_titles",
+  "sha256": "7b4711690ab1790a3d5aea13a9ff24d8a79a9266c002f973906aabd60ff02b86",
+  "nh": "5fe1a440e12002ce4e02a118fd247c028f44b723f5ac04e01c1727dc551f7e86",
+  "chars": 92406,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-ls",
+    "path": "hawshat/playlists/lessons/hashimi-zawaj/033.txt",
+    "commit_ts": 1791587745,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/hashimi-zawaj/033.txt",
+      "sha256": "7b4711690ab1790a3d5aea13a9ff24d8a79a9266c002f973906aabd60ff02b86",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9945,
+    "spoken_align_pct": 99.45,
+    "audio_span_pct": 99.88,
+    "words": 17881,
+    "aligned": 17782,
+    "interpolated": 99,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 18:17",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

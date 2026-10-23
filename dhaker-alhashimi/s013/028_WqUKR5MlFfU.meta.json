@@ -1,31 +1,48 @@
 {
- "v": 1,
- "lid": "yt:WqUKR5MlFfU",
- "vid": "WqUKR5MlFfU",
- "sheikh": "dhaker-alhashimi",
- "row_id": "dhaker-alhashimi--hashimi-zawaj",
- "n": 27,
- "n_src": "read",
- "title": "ألف باء الزواج 26 | ممّ تتكون النفس | الجسد + الروح 01",
- "title_src": "yt_titles",
- "sha256": "fa3be66a5aa8484ebb20867fee08fbb44d3f5c2c9ff181e9e18f263a4480165e",
- "nh": "a0ce7788625c3675f2dcaa21aef627e700d38659e246ca0556c9172f2647cb0c",
- "chars": 64496,
- "quality": "ok",
- "winner": {
-  "store": "hw-ls",
-  "path": "hawshat/playlists/lessons/hashimi-zawaj/027.txt",
-  "commit_ts": 1791587745,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/hashimi-zawaj/027.txt",
-   "sha256": "fa3be66a5aa8484ebb20867fee08fbb44d3f5c2c9ff181e9e18f263a4480165e",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:WqUKR5MlFfU",
+  "vid": "WqUKR5MlFfU",
+  "sheikh": "dhaker-alhashimi",
+  "row_id": "dhaker-alhashimi--hashimi-zawaj",
+  "n": 27,
+  "n_src": "read",
+  "title": "ألف باء الزواج 26 | ممّ تتكون النفس | الجسد + الروح 01",
+  "title_src": "yt_titles",
+  "sha256": "fa3be66a5aa8484ebb20867fee08fbb44d3f5c2c9ff181e9e18f263a4480165e",
+  "nh": "a0ce7788625c3675f2dcaa21aef627e700d38659e246ca0556c9172f2647cb0c",
+  "chars": 64496,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-ls",
+    "path": "hawshat/playlists/lessons/hashimi-zawaj/027.txt",
+    "commit_ts": 1791587745,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/hashimi-zawaj/027.txt",
+      "sha256": "fa3be66a5aa8484ebb20867fee08fbb44d3f5c2c9ff181e9e18f263a4480165e",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9993,
+    "spoken_align_pct": 99.93,
+    "audio_span_pct": 99.82,
+    "words": 12288,
+    "aligned": 12256,
+    "interpolated": 8,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 18:10",
+    "stripped_reasons": [
+      "LATIN_PREAMBLE",
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
