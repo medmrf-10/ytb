@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:xJrH29MOXok",
- "vid": "xJrH29MOXok",
- "sheikh": "dhaker-alhashimi",
- "row_id": "dhaker-alhashimi--hashimi-zawaj",
- "n": 25,
- "n_src": "read",
- "title": "ألف باء الزواج 24 | تعريف فقه النفس | بين الطمأنينة والسعادة",
- "title_src": "yt_titles",
- "sha256": "a6ef62f1526da4a63e232acda161c6a9bb7d7ec3168f263ea421ecc58dc8f3cd",
- "nh": "8a6524d8d4a66884a3acb2bd5eae6ce0567361022b195b43e10133b1ece13cc9",
- "chars": 65394,
- "quality": "ok",
- "winner": {
-  "store": "hw-ls",
-  "path": "hawshat/playlists/lessons/hashimi-zawaj/025.txt",
-  "commit_ts": 1791587745,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/hashimi-zawaj/025.txt",
-   "sha256": "a6ef62f1526da4a63e232acda161c6a9bb7d7ec3168f263ea421ecc58dc8f3cd",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:xJrH29MOXok",
+  "vid": "xJrH29MOXok",
+  "sheikh": "dhaker-alhashimi",
+  "row_id": "dhaker-alhashimi--hashimi-zawaj",
+  "n": 25,
+  "n_src": "read",
+  "title": "ألف باء الزواج 24 | تعريف فقه النفس | بين الطمأنينة والسعادة",
+  "title_src": "yt_titles",
+  "sha256": "a6ef62f1526da4a63e232acda161c6a9bb7d7ec3168f263ea421ecc58dc8f3cd",
+  "nh": "8a6524d8d4a66884a3acb2bd5eae6ce0567361022b195b43e10133b1ece13cc9",
+  "chars": 65394,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-ls",
+    "path": "hawshat/playlists/lessons/hashimi-zawaj/025.txt",
+    "commit_ts": 1791587745,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/hashimi-zawaj/025.txt",
+      "sha256": "a6ef62f1526da4a63e232acda161c6a9bb7d7ec3168f263ea421ecc58dc8f3cd",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9995,
+    "spoken_align_pct": 99.95,
+    "audio_span_pct": 99.94,
+    "words": 12288,
+    "aligned": 12282,
+    "interpolated": 6,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 18:08"
   }
- ],
- "variants": [],
- "also_in": []
 }
