@@ -1,37 +1,53 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:43",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 43,
- "n_src": "read",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 83 ( قوله ＂ و يستحب أن يدخل من كداء ＂ ) ｜ الشيخ م",
- "title_src": "filename",
- "sha256": "89c0193ca00a3505fb257b547047114f6f7d2ccbae39f03ca96f5db810a343f9",
- "nh": "6e557632560d5871a572f01b832fed6855cc21f88ec6d3281a9d059b5687e689",
- "chars": 14885,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1003/043_شرح رسالة ابن ابي زيد ｜ الدرس 83 ( قوله ＂ و يستحب أن يدخل من كداء ＂  ) ｜ الشيخ م.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1003/043_شرح رسالة ابن ابي زيد ｜ الدرس 83 ( قوله ＂ و يستحب أن يدخل من كداء ＂  ) ｜ الشيخ م.txt",
-   "sha256": "89c0193ca00a3505fb257b547047114f6f7d2ccbae39f03ca96f5db810a343f9",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:43",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 43,
+  "n_src": "read",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 83 ( قوله ＂ و يستحب أن يدخل من كداء ＂ ) ｜ الشيخ م",
+  "title_src": "filename",
+  "sha256": "89c0193ca00a3505fb257b547047114f6f7d2ccbae39f03ca96f5db810a343f9",
+  "nh": "6e557632560d5871a572f01b832fed6855cc21f88ec6d3281a9d059b5687e689",
+  "chars": 14885,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1003/043_شرح رسالة ابن ابي زيد ｜ الدرس 83 ( قوله ＂ و يستحب أن يدخل من كداء ＂  ) ｜ الشيخ م.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1003/83.txt",
-   "sha256": "89c0193ca00a3505fb257b547047114f6f7d2ccbae39f03ca96f5db810a343f9",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1003/043_شرح رسالة ابن ابي زيد ｜ الدرس 83 ( قوله ＂ و يستحب أن يدخل من كداء ＂  ) ｜ الشيخ م.txt",
+      "sha256": "89c0193ca00a3505fb257b547047114f6f7d2ccbae39f03ca96f5db810a343f9",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1003/83.txt",
+      "sha256": "89c0193ca00a3505fb257b547047114f6f7d2ccbae39f03ca96f5db810a343f9",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9997,
+    "spoken_align_pct": 99.97,
+    "audio_span_pct": 99.89,
+    "words": 2911,
+    "aligned": 2910,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 21:02",
+    "stripped_reasons": [
+      "METADATA_HEADER"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

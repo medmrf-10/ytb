@@ -1,37 +1,54 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:42",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 42,
- "n_src": "read",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 84 ( قوله ＂ ثم بعد ذلك يخرج الى الصفا ＂ ) ｜ الشيخ",
- "title_src": "filename",
- "sha256": "8e548baec928fc79c8eb39b73d2962ce8423db932252fdc547b5e03bebbd0093",
- "nh": "7dd72a26d118657bb2595fe765ec04d377a8e860d0e7f7db20c9dfb1d113fabe",
- "chars": 15931,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1003/042_شرح رسالة ابن ابي زيد ｜ الدرس 84 ( قوله ＂ ثم بعد ذلك يخرج الى الصفا ＂  ) ｜ الشيخ.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1003/042_شرح رسالة ابن ابي زيد ｜ الدرس 84 ( قوله ＂ ثم بعد ذلك يخرج الى الصفا ＂  ) ｜ الشيخ.txt",
-   "sha256": "8e548baec928fc79c8eb39b73d2962ce8423db932252fdc547b5e03bebbd0093",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:42",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 42,
+  "n_src": "read",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 84 ( قوله ＂ ثم بعد ذلك يخرج الى الصفا ＂ ) ｜ الشيخ",
+  "title_src": "filename",
+  "sha256": "8e548baec928fc79c8eb39b73d2962ce8423db932252fdc547b5e03bebbd0093",
+  "nh": "7dd72a26d118657bb2595fe765ec04d377a8e860d0e7f7db20c9dfb1d113fabe",
+  "chars": 15931,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1003/042_شرح رسالة ابن ابي زيد ｜ الدرس 84 ( قوله ＂ ثم بعد ذلك يخرج الى الصفا ＂  ) ｜ الشيخ.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1003/84.txt",
-   "sha256": "8e548baec928fc79c8eb39b73d2962ce8423db932252fdc547b5e03bebbd0093",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1003/042_شرح رسالة ابن ابي زيد ｜ الدرس 84 ( قوله ＂ ثم بعد ذلك يخرج الى الصفا ＂  ) ｜ الشيخ.txt",
+      "sha256": "8e548baec928fc79c8eb39b73d2962ce8423db932252fdc547b5e03bebbd0093",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1003/84.txt",
+      "sha256": "8e548baec928fc79c8eb39b73d2962ce8423db932252fdc547b5e03bebbd0093",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9962,
+    "spoken_align_pct": 99.62,
+    "audio_span_pct": 99.97,
+    "words": 3146,
+    "aligned": 3134,
+    "interpolated": 12,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 21:03",
+    "stripped_reasons": [
+      "METADATA_HEADER",
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

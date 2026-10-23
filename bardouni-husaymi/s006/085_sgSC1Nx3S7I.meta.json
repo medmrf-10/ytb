@@ -1,37 +1,53 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:41",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 41,
- "n_src": "read",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 85 ( قوله ＂ ثم اذا صلى الصبح من تاسع منى ＂ ) ｜ ال",
- "title_src": "filename",
- "sha256": "1c2b6fefccf77c7fa8b26bf560988ffa4ec3eb7429631c8902f9ef4008f628ac",
- "nh": "90f56960a06eef61956f5e807b7d0f6ff02de3a967b4f799e34decf7072719b6",
- "chars": 15900,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1003/041_شرح رسالة ابن ابي زيد ｜ الدرس 85 ( قوله ＂ ثم اذا صلى الصبح من تاسع منى ＂  ) ｜ ال.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1003/041_شرح رسالة ابن ابي زيد ｜ الدرس 85 ( قوله ＂ ثم اذا صلى الصبح من تاسع منى ＂  ) ｜ ال.txt",
-   "sha256": "1c2b6fefccf77c7fa8b26bf560988ffa4ec3eb7429631c8902f9ef4008f628ac",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:41",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 41,
+  "n_src": "read",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 85 ( قوله ＂ ثم اذا صلى الصبح من تاسع منى ＂ ) ｜ ال",
+  "title_src": "filename",
+  "sha256": "1c2b6fefccf77c7fa8b26bf560988ffa4ec3eb7429631c8902f9ef4008f628ac",
+  "nh": "90f56960a06eef61956f5e807b7d0f6ff02de3a967b4f799e34decf7072719b6",
+  "chars": 15900,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1003/041_شرح رسالة ابن ابي زيد ｜ الدرس 85 ( قوله ＂ ثم اذا صلى الصبح من تاسع منى ＂  ) ｜ ال.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1003/85.txt",
-   "sha256": "1c2b6fefccf77c7fa8b26bf560988ffa4ec3eb7429631c8902f9ef4008f628ac",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1003/041_شرح رسالة ابن ابي زيد ｜ الدرس 85 ( قوله ＂ ثم اذا صلى الصبح من تاسع منى ＂  ) ｜ ال.txt",
+      "sha256": "1c2b6fefccf77c7fa8b26bf560988ffa4ec3eb7429631c8902f9ef4008f628ac",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1003/85.txt",
+      "sha256": "1c2b6fefccf77c7fa8b26bf560988ffa4ec3eb7429631c8902f9ef4008f628ac",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9994,
+    "spoken_align_pct": 99.94,
+    "audio_span_pct": 100.0,
+    "words": 3134,
+    "aligned": 3132,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 21:03",
+    "stripped_reasons": [
+      "METADATA_HEADER"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

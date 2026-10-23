@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:40",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 40,
- "n_src": "read",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 86 ( قوله ＂ فإذا وصل منى رمى جمرة العقبة ＂ ) ｜ ال",
- "title_src": "filename",
- "sha256": "346edb3ee9144013d604f09dc8a55060eace460c784dd50e591a6791ed761e0c",
- "nh": "295d27f830c1545ee7e3c6698e579661372809a951b6139567f81cd3a0d7974a",
- "chars": 23593,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1003/040_شرح رسالة ابن ابي زيد ｜ الدرس 86 ( قوله ＂ فإذا وصل منى رمى جمرة العقبة ＂  ) ｜ ال.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1003/040_شرح رسالة ابن ابي زيد ｜ الدرس 86 ( قوله ＂ فإذا وصل منى رمى جمرة العقبة ＂  ) ｜ ال.txt",
-   "sha256": "346edb3ee9144013d604f09dc8a55060eace460c784dd50e591a6791ed761e0c",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:40",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 40,
+  "n_src": "read",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 86 ( قوله ＂ فإذا وصل منى رمى جمرة العقبة ＂ ) ｜ ال",
+  "title_src": "filename",
+  "sha256": "346edb3ee9144013d604f09dc8a55060eace460c784dd50e591a6791ed761e0c",
+  "nh": "295d27f830c1545ee7e3c6698e579661372809a951b6139567f81cd3a0d7974a",
+  "chars": 23593,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1003/040_شرح رسالة ابن ابي زيد ｜ الدرس 86 ( قوله ＂ فإذا وصل منى رمى جمرة العقبة ＂  ) ｜ ال.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1003/86.txt",
-   "sha256": "346edb3ee9144013d604f09dc8a55060eace460c784dd50e591a6791ed761e0c",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1003/040_شرح رسالة ابن ابي زيد ｜ الدرس 86 ( قوله ＂ فإذا وصل منى رمى جمرة العقبة ＂  ) ｜ ال.txt",
+      "sha256": "346edb3ee9144013d604f09dc8a55060eace460c784dd50e591a6791ed761e0c",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1003/86.txt",
+      "sha256": "346edb3ee9144013d604f09dc8a55060eace460c784dd50e591a6791ed761e0c",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.998,
+    "spoken_align_pct": 99.8,
+    "audio_span_pct": 99.94,
+    "words": 4565,
+    "aligned": 4556,
+    "interpolated": 9,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 21:09"
   }
- ],
- "variants": [],
- "also_in": []
 }
