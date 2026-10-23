@@ -46,5 +46,30 @@
   "words": 4499,
   "wpm": 89.8,
   "model": "gemini-3.8-flash-high",
-  "ok": true
+  "ok": true,
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9277,
+    "spoken_align_pct": 92.77,
+    "audio_span_pct": 99.99,
+    "words": 4499,
+    "aligned": 4170,
+    "interpolated": 325,
+    "retried_without_silence_compact": true,
+    "local_agc_applied": true,
+    "at": "2026-10-23 22:41",
+    "low_coverage_diagnosis": {
+      "spoken_align_pct": 92.77,
+      "interpolated_words": 325,
+      "unaligned_clusters_count": 6,
+      "max_cluster_words": 179,
+      "wpm": 89.7,
+      "audio_span_pct": 99.99,
+      "forced_steps": 0,
+      "causes": [
+        "TEXT_HALLUCINATION_OR_CHUNK_REPEAT(clusters=6, max_run=179w @ 2399.56s: «لك يا عمي مادام أنت بتعرف حالك استمعت إلى الملف الصوتي»)"
+      ]
+    }
+  }
 }
