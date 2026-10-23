@@ -1,16 +1,16 @@
 {
-  "aligned": 1,
-  "aligned_ratio": 0.005,
+  "aligned": 4,
+  "aligned_ratio": 0.02,
   "category": "التفسير وعلوم القرآن",
   "coverage": 1.0,
   "declared_total": 200,
   "key": "s001",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 26618,
-      "dur": 3684,
+      "dur": 3683,
       "file": "001_MgujOjDesPA.txt",
       "n": 1,
       "stem": "001_MgujOjDesPA",
@@ -18,10 +18,10 @@
       "vid": "MgujOjDesPA"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 27410,
-      "dur": 3479,
+      "dur": 3478,
       "file": "002_X02Ihzs90uk.txt",
       "n": 2,
       "stem": "002_X02Ihzs90uk",
@@ -40,10 +40,10 @@
       "vid": "mOPGsFX-UlE"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 27955,
-      "dur": 3436,
+      "dur": 3435,
       "file": "004_RNN7_lA3-WI.txt",
       "n": 4,
       "stem": "004_RNN7_lA3-WI",

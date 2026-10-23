@@ -1,37 +1,53 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:2",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 2,
- "n_src": "read",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 123( باب في الظهار ) ｜ الشيخ محمد البردوني",
- "title_src": "filename",
- "sha256": "d44b2c7cd7500db6a4b9f295d908e67e4f04bae09d2968eee80eb3cb2b7b4958",
- "nh": "91acd653c9cac63adee92670f2fb0219bcf426f936098de1ff12053c03a389c1",
- "chars": 14595,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1003/002_شرح رسالة ابن ابي زيد ｜ الدرس 123( باب في الظهار ) ｜ الشيخ محمد البردوني.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1003/002_شرح رسالة ابن ابي زيد ｜ الدرس 123( باب في الظهار ) ｜ الشيخ محمد البردوني.txt",
-   "sha256": "d44b2c7cd7500db6a4b9f295d908e67e4f04bae09d2968eee80eb3cb2b7b4958",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:2",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 2,
+  "n_src": "read",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 123( باب في الظهار ) ｜ الشيخ محمد البردوني",
+  "title_src": "filename",
+  "sha256": "d44b2c7cd7500db6a4b9f295d908e67e4f04bae09d2968eee80eb3cb2b7b4958",
+  "nh": "91acd653c9cac63adee92670f2fb0219bcf426f936098de1ff12053c03a389c1",
+  "chars": 14595,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1003/002_شرح رسالة ابن ابي زيد ｜ الدرس 123( باب في الظهار ) ｜ الشيخ محمد البردوني.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1003/124.txt",
-   "sha256": "d44b2c7cd7500db6a4b9f295d908e67e4f04bae09d2968eee80eb3cb2b7b4958",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1003/002_شرح رسالة ابن ابي زيد ｜ الدرس 123( باب في الظهار ) ｜ الشيخ محمد البردوني.txt",
+      "sha256": "d44b2c7cd7500db6a4b9f295d908e67e4f04bae09d2968eee80eb3cb2b7b4958",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1003/124.txt",
+      "sha256": "d44b2c7cd7500db6a4b9f295d908e67e4f04bae09d2968eee80eb3cb2b7b4958",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9993,
+    "spoken_align_pct": 99.93,
+    "audio_span_pct": 100.0,
+    "words": 2838,
+    "aligned": 2836,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 21:35",
+    "stripped_reasons": [
+      "METADATA_HEADER"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
