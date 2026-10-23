@@ -1,31 +1,48 @@
 {
- "v": 1,
- "lid": "yt:PdRHPQKZFEI",
- "vid": "PdRHPQKZFEI",
- "sheikh": "dhaker-alhashimi",
- "row_id": "dhaker-alhashimi--hashimi-zawaj",
- "n": 3,
- "n_src": "read",
- "title": "ألف باء الزواج 03 | جهالات ومخادعات ومغالطات 01 | حول أمشاج النفس الإنسانية وحاجاتها",
- "title_src": "yt_titles",
- "sha256": "52549e48b034fc42e1dbf591390e92c6e2b20f9137adf60603725b11084ee1e5",
- "nh": "b60a201d57272126130b6db1706086e2652b059e976dd25135a0e292f47f17cc",
- "chars": 88986,
- "quality": "ok",
- "winner": {
-  "store": "hw-ls",
-  "path": "hawshat/playlists/lessons/hashimi-zawaj/003.txt",
-  "commit_ts": 1791587745,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/hashimi-zawaj/003.txt",
-   "sha256": "52549e48b034fc42e1dbf591390e92c6e2b20f9137adf60603725b11084ee1e5",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:PdRHPQKZFEI",
+  "vid": "PdRHPQKZFEI",
+  "sheikh": "dhaker-alhashimi",
+  "row_id": "dhaker-alhashimi--hashimi-zawaj",
+  "n": 3,
+  "n_src": "read",
+  "title": "ألف باء الزواج 03 | جهالات ومخادعات ومغالطات 01 | حول أمشاج النفس الإنسانية وحاجاتها",
+  "title_src": "yt_titles",
+  "sha256": "52549e48b034fc42e1dbf591390e92c6e2b20f9137adf60603725b11084ee1e5",
+  "nh": "b60a201d57272126130b6db1706086e2652b059e976dd25135a0e292f47f17cc",
+  "chars": 88986,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-ls",
+    "path": "hawshat/playlists/lessons/hashimi-zawaj/003.txt",
+    "commit_ts": 1791587745,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/hashimi-zawaj/003.txt",
+      "sha256": "52549e48b034fc42e1dbf591390e92c6e2b20f9137adf60603725b11084ee1e5",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.987,
+    "spoken_align_pct": 98.7,
+    "audio_span_pct": 98.52,
+    "words": 16886,
+    "aligned": 16643,
+    "interpolated": 220,
+    "retried_without_silence_compact": true,
+    "local_agc_applied": true,
+    "at": "2026-10-23 17:14",
+    "stripped_reasons": [
+      "LATIN_PREAMBLE",
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
