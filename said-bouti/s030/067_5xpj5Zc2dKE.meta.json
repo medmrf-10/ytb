@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:5xpj5Zc2dKE",
- "vid": "5xpj5Zc2dKE",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--403",
- "n": 67,
- "n_src": "plpos",
- "title": "65- فقه السيرة النبوية | خلافة سيدنا أبي بكر الصديق",
- "title_src": "yt_titles",
- "sha256": "30d1e767b78aa558cf6ada99e78a2a49a27f1de0d07eede3df83d7628550e1d5",
- "nh": "27940a9513629e860d598a20985df06f3525d3b33aea178dad8cd51ace4a6ac4",
- "chars": 23728,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/403/067_65- فقه السيرة النبوية ｜ خلافة سيدنا أبي بكر الصديق.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/403/067_65- فقه السيرة النبوية ｜ خلافة سيدنا أبي بكر الصديق.txt",
-   "sha256": "30d1e767b78aa558cf6ada99e78a2a49a27f1de0d07eede3df83d7628550e1d5",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:5xpj5Zc2dKE",
+  "vid": "5xpj5Zc2dKE",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--403",
+  "n": 67,
+  "n_src": "plpos",
+  "title": "65- فقه السيرة النبوية | خلافة سيدنا أبي بكر الصديق",
+  "title_src": "yt_titles",
+  "sha256": "30d1e767b78aa558cf6ada99e78a2a49a27f1de0d07eede3df83d7628550e1d5",
+  "nh": "27940a9513629e860d598a20985df06f3525d3b33aea178dad8cd51ace4a6ac4",
+  "chars": 23728,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/403/067_65- فقه السيرة النبوية ｜ خلافة سيدنا أبي بكر الصديق.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "irth",
-   "path": "irth/content/tube/fi9hElsirah-067/transcript.txt",
-   "sha256": "bfd0b0ddeb6cc9a1634b2638b52450493425a1cf1c30b68ff6746fa2b3c9cf48",
-   "rel": "same-body"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-sira/67.txt",
-   "sha256": "bfd0b0ddeb6cc9a1634b2638b52450493425a1cf1c30b68ff6746fa2b3c9cf48",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/403/66.txt",
-   "sha256": "30d1e767b78aa558cf6ada99e78a2a49a27f1de0d07eede3df83d7628550e1d5",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/403/067_65- فقه السيرة النبوية ｜ خلافة سيدنا أبي بكر الصديق.txt",
+      "sha256": "30d1e767b78aa558cf6ada99e78a2a49a27f1de0d07eede3df83d7628550e1d5",
+      "rel": "identical"
+    },
+    {
+      "store": "irth",
+      "path": "irth/content/tube/fi9hElsirah-067/transcript.txt",
+      "sha256": "bfd0b0ddeb6cc9a1634b2638b52450493425a1cf1c30b68ff6746fa2b3c9cf48",
+      "rel": "same-body"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-sira/67.txt",
+      "sha256": "bfd0b0ddeb6cc9a1634b2638b52450493425a1cf1c30b68ff6746fa2b3c9cf48",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/403/66.txt",
+      "sha256": "30d1e767b78aa558cf6ada99e78a2a49a27f1de0d07eede3df83d7628550e1d5",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9996,
+    "spoken_align_pct": 99.96,
+    "audio_span_pct": 98.57,
+    "words": 4476,
+    "aligned": 4474,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 16:56"
   }
- ],
- "variants": [],
- "also_in": []
 }
