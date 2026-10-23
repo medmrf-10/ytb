@@ -1,6 +1,6 @@
 {
-  "aligned": 68,
-  "aligned_ratio": 0.9714,
+  "aligned": 70,
+  "aligned_ratio": 1.0,
   "category": "السيرة النبوية والتاريخ",
   "coverage": 1.0,
   "declared_total": 70,
@@ -755,8 +755,8 @@
       "vid": "26_rN3YjUug"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 24234,
       "dur": 3497,
       "file": "069_4Tw56D1Z2sA.txt",
@@ -766,10 +766,10 @@
       "vid": "4Tw56D1Z2sA"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 25365,
-      "dur": 3430,
+      "dur": 3429,
       "file": "070_Ou-gQ4pF218.txt",
       "n": 70,
       "stem": "070_Ou-gQ4pF218",
