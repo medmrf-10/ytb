@@ -1,31 +1,48 @@
 {
- "v": 1,
- "lid": "yt:BBY8typy7F4",
- "vid": "BBY8typy7F4",
- "sheikh": "dhaker-alhashimi",
- "row_id": "dhaker-alhashimi--hashimi-zawaj",
- "n": 38,
- "n_src": "read",
- "title": "ألف باء الزواج 35 | أعمال وتطبيقات + خُلاصات وسرد + قصص واقعية",
- "title_src": "yt_titles",
- "sha256": "ba839d91770eaacff3f6849e7fe7551a15b1cbd13ba52817d6f302203979fbe2",
- "nh": "9a7c67b1f8459b5b9a9f887989bc9825d650d13dcc729e64f9220fa46efe823d",
- "chars": 60366,
- "quality": "ok",
- "winner": {
-  "store": "hw-ls",
-  "path": "hawshat/playlists/lessons/hashimi-zawaj/038.txt",
-  "commit_ts": 1791587745,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/hashimi-zawaj/038.txt",
-   "sha256": "ba839d91770eaacff3f6849e7fe7551a15b1cbd13ba52817d6f302203979fbe2",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:BBY8typy7F4",
+  "vid": "BBY8typy7F4",
+  "sheikh": "dhaker-alhashimi",
+  "row_id": "dhaker-alhashimi--hashimi-zawaj",
+  "n": 38,
+  "n_src": "read",
+  "title": "ألف باء الزواج 35 | أعمال وتطبيقات + خُلاصات وسرد + قصص واقعية",
+  "title_src": "yt_titles",
+  "sha256": "ba839d91770eaacff3f6849e7fe7551a15b1cbd13ba52817d6f302203979fbe2",
+  "nh": "9a7c67b1f8459b5b9a9f887989bc9825d650d13dcc729e64f9220fa46efe823d",
+  "chars": 60366,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-ls",
+    "path": "hawshat/playlists/lessons/hashimi-zawaj/038.txt",
+    "commit_ts": 1791587745,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/hashimi-zawaj/038.txt",
+      "sha256": "ba839d91770eaacff3f6849e7fe7551a15b1cbd13ba52817d6f302203979fbe2",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9883,
+    "spoken_align_pct": 98.83,
+    "audio_span_pct": 99.98,
+    "words": 11459,
+    "aligned": 11324,
+    "interpolated": 134,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 18:33",
+    "stripped_reasons": [
+      "LATIN_PREAMBLE",
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
