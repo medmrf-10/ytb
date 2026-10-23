@@ -1,31 +1,47 @@
 {
- "v": 1,
- "lid": "yt:L9xyvbp_Bu8",
- "vid": "L9xyvbp_Bu8",
- "sheikh": "dhaker-alhashimi",
- "row_id": "dhaker-alhashimi--hashimi-zawaj",
- "n": 59,
- "n_src": "read",
- "title": "ألف باء الزواج 56 | بين الرجولة والأنوثة | فقه الرجولة 03 صفات الرجولة",
- "title_src": "yt_titles",
- "sha256": "8e6a66fb3cffef777c49de7a032dc97ab13e6135178198e9a6a289e9d14f9838",
- "nh": "9279bb48f0f1250868d62f58796af2c5c9f18948a4016da52d226f6c91a9281c",
- "chars": 39537,
- "quality": "ok",
- "winner": {
-  "store": "hw-ls",
-  "path": "hawshat/playlists/lessons/hashimi-zawaj/059.txt",
-  "commit_ts": 1791587745,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/hashimi-zawaj/059.txt",
-   "sha256": "8e6a66fb3cffef777c49de7a032dc97ab13e6135178198e9a6a289e9d14f9838",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:L9xyvbp_Bu8",
+  "vid": "L9xyvbp_Bu8",
+  "sheikh": "dhaker-alhashimi",
+  "row_id": "dhaker-alhashimi--hashimi-zawaj",
+  "n": 59,
+  "n_src": "read",
+  "title": "ألف باء الزواج 56 | بين الرجولة والأنوثة | فقه الرجولة 03 صفات الرجولة",
+  "title_src": "yt_titles",
+  "sha256": "8e6a66fb3cffef777c49de7a032dc97ab13e6135178198e9a6a289e9d14f9838",
+  "nh": "9279bb48f0f1250868d62f58796af2c5c9f18948a4016da52d226f6c91a9281c",
+  "chars": 39537,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-ls",
+    "path": "hawshat/playlists/lessons/hashimi-zawaj/059.txt",
+    "commit_ts": 1791587745,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/hashimi-zawaj/059.txt",
+      "sha256": "8e6a66fb3cffef777c49de7a032dc97ab13e6135178198e9a6a289e9d14f9838",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9969,
+    "spoken_align_pct": 99.69,
+    "audio_span_pct": 99.99,
+    "words": 7492,
+    "aligned": 7469,
+    "interpolated": 23,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 19:10",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
