@@ -1,8 +1,8 @@
 {
   "sheikhs": [
     {
-      "aligned": 805,
-      "chars": 20560503,
+      "aligned": 814,
+      "chars": 20560484,
       "lessons": 1165,
       "name": "محمد سعيد رمضان البوطي",
       "path": "said-bouti/",
@@ -10,14 +10,14 @@
       "series": 34,
       "series_list": [
         {
-          "aligned": 175,
-          "aligned_pct": "87.5%",
+          "aligned": 184,
+          "aligned_pct": "92.0%",
           "category": "التفسير وعلوم القرآن",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 200,
           "dir": "s001/",
-          "dur": 548413,
+          "dur": 548406,
           "key": "s001",
           "series_id": "bouti__s001",
           "title": "دروس تفسير القرآن الكريم",
@@ -5828,8 +5828,8 @@
     }
   ],
   "totals": {
-    "aligned": 3867,
-    "chars": 157885661,
+    "aligned": 3876,
+    "chars": 157885642,
     "lessons": 6712,
     "series": 393,
     "sheikhs": 27

@@ -1,31 +1,47 @@
 {
- "v": 1,
- "lid": "yt:_6RljeMW4Y0",
- "vid": "_6RljeMW4Y0",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--bouti-414",
- "n": 181,
- "n_src": "read",
- "title": "الدرس 181",
- "title_src": "filename",
- "sha256": "72def769a221e63cba8017a2821cb2b0a83c8a6452c814bda5d0dbdffedf7020",
- "nh": "541761f60e6ce58e07fbe88c79a545675779efb4be408818c3dda234efc012fc",
- "chars": 21532,
- "quality": "ok",
- "winner": {
-  "store": "hw-ls",
-  "path": "hawshat/playlists/lessons/bouti-414/181.txt",
-  "commit_ts": 1791587745,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-414/181.txt",
-   "sha256": "72def769a221e63cba8017a2821cb2b0a83c8a6452c814bda5d0dbdffedf7020",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:_6RljeMW4Y0",
+  "vid": "_6RljeMW4Y0",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--bouti-414",
+  "n": 181,
+  "n_src": "read",
+  "title": "الدرس 181",
+  "title_src": "filename",
+  "sha256": "72def769a221e63cba8017a2821cb2b0a83c8a6452c814bda5d0dbdffedf7020",
+  "nh": "541761f60e6ce58e07fbe88c79a545675779efb4be408818c3dda234efc012fc",
+  "chars": 21532,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-ls",
+    "path": "hawshat/playlists/lessons/bouti-414/181.txt",
+    "commit_ts": 1791587745,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-414/181.txt",
+      "sha256": "72def769a221e63cba8017a2821cb2b0a83c8a6452c814bda5d0dbdffedf7020",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9912,
+    "spoken_align_pct": 99.12,
+    "audio_span_pct": 99.62,
+    "words": 4101,
+    "aligned": 4065,
+    "interpolated": 36,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 00:36",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
