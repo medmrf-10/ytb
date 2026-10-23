@@ -1,37 +1,53 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:27",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 27,
- "n_src": "read",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 98 ( أحكام الصيد ) ｜ الشيخ محمد البردوني",
- "title_src": "filename",
- "sha256": "9506d6e4cec56d5cc0b44d33a0fefe474c34f727ed4cb695f5a4dcfa41c14fac",
- "nh": "9e9f9f965652de61d2fad59a979537a51ae19387cdabf7880c75572c2fcbfc20",
- "chars": 14226,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1003/027_شرح رسالة ابن ابي زيد ｜ الدرس 98 ( أحكام الصيد  ) ｜ الشيخ محمد البردوني.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1003/027_شرح رسالة ابن ابي زيد ｜ الدرس 98 ( أحكام الصيد  ) ｜ الشيخ محمد البردوني.txt",
-   "sha256": "9506d6e4cec56d5cc0b44d33a0fefe474c34f727ed4cb695f5a4dcfa41c14fac",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:27",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 27,
+  "n_src": "read",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 98 ( أحكام الصيد ) ｜ الشيخ محمد البردوني",
+  "title_src": "filename",
+  "sha256": "9506d6e4cec56d5cc0b44d33a0fefe474c34f727ed4cb695f5a4dcfa41c14fac",
+  "nh": "9e9f9f965652de61d2fad59a979537a51ae19387cdabf7880c75572c2fcbfc20",
+  "chars": 14226,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1003/027_شرح رسالة ابن ابي زيد ｜ الدرس 98 ( أحكام الصيد  ) ｜ الشيخ محمد البردوني.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1003/99.txt",
-   "sha256": "9506d6e4cec56d5cc0b44d33a0fefe474c34f727ed4cb695f5a4dcfa41c14fac",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1003/027_شرح رسالة ابن ابي زيد ｜ الدرس 98 ( أحكام الصيد  ) ｜ الشيخ محمد البردوني.txt",
+      "sha256": "9506d6e4cec56d5cc0b44d33a0fefe474c34f727ed4cb695f5a4dcfa41c14fac",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1003/99.txt",
+      "sha256": "9506d6e4cec56d5cc0b44d33a0fefe474c34f727ed4cb695f5a4dcfa41c14fac",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9993,
+    "spoken_align_pct": 99.93,
+    "audio_span_pct": 99.81,
+    "words": 2838,
+    "aligned": 2836,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 21:21",
+    "stripped_reasons": [
+      "METADATA_HEADER"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

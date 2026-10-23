@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:141",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 141,
- "n_src": "read|renumbered",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 91 ( قوله ＂فعليه هدي ينحره بمنى٠٠٠ ＂ ) ｜ الشيخ مح",
- "title_src": "filename",
- "sha256": "f239295c2e20d90fe8463d87e7ef7530ba5641499624f26ac1599a722af14e29",
- "nh": "cf6840e6990ba2c3ab3f8e8462fe79eb369c5b4ae24f21197751bfac6f88f471",
- "chars": 11887,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/bardouni/sharh-risala-2/035_شرح رسالة ابن ابي زيد ｜ الدرس 91 ( قوله ＂فعليه هدي ينحره بمنى٠٠٠ ＂  ) ｜ الشيخ مح.txt",
-  "commit_ts": 1791841975,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bardouni/sharh-risala-2/035_شرح رسالة ابن ابي زيد ｜ الدرس 91 ( قوله ＂فعليه هدي ينحره بمنى٠٠٠ ＂  ) ｜ الشيخ مح.txt",
-   "sha256": "f239295c2e20d90fe8463d87e7ef7530ba5641499624f26ac1599a722af14e29",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:141",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 141,
+  "n_src": "read|renumbered",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 91 ( قوله ＂فعليه هدي ينحره بمنى٠٠٠ ＂ ) ｜ الشيخ مح",
+  "title_src": "filename",
+  "sha256": "f239295c2e20d90fe8463d87e7ef7530ba5641499624f26ac1599a722af14e29",
+  "nh": "cf6840e6990ba2c3ab3f8e8462fe79eb369c5b4ae24f21197751bfac6f88f471",
+  "chars": 11887,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/bardouni/sharh-risala-2/035_شرح رسالة ابن ابي زيد ｜ الدرس 91 ( قوله ＂فعليه هدي ينحره بمنى٠٠٠ ＂  ) ｜ الشيخ مح.txt",
+    "commit_ts": 1791841975,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bardouni/sharh-risala-2/035_شرح رسالة ابن ابي زيد ｜ الدرس 91 ( قوله ＂فعليه هدي ينحره بمنى٠٠٠ ＂  ) ｜ الشيخ مح.txt",
+      "sha256": "f239295c2e20d90fe8463d87e7ef7530ba5641499624f26ac1599a722af14e29",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9996,
+    "spoken_align_pct": 99.96,
+    "audio_span_pct": 99.93,
+    "words": 2357,
+    "aligned": 2356,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 21:15"
   }
- ],
- "variants": [],
- "also_in": []
 }

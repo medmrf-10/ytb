@@ -1,31 +1,48 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:144",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 144,
- "n_src": "read|renumbered",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 88 ( قوله ＂ و التقصير يجزئ ٠٠٠ ＂ ) ｜ الشيخ محمد ا",
- "title_src": "filename",
- "sha256": "9dbedc6a3398c827c30a3d625842d3352efc2c097ff8d7da95c23705deaaeea1",
- "nh": "1ea457950af73b8486539962235915cdc9721190f0533cf62f2d888bc1ee9fdc",
- "chars": 11571,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/bardouni/sharh-risala-2/038_شرح رسالة ابن ابي زيد ｜ الدرس 88 ( قوله ＂ و التقصير يجزئ ٠٠٠ ＂  ) ｜ الشيخ محمد ا.txt",
-  "commit_ts": 1791841975,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bardouni/sharh-risala-2/038_شرح رسالة ابن ابي زيد ｜ الدرس 88 ( قوله ＂ و التقصير يجزئ ٠٠٠ ＂  ) ｜ الشيخ محمد ا.txt",
-   "sha256": "9dbedc6a3398c827c30a3d625842d3352efc2c097ff8d7da95c23705deaaeea1",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:144",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 144,
+  "n_src": "read|renumbered",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 88 ( قوله ＂ و التقصير يجزئ ٠٠٠ ＂ ) ｜ الشيخ محمد ا",
+  "title_src": "filename",
+  "sha256": "9dbedc6a3398c827c30a3d625842d3352efc2c097ff8d7da95c23705deaaeea1",
+  "nh": "1ea457950af73b8486539962235915cdc9721190f0533cf62f2d888bc1ee9fdc",
+  "chars": 11571,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/bardouni/sharh-risala-2/038_شرح رسالة ابن ابي زيد ｜ الدرس 88 ( قوله ＂ و التقصير يجزئ ٠٠٠ ＂  ) ｜ الشيخ محمد ا.txt",
+    "commit_ts": 1791841975,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bardouni/sharh-risala-2/038_شرح رسالة ابن ابي زيد ｜ الدرس 88 ( قوله ＂ و التقصير يجزئ ٠٠٠ ＂  ) ｜ الشيخ محمد ا.txt",
+      "sha256": "9dbedc6a3398c827c30a3d625842d3352efc2c097ff8d7da95c23705deaaeea1",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9991,
+    "spoken_align_pct": 99.91,
+    "audio_span_pct": 99.97,
+    "words": 2256,
+    "aligned": 2254,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 21:14",
+    "stripped_reasons": [
+      "METADATA_HEADER",
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:33",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 33,
- "n_src": "read",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 93 ( قوله ＂و لا يجوز في شيء من ذالك عوراء٠٠ ＂ ) ｜",
- "title_src": "filename",
- "sha256": "e0465227a9543cd6851b885fe57b46d1a929cb654aeb9cd1d634d41a3d7bae46",
- "nh": "59ab2133cf378ea4a50c5bfc5b5fef3403561b1df8f7207da3436670d67cbec7",
- "chars": 20153,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/1003/033_شرح رسالة ابن ابي زيد ｜ الدرس 93 ( قوله ＂و لا يجوز في شيء من ذالك عوراء٠٠ ＂  ) ｜.txt",
-  "commit_ts": 1791881884,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1003/033_شرح رسالة ابن ابي زيد ｜ الدرس 93 ( قوله ＂و لا يجوز في شيء من ذالك عوراء٠٠ ＂  ) ｜.txt",
-   "sha256": "e0465227a9543cd6851b885fe57b46d1a929cb654aeb9cd1d634d41a3d7bae46",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:33",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 33,
+  "n_src": "read",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 93 ( قوله ＂و لا يجوز في شيء من ذالك عوراء٠٠ ＂ ) ｜",
+  "title_src": "filename",
+  "sha256": "e0465227a9543cd6851b885fe57b46d1a929cb654aeb9cd1d634d41a3d7bae46",
+  "nh": "59ab2133cf378ea4a50c5bfc5b5fef3403561b1df8f7207da3436670d67cbec7",
+  "chars": 20153,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/1003/033_شرح رسالة ابن ابي زيد ｜ الدرس 93 ( قوله ＂و لا يجوز في شيء من ذالك عوراء٠٠ ＂  ) ｜.txt",
+    "commit_ts": 1791881884,
+    "head": "d659a83"
   },
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/1003/032_شرح رسالة ابن ابي زيد ｜ الدرس 93 ( باب في الضحايا-تتمة-  ) ｜ الشيخ محمد البردوني.txt",
-   "sha256": "e0465227a9543cd6851b885fe57b46d1a929cb654aeb9cd1d634d41a3d7bae46",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/1003/93.txt",
-   "sha256": "e0465227a9543cd6851b885fe57b46d1a929cb654aeb9cd1d634d41a3d7bae46",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1003/033_شرح رسالة ابن ابي زيد ｜ الدرس 93 ( قوله ＂و لا يجوز في شيء من ذالك عوراء٠٠ ＂  ) ｜.txt",
+      "sha256": "e0465227a9543cd6851b885fe57b46d1a929cb654aeb9cd1d634d41a3d7bae46",
+      "rel": "identical"
+    },
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/1003/032_شرح رسالة ابن ابي زيد ｜ الدرس 93 ( باب في الضحايا-تتمة-  ) ｜ الشيخ محمد البردوني.txt",
+      "sha256": "e0465227a9543cd6851b885fe57b46d1a929cb654aeb9cd1d634d41a3d7bae46",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/1003/93.txt",
+      "sha256": "e0465227a9543cd6851b885fe57b46d1a929cb654aeb9cd1d634d41a3d7bae46",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9992,
+    "spoken_align_pct": 99.92,
+    "audio_span_pct": 99.93,
+    "words": 3971,
+    "aligned": 3968,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 21:19"
   }
- ],
- "variants": [],
- "also_in": []
 }
