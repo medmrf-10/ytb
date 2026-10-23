@@ -1,45 +1,58 @@
 {
- "v": 1,
- "lid": "yt:Pa6LOZz_POg",
- "vid": "Pa6LOZz_POg",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--414",
- "n": 61,
- "n_src": "read",
- "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 61",
- "title_src": "filename",
- "sha256": "d52d4a9a139b1bfb47ed1d915a173e6faae0d53d9b309c590be5a2642f5f4d50",
- "nh": "903d8a69696b7617aab6557d9a11970acf90251c86abf3727b2f9c7f1627f20a",
- "chars": 18079,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/bouti/tafsir/061_تفسير القرآن الكريم للدكتور البوطي - الدرس 61.txt",
-  "commit_ts": 1791841975,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/tafsir/061_تفسير القرآن الكريم للدكتور البوطي - الدرس 61.txt",
-   "sha256": "d52d4a9a139b1bfb47ed1d915a173e6faae0d53d9b309c590be5a2642f5f4d50",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:Pa6LOZz_POg",
+  "vid": "Pa6LOZz_POg",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--414",
+  "n": 61,
+  "n_src": "read",
+  "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 61",
+  "title_src": "filename",
+  "sha256": "d52d4a9a139b1bfb47ed1d915a173e6faae0d53d9b309c590be5a2642f5f4d50",
+  "nh": "903d8a69696b7617aab6557d9a11970acf90251c86abf3727b2f9c7f1627f20a",
+  "chars": 18079,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/bouti/tafsir/061_تفسير القرآن الكريم للدكتور البوطي - الدرس 61.txt",
+    "commit_ts": 1791841975,
+    "head": "8a8b281"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-414/061.txt",
-   "sha256": "86db7a861d0988ee0852b629eb91203b3e7dbf4d1001380ae81c8113587e8b62",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/414/27.txt",
-   "sha256": "d52d4a9a139b1bfb47ed1d915a173e6faae0d53d9b309c590be5a2642f5f4d50",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/tafsir/061_تفسير القرآن الكريم للدكتور البوطي - الدرس 61.txt",
+      "sha256": "d52d4a9a139b1bfb47ed1d915a173e6faae0d53d9b309c590be5a2642f5f4d50",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-414/061.txt",
+      "sha256": "86db7a861d0988ee0852b629eb91203b3e7dbf4d1001380ae81c8113587e8b62",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/414/27.txt",
+      "sha256": "d52d4a9a139b1bfb47ed1d915a173e6faae0d53d9b309c590be5a2642f5f4d50",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "said-bouti--bouti-414"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9991,
+    "spoken_align_pct": 99.91,
+    "audio_span_pct": 99.99,
+    "words": 3316,
+    "aligned": 3313,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 22:35"
   }
- ],
- "variants": [],
- "also_in": [
-  "said-bouti--bouti-414"
- ]
 }
