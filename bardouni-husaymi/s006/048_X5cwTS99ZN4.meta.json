@@ -1,31 +1,47 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:184",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 184,
- "n_src": "read|renumbered",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 48( قوله＂و إن نوى المسافر الإقامة في موضع ٤ أيام ٠",
- "title_src": "filename",
- "sha256": "e437d2274af26fd9616ed2ca29cd7d17b2ee6bc197ff7db90164d9c081ed57c8",
- "nh": "2b8df3b4832e3c427def7d720c06d0890b5b8b505a9c7d0aedf62ce2bb2560dd",
- "chars": 9023,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/bardouni/sharh-risala-2/078_شرح رسالة ابن ابي زيد ｜ الدرس 48( قوله＂و إن نوى المسافر الإقامة في موضع ٤ أيام ٠.txt",
-  "commit_ts": 1791841975,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bardouni/sharh-risala-2/078_شرح رسالة ابن ابي زيد ｜ الدرس 48( قوله＂و إن نوى المسافر الإقامة في موضع ٤ أيام ٠.txt",
-   "sha256": "e437d2274af26fd9616ed2ca29cd7d17b2ee6bc197ff7db90164d9c081ed57c8",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:184",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 184,
+  "n_src": "read|renumbered",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 48( قوله＂و إن نوى المسافر الإقامة في موضع ٤ أيام ٠",
+  "title_src": "filename",
+  "sha256": "e437d2274af26fd9616ed2ca29cd7d17b2ee6bc197ff7db90164d9c081ed57c8",
+  "nh": "2b8df3b4832e3c427def7d720c06d0890b5b8b505a9c7d0aedf62ce2bb2560dd",
+  "chars": 9023,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/bardouni/sharh-risala-2/078_شرح رسالة ابن ابي زيد ｜ الدرس 48( قوله＂و إن نوى المسافر الإقامة في موضع ٤ أيام ٠.txt",
+    "commit_ts": 1791841975,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bardouni/sharh-risala-2/078_شرح رسالة ابن ابي زيد ｜ الدرس 48( قوله＂و إن نوى المسافر الإقامة في موضع ٤ أيام ٠.txt",
+      "sha256": "e437d2274af26fd9616ed2ca29cd7d17b2ee6bc197ff7db90164d9c081ed57c8",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9983,
+    "spoken_align_pct": 99.83,
+    "audio_span_pct": 99.95,
+    "words": 1776,
+    "aligned": 1773,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 20:35",
+    "stripped_reasons": [
+      "METADATA_HEADER"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

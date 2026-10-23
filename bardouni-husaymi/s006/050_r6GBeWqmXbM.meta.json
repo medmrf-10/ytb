@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "rn:bardouni-husaymi--1003:181",
- "vid": null,
- "sheikh": "bardouni-husaymi",
- "row_id": "bardouni-husaymi--1003",
- "n": 181,
- "n_src": "read|renumbered",
- "title": "شرح رسالة ابن ابي زيد ｜ الدرس 50 ( قوله ＂و الجمعة تجب بالمصر٠٠٠＂ ) ｜ الشيخ الب",
- "title_src": "filename",
- "sha256": "d6debeee879ecb28538ff85234293f7ca55df8ca6327b4564ecd9214af3e3592",
- "nh": "db7cca92ae72650c4ff4e454db18ec7fc98a1d3d013de4905af62e8c60e610e0",
- "chars": 18987,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/bardouni/sharh-risala-2/075_شرح رسالة ابن ابي زيد ｜ الدرس 50 (  قوله ＂و الجمعة تجب بالمصر٠٠٠＂  ) ｜ الشيخ الب.txt",
-  "commit_ts": 1791841975,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bardouni/sharh-risala-2/075_شرح رسالة ابن ابي زيد ｜ الدرس 50 (  قوله ＂و الجمعة تجب بالمصر٠٠٠＂  ) ｜ الشيخ الب.txt",
-   "sha256": "d6debeee879ecb28538ff85234293f7ca55df8ca6327b4564ecd9214af3e3592",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:bardouni-husaymi--1003:181",
+  "vid": null,
+  "sheikh": "bardouni-husaymi",
+  "row_id": "bardouni-husaymi--1003",
+  "n": 181,
+  "n_src": "read|renumbered",
+  "title": "شرح رسالة ابن ابي زيد ｜ الدرس 50 ( قوله ＂و الجمعة تجب بالمصر٠٠٠＂ ) ｜ الشيخ الب",
+  "title_src": "filename",
+  "sha256": "d6debeee879ecb28538ff85234293f7ca55df8ca6327b4564ecd9214af3e3592",
+  "nh": "db7cca92ae72650c4ff4e454db18ec7fc98a1d3d013de4905af62e8c60e610e0",
+  "chars": 18987,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/bardouni/sharh-risala-2/075_شرح رسالة ابن ابي زيد ｜ الدرس 50 (  قوله ＂و الجمعة تجب بالمصر٠٠٠＂  ) ｜ الشيخ الب.txt",
+    "commit_ts": 1791841975,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bardouni/sharh-risala-2/075_شرح رسالة ابن ابي زيد ｜ الدرس 50 (  قوله ＂و الجمعة تجب بالمصر٠٠٠＂  ) ｜ الشيخ الب.txt",
+      "sha256": "d6debeee879ecb28538ff85234293f7ca55df8ca6327b4564ecd9214af3e3592",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9984,
+    "spoken_align_pct": 99.84,
+    "audio_span_pct": 99.99,
+    "words": 3673,
+    "aligned": 3667,
+    "interpolated": 6,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 20:37"
   }
- ],
- "variants": [],
- "also_in": []
 }
