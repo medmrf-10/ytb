@@ -1,31 +1,47 @@
 {
- "v": 1,
- "lid": "yt:q3eWgPemfk8",
- "vid": "q3eWgPemfk8",
- "sheikh": "dhaker-alhashimi",
- "row_id": "dhaker-alhashimi--hashimi-zawaj",
- "n": 55,
- "n_src": "read",
- "title": "The ABCs of Marriage 52 | Between Masculinity and Femininity | Definitions and Misconceptions | M...",
- "title_src": "yt_titles",
- "sha256": "4b49a3c154a4027a19abdbe1ab6c0805865a3183c6b433cd207d620f373f931d",
- "nh": "d3355b508ca25a59c46e56b8be7bdc4753ca48222d673f5c4f59cc65f7cf021d",
- "chars": 38628,
- "quality": "ok",
- "winner": {
-  "store": "hw-ls",
-  "path": "hawshat/playlists/lessons/hashimi-zawaj/055.txt",
-  "commit_ts": 1791587745,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/hashimi-zawaj/055.txt",
-   "sha256": "4b49a3c154a4027a19abdbe1ab6c0805865a3183c6b433cd207d620f373f931d",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:q3eWgPemfk8",
+  "vid": "q3eWgPemfk8",
+  "sheikh": "dhaker-alhashimi",
+  "row_id": "dhaker-alhashimi--hashimi-zawaj",
+  "n": 55,
+  "n_src": "read",
+  "title": "The ABCs of Marriage 52 | Between Masculinity and Femininity | Definitions and Misconceptions | M...",
+  "title_src": "yt_titles",
+  "sha256": "4b49a3c154a4027a19abdbe1ab6c0805865a3183c6b433cd207d620f373f931d",
+  "nh": "d3355b508ca25a59c46e56b8be7bdc4753ca48222d673f5c4f59cc65f7cf021d",
+  "chars": 38628,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-ls",
+    "path": "hawshat/playlists/lessons/hashimi-zawaj/055.txt",
+    "commit_ts": 1791587745,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/hashimi-zawaj/055.txt",
+      "sha256": "4b49a3c154a4027a19abdbe1ab6c0805865a3183c6b433cd207d620f373f931d",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9913,
+    "spoken_align_pct": 99.13,
+    "audio_span_pct": 100.0,
+    "words": 7156,
+    "aligned": 7092,
+    "interpolated": 62,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 19:04",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
