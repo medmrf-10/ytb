@@ -1,31 +1,47 @@
 {
- "v": 1,
- "lid": "yt:AeSlvRLAv08",
- "vid": "AeSlvRLAv08",
- "sheikh": "dhaker-alhashimi",
- "row_id": "dhaker-alhashimi--hashimi-zawaj",
- "n": 70,
- "n_src": "read",
- "title": "ألف باء الزواج 67 | بين الرجولة والأنوثة | فقه الأنوثة 04 أمثلة ونماذج عبر التاريخ",
- "title_src": "yt_titles",
- "sha256": "b12c3d668fc9a0e73f49b18c303b1fb87ce3e8cf9a8efe0f7fe6ea2f015240e2",
- "nh": "3c21e5322d2799cbcfdf8c40874ebf9fa99166ea42f343c5684e7005672ec9d3",
- "chars": 36117,
- "quality": "ok",
- "winner": {
-  "store": "hw-ls",
-  "path": "hawshat/playlists/lessons/hashimi-zawaj/070.txt",
-  "commit_ts": 1791587745,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/hashimi-zawaj/070.txt",
-   "sha256": "b12c3d668fc9a0e73f49b18c303b1fb87ce3e8cf9a8efe0f7fe6ea2f015240e2",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:AeSlvRLAv08",
+  "vid": "AeSlvRLAv08",
+  "sheikh": "dhaker-alhashimi",
+  "row_id": "dhaker-alhashimi--hashimi-zawaj",
+  "n": 70,
+  "n_src": "read",
+  "title": "ألف باء الزواج 67 | بين الرجولة والأنوثة | فقه الأنوثة 04 أمثلة ونماذج عبر التاريخ",
+  "title_src": "yt_titles",
+  "sha256": "b12c3d668fc9a0e73f49b18c303b1fb87ce3e8cf9a8efe0f7fe6ea2f015240e2",
+  "nh": "3c21e5322d2799cbcfdf8c40874ebf9fa99166ea42f343c5684e7005672ec9d3",
+  "chars": 36117,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-ls",
+    "path": "hawshat/playlists/lessons/hashimi-zawaj/070.txt",
+    "commit_ts": 1791587745,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/hashimi-zawaj/070.txt",
+      "sha256": "b12c3d668fc9a0e73f49b18c303b1fb87ce3e8cf9a8efe0f7fe6ea2f015240e2",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9977,
+    "spoken_align_pct": 99.77,
+    "audio_span_pct": 100.0,
+    "words": 6836,
+    "aligned": 6818,
+    "interpolated": 16,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 19:47",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

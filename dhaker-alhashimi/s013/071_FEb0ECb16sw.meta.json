@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:FEb0ECb16sw",
- "vid": "FEb0ECb16sw",
- "sheikh": "dhaker-alhashimi",
- "row_id": "dhaker-alhashimi--hashimi-zawaj",
- "n": 71,
- "n_src": "read",
- "title": "ألف باء الزواج 68 | أسئلة الخِطبة 01.",
- "title_src": "yt_titles",
- "sha256": "758802924b452e94d455acdc7cf3a6f412cdd384bad5a27b8c016e6f6c64bb6a",
- "nh": "f1be78e97c8113f702d6e0157f89413deecc34807fbe11a1ef80fd3399a5397c",
- "chars": 44712,
- "quality": "ok",
- "winner": {
-  "store": "hw-ls",
-  "path": "hawshat/playlists/lessons/hashimi-zawaj/071.txt",
-  "commit_ts": 1791587745,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/hashimi-zawaj/071.txt",
-   "sha256": "758802924b452e94d455acdc7cf3a6f412cdd384bad5a27b8c016e6f6c64bb6a",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:FEb0ECb16sw",
+  "vid": "FEb0ECb16sw",
+  "sheikh": "dhaker-alhashimi",
+  "row_id": "dhaker-alhashimi--hashimi-zawaj",
+  "n": 71,
+  "n_src": "read",
+  "title": "ألف باء الزواج 68 | أسئلة الخِطبة 01.",
+  "title_src": "yt_titles",
+  "sha256": "758802924b452e94d455acdc7cf3a6f412cdd384bad5a27b8c016e6f6c64bb6a",
+  "nh": "f1be78e97c8113f702d6e0157f89413deecc34807fbe11a1ef80fd3399a5397c",
+  "chars": 44712,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-ls",
+    "path": "hawshat/playlists/lessons/hashimi-zawaj/071.txt",
+    "commit_ts": 1791587745,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/hashimi-zawaj/071.txt",
+      "sha256": "758802924b452e94d455acdc7cf3a6f412cdd384bad5a27b8c016e6f6c64bb6a",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9857,
+    "spoken_align_pct": 98.57,
+    "audio_span_pct": 99.99,
+    "words": 8499,
+    "aligned": 8362,
+    "interpolated": 121,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 19:49"
   }
- ],
- "variants": [],
- "also_in": []
 }

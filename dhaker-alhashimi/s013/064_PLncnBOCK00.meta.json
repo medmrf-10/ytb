@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:PLncnBOCK00",
- "vid": "PLncnBOCK00",
- "sheikh": "dhaker-alhashimi",
- "row_id": "dhaker-alhashimi--hashimi-zawaj",
- "n": 64,
- "n_src": "read",
- "title": "ألف باء الزواج 61 | بين الرجولة والأنوثة | فقه الرجولة 08 أنبياء",
- "title_src": "yt_titles",
- "sha256": "47c86f391331432d5fcdb2f1f89fe73c4b92c2c7dc472f00aecec2f8a216253c",
- "nh": "5c7de0e10a23c5516284a987873ba6821d1bb3649fa3108b41662a1a5ead864f",
- "chars": 43955,
- "quality": "ok",
- "winner": {
-  "store": "hw-ls",
-  "path": "hawshat/playlists/lessons/hashimi-zawaj/064.txt",
-  "commit_ts": 1791587745,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/hashimi-zawaj/064.txt",
-   "sha256": "47c86f391331432d5fcdb2f1f89fe73c4b92c2c7dc472f00aecec2f8a216253c",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:PLncnBOCK00",
+  "vid": "PLncnBOCK00",
+  "sheikh": "dhaker-alhashimi",
+  "row_id": "dhaker-alhashimi--hashimi-zawaj",
+  "n": 64,
+  "n_src": "read",
+  "title": "ألف باء الزواج 61 | بين الرجولة والأنوثة | فقه الرجولة 08 أنبياء",
+  "title_src": "yt_titles",
+  "sha256": "47c86f391331432d5fcdb2f1f89fe73c4b92c2c7dc472f00aecec2f8a216253c",
+  "nh": "5c7de0e10a23c5516284a987873ba6821d1bb3649fa3108b41662a1a5ead864f",
+  "chars": 43955,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-ls",
+    "path": "hawshat/playlists/lessons/hashimi-zawaj/064.txt",
+    "commit_ts": 1791587745,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/hashimi-zawaj/064.txt",
+      "sha256": "47c86f391331432d5fcdb2f1f89fe73c4b92c2c7dc472f00aecec2f8a216253c",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9966,
+    "spoken_align_pct": 99.66,
+    "audio_span_pct": 99.95,
+    "words": 8446,
+    "aligned": 8416,
+    "interpolated": 29,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 19:40"
   }
- ],
- "variants": [],
- "also_in": []
 }

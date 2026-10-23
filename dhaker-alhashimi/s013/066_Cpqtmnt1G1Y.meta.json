@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:Cpqtmnt1G1Y",
- "vid": "Cpqtmnt1G1Y",
- "sheikh": "dhaker-alhashimi",
- "row_id": "dhaker-alhashimi--hashimi-zawaj",
- "n": 66,
- "n_src": "read",
- "title": "ألف باء الزواج 63 | بين الرجولة والأنوثة | فقه الرجولة 10 قدوات من خير القرون",
- "title_src": "yt_titles",
- "sha256": "a1d418980168b71d67bebc0bf698c144fa6b429e33684c931d0acf4e5ed3c2e0",
- "nh": "7263910bbbb963044fd8c49d00accbc3e26f20ebf86dc33351cdf67b7d7898cd",
- "chars": 43551,
- "quality": "ok",
- "winner": {
-  "store": "hw-ls",
-  "path": "hawshat/playlists/lessons/hashimi-zawaj/066.txt",
-  "commit_ts": 1791587745,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/hashimi-zawaj/066.txt",
-   "sha256": "a1d418980168b71d67bebc0bf698c144fa6b429e33684c931d0acf4e5ed3c2e0",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:Cpqtmnt1G1Y",
+  "vid": "Cpqtmnt1G1Y",
+  "sheikh": "dhaker-alhashimi",
+  "row_id": "dhaker-alhashimi--hashimi-zawaj",
+  "n": 66,
+  "n_src": "read",
+  "title": "ألف باء الزواج 63 | بين الرجولة والأنوثة | فقه الرجولة 10 قدوات من خير القرون",
+  "title_src": "yt_titles",
+  "sha256": "a1d418980168b71d67bebc0bf698c144fa6b429e33684c931d0acf4e5ed3c2e0",
+  "nh": "7263910bbbb963044fd8c49d00accbc3e26f20ebf86dc33351cdf67b7d7898cd",
+  "chars": 43551,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-ls",
+    "path": "hawshat/playlists/lessons/hashimi-zawaj/066.txt",
+    "commit_ts": 1791587745,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/hashimi-zawaj/066.txt",
+      "sha256": "a1d418980168b71d67bebc0bf698c144fa6b429e33684c931d0acf4e5ed3c2e0",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9977,
+    "spoken_align_pct": 99.77,
+    "audio_span_pct": 99.99,
+    "words": 8293,
+    "aligned": 8268,
+    "interpolated": 19,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 19:42"
   }
- ],
- "variants": [],
- "also_in": []
 }
