@@ -1,45 +1,58 @@
 {
- "v": 1,
- "lid": "yt:1YQSRSKV9PY",
- "vid": "1YQSRSKV9PY",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--414",
- "n": 33,
- "n_src": "read",
- "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 33",
- "title_src": "filename",
- "sha256": "5e114406dbfdc2ac5ff4073bf15944d38de76bbfa8dee8ba2ff4490b8a77f149",
- "nh": "28c1d9ba973cf721f406b3adf9233cf9a22cb1015288fce1cfe1b86e6362869b",
- "chars": 20124,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/bouti/tafsir/033_تفسير القرآن الكريم للدكتور البوطي - الدرس 33.txt",
-  "commit_ts": 1791841975,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/tafsir/033_تفسير القرآن الكريم للدكتور البوطي - الدرس 33.txt",
-   "sha256": "5e114406dbfdc2ac5ff4073bf15944d38de76bbfa8dee8ba2ff4490b8a77f149",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:1YQSRSKV9PY",
+  "vid": "1YQSRSKV9PY",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--414",
+  "n": 33,
+  "n_src": "read",
+  "title": "تفسير القرآن الكريم للدكتور البوطي - الدرس 33",
+  "title_src": "filename",
+  "sha256": "5e114406dbfdc2ac5ff4073bf15944d38de76bbfa8dee8ba2ff4490b8a77f149",
+  "nh": "28c1d9ba973cf721f406b3adf9233cf9a22cb1015288fce1cfe1b86e6362869b",
+  "chars": 20124,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/bouti/tafsir/033_تفسير القرآن الكريم للدكتور البوطي - الدرس 33.txt",
+    "commit_ts": 1791841975,
+    "head": "8a8b281"
   },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/bouti-414/033.txt",
-   "sha256": "2f3bfe47c9f62eee1f9a9d12af646515e70d6d09fab838e80891746b6df5fd89",
-   "rel": "same-body"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/414/15.txt",
-   "sha256": "5e114406dbfdc2ac5ff4073bf15944d38de76bbfa8dee8ba2ff4490b8a77f149",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/tafsir/033_تفسير القرآن الكريم للدكتور البوطي - الدرس 33.txt",
+      "sha256": "5e114406dbfdc2ac5ff4073bf15944d38de76bbfa8dee8ba2ff4490b8a77f149",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/bouti-414/033.txt",
+      "sha256": "2f3bfe47c9f62eee1f9a9d12af646515e70d6d09fab838e80891746b6df5fd89",
+      "rel": "same-body"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/414/15.txt",
+      "sha256": "5e114406dbfdc2ac5ff4073bf15944d38de76bbfa8dee8ba2ff4490b8a77f149",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [
+    "said-bouti--bouti-414"
+  ],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9989,
+    "spoken_align_pct": 99.89,
+    "audio_span_pct": 99.99,
+    "words": 3795,
+    "aligned": 3788,
+    "interpolated": 4,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 22:11"
   }
- ],
- "variants": [],
- "also_in": [
-  "said-bouti--bouti-414"
- ]
 }
