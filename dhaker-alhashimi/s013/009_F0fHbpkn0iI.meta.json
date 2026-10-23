@@ -1,31 +1,47 @@
 {
- "v": 1,
- "lid": "yt:F0fHbpkn0iI",
- "vid": "F0fHbpkn0iI",
- "sheikh": "dhaker-alhashimi",
- "row_id": "dhaker-alhashimi--hashimi-zawaj",
- "n": 9,
- "n_src": "read",
- "title": "ألف باء الزواج 09 | جهالات ومخادعات ومغالطات 07 | حول حفل الزفاف وليلة الزفاف",
- "title_src": "yt_titles",
- "sha256": "0e3f6e2a5a302fb1c2018ad5ce60fc48b3247836e3e8cd916f79b18420c05a0c",
- "nh": "dd509907db9aa67e8f261aca62a61ce5e8b7031d2c7911f74301cf9f83e39240",
- "chars": 74556,
- "quality": "ok",
- "winner": {
-  "store": "hw-ls",
-  "path": "hawshat/playlists/lessons/hashimi-zawaj/009.txt",
-  "commit_ts": 1791587745,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/hashimi-zawaj/009.txt",
-   "sha256": "0e3f6e2a5a302fb1c2018ad5ce60fc48b3247836e3e8cd916f79b18420c05a0c",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:F0fHbpkn0iI",
+  "vid": "F0fHbpkn0iI",
+  "sheikh": "dhaker-alhashimi",
+  "row_id": "dhaker-alhashimi--hashimi-zawaj",
+  "n": 9,
+  "n_src": "read",
+  "title": "ألف باء الزواج 09 | جهالات ومخادعات ومغالطات 07 | حول حفل الزفاف وليلة الزفاف",
+  "title_src": "yt_titles",
+  "sha256": "0e3f6e2a5a302fb1c2018ad5ce60fc48b3247836e3e8cd916f79b18420c05a0c",
+  "nh": "dd509907db9aa67e8f261aca62a61ce5e8b7031d2c7911f74301cf9f83e39240",
+  "chars": 74556,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-ls",
+    "path": "hawshat/playlists/lessons/hashimi-zawaj/009.txt",
+    "commit_ts": 1791587745,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/hashimi-zawaj/009.txt",
+      "sha256": "0e3f6e2a5a302fb1c2018ad5ce60fc48b3247836e3e8cd916f79b18420c05a0c",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9822,
+    "spoken_align_pct": 98.22,
+    "audio_span_pct": 99.92,
+    "words": 14279,
+    "aligned": 14021,
+    "interpolated": 254,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-23 17:35",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
