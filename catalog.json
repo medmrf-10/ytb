@@ -5562,6 +5562,32 @@
     },
     {
       "aligned": 0,
+      "chars": 771674,
+      "lessons": 27,
+      "name": "الشيخة جميلة الشيخ أحمد",
+      "path": "jamila-sheikh-ahmad/",
+      "photo": "",
+      "series": 1,
+      "series_list": [
+        {
+          "aligned": 0,
+          "aligned_pct": "0.0%",
+          "category": "التزكية والأخلاق",
+          "coverage": 1.0,
+          "coverage_pct": "100.0%",
+          "declared_total": 27,
+          "dir": "s001/",
+          "dur": 68868,
+          "key": "s001",
+          "series_id": "jamila__s001",
+          "title": "مطهرة القلوب",
+          "transcribed": 27
+        }
+      ],
+      "slug": "jamila-sheikh-ahmad"
+    },
+    {
+      "aligned": 0,
       "chars": 697911,
       "lessons": 20,
       "name": "أحمد عبد المنعم",
@@ -5722,32 +5748,6 @@
       "aligned": 0,
       "chars": 0,
       "lessons": 0,
-      "name": "الشيخة جميلة الشيخ أحمد",
-      "path": "jamila-sheikh-ahmad/",
-      "photo": "",
-      "series": 1,
-      "series_list": [
-        {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
-          "category": "التزكية والأخلاق",
-          "coverage": 0.0,
-          "coverage_pct": "0.0%",
-          "declared_total": 27,
-          "dir": "s001/",
-          "dur": 0,
-          "key": "s001",
-          "series_id": "jamila__s001",
-          "title": "مطهرة القلوب",
-          "transcribed": 0
-        }
-      ],
-      "slug": "jamila-sheikh-ahmad"
-    },
-    {
-      "aligned": 0,
-      "chars": 0,
-      "lessons": 0,
       "name": "khutab",
       "path": "khutab/",
       "photo": "",
@@ -5829,8 +5829,8 @@
   ],
   "totals": {
     "aligned": 4210,
-    "chars": 157884497,
-    "lessons": 6712,
+    "chars": 158656171,
+    "lessons": 6739,
     "series": 393,
     "sheikhs": 27
   },
