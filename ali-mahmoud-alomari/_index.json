@@ -171,14 +171,14 @@
       "transcribed": 2
     },
     {
-      "aligned": 6,
-      "aligned_pct": "60.0%",
+      "aligned": 10,
+      "aligned_pct": "100.0%",
       "category": "المنطق والفلسفة",
       "coverage": 1.0,
       "coverage_pct": "100.0%",
       "declared_total": 10,
       "dir": "s013/",
-      "dur": 49688,
+      "dur": 49684,
       "key": "s013",
       "series_id": "omari__s013",
       "title": "دروس في الفلسفة الحديثة",
@@ -257,8 +257,8 @@
   ],
   "slug": "ali-mahmoud-alomari",
   "totals": {
-    "aligned": 198,
-    "chars": 6962257,
+    "aligned": 202,
+    "chars": 6961987,
     "lessons": 241,
     "series": 18
   },
