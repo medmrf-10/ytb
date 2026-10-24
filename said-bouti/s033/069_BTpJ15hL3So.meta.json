@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:BTpJ15hL3So",
- "vid": "BTpJ15hL3So",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 178,
- "n_src": "read",
- "title": "الحكم العطائية للإمام البوطي الدرس 69 - الحكمة 48",
- "title_src": "filename",
- "sha256": "4a8f2218e3269891bbdc070b9239e75a6ce3d971830db96b86be4a868c3d1538",
- "nh": "33eeaa348a975f4253ba62b9f3414f02b29287b69b4a203bb04d3150a95daac3",
- "chars": 20709,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/386/178_الحكم العطائية للإمام البوطي  الدرس 69  - الحكمة 48.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/386/178_الحكم العطائية للإمام البوطي  الدرس 69  - الحكمة 48.txt",
-   "sha256": "4a8f2218e3269891bbdc070b9239e75a6ce3d971830db96b86be4a868c3d1538",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:BTpJ15hL3So",
+  "vid": "BTpJ15hL3So",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 178,
+  "n_src": "read",
+  "title": "الحكم العطائية للإمام البوطي الدرس 69 - الحكمة 48",
+  "title_src": "filename",
+  "sha256": "4a8f2218e3269891bbdc070b9239e75a6ce3d971830db96b86be4a868c3d1538",
+  "nh": "33eeaa348a975f4253ba62b9f3414f02b29287b69b4a203bb04d3150a95daac3",
+  "chars": 20709,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/386/178_الحكم العطائية للإمام البوطي  الدرس 69  - الحكمة 48.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/178_الحكم العطائية للإمام البوطي  الدرس 69  - الحكمة 48.txt",
-   "sha256": "4a8f2218e3269891bbdc070b9239e75a6ce3d971830db96b86be4a868c3d1538",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/386/178_الحكم العطائية للإمام البوطي  الدرس 69  - الحكمة 48.txt",
+      "sha256": "4a8f2218e3269891bbdc070b9239e75a6ce3d971830db96b86be4a868c3d1538",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/178_الحكم العطائية للإمام البوطي  الدرس 69  - الحكمة 48.txt",
+      "sha256": "4a8f2218e3269891bbdc070b9239e75a6ce3d971830db96b86be4a868c3d1538",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9992,
+    "spoken_align_pct": 99.92,
+    "audio_span_pct": 99.77,
+    "words": 3988,
+    "aligned": 3985,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 01:54"
   }
- ],
- "variants": [],
- "also_in": []
 }

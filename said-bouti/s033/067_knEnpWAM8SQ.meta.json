@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:knEnpWAM8SQ",
- "vid": "knEnpWAM8SQ",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 176,
- "n_src": "read",
- "title": "الحكم العطائية للإمام البوطي الدرس 67 - الحكمة 47",
- "title_src": "filename",
- "sha256": "40542eae7fbea99e4d95b07273e57cbbaeb7928639cfae8697694b4072305e46",
- "nh": "17bb4059d576af4c1bab7451bedfae1fb3152f39dc6951504cb140267ecc9004",
- "chars": 17993,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/386/176_الحكم العطائية للإمام البوطي  الدرس 67  - الحكمة 47.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/386/176_الحكم العطائية للإمام البوطي  الدرس 67  - الحكمة 47.txt",
-   "sha256": "40542eae7fbea99e4d95b07273e57cbbaeb7928639cfae8697694b4072305e46",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:knEnpWAM8SQ",
+  "vid": "knEnpWAM8SQ",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 176,
+  "n_src": "read",
+  "title": "الحكم العطائية للإمام البوطي الدرس 67 - الحكمة 47",
+  "title_src": "filename",
+  "sha256": "40542eae7fbea99e4d95b07273e57cbbaeb7928639cfae8697694b4072305e46",
+  "nh": "17bb4059d576af4c1bab7451bedfae1fb3152f39dc6951504cb140267ecc9004",
+  "chars": 17993,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/386/176_الحكم العطائية للإمام البوطي  الدرس 67  - الحكمة 47.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/176_الحكم العطائية للإمام البوطي  الدرس 67  - الحكمة 47.txt",
-   "sha256": "40542eae7fbea99e4d95b07273e57cbbaeb7928639cfae8697694b4072305e46",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/386/176_الحكم العطائية للإمام البوطي  الدرس 67  - الحكمة 47.txt",
+      "sha256": "40542eae7fbea99e4d95b07273e57cbbaeb7928639cfae8697694b4072305e46",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/176_الحكم العطائية للإمام البوطي  الدرس 67  - الحكمة 47.txt",
+      "sha256": "40542eae7fbea99e4d95b07273e57cbbaeb7928639cfae8697694b4072305e46",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9965,
+    "spoken_align_pct": 99.65,
+    "audio_span_pct": 99.61,
+    "words": 3425,
+    "aligned": 3413,
+    "interpolated": 12,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 01:52"
   }
- ],
- "variants": [],
- "also_in": []
 }
