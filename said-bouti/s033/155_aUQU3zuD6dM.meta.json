@@ -1,31 +1,47 @@
 {
- "v": 1,
- "lid": "rn:said-bouti--386:264",
- "vid": null,
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 264,
- "n_src": "read",
- "title": "الحكم العطائية للإمام البوطي الدرس 155 - الحكمة 129 - 130",
- "title_src": "filename",
- "sha256": "9af12c862bd2273dbbbc2ed2b3e063a3c2d8b9a6275772bc53cd382f0c59f3cc",
- "nh": "ce50713ba6727a5148c2d3902fe2293ec419e131afc5bf82ed26a9129a9debf6",
- "chars": 23897,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/bouti/mut-386/264_الحكم العطائية للإمام البوطي  الدرس 155 - الحكمة 129 - 130.txt",
-  "commit_ts": 1791841975,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/264_الحكم العطائية للإمام البوطي  الدرس 155 - الحكمة 129 - 130.txt",
-   "sha256": "9af12c862bd2273dbbbc2ed2b3e063a3c2d8b9a6275772bc53cd382f0c59f3cc",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:said-bouti--386:264",
+  "vid": null,
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 264,
+  "n_src": "read",
+  "title": "الحكم العطائية للإمام البوطي الدرس 155 - الحكمة 129 - 130",
+  "title_src": "filename",
+  "sha256": "9af12c862bd2273dbbbc2ed2b3e063a3c2d8b9a6275772bc53cd382f0c59f3cc",
+  "nh": "ce50713ba6727a5148c2d3902fe2293ec419e131afc5bf82ed26a9129a9debf6",
+  "chars": 23897,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/bouti/mut-386/264_الحكم العطائية للإمام البوطي  الدرس 155 - الحكمة 129 - 130.txt",
+    "commit_ts": 1791841975,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/264_الحكم العطائية للإمام البوطي  الدرس 155 - الحكمة 129 - 130.txt",
+      "sha256": "9af12c862bd2273dbbbc2ed2b3e063a3c2d8b9a6275772bc53cd382f0c59f3cc",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9939,
+    "spoken_align_pct": 99.39,
+    "audio_span_pct": 99.79,
+    "words": 4558,
+    "aligned": 4530,
+    "interpolated": 28,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 03:18",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
