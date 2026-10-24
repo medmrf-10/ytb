@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:EH8rdRZxdSM",
- "vid": "EH8rdRZxdSM",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 202,
- "n_src": "read",
- "title": "الحكم العطائية للإمام البوطي الدرس 93 - الحكمة 69",
- "title_src": "filename",
- "sha256": "59cd652600f67dc578a7026d48341c039eb16596fd7d566791a790b58367ac44",
- "nh": "1a86f837e954b764018b58d4b868deb704d40de0428ae857013b4c4e44455a5a",
- "chars": 11711,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/bouti/mut-386/202_الحكم العطائية للإمام البوطي  الدرس 93  - الحكمة 69.txt",
-  "commit_ts": 1791841975,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/202_الحكم العطائية للإمام البوطي  الدرس 93  - الحكمة 69.txt",
-   "sha256": "59cd652600f67dc578a7026d48341c039eb16596fd7d566791a790b58367ac44",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:EH8rdRZxdSM",
+  "vid": "EH8rdRZxdSM",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 202,
+  "n_src": "read",
+  "title": "الحكم العطائية للإمام البوطي الدرس 93 - الحكمة 69",
+  "title_src": "filename",
+  "sha256": "59cd652600f67dc578a7026d48341c039eb16596fd7d566791a790b58367ac44",
+  "nh": "1a86f837e954b764018b58d4b868deb704d40de0428ae857013b4c4e44455a5a",
+  "chars": 11711,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/bouti/mut-386/202_الحكم العطائية للإمام البوطي  الدرس 93  - الحكمة 69.txt",
+    "commit_ts": 1791841975,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/202_الحكم العطائية للإمام البوطي  الدرس 93  - الحكمة 69.txt",
+      "sha256": "59cd652600f67dc578a7026d48341c039eb16596fd7d566791a790b58367ac44",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9991,
+    "spoken_align_pct": 99.91,
+    "audio_span_pct": 99.8,
+    "words": 2176,
+    "aligned": 2174,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 02:19"
   }
- ],
- "variants": [],
- "also_in": []
 }

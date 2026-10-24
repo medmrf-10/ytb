@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:k4IY2HzZHOw",
- "vid": "k4IY2HzZHOw",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 201,
- "n_src": "read",
- "title": "الحكم العطائية للإمام البوطي الدرس 92 - الحكمة 68",
- "title_src": "filename",
- "sha256": "fec0c7a65a1bfc287381fd6cada0d13653968b2d551f552e15c1eea1c38ece39",
- "nh": "06df9c48aea331da371545c8354ae7144c3f02cb4be3dfe3e043912684c7d5aa",
- "chars": 16337,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/386/201_الحكم العطائية للإمام البوطي  الدرس 92  - الحكمة 68.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/386/201_الحكم العطائية للإمام البوطي  الدرس 92  - الحكمة 68.txt",
-   "sha256": "fec0c7a65a1bfc287381fd6cada0d13653968b2d551f552e15c1eea1c38ece39",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:k4IY2HzZHOw",
+  "vid": "k4IY2HzZHOw",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 201,
+  "n_src": "read",
+  "title": "الحكم العطائية للإمام البوطي الدرس 92 - الحكمة 68",
+  "title_src": "filename",
+  "sha256": "fec0c7a65a1bfc287381fd6cada0d13653968b2d551f552e15c1eea1c38ece39",
+  "nh": "06df9c48aea331da371545c8354ae7144c3f02cb4be3dfe3e043912684c7d5aa",
+  "chars": 16337,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/386/201_الحكم العطائية للإمام البوطي  الدرس 92  - الحكمة 68.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/201_الحكم العطائية للإمام البوطي  الدرس 92  - الحكمة 68.txt",
-   "sha256": "fec0c7a65a1bfc287381fd6cada0d13653968b2d551f552e15c1eea1c38ece39",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/386/201_الحكم العطائية للإمام البوطي  الدرس 92  - الحكمة 68.txt",
+      "sha256": "fec0c7a65a1bfc287381fd6cada0d13653968b2d551f552e15c1eea1c38ece39",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/201_الحكم العطائية للإمام البوطي  الدرس 92  - الحكمة 68.txt",
+      "sha256": "fec0c7a65a1bfc287381fd6cada0d13653968b2d551f552e15c1eea1c38ece39",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 99.83,
+    "words": 3161,
+    "aligned": 3161,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 02:18"
   }
- ],
- "variants": [],
- "also_in": []
 }
