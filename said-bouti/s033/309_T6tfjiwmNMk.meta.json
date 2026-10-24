@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:T6tfjiwmNMk",
- "vid": "T6tfjiwmNMk",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 126,
- "n_src": "read",
- "title": "الحكم العطائية للعلامة البوطي الدرس 307 - المناجاة 32",
- "title_src": "filename",
- "sha256": "8c1fd6fd27734e90630008a44b7e88afdeffe36989ff36894fb67022f2b236f4",
- "nh": "27821bb557d94916d1bf1dae100d5e7c16e3488f08da531a366183f8411098c5",
- "chars": 19729,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/386/126_الحكم العطائية للعلامة البوطي  الدرس 307 - المناجاة 32.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/386/126_الحكم العطائية للعلامة البوطي  الدرس 307 - المناجاة 32.txt",
-   "sha256": "8c1fd6fd27734e90630008a44b7e88afdeffe36989ff36894fb67022f2b236f4",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:T6tfjiwmNMk",
+  "vid": "T6tfjiwmNMk",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 126,
+  "n_src": "read",
+  "title": "الحكم العطائية للعلامة البوطي الدرس 307 - المناجاة 32",
+  "title_src": "filename",
+  "sha256": "8c1fd6fd27734e90630008a44b7e88afdeffe36989ff36894fb67022f2b236f4",
+  "nh": "27821bb557d94916d1bf1dae100d5e7c16e3488f08da531a366183f8411098c5",
+  "chars": 19729,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/386/126_الحكم العطائية للعلامة البوطي  الدرس 307 - المناجاة 32.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/126_الحكم العطائية للعلامة البوطي  الدرس 307 - المناجاة 32.txt",
-   "sha256": "8c1fd6fd27734e90630008a44b7e88afdeffe36989ff36894fb67022f2b236f4",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/386/126_الحكم العطائية للعلامة البوطي  الدرس 307 - المناجاة 32.txt",
+      "sha256": "8c1fd6fd27734e90630008a44b7e88afdeffe36989ff36894fb67022f2b236f4",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/126_الحكم العطائية للعلامة البوطي  الدرس 307 - المناجاة 32.txt",
+      "sha256": "8c1fd6fd27734e90630008a44b7e88afdeffe36989ff36894fb67022f2b236f4",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9982,
+    "spoken_align_pct": 99.82,
+    "audio_span_pct": 100.0,
+    "words": 3862,
+    "aligned": 3855,
+    "interpolated": 7,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 05:45"
   }
- ],
- "variants": [],
- "also_in": []
 }

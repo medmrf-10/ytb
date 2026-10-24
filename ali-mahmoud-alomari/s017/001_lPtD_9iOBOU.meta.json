@@ -1,43 +1,59 @@
 {
- "v": 1,
- "lid": "yt:lPtD_9iOBOU",
- "vid": "lPtD_9iOBOU",
- "sheikh": "ali-mahmoud-alomari",
- "row_id": "ali-mahmoud-alomari--alamri-bath",
- "n": 1,
- "n_src": "trfile",
- "title": "الدرس 1",
- "title_src": "filename",
- "sha256": "8cf704f2d8f838e286543f7a9ba7f6b49b7d856baecd0d8b7300d442edebd446",
- "nh": "f1f6e51382785e03775300f4589d6078f48a83fcedfb4ab853225405252133f2",
- "chars": 50123,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/alamriBath-001/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/alamriBath-001/transcript.txt",
-   "sha256": "8cf704f2d8f838e286543f7a9ba7f6b49b7d856baecd0d8b7300d442edebd446",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:lPtD_9iOBOU",
+  "vid": "lPtD_9iOBOU",
+  "sheikh": "ali-mahmoud-alomari",
+  "row_id": "ali-mahmoud-alomari--alamri-bath",
+  "n": 1,
+  "n_src": "trfile",
+  "title": "الدرس 1",
+  "title_src": "filename",
+  "sha256": "8cf704f2d8f838e286543f7a9ba7f6b49b7d856baecd0d8b7300d442edebd446",
+  "nh": "f1f6e51382785e03775300f4589d6078f48a83fcedfb4ab853225405252133f2",
+  "chars": 50123,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/alamriBath-001/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alamri/bath/bath-01_AlAmri.txt",
-   "sha256": "8cf704f2d8f838e286543f7a9ba7f6b49b7d856baecd0d8b7300d442edebd446",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alamri-bath/01.txt",
-   "sha256": "8cf704f2d8f838e286543f7a9ba7f6b49b7d856baecd0d8b7300d442edebd446",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/alamriBath-001/transcript.txt",
+      "sha256": "8cf704f2d8f838e286543f7a9ba7f6b49b7d856baecd0d8b7300d442edebd446",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alamri/bath/bath-01_AlAmri.txt",
+      "sha256": "8cf704f2d8f838e286543f7a9ba7f6b49b7d856baecd0d8b7300d442edebd446",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alamri-bath/01.txt",
+      "sha256": "8cf704f2d8f838e286543f7a9ba7f6b49b7d856baecd0d8b7300d442edebd446",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9976,
+    "spoken_align_pct": 99.76,
+    "audio_span_pct": 99.98,
+    "words": 9255,
+    "aligned": 9233,
+    "interpolated": 22,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 05:48",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }

@@ -1,31 +1,44 @@
 {
- "v": 1,
- "lid": "yt:3ALbKwMXimE",
- "vid": "3ALbKwMXimE",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 305,
- "n_src": "read",
- "title": "الحكم العطائية للعلامة البوطي الدرس 308 - المناجاة 34 - الدرس الأخير",
- "title_src": "filename",
- "sha256": "f0cd6ac77707585ccfe40f78dafdfc616faf9136e0200c2751d91ded6ad4646a",
- "nh": "48a8debb126855f2ee9268271d8b24544c27f9ab01bf914a13186a2ea33b1403",
- "chars": 13566,
- "quality": "ok",
- "winner": {
-  "store": "hw-tr",
-  "path": "hawshat/transcripts/bouti/mut-386/305_الحكم العطائية للعلامة البوطي  الدرس 308 - المناجاة 34 - الدرس الأخير.txt",
-  "commit_ts": 1791841975,
-  "head": "8a8b281"
- },
- "sources": [
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/305_الحكم العطائية للعلامة البوطي  الدرس 308 - المناجاة 34 - الدرس الأخير.txt",
-   "sha256": "f0cd6ac77707585ccfe40f78dafdfc616faf9136e0200c2751d91ded6ad4646a",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:3ALbKwMXimE",
+  "vid": "3ALbKwMXimE",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 305,
+  "n_src": "read",
+  "title": "الحكم العطائية للعلامة البوطي الدرس 308 - المناجاة 34 - الدرس الأخير",
+  "title_src": "filename",
+  "sha256": "f0cd6ac77707585ccfe40f78dafdfc616faf9136e0200c2751d91ded6ad4646a",
+  "nh": "48a8debb126855f2ee9268271d8b24544c27f9ab01bf914a13186a2ea33b1403",
+  "chars": 13566,
+  "quality": "ok",
+  "winner": {
+    "store": "hw-tr",
+    "path": "hawshat/transcripts/bouti/mut-386/305_الحكم العطائية للعلامة البوطي  الدرس 308 - المناجاة 34 - الدرس الأخير.txt",
+    "commit_ts": 1791841975,
+    "head": "8a8b281"
+  },
+  "sources": [
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/305_الحكم العطائية للعلامة البوطي  الدرس 308 - المناجاة 34 - الدرس الأخير.txt",
+      "sha256": "f0cd6ac77707585ccfe40f78dafdfc616faf9136e0200c2751d91ded6ad4646a",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 100.0,
+    "words": 2494,
+    "aligned": 2494,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 05:46"
   }
- ],
- "variants": [],
- "also_in": []
 }

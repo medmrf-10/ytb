@@ -1,7 +1,7 @@
 {
   "sheikhs": [
     {
-      "aligned": 1129,
+      "aligned": 1135,
       "chars": 20560343,
       "lessons": 1165,
       "name": "محمد سعيد رمضان البوطي",
@@ -346,14 +346,14 @@
           "transcribed": 38
         },
         {
-          "aligned": 304,
-          "aligned_pct": "98.1%",
+          "aligned": 310,
+          "aligned_pct": "100.0%",
           "category": "التزكية والتصوف",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 310,
           "dir": "s033/",
-          "dur": 811211,
+          "dur": 811205,
           "key": "s033",
           "series_id": "bouti__s033",
           "title": "شرح الحكم العطائية لابن عطاء الله السكندري",
@@ -4485,8 +4485,8 @@
       "slug": "daddo"
     },
     {
-      "aligned": 189,
-      "chars": 6962991,
+      "aligned": 192,
+      "chars": 6962779,
       "lessons": 241,
       "name": "علي محمود العمري",
       "path": "ali-mahmoud-alomari/",
@@ -4718,14 +4718,14 @@
           "transcribed": 6
         },
         {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
+          "aligned": 3,
+          "aligned_pct": "100.0%",
           "category": "فتاوى ولقاءات",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 3,
           "dir": "s017/",
-          "dur": 6238,
+          "dur": 6237,
           "key": "s017",
           "series_id": "omari__s017",
           "title": "لقاءات علمية ومناقشات",
@@ -5828,8 +5828,8 @@
     }
   ],
   "totals": {
-    "aligned": 4191,
-    "chars": 157885501,
+    "aligned": 4200,
+    "chars": 157885289,
     "lessons": 6712,
     "series": 393,
     "sheikhs": 27

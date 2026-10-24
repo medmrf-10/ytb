@@ -1,16 +1,16 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 3,
+  "aligned_ratio": 1.0,
   "category": "فتاوى ولقاءات",
   "coverage": 1.0,
   "declared_total": 3,
   "key": "s017",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 50123,
-      "dur": 5259,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 49911,
+      "dur": 5258,
       "file": "001_lPtD_9iOBOU.txt",
       "n": 1,
       "stem": "001_lPtD_9iOBOU",
@@ -18,8 +18,8 @@
       "vid": "lPtD_9iOBOU"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 6180,
       "dur": 629,
       "file": "002_67oWqXf8ZZQ.txt",
@@ -29,8 +29,8 @@
       "vid": "67oWqXf8ZZQ"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 3705,
       "dur": 350,
       "file": "003_sbTAc8fJp2M.txt",
