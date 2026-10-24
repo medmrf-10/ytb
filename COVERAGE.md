@@ -3,7 +3,7 @@
 - **إجمالي المشايخ:** 27 شيخاً
 - **إجمالي السلاسل المفرغة:** 393 سلسلة
 - **إجمالي الدروس المفرغة نصياً (`.txt`):** 6,739 درساً (158,656,171 حرفاً)
-- **إجمالي الدروس المحاذاة صوتياً (`.align.json`):** 4,225 درساً
+- **إجمالي الدروس المحاذاة صوتياً (`.align.json`):** 4,236 درساً
 
 ## 1. جدول المشايخ الإجمالي
 
@@ -29,7 +29,7 @@
 | 18 | سيف العصري | `saif-alasri` | 1 | 56 | 0 | [`saif-alasri/`](./saif-alasri/) |
 | 19 | أبو بكر المشهور | `aboubakr-almashhour` | 6 | 39 | 0 | [`aboubakr-almashhour/`](./aboubakr-almashhour/) |
 | 20 | محمد عبد الواحد الحنبلي | `muhammad-abdelwahid-hanbali` | 1 | 38 | 0 | [`muhammad-abdelwahid-hanbali/`](./muhammad-abdelwahid-hanbali/) |
-| 21 | الشيخة جميلة الشيخ أحمد | `jamila-sheikh-ahmad` | 1 | 27 | 15 | [`jamila-sheikh-ahmad/`](./jamila-sheikh-ahmad/) |
+| 21 | الشيخة جميلة الشيخ أحمد | `jamila-sheikh-ahmad` | 1 | 27 | 26 | [`jamila-sheikh-ahmad/`](./jamila-sheikh-ahmad/) |
 | 22 | أحمد عبد المنعم | `ahmed-abdelmonem` | 1 | 20 | 0 | [`ahmed-abdelmonem/`](./ahmed-abdelmonem/) |
 | 23 | حاتم العوني | `hatem-alaouni` | 3 | 19 | 0 | [`hatem-alaouni/`](./hatem-alaouni/) |
 | 24 | سعيد الكملي | `said-kamali` | 1 | 11 | 11 | [`said-kamali/`](./said-kamali/) |
@@ -542,11 +542,11 @@
 | [`abdelwahid-tawassul`](./muhammad-abdelwahid-hanbali/abdelwahid-tawassul/) | التوسل والاستغاثة عند الحنابلة | 38 | 38 | 100.0% | 0 (0.0%) |
 
 ### الشيخة جميلة الشيخ أحمد (`jamila-sheikh-ahmad`)
-- إجمالي الدروس المفرغة: **27** درساً (المحاذاة: **15**) في **1** سلسلة.
+- إجمالي الدروس المفرغة: **27** درساً (المحاذاة: **26**) في **1** سلسلة.
 
 | الكود | عنوان السلسلة | المفرغ | المعلن | نسبة التفريغ | المحاذاة |
 |---|---|---:|---:|---:|---:|
-| [`s001`](./jamila-sheikh-ahmad/s001/) | مطهرة القلوب | 27 | 27 | 100.0% | 15 (55.6%) |
+| [`s001`](./jamila-sheikh-ahmad/s001/) | مطهرة القلوب | 27 | 27 | 100.0% | 26 (96.3%) |
 
 ### أحمد عبد المنعم (`ahmed-abdelmonem`)
 - إجمالي الدروس المفرغة: **20** درساً (المحاذاة: **0**) في **1** سلسلة.
