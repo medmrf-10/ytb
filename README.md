@@ -9,7 +9,7 @@
 - **المشايخ ذوو المحتوى الفعلي:** 27 شيخاً
 - **السلاسل المفرّغة:** 393 سلسلة
 - **الدروس المفرّغة نصياً (`.txt`):** 6,739 درساً
-- **الدروس المحاذاة صوتياً (`.align.json`):** 4,214 درساً
+- **الدروس المحاذاة صوتياً (`.align.json`):** 4,225 درساً
 - **إجمالي الحجم النصي:** 158,656,171 حرفاً
 
 ---
@@ -38,7 +38,7 @@
 | 18 | سيف العصري | `saif-alasri` | 1 | 56 | 0 | [`saif-alasri/`](./saif-alasri/) |
 | 19 | أبو بكر المشهور | `aboubakr-almashhour` | 6 | 39 | 0 | [`aboubakr-almashhour/`](./aboubakr-almashhour/) |
 | 20 | محمد عبد الواحد الحنبلي | `muhammad-abdelwahid-hanbali` | 1 | 38 | 0 | [`muhammad-abdelwahid-hanbali/`](./muhammad-abdelwahid-hanbali/) |
-| 21 | الشيخة جميلة الشيخ أحمد | `jamila-sheikh-ahmad` | 1 | 27 | 4 | [`jamila-sheikh-ahmad/`](./jamila-sheikh-ahmad/) |
+| 21 | الشيخة جميلة الشيخ أحمد | `jamila-sheikh-ahmad` | 1 | 27 | 15 | [`jamila-sheikh-ahmad/`](./jamila-sheikh-ahmad/) |
 | 22 | أحمد عبد المنعم | `ahmed-abdelmonem` | 1 | 20 | 0 | [`ahmed-abdelmonem/`](./ahmed-abdelmonem/) |
 | 23 | حاتم العوني | `hatem-alaouni` | 3 | 19 | 0 | [`hatem-alaouni/`](./hatem-alaouni/) |
 | 24 | سعيد الكملي | `said-kamali` | 1 | 11 | 11 | [`said-kamali/`](./said-kamali/) |
