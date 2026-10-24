@@ -1,15 +1,15 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 6,
+  "aligned_ratio": 0.6,
   "category": "المنطق والفلسفة",
   "coverage": 1.0,
   "declared_total": 10,
   "key": "s013",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 39748,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 39647,
       "dur": 4870,
       "file": "001_CpDhOFf-DA0.txt",
       "n": 1,
@@ -18,10 +18,10 @@
       "vid": "CpDhOFf-DA0"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 39806,
-      "dur": 4780,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 39781,
+      "dur": 4779,
       "file": "002_zJcIgcge248.txt",
       "n": 2,
       "stem": "002_zJcIgcge248",
@@ -29,10 +29,10 @@
       "vid": "zJcIgcge248"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 41526,
-      "dur": 5151,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 41451,
+      "dur": 5150,
       "file": "003_o5FWdHMO6rA.txt",
       "n": 3,
       "stem": "003_o5FWdHMO6rA",
@@ -40,9 +40,9 @@
       "vid": "o5FWdHMO6rA"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 43879,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 43799,
       "dur": 5850,
       "file": "004_mezR3_jY-A0.txt",
       "n": 4,
@@ -51,10 +51,10 @@
       "vid": "mezR3_jY-A0"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 47669,
-      "dur": 5548,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 47561,
+      "dur": 5547,
       "file": "005_RO8SIwNcDIs.txt",
       "n": 5,
       "stem": "005_RO8SIwNcDIs",
@@ -62,10 +62,10 @@
       "vid": "RO8SIwNcDIs"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
-      "chars": 41789,
-      "dur": 4587,
+      "align_coverage": 100.0,
+      "aligned": true,
+      "chars": 41656,
+      "dur": 4586,
       "file": "006_6Tm34X-tSwI.txt",
       "n": 6,
       "stem": "006_6Tm34X-tSwI",

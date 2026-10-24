@@ -1,43 +1,59 @@
 {
- "v": 1,
- "lid": "yt:o5FWdHMO6rA",
- "vid": "o5FWdHMO6rA",
- "sheikh": "ali-mahmoud-alomari",
- "row_id": "ali-mahmoud-alomari--alamri-falsafa-haditha",
- "n": 3,
- "n_src": "trfile",
- "title": "الدرس 3",
- "title_src": "filename",
- "sha256": "871934045d7af7a8ebe76104ed12298dcddc28ad464afb7f420f8d90cf8c88df",
- "nh": "4d4c84447d04f360c4c298c144d4111c165d9c651b15a2411891f69c1f9dd111",
- "chars": 41526,
- "quality": "ok",
- "winner": {
-  "store": "irth",
-  "path": "irth/content/tube/alamriFalsafaHaditha-003/transcript.txt",
-  "commit_ts": 1791601929,
-  "head": "e35ede5"
- },
- "sources": [
-  {
-   "store": "irth",
-   "path": "irth/content/tube/alamriFalsafaHaditha-003/transcript.txt",
-   "sha256": "871934045d7af7a8ebe76104ed12298dcddc28ad464afb7f420f8d90cf8c88df",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:o5FWdHMO6rA",
+  "vid": "o5FWdHMO6rA",
+  "sheikh": "ali-mahmoud-alomari",
+  "row_id": "ali-mahmoud-alomari--alamri-falsafa-haditha",
+  "n": 3,
+  "n_src": "trfile",
+  "title": "الدرس 3",
+  "title_src": "filename",
+  "sha256": "871934045d7af7a8ebe76104ed12298dcddc28ad464afb7f420f8d90cf8c88df",
+  "nh": "4d4c84447d04f360c4c298c144d4111c165d9c651b15a2411891f69c1f9dd111",
+  "chars": 41526,
+  "quality": "ok",
+  "winner": {
+    "store": "irth",
+    "path": "irth/content/tube/alamriFalsafaHaditha-003/transcript.txt",
+    "commit_ts": 1791601929,
+    "head": "e35ede5"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/alamri/falsafa-haditha/falsafa-haditha-03_AlAmri.txt",
-   "sha256": "871934045d7af7a8ebe76104ed12298dcddc28ad464afb7f420f8d90cf8c88df",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-ls",
-   "path": "hawshat/playlists/lessons/alamri-falsafa-haditha/03.txt",
-   "sha256": "871934045d7af7a8ebe76104ed12298dcddc28ad464afb7f420f8d90cf8c88df",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "irth",
+      "path": "irth/content/tube/alamriFalsafaHaditha-003/transcript.txt",
+      "sha256": "871934045d7af7a8ebe76104ed12298dcddc28ad464afb7f420f8d90cf8c88df",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/alamri/falsafa-haditha/falsafa-haditha-03_AlAmri.txt",
+      "sha256": "871934045d7af7a8ebe76104ed12298dcddc28ad464afb7f420f8d90cf8c88df",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-ls",
+      "path": "hawshat/playlists/lessons/alamri-falsafa-haditha/03.txt",
+      "sha256": "871934045d7af7a8ebe76104ed12298dcddc28ad464afb7f420f8d90cf8c88df",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9982,
+    "spoken_align_pct": 99.82,
+    "audio_span_pct": 99.97,
+    "words": 7745,
+    "aligned": 7716,
+    "interpolated": 14,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 05:53",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
