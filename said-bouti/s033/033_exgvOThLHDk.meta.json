@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:exgvOThLHDk",
- "vid": "exgvOThLHDk",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 33,
- "n_src": "read",
- "title": "الحكم العطائية للإمام البوطي ｜ الدرس 33 - الحكمة 17",
- "title_src": "filename",
- "sha256": "bbb80ab61fcf6209557f24ef884b8dbf86de393f127cca22c1c14c446eb9a50e",
- "nh": "172c04d7202996812ef17ca3d24474899a0efe0f7117718f57b4136e1eb14e23",
- "chars": 21655,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/386/033_الحكم العطائية للإمام البوطي ｜ الدرس 33  - الحكمة 17.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/386/033_الحكم العطائية للإمام البوطي ｜ الدرس 33  - الحكمة 17.txt",
-   "sha256": "bbb80ab61fcf6209557f24ef884b8dbf86de393f127cca22c1c14c446eb9a50e",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:exgvOThLHDk",
+  "vid": "exgvOThLHDk",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 33,
+  "n_src": "read",
+  "title": "الحكم العطائية للإمام البوطي ｜ الدرس 33 - الحكمة 17",
+  "title_src": "filename",
+  "sha256": "bbb80ab61fcf6209557f24ef884b8dbf86de393f127cca22c1c14c446eb9a50e",
+  "nh": "172c04d7202996812ef17ca3d24474899a0efe0f7117718f57b4136e1eb14e23",
+  "chars": 21655,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/386/033_الحكم العطائية للإمام البوطي ｜ الدرس 33  - الحكمة 17.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/hikam/033_الحكم العطائية للإمام البوطي ｜ الدرس 33  - الحكمة 17.txt",
-   "sha256": "bbb80ab61fcf6209557f24ef884b8dbf86de393f127cca22c1c14c446eb9a50e",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/033_الحكم العطائية للإمام البوطي ｜ الدرس 33  - الحكمة 17.txt",
-   "sha256": "bbb80ab61fcf6209557f24ef884b8dbf86de393f127cca22c1c14c446eb9a50e",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/386/32.txt",
-   "sha256": "bbb80ab61fcf6209557f24ef884b8dbf86de393f127cca22c1c14c446eb9a50e",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/386/033_الحكم العطائية للإمام البوطي ｜ الدرس 33  - الحكمة 17.txt",
+      "sha256": "bbb80ab61fcf6209557f24ef884b8dbf86de393f127cca22c1c14c446eb9a50e",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/hikam/033_الحكم العطائية للإمام البوطي ｜ الدرس 33  - الحكمة 17.txt",
+      "sha256": "bbb80ab61fcf6209557f24ef884b8dbf86de393f127cca22c1c14c446eb9a50e",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/033_الحكم العطائية للإمام البوطي ｜ الدرس 33  - الحكمة 17.txt",
+      "sha256": "bbb80ab61fcf6209557f24ef884b8dbf86de393f127cca22c1c14c446eb9a50e",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/386/32.txt",
+      "sha256": "bbb80ab61fcf6209557f24ef884b8dbf86de393f127cca22c1c14c446eb9a50e",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9949,
+    "spoken_align_pct": 99.49,
+    "audio_span_pct": 99.74,
+    "words": 3929,
+    "aligned": 3907,
+    "interpolated": 20,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 01:23"
   }
- ],
- "variants": [],
- "also_in": []
 }
