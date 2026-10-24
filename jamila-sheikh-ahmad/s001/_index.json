@@ -1,16 +1,16 @@
 {
-  "aligned": 0,
-  "aligned_ratio": 0.0,
+  "aligned": 4,
+  "aligned_ratio": 0.1481,
   "category": "التزكية والأخلاق",
   "coverage": 1.0,
   "declared_total": 27,
   "key": "s001",
   "lessons": [
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 22933,
-      "dur": 2067,
+      "dur": 2068,
       "file": "001_8UhH_esTHok.txt",
       "n": 1,
       "stem": "001_8UhH_esTHok",
@@ -18,10 +18,10 @@
       "vid": "8UhH_esTHok"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 23521,
-      "dur": 2188,
+      "dur": 2189,
       "file": "002_kLcF7qsynjU.txt",
       "n": 2,
       "stem": "002_kLcF7qsynjU",
@@ -51,10 +51,10 @@
       "vid": "oqP6RIX5wFI"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 30223,
-      "dur": 2726,
+      "dur": 2727,
       "file": "005_u6PSy3RglC0.txt",
       "n": 5,
       "stem": "005_u6PSy3RglC0",
@@ -62,8 +62,8 @@
       "vid": "u6PSy3RglC0"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 34317,
       "dur": 2925,
       "file": "006_QicyrSsyyzA.txt",
