@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:3mqsp7NgDwA",
- "vid": "3mqsp7NgDwA",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 1,
- "n_src": "read",
- "title": "الحكم العطائية للإمام البوطي ｜ الدرس 1-لماذا ندرس الحكم؟ ｜ Al-Bouti ｜The Aphoris",
- "title_src": "filename",
- "sha256": "5da37660619392706fe283099aa2c67841c77f117d4bf21bda82e6af31ad1c66",
- "nh": "2955d8abe14b4db33b3f542ef4d8908350107eab0768ad032a0dca31b6c85b53",
- "chars": 14410,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/386/001_الحكم العطائية للإمام البوطي ｜ الدرس 1-لماذا ندرس الحكم؟ ｜ Al-Bouti ｜The Aphoris.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/386/001_الحكم العطائية للإمام البوطي ｜ الدرس 1-لماذا ندرس الحكم؟ ｜ Al-Bouti ｜The Aphoris.txt",
-   "sha256": "5da37660619392706fe283099aa2c67841c77f117d4bf21bda82e6af31ad1c66",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:3mqsp7NgDwA",
+  "vid": "3mqsp7NgDwA",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 1,
+  "n_src": "read",
+  "title": "الحكم العطائية للإمام البوطي ｜ الدرس 1-لماذا ندرس الحكم؟ ｜ Al-Bouti ｜The Aphoris",
+  "title_src": "filename",
+  "sha256": "5da37660619392706fe283099aa2c67841c77f117d4bf21bda82e6af31ad1c66",
+  "nh": "2955d8abe14b4db33b3f542ef4d8908350107eab0768ad032a0dca31b6c85b53",
+  "chars": 14410,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/386/001_الحكم العطائية للإمام البوطي ｜ الدرس 1-لماذا ندرس الحكم؟ ｜ Al-Bouti ｜The Aphoris.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/001_الحكم العطائية للإمام البوطي ｜ الدرس 1-لماذا ندرس الحكم؟ ｜ Al-Bouti ｜The Aphoris.txt",
-   "sha256": "5da37660619392706fe283099aa2c67841c77f117d4bf21bda82e6af31ad1c66",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/386/001_الحكم العطائية للإمام البوطي ｜ الدرس 1-لماذا ندرس الحكم؟ ｜ Al-Bouti ｜The Aphoris.txt",
+      "sha256": "5da37660619392706fe283099aa2c67841c77f117d4bf21bda82e6af31ad1c66",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/001_الحكم العطائية للإمام البوطي ｜ الدرس 1-لماذا ندرس الحكم؟ ｜ Al-Bouti ｜The Aphoris.txt",
+      "sha256": "5da37660619392706fe283099aa2c67841c77f117d4bf21bda82e6af31ad1c66",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9992,
+    "spoken_align_pct": 99.92,
+    "audio_span_pct": 99.55,
+    "words": 2612,
+    "aligned": 2610,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 00:56"
   }
- ],
- "variants": [],
- "also_in": []
 }

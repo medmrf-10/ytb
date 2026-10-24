@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:PktaSPmcf3o",
- "vid": "PktaSPmcf3o",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 3,
- "n_src": "read",
- "title": "الحكم العطائية للإمام البوطي ｜ الدرس 3 - الحكمة 1 ｜ Al-Bouti ｜ The Aphorisms of",
- "title_src": "filename",
- "sha256": "85e1d8931b1df18b6f41f5a64f5008cfdf5cbeabfc692cc26f9de61ad5285b3f",
- "nh": "383fa8f85b5bd0c04651759e945c795dfb7faff413fad62a64e122ca0b66fe2e",
- "chars": 18604,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/386/003_الحكم العطائية للإمام البوطي ｜ الدرس 3 - الحكمة 1 ｜ Al-Bouti ｜ The Aphorisms of .txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/386/003_الحكم العطائية للإمام البوطي ｜ الدرس 3 - الحكمة 1 ｜ Al-Bouti ｜ The Aphorisms of .txt",
-   "sha256": "85e1d8931b1df18b6f41f5a64f5008cfdf5cbeabfc692cc26f9de61ad5285b3f",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:PktaSPmcf3o",
+  "vid": "PktaSPmcf3o",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 3,
+  "n_src": "read",
+  "title": "الحكم العطائية للإمام البوطي ｜ الدرس 3 - الحكمة 1 ｜ Al-Bouti ｜ The Aphorisms of",
+  "title_src": "filename",
+  "sha256": "85e1d8931b1df18b6f41f5a64f5008cfdf5cbeabfc692cc26f9de61ad5285b3f",
+  "nh": "383fa8f85b5bd0c04651759e945c795dfb7faff413fad62a64e122ca0b66fe2e",
+  "chars": 18604,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/386/003_الحكم العطائية للإمام البوطي ｜ الدرس 3 - الحكمة 1 ｜ Al-Bouti ｜ The Aphorisms of .txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/003_الحكم العطائية للإمام البوطي ｜ الدرس 3 - الحكمة 1 ｜ Al-Bouti ｜ The Aphorisms of .txt",
-   "sha256": "85e1d8931b1df18b6f41f5a64f5008cfdf5cbeabfc692cc26f9de61ad5285b3f",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/386/2.txt",
-   "sha256": "85e1d8931b1df18b6f41f5a64f5008cfdf5cbeabfc692cc26f9de61ad5285b3f",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/386/003_الحكم العطائية للإمام البوطي ｜ الدرس 3 - الحكمة 1 ｜ Al-Bouti ｜ The Aphorisms of .txt",
+      "sha256": "85e1d8931b1df18b6f41f5a64f5008cfdf5cbeabfc692cc26f9de61ad5285b3f",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/003_الحكم العطائية للإمام البوطي ｜ الدرس 3 - الحكمة 1 ｜ Al-Bouti ｜ The Aphorisms of .txt",
+      "sha256": "85e1d8931b1df18b6f41f5a64f5008cfdf5cbeabfc692cc26f9de61ad5285b3f",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/386/2.txt",
+      "sha256": "85e1d8931b1df18b6f41f5a64f5008cfdf5cbeabfc692cc26f9de61ad5285b3f",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9983,
+    "spoken_align_pct": 99.83,
+    "audio_span_pct": 99.66,
+    "words": 3501,
+    "aligned": 3493,
+    "interpolated": 6,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 00:57"
   }
- ],
- "variants": [],
- "also_in": []
 }
