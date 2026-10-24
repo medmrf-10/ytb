@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:ZMItIdGzGmA",
- "vid": "ZMItIdGzGmA",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 190,
- "n_src": "read",
- "title": "الحكم العطائية للإمام البوطي الدرس 81 - الحكمة 57 - 58",
- "title_src": "filename",
- "sha256": "bb34f9ac857eda63f8db9e64af42472af892559d04614412efdab06f2cd50ce3",
- "nh": "efc3033e6f1a182d35fb6e9824820ec2b083281032af23e09274c3b3b27927e4",
- "chars": 20187,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/386/190_الحكم العطائية للإمام البوطي  الدرس 81  - الحكمة 57 - 58.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/386/190_الحكم العطائية للإمام البوطي  الدرس 81  - الحكمة 57 - 58.txt",
-   "sha256": "bb34f9ac857eda63f8db9e64af42472af892559d04614412efdab06f2cd50ce3",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:ZMItIdGzGmA",
+  "vid": "ZMItIdGzGmA",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 190,
+  "n_src": "read",
+  "title": "الحكم العطائية للإمام البوطي الدرس 81 - الحكمة 57 - 58",
+  "title_src": "filename",
+  "sha256": "bb34f9ac857eda63f8db9e64af42472af892559d04614412efdab06f2cd50ce3",
+  "nh": "efc3033e6f1a182d35fb6e9824820ec2b083281032af23e09274c3b3b27927e4",
+  "chars": 20187,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/386/190_الحكم العطائية للإمام البوطي  الدرس 81  - الحكمة 57 - 58.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/190_الحكم العطائية للإمام البوطي  الدرس 81  - الحكمة 57 - 58.txt",
-   "sha256": "bb34f9ac857eda63f8db9e64af42472af892559d04614412efdab06f2cd50ce3",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/386/190_الحكم العطائية للإمام البوطي  الدرس 81  - الحكمة 57 - 58.txt",
+      "sha256": "bb34f9ac857eda63f8db9e64af42472af892559d04614412efdab06f2cd50ce3",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/190_الحكم العطائية للإمام البوطي  الدرس 81  - الحكمة 57 - 58.txt",
+      "sha256": "bb34f9ac857eda63f8db9e64af42472af892559d04614412efdab06f2cd50ce3",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9992,
+    "spoken_align_pct": 99.92,
+    "audio_span_pct": 99.81,
+    "words": 3939,
+    "aligned": 3936,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 02:09"
   }
- ],
- "variants": [],
- "also_in": []
 }

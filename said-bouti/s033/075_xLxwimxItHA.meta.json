@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:xLxwimxItHA",
- "vid": "xLxwimxItHA",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 184,
- "n_src": "read",
- "title": "الحكم العطائية للإمام البوطي الدرس 75 - الحكمة 52",
- "title_src": "filename",
- "sha256": "cbb46394e7b788b8e3f4ca303c5a91058a3521c145dae165a4009defc6bcfac7",
- "nh": "81fe509ab34aa58b8bd9b60b2d5602e2624ea74b30ee095f4ddb529de24366bd",
- "chars": 22926,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/386/184_الحكم العطائية للإمام البوطي  الدرس 75  - الحكمة 52.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/386/184_الحكم العطائية للإمام البوطي  الدرس 75  - الحكمة 52.txt",
-   "sha256": "cbb46394e7b788b8e3f4ca303c5a91058a3521c145dae165a4009defc6bcfac7",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:xLxwimxItHA",
+  "vid": "xLxwimxItHA",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 184,
+  "n_src": "read",
+  "title": "الحكم العطائية للإمام البوطي الدرس 75 - الحكمة 52",
+  "title_src": "filename",
+  "sha256": "cbb46394e7b788b8e3f4ca303c5a91058a3521c145dae165a4009defc6bcfac7",
+  "nh": "81fe509ab34aa58b8bd9b60b2d5602e2624ea74b30ee095f4ddb529de24366bd",
+  "chars": 22926,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/386/184_الحكم العطائية للإمام البوطي  الدرس 75  - الحكمة 52.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/184_الحكم العطائية للإمام البوطي  الدرس 75  - الحكمة 52.txt",
-   "sha256": "cbb46394e7b788b8e3f4ca303c5a91058a3521c145dae165a4009defc6bcfac7",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/386/184_الحكم العطائية للإمام البوطي  الدرس 75  - الحكمة 52.txt",
+      "sha256": "cbb46394e7b788b8e3f4ca303c5a91058a3521c145dae165a4009defc6bcfac7",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/184_الحكم العطائية للإمام البوطي  الدرس 75  - الحكمة 52.txt",
+      "sha256": "cbb46394e7b788b8e3f4ca303c5a91058a3521c145dae165a4009defc6bcfac7",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9961,
+    "spoken_align_pct": 99.61,
+    "audio_span_pct": 99.82,
+    "words": 4308,
+    "aligned": 4291,
+    "interpolated": 17,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 02:01"
   }
- ],
- "variants": [],
- "also_in": []
 }
