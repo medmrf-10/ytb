@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:De-YA-77GMY",
- "vid": "De-YA-77GMY",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 145,
- "n_src": "read",
- "title": "الحكم العطائية للعلامة البوطي الدرس 208 - الحكمة 185",
- "title_src": "filename",
- "sha256": "a7adde128f03a2d421f312d615c30d1672adb1be0a6bd07d1a03026e3b3508c2",
- "nh": "076bc3d904b1b806d3949e48284a73ffe2c85000a552f479d35d4da6bb61ac0b",
- "chars": 19048,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/386/145_الحكم العطائية للعلامة البوطي  الدرس 208 - الحكمة 185.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/386/145_الحكم العطائية للعلامة البوطي  الدرس 208 - الحكمة 185.txt",
-   "sha256": "a7adde128f03a2d421f312d615c30d1672adb1be0a6bd07d1a03026e3b3508c2",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:De-YA-77GMY",
+  "vid": "De-YA-77GMY",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 145,
+  "n_src": "read",
+  "title": "الحكم العطائية للعلامة البوطي الدرس 208 - الحكمة 185",
+  "title_src": "filename",
+  "sha256": "a7adde128f03a2d421f312d615c30d1672adb1be0a6bd07d1a03026e3b3508c2",
+  "nh": "076bc3d904b1b806d3949e48284a73ffe2c85000a552f479d35d4da6bb61ac0b",
+  "chars": 19048,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/386/145_الحكم العطائية للعلامة البوطي  الدرس 208 - الحكمة 185.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/145_الحكم العطائية للعلامة البوطي  الدرس 208 - الحكمة 185.txt",
-   "sha256": "a7adde128f03a2d421f312d615c30d1672adb1be0a6bd07d1a03026e3b3508c2",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/386/145_الحكم العطائية للعلامة البوطي  الدرس 208 - الحكمة 185.txt",
+      "sha256": "a7adde128f03a2d421f312d615c30d1672adb1be0a6bd07d1a03026e3b3508c2",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/145_الحكم العطائية للعلامة البوطي  الدرس 208 - الحكمة 185.txt",
+      "sha256": "a7adde128f03a2d421f312d615c30d1672adb1be0a6bd07d1a03026e3b3508c2",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 100.0,
+    "words": 3644,
+    "aligned": 3644,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 04:08"
   }
- ],
- "variants": [],
- "also_in": []
 }

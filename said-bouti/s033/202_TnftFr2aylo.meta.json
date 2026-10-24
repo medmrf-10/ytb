@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:TnftFr2aylo",
- "vid": "TnftFr2aylo",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 138,
- "n_src": "read",
- "title": "الحكم العطائية للعلامة البوطي الدرس 201 - الحكمة 178 هام للمقدمين على عمل أو دراسة أو سفر",
- "title_src": "filename",
- "sha256": "1ec79dd7ab22d6a2c86dcff407aa2a3cf71e58db89ecf6784857ec388a030446",
- "nh": "9ac0e6f9d224ee45d1921ae64313ba8052c69228c37f3d358fd38c0d92e37249",
- "chars": 18185,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/386/138_الحكم العطائية للعلامة البوطي  الدرس 201 - الحكمة 178  هام للمقدمين على عمل أو دراسة أو سفر.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/386/138_الحكم العطائية للعلامة البوطي  الدرس 201 - الحكمة 178  هام للمقدمين على عمل أو دراسة أو سفر.txt",
-   "sha256": "1ec79dd7ab22d6a2c86dcff407aa2a3cf71e58db89ecf6784857ec388a030446",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:TnftFr2aylo",
+  "vid": "TnftFr2aylo",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 138,
+  "n_src": "read",
+  "title": "الحكم العطائية للعلامة البوطي الدرس 201 - الحكمة 178 هام للمقدمين على عمل أو دراسة أو سفر",
+  "title_src": "filename",
+  "sha256": "1ec79dd7ab22d6a2c86dcff407aa2a3cf71e58db89ecf6784857ec388a030446",
+  "nh": "9ac0e6f9d224ee45d1921ae64313ba8052c69228c37f3d358fd38c0d92e37249",
+  "chars": 18185,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/386/138_الحكم العطائية للعلامة البوطي  الدرس 201 - الحكمة 178  هام للمقدمين على عمل أو دراسة أو سفر.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/138_الحكم العطائية للعلامة البوطي  الدرس 201 - الحكمة 178  هام للمقدمين على عمل أو دراسة أو سفر.txt",
-   "sha256": "1ec79dd7ab22d6a2c86dcff407aa2a3cf71e58db89ecf6784857ec388a030446",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/386/138_الحكم العطائية للعلامة البوطي  الدرس 201 - الحكمة 178  هام للمقدمين على عمل أو دراسة أو سفر.txt",
+      "sha256": "1ec79dd7ab22d6a2c86dcff407aa2a3cf71e58db89ecf6784857ec388a030446",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/138_الحكم العطائية للعلامة البوطي  الدرس 201 - الحكمة 178  هام للمقدمين على عمل أو دراسة أو سفر.txt",
+      "sha256": "1ec79dd7ab22d6a2c86dcff407aa2a3cf71e58db89ecf6784857ec388a030446",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9991,
+    "spoken_align_pct": 99.91,
+    "audio_span_pct": 99.99,
+    "words": 3484,
+    "aligned": 3481,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 04:02"
   }
- ],
- "variants": [],
- "also_in": []
 }
