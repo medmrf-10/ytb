@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:kNz9-lTdxnI",
- "vid": "kNz9-lTdxnI",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 114,
- "n_src": "read",
- "title": "الحكم العطائية للعلامة البوطي الدرس 301 - المناجاة 22 - 25",
- "title_src": "filename",
- "sha256": "131a7b0a6eb67295783636f1575efacea2447c273c2962bb1f9f2adc0ec96bd2",
- "nh": "0d4e1f23a9a310081665414e8c7d11325a859b80b721f4cc6190c885f0c2ea0e",
- "chars": 27690,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/386/114_الحكم العطائية للعلامة البوطي  الدرس 301 - المناجاة 22 - 25.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/386/114_الحكم العطائية للعلامة البوطي  الدرس 301 - المناجاة 22 - 25.txt",
-   "sha256": "131a7b0a6eb67295783636f1575efacea2447c273c2962bb1f9f2adc0ec96bd2",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:kNz9-lTdxnI",
+  "vid": "kNz9-lTdxnI",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 114,
+  "n_src": "read",
+  "title": "الحكم العطائية للعلامة البوطي الدرس 301 - المناجاة 22 - 25",
+  "title_src": "filename",
+  "sha256": "131a7b0a6eb67295783636f1575efacea2447c273c2962bb1f9f2adc0ec96bd2",
+  "nh": "0d4e1f23a9a310081665414e8c7d11325a859b80b721f4cc6190c885f0c2ea0e",
+  "chars": 27690,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/386/114_الحكم العطائية للعلامة البوطي  الدرس 301 - المناجاة 22 - 25.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/hikam/114_الحكم العطائية للعلامة البوطي  الدرس 301 - المناجاة 22 - 25.txt",
-   "sha256": "131a7b0a6eb67295783636f1575efacea2447c273c2962bb1f9f2adc0ec96bd2",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/114_الحكم العطائية للعلامة البوطي  الدرس 301 - المناجاة 22 - 25.txt",
-   "sha256": "131a7b0a6eb67295783636f1575efacea2447c273c2962bb1f9f2adc0ec96bd2",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/386/114_الحكم العطائية للعلامة البوطي  الدرس 301 - المناجاة 22 - 25.txt",
+      "sha256": "131a7b0a6eb67295783636f1575efacea2447c273c2962bb1f9f2adc0ec96bd2",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/hikam/114_الحكم العطائية للعلامة البوطي  الدرس 301 - المناجاة 22 - 25.txt",
+      "sha256": "131a7b0a6eb67295783636f1575efacea2447c273c2962bb1f9f2adc0ec96bd2",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/114_الحكم العطائية للعلامة البوطي  الدرس 301 - المناجاة 22 - 25.txt",
+      "sha256": "131a7b0a6eb67295783636f1575efacea2447c273c2962bb1f9f2adc0ec96bd2",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9998,
+    "spoken_align_pct": 99.98,
+    "audio_span_pct": 100.0,
+    "words": 5419,
+    "aligned": 5418,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 05:40"
   }
- ],
- "variants": [],
- "also_in": []
 }

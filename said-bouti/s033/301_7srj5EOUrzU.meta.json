@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:7srj5EOUrzU",
- "vid": "7srj5EOUrzU",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 119,
- "n_src": "read",
- "title": "الحكم العطائية للعلامة البوطي الدرس 299 - المناجاة 13 - 18",
- "title_src": "filename",
- "sha256": "52bb2673cc08f562689d6339e2c167fdd159fc6d758bd04794f04faf7da05af1",
- "nh": "285623861846cc618e0be25ac0b092261c424364418464a03920684c51730f73",
- "chars": 26482,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/386/119_الحكم العطائية للعلامة البوطي  الدرس 299 - المناجاة 13 - 18.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/386/119_الحكم العطائية للعلامة البوطي  الدرس 299 - المناجاة 13 - 18.txt",
-   "sha256": "52bb2673cc08f562689d6339e2c167fdd159fc6d758bd04794f04faf7da05af1",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:7srj5EOUrzU",
+  "vid": "7srj5EOUrzU",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 119,
+  "n_src": "read",
+  "title": "الحكم العطائية للعلامة البوطي الدرس 299 - المناجاة 13 - 18",
+  "title_src": "filename",
+  "sha256": "52bb2673cc08f562689d6339e2c167fdd159fc6d758bd04794f04faf7da05af1",
+  "nh": "285623861846cc618e0be25ac0b092261c424364418464a03920684c51730f73",
+  "chars": 26482,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/386/119_الحكم العطائية للعلامة البوطي  الدرس 299 - المناجاة 13 - 18.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/119_الحكم العطائية للعلامة البوطي  الدرس 299 - المناجاة 13 - 18.txt",
-   "sha256": "52bb2673cc08f562689d6339e2c167fdd159fc6d758bd04794f04faf7da05af1",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/386/119_الحكم العطائية للعلامة البوطي  الدرس 299 - المناجاة 13 - 18.txt",
+      "sha256": "52bb2673cc08f562689d6339e2c167fdd159fc6d758bd04794f04faf7da05af1",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/119_الحكم العطائية للعلامة البوطي  الدرس 299 - المناجاة 13 - 18.txt",
+      "sha256": "52bb2673cc08f562689d6339e2c167fdd159fc6d758bd04794f04faf7da05af1",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9996,
+    "spoken_align_pct": 99.96,
+    "audio_span_pct": 99.99,
+    "words": 5113,
+    "aligned": 5111,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 05:37"
   }
- ],
- "variants": [],
- "also_in": []
 }
