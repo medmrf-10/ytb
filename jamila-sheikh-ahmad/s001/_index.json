@@ -1,6 +1,6 @@
 {
-  "aligned": 26,
-  "aligned_ratio": 0.963,
+  "aligned": 27,
+  "aligned_ratio": 1.0,
   "category": "التزكية والأخلاق",
   "coverage": 1.0,
   "declared_total": 27,
@@ -282,10 +282,10 @@
       "vid": "J-lZjbqi-Bk"
     },
     {
-      "align_coverage": null,
-      "aligned": false,
+      "align_coverage": 100.0,
+      "aligned": true,
       "chars": 30697,
-      "dur": 2756,
+      "dur": 2757,
       "file": "026_Z2ilsQ3ZmPQ.txt",
       "n": 26,
       "stem": "026_Z2ilsQ3ZmPQ",
