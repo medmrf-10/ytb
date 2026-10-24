@@ -1,7 +1,7 @@
 {
   "sheikhs": [
     {
-      "aligned": 1049,
+      "aligned": 1058,
       "chars": 20560343,
       "lessons": 1165,
       "name": "محمد سعيد رمضان البوطي",
@@ -346,14 +346,14 @@
           "transcribed": 38
         },
         {
-          "aligned": 224,
-          "aligned_pct": "72.3%",
+          "aligned": 233,
+          "aligned_pct": "75.2%",
           "category": "التزكية والتصوف",
           "coverage": 1.0,
           "coverage_pct": "100.0%",
           "declared_total": 310,
           "dir": "s033/",
-          "dur": 811280,
+          "dur": 811272,
           "key": "s033",
           "series_id": "bouti__s033",
           "title": "شرح الحكم العطائية لابن عطاء الله السكندري",
@@ -5828,7 +5828,7 @@
     }
   ],
   "totals": {
-    "aligned": 4111,
+    "aligned": 4120,
     "chars": 157885501,
     "lessons": 6712,
     "series": 393,
