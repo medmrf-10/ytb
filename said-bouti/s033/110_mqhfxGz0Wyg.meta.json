@@ -1,37 +1,53 @@
 {
- "v": 1,
- "lid": "rn:said-bouti--386:219",
- "vid": null,
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 219,
- "n_src": "read",
- "title": "الحكم العطائية للإمام البوطي الدرس 110 - الحكمة 87 - 88",
- "title_src": "filename",
- "sha256": "00a0c9a8bbb86bcbbc7317e31c038b9b40185572e55922b5a3cf56d7cd326e07",
- "nh": "23a4a8399acae9f7b5bf4139bcf9605af7719892afd6e2e18696efbdb91b05c5",
- "chars": 13429,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/386/219_الحكم العطائية للإمام البوطي  الدرس 110  - الحكمة 87 - 88.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/386/219_الحكم العطائية للإمام البوطي  الدرس 110  - الحكمة 87 - 88.txt",
-   "sha256": "00a0c9a8bbb86bcbbc7317e31c038b9b40185572e55922b5a3cf56d7cd326e07",
-   "rel": "identical"
+  "v": 1,
+  "lid": "rn:said-bouti--386:219",
+  "vid": null,
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 219,
+  "n_src": "read",
+  "title": "الحكم العطائية للإمام البوطي الدرس 110 - الحكمة 87 - 88",
+  "title_src": "filename",
+  "sha256": "00a0c9a8bbb86bcbbc7317e31c038b9b40185572e55922b5a3cf56d7cd326e07",
+  "nh": "23a4a8399acae9f7b5bf4139bcf9605af7719892afd6e2e18696efbdb91b05c5",
+  "chars": 13429,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/386/219_الحكم العطائية للإمام البوطي  الدرس 110  - الحكمة 87 - 88.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/219_الحكم العطائية للإمام البوطي  الدرس 110  - الحكمة 87 - 88.txt",
-   "sha256": "00a0c9a8bbb86bcbbc7317e31c038b9b40185572e55922b5a3cf56d7cd326e07",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/386/219_الحكم العطائية للإمام البوطي  الدرس 110  - الحكمة 87 - 88.txt",
+      "sha256": "00a0c9a8bbb86bcbbc7317e31c038b9b40185572e55922b5a3cf56d7cd326e07",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/219_الحكم العطائية للإمام البوطي  الدرس 110  - الحكمة 87 - 88.txt",
+      "sha256": "00a0c9a8bbb86bcbbc7317e31c038b9b40185572e55922b5a3cf56d7cd326e07",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9941,
+    "spoken_align_pct": 99.41,
+    "audio_span_pct": 71.48,
+    "words": 2569,
+    "aligned": 2543,
+    "interpolated": 15,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 02:34",
+    "stripped_reasons": [
+      "CHUNK_BOUNDARY_OVERLAP"
+    ]
   }
- ],
- "variants": [],
- "also_in": []
 }
