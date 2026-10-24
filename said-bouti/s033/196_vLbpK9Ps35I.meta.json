@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:vLbpK9Ps35I",
- "vid": "vLbpK9Ps35I",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 143,
- "n_src": "read",
- "title": "الحكم العطائية للعلامة البوطي الدرس 195 - الحكمة 172",
- "title_src": "filename",
- "sha256": "3f7a9e1e419acaefbdd426b14618fc13d0d1fecc527884c52af6d125f7d91207",
- "nh": "1438ba9c6c3449964005868c509651b7eba11e2a7df598988907f2b60a157963",
- "chars": 19512,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/386/143_الحكم العطائية للعلامة البوطي  الدرس 195 - الحكمة 172.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/386/143_الحكم العطائية للعلامة البوطي  الدرس 195 - الحكمة 172.txt",
-   "sha256": "3f7a9e1e419acaefbdd426b14618fc13d0d1fecc527884c52af6d125f7d91207",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:vLbpK9Ps35I",
+  "vid": "vLbpK9Ps35I",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 143,
+  "n_src": "read",
+  "title": "الحكم العطائية للعلامة البوطي الدرس 195 - الحكمة 172",
+  "title_src": "filename",
+  "sha256": "3f7a9e1e419acaefbdd426b14618fc13d0d1fecc527884c52af6d125f7d91207",
+  "nh": "1438ba9c6c3449964005868c509651b7eba11e2a7df598988907f2b60a157963",
+  "chars": 19512,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/386/143_الحكم العطائية للعلامة البوطي  الدرس 195 - الحكمة 172.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/143_الحكم العطائية للعلامة البوطي  الدرس 195 - الحكمة 172.txt",
-   "sha256": "3f7a9e1e419acaefbdd426b14618fc13d0d1fecc527884c52af6d125f7d91207",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/386/143_الحكم العطائية للعلامة البوطي  الدرس 195 - الحكمة 172.txt",
+      "sha256": "3f7a9e1e419acaefbdd426b14618fc13d0d1fecc527884c52af6d125f7d91207",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/143_الحكم العطائية للعلامة البوطي  الدرس 195 - الحكمة 172.txt",
+      "sha256": "3f7a9e1e419acaefbdd426b14618fc13d0d1fecc527884c52af6d125f7d91207",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9962,
+    "spoken_align_pct": 99.62,
+    "audio_span_pct": 99.98,
+    "words": 3687,
+    "aligned": 3673,
+    "interpolated": 14,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 03:56"
   }
- ],
- "variants": [],
- "also_in": []
 }
