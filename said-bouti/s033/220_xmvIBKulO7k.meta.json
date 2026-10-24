@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:xmvIBKulO7k",
- "vid": "xmvIBKulO7k",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 66,
- "n_src": "read",
- "title": "الحكم العطائية للعلامة البوطي ｜ الدرس 219 - الحكمة 196",
- "title_src": "filename",
- "sha256": "6ac31baaae78542db617c1b79f4fb53fd1bfecc598cd2f7126e3f40841383f2d",
- "nh": "dcf99530d4eaca3bf424f84f98b69e96f31dbb7539450762b28779e0e219999d",
- "chars": 19391,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/386/066_الحكم العطائية للعلامة البوطي ｜ الدرس 219 - الحكمة 196.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/386/066_الحكم العطائية للعلامة البوطي ｜ الدرس 219 - الحكمة 196.txt",
-   "sha256": "6ac31baaae78542db617c1b79f4fb53fd1bfecc598cd2f7126e3f40841383f2d",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:xmvIBKulO7k",
+  "vid": "xmvIBKulO7k",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 66,
+  "n_src": "read",
+  "title": "الحكم العطائية للعلامة البوطي ｜ الدرس 219 - الحكمة 196",
+  "title_src": "filename",
+  "sha256": "6ac31baaae78542db617c1b79f4fb53fd1bfecc598cd2f7126e3f40841383f2d",
+  "nh": "dcf99530d4eaca3bf424f84f98b69e96f31dbb7539450762b28779e0e219999d",
+  "chars": 19391,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/386/066_الحكم العطائية للعلامة البوطي ｜ الدرس 219 - الحكمة 196.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/hikam/066_الحكم العطائية للعلامة البوطي ｜ الدرس 219 - الحكمة 196.txt",
-   "sha256": "6ac31baaae78542db617c1b79f4fb53fd1bfecc598cd2f7126e3f40841383f2d",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/066_الحكم العطائية للعلامة البوطي ｜ الدرس 219 - الحكمة 196.txt",
-   "sha256": "6ac31baaae78542db617c1b79f4fb53fd1bfecc598cd2f7126e3f40841383f2d",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/386/216.txt",
-   "sha256": "6ac31baaae78542db617c1b79f4fb53fd1bfecc598cd2f7126e3f40841383f2d",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/386/066_الحكم العطائية للعلامة البوطي ｜ الدرس 219 - الحكمة 196.txt",
+      "sha256": "6ac31baaae78542db617c1b79f4fb53fd1bfecc598cd2f7126e3f40841383f2d",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/hikam/066_الحكم العطائية للعلامة البوطي ｜ الدرس 219 - الحكمة 196.txt",
+      "sha256": "6ac31baaae78542db617c1b79f4fb53fd1bfecc598cd2f7126e3f40841383f2d",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/066_الحكم العطائية للعلامة البوطي ｜ الدرس 219 - الحكمة 196.txt",
+      "sha256": "6ac31baaae78542db617c1b79f4fb53fd1bfecc598cd2f7126e3f40841383f2d",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/386/216.txt",
+      "sha256": "6ac31baaae78542db617c1b79f4fb53fd1bfecc598cd2f7126e3f40841383f2d",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 1.0,
+    "spoken_align_pct": 100.0,
+    "audio_span_pct": 100.0,
+    "words": 3608,
+    "aligned": 3608,
+    "interpolated": 0,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 04:18"
   }
- ],
- "variants": [],
- "also_in": []
 }
