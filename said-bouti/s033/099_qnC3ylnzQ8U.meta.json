@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:qnC3ylnzQ8U",
- "vid": "qnC3ylnzQ8U",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 208,
- "n_src": "read",
- "title": "الحكم العطائية للإمام البوطي الدرس 99 - الحكمة 75 - 76",
- "title_src": "filename",
- "sha256": "3ec168713a10bf0d5bd0226aebe2f97658a726ef95e28ad09794d562806a36b5",
- "nh": "4d0f1e9879c5d94b3c26767141d50f644ecd4feb503b0ed5d6289164768e6718",
- "chars": 19702,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/386/208_الحكم العطائية للإمام البوطي  الدرس 99  - الحكمة 75 - 76.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/386/208_الحكم العطائية للإمام البوطي  الدرس 99  - الحكمة 75 - 76.txt",
-   "sha256": "3ec168713a10bf0d5bd0226aebe2f97658a726ef95e28ad09794d562806a36b5",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:qnC3ylnzQ8U",
+  "vid": "qnC3ylnzQ8U",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 208,
+  "n_src": "read",
+  "title": "الحكم العطائية للإمام البوطي الدرس 99 - الحكمة 75 - 76",
+  "title_src": "filename",
+  "sha256": "3ec168713a10bf0d5bd0226aebe2f97658a726ef95e28ad09794d562806a36b5",
+  "nh": "4d0f1e9879c5d94b3c26767141d50f644ecd4feb503b0ed5d6289164768e6718",
+  "chars": 19702,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/386/208_الحكم العطائية للإمام البوطي  الدرس 99  - الحكمة 75 - 76.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/hikam/208_الحكم العطائية للإمام البوطي  الدرس 99  - الحكمة 75 - 76.txt",
-   "sha256": "3ec168713a10bf0d5bd0226aebe2f97658a726ef95e28ad09794d562806a36b5",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/208_الحكم العطائية للإمام البوطي  الدرس 99  - الحكمة 75 - 76.txt",
-   "sha256": "3ec168713a10bf0d5bd0226aebe2f97658a726ef95e28ad09794d562806a36b5",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/386/208_الحكم العطائية للإمام البوطي  الدرس 99  - الحكمة 75 - 76.txt",
+      "sha256": "3ec168713a10bf0d5bd0226aebe2f97658a726ef95e28ad09794d562806a36b5",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/hikam/208_الحكم العطائية للإمام البوطي  الدرس 99  - الحكمة 75 - 76.txt",
+      "sha256": "3ec168713a10bf0d5bd0226aebe2f97658a726ef95e28ad09794d562806a36b5",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/208_الحكم العطائية للإمام البوطي  الدرس 99  - الحكمة 75 - 76.txt",
+      "sha256": "3ec168713a10bf0d5bd0226aebe2f97658a726ef95e28ad09794d562806a36b5",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9992,
+    "spoken_align_pct": 99.92,
+    "audio_span_pct": 99.82,
+    "words": 3704,
+    "aligned": 3701,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 02:24"
   }
- ],
- "variants": [],
- "also_in": []
 }
