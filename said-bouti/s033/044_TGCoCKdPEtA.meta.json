@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:TGCoCKdPEtA",
- "vid": "TGCoCKdPEtA",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 44,
- "n_src": "read",
- "title": "الحكم العطائية للإمام البوطي ｜ الدرس 44 - الحكمتان 26 - 27",
- "title_src": "filename",
- "sha256": "eaa1ff5bec5aa879c1b43fb469fd125bd45292f2dd1012fd50fac96b1f0ef0d9",
- "nh": "3dcc2d264ec4c852df04df435a4c3744aa346c4f9c1bb470cb494203ba0b2ed9",
- "chars": 20385,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/386/044_الحكم العطائية للإمام البوطي ｜ الدرس 44  - الحكمتان 26 - 27.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/386/044_الحكم العطائية للإمام البوطي ｜ الدرس 44  - الحكمتان 26 - 27.txt",
-   "sha256": "eaa1ff5bec5aa879c1b43fb469fd125bd45292f2dd1012fd50fac96b1f0ef0d9",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:TGCoCKdPEtA",
+  "vid": "TGCoCKdPEtA",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 44,
+  "n_src": "read",
+  "title": "الحكم العطائية للإمام البوطي ｜ الدرس 44 - الحكمتان 26 - 27",
+  "title_src": "filename",
+  "sha256": "eaa1ff5bec5aa879c1b43fb469fd125bd45292f2dd1012fd50fac96b1f0ef0d9",
+  "nh": "3dcc2d264ec4c852df04df435a4c3744aa346c4f9c1bb470cb494203ba0b2ed9",
+  "chars": 20385,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/386/044_الحكم العطائية للإمام البوطي ｜ الدرس 44  - الحكمتان 26 - 27.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/hikam/044_الحكم العطائية للإمام البوطي ｜ الدرس 44  - الحكمتان 26 - 27.txt",
-   "sha256": "eaa1ff5bec5aa879c1b43fb469fd125bd45292f2dd1012fd50fac96b1f0ef0d9",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/044_الحكم العطائية للإمام البوطي ｜ الدرس 44  - الحكمتان 26 - 27.txt",
-   "sha256": "eaa1ff5bec5aa879c1b43fb469fd125bd45292f2dd1012fd50fac96b1f0ef0d9",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/386/43.txt",
-   "sha256": "eaa1ff5bec5aa879c1b43fb469fd125bd45292f2dd1012fd50fac96b1f0ef0d9",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/386/044_الحكم العطائية للإمام البوطي ｜ الدرس 44  - الحكمتان 26 - 27.txt",
+      "sha256": "eaa1ff5bec5aa879c1b43fb469fd125bd45292f2dd1012fd50fac96b1f0ef0d9",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/hikam/044_الحكم العطائية للإمام البوطي ｜ الدرس 44  - الحكمتان 26 - 27.txt",
+      "sha256": "eaa1ff5bec5aa879c1b43fb469fd125bd45292f2dd1012fd50fac96b1f0ef0d9",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/044_الحكم العطائية للإمام البوطي ｜ الدرس 44  - الحكمتان 26 - 27.txt",
+      "sha256": "eaa1ff5bec5aa879c1b43fb469fd125bd45292f2dd1012fd50fac96b1f0ef0d9",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/386/43.txt",
+      "sha256": "eaa1ff5bec5aa879c1b43fb469fd125bd45292f2dd1012fd50fac96b1f0ef0d9",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9942,
+    "spoken_align_pct": 99.42,
+    "audio_span_pct": 99.55,
+    "words": 3761,
+    "aligned": 3739,
+    "interpolated": 22,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 01:34"
   }
- ],
- "variants": [],
- "also_in": []
 }

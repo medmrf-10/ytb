@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:lma4souzIRw",
- "vid": "lma4souzIRw",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 160,
- "n_src": "read",
- "title": "الحكم العطائية للإمام البوطي الدرس 51 - الحكمة 34",
- "title_src": "filename",
- "sha256": "785e09454fb8b2dae21a73f4d605aa6e7006a34032679fa0a6b170e901a022d5",
- "nh": "8746b524ec2f42cdc22ac0b45bb11087afc157d8c2092bed0d9c9c3c8e909503",
- "chars": 19702,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/386/160_الحكم العطائية للإمام البوطي  الدرس 51  - الحكمة 34.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/386/160_الحكم العطائية للإمام البوطي  الدرس 51  - الحكمة 34.txt",
-   "sha256": "785e09454fb8b2dae21a73f4d605aa6e7006a34032679fa0a6b170e901a022d5",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:lma4souzIRw",
+  "vid": "lma4souzIRw",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 160,
+  "n_src": "read",
+  "title": "الحكم العطائية للإمام البوطي الدرس 51 - الحكمة 34",
+  "title_src": "filename",
+  "sha256": "785e09454fb8b2dae21a73f4d605aa6e7006a34032679fa0a6b170e901a022d5",
+  "nh": "8746b524ec2f42cdc22ac0b45bb11087afc157d8c2092bed0d9c9c3c8e909503",
+  "chars": 19702,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/386/160_الحكم العطائية للإمام البوطي  الدرس 51  - الحكمة 34.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/160_الحكم العطائية للإمام البوطي  الدرس 51  - الحكمة 34.txt",
-   "sha256": "785e09454fb8b2dae21a73f4d605aa6e7006a34032679fa0a6b170e901a022d5",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/386/160_الحكم العطائية للإمام البوطي  الدرس 51  - الحكمة 34.txt",
+      "sha256": "785e09454fb8b2dae21a73f4d605aa6e7006a34032679fa0a6b170e901a022d5",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/160_الحكم العطائية للإمام البوطي  الدرس 51  - الحكمة 34.txt",
+      "sha256": "785e09454fb8b2dae21a73f4d605aa6e7006a34032679fa0a6b170e901a022d5",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9897,
+    "spoken_align_pct": 98.97,
+    "audio_span_pct": 99.8,
+    "words": 3603,
+    "aligned": 3562,
+    "interpolated": 37,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 01:38"
   }
- ],
- "variants": [],
- "also_in": []
 }

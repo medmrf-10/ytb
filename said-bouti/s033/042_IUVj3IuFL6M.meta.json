@@ -1,43 +1,56 @@
 {
- "v": 1,
- "lid": "yt:IUVj3IuFL6M",
- "vid": "IUVj3IuFL6M",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 42,
- "n_src": "read",
- "title": "الحكم العطائية للإمام البوطي ｜ الدرس 42 - الحكمة 25",
- "title_src": "filename",
- "sha256": "3d1500cfec38fe9c5349731719f6c223d814aef80247cd35bd6570ba5cd7ce88",
- "nh": "08260fe25deee0121034cfb3b9ca487d594bd38ebb7cd18a581cdcd0d56ec8e9",
- "chars": 21574,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/386/042_الحكم العطائية للإمام البوطي ｜ الدرس 42  - الحكمة 25.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/386/042_الحكم العطائية للإمام البوطي ｜ الدرس 42  - الحكمة 25.txt",
-   "sha256": "3d1500cfec38fe9c5349731719f6c223d814aef80247cd35bd6570ba5cd7ce88",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:IUVj3IuFL6M",
+  "vid": "IUVj3IuFL6M",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 42,
+  "n_src": "read",
+  "title": "الحكم العطائية للإمام البوطي ｜ الدرس 42 - الحكمة 25",
+  "title_src": "filename",
+  "sha256": "3d1500cfec38fe9c5349731719f6c223d814aef80247cd35bd6570ba5cd7ce88",
+  "nh": "08260fe25deee0121034cfb3b9ca487d594bd38ebb7cd18a581cdcd0d56ec8e9",
+  "chars": 21574,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/386/042_الحكم العطائية للإمام البوطي ｜ الدرس 42  - الحكمة 25.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/hikam/042_الحكم العطائية للإمام البوطي ｜ الدرس 42  - الحكمة 25.txt",
-   "sha256": "3d1500cfec38fe9c5349731719f6c223d814aef80247cd35bd6570ba5cd7ce88",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/042_الحكم العطائية للإمام البوطي ｜ الدرس 42  - الحكمة 25.txt",
-   "sha256": "3d1500cfec38fe9c5349731719f6c223d814aef80247cd35bd6570ba5cd7ce88",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/386/042_الحكم العطائية للإمام البوطي ｜ الدرس 42  - الحكمة 25.txt",
+      "sha256": "3d1500cfec38fe9c5349731719f6c223d814aef80247cd35bd6570ba5cd7ce88",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/hikam/042_الحكم العطائية للإمام البوطي ｜ الدرس 42  - الحكمة 25.txt",
+      "sha256": "3d1500cfec38fe9c5349731719f6c223d814aef80247cd35bd6570ba5cd7ce88",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/042_الحكم العطائية للإمام البوطي ｜ الدرس 42  - الحكمة 25.txt",
+      "sha256": "3d1500cfec38fe9c5349731719f6c223d814aef80247cd35bd6570ba5cd7ce88",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9892,
+    "spoken_align_pct": 98.92,
+    "audio_span_pct": 93.55,
+    "words": 3983,
+    "aligned": 3935,
+    "interpolated": 43,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 01:32"
   }
- ],
- "variants": [],
- "also_in": []
 }
