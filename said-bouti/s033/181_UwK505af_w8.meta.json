@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:UwK505af_w8",
- "vid": "UwK505af_w8",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 51,
- "n_src": "read",
- "title": "الحكم العطائية للإمام البوطي ｜ الدرس 181 - الحكمة 155",
- "title_src": "filename",
- "sha256": "d5536284b90265197ecf7ec3f4fec5d0e4ff6655db8559669c37e5a66b28d528",
- "nh": "ddc3b71c4e5e3de70e5c194fa1236bd4f5ed07eb0671ea294d7fe0afad892b4a",
- "chars": 17721,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/386/051_الحكم العطائية للإمام البوطي ｜ الدرس 181 - الحكمة 155.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/386/051_الحكم العطائية للإمام البوطي ｜ الدرس 181 - الحكمة 155.txt",
-   "sha256": "d5536284b90265197ecf7ec3f4fec5d0e4ff6655db8559669c37e5a66b28d528",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:UwK505af_w8",
+  "vid": "UwK505af_w8",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 51,
+  "n_src": "read",
+  "title": "الحكم العطائية للإمام البوطي ｜ الدرس 181 - الحكمة 155",
+  "title_src": "filename",
+  "sha256": "d5536284b90265197ecf7ec3f4fec5d0e4ff6655db8559669c37e5a66b28d528",
+  "nh": "ddc3b71c4e5e3de70e5c194fa1236bd4f5ed07eb0671ea294d7fe0afad892b4a",
+  "chars": 17721,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/386/051_الحكم العطائية للإمام البوطي ｜ الدرس 181 - الحكمة 155.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/hikam/051_الحكم العطائية للإمام البوطي ｜ الدرس 181 - الحكمة 155.txt",
-   "sha256": "d5536284b90265197ecf7ec3f4fec5d0e4ff6655db8559669c37e5a66b28d528",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/051_الحكم العطائية للإمام البوطي ｜ الدرس 181 - الحكمة 155.txt",
-   "sha256": "d5536284b90265197ecf7ec3f4fec5d0e4ff6655db8559669c37e5a66b28d528",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/386/178.txt",
-   "sha256": "d5536284b90265197ecf7ec3f4fec5d0e4ff6655db8559669c37e5a66b28d528",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/386/051_الحكم العطائية للإمام البوطي ｜ الدرس 181 - الحكمة 155.txt",
+      "sha256": "d5536284b90265197ecf7ec3f4fec5d0e4ff6655db8559669c37e5a66b28d528",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/hikam/051_الحكم العطائية للإمام البوطي ｜ الدرس 181 - الحكمة 155.txt",
+      "sha256": "d5536284b90265197ecf7ec3f4fec5d0e4ff6655db8559669c37e5a66b28d528",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/051_الحكم العطائية للإمام البوطي ｜ الدرس 181 - الحكمة 155.txt",
+      "sha256": "d5536284b90265197ecf7ec3f4fec5d0e4ff6655db8559669c37e5a66b28d528",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/386/178.txt",
+      "sha256": "d5536284b90265197ecf7ec3f4fec5d0e4ff6655db8559669c37e5a66b28d528",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9991,
+    "spoken_align_pct": 99.91,
+    "audio_span_pct": 100.0,
+    "words": 3384,
+    "aligned": 3381,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 03:41"
   }
- ],
- "variants": [],
- "also_in": []
 }
