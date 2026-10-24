@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:iuLbkbTgsOc",
- "vid": "iuLbkbTgsOc",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 149,
- "n_src": "read",
- "title": "الحكم العطائية للعلامة البوطي الدرس 282 - الحكمة 255",
- "title_src": "filename",
- "sha256": "cba2eb5540cd1c82687a734fdcf186f87b90280a407528b2961987dcdeb41d7c",
- "nh": "087a7ffadd7515f691893e8e21ae5027df8ea8cdf6c2107bfad9796d9c0f649c",
- "chars": 19261,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/386/149_الحكم العطائية للعلامة البوطي  الدرس 282 - الحكمة 255.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/386/149_الحكم العطائية للعلامة البوطي  الدرس 282 - الحكمة 255.txt",
-   "sha256": "cba2eb5540cd1c82687a734fdcf186f87b90280a407528b2961987dcdeb41d7c",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:iuLbkbTgsOc",
+  "vid": "iuLbkbTgsOc",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 149,
+  "n_src": "read",
+  "title": "الحكم العطائية للعلامة البوطي الدرس 282 - الحكمة 255",
+  "title_src": "filename",
+  "sha256": "cba2eb5540cd1c82687a734fdcf186f87b90280a407528b2961987dcdeb41d7c",
+  "nh": "087a7ffadd7515f691893e8e21ae5027df8ea8cdf6c2107bfad9796d9c0f649c",
+  "chars": 19261,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/386/149_الحكم العطائية للعلامة البوطي  الدرس 282 - الحكمة 255.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/149_الحكم العطائية للعلامة البوطي  الدرس 282 - الحكمة 255.txt",
-   "sha256": "cba2eb5540cd1c82687a734fdcf186f87b90280a407528b2961987dcdeb41d7c",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/386/149_الحكم العطائية للعلامة البوطي  الدرس 282 - الحكمة 255.txt",
+      "sha256": "cba2eb5540cd1c82687a734fdcf186f87b90280a407528b2961987dcdeb41d7c",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/149_الحكم العطائية للعلامة البوطي  الدرس 282 - الحكمة 255.txt",
+      "sha256": "cba2eb5540cd1c82687a734fdcf186f87b90280a407528b2961987dcdeb41d7c",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9994,
+    "spoken_align_pct": 99.94,
+    "audio_span_pct": 100.0,
+    "words": 3594,
+    "aligned": 3592,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 05:20"
   }
- ],
- "variants": [],
- "also_in": []
 }
