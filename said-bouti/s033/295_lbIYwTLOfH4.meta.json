@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:lbIYwTLOfH4",
- "vid": "lbIYwTLOfH4",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 125,
- "n_src": "read",
- "title": "الحكم العطائية للعلامة البوطي الدرس 293 - الحكمة 260",
- "title_src": "filename",
- "sha256": "4ec0d12b7a71660834c9b704df29850c095a69d428e7666bf1d73fa89e5172d6",
- "nh": "e4798d69a4eebd785b3ca7e59ea97d7d0333260163ad588c67f87a8a35f72562",
- "chars": 22031,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/386/125_الحكم العطائية للعلامة البوطي  الدرس 293 - الحكمة 260.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/386/125_الحكم العطائية للعلامة البوطي  الدرس 293 - الحكمة 260.txt",
-   "sha256": "4ec0d12b7a71660834c9b704df29850c095a69d428e7666bf1d73fa89e5172d6",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:lbIYwTLOfH4",
+  "vid": "lbIYwTLOfH4",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 125,
+  "n_src": "read",
+  "title": "الحكم العطائية للعلامة البوطي الدرس 293 - الحكمة 260",
+  "title_src": "filename",
+  "sha256": "4ec0d12b7a71660834c9b704df29850c095a69d428e7666bf1d73fa89e5172d6",
+  "nh": "e4798d69a4eebd785b3ca7e59ea97d7d0333260163ad588c67f87a8a35f72562",
+  "chars": 22031,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/386/125_الحكم العطائية للعلامة البوطي  الدرس 293 - الحكمة 260.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/125_الحكم العطائية للعلامة البوطي  الدرس 293 - الحكمة 260.txt",
-   "sha256": "4ec0d12b7a71660834c9b704df29850c095a69d428e7666bf1d73fa89e5172d6",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/386/125_الحكم العطائية للعلامة البوطي  الدرس 293 - الحكمة 260.txt",
+      "sha256": "4ec0d12b7a71660834c9b704df29850c095a69d428e7666bf1d73fa89e5172d6",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/125_الحكم العطائية للعلامة البوطي  الدرس 293 - الحكمة 260.txt",
+      "sha256": "4ec0d12b7a71660834c9b704df29850c095a69d428e7666bf1d73fa89e5172d6",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9993,
+    "spoken_align_pct": 99.93,
+    "audio_span_pct": 100.0,
+    "words": 4258,
+    "aligned": 4255,
+    "interpolated": 3,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 05:30"
   }
- ],
- "variants": [],
- "also_in": []
 }

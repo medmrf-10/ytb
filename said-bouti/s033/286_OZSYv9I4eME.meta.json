@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:OZSYv9I4eME",
- "vid": "OZSYv9I4eME",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 159,
- "n_src": "read",
- "title": "الحكم العطائية للعلامة البوطي الدرس 284 - ذكرى الهجرة والرسوم المسيئة",
- "title_src": "filename",
- "sha256": "b38ea9a757da9960a2bb871ec01bfd7c253e6fdce84f62c8bf33ef21c41e30a8",
- "nh": "5bb8a5fbab461c4f723c145997974d431e96fd66521f65e692ebc7f5ba13d2d9",
- "chars": 17788,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/386/159_الحكم العطائية للعلامة البوطي  الدرس 284 - ذكرى الهجرة والرسوم المسيئة.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/386/159_الحكم العطائية للعلامة البوطي  الدرس 284 - ذكرى الهجرة والرسوم المسيئة.txt",
-   "sha256": "b38ea9a757da9960a2bb871ec01bfd7c253e6fdce84f62c8bf33ef21c41e30a8",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:OZSYv9I4eME",
+  "vid": "OZSYv9I4eME",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 159,
+  "n_src": "read",
+  "title": "الحكم العطائية للعلامة البوطي الدرس 284 - ذكرى الهجرة والرسوم المسيئة",
+  "title_src": "filename",
+  "sha256": "b38ea9a757da9960a2bb871ec01bfd7c253e6fdce84f62c8bf33ef21c41e30a8",
+  "nh": "5bb8a5fbab461c4f723c145997974d431e96fd66521f65e692ebc7f5ba13d2d9",
+  "chars": 17788,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/386/159_الحكم العطائية للعلامة البوطي  الدرس 284 - ذكرى الهجرة والرسوم المسيئة.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/159_الحكم العطائية للعلامة البوطي  الدرس 284 - ذكرى الهجرة والرسوم المسيئة.txt",
-   "sha256": "b38ea9a757da9960a2bb871ec01bfd7c253e6fdce84f62c8bf33ef21c41e30a8",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/386/159_الحكم العطائية للعلامة البوطي  الدرس 284 - ذكرى الهجرة والرسوم المسيئة.txt",
+      "sha256": "b38ea9a757da9960a2bb871ec01bfd7c253e6fdce84f62c8bf33ef21c41e30a8",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/159_الحكم العطائية للعلامة البوطي  الدرس 284 - ذكرى الهجرة والرسوم المسيئة.txt",
+      "sha256": "b38ea9a757da9960a2bb871ec01bfd7c253e6fdce84f62c8bf33ef21c41e30a8",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9994,
+    "spoken_align_pct": 99.94,
+    "audio_span_pct": 99.91,
+    "words": 3274,
+    "aligned": 3272,
+    "interpolated": 2,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 05:22"
   }
- ],
- "variants": [],
- "also_in": []
 }
