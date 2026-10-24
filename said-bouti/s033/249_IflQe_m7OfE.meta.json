@@ -1,49 +1,62 @@
 {
- "v": 1,
- "lid": "yt:IflQe_m7OfE",
- "vid": "IflQe_m7OfE",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 94,
- "n_src": "read",
- "title": "الحكم العطائية للعلامة البوطي ｜ الدرس 247 - الحكمة 223",
- "title_src": "filename",
- "sha256": "c94a03ec16a2de99e2ef95d94ed2d433de9268dc652602dab47bb53d5d84d339",
- "nh": "220c1a77dac757a09a3a9cf5b8c0113faa622f91df166cba0693217e201ba33f",
- "chars": 19926,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/386/094_الحكم العطائية للعلامة البوطي ｜ الدرس 247 - الحكمة 223.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/386/094_الحكم العطائية للعلامة البوطي ｜ الدرس 247 - الحكمة 223.txt",
-   "sha256": "c94a03ec16a2de99e2ef95d94ed2d433de9268dc652602dab47bb53d5d84d339",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:IflQe_m7OfE",
+  "vid": "IflQe_m7OfE",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 94,
+  "n_src": "read",
+  "title": "الحكم العطائية للعلامة البوطي ｜ الدرس 247 - الحكمة 223",
+  "title_src": "filename",
+  "sha256": "c94a03ec16a2de99e2ef95d94ed2d433de9268dc652602dab47bb53d5d84d339",
+  "nh": "220c1a77dac757a09a3a9cf5b8c0113faa622f91df166cba0693217e201ba33f",
+  "chars": 19926,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/386/094_الحكم العطائية للعلامة البوطي ｜ الدرس 247 - الحكمة 223.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/hikam/094_الحكم العطائية للعلامة البوطي ｜ الدرس 247 - الحكمة 223.txt",
-   "sha256": "c94a03ec16a2de99e2ef95d94ed2d433de9268dc652602dab47bb53d5d84d339",
-   "rel": "identical"
-  },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/094_الحكم العطائية للعلامة البوطي ｜ الدرس 247 - الحكمة 223.txt",
-   "sha256": "c94a03ec16a2de99e2ef95d94ed2d433de9268dc652602dab47bb53d5d84d339",
-   "rel": "identical"
-  },
-  {
-   "store": "des-dur",
-   "path": "des/durus/transcripts/386/244.txt",
-   "sha256": "c94a03ec16a2de99e2ef95d94ed2d433de9268dc652602dab47bb53d5d84d339",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/386/094_الحكم العطائية للعلامة البوطي ｜ الدرس 247 - الحكمة 223.txt",
+      "sha256": "c94a03ec16a2de99e2ef95d94ed2d433de9268dc652602dab47bb53d5d84d339",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/hikam/094_الحكم العطائية للعلامة البوطي ｜ الدرس 247 - الحكمة 223.txt",
+      "sha256": "c94a03ec16a2de99e2ef95d94ed2d433de9268dc652602dab47bb53d5d84d339",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/094_الحكم العطائية للعلامة البوطي ｜ الدرس 247 - الحكمة 223.txt",
+      "sha256": "c94a03ec16a2de99e2ef95d94ed2d433de9268dc652602dab47bb53d5d84d339",
+      "rel": "identical"
+    },
+    {
+      "store": "des-dur",
+      "path": "des/durus/transcripts/386/244.txt",
+      "sha256": "c94a03ec16a2de99e2ef95d94ed2d433de9268dc652602dab47bb53d5d84d339",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9997,
+    "spoken_align_pct": 99.97,
+    "audio_span_pct": 100.0,
+    "words": 3701,
+    "aligned": 3700,
+    "interpolated": 1,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 04:46"
   }
- ],
- "variants": [],
- "also_in": []
 }
