@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:2v_WNmRsnhw",
- "vid": "2v_WNmRsnhw",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 164,
- "n_src": "read",
- "title": "الحكم العطائية للإمام البوطي الدرس 55 - الحكمة 36",
- "title_src": "filename",
- "sha256": "5aadc07263e96b86533ffab401ba4be553cfa0a0b51cc69f32871f868b5beff4",
- "nh": "9ede0c7ed3ae788c682ef81867cc5f7818a951c20251b121a1b2e3dad9298996",
- "chars": 17012,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/386/164_الحكم العطائية للإمام البوطي  الدرس 55  - الحكمة 36.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/386/164_الحكم العطائية للإمام البوطي  الدرس 55  - الحكمة 36.txt",
-   "sha256": "5aadc07263e96b86533ffab401ba4be553cfa0a0b51cc69f32871f868b5beff4",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:2v_WNmRsnhw",
+  "vid": "2v_WNmRsnhw",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 164,
+  "n_src": "read",
+  "title": "الحكم العطائية للإمام البوطي الدرس 55 - الحكمة 36",
+  "title_src": "filename",
+  "sha256": "5aadc07263e96b86533ffab401ba4be553cfa0a0b51cc69f32871f868b5beff4",
+  "nh": "9ede0c7ed3ae788c682ef81867cc5f7818a951c20251b121a1b2e3dad9298996",
+  "chars": 17012,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/386/164_الحكم العطائية للإمام البوطي  الدرس 55  - الحكمة 36.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/164_الحكم العطائية للإمام البوطي  الدرس 55  - الحكمة 36.txt",
-   "sha256": "5aadc07263e96b86533ffab401ba4be553cfa0a0b51cc69f32871f868b5beff4",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/386/164_الحكم العطائية للإمام البوطي  الدرس 55  - الحكمة 36.txt",
+      "sha256": "5aadc07263e96b86533ffab401ba4be553cfa0a0b51cc69f32871f868b5beff4",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/164_الحكم العطائية للإمام البوطي  الدرس 55  - الحكمة 36.txt",
+      "sha256": "5aadc07263e96b86533ffab401ba4be553cfa0a0b51cc69f32871f868b5beff4",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9944,
+    "spoken_align_pct": 99.44,
+    "audio_span_pct": 99.45,
+    "words": 3224,
+    "aligned": 3206,
+    "interpolated": 18,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 01:41"
   }
- ],
- "variants": [],
- "also_in": []
 }

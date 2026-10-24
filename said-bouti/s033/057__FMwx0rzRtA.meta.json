@@ -1,37 +1,50 @@
 {
- "v": 1,
- "lid": "yt:_FMwx0rzRtA",
- "vid": "_FMwx0rzRtA",
- "sheikh": "said-bouti",
- "row_id": "said-bouti--386",
- "n": 166,
- "n_src": "read",
- "title": "الحكم العطائية للإمام البوطي الدرس 57 - الحكمة 38",
- "title_src": "filename",
- "sha256": "190cbd2f5dff407a0fbb04501f08a4650d1445ed28a48787046911544e58e5b8",
- "nh": "be07dc3307d75680957a46bf12d99214ca0f032059bafa5323dd1eb883bc155e",
- "chars": 20259,
- "quality": "ok",
- "winner": {
-  "store": "des-mut",
-  "path": "des/mutalaa/data/txt/386/166_الحكم العطائية للإمام البوطي  الدرس 57  - الحكمة 38.txt",
-  "commit_ts": 1791881885,
-  "head": "d659a83"
- },
- "sources": [
-  {
-   "store": "des-mut",
-   "path": "des/mutalaa/data/txt/386/166_الحكم العطائية للإمام البوطي  الدرس 57  - الحكمة 38.txt",
-   "sha256": "190cbd2f5dff407a0fbb04501f08a4650d1445ed28a48787046911544e58e5b8",
-   "rel": "identical"
+  "v": 1,
+  "lid": "yt:_FMwx0rzRtA",
+  "vid": "_FMwx0rzRtA",
+  "sheikh": "said-bouti",
+  "row_id": "said-bouti--386",
+  "n": 166,
+  "n_src": "read",
+  "title": "الحكم العطائية للإمام البوطي الدرس 57 - الحكمة 38",
+  "title_src": "filename",
+  "sha256": "190cbd2f5dff407a0fbb04501f08a4650d1445ed28a48787046911544e58e5b8",
+  "nh": "be07dc3307d75680957a46bf12d99214ca0f032059bafa5323dd1eb883bc155e",
+  "chars": 20259,
+  "quality": "ok",
+  "winner": {
+    "store": "des-mut",
+    "path": "des/mutalaa/data/txt/386/166_الحكم العطائية للإمام البوطي  الدرس 57  - الحكمة 38.txt",
+    "commit_ts": 1791881885,
+    "head": "d659a83"
   },
-  {
-   "store": "hw-tr",
-   "path": "hawshat/transcripts/bouti/mut-386/166_الحكم العطائية للإمام البوطي  الدرس 57  - الحكمة 38.txt",
-   "sha256": "190cbd2f5dff407a0fbb04501f08a4650d1445ed28a48787046911544e58e5b8",
-   "rel": "identical"
+  "sources": [
+    {
+      "store": "des-mut",
+      "path": "des/mutalaa/data/txt/386/166_الحكم العطائية للإمام البوطي  الدرس 57  - الحكمة 38.txt",
+      "sha256": "190cbd2f5dff407a0fbb04501f08a4650d1445ed28a48787046911544e58e5b8",
+      "rel": "identical"
+    },
+    {
+      "store": "hw-tr",
+      "path": "hawshat/transcripts/bouti/mut-386/166_الحكم العطائية للإمام البوطي  الدرس 57  - الحكمة 38.txt",
+      "sha256": "190cbd2f5dff407a0fbb04501f08a4650d1445ed28a48787046911544e58e5b8",
+      "rel": "identical"
+    }
+  ],
+  "variants": [],
+  "also_in": [],
+  "align": {
+    "engine": "ctc-pure-mac-mps",
+    "model": "MahmoudAshraf/mms-300m-1130-forced-aligner",
+    "cov": 0.9954,
+    "spoken_align_pct": 99.54,
+    "audio_span_pct": 99.76,
+    "words": 3916,
+    "aligned": 3898,
+    "interpolated": 18,
+    "retried_without_silence_compact": false,
+    "local_agc_applied": false,
+    "at": "2026-10-24 01:43"
   }
- ],
- "variants": [],
- "also_in": []
 }
