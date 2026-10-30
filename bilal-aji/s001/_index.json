@@ -2,14 +2,37 @@
   "aligned": 0,
   "aligned_ratio": 0.0,
   "category": "الدعوة والخطابة",
-  "coverage": 0.0,
+  "coverage": 0.1818,
   "declared_total": 11,
   "key": "s001",
-  "lessons": [],
+  "lessons": [
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 17486,
+      "dur": 2022,
+      "file": "001_KiBobaK0NCM.txt",
+      "n": 1,
+      "stem": "001_KiBobaK0NCM",
+      "title": "دورة فن الخطابة | المقدمة",
+      "vid": "KiBobaK0NCM"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 20900,
+      "dur": 2371,
+      "file": "002_W-I_oONnV2A.txt",
+      "n": 2,
+      "stem": "002_W-I_oONnV2A",
+      "title": "دورة فن الخطابة (1) | كفايات الخطيب - القسم الأول",
+      "vid": "W-I_oONnV2A"
+    }
+  ],
   "series_id": "bilal-aji__s001",
   "sheikh": "bilal-aji",
   "sheikh_name": "bilal-aji",
   "title": "دورة فن الخطابة",
-  "transcribed": 0,
+  "transcribed": 2,
   "v": 2
 }

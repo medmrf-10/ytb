@@ -8,9 +8,9 @@
 
 - **المشايخ ذوو المحتوى الفعلي:** 28 شيخاً
 - **السلاسل المفرّغة:** 394 سلسلة
-- **الدروس المفرّغة نصياً (`.txt`):** 6,739 درساً
+- **الدروس المفرّغة نصياً (`.txt`):** 6,741 درساً
 - **الدروس المحاذاة صوتياً (`.align.json`):** 4,237 درساً
-- **إجمالي الحجم النصي:** 158,656,171 حرفاً
+- **إجمالي الحجم النصي:** 158,694,557 حرفاً
 
 ---
 
@@ -43,8 +43,8 @@
 | 23 | حاتم العوني | `hatem-alaouni` | 3 | 19 | 0 | [`hatem-alaouni/`](./hatem-alaouni/) |
 | 24 | سعيد الكملي | `said-kamali` | 1 | 11 | 11 | [`said-kamali/`](./said-kamali/) |
 | 25 | بن صايب | `bensaib` | 1 | 8 | 0 | [`bensaib/`](./bensaib/) |
-| 26 | دروس غير منسوبة | `unattributed` | 1 | 1 | 0 | [`unattributed/`](./unattributed/) |
-| 27 | bilal-aji | `bilal-aji` | 1 | 0 | 0 | [`bilal-aji/`](./bilal-aji/) |
+| 26 | bilal-aji | `bilal-aji` | 1 | 2 | 0 | [`bilal-aji/`](./bilal-aji/) |
+| 27 | دروس غير منسوبة | `unattributed` | 1 | 1 | 0 | [`unattributed/`](./unattributed/) |
 | 28 | khutab | `khutab` | 5 | 0 | 0 | [`khutab/`](./khutab/) |
 
 > التفاصيل الكاملة لكل سلسلة داخل كل شيخ موجودة في [`COVERAGE.md`](./COVERAGE.md) وفي [`catalog.json`](./catalog.json).

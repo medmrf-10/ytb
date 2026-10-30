@@ -5720,6 +5720,32 @@
     },
     {
       "aligned": 0,
+      "chars": 38386,
+      "lessons": 2,
+      "name": "bilal-aji",
+      "path": "bilal-aji/",
+      "photo": "",
+      "series": 1,
+      "series_list": [
+        {
+          "aligned": 0,
+          "aligned_pct": "0.0%",
+          "category": "الدعوة والخطابة",
+          "coverage": 0.1818,
+          "coverage_pct": "18.2%",
+          "declared_total": 11,
+          "dir": "s001/",
+          "dur": 4393,
+          "key": "s001",
+          "series_id": "bilal-aji__s001",
+          "title": "دورة فن الخطابة",
+          "transcribed": 2
+        }
+      ],
+      "slug": "bilal-aji"
+    },
+    {
+      "aligned": 0,
       "chars": 10105,
       "lessons": 1,
       "name": "دروس غير منسوبة",
@@ -5743,32 +5769,6 @@
         }
       ],
       "slug": "unattributed"
-    },
-    {
-      "aligned": 0,
-      "chars": 0,
-      "lessons": 0,
-      "name": "bilal-aji",
-      "path": "bilal-aji/",
-      "photo": "",
-      "series": 1,
-      "series_list": [
-        {
-          "aligned": 0,
-          "aligned_pct": "0.0%",
-          "category": "الدعوة والخطابة",
-          "coverage": 0.0,
-          "coverage_pct": "0.0%",
-          "declared_total": 11,
-          "dir": "s001/",
-          "dur": 0,
-          "key": "s001",
-          "series_id": "bilal-aji__s001",
-          "title": "دورة فن الخطابة",
-          "transcribed": 0
-        }
-      ],
-      "slug": "bilal-aji"
     },
     {
       "aligned": 0,
@@ -5855,8 +5855,8 @@
   ],
   "totals": {
     "aligned": 4237,
-    "chars": 158656171,
-    "lessons": 6739,
+    "chars": 158694557,
+    "lessons": 6741,
     "series": 394,
     "sheikhs": 28
   },
