@@ -5748,6 +5748,32 @@
       "aligned": 0,
       "chars": 0,
       "lessons": 0,
+      "name": "bilal-aji",
+      "path": "bilal-aji/",
+      "photo": "",
+      "series": 1,
+      "series_list": [
+        {
+          "aligned": 0,
+          "aligned_pct": "0.0%",
+          "category": "الدعوة والخطابة",
+          "coverage": 0.0,
+          "coverage_pct": "0.0%",
+          "declared_total": 11,
+          "dir": "s001/",
+          "dur": 0,
+          "key": "s001",
+          "series_id": "bilal-aji__s001",
+          "title": "دورة فن الخطابة",
+          "transcribed": 0
+        }
+      ],
+      "slug": "bilal-aji"
+    },
+    {
+      "aligned": 0,
+      "chars": 0,
+      "lessons": 0,
       "name": "khutab",
       "path": "khutab/",
       "photo": "",
@@ -5831,8 +5857,8 @@
     "aligned": 4237,
     "chars": 158656171,
     "lessons": 6739,
-    "series": 393,
-    "sheikhs": 27
+    "series": 394,
+    "sheikhs": 28
   },
   "v": 2
 }
