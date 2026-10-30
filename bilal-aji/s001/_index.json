@@ -2,7 +2,7 @@
   "aligned": 0,
   "aligned_ratio": 0.0,
   "category": "الدعوة والخطابة",
-  "coverage": 0.1818,
+  "coverage": 0.3636,
   "declared_total": 11,
   "key": "s001",
   "lessons": [
@@ -27,12 +27,34 @@
       "stem": "002_W-I_oONnV2A",
       "title": "دورة فن الخطابة (1) | كفايات الخطيب - القسم الأول",
       "vid": "W-I_oONnV2A"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 27335,
+      "dur": 2693,
+      "file": "003_65O-rYb_Lpk.txt",
+      "n": 3,
+      "stem": "003_65O-rYb_Lpk",
+      "title": "دورة فن الخطابة (2) | كفايات الخطيب - القسم الثاني",
+      "vid": "65O-rYb_Lpk"
+    },
+    {
+      "align_coverage": null,
+      "aligned": false,
+      "chars": 16858,
+      "dur": 1914,
+      "file": "004_iz5zJek4tVU.txt",
+      "n": 4,
+      "stem": "004_iz5zJek4tVU",
+      "title": "دورة فن الخطابة (3) | الخطوات الأساسية للخطبة - القسم الأول",
+      "vid": "iz5zJek4tVU"
     }
   ],
   "series_id": "bilal-aji__s001",
   "sheikh": "bilal-aji",
   "sheikh_name": "bilal-aji",
   "title": "دورة فن الخطابة",
-  "transcribed": 2,
+  "transcribed": 4,
   "v": 2
 }
